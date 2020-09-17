@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="3081902781" Unknown="2">
+  <Entries>
+    <Entry Unknown0="2789649764" Unknown1="4240317363">
+      <SDL2 Key="3924891124">
+        <Unknown />
+        <Dialogs />
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3550043535" Unknown1="1353598472">
+      <SDL2 Key="423574366">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>131072</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>今日は▲小早川＊▲の家に
+呼ばれてるんだよな。</Dialog>
+          <Dialog>そういや●、
+▲小早川＊▲になんて
+呼ばれてたっけ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+  </Entries>
+</DBIN2>

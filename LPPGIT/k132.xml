@@ -1,0 +1,5133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="2069003649" Unknown="254">
+  <Entries>
+    <Entry Unknown0="4021938015" Unknown1="887085743">
+      <SDL2 Key="3142132381">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53117</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>さてと、いつでもどうぞ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="734675611" Unknown1="1162024640">
+      <SDL2 Key="3142132381">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53118</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ジャンジャンいっとく？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="976062124" Unknown1="2826839843">
+      <SDL2 Key="3142132381">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53119</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>いっぱい撮る？　ふーん？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2674497295" Unknown1="3884943967">
+      <SDL2 Key="1931191652">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53120</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>こういうの慣れてないからさ……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3682267723" Unknown1="4143171184">
+      <SDL2 Key="1931191652">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53121</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>まったく、しょうがないなぁ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3940365916" Unknown1="1529796563">
+      <SDL2 Key="1931191652">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53122</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>うう……緊張するなぁ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1327056831" Unknown1="2453617167">
+      <SDL2 Key="1931191652">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53123</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>もういいんじゃない？　続きはまた今度。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>いっぱい撮れてよかったよ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2334827259" Unknown1="2745398816">
+      <SDL2 Key="1931191652">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53124</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>はい、今回はここまで。結構いっぱい撮れたでしょ？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん、そうだな。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2592990732" Unknown1="249464707">
+      <SDL2 Key="1931191652">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53125</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>もうそろそろ、いいんじゃない？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだな。いっぱい撮れたし、ここまでにしとくか。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4291426159" Unknown1="1307568831">
+      <SDL2 Key="1931191652">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53126</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>そんなに撮ったんだ？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>夢中になって、撮りすぎたかな。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1004163755" Unknown1="1548953296">
+      <SDL2 Key="1931191652">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53127</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>もっと撮ってもよかったけど。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>また頼むよ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1245550268" Unknown1="2978887475">
+      <SDL2 Key="1931191652">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53128</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>あれ、もう撮り終わっちゃったんだ？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>かなり撮れたから●は満足だよ。ありがとう。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2943985439" Unknown1="4171209327">
+      <SDL2 Key="1931191652">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53129</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>もう十分でしょ？　今日は終わり。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>このくらいにしとくか。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3951690331" Unknown1="151246464">
+      <SDL2 Key="1931191652">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53130</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>そろそろ終わろうよ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>わかった。▲小早川＊▲が疲れたら困るしな。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4209854060" Unknown1="1681844195">
+      <SDL2 Key="1931191652">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53131</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ねえ、そろそろ疲れてきちゃった。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめんごめん。今日はこれくらいにしとく。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1596544975" Unknown1="2874100255">
+      <SDL2 Key="1931191652">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53132</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>いい感じの写真撮れた？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>たぶんね。楽しみにしといてくれよ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2604315147" Unknown1="3132327472">
+      <SDL2 Key="2504711358">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53133</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>あれ、終わり？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、とりあえずここまで。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2862478876" Unknown1="401512339">
+      <SDL2 Key="2504711358">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53134</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>へへ、せっかくノッてきたのに。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そっか、悪い。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="265881471" Unknown1="1191181007">
+      <SDL2 Key="2504711358">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53135</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>リンコ……疲れた。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あ、ごめん。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1273651899" Unknown1="2002990816">
+      <SDL2 Key="2504711358">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53136</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ほら、もう終わり！</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>悪い……疲れたか。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1515038412" Unknown1="3667806019">
+      <SDL2 Key="2504711358">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53137</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>リンコ……もう限界かも。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、ごめん。これで終わりにしとこう。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3213473583" Unknown1="296725119">
+      <SDL2 Key="2504711358">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53138</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>んー、お疲れ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>いつの間にかかなり撮ってたよ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4221178475" Unknown1="1304208">
+      <SDL2 Key="2504711358">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53139</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>いいの撮れたっぽいじゃん。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、これだけの枚数撮ったんだもんな。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="184374908" Unknown1="1833891827">
+      <SDL2 Key="2504711358">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53140</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>結構ドキドキしたかも。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>こっちも熱中しすぎたかな。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1866033119" Unknown1="2891930159">
+      <SDL2 Key="2504711358">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53141</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ちょっと撮りすぎじゃない？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あ、ごめん。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2873803291" Unknown1="3720582720">
+      <SDL2 Key="2504711358">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53142</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>写真ばっか撮ってないでさあ……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん、つい……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3131901484" Unknown1="821995427">
+      <SDL2 Key="2504711358">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53143</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ねえ、写真もいいけどさあ……話も聞いてよ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ついつい、楽しくって。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="535369615" Unknown1="2131692255">
+      <SDL2 Key="2504711358">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53144</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>いい加減、写真は終わり。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>わかった……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1543140043" Unknown1="1853048560">
+      <SDL2 Key="1562140565">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53145</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>あのさ、写真ばっかり撮るのもどうなの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そっか……もう、やめとく。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1784526556" Unknown1="3282982739">
+      <SDL2 Key="1562140565">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53146</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ねえ……写真はこれくらいにしない。他にも楽しいことあるんだし。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだよな……ごめん。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3482961727" Unknown1="180271759">
+      <SDL2 Key="1562140565">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53147</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ちゃんとキレイに撮ってよね？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="195699323" Unknown1="975304352">
+      <SDL2 Key="1562140565">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53148</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>かわいく撮ってよ？　へへ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="437085836" Unknown1="2824668931">
+      <SDL2 Key="1562140565">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53149</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>一番いい角度でよろしく。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2135521263" Unknown1="3849218623">
+      <SDL2 Key="1562140565">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53150</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>モデルに文句はないでしょ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3143291435" Unknown1="4157711952">
+      <SDL2 Key="1562140565">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53151</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>写真の出来、気になるかも。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3401389628" Unknown1="453883827">
+      <SDL2 Key="1562140565">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53152</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ちゃんと写真残しといてよ、これでも楽しみにしてるんだからさ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="804857759" Unknown1="1344150255">
+      <SDL2 Key="1562140565">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53153</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>いつも写真できるの楽しみなんだよね。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1795850971" Unknown1="2692830720">
+      <SDL2 Key="1562140565">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53154</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>どんなふうに仕上がるんだろ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2054014700" Unknown1="3468519267">
+      <SDL2 Key="1562140565">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53155</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>二人の思い出、いっぱい残そうね。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3752449871" Unknown1="63883935">
+      <SDL2 Key="1562140565">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53156</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>この一瞬も、思い出になるんだよね。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="465187467" Unknown1="489752240">
+      <SDL2 Key="1562140565">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53157</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>これからもどんどん写真増やそうね。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="706573980" Unknown1="2976716563">
+      <SDL2 Key="1562140565">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53158</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>この写真も、あっという間に懐かしくなるのかな？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2405009407" Unknown1="4269701711">
+      <SDL2 Key="1562140565">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53159</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ちょっと！　なにしてんの？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3412779579" Unknown1="3470898784">
+      <SDL2 Key="2370602735">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53160</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ダメ！　調子乗んなっ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3670877772" Unknown1="1679673283">
+      <SDL2 Key="2370602735">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53161</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>そんなの撮らせないっつーの。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1057568687" Unknown1="2838375167">
+      <SDL2 Key="2370602735">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53162</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>できるだけキレイに撮ってよ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2065339115" Unknown1="3146868240">
+      <SDL2 Key="2370602735">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53163</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>かわいく撮れた写真じゃないと、見ないから。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2323502844" Unknown1="3620566899">
+      <SDL2 Key="2370602735">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53164</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>上手く撮れてる？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4021938015" Unknown1="81713839">
+      <SDL2 Key="2370602735">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53165</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>期待してるからさ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="734675611" Unknown1="1950422720">
+      <SDL2 Key="2370602735">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53166</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>できた写真見るとき、ワクワクするんだよねぇ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="976062124" Unknown1="2591893283">
+      <SDL2 Key="2370602735">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53167</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>こう見えて、楽しみにしてるんだから。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2674497295" Unknown1="3616442975">
+      <SDL2 Key="2370602735">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53168</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>できた写真をふたりで見るのが楽しいんだよね。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3682267723" Unknown1="3253847664">
+      <SDL2 Key="2370602735">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53169</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>どんな写真になるのかな……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3940365916" Unknown1="1831720915">
+      <SDL2 Key="2370602735">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53170</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ちょっとずつ思い出が増えてくね。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1327056831" Unknown1="2721987087">
+      <SDL2 Key="2370602735">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53171</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>これも全部思い出だからさ、大事にしなくちゃ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2334827259" Unknown1="2460055072">
+      <SDL2 Key="2910563419">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53172</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>どこまで思い出増えるかな？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2592990732" Unknown1="819824515">
+      <SDL2 Key="2910563419">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53173</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>もっといっぱい思い出残したいなぁ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4291426159" Unknown1="2112809663">
+      <SDL2 Key="2910563419">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53174</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>はあ、なに調子に乗ってんだか。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1004163755" Unknown1="1867589328">
+      <SDL2 Key="2910563419">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53175</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>そんなのダメに決まってんじゃん。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1245550268" Unknown1="2207070003">
+      <SDL2 Key="2910563419">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53176</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ダメだってば……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2943985439" Unknown1="3365837423">
+      <SDL2 Key="2910563419">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53177</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>上手く撮れてる？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3951690331" Unknown1="939644544">
+      <SDL2 Key="2910563419">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53178</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>緊張するなぁ……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4209854060" Unknown1="1446897635">
+      <SDL2 Key="2910563419">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53179</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>大丈夫？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1596544975" Unknown1="2605599263">
+      <SDL2 Key="2910563419">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53180</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>えっと……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2604315147" Unknown1="4122052144">
+      <SDL2 Key="2910563419">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53181</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>やっぱ恥ずかしい……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2862478876" Unknown1="1508743059">
+      <SDL2 Key="2910563419">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53182</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>顔が赤い写真ばっかりになりそう……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="265881471" Unknown1="385809103">
+      <SDL2 Key="2910563419">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53183</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>なんか落ち着かないし。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1273651899" Unknown1="643905248">
+      <SDL2 Key="2910563419">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53184</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>こっちばっか見るなっつーの。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1515038412" Unknown1="2359117635">
+      <SDL2 Key="2910563419">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53185</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>どうすればいい？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3213473583" Unknown1="1101965951">
+      <SDL2 Key="1699561250">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53186</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>こんな感じ？　……違う？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4221178475" Unknown1="1393682064">
+      <SDL2 Key="1699561250">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53187</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>難しいこと言われても困るから。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="184374908" Unknown1="1062074355">
+      <SDL2 Key="1699561250">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53188</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>おかしくても、笑わないでよ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1866033119" Unknown1="4234041903">
+      <SDL2 Key="1699561250">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53189</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>……やだ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2873803291" Unknown1="2361497152">
+      <SDL2 Key="1699561250">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53190</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ダメ！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3131901484" Unknown1="1660790691">
+      <SDL2 Key="1699561250">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53191</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>バーカ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="535369615" Unknown1="957221599">
+      <SDL2 Key="1699561250">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53192</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>えっ!?　びっくりした……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1543140043" Unknown1="728844016">
+      <SDL2 Key="1699561250">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53193</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>不意打ちなんてズルイ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1784526556" Unknown1="2276284243">
+      <SDL2 Key="1699561250">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53194</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>わっ……今のナシ！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3482961727" Unknown1="1958656655">
+      <SDL2 Key="1699561250">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53195</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>もうっ、なにすんの？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="195699323" Unknown1="1143076512">
+      <SDL2 Key="1699561250">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53196</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>今、絶対ヘンな顔してたし……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="437085836" Unknown1="3931965187">
+      <SDL2 Key="1699561250">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>かなりいい感じだなぁ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2135521263" Unknown1="2809031231">
+      <SDL2 Key="1699561250">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>今日は調子いいぞ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3143291435" Unknown1="2983306832">
+      <SDL2 Key="1699561250">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>いい写真が撮れそうだ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3401389628" Unknown1="1561180083">
+      <SDL2 Key="1699561250">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>なんか▲小早川＊▲もノッてるな。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="804857759" Unknown1="303962863">
+      <SDL2 Key="1699561250">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>おっ、この角度いいかも。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1795850971" Unknown1="3800126976">
+      <SDL2 Key="2541573772">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>今の表情いいなぁ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2054014700" Unknown1="2159896419">
+      <SDL2 Key="2541573772">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あっ、シャッターチャンス！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3752449871" Unknown1="1305397919">
+      <SDL2 Key="2541573772">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>もっと撮り方を工夫しないとな。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="465187467" Unknown1="1597048496">
+      <SDL2 Key="2541573772">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>気合い入れるか。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="706573980" Unknown1="4084012819">
+      <SDL2 Key="2541573772">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>絶対いい写真撮ってやるぞ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2405009407" Unknown1="3095296591">
+      <SDL2 Key="2541573772">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>もっと自然な表情を引き出したいなぁ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3412779579" Unknown1="2296493664">
+      <SDL2 Key="2541573772">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>お互いカメラに慣れてきたかもな。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3670877772" Unknown1="639485891">
+      <SDL2 Key="2541573772">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>やっぱ、かわいいなぁ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1057568687" Unknown1="3945671423">
+      <SDL2 Key="2541573772">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲小早川＊▲らしさが欲しいな。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2065339115" Unknown1="3851511312">
+      <SDL2 Key="2541573772">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>いつもとギャップがある表情っていいかも。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2323502844" Unknown1="2311944051">
+      <SDL2 Key="2541573772">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>●ものってきたぞ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4021938015" Unknown1="1189010095">
+      <SDL2 Key="2541573772">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>こっちが緊張してどうするんだ……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="734675611" Unknown1="910235328">
+      <SDL2 Key="2541573772">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>上手く撮れるかなぁ……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="976062124" Unknown1="3699189539">
+      <SDL2 Key="2541573772">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲小早川＊▲を困らせないようにしないと……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2674497295" Unknown1="2442037855">
+      <SDL2 Key="2541573772">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>早く上達しないと……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3682267723" Unknown1="2213660272">
+      <SDL2 Key="1330567507">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>こんな感じでいいのかなぁ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3940365916" Unknown1="791533523">
+      <SDL2 Key="1330567507">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>使いこなすの難しいな。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1327056831" Unknown1="3963501071">
+      <SDL2 Key="1330567507">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>モデルはいいんだけど……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2334827259" Unknown1="3701569056">
+      <SDL2 Key="1330567507">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>とにかく、どんどん撮っていこう。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2592990732" Unknown1="3235743619">
+      <SDL2 Key="1330567507">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53197</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>あー、疲れた。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4291426159" Unknown1="2381245119">
+      <SDL2 Key="1330567507">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53198</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>リラックス～。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1004163755" Unknown1="2672895696">
+      <SDL2 Key="1330567507">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53199</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>……ん～しょっ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1245550268" Unknown1="1938634547">
+      <SDL2 Key="1330567507">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53200</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>よしっ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2943985439" Unknown1="949918319">
+      <SDL2 Key="1330567507">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53201</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>へへっ、楽しいね。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3951690331" Unknown1="3355563648">
+      <SDL2 Key="1330567507">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53202</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>フンフ～ン♪</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4209854060" Unknown1="2789074915">
+      <SDL2 Key="1330567507">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53203</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>へへ……なんか笑っちゃう。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1596544975" Unknown1="1800292895">
+      <SDL2 Key="1330567507">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53204</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>変なの♪</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2604315147" Unknown1="1706133040">
+      <SDL2 Key="1330567507">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53205</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>真剣なアンタって……ちょっと面白いかも。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2862478876" Unknown1="3387791251">
+      <SDL2 Key="1330567507">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53206</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ちょっと……照れるね。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="265881471" Unknown1="2264857295">
+      <SDL2 Key="1330567507">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53207</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>恥ずかしいなぁ……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1273651899" Unknown1="3059824352">
+      <SDL2 Key="2139025854">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53208</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>つまんない……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1515038412" Unknown1="480069443">
+      <SDL2 Key="2139025854">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53209</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>めんどくさいなぁ……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3213473583" Unknown1="3517885055">
+      <SDL2 Key="2139025854">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53210</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ちょっと……なに、今の風。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4221178475" Unknown1="3272730256">
+      <SDL2 Key="2139025854">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53211</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>あっ……もう、ありえないっつーの。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="184374908" Unknown1="2941122547">
+      <SDL2 Key="2139025854">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53212</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>なに……もう。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1866033119" Unknown1="1818122799">
+      <SDL2 Key="2139025854">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53213</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>見すぎだっつーの……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2873803291" Unknown1="482448960">
+      <SDL2 Key="2139025854">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53214</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>はい、おしまい！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3131901484" Unknown1="4076709795">
+      <SDL2 Key="2139025854">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53215</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>そんな見なくてもいいじゃん。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="535369615" Unknown1="3205368543">
+      <SDL2 Key="2139025854">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53216</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ちょっと……アンタって。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1543140043" Unknown1="2842773232">
+      <SDL2 Key="2139025854">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53217</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>なにジロジロ見てんの？　バカじゃん……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1784526556" Unknown1="95246163">
+      <SDL2 Key="2139025854">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53218</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>エロじじい……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3482961727" Unknown1="3401497231">
+      <SDL2 Key="2139025854">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53219</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>今度やったらキックじゃ済まないから。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="195699323" Unknown1="4196529824">
+      <SDL2 Key="2139025854">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53220</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>もう……頭の中、そればっかなわけ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="437085836" Unknown1="1750927107">
+      <SDL2 Key="2139025854">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53221</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>まったく……どうせなら堂々と……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2135521263" Unknown1="627993151">
+      <SDL2 Key="2139025854">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53222</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>へへっ、なにしてんの？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3143291435" Unknown1="936486480">
+      <SDL2 Key="2139025854">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53223</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ん？　リンコなんかした？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3401389628" Unknown1="3675109299">
+      <SDL2 Key="2948478745">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53224</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>はあ……なにしてんの？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="804857759" Unknown1="2417892079">
+      <SDL2 Key="2948478745">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53225</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>変な趣味でも……あるわけ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1795850971" Unknown1="1619088896">
+      <SDL2 Key="2948478745">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53226</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>あんまり、いい気しないんだけど……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2054014700" Unknown1="247293795">
+      <SDL2 Key="2948478745">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53227</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ちょっ……近すぎ！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3752449871" Unknown1="3285109407">
+      <SDL2 Key="2948478745">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53228</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>なにが撮りたいわけ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="465187467" Unknown1="3710977712">
+      <SDL2 Key="2948478745">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53229</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ヘンなの撮るなっつーの。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="706573980" Unknown1="1902974739">
+      <SDL2 Key="2948478745">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53230</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>えっ、なになに？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2405009407" Unknown1="1048476239">
+      <SDL2 Key="2948478745">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53231</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>へえ、優しいこと言ってくれるじゃん。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3412779579" Unknown1="249673312">
+      <SDL2 Key="2948478745">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53232</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>あれ、リンコ、固かった？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3670877772" Unknown1="2753415107">
+      <SDL2 Key="2948478745">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53233</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ああ、うん。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1057568687" Unknown1="1764633343">
+      <SDL2 Key="2948478745">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53234</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>はいはい。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2065339115" Unknown1="2073126416">
+      <SDL2 Key="1467984623">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53235</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>やだ……って言ったら？　へへっ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2323502844" Unknown1="399341427">
+      <SDL2 Key="1467984623">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53236</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>えっ!?　なんで驚かすかなぁ……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4021938015" Unknown1="3302939311">
+      <SDL2 Key="1467984623">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53237</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ひゃっ……びっくりさせんなっつーの。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="734675611" Unknown1="3024164544">
+      <SDL2 Key="1467984623">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53238</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>あ……ちょっと、なんで風が吹くわけ？　どっか開いてんの？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="976062124" Unknown1="1518151459">
+      <SDL2 Key="1467984623">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53239</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>今の撮ってたら怒るよ？　絶対あとで確認するから。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2674497295" Unknown1="395217503">
+      <SDL2 Key="1467984623">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53240</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>なに撮ってんの、ダメに決まってんじゃん。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3682267723" Unknown1="32622192">
+      <SDL2 Key="1467984623">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53241</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>そういうの撮るんだったら、もうやめるよ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3940365916" Unknown1="2905462739">
+      <SDL2 Key="1467984623">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53242</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>あっ……バーカ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1327056831" Unknown1="1648245263">
+      <SDL2 Key="1467984623">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53243</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>アンタって……はあ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2334827259" Unknown1="1386313248">
+      <SDL2 Key="1467984623">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53244</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>まったく……どこ撮ってんだか。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2592990732" Unknown1="4041049987">
+      <SDL2 Key="1467984623">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53245</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>そんなに、そういうの……撮りたいわけ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4291426159" Unknown1="3186551487">
+      <SDL2 Key="1467984623">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53246</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>？　今、なに撮ったの？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1004163754" Unknown1="2035361488">
+      <SDL2 Key="1467984623">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53247</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ん？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1245550269" Unknown1="2509059891">
+      <SDL2 Key="1467984623">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53248</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>なに？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2943985438" Unknown1="3667827311">
+      <SDL2 Key="1467984623">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53249</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>へへ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3951690330" Unknown1="704763520">
+      <SDL2 Key="1467984623">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53250</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>へへ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4209854061" Unknown1="1480452067">
+      <SDL2 Key="2311049547">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53251</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>なに？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1596544974" Unknown1="2504935967">
+      <SDL2 Key="2311049547">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53252</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ん……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2604315146" Unknown1="2276558384">
+      <SDL2 Key="2311049547">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53253</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>あのさ……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2862478877" Unknown1="736991123">
+      <SDL2 Key="2311049547">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53254</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>あ……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="265881470" Unknown1="1627323087">
+      <SDL2 Key="2311049547">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53255</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>えっと……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1273651898" Unknown1="1348548320">
+      <SDL2 Key="2311049547">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53256</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>はあ……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1515038413" Unknown1="4271720259">
+      <SDL2 Key="2311049547">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53257</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>なんだかな……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3213473582" Unknown1="867084927">
+      <SDL2 Key="2311049547">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53258</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>うーん……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4221178474" Unknown1="756147856">
+      <SDL2 Key="2311049547">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53259</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>はあっ……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="184374909" Unknown1="1095628787">
+      <SDL2 Key="2311049547">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53260</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>んんっ……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1866033118" Unknown1="2388548143">
+      <SDL2 Key="2311049547">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53261</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>人、見てるし……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2873803290" Unknown1="4274099776">
+      <SDL2 Key="2311049547">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53262</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>人、少ない。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3131901485" Unknown1="352167843">
+      <SDL2 Key="2311049547">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53263</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>う～ん……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="535369614" Unknown1="1494092511">
+      <SDL2 Key="2311049547">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53264</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ん？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1543140042" Unknown1="1265714928">
+      <SDL2 Key="2311049547">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53265</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>はぁ～。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1784526557" Unknown1="3886896979">
+      <SDL2 Key="1098011682">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53266</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>どうしよっかな。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3482961726" Unknown1="1421785743">
+      <SDL2 Key="1098011682">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53267</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>へへ♪</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="195699322" Unknown1="1679947424">
+      <SDL2 Key="1098011682">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53268</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>はあっ……へへ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="437085837" Unknown1="3395094275">
+      <SDL2 Key="1098011682">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53269</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>べーつに？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2135521262" Unknown1="2272160319">
+      <SDL2 Key="1098011682">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53270</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>あ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3143291434" Unknown1="2446435920">
+      <SDL2 Key="1098011682">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53271</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ん～。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3401389629" Unknown1="2098050995">
+      <SDL2 Key="1098011682">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53272</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>そうだな……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="804857758" Unknown1="840833775">
+      <SDL2 Key="1098011682">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53273</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>う～ん。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1795850970" Unknown1="3263256064">
+      <SDL2 Key="1098011682">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53274</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>うん。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2054014701" Unknown1="2696767331">
+      <SDL2 Key="1098011682">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53275</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>風、つよ……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3752449870" Unknown1="1842268831">
+      <SDL2 Key="1098011682">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53276</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>いい天気じゃん。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="465187466" Unknown1="2133919408">
+      <SDL2 Key="1098011682">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53277</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>雨か……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="706573981" Unknown1="3547141907">
+      <SDL2 Key="1098011682">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53278</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>あっ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2405009406" Unknown1="2558425679">
+      <SDL2 Key="1098011682">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53279</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ん？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3412779578" Unknown1="2833364576">
+      <SDL2 Key="1098011682">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53280</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>はあ……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3670877773" Unknown1="102614979">
+      <SDL2 Key="1639090812">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53281</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>やれやれ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1057568686" Unknown1="3408800511">
+      <SDL2 Key="1639090812">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53282</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ふ～ん。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2065339114" Unknown1="3314640400">
+      <SDL2 Key="1639090812">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53283</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>えっ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2323502845" Unknown1="2848814963">
+      <SDL2 Key="1639090812">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53284</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>んー。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4021938014" Unknown1="1725881007">
+      <SDL2 Key="1639090812">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53285</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>えー……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="734675610" Unknown1="373364416">
+      <SDL2 Key="1639090812">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53286</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ちょっと……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="976062125" Unknown1="4236060451">
+      <SDL2 Key="1639090812">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53287</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>……また？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2674497294" Unknown1="2978908767">
+      <SDL2 Key="1639090812">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53288</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ん、なに？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3682267722" Unknown1="2750531184">
+      <SDL2 Key="1639090812">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53289</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>どうかした？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3940365917" Unknown1="254662611">
+      <SDL2 Key="1639090812">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53290</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>え、なに？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1327056830" Unknown1="3426630159">
+      <SDL2 Key="1639090812">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53291</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>あれ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2334827258" Unknown1="4238439968">
+      <SDL2 Key="1639090812">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53292</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ふぅ……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2592990733" Unknown1="1390249859">
+      <SDL2 Key="1639090812">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53293</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>はあ……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4291426158" Unknown1="535751359">
+      <SDL2 Key="1639090812">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53294</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>どう？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1004163754" Unknown1="156313296">
+      <SDL2 Key="1639090812">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53295</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>いい感じじゃない？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1245550269" Unknown1="3851237171">
+      <SDL2 Key="2447487431">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53296</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>あははっ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2943985438" Unknown1="2862520943">
+      <SDL2 Key="2447487431">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53297</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>へへ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3951690330" Unknown1="1510069888">
+      <SDL2 Key="2447487431">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53298</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>へへへ♪</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4209854061" Unknown1="138274787">
+      <SDL2 Key="2447487431">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53299</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ん……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1596544974" Unknown1="3310242335">
+      <SDL2 Key="2447487431">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53300</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>まったく……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2604315146" Unknown1="3618735664">
+      <SDL2 Key="2447487431">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53301</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>また……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2862478877" Unknown1="2079168403">
+      <SDL2 Key="2447487431">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53302</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>べつに……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="265881470" Unknown1="822016719">
+      <SDL2 Key="2447487431">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53303</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>恥ずかしいんだっつーの……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1273651898" Unknown1="6371040">
+      <SDL2 Key="2447487431">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53304</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ん？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1515038413" Unknown1="2929542979">
+      <SDL2 Key="2447487431">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53305</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>なんかした？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3213473582" Unknown1="1672391295">
+      <SDL2 Key="2447487431">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53306</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>えっ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4221178474" Unknown1="2098325136">
+      <SDL2 Key="2447487431">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53307</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>わっ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="184374909" Unknown1="290322419">
+      <SDL2 Key="2447487431">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53308</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>えっ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1866033118" Unknown1="3730725423">
+      <SDL2 Key="2447487431">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53309</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>なに？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2873803290" Unknown1="2931922496">
+      <SDL2 Key="2447487431">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53310</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ん～？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3131901485" Unknown1="1157474211">
+      <SDL2 Key="1504916909">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53311</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>呼んだ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="535369614" Unknown1="151915231">
+      <SDL2 Key="1504916909">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53312</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>はいはい。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1543140042" Unknown1="460408560">
+      <SDL2 Key="1504916909">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53313</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>なに……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1784526557" Unknown1="3081590611">
+      <SDL2 Key="1504916909">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53314</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>うん。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3482961726" Unknown1="1690221199">
+      <SDL2 Key="1504916909">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53315</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>いいよ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="195699322" Unknown1="1411511968">
+      <SDL2 Key="1504916909">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53316</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ほらっ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="437085837" Unknown1="4200400643">
+      <SDL2 Key="1504916909">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53317</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>あ、ちょっと。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2135521262" Unknown1="3077466687">
+      <SDL2 Key="1504916909">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53318</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ダメだって。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3143291434" Unknown1="2714871376">
+      <SDL2 Key="1504916909">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53319</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>あのさ……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3401389629" Unknown1="1292744627">
+      <SDL2 Key="1504916909">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53320</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>はいはい。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="804857758" Unknown1="35527407">
+      <SDL2 Key="1504916909">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53321</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>なに言ってんだっつーの。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1795850970" Unknown1="4068562432">
+      <SDL2 Key="1504916909">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53322</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>……まあね。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2054014701" Unknown1="2428331875">
+      <SDL2 Key="1504916909">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53323</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>はいはい……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3752449870" Unknown1="1573833375">
+      <SDL2 Key="1504916909">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53324</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>なに言って……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="465187466" Unknown1="1328613040">
+      <SDL2 Key="1504916909">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53325</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>うん……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="706573981" Unknown1="3815577363">
+      <SDL2 Key="2078501881">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53326</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>わっ!?</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2405009406" Unknown1="2826861135">
+      <SDL2 Key="2078501881">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53327</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>えっ!?</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3412779578" Unknown1="2564929120">
+      <SDL2 Key="2078501881">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53328</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ちょっ……え？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3670877773" Unknown1="907921347">
+      <SDL2 Key="2078501881">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53329</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>こう？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1057568686" Unknown1="4214106879">
+      <SDL2 Key="2078501881">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53330</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>はいはい。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2065339114" Unknown1="361850384">
+      <SDL2 Key="2078501881">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53331</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>いいけど。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2323502845" Unknown1="2043508595">
+      <SDL2 Key="2078501881">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53332</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>これでいい？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4021938014" Unknown1="3068058287">
+      <SDL2 Key="2078501881">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53333</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>へへっ！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="734675610" Unknown1="3326154432">
+      <SDL2 Key="2078501881">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53334</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>はーいっ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="976062125" Unknown1="746399523">
+      <SDL2 Key="2078501881">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53335</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>チーズ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2674497294" Unknown1="1636731487">
+      <SDL2 Key="2078501881">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53336</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>えっ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3682267722" Unknown1="1945224816">
+      <SDL2 Key="2078501881">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53337</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>無理……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3940365917" Unknown1="3744323539">
+      <SDL2 Key="2078501881">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53338</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>恥ずかしいっつーの……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1327056830" Unknown1="473840143">
+      <SDL2 Key="2078501881">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53339</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ありがと。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2334827258" Unknown1="748779040">
+      <SDL2 Key="866442975">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53340</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>わかった。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2592990733" Unknown1="2195556227">
+      <SDL2 Key="866442975">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53341</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>……って言ってもさ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4291426158" Unknown1="3488541375">
+      <SDL2 Key="866442975">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53342</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ん……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1004163754" Unknown1="3645974224">
+      <SDL2 Key="866442975">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53343</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ほんと？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1245550269" Unknown1="898447155">
+      <SDL2 Key="866442975">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53344</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>これでいいんだ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2943985438" Unknown1="2057214575">
+      <SDL2 Key="866442975">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53345</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>いいのかな……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3951690330" Unknown1="2315376256">
+      <SDL2 Key="866442975">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>53346</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ほんとかな……。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+  </Entries>
+</DBIN2>
