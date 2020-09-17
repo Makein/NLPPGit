@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="1127819844" Unknown="83">
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="2979419337" Unknown="83">
   <Entries>
-    <Entry Unknown0="1837647548" Unknown1="3407478542">
-      <SDL2 Key="529454749">
+    <Entry Unknown0="3708518266" Unknown1="3164613485">
+      <SDL2 Key="703251851">
         <Unknown>
           <Entry>
             <Values>
@@ -47,17 +47,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲。</Dialog>
-          <Dialog>今、誰かとお話してたよね？</Dialog>
-          <Dialog>ん、ああ。友達友達。</Dialog>
-          <Dialog>そっか……行こう？</Dialog>
+          <Dialog>▲高嶺＊＊▲.</Dialog>
+          <Dialog>You were talking to someone 
+right now, weren't you?</Dialog>
+          <Dialog>Well, ah. Just a friend.</Dialog>
+          <Dialog>I see... Shall we go?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3274021658" Unknown1="1766219179">
-      <SDL2 Key="701478442">
+    <Entry Unknown0="2489614129" Unknown1="346612422">
+      <SDL2 Key="3551283282">
         <Unknown>
           <Entry>
             <Values>
@@ -124,18 +125,21 @@
           <Dialog>高嶺</Dialog>
           <Dialog>▲主人公＊▲</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲。</Dialog>
-          <Dialog>こうやってちゃんと話すのって……久しぶり、かな。</Dialog>
-          <Dialog>ん、どうだっけ。</Dialog>
-          <Dialog>あなたはカノジョさんとばかり……だもんね。</Dialog>
-          <Dialog>あー、はは、そうか？</Dialog>
-          <Dialog>うん、楽しそう。じゃあ、わたしは行くね。</Dialog>
-          <Dialog>ああ、またな。</Dialog>
+          <Dialog>▲高嶺＊＊▲.</Dialog>
+          <Dialog>It's been a while since we 
+talked properly like this.</Dialog>
+          <Dialog>Hmm, that so.</Dialog>
+          <Dialog>You are the only one who 
+speaks to me.</Dialog>
+          <Dialog>Ah, haha, is that so?</Dialog>
+          <Dialog>Yes, it looks like fun. 
+Then I'll go back.</Dialog>
+          <Dialog>Yes, see you soon.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1616574903" Unknown1="2678389472">
-      <SDL2 Key="4056051547">
+    <Entry Unknown0="3445896842" Unknown1="392117190">
+      <SDL2 Key="3551283282">
         <Unknown>
           <Entry>
             <Values>
@@ -150,12 +154,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あ……。えっと、カノジョさんに見られたら誤解されない？</Dialog>
+          <Dialog>Ah... Emm, wouldn't be 
+misunderstood if your 
+girlfriend-san saw you?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3182991084" Unknown1="4165021502">
-      <SDL2 Key="4056051547">
+    <Entry Unknown0="3441127306" Unknown1="3484957565">
+      <SDL2 Key="3551283282">
         <Unknown>
           <Entry>
             <Values>
@@ -170,12 +176,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あ……また、お話に付き合ってね。</Dialog>
+          <Dialog>Ah... I'll go out with you 
+again.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="324381514" Unknown1="2625015259">
-      <SDL2 Key="4056051547">
+    <Entry Unknown0="2222223169" Unknown1="565768918">
+      <SDL2 Key="3551283282">
         <Unknown>
           <Entry>
             <Values>
@@ -190,12 +197,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>いつもがんばってるね。やっぱり生活が充実してるのかな？</Dialog>
+          <Dialog>You're always doing your 
+best. Is life fulfilling 
+after all?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2961836519" Unknown1="3369347600">
-      <SDL2 Key="4056051547">
+    <Entry Unknown0="4252247706" Unknown1="544164822">
+      <SDL2 Key="3551283282">
         <Unknown>
           <Entry>
             <Values>
@@ -210,13 +219,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あのね。もし困ったことがあったら、助けてもらってもいい？
-……遠慮した方がいいかな。</Dialog>
+          <Dialog>Excuse me. If I have any 
+trouble, can I ask for your 
+help?... I think I better 
+not.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3454576156" Unknown1="762404718">
-      <SDL2 Key="4056051547">
+    <Entry Unknown0="4247494554" Unknown1="3670559629">
+      <SDL2 Key="334266301">
         <Unknown>
           <Entry>
             <Values>
@@ -231,12 +242,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>カノジョさんは大切だと思うけど、部活の練習もしっかりね。</Dialog>
+          <Dialog>I think beign with your 
+girlfriend-san is 
+important, but club 
+activities as well.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="595983226" Unknown1="3483811083">
-      <SDL2 Key="837916599">
+    <Entry Unknown0="3028590417" Unknown1="851968742">
+      <SDL2 Key="334266301">
         <Unknown>
           <Entry>
             <Values>
@@ -251,12 +265,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>異性の人とお付き合いするのって……どんな気持ちなのかな。</Dialog>
+          <Dialog>To go out with someone of 
+the opposite sex... I 
+wonder how it feels.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3233437975" Unknown1="4110703168">
-      <SDL2 Key="837916599">
+    <Entry Unknown0="3984873130" Unknown1="1031756774">
+      <SDL2 Key="334266301">
         <Unknown>
           <Entry>
             <Values>
@@ -271,12 +287,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あなたのカノジョさんの話、たまに聞くの。ステキね。</Dialog>
+          <Dialog>Sometimes you can hear your 
+girlfriend-san's stories. 
+It's wonderful.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="488175180" Unknown1="1386319774">
-      <SDL2 Key="837916599">
+    <Entry Unknown0="3980103594" Unknown1="3856161693">
+      <SDL2 Key="334266301">
         <Unknown>
           <Entry>
             <Values>
@@ -291,12 +309,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>カノジョさんとは、その、上手くいってるの？　なんて、ごめんね。</Dialog>
+          <Dialog>Is it that good with 
+girlfriend-san? I'm 
+kidding, sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1941244842" Unknown1="4074171707">
-      <SDL2 Key="837916599">
+    <Entry Unknown0="2761199457" Unknown1="1339560694">
+      <SDL2 Key="334266301">
         <Unknown>
           <Entry>
             <Values>
@@ -311,12 +331,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>わたしも楽しい事がしたいな……たまには、そう思ってもいいよね。</Dialog>
+          <Dialog>I want to have fun... It's 
+okay to think so once in a 
+while.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="283797831" Unknown1="640977520">
-      <SDL2 Key="837916599">
+    <Entry Unknown0="496256698" Unknown1="1318022134">
+      <SDL2 Key="858498584">
         <Unknown>
           <Entry>
             <Values>
@@ -331,12 +353,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>お休みの日は、やっぱりカノジョさんとお出かけするの？</Dialog>
+          <Dialog>Do you want to go out with 
+girlfriend-san on your days 
+off?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="759694972" Unknown1="2278670286">
-      <SDL2 Key="837916599">
+    <Entry Unknown0="491503546" Unknown1="4041763757">
+      <SDL2 Key="858498584">
         <Unknown>
           <Entry>
             <Values>
@@ -355,12 +379,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。ごきげんよう。</Dialog>
+          <Dialog>▲主人公＊▲. How are you?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2212846554" Unknown1="621157739">
-      <SDL2 Key="837916599">
+    <Entry Unknown0="3567566705" Unknown1="1491608070">
+      <SDL2 Key="858498584">
         <Unknown>
           <Entry>
             <Values>
@@ -375,12 +399,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>最近お菓子作りが特に楽しくて……ふふ、興味ないかな。</Dialog>
+          <Dialog>Lately, making sweets has 
+been a lot of fun.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="538622327" Unknown1="1399110304">
-      <SDL2 Key="837916599">
+    <Entry Unknown0="228882122" Unknown1="1537178374">
+      <SDL2 Key="858498584">
         <Unknown>
           <Entry>
             <Values>
@@ -395,12 +420,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>一人暮らし、大変？　すごいな……。</Dialog>
+          <Dialog>Is it difficult to live 
+alone? Awesome...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2105038508" Unknown1="3020025854">
-      <SDL2 Key="837916599">
+    <Entry Unknown0="224112586" Unknown1="66616253">
+      <SDL2 Key="858498584">
         <Unknown>
           <Entry>
             <Values>
@@ -415,12 +441,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>図書委員もこなしてるの、すごいね。無理して部活に出たりしてない？</Dialog>
+          <Dialog>It's amazing that the 
+library committe's working. 
+Have you forced yourcelf 
+into club activities?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3541396234" Unknown1="1211518363">
-      <SDL2 Key="3653442189">
+    <Entry Unknown0="3300175745" Unknown1="1979200022">
+      <SDL2 Key="3958188510">
         <Unknown>
           <Entry>
             <Values>
@@ -435,12 +464,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>アルバイト、大変そう。学校に部活に……偉いね。</Dialog>
+          <Dialog>Part-time job seems to be 
+difficult. School, club 
+activities... it's great.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1883949479" Unknown1="2627005136">
-      <SDL2 Key="3653442189">
+    <Entry Unknown0="1035232986" Unknown1="1957661462">
+      <SDL2 Key="3958188510">
         <Unknown>
           <Entry>
             <Values>
@@ -479,16 +510,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。オッス。</Dialog>
+          <Dialog>▲主人公＊▲. Whassup.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲。お疲れ。</Dialog>
-          <Dialog>今日もがんばろうね。</Dialog>
-          <Dialog>ああ、お互いにな。</Dialog>
+          <Dialog>▲高嶺＊＊▲. Good work today.</Dialog>
+          <Dialog>Let's do our best today.</Dialog>
+          <Dialog>Yes, let's do it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2376623836" Unknown1="4180746030">
-      <SDL2 Key="3653442189">
+    <Entry Unknown0="1030479834" Unknown1="235441101">
+      <SDL2 Key="3958188510">
         <Unknown>
           <Entry>
             <Values>
@@ -523,16 +554,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あ、がんばってるね。</Dialog>
+          <Dialog>Oh, you're doing your best.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>まあね。</Dialog>
-          <Dialog>真面目にやらないとケガの元だもんね。気を付けて。</Dialog>
-          <Dialog>ああ、ありがと。</Dialog>
+          <Dialog>Something like that.</Dialog>
+          <Dialog>If you don't do it 
+seriously, you could get 
+injured. Take care.</Dialog>
+          <Dialog>Yes, thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3812997946" Unknown1="2607185355">
-      <SDL2 Key="3653442189">
+    <Entry Unknown0="4106542993" Unknown1="1711817254">
+      <SDL2 Key="3958188510">
         <Unknown>
           <Entry>
             <Values>
@@ -571,16 +604,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。練習きつくない？</Dialog>
+          <Dialog>▲主人公＊▲. Practicing hard?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>んー。まあ、大丈夫かな。</Dialog>
-          <Dialog>そっか。無理しないように、がんばろ？</Dialog>
-          <Dialog>ああ、そうだな。</Dialog>
+          <Dialog>Hmm. Well, I'm doing okay.</Dialog>
+          <Dialog>I see. Don't overdo it, do 
+your best okay?</Dialog>
+          <Dialog>Yes, that's right.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2155485655" Unknown1="2848201216">
-      <SDL2 Key="3653442189">
+    <Entry Unknown0="767858410" Unknown1="1639947046">
+      <SDL2 Key="3958188510">
         <Unknown>
           <Entry>
             <Values>
@@ -615,16 +649,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ナイスプレイ。</Dialog>
+          <Dialog>Nice play.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、▲高嶺＊＊▲。●はまだまだだって。</Dialog>
-          <Dialog>ううん、そんなことない。すごいな。</Dialog>
-          <Dialog>そっか、ありがと。</Dialog>
+          <Dialog>Oh,▲高嶺＊＊▲. I'm still a long 
+way off.</Dialog>
+          <Dialog>No, that's not true. It's 
+amazing.</Dialog>
+          <Dialog>I see, thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3721967116" Unknown1="241258334">
-      <SDL2 Key="3653442189">
+    <Entry Unknown0="763088874" Unknown1="957914077">
+      <SDL2 Key="724393801">
         <Unknown>
           <Entry>
             <Values>
@@ -663,16 +699,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。がんばりすぎないようにね。</Dialog>
+          <Dialog>▲主人公＊▲. Don't try to hard.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲。ああ、サンキュ。</Dialog>
-          <Dialog>何か一緒に練習しよっか。</Dialog>
-          <Dialog>お、いいね。</Dialog>
+          <Dialog>▲高嶺＊＊▲. Ah, thank you.</Dialog>
+          <Dialog>We must practice together 
+sometime.</Dialog>
+          <Dialog>Oh, that's nice.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="863357802" Unknown1="2929110523">
-      <SDL2 Key="468926952">
+    <Entry Unknown0="3839152033" Unknown1="2467844662">
+      <SDL2 Key="724393801">
         <Unknown>
           <Entry>
             <Values>
@@ -711,16 +748,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。最近の調子は？</Dialog>
+          <Dialog>▲主人公＊▲. How's it going 
+lately?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>調子か……んー、まあぼちぼちかな。</Dialog>
-          <Dialog>ふふ、ぼちぼちですか。がんばって。</Dialog>
-          <Dialog>ああ、そっちもな。</Dialog>
+          <Dialog>I'm doing... fine, I guess. 
+Just a little sloppy.</Dialog>
+          <Dialog>Fufu, just sloppy. Give 
+your best.</Dialog>
+          <Dialog>Yes, I will.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3500812551" Unknown1="4210313776">
-      <SDL2 Key="468926952">
+    <Entry Unknown0="1574209274" Unknown1="2463083318">
+      <SDL2 Key="724393801">
         <Unknown>
           <Entry>
             <Values>
@@ -759,16 +799,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。何か手伝うこと、ある？</Dialog>
+          <Dialog>▲主人公＊▲. Do you want me to 
+help you?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん？　今は特にないかな。</Dialog>
-          <Dialog>そっか。何かあったら、声かけてね。</Dialog>
-          <Dialog>ああ、サンキュ。</Dialog>
+          <Dialog>Hmm? I'm fine right now.</Dialog>
+          <Dialog>I see. If something 
+happens, please talk to me.</Dialog>
+          <Dialog>Yes, thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3976775228" Unknown1="1402044302">
-      <SDL2 Key="3824478746">
+    <Entry Unknown0="1569456122" Unknown1="606645229">
+      <SDL2 Key="724393801">
         <Unknown>
           <Entry>
             <Values>
@@ -853,23 +895,29 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あのね。カノジョさんとは、最近どう？　その、上手くいってる？</Dialog>
-          <Dialog>当たり前だ！</Dialog>
-          <Dialog>うーん、実は……</Dialog>
-          <Dialog>当たり前なんだ……なんだかすごいね。</Dialog>
+          <Dialog>Excuse me. Recently, how is 
+it going between us? Is it 
+going well?</Dialog>
+          <Dialog>Perfectly!</Dialog>
+          <Dialog>Hmm, actually...</Dialog>
+          <Dialog>It's obvious... it's 
+amazing.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>すごい……のか？</Dialog>
-          <Dialog>うん……あなたを見てて、そうなんじゃないかなって……。</Dialog>
-          <Dialog>やっぱりそうか……。</Dialog>
-          <Dialog>……ねえ、だったら……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>……ううん、なんでもない、です。ふふ、仲良くした方がいいんじゃないかな。</Dialog>
-          <Dialog>？　まあ、そうだよな。</Dialog>
+          <Dialog>Amazing... is that it?</Dialog>
+          <Dialog>Yes... I'm looking at you, 
+and I wonder...</Dialog>
+          <Dialog>I knew it...</Dialog>
+          <Dialog>...Hey, then...</Dialog>
+          <Dialog>Hmm?</Dialog>
+          <Dialog>...No, it's nothing. Fufu, 
+I think it's better to get 
+along.</Dialog>
+          <Dialog>Huh? Well, it's okay.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1134893978" Unknown1="4056341803">
-      <SDL2 Key="3824478746">
+    <Entry Unknown0="350551985" Unknown1="2351456838">
+      <SDL2 Key="1264350869">
         <Unknown>
           <Entry>
             <Values>
@@ -919,18 +967,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そうだ。あのね、こんな物をいただいたんだけど……。</Dialog>
+          <Dialog>I know. Excuse me, I got 
+something like this...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん？　……お、▲特別デートアイテム＊＊▲じゃん。</Dialog>
-          <Dialog>わたしには使い道がなくて……よかったら、もらってくれないかな。</Dialog>
-          <Dialog>え、いいの？　そりゃうれしいけど……。</Dialog>
-          <Dialog>うん、是非。カノジョさんと使ったらどうかな。</Dialog>
-          <Dialog>やった！　サンキュー、▲高嶺＊＊▲。</Dialog>
+          <Dialog>Hmm? Oh, it's ▲特別デートアイテム＊＊▲.</Dialog>
+          <Dialog>I have no use for it... If 
+you'd like, you can have it.</Dialog>
+          <Dialog>Eh, it's okay? Then, I'm 
+happy...</Dialog>
+          <Dialog>Yes, it is. I would like 
+you to use it with your 
+girlfriend.</Dialog>
+          <Dialog>Hooray! Thank you,▲高嶺＊＊▲.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3772414263" Unknown1="119831136">
-      <SDL2 Key="590618997">
+    <Entry Unknown0="1306834442" Unknown1="2413804358">
+      <SDL2 Key="1264350869">
         <Unknown>
           <Entry>
             <Values>
@@ -1015,23 +1068,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうした？</Dialog>
-          <Dialog>あの、気にし過ぎなのかもしれないけど……。</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>カノジョさんがいる人に、こんなに話しかけたりしない方がいいのかな……。</Dialog>
-          <Dialog>たしかにカノジョに悪い気がする……</Dialog>
-          <Dialog>そんなの関係ないって</Dialog>
-          <Dialog>やっぱり、そうなんだ……ごめんなさい、気を付けるね。</Dialog>
-          <Dialog>ああ、なんかごめんな。</Dialog>
-          <Dialog>そうなの？　なら、よかった。</Dialog>
-          <Dialog>友達なんだしさ。いいんだって。</Dialog>
+          <Dialog>What's wrong?</Dialog>
+          <Dialog>Um, maybe I'm caring to 
+much, but...</Dialog>
+          <Dialog>?</Dialog>
+          <Dialog>I wonder if it's better not 
+to talk to someone who has 
+a girlfriend.</Dialog>
+          <Dialog>I would feel bad for her...</Dialog>
+          <Dialog>It doesn't matter</Dialog>
+          <Dialog>I knew it... I'm sorry, 
+I'll be careful.</Dialog>
+          <Dialog>Yes, I'm sorry.</Dialog>
+          <Dialog>Is that so? If so, I'm glad.</Dialog>
+          <Dialog>You're a friend. It's all 
+good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1027085932" Unknown1="1623306174">
-      <SDL2 Key="590618997">
+    <Entry Unknown0="1302064906" Unknown1="1463335933">
+      <SDL2 Key="1264350869">
         <Unknown>
           <Entry>
             <Values>
@@ -1116,23 +1174,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲……。</Dialog>
-          <Dialog>こうやって話しかけるの、久しぶりかな。</Dialog>
-          <Dialog>……そうだな。</Dialog>
-          <Dialog>あのね、前みたいに話しかけたら、ダメかな。</Dialog>
-          <Dialog>カノジョに悪い気がして……</Dialog>
-          <Dialog>いいよ</Dialog>
-          <Dialog>うん……わかってる。そうよね……。</Dialog>
-          <Dialog>ごめんな。</Dialog>
-          <Dialog>ほんとに？　ありがとう。</Dialog>
-          <Dialog>だって、友達だもんな。</Dialog>
+          <Dialog>▲高嶺＊＊▲...</Dialog>
+          <Dialog>It's been a while since we 
+talked like this.</Dialog>
+          <Dialog>...That's right.</Dialog>
+          <Dialog>You know, if you talk to me 
+like before, it would be 
+useless.</Dialog>
+          <Dialog>I feel bad...</Dialog>
+          <Dialog>It's okay</Dialog>
+          <Dialog>Yes... I understand. That's 
+right...</Dialog>
+          <Dialog>I'm sorry.</Dialog>
+          <Dialog>Really? Thank you.</Dialog>
+          <Dialog>But, we're more than 
+friends.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2480221130" Unknown1="83234139">
-      <SDL2 Key="590618997">
+    <Entry Unknown0="83161025" Unknown1="3107484246">
+      <SDL2 Key="1264350869">
         <Unknown>
           <Entry>
             <Values>
@@ -1162,15 +1225,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あのね。最近のあなたって、少し変わったかも。</Dialog>
+          <Dialog>You know. You may have 
+changed a little recently.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>変わった？　……そうかな。</Dialog>
-          <Dialog>雰囲気のことだけど。……だと思うな。</Dialog>
+          <Dialog>Changed?... I wonder about 
+that.</Dialog>
+          <Dialog>I think it's your 
+atmosphere... I think that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="805996903" Unknown1="1347725968">
-      <SDL2 Key="3690370123">
+    <Entry Unknown0="2113185306" Unknown1="3102722902">
+      <SDL2 Key="4113496443">
         <Unknown>
           <Entry>
             <Values>
@@ -1190,14 +1256,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そうね、あったかい感じがするの。</Dialog>
+          <Dialog>Yeah, it feels warms.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（あったかい感じか……）</Dialog>
+          <Dialog>（Is it a warm feeling...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1298671260" Unknown1="3052527598">
-      <SDL2 Key="3690370123">
+    <Entry Unknown0="2108366618" Unknown1="1112066829">
+      <SDL2 Key="4113496443">
         <Unknown>
           <Entry>
             <Values>
@@ -1217,14 +1283,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>なんていうのかな、クールな印象、かな。</Dialog>
+          <Dialog>I wonder what it sounds 
+like, a cool impression, I 
+guess.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（うーん、クール……）</Dialog>
+          <Dialog>（Hmm, cool...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2735045626" Unknown1="1462123915">
-      <SDL2 Key="3690370123">
+    <Entry Unknown0="872685521" Unknown1="2856878694">
+      <SDL2 Key="4113496443">
         <Unknown>
           <Entry>
             <Values>
@@ -1244,14 +1312,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>落ち着いた感じがすると思うの。</Dialog>
+          <Dialog>I think it feels calm.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（落ち着きか……）</Dialog>
+          <Dialog>（Calm...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1077598615" Unknown1="1568987840">
-      <SDL2 Key="3690370123">
+    <Entry Unknown0="1829033514" Unknown1="2516573030">
+      <SDL2 Key="4113496443">
         <Unknown>
           <Entry>
             <Values>
@@ -1271,14 +1339,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>積極的な感じ……うん、そうだと思うな。</Dialog>
+          <Dialog>Possitive feeling... Yeah, 
+I think so.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（積極的ね……）</Dialog>
+          <Dialog>（You're proactive...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2644014796" Unknown1="4196470558">
-      <SDL2 Key="3690370123">
+    <Entry Unknown0="1840975658" Unknown1="1297668893">
+      <SDL2 Key="895361478">
         <Unknown>
           <Entry>
             <Values>
@@ -1323,17 +1392,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あ、そういえばカノジョさん、髪型を変えたのね。</Dialog>
+          <Dialog>Oh, come to think of it, 
+girlfriend-san has changed 
+her hairstyle.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>よく知ってるな、そんなこと。</Dialog>
-          <Dialog>少し、気になって。あなたのために、そういうことするのかなって。</Dialog>
-          <Dialog>●のため……。</Dialog>
-          <Dialog>ステキね、そういうの。</Dialog>
+          <Dialog>I noticed that kind of 
+thing.</Dialog>
+          <Dialog>I'm a little worried. I 
+wonder if I do it for you.</Dialog>
+          <Dialog>For me....</Dialog>
+          <Dialog>That's nice.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="4080372522" Unknown1="1515613627">
-      <SDL2 Key="3690370123">
+    <Entry Unknown0="605294561" Unknown1="3881341558">
+      <SDL2 Key="895361478">
         <Unknown>
           <Entry>
             <Values>
@@ -1378,17 +1451,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねえ、カノジョさん。</Dialog>
+          <Dialog>Hey, your girlfriend-san.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>最近、さらにステキになってるって聞いたよ。</Dialog>
-          <Dialog>誰がそんなこと……そうかな？</Dialog>
-          <Dialog>色んな人がそう言ってた。だから、きっとそうなんだと思うよ。</Dialog>
+          <Dialog>Hmm?</Dialog>
+          <Dialog>Recently, I heard you're 
+getting better.</Dialog>
+          <Dialog>Who says it... Is that 
+right?</Dialog>
+          <Dialog>That's what many people 
+said. So, I'm sure that's 
+the case.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2422925767" Unknown1="2394163952">
-      <SDL2 Key="4248161191">
+    <Entry Unknown0="2635384378" Unknown1="3859802998">
+      <SDL2 Key="895361478">
         <Unknown>
           <Entry>
             <Values>
@@ -1438,18 +1515,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あのね……こんなこと言うのお節介だと思うけど……。</Dialog>
+          <Dialog>Excuse me... I think it's a 
+way of helping to say 
+this...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>最近あなたのカノジョさんが、元気なさそうにしてるって聞いて……何かあった？</Dialog>
-          <Dialog>…………。</Dialog>
-          <Dialog>わたしはこれ以上は聞かないから……ちゃんと考えてあげてね。</Dialog>
-          <Dialog>（うーん……）</Dialog>
+          <Dialog>Hmm?</Dialog>
+          <Dialog>Recently, I heard that your 
+girlfriend-san is feeling 
+sick... what happened?</Dialog>
+          <Dialog>....</Dialog>
+          <Dialog>I won't ask anymore... just 
+think about it.</Dialog>
+          <Dialog>（Hmm...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2915600124" Unknown1="793853774">
-      <SDL2 Key="3052883581">
+    <Entry Unknown0="2647342906" Unknown1="1483270957">
+      <SDL2 Key="895361478">
         <Unknown>
           <Entry>
             <Values>
@@ -1499,18 +1581,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>この前、カノジョさんと一緒に帰ってるところ、また見ちゃった。</Dialog>
+          <Dialog>The other day, when you 
+were together with 
+girlfriend-san, I saw you 
+again.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はは、見られてたか。</Dialog>
-          <Dialog>仲良さそうで……ちょっと。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>うらやましいなって。</Dialog>
-          <Dialog>（少し照れくさいな……）</Dialog>
+          <Dialog>Haha, you saw me.</Dialog>
+          <Dialog>You seem like... good 
+friends.</Dialog>
+          <Dialog>Hmm?</Dialog>
+          <Dialog>I'm envious.</Dialog>
+          <Dialog>（I'm a little shy...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="57006938" Unknown1="2374409707">
-      <SDL2 Key="3052883581">
+    <Entry Unknown0="1411661809" Unknown1="4033389190">
+      <SDL2 Key="3710887084">
         <Unknown>
           <Entry>
             <Values>
@@ -1560,18 +1646,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ん……。</Dialog>
+          <Dialog>Hmm...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……▲高嶺＊＊▲？　どうかした？</Dialog>
-          <Dialog>やっぱり恋人同士では、ああいうこと、するのね……。</Dialog>
-          <Dialog>え？</Dialog>
-          <Dialog>…………。</Dialog>
-          <Dialog>（……もしかして、スキンシップのことかな？）</Dialog>
+          <Dialog>...▲高嶺＊＊▲?　What's wrong?</Dialog>
+          <Dialog>Lovers do that kind of 
+thing, after all...</Dialog>
+          <Dialog>Eh?</Dialog>
+          <Dialog>...</Dialog>
+          <Dialog>（Maybe, she's talking about 
+skinship?）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2694461943" Unknown1="4226038304">
-      <SDL2 Key="3577181656">
+    <Entry Unknown0="2368009802" Unknown1="4078959494">
+      <SDL2 Key="3710887084">
         <Unknown>
           <Entry>
             <Values>
@@ -1621,18 +1709,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ごめんなさい。この前、あなたたちがデートしてるところ、見ちゃった。</Dialog>
+          <Dialog>I'm sorry. I saw your guys 
+on a date last week.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はは……見られてたか。別に謝らなくてもいいのに。</Dialog>
-          <Dialog>でもなんだかのぞき見してるみたいで、はしたないかなって。</Dialog>
-          <Dialog>んー、デートばっかしてる●たちが悪いのかも。</Dialog>
-          <Dialog>……もう。</Dialog>
-          <Dialog>（そういえば、最近たくさんデートしてるからな……）</Dialog>
+          <Dialog>Haha... did you now. You 
+don't have to apologize.</Dialog>
+          <Dialog>But it seems like I'm 
+peeping on you, so I wonder 
+if I'm wrong.</Dialog>
+          <Dialog>Hmm, we're just dating, 
+we're not doing anything 
+bad.</Dialog>
+          <Dialog>...Yet.</Dialog>
+          <Dialog>（Come to think of it, I've 
+been on dates a lot lately）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="4260943404" Unknown1="478244734">
-      <SDL2 Key="3577181656">
+    <Entry Unknown0="2379951946" Unknown1="2876832573">
+      <SDL2 Key="3710887084">
         <Unknown>
           <Entry>
             <Values>
@@ -1682,18 +1777,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねえ、カノジョさんとは一緒に出かけたりしないの？</Dialog>
+          <Dialog>Hey, aren't you going out 
+with girlfriend-san?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>それは……まあ……。</Dialog>
-          <Dialog>わたしにはよくわからないけど……きっと、そういうことがしたいんじゃないかなって。</Dialog>
-          <Dialog>…………。</Dialog>
-          <Dialog>ごめんね、余計なこと言って。</Dialog>
-          <Dialog>（デートか……）</Dialog>
+          <Dialog>That is... well...</Dialog>
+          <Dialog>I'm not sure, but... I 
+guess you want to do it.</Dialog>
+          <Dialog>....</Dialog>
+          <Dialog>I'm sorry, I said something 
+unnecessary.</Dialog>
+          <Dialog>（A date...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1402334090" Unknown1="4038511899">
-      <SDL2 Key="3577181656">
+    <Entry Unknown0="1144270593" Unknown1="3447239318">
+      <SDL2 Key="3710887084">
         <Unknown>
           <Entry>
             <Values>
@@ -1743,18 +1841,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>…………。</Dialog>
+          <Dialog>....</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲？　どうした？</Dialog>
-          <Dialog>学校で……あんなことするなんて……。</Dialog>
-          <Dialog>え!?</Dialog>
-          <Dialog>校則違反とか、そういう問題じゃないと思う……。</Dialog>
-          <Dialog>（何を見られたんだろ……）</Dialog>
+          <Dialog>▲高嶺＊＊▲? What's wrong?</Dialog>
+          <Dialog>At school... that kind of 
+thing...</Dialog>
+          <Dialog>Huh!?</Dialog>
+          <Dialog>I don't think it's a 
+violation of school rules 
+or something like that...</Dialog>
+          <Dialog>（What did she see...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="4039788839" Unknown1="605317712">
-      <SDL2 Key="4016588133">
+    <Entry Unknown0="3174360666" Unknown1="3425635222">
+      <SDL2 Key="3710887084">
         <Unknown>
           <Entry>
             <Values>
@@ -1808,18 +1909,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。最近すごくがんばってるのね。</Dialog>
+          <Dialog>▲主人公＊▲. You've been 
+working really hard lately.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●？　そうかな？</Dialog>
-          <Dialog>だって、学校でも評判よ。絶好調！　だって。</Dialog>
-          <Dialog>へえ、いつの間にそんな……。</Dialog>
-          <Dialog>ステキなことだと思うけど、無理はしないでね。</Dialog>
-          <Dialog>（そういえば最近、色々成功してたかな……）</Dialog>
+          <Dialog>Me? You think so?</Dialog>
+          <Dialog>Because you have a good 
+reputation at school. 
+You're in great shape! 
+That's it.</Dialog>
+          <Dialog>Huh, I didn't notice...</Dialog>
+          <Dialog>That's great, but don't 
+overdo it.</Dialog>
+          <Dialog>（Come to think of it, I 
+wonder about it...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="220784220" Unknown1="1102159790">
-      <SDL2 Key="3614044054">
+    <Entry Unknown0="3186319194" Unknown1="3062369101">
+      <SDL2 Key="492817144">
         <Unknown>
           <Entry>
             <Values>
@@ -1869,18 +1976,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あのね……。</Dialog>
+          <Dialog>You know...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん、なに？</Dialog>
-          <Dialog>カノジョさんとは、まだお付き合いしてるよね。</Dialog>
-          <Dialog>えっ……そりゃあ。なんでそんな……。</Dialog>
-          <Dialog>最近、そんな感じがして……上手くいってないのかなって。</Dialog>
-          <Dialog>（そうかも……）</Dialog>
+          <Dialog>W-what?</Dialog>
+          <Dialog>You are still on a 
+relationship with 
+girlfriend-san.</Dialog>
+          <Dialog>Emm... well. Why is that...</Dialog>
+          <Dialog>I've been thinking that 
+lately... I wonder if it's 
+not going well.</Dialog>
+          <Dialog>（May be...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1673870266" Unknown1="602340683">
-      <SDL2 Key="3614044054">
+    <Entry Unknown0="1950637841" Unknown1="3733504678">
+      <SDL2 Key="492817144">
         <Unknown>
           <Entry>
             <Values>
@@ -1930,18 +2041,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>最近のお付き合いはどうですか？</Dialog>
+          <Dialog>How is your relationship?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>お付き合い？　……ああ、カノジョとのか。いいんじゃないかな、割と。</Dialog>
-          <Dialog>すごい。余裕の発言。</Dialog>
-          <Dialog>そういうわけじゃないけど……まあ、それなりには。</Dialog>
-          <Dialog>それなりかあ……じゃあ、もっと仲良しなこともあるのね。</Dialog>
-          <Dialog>まあ、そうだな……。</Dialog>
+          <Dialog>Relationship?... Ah, my 
+girlfriend. I think it's 
+going well.</Dialog>
+          <Dialog>Amazing. A good remark.</Dialog>
+          <Dialog>That's not the case... 
+well, that's how it is.</Dialog>
+          <Dialog>That's right... Well, there 
+are time when we get along 
+better.</Dialog>
+          <Dialog>Well, that's right...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="16423255" Unknown1="289708672">
-      <SDL2 Key="3614044054">
+    <Entry Unknown0="2906920554" Unknown1="3644791718">
+      <SDL2 Key="1033892179">
         <Unknown>
           <Entry>
             <Values>
@@ -1986,17 +2102,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>なんだか。最近、カノジョと上手くいってるみたい。</Dialog>
+          <Dialog>It seems you're doing well 
+with girlfriend-san 
+recently.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>え、そういうのわかる？</Dialog>
-          <Dialog>なんとなく……見かけたりすると。</Dialog>
-          <Dialog>そっか……なんか照れるな。</Dialog>
-          <Dialog>ふふ、ステキなことじゃない。</Dialog>
+          <Dialog>Huh, how do you know that?</Dialog>
+          <Dialog>Somehow... when I look at 
+you.</Dialog>
+          <Dialog>I see... I'm getting a 
+little shy.</Dialog>
+          <Dialog>Fufu, it's not that nice.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1566062220" Unknown1="3068252126">
-      <SDL2 Key="3211438536">
+    <Entry Unknown0="2918928234" Unknown1="2174229341">
+      <SDL2 Key="3880944697">
         <Unknown>
           <Entry>
             <Values>
@@ -2046,18 +2166,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あなたたちって最近……。</Dialog>
+          <Dialog>Recently, you guys...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>ラブラブ、なの？</Dialog>
-          <Dialog>ラブラブって、▲高嶺＊＊▲……。</Dialog>
-          <Dialog>だ、だって、みんながそう言ってるから。そうなのかなって。</Dialog>
-          <Dialog>うーん、そんな目で見られてたのか……まあいいことか。</Dialog>
+          <Dialog>Hmm?</Dialog>
+          <Dialog>Lovey dovey, right?</Dialog>
+          <Dialog>Lovey dovey you say,
+▲高嶺＊＊▲...</Dialog>
+          <Dialog>Because everyone says that. 
+I wonder if that is the 
+case.</Dialog>
+          <Dialog>Hmm, I wonder if we were 
+looked at like that... 
+Well, it's good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3019197418" Unknown1="370552187">
-      <SDL2 Key="3211438536">
+    <Entry Unknown0="1683246881" Unknown1="731435702">
+      <SDL2 Key="3880944697">
         <Unknown>
           <Entry>
             <Values>
@@ -2102,17 +2227,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……違ったらごめんね。何かあった？</Dialog>
+          <Dialog>...Sorry you seem a bit 
+different. Something 
+happened?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……なんで……。</Dialog>
-          <Dialog>なんとなく……顔見てたら。</Dialog>
-          <Dialog>まあ……カノジョとケンカ中でさ……。</Dialog>
-          <Dialog>そうだったの……何かあったの？</Dialog>
+          <Dialog>... Why...</Dialog>
+          <Dialog>Somehow... when I look at 
+your face...</Dialog>
+          <Dialog>Well... I got on a fight 
+with my girlfriend...</Dialog>
+          <Dialog>I knew it... What happened?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1344973191" Unknown1="1114950320">
-      <SDL2 Key="3786067747">
+    <Entry Unknown0="3713271418" Unknown1="709831606">
+      <SDL2 Key="3880944697">
         <Unknown>
           <Entry>
             <Values />
@@ -2147,16 +2276,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、最近メールしてないかな……。</Dialog>
+          <Dialog>Speaking of which, I wonder 
+if I've emailed her 
+recently...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>……それじゃないのかな。わたしはあまり得意じゃないけど、メールって大切だっていうし。</Dialog>
-          <Dialog>そっか……やっぱりそうかな。</Dialog>
-          <Dialog>たぶんだけど……メールしてあげたら、喜ぶんじゃないのかな。</Dialog>
+          <Dialog>...I guess not. I'm not 
+very good at it, but 
+sending e-mails is 
+important.</Dialog>
+          <Dialog>That's right... I guess 
+that's true.</Dialog>
+          <Dialog>Maybe... maybe you'd be 
+happy if I emailed you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1837647548" Unknown1="4212260622">
-      <SDL2 Key="3786067747">
+    <Entry Unknown0="3708518266" Unknown1="2359831405">
+      <SDL2 Key="3880944697">
         <Unknown>
           <Entry>
             <Values />
@@ -2196,17 +2332,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>んー……そういや最近、恋人らしさが足りなかったか。</Dialog>
+          <Dialog>Mmmm... I wonder if you've 
+been getting enough love 
+these days.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>恋人らしさ？</Dialog>
-          <Dialog>ほら、まあ、キスとか。</Dialog>
-          <Dialog>！　……もう。</Dialog>
-          <Dialog>（した方がいいのかな、キス）</Dialog>
+          <Dialog>As a lover?</Dialog>
+          <Dialog>You know, kisses.</Dialog>
+          <Dialog>! ...Geez.</Dialog>
+          <Dialog>（I wonder if I should kiss 
+her）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3274021658" Unknown1="1497783723">
-      <SDL2 Key="3786067747">
+    <Entry Unknown0="2489614129" Unknown1="615047878">
+      <SDL2 Key="3880944697">
         <Unknown>
           <Entry>
             <Values />
@@ -2246,17 +2385,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あー……この前、デートをすっぽかして……。</Dialog>
+          <Dialog>Ah... The other day, I left 
+my date alone...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ひどい……。</Dialog>
-          <Dialog>ごめんなさい。</Dialog>
-          <Dialog>謝る相手が違うよ。埋め合わせした方がいいと思うな。</Dialog>
-          <Dialog>だよな……そうするか。</Dialog>
+          <Dialog>That's terrible...</Dialog>
+          <Dialog>I'm sorry.</Dialog>
+          <Dialog>I'm not the one you should 
+apologize to. I think it's 
+better you make up for it.</Dialog>
+          <Dialog>You're right... I should.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1616574903" Unknown1="2946824928">
-      <SDL2 Key="3786067747">
+    <Entry Unknown0="3445896842" Unknown1="660552646">
+      <SDL2 Key="663857797">
         <Unknown>
           <Entry>
             <Values />
@@ -2296,17 +2438,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>この間……デート中にカノジョのこと放っておいたら、怒って帰っちゃったんだよな……。</Dialog>
+          <Dialog>The other day... I left my 
+girlfriend alone during the 
+date, she got angry and 
+went home.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>それは……怒るよ。</Dialog>
-          <Dialog>だよな。</Dialog>
-          <Dialog>許してもらえるように、謝らないと。</Dialog>
-          <Dialog>そうするよ。</Dialog>
+          <Dialog>For that... I would be 
+angry too.</Dialog>
+          <Dialog>That's true.</Dialog>
+          <Dialog>You have to apologize so 
+that I can forgive you.</Dialog>
+          <Dialog>I'll do it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3182991084" Unknown1="3359715134">
-      <SDL2 Key="3923485119">
+    <Entry Unknown0="3441127306" Unknown1="4290263933">
+      <SDL2 Key="663857797">
         <Unknown>
           <Entry>
             <Values />
@@ -2346,17 +2493,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういや、カノジョに会うことそんなになかったかも……。</Dialog>
+          <Dialog>Lately, maybe I don't see 
+my girlfriend that much.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>そっか……それで、寂しくなっちゃったのかもしれないね。</Dialog>
-          <Dialog>やっぱそうかな……。</Dialog>
-          <Dialog>カノジョさんに連絡してあげるのがいいんじゃないかな……。</Dialog>
-          <Dialog>ああ、そうするよ。</Dialog>
+          <Dialog>I see... then, she might 
+feel lonely.</Dialog>
+          <Dialog>I knew it...</Dialog>
+          <Dialog>I think it's better to 
+contact girlfriend-san...</Dialog>
+          <Dialog>Yes, I will.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="324381514" Unknown1="2893450715">
-      <SDL2 Key="3923485119">
+    <Entry Unknown0="2222223169" Unknown1="297333462">
+      <SDL2 Key="663857797">
         <Unknown>
           <Entry>
             <Values>
@@ -2391,16 +2541,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>カノジョさんなんだけど……。</Dialog>
+          <Dialog>It's about girlfriend-san...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>え、どうかした？</Dialog>
-          <Dialog>なんだか、調子悪そうにしてたから、気になって……無理してないといいんだけど。</Dialog>
-          <Dialog>（●のせいか？　気を付けてみるか……）</Dialog>
+          <Dialog>Huh, what's wrong?</Dialog>
+          <Dialog>Somehow, I was feeling bad 
+and I was curious... I hope 
+you didn't overdo it.</Dialog>
+          <Dialog>（Is it my fault? I was 
+careful...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2961836519" Unknown1="4174653968">
-      <SDL2 Key="3923485119">
+    <Entry Unknown0="4252247706" Unknown1="275729366">
+      <SDL2 Key="663857797">
         <Unknown>
           <Entry>
             <Values>
@@ -2435,16 +2588,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>カノジョさん、風邪で休んでるの？</Dialog>
+          <Dialog>Is your girlfriend-san 
+resting from a cold?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、そうなんだよ……。</Dialog>
-          <Dialog>心配ね。あなたがお見舞いしてあげたら、うれしいと思うな。</Dialog>
-          <Dialog>お見舞いか……そうだよな、ありがと。</Dialog>
+          <Dialog>Yes, that's right...</Dialog>
+          <Dialog>I'm worried. I would be 
+happy if you could visit 
+her.</Dialog>
+          <Dialog>A visit... That's true, 
+thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3454576156" Unknown1="493969262">
-      <SDL2 Key="2744984710">
+    <Entry Unknown0="4247494554" Unknown1="3938995085">
+      <SDL2 Key="1203884783">
         <Unknown>
           <Entry>
             <Values>
@@ -2524,22 +2681,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>あのね……もう前のことだけど……わたしたち、一緒に出かけたりしたよね。</Dialog>
-          <Dialog>ああ……あったあった。</Dialog>
-          <Dialog>あのときは、まだあなたにカノジョはいなかったのよね。</Dialog>
-          <Dialog>そうだっけ……それが？</Dialog>
-          <Dialog>それだけ……何もないよ。</Dialog>
-          <Dialog>はは、なんとなく思い出した？</Dialog>
-          <Dialog>そう、たまに思い出すの。それで今もこうやって仲良くしてくれて。ありがとう。</Dialog>
-          <Dialog>どういたしまして。</Dialog>
+          <Dialog>Hmm?</Dialog>
+          <Dialog>You know... it was a while 
+ago, but... we went out 
+together.</Dialog>
+          <Dialog>Yes, I remember.</Dialog>
+          <Dialog>You didn't have a 
+girlfriend at that time.</Dialog>
+          <Dialog>That's right... what about 
+it?</Dialog>
+          <Dialog>That's... nothing.</Dialog>
+          <Dialog>Haha, you remembered 
+something?</Dialog>
+          <Dialog>Yes, I remember it once in 
+a while. And even now, 
+we're getting along like 
+this. Thank you.</Dialog>
+          <Dialog>You're welcome.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="595983226" Unknown1="4289117451">
-      <SDL2 Key="2610875832">
+    <Entry Unknown0="3028590417" Unknown1="46662374">
+      <SDL2 Key="1203884783">
         <Unknown>
           <Entry>
             <Values>
@@ -2621,20 +2786,26 @@
           <Dialog>高嶺</Dialog>
           <Dialog>▲主人公＊▲。</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうした？</Dialog>
-          <Dialog>あのね、覚えてるかな……。もう、前のことだけど……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>わたし、あなたに言ったよね……好きですって。</Dialog>
-          <Dialog>……ああ、もちろん覚えてる。</Dialog>
-          <Dialog>今はもうあなたにはカノジョがいるのに、それでも仲良くしてくれて……。</Dialog>
-          <Dialog>…………。</Dialog>
-          <Dialog>ありがとう。</Dialog>
-          <Dialog>ああ、こっちこそありがとう。</Dialog>
+          <Dialog>What's wrong?</Dialog>
+          <Dialog>You know, I remember... 
+that was the same as 
+before...</Dialog>
+          <Dialog>Hmm?</Dialog>
+          <Dialog>I told you that... I loved 
+you.</Dialog>
+          <Dialog>...Yes, of course I 
+remember.</Dialog>
+          <Dialog>Now that you have a 
+girlfriend, we're still 
+friends...</Dialog>
+          <Dialog>...</Dialog>
+          <Dialog>Thank you.</Dialog>
+          <Dialog>Yes, thank you, too.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3233437975" Unknown1="3305396800">
-      <SDL2 Key="3944626813">
+    <Entry Unknown0="3984873130" Unknown1="226450406">
+      <SDL2 Key="1203884783">
         <Unknown>
           <Entry>
             <Values>
@@ -2724,24 +2895,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲。</Dialog>
-          <Dialog>今から帰りよね？　もしよかったら、一緒に帰ってくれないかな。</Dialog>
-          <Dialog>ああ、一緒に帰るか</Dialog>
-          <Dialog>カノジョと一緒に帰るんだ</Dialog>
-          <Dialog>今日は一人で帰るよ</Dialog>
-          <Dialog>いいよ、予定ないし。帰ろっか。</Dialog>
-          <Dialog>よかった、ありがとう。</Dialog>
-          <Dialog>カノジョと帰るから……。</Dialog>
-          <Dialog>あ、そうよね。気にしないで。じゃあね。</Dialog>
-          <Dialog>悪い、今日は一人で帰るから。</Dialog>
-          <Dialog>そうなの。じゃあね。</Dialog>
+          <Dialog>▲高嶺＊＊▲.</Dialog>
+          <Dialog>Are you going home now? If 
+you don't mind, can I tag 
+along?</Dialog>
+          <Dialog>Let's go together</Dialog>
+          <Dialog>I'm going with my GF</Dialog>
+          <Dialog>I'm going alone</Dialog>
+          <Dialog>It's okay, I don't have any 
+plans. Let's go back home.</Dialog>
+          <Dialog>I'm glad, thank you.</Dialog>
+          <Dialog>I'm going home with my 
+girlfriend...</Dialog>
+          <Dialog>Oh, right. Don't worry. See 
+you.</Dialog>
+          <Dialog>I'm sorry, I'm going home 
+alone today.</Dialog>
+          <Dialog>Is that so. See you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="488175180" Unknown1="1655279518">
-      <SDL2 Key="2782899524">
+    <Entry Unknown0="3980103594" Unknown1="3587201949">
+      <SDL2 Key="1203884783">
         <Unknown>
           <Entry>
             <Values>
@@ -2786,17 +2963,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲。</Dialog>
-          <Dialog>待たせちゃったかな。大丈夫？</Dialog>
-          <Dialog>ああ、大丈夫。さっきまで友達と話してたとこだし。</Dialog>
-          <Dialog>そうなの。じゃあ、行きましょ？</Dialog>
+          <Dialog>▲高嶺＊＊▲.</Dialog>
+          <Dialog>I guess I kept you waiting. 
+Are you alright?</Dialog>
+          <Dialog>Yes, I'm okay. I was 
+talking to my friend a 
+while ago.</Dialog>
+          <Dialog>That so. Then, shall we go?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1941244842" Unknown1="3268865339">
-      <SDL2 Key="2782899524">
+    <Entry Unknown0="2761199457" Unknown1="2144867062">
+      <SDL2 Key="4286797238">
         <Unknown>
           <Entry>
             <Values>
@@ -2816,14 +2996,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>それじゃあ、ここで。バイバイ。</Dialog>
+          <Dialog>Well then, we arrived. Bye 
+bye.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>バイバイ。</Dialog>
+          <Dialog>Bye bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="283797831" Unknown1="372542064">
-      <SDL2 Key="2782899524">
+    <Entry Unknown0="496256698" Unknown1="2123328502">
+      <SDL2 Key="4286797238">
         <Unknown>
           <Entry>
             <Values>
@@ -2843,14 +3024,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>それじゃあ、またね。</Dialog>
+          <Dialog>Se you later.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、またな。</Dialog>
+          <Dialog>Yes, see you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="759694972" Unknown1="3083976654">
-      <SDL2 Key="2782899524">
+    <Entry Unknown0="491503546" Unknown1="3236457389">
+      <SDL2 Key="4286797238">
         <Unknown>
           <Entry>
             <Values>
@@ -2900,18 +3081,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>それじゃあ……。</Dialog>
+          <Dialog>Well then...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、じゃあな。</Dialog>
-          <Dialog>…………。</Dialog>
-          <Dialog>……ん？</Dialog>
-          <Dialog>……ううん、ごめんなさい。なんでもないの、バイバイ。</Dialog>
-          <Dialog>ああ、バイバイ。</Dialog>
+          <Dialog>Yes, see you.</Dialog>
+          <Dialog>....</Dialog>
+          <Dialog>...Hmm?</Dialog>
+          <Dialog>... No, I'm sorry. It's 
+nothing, bye bye.</Dialog>
+          <Dialog>Yes, bye bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2212846554" Unknown1="352722283">
-      <SDL2 Key="2903609041">
+    <Entry Unknown0="3567566705" Unknown1="1760043526">
+      <SDL2 Key="4286797238">
         <Unknown>
           <Entry>
             <Values>
@@ -2971,19 +3153,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……それじゃあ。</Dialog>
+          <Dialog>... See you.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、またな。</Dialog>
-          <Dialog>また？</Dialog>
-          <Dialog>？　ああ。</Dialog>
-          <Dialog>こういうの、悪くないのかな。</Dialog>
-          <Dialog>……悪いって？</Dialog>
-          <Dialog>……ううん、いいの。またね。</Dialog>
+          <Dialog>Yes, see you again.</Dialog>
+          <Dialog>Again?</Dialog>
+          <Dialog>? Yes.</Dialog>
+          <Dialog>I wonder if that's not bad.</Dialog>
+          <Dialog>...Is that bad?</Dialog>
+          <Dialog>... No, it's okay. See you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="538622327" Unknown1="1667545760">
-      <SDL2 Key="2903609041">
+    <Entry Unknown0="228882122" Unknown1="1805613830">
+      <SDL2 Key="1069714209">
         <Unknown>
           <Entry>
             <Values>
@@ -3028,17 +3210,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>バレンタインね……。</Dialog>
+          <Dialog>Valentine's...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲はお菓子作り得意だもんな、腕の見せ所だ。</Dialog>
-          <Dialog>ん……パパに、ご近所さんに、患者さんに……。</Dialog>
-          <Dialog>うんうん。</Dialog>
-          <Dialog>でも、それだけ。ちょっとだけ、寂しいかな。</Dialog>
+          <Dialog>▲高嶺＊＊▲ is good at making 
+sweets, it's a show of her 
+skills.</Dialog>
+          <Dialog>Hmm... for Papa, neighbors, 
+patients...</Dialog>
+          <Dialog>Yes, yes.</Dialog>
+          <Dialog>But, that's it. Isn't that 
+a little lonely?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2105038508" Unknown1="2214719486">
-      <SDL2 Key="1402353683">
+    <Entry Unknown0="224112586" Unknown1="871922621">
+      <SDL2 Key="1069714209">
         <Unknown>
           <Entry>
             <Values>
@@ -3083,17 +3269,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ホワイトデーって、やっぱり大変なの？</Dialog>
+          <Dialog>Is White Day really tough?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>大変ってことはないけど……まあ、楽しみな方が強いかな。</Dialog>
-          <Dialog>そっか……やっぱり。</Dialog>
-          <Dialog>▲高嶺＊＊▲は楽しみじゃないのか？　お返しもらえるだろ？</Dialog>
-          <Dialog>そうね……うん、楽しみ、かな。</Dialog>
+          <Dialog>It's not hard, but... Well, 
+I think it's better to have 
+fun.</Dialog>
+          <Dialog>I see... I knew so.</Dialog>
+          <Dialog>Isn't it fun for▲高嶺＊＊▲? You 
+can have something back, 
+right?</Dialog>
+          <Dialog>That's right... Yes, I 
+guess it's fun.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3541396234" Unknown1="406211995">
-      <SDL2 Key="2132070980">
+    <Entry Unknown0="3300175745" Unknown1="637022742">
+      <SDL2 Key="1069714209">
         <Unknown>
           <Entry>
             <Values>
@@ -3153,19 +3344,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲。</Dialog>
-          <Dialog>あのね。実はわたし、その、今日お誕生日で。</Dialog>
-          <Dialog>おお、おめでとう！</Dialog>
-          <Dialog>ありがとう。ふふ、自分から言わせちゃったね。</Dialog>
-          <Dialog>いいじゃん、言わせて言わせてけ！</Dialog>
-          <Dialog>もう。なあにそれ。</Dialog>
+          <Dialog>▲高嶺＊＊▲.</Dialog>
+          <Dialog>You know. Well, today is my 
+birthday.</Dialog>
+          <Dialog>Oh, congratulations!</Dialog>
+          <Dialog>Thank you. Fufu, I made you 
+say it.</Dialog>
+          <Dialog>It's okay, let me say it!</Dialog>
+          <Dialog>Geez. What are you trying 
+to do.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1883949479" Unknown1="3432311504">
-      <SDL2 Key="2940475807">
+    <Entry Unknown0="1035232986" Unknown1="615484182">
+      <SDL2 Key="1069714209">
         <Unknown>
           <Entry>
             <Values>
@@ -3214,17 +3408,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。お誕生日よね、おめでとう。</Dialog>
+          <Dialog>▲主人公＊▲. Happy birthday, 
+congratulations.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>覚えててくれたんだ、ありがと。もしかして、なにかくれる？</Dialog>
-          <Dialog>それは……カノジョさんに悪いかなって。</Dialog>
-          <Dialog>そっか、気つかってくれたんだ。サンキュ。</Dialog>
-          <Dialog>うん。だから、言葉だけでガマンしてね。</Dialog>
+          <Dialog>Thank you for remembering. 
+Don't tell me, are you 
+planning something?</Dialog>
+          <Dialog>That... would be bad for 
+girlfriend-san.</Dialog>
+          <Dialog>I see, good thing you 
+noticed. Thank you.</Dialog>
+          <Dialog>Hmm. That's why I'm afraid 
+of just saying that much.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2376623836" Unknown1="2838568750">
-      <SDL2 Key="2940475807">
+    <Entry Unknown0="1030479834" Unknown1="1577618381">
+      <SDL2 Key="3649371880">
         <Unknown>
           <Entry>
             <Values>
@@ -3269,17 +3469,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>メリークリスマス。</Dialog>
+          <Dialog>Merry Christmas.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>メリークリスマス！</Dialog>
-          <Dialog>クリスマスはやっぱり……カノジョさんと？</Dialog>
-          <Dialog>んー、まあ、はは！</Dialog>
-          <Dialog>……ふふ、ステキね。</Dialog>
+          <Dialog>Merry Christmas!</Dialog>
+          <Dialog>It's Christmas... are you 
+going to spend it with 
+girlfriend-san?</Dialog>
+          <Dialog>Mmmm, well haha!</Dialog>
+          <Dialog>... Fufu, nice.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3812997946" Unknown1="3966139851">
-      <SDL2 Key="2940475807">
+    <Entry Unknown0="4106542993" Unknown1="285753894">
+      <SDL2 Key="3649371880">
         <Unknown>
           <Entry>
             <Values />
@@ -3368,23 +3570,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲。</Dialog>
+          <Dialog>▲高嶺＊＊▲.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。どうしたの？</Dialog>
-          <Dialog>実は相談があって……。</Dialog>
-          <Dialog>そう……カノジョさんへのプレゼント。</Dialog>
-          <Dialog>女子の意見も聞きたくてさ。悪いけど、頼むよ。</Dialog>
-          <Dialog>わたしで役に立てるかわからないけど……うん、がんばるね。</Dialog>
-          <Dialog>頼りにしてるよ。</Dialog>
-          <Dialog>色々調べるの、楽しそう。女心の研究！　……なんて。</Dialog>
-          <Dialog>はは、▲高嶺＊＊▲だって女じゃん。</Dialog>
-          <Dialog>あ……もう、笑わないで。</Dialog>
-          <Dialog>悪い。じゃあ、お願いな。</Dialog>
+          <Dialog>▲主人公＊▲. What's wrong?</Dialog>
+          <Dialog>Actually, I had something 
+to ask you...</Dialog>
+          <Dialog>Yes... a gift for 
+girlfriend-san.</Dialog>
+          <Dialog>I want to hear the opinion 
+of a girl. I'm sorry, in 
+advance.</Dialog>
+          <Dialog>I don't know if it will be 
+useful... Yes, I'll do my 
+best.</Dialog>
+          <Dialog>I'm counting on you.</Dialog>
+          <Dialog>It looks fun to look into 
+various things. A study of 
+a woman's mind!... I'm 
+kidding.</Dialog>
+          <Dialog>Haha,▲高嶺＊＊▲ is a woman.</Dialog>
+          <Dialog>Oh... don't laugh anymore.</Dialog>
+          <Dialog>I'm sorry. Then, please.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2155485655" Unknown1="3636730368">
-      <SDL2 Key="3481554922">
+    <Entry Unknown0="767858410" Unknown1="280992550">
+      <SDL2 Key="3649371880">
         <Unknown>
           <Entry>
             <Values>
@@ -3459,21 +3670,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もしもし、高嶺です。</Dialog>
+          <Dialog>Hello, it's Takane.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もしもし。▲苗字▲だけど、ちょっと頼みがあって。</Dialog>
-          <Dialog>頼み？　何かな。</Dialog>
-          <Dialog>えっとな……。</Dialog>
-          <Dialog>カノジョさんへのプレゼント……素敵ね。</Dialog>
-          <Dialog>もちろん、いいよ。</Dialog>
-          <Dialog>ありがとう、女子の意見も聞きたくて。</Dialog>
-          <Dialog>それでわたしに？　責任重大ね。</Dialog>
-          <Dialog>はは、そんなに身構えなくてもいいよ。よろしくな。</Dialog>
+          <Dialog>Hello. It's▲苗字▲, but I have 
+a request.</Dialog>
+          <Dialog>Request? I wonder.</Dialog>
+          <Dialog>Emm...</Dialog>
+          <Dialog>A gift for my girlfriend... 
+it would be nice.</Dialog>
+          <Dialog>Of course, it's okay.</Dialog>
+          <Dialog>Thank you, I want to hear 
+an opinion from a girl.</Dialog>
+          <Dialog>That would be me? I have to 
+give a serious reply.</Dialog>
+          <Dialog>Haha, you don't have to be 
+so serious. Thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3721967116" Unknown1="2103529310">
-      <SDL2 Key="3481554922">
+    <Entry Unknown0="763088874" Unknown1="1243126749">
+      <SDL2 Key="1240689581">
         <Unknown>
           <Entry>
             <Values />
@@ -3677,39 +3893,55 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（▲高嶺＊＊▲、まだかな……）</Dialog>
+          <Dialog>（▲高嶺＊＊▲, I wonder if...）</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。ごめんね、待たせちゃったかな。</Dialog>
-          <Dialog>待ってないよ。ありがとな、急な頼みなのに。</Dialog>
-          <Dialog>ううん、大丈夫。それに、おかしなプレゼントじゃ、カノジョさんも可哀想でしょ？</Dialog>
-          <Dialog>はは、頼もしいな。よろしく頼むよ。</Dialog>
-          <Dialog>はい、任されます。</Dialog>
-          <Dialog>▲高嶺＊＊▲。なんか、いいの見つかった？</Dialog>
-          <Dialog>そうね……さっき、向こうで見たのが……。</Dialog>
-          <Dialog>お、どんなの？</Dialog>
-          <Dialog>えっと、もう一度見て来るね。</Dialog>
-          <Dialog>おい、▲高嶺＊＊▲。</Dialog>
-          <Dialog>……行っちゃった。</Dialog>
-          <Dialog>（▲高嶺＊＊▲はこんなときでも真面目だな……）</Dialog>
-          <Dialog>あ、ごめんね。勝手に行っちゃって……どうしたの？</Dialog>
-          <Dialog>ちょっと……▲彼女＊＊▲が、ここにいてさ。</Dialog>
-          <Dialog>そうなの……お話したの？</Dialog>
-          <Dialog>まあ……。</Dialog>
-          <Dialog>ひょっとして、わたしとのこと誤解されちゃった？　どうしよう……。</Dialog>
-          <Dialog>大丈夫だよ。</Dialog>
-          <Dialog>でも……。</Dialog>
-          <Dialog>▲高嶺＊＊▲は気にすんなって。大丈夫だよ。で、どうだった？</Dialog>
-          <Dialog>あ、えっとね……。</Dialog>
-          <Dialog>今日は助かった。ほんと、ありがとな。</Dialog>
-          <Dialog>ううん、参考になったならいいけど。</Dialog>
-          <Dialog>ああ、バッチリ！</Dialog>
-          <Dialog>ふふ。じゃあ、あとはがんばってね。</Dialog>
-          <Dialog>じゃあな。</Dialog>
+          <Dialog>▲主人公＊▲. I'm sorry I've kept 
+you waiting.</Dialog>
+          <Dialog>I wasn't waiting. Thank 
+you, it was a sudden 
+request.</Dialog>
+          <Dialog>No, it's okay. Besides, 
+it's a peculiar gift, and 
+you don't want girlfriend-
+san to be sad, do you?</Dialog>
+          <Dialog>Haha, you're so reliable. 
+Let's work together.</Dialog>
+          <Dialog>Yes, it's up to you.</Dialog>
+          <Dialog>▲高嶺＊＊▲. Did you find 
+something good?</Dialog>
+          <Dialog>Yeah... I saw something 
+over there...</Dialog>
+          <Dialog>Oh, what is it?</Dialog>
+          <Dialog>Emm, I'll look for it.</Dialog>
+          <Dialog>Hey,▲高嶺＊＊▲.</Dialog>
+          <Dialog>... It's gone.</Dialog>
+          <Dialog>（▲高嶺＊＊▲ is serious even at 
+times like this...）</Dialog>
+          <Dialog>Oh, sorry. I went on my 
+own... what happened?</Dialog>
+          <Dialog>Wait...▲彼女＊＊▲ is here.</Dialog>
+          <Dialog>I see... did you talk?</Dialog>
+          <Dialog>Well...</Dialog>
+          <Dialog>Did she misunderstood 
+something? What should I do?</Dialog>
+          <Dialog>It's okay.</Dialog>
+          <Dialog>But...</Dialog>
+          <Dialog>▲高嶺＊＊▲ Don't worry about 
+it. It's okay. So, how was 
+it?</Dialog>
+          <Dialog>Oh, uh...</Dialog>
+          <Dialog>You saved me today. Thank 
+you, really.</Dialog>
+          <Dialog>Don't mention it, I hope it 
+was helpful.</Dialog>
+          <Dialog>Yes, it was perfect!</Dialog>
+          <Dialog>Fufu. Then do your best.</Dialog>
+          <Dialog>See you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="863357802" Unknown1="3751718395">
-      <SDL2 Key="3112560939">
+    <Entry Unknown0="3839152033" Unknown1="3792720438">
+      <SDL2 Key="3821395588">
         <Unknown>
           <Entry>
             <Values>
@@ -3819,26 +4051,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲高嶺＊＊▲!?</Dialog>
-          <Dialog>……どうして、そんなに驚くの？</Dialog>
-          <Dialog>まあ……ほら、いきなりだったから。</Dialog>
-          <Dialog>そう……二人でお出かけ？</Dialog>
-          <Dialog>え？</Dialog>
-          <Dialog>…………。</Dialog>
-          <Dialog>えっと……。</Dialog>
-          <Dialog>図書委員の活動、なの？</Dialog>
-          <Dialog>バイトの用事、なの？</Dialog>
-          <Dialog>まあ、そんなとこかな。</Dialog>
-          <Dialog>……そう、がんばってね。わたしは行くから。</Dialog>
-          <Dialog>ああ、じゃあな。</Dialog>
-          <Dialog>（▲高嶺＊＊▲、見られてたのか……）</Dialog>
+          <Dialog>... Why are you so 
+surprised?</Dialog>
+          <Dialog>Well, you know, it was 
+sudden.</Dialog>
+          <Dialog>So, are you two going out?</Dialog>
+          <Dialog>Huh?</Dialog>
+          <Dialog>...,</Dialog>
+          <Dialog>Emm...</Dialog>
+          <Dialog>Library committe activity?</Dialog>
+          <Dialog>Is this a part-time job?</Dialog>
+          <Dialog>Well, I guess that's the 
+way it is.</Dialog>
+          <Dialog>...That so, give your best. 
+I'm going now.</Dialog>
+          <Dialog>Yes, see you.</Dialog>
+          <Dialog>（▲高嶺＊＊▲, I wonder if she 
+saw...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3500812551" Unknown1="636766768">
-      <SDL2 Key="3112560939">
+    <Entry Unknown0="1574209274" Unknown1="1305455414">
+      <SDL2 Key="3821395588">
         <Unknown>
           <Entry>
             <Values>
@@ -3888,18 +4125,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あの、気をつけてね？</Dialog>
+          <Dialog>Um, be careful okay?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>え、何を？</Dialog>
-          <Dialog>カノジョさんとのお付き合い。ずいぶん、遠慮なくしてるみたいだけど……。</Dialog>
-          <Dialog>そうかな？</Dialog>
-          <Dialog>はい。特に学校での軽はずみな行動は、避けるように。</Dialog>
-          <Dialog>（くぎを刺されてしまった）</Dialog>
+          <Dialog>Eh, what?</Dialog>
+          <Dialog>Your relationship with 
+girlfriend-san. It seems 
+like you are doing it for a 
+long time...</Dialog>
+          <Dialog>Is that right?</Dialog>
+          <Dialog>Yes. Especially avoid light-
+hearted behavior at school.</Dialog>
+          <Dialog>（She hit the nail）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3976775228" Unknown1="2190573454">
-      <SDL2 Key="3279328093">
+    <Entry Unknown0="1569456122" Unknown1="4113083373">
+      <SDL2 Key="3821395588">
         <Unknown>
           <Entry>
             <Values>
@@ -3949,18 +4190,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>こら、気をつけてください。</Dialog>
+          <Dialog>Hey, please be careful.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>え、●、なんかしたっけ？</Dialog>
-          <Dialog>カノジョさんとのお付き合いのこと、ちょっと行き過ぎてるかも。</Dialog>
-          <Dialog>そんなことないって、普通だよ。</Dialog>
-          <Dialog>……そうなのかもしれないけど、わたしから見たら、行き過ぎてます。</Dialog>
-          <Dialog>（そりゃ▲高嶺＊＊▲基準じゃなあ……）</Dialog>
+          <Dialog>Eh, did I do something?</Dialog>
+          <Dialog>Your relationship with 
+girlfriend-san may have 
+gone too far.</Dialog>
+          <Dialog>It's normal to do that.</Dialog>
+          <Dialog>...Maybe that's right, but 
+from my point of view, it's 
+gone too far.</Dialog>
+          <Dialog>（So that's not▲高嶺＊＊▲ 
+standard...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1134893978" Unknown1="583458091">
-      <SDL2 Key="2071481742">
+    <Entry Unknown0="350551985" Unknown1="1596482118">
+      <SDL2 Key="3821395588">
         <Unknown>
           <Entry>
             <Values>
@@ -4010,18 +4256,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もう、どうしてそんなにはばからずに、その……できるの？</Dialog>
+          <Dialog>Why can you do that now... 
+without hesitating so much?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>え、なんだろ……カノジョとのこと？</Dialog>
-          <Dialog>そうです。仲がいいのはいいことだけど、高校生なのよ？</Dialog>
-          <Dialog>高校生らしく……してるつもりだけどな、報告した方がいい？</Dialog>
-          <Dialog>報告って……バカ！</Dialog>
-          <Dialog>（いって～……）</Dialog>
+          <Dialog>Eh, what about... are you 
+talking about my girlfriend?</Dialog>
+          <Dialog>That's right. It's good to 
+be on good terms, but 
+remember you are a high 
+school student, okay?</Dialog>
+          <Dialog>I'm a high school student...
+I'm going to do it, should 
+I make a report it?</Dialog>
+          <Dialog>Report it... stupid!</Dialog>
+          <Dialog>（She said it...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3772414263" Unknown1="3592714848">
-      <SDL2 Key="2880922842">
+    <Entry Unknown0="1306834442" Unknown1="1591720774">
+      <SDL2 Key="603264735">
         <Unknown>
           <Entry>
             <Values>
@@ -4066,17 +4319,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>少し、口を出してもいいかな。</Dialog>
+          <Dialog>May we speak a little?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なにに？　あ、まさか……。</Dialog>
-          <Dialog>はい、あなたの交際について。</Dialog>
-          <Dialog>ボクは悪くありませーん。</Dialog>
-          <Dialog>もう！</Dialog>
+          <Dialog>What? No way...</Dialog>
+          <Dialog>Yes, it's about your 
+relationship.</Dialog>
+          <Dialog>I'm not bad.</Dialog>
+          <Dialog>Geez!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1027085932" Unknown1="3082923966">
-      <SDL2 Key="2880922842">
+    <Entry Unknown0="1302064906" Unknown1="2151201789">
+      <SDL2 Key="603264735">
         <Unknown>
           <Entry>
             <Values>
@@ -4126,18 +4380,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>やっぱり、カノジョさんって苦労してるのかな。</Dialog>
+          <Dialog>I knew it, I wonder if 
+girlfriend-san is having a 
+hard time.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>え、そんなことないと思うけど。</Dialog>
-          <Dialog>こう言うとなんだけど、あなた、少しだらしないところもあるから……。</Dialog>
-          <Dialog>えー!?</Dialog>
-          <Dialog>きっと色々苦労してるのかな……って。</Dialog>
-          <Dialog>（ひでえなあ……）</Dialog>
+          <Dialog>Emm, I don't think so.</Dialog>
+          <Dialog>You say that, but you're a 
+little lazy...</Dialog>
+          <Dialog>Eh!?</Dialog>
+          <Dialog>I'm sure you're having a 
+lot of troubles...</Dialog>
+          <Dialog>（That's terrible...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2480221130" Unknown1="3589672283">
-      <SDL2 Key="1668933553">
+    <Entry Unknown0="83161025" Unknown1="1748529750">
+      <SDL2 Key="603264735">
         <Unknown>
           <Entry>
             <Values>
@@ -4187,18 +4445,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>カノジョさん、偉いと思うな。</Dialog>
+          <Dialog>I think it's going great 
+with your girlfriend-san.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>？　まあ、そうかもな。</Dialog>
-          <Dialog>あなたのワガママ、聞いてあげてるんだもんね。</Dialog>
-          <Dialog>そんなワガママなんて言ってない……と思うけど。</Dialog>
-          <Dialog>うん、わたしはカノジョさんの味方だな。</Dialog>
-          <Dialog>（▲彼女＊＊▲と▲高嶺＊＊▲が組まれたら……怖いな）</Dialog>
+          <Dialog>? Well, maybe.</Dialog>
+          <Dialog>I'm listening to your 
+selfishness.</Dialog>
+          <Dialog>I don't think I'm such a 
+selfish person...</Dialog>
+          <Dialog>Yes, I'm on your girlfriend-
+san's side.</Dialog>
+          <Dialog>（▲彼女＊＊▲ and▲高嶺＊＊▲united... 
+it's scary）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="805996903" Unknown1="2203363984">
-      <SDL2 Key="2243501339">
+    <Entry Unknown0="2113185306" Unknown1="1810877270">
+      <SDL2 Key="603264735">
         <Unknown>
           <Entry>
             <Values>
@@ -4248,18 +4511,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>カノジョさんにも、少し責任あるんじゃないかな。</Dialog>
+          <Dialog>Maybe girlfriend-san has a 
+little responsibility.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん？　▲彼女＊＊▲がなんかしたか？</Dialog>
-          <Dialog>そういうわけじゃないけど……あなたがだらしないのって、カノジョさんにも責任があるのかも……って思って。</Dialog>
-          <Dialog>……だらしないか？</Dialog>
-          <Dialog>よく、でれーってしてる。二人きりならともかく、公然とはどうなのかな。特に学校で！</Dialog>
-          <Dialog>（反省……すべき？）</Dialog>
+          <Dialog>Hmm?　What happened to 
+▲彼女＊＊▲?</Dialog>
+          <Dialog>That's not the case... I 
+wonder if girlfriend-san is 
+also responsible for you 
+being lazy.</Dialog>
+          <Dialog>... Are you lazy?</Dialog>
+          <Dialog>Well, maybe I am. I don't 
+know if it's just the two 
+of us. Especially at school!</Dialog>
+          <Dialog>（Should I reflect on it?）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1298671260" Unknown1="1693573102">
-      <SDL2 Key="3051963511">
+    <Entry Unknown0="2108366618" Unknown1="2471021325">
+      <SDL2 Key="1127566394">
         <Unknown>
           <Entry>
             <Values>
@@ -4309,18 +4579,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>カノジョさんは、いいよね……。</Dialog>
+          <Dialog>Girlfriend-san, is so 
+good...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なんで？　そりゃあ、▲彼女＊＊▲は最高だけど、▲高嶺＊＊▲だってなあ！</Dialog>
-          <Dialog>……わたしにはそうやって、最高だなんて言ってくれるカレシはいませんから。</Dialog>
-          <Dialog>え……カレシ欲しいの？</Dialog>
-          <Dialog>そ、そういうわけじゃありません！　もう、やめて。</Dialog>
-          <Dialog>（まんざらでもなさそうだけど……実際はなにもないんだろうな）</Dialog>
+          <Dialog>Why? Well,▲彼女＊＊▲ is the 
+best, but▲高嶺＊＊▲ is second 
+to none!</Dialog>
+          <Dialog>...I don't have a boyfriend 
+to say that to me.</Dialog>
+          <Dialog>Huh... do you want a 
+boyfriend?</Dialog>
+          <Dialog>That's not the case! Stop 
+it.</Dialog>
+          <Dialog>（It doesn't look like it's 
+okay...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2735045626" Unknown1="2552642955">
-      <SDL2 Key="3051963511">
+    <Entry Unknown0="872685521" Unknown1="1699250790">
+      <SDL2 Key="1127566394">
         <Unknown>
           <Entry>
             <Values>
@@ -4370,18 +4647,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>カノジョさん、やっぱりステキよね。</Dialog>
+          <Dialog>I knew it, girlfriend-san 
+is wondeful.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はは、なんだよ急に。まいったな！</Dialog>
-          <Dialog>でもわたしだって……。</Dialog>
-          <Dialog>え？</Dialog>
-          <Dialog>……なんでもありません。</Dialog>
-          <Dialog>（……わたしだって？）</Dialog>
+          <Dialog>Haha, why so suddenly. Wait!</Dialog>
+          <Dialog>But me too...</Dialog>
+          <Dialog>Huh?</Dialog>
+          <Dialog>... It's nothing.</Dialog>
+          <Dialog>（...What about you?）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1077598615" Unknown1="2894387904">
-      <SDL2 Key="3051963511">
+    <Entry Unknown0="1829033514" Unknown1="1694489446">
+      <SDL2 Key="1127566394">
         <Unknown>
           <Entry>
             <Values>
@@ -4431,18 +4709,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>わたしって、ダメなのかな……。</Dialog>
+          <Dialog>I shouldn't do...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうした？　ダメってこたないだろ。勉強だって、部活だって、生活態度だって……なあ？</Dialog>
-          <Dialog>そういうことじゃなくて……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>恋愛とか、そういうのって……全然ダメだし。</Dialog>
-          <Dialog>（まあ、▲高嶺＊＊▲だしなあ……）</Dialog>
+          <Dialog>What happened? Your 
+studies, club activities, 
+life attitudes... What?</Dialog>
+          <Dialog>Not that...</Dialog>
+          <Dialog>Hmm?</Dialog>
+          <Dialog>Love or something like 
+that... it's no good at all.</Dialog>
+          <Dialog>（Well,▲高嶺＊＊▲ will be 
+okay...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2644014796" Unknown1="153161502">
-      <SDL2 Key="1840953165">
+    <Entry Unknown0="1840975658" Unknown1="3193494301">
+      <SDL2 Key="1127566394">
         <Unknown>
           <Entry>
             <Values>
@@ -4492,18 +4774,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねえ、大丈夫？</Dialog>
+          <Dialog>Hey, are you okay?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●？　なんで、なんかおかしいか？</Dialog>
-          <Dialog>なんとなく……だけど、お付き合いするのって、楽しいだけじゃなくて色々あるものでしょ？</Dialog>
-          <Dialog>ああ、そういうのか……それなら大丈夫かな。カノジョのためなら全然辛くない！</Dialog>
-          <Dialog>そう、すごいのね……。</Dialog>
-          <Dialog>（感心されてしまった）</Dialog>
+          <Dialog>Me? Why, is something wrong?</Dialog>
+          <Dialog>Somehow... Is it not fun 
+just to have a relationhip?</Dialog>
+          <Dialog>Yes, that's right... in 
+that case it's okay. It's 
+not hard for my girlfriend!</Dialog>
+          <Dialog>That so, amazing...</Dialog>
+          <Dialog>（I impressed her）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="4080372522" Unknown1="2874568123">
-      <SDL2 Key="1840953165">
+    <Entry Unknown0="605294561" Unknown1="374903414">
+      <SDL2 Key="4227251985">
         <Unknown>
           <Entry>
             <Values>
@@ -4553,13 +4838,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>やっぱり、自信がないと恋愛できないのかな。</Dialog>
+          <Dialog>I wonder if I can't fall in 
+love without confidence.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>んー、どうだろ。そんなこともないと思うけど。</Dialog>
-          <Dialog>あなたを見てるとそう思うの、カノジョさんといるあなたって、なんだか誇らしそう。</Dialog>
-          <Dialog>そうかあ？　うーん……まあ、そういうのもあるかもな！</Dialog>
-          <Dialog>はあ、少しだけ、うらやましいな。</Dialog>
-          <Dialog>（うらやましがられちゃった）</Dialog>
+          <Dialog>Hmm, I don't know. I don't 
+think that's true.</Dialog>
+          <Dialog>When I look at both you and 
+girlfriend-san, you seem so 
+proud of each other.</Dialog>
+          <Dialog>I see? Hmm... well, maybe 
+there is such a thing!</Dialog>
+          <Dialog>Hmm, I'm a little jealous.</Dialog>
+          <Dialog>（I made her jealous）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

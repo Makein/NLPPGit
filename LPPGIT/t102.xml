@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="3783054550" Unknown="95">
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="2105493902" Unknown="95">
   <Entries>
-    <Entry Unknown0="769751578" Unknown1="184351651">
-      <SDL2 Key="3757227729">
+    <Entry Unknown0="2934970935" Unknown1="2784539882">
+      <SDL2 Key="3584475757">
         <Unknown>
           <Entry>
             <Values>
@@ -17,12 +17,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>セーブせずに電源切ったでしょ？　ルール違反よ。</Dialog>
+          <Dialog>You turned off the power 
+without saving, right? It's 
+against the rules.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1384192295" Unknown1="2858551363">
-      <SDL2 Key="3757227729">
+    <Entry Unknown0="1978519262" Unknown1="2720488423">
+      <SDL2 Key="3584475757">
         <Unknown>
           <Entry>
             <Values>
@@ -41,12 +43,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>セーブせずに電源切ったの？　どうしてそんなにひどいことするの？</Dialog>
+          <Dialog>Did you turn off the power 
+without saving? Why are you 
+doing something so terrible?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="4075088583" Unknown1="225355942">
-      <SDL2 Key="3757227729">
+    <Entry Unknown0="1243163099" Unknown1="1590646803">
+      <SDL2 Key="3584475757">
         <Unknown>
           <Entry>
             <Values>
@@ -61,12 +65,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>セーブせずに電源切ったよね？　ちゃんとお見通しなんだから。</Dialog>
+          <Dialog>You turned off the power 
+without saving, right? It's 
+a good prospect.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1576094251" Unknown1="4262202291">
-      <SDL2 Key="3757227729">
+    <Entry Unknown0="2663393798" Unknown1="298353850">
+      <SDL2 Key="2640856628">
         <Unknown>
           <Entry>
             <Values>
@@ -81,12 +87,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>またセーブせずに電源切って……。せっかく許してあげたのに。</Dialog>
+          <Dialog>You turned off the power 
+without saving again... I 
+went to all this trouble 
+to forgive you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1116858678" Unknown1="1584535635">
-      <SDL2 Key="3757227729">
+    <Entry Unknown0="633151151" Unknown1="385297335">
+      <SDL2 Key="2640856628">
         <Unknown>
           <Entry>
             <Values>
@@ -101,12 +110,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>またセーブせずに電源切った……。この前もちゃんと注意したのに。</Dialog>
+          <Dialog>You turned off the power 
+without saving again... I 
+was careful the other day.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3807705814" Unknown1="4185831606">
-      <SDL2 Key="3757227729">
+    <Entry Unknown0="988379562" Unknown1="1251944675">
+      <SDL2 Key="2640856628">
         <Unknown>
           <Entry>
             <Values>
@@ -121,12 +132,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>またセーブせずに電源切った？　わたしのお願い、聞いてなかったの？</Dialog>
+          <Dialog>Did you turn off the power 
+without saving again? 
+Didn't you hear my request?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1291934267" Unknown1="1914444739">
-      <SDL2 Key="3757227729">
+    <Entry Unknown0="1318091478" Unknown1="2644006026">
+      <SDL2 Key="2640856628">
         <Unknown>
           <Entry>
             <Values>
@@ -141,12 +154,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……どうして怒ってるか、わかってるよね？　セーブせずに電源切ったからよ？</Dialog>
+          <Dialog>You know why I'm angry 
+right? You turned off the 
+power without saving, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1923217734" Unknown1="310519907">
-      <SDL2 Key="3757227729">
+    <Entry Unknown0="361574015" Unknown1="2596797319">
+      <SDL2 Key="3450305679">
         <Unknown>
           <Entry>
             <Values>
@@ -161,12 +176,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>何度もセーブせずに電源切って……わざとだったら、よくないよ。</Dialog>
+          <Dialog>You turned off the power 
+without saving many 
+times... It's not good it 
+it's on purpose.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="302303974" Unknown1="1972291782">
-      <SDL2 Key="3757227729">
+    <Entry Unknown0="3938027898" Unknown1="2792356019">
+      <SDL2 Key="3450305679">
         <Unknown>
           <Entry>
             <Values>
@@ -185,12 +203,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>セーブせずに電源切ったの、これで何度目？　もう限界です。</Dialog>
+          <Dialog>You turned off the power 
+without saving, how many 
+times have you done this? 
+This is the limit.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2098276939" Unknown1="1663839187">
-      <SDL2 Key="2546152119">
+    <Entry Unknown0="1046514342" Unknown1="1281893466">
+      <SDL2 Key="3450305679">
         <Unknown>
           <Entry>
             <Values>
@@ -205,12 +226,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>「もうしません、許してください」って言って。心を込めて言って。</Dialog>
+          <Dialog>Say "I won't do it anymore, 
+please forgive me". Say it 
+with all your heart.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1655818582" Unknown1="59914355">
-      <SDL2 Key="2546152119">
+    <Entry Unknown0="3311238735" Unknown1="1268239191">
+      <SDL2 Key="3450305679">
         <Unknown>
           <Entry>
             <Values>
@@ -225,12 +248,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>謝る方法は「もうしません、許してください」って言って。そうしたら……もう一度信じるから。</Dialog>
+          <Dialog>The way to apologize is 
+saying "I won't do it 
+anymore, please forgive me".
+Then... I'll believe in you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="34921206" Unknown1="1688131798">
-      <SDL2 Key="2546152119">
+    <Entry Unknown0="3666467146" Unknown1="2537539715">
+      <SDL2 Key="3450305679">
         <Unknown>
           <Entry>
             <Values>
@@ -245,12 +271,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>「もうしません、許してください」って言ってくれるまで、許さないよ？</Dialog>
+          <Dialog>Until you say "I won't do 
+it anymore, please forgive 
+me", I won't forgive you, 
+understand?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1830894171" Unknown1="2419866595">
-      <SDL2 Key="2546152119">
+    <Entry Unknown0="3996179062" Unknown1="1060697130">
+      <SDL2 Key="3990332394">
         <Unknown>
           <Entry>
             <Values>
@@ -265,12 +294,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……言って。</Dialog>
+          <Dialog>... Say it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2462177638" Unknown1="815941763">
-      <SDL2 Key="2546152119">
+    <Entry Unknown0="3039661599" Unknown1="946314023">
+      <SDL2 Key="3990332394">
         <Unknown>
           <Entry>
             <Values>
@@ -285,12 +314,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>悪いと思ってないの……？</Dialog>
+          <Dialog>Don't you feel bad...?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="841263622" Unknown1="2544822502">
-      <SDL2 Key="2546152119">
+    <Entry Unknown0="2321148186" Unknown1="1141872723">
+      <SDL2 Key="3990332394">
         <Unknown>
           <Entry>
             <Values>
@@ -305,12 +334,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>勇気、出して。</Dialog>
+          <Dialog>Have courage, do it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2637236843" Unknown1="2169261043">
-      <SDL2 Key="2546152119">
+    <Entry Unknown0="3724601926" Unknown1="3993552122">
+      <SDL2 Key="3990332394">
         <Unknown>
           <Entry>
             <Values>
@@ -329,12 +358,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>「もうしません、許してください」。……何度も言わせないで。</Dialog>
+          <Dialog>"I won't do it anymore, 
+please forgive me"... Don't 
+make me repeat it again.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2194778486" Unknown1="565336211">
-      <SDL2 Key="2546152119">
+    <Entry Unknown0="1711136495" Unknown1="3912723447">
+      <SDL2 Key="3990332394">
         <Unknown>
           <Entry>
             <Values>
@@ -349,12 +380,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ちゃんと聞いてね。「もうしません、許してください」。</Dialog>
+          <Dialog>Listen well. "I won't do it 
+anymore, please forgive me".</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="573880854" Unknown1="2260662518">
-      <SDL2 Key="2546152119">
+    <Entry Unknown0="2049522154" Unknown1="903833635">
+      <SDL2 Key="3990332394">
         <Unknown>
           <Entry>
             <Values>
@@ -369,12 +401,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>「もうしません、許してください」。言えるよね？</Dialog>
+          <Dialog>"I won't do it anymore, 
+please forgive me". Can you 
+say it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2369854075" Unknown1="3059505923">
-      <SDL2 Key="3086182419">
+    <Entry Unknown0="2396011030" Unknown1="3654849738">
+      <SDL2 Key="2812880561">
         <Unknown>
           <Entry>
             <Values>
@@ -389,12 +423,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もっとちゃんと言って。大事なことだから。</Dialog>
+          <Dialog>Say it more properly. 
+Because it's important.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3001137542" Unknown1="1455581347">
-      <SDL2 Key="3086182419">
+    <Entry Unknown0="1439559359" Unknown1="3725016007">
+      <SDL2 Key="2812880561">
         <Unknown>
           <Entry>
             <Values>
@@ -409,12 +444,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ごめん、よく聞こえないよ。もう１回。ね？</Dialog>
+          <Dialog>I'm sorry, I didn't get 
+that. One more time, okay?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1380223526" Unknown1="2983069702">
-      <SDL2 Key="3086182419">
+    <Entry Unknown0="720980410" Unknown1="3803134195">
+      <SDL2 Key="2812880561">
         <Unknown>
           <Entry>
             <Values>
@@ -429,12 +465,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そんな言い方じゃ納得できない。はっきりと、もう１回。</Dialog>
+          <Dialog>I'm not convinced with just 
+that. Clearly, one more 
+time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3176262283" Unknown1="2808900371">
-      <SDL2 Key="3086182419">
+    <Entry Unknown0="2124434150" Unknown1="2292737178">
+      <SDL2 Key="2812880561">
         <Unknown>
           <Entry>
             <Values>
@@ -449,12 +487,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そう来るなんて……。うん、許してあげる。</Dialog>
+          <Dialog>I can believe that... Yes, 
+I forgive you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2733738390" Unknown1="1204975795">
-      <SDL2 Key="3086182419">
+    <Entry Unknown0="94191247" Unknown1="2413235095">
+      <SDL2 Key="2812880561">
         <Unknown>
           <Entry>
             <Values>
@@ -469,12 +508,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>えっ……ずるい。許しちゃうって、知ってるくせに……。</Dialog>
+          <Dialog>Eh... sly. You know, I 
+forgive you...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1112840758" Unknown1="2698909718">
-      <SDL2 Key="3086182419">
+    <Entry Unknown0="449419658" Unknown1="3548317891">
+      <SDL2 Key="3621280811">
         <Unknown>
           <Entry>
             <Values>
@@ -489,12 +529,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あっ……お願いしたのと違う……。違うけど……許してあげる。</Dialog>
+          <Dialog>Ah... It's different from 
+what I asked... It's not 
+right... But, I forgive you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2908879515" Unknown1="3564927779">
-      <SDL2 Key="3086182419">
+    <Entry Unknown0="779131574" Unknown1="2071475306">
+      <SDL2 Key="3621280811">
         <Unknown>
           <Entry>
             <Values>
@@ -509,12 +551,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ちゃんと言ってくれたね。</Dialog>
+          <Dialog>You told me properly.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3523320230" Unknown1="1961003203">
-      <SDL2 Key="3086182419">
+    <Entry Unknown0="4117581407" Unknown1="2091375463">
+      <SDL2 Key="3621280811">
         <Unknown>
           <Entry>
             <Values>
@@ -529,12 +571,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん……ちゃんと届いたよ。</Dialog>
+          <Dialog>Yes... You said it properly.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1919183430" Unknown1="3555600422">
-      <SDL2 Key="3086182419">
+    <Entry Unknown0="3399067994" Unknown1="2152716435">
+      <SDL2 Key="3621280811">
         <Unknown>
           <Entry>
             <Values>
@@ -549,12 +591,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もう……仕方ないなあ。</Dialog>
+          <Dialog>Oh, already... I can't help 
+it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3715222187" Unknown1="3314322227">
-      <SDL2 Key="3086182419">
+    <Entry Unknown0="507554438" Unknown1="709362746">
+      <SDL2 Key="3621280811">
         <Unknown>
           <Entry>
             <Values>
@@ -569,12 +612,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>お願い。もうひどいことしないでね。</Dialog>
+          <Dialog>I beg of you. Don't do 
+anything terrible anymore.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3255921078" Unknown1="1710397651">
-      <SDL2 Key="3086182419">
+    <Entry Unknown0="2772278831" Unknown1="762817335">
+      <SDL2 Key="2678771682">
         <Unknown>
           <Entry>
             <Values>
@@ -589,12 +633,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あなたのこと、もう一度信じるから。</Dialog>
+          <Dialog>I'll believe in you again.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1651800662" Unknown1="3271440438">
-      <SDL2 Key="3086182419">
+    <Entry Unknown0="3127507242" Unknown1="1897900131">
+      <SDL2 Key="2678771682">
         <Unknown>
           <Entry>
             <Values>
@@ -609,12 +653,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>じゃあ、この話はもう終わり。ね？</Dialog>
+          <Dialog>Well then, this story is 
+over. Right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3447839419" Unknown1="4204567363">
-      <SDL2 Key="2143673321">
+    <Entry Unknown0="3457219158" Unknown1="353948682">
+      <SDL2 Key="2678771682">
         <Unknown>
           <Entry>
             <Values>
@@ -629,12 +674,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>これ以上がっかりさせないで……。</Dialog>
+          <Dialog>Don't let me down any 
+more...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="4062280134" Unknown1="2583865571">
-      <SDL2 Key="2143673321">
+    <Entry Unknown0="2500701951" Unknown1="306674439">
+      <SDL2 Key="2678771682">
         <Unknown>
           <Entry>
             <Values>
@@ -649,12 +695,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>黙ったままじゃ、なんにもわからないよ……。</Dialog>
+          <Dialog>If you keep silent, you 
+won't anything...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2458143334" Unknown1="4245571654">
-      <SDL2 Key="2143673321">
+    <Entry Unknown0="1782123002" Unknown1="787445811">
+      <SDL2 Key="2678771682">
         <Unknown>
           <Entry>
             <Values>
@@ -669,12 +716,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……根比べ？　負けないから。</Dialog>
+          <Dialog>... A comparison? I won't 
+lose.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="4254182091" Unknown1="2259462995">
-      <SDL2 Key="2143673321">
+    <Entry Unknown0="3202353702" Unknown1="2850596058">
+      <SDL2 Key="3218798173">
         <Unknown>
           <Entry>
             <Values>
@@ -689,12 +737,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>またセーブせずに電源切ったでしょ。……もう！</Dialog>
+          <Dialog>You turned off the power 
+without saving again... 
+Quit that already!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3794880982" Unknown1="3859986675">
-      <SDL2 Key="2143673321">
+    <Entry Unknown0="1172176591" Unknown1="2920762327">
+      <SDL2 Key="3218798173">
         <Unknown>
           <Entry>
             <Values>
@@ -709,12 +759,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>またセーブせずに電源切った……。わたしの言うこと、覚えててくれないの？</Dialog>
+          <Dialog>You turned off the power 
+without saving again... Can 
+you remember what I told 
+you?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2190760566" Unknown1="2166249558">
-      <SDL2 Key="2143673321">
+    <Entry Unknown0="1510562250" Unknown1="1925138435">
+      <SDL2 Key="3218798173">
         <Unknown>
           <Entry>
             <Values>
@@ -729,12 +782,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>わかってるよ、またセーブせずに電源を切ったこと。</Dialog>
+          <Dialog>I know it, you turned off 
+the power without saving 
+again.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3986799323" Unknown1="2008857443">
-      <SDL2 Key="2143673321">
+    <Entry Unknown0="1857051382" Unknown1="3635967146">
+      <SDL2 Key="3218798173">
         <Unknown>
           <Entry>
             <Values>
@@ -749,12 +804,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>許してほしかったら……「マナカが一番大好き」。そう、宣言すること。</Dialog>
+          <Dialog>If you want me to forgive 
+you... "I love Manaka the 
+most". Now, say it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="306272742" Unknown1="3609380867">
-      <SDL2 Key="2143673321">
+    <Entry Unknown0="900533919" Unknown1="3756465063">
+      <SDL2 Key="3218798173">
         <Unknown>
           <Entry>
             <Values>
@@ -769,12 +826,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>「マナカが一番大好き」って言ってくれる？　そしたら、わたしだって……。</Dialog>
+          <Dialog>Can you say "I love Manaka 
+the most"? Then I will 
+too...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2997103238" Unknown1="1882089574">
-      <SDL2 Key="2143673321">
+    <Entry Unknown0="182020506" Unknown1="2744064211">
+      <SDL2 Key="4011408808">
         <Unknown>
           <Entry>
             <Values>
@@ -789,12 +848,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>「マナカが一番大好き」。それくらい言ってもらわないと、許せない。</Dialog>
+          <Dialog>"I love Manaka the most". I 
+can't forgive you unless 
+you tell me that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="498174699" Unknown1="1691143027">
-      <SDL2 Key="2143673321">
+    <Entry Unknown0="1585474246" Unknown1="193479802">
+      <SDL2 Key="4011408808">
         <Unknown>
           <Entry>
             <Values>
@@ -809,12 +870,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>まさか、ずっと黙ってるつもりなの？</Dialog>
+          <Dialog>No way, are you going to 
+keep quiet all the time?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="38873590" Unknown1="3291666451">
-      <SDL2 Key="2143673321">
+    <Entry Unknown0="3850198639" Unknown1="213379959">
+      <SDL2 Key="4011408808">
         <Unknown>
           <Entry>
             <Values>
@@ -829,12 +891,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>どうして何も言ってくれないの？</Dialog>
+          <Dialog>Why don't you tell me 
+anything?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2729720470" Unknown1="1665038454">
-      <SDL2 Key="2143673321">
+    <Entry Unknown0="4205427050" Unknown1="3495946403">
+      <SDL2 Key="4011408808">
         <Unknown>
           <Entry>
             <Values>
@@ -849,12 +912,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>反省してないの？</Dialog>
+          <Dialog>Aren't you remorseful?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="230791931" Unknown1="1440537475">
-      <SDL2 Key="2143673321">
+    <Entry Unknown0="240171670" Unknown1="978850890">
+      <SDL2 Key="4011408808">
         <Unknown>
           <Entry>
             <Values>
@@ -873,12 +936,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ごまかしてもわかるんだから。もう１回。</Dialog>
+          <Dialog>I'll know even if you 
+cheat. One more time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="845232390" Unknown1="3041060899">
-      <SDL2 Key="2143673321">
+    <Entry Unknown0="3578621503" Unknown1="1032305479">
+      <SDL2 Key="2581307790">
         <Unknown>
           <Entry>
             <Values>
@@ -893,12 +957,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>きちんと言ってほしいの。やり直してもらっていい？</Dialog>
+          <Dialog>I want you to say it 
+properly. Can you try again?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3536063142" Unknown1="1380878470">
-      <SDL2 Key="2143673321">
+    <Entry Unknown0="2860108090" Unknown1="19904627">
+      <SDL2 Key="2581307790">
         <Unknown>
           <Entry>
             <Values>
@@ -913,12 +978,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もっとはっきり言って。もう一度、ね。</Dialog>
+          <Dialog>Say it clearly. One more 
+time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1037134347" Unknown1="1257040787">
-      <SDL2 Key="2717127236">
+    <Entry Unknown0="4263561830" Unknown1="1697178650">
+      <SDL2 Key="2581307790">
         <Unknown>
           <Entry>
             <Values>
@@ -933,12 +999,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そんなの、聞きたくない。</Dialog>
+          <Dialog>I don't want to hear that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="577833238" Unknown1="2857564211">
-      <SDL2 Key="2717127236">
+    <Entry Unknown0="2233318927" Unknown1="1649904407">
+      <SDL2 Key="2581307790">
         <Unknown>
           <Entry>
             <Values>
@@ -953,12 +1019,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そんなに言いたくないの？</Dialog>
+          <Dialog>Don't you want to say that 
+much?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3268680374" Unknown1="1298045078">
-      <SDL2 Key="2717127236">
+    <Entry Unknown0="2588481802" Unknown1="1056933955">
+      <SDL2 Key="2581307790">
         <Unknown>
           <Entry>
             <Values>
@@ -973,12 +1040,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あなたの言ってること、よくわからない……。</Dialog>
+          <Dialog>I don't really understand 
+what you are saying...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="769751579" Unknown1="1006435235">
-      <SDL2 Key="2717127236">
+    <Entry Unknown0="2934970934" Unknown1="2499327210">
+      <SDL2 Key="3374045146">
         <Unknown>
           <Entry>
             <Values>
@@ -993,12 +1061,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……うん。たしかに聞こえたよ。</Dialog>
+          <Dialog>...Yes. I heard it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1384192294" Unknown1="2606893123">
-      <SDL2 Key="2717127236">
+    <Entry Unknown0="1978519263" Unknown1="2468830183">
+      <SDL2 Key="3374045146">
         <Unknown>
           <Entry>
             <Values>
@@ -1013,12 +1081,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>よかった……言ってくれなかったらどうしようって。</Dialog>
+          <Dialog>I'm glad... I wonder what 
+would you do if I didn't 
+told you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="4075088582" Unknown1="1013885094">
-      <SDL2 Key="2717127236">
+    <Entry Unknown0="1243163098" Unknown1="1875859475">
+      <SDL2 Key="3374045146">
         <Unknown>
           <Entry>
             <Values>
@@ -1033,12 +1103,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん、ありがとう。よかった。</Dialog>
+          <Dialog>Yes, thank you. I'm glad.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1576094251" Unknown1="671878067">
-      <SDL2 Key="2717127236">
+    <Entry Unknown0="2663393798" Unknown1="3351807162">
+      <SDL2 Key="3374045146">
         <Unknown>
           <Entry>
             <Values>
@@ -1053,12 +1123,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>でも、これくらいじゃまだダメ。「好きだよ」って３回言って。</Dialog>
+          <Dialog>But it's not enough. Say "I 
+like you" 3 times.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1116858678" Unknown1="2289178707">
-      <SDL2 Key="2717127236">
+    <Entry Unknown0="633151151" Unknown1="3237424055">
+      <SDL2 Key="3374045146">
         <Unknown>
           <Entry>
             <Values>
@@ -1077,12 +1148,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>次は……「好きだよ」って３回言って。これで終わりだから。</Dialog>
+          <Dialog>Next... Say "I like you" 3 
+times. Then I'll accept it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3807705814" Unknown1="796833974">
-      <SDL2 Key="2717127236">
+    <Entry Unknown0="988379562" Unknown1="2627676387">
+      <SDL2 Key="3915119925">
         <Unknown>
           <Entry>
             <Values>
@@ -1097,12 +1169,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>じゃあ、「好きだよ」って３回言ってくれたら、本当に許してあげる。</Dialog>
+          <Dialog>Then, if you say "I like 
+you" 3 times, I'll really 
+forgive you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1291934267" Unknown1="421272515">
-      <SDL2 Key="2717127236">
+    <Entry Unknown0="1318091478" Unknown1="4137178250">
+      <SDL2 Key="3915119925">
         <Unknown>
           <Entry>
             <Values>
@@ -1117,12 +1191,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>わたしだって、怒るときは怒るのよ？</Dialog>
+          <Dialog>I'll get angrier next time, 
+okay?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1923217734" Unknown1="2038573155">
-      <SDL2 Key="2717127236">
+    <Entry Unknown0="361574015" Unknown1="4056415111">
+      <SDL2 Key="3915119925">
         <Unknown>
           <Entry>
             <Values>
@@ -1137,12 +1212,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>仲直り、したくないの？</Dialog>
+          <Dialog>Don't you want to make up?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="302303974" Unknown1="512673990">
-      <SDL2 Key="2717127236">
+    <Entry Unknown0="3938027898" Unknown1="3446667443">
+      <SDL2 Key="3915119925">
         <Unknown>
           <Entry>
             <Values>
@@ -1157,12 +1232,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>恥ずかしがらないで、言って。</Dialog>
+          <Dialog>Don't be shy, say it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2098276939" Unknown1="237775827">
-      <SDL2 Key="2717127236">
+    <Entry Unknown0="1046514342" Unknown1="560473178">
+      <SDL2 Key="3915119925">
         <Unknown>
           <Entry>
             <Values>
@@ -1177,12 +1252,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>わたしの言ってること、わかってるでしょ？</Dialog>
+          <Dialog>You know what I mean, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1655818582" Unknown1="1855076467">
-      <SDL2 Key="2717127236">
+    <Entry Unknown0="3311238735" Unknown1="647482199">
+      <SDL2 Key="2736554267">
         <Unknown>
           <Entry>
             <Values>
@@ -1197,12 +1272,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>知らない……。</Dialog>
+          <Dialog>I don't know anymore...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="34921206" Unknown1="161405142">
-      <SDL2 Key="2717127236">
+    <Entry Unknown0="3666467146" Unknown1="4198484099">
+      <SDL2 Key="2736554267">
         <Unknown>
           <Entry>
             <Values>
@@ -1217,12 +1292,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>いいかげんなこと、言わないでほしいな……。</Dialog>
+          <Dialog>I don't want you to tell 
+me anything silly...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1830894171" Unknown1="4282137571">
-      <SDL2 Key="3242473903">
+    <Entry Unknown0="3996179062" Unknown1="1345909802">
+      <SDL2 Key="2736554267">
         <Unknown>
           <Entry>
             <Values>
@@ -1237,12 +1313,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふ、言わせちゃった。</Dialog>
+          <Dialog>Fufu, I made you say it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2462177638" Unknown1="1604470915">
-      <SDL2 Key="3242473903">
+    <Entry Unknown0="3039661599" Unknown1="1466407719">
+      <SDL2 Key="2736554267">
         <Unknown>
           <Entry>
             <Values>
@@ -1257,12 +1333,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……ドキドキしちゃった。</Dialog>
+          <Dialog>... I was excited.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="841263622" Unknown1="4172212454">
-      <SDL2 Key="3242473903">
+    <Entry Unknown0="2321148186" Unknown1="722442323">
+      <SDL2 Key="2736554267">
         <Unknown>
           <Entry>
             <Values>
@@ -1277,12 +1353,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん……言わせておいて、だけど……照れちゃうね、こういうの。</Dialog>
+          <Dialog>Yes... let me tell you, 
+but... I'm shy.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2637236843" Unknown1="3964423155">
-      <SDL2 Key="3242473903">
+    <Entry Unknown0="3724601926" Unknown1="2198390010">
+      <SDL2 Key="3546064743">
         <Unknown>
           <Entry>
             <Values>
@@ -1301,12 +1378,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>じゃ、あらためて仲直りね。これ以上は絶対にナシね？　大切な思い出だもん。</Dialog>
+          <Dialog>Well then, let's make up 
+again. No doing this 
+anymore, okay? It's an 
+important memory.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2194778486" Unknown1="1286756499">
-      <SDL2 Key="3242473903">
+    <Entry Unknown0="1711136495" Unknown1="2218224631">
+      <SDL2 Key="3546064743">
         <Unknown>
           <Entry>
             <Values>
@@ -1325,12 +1405,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>最後に、覚えておいて。たとえイヤなことがあっても、それも二人の思い出だから。</Dialog>
+          <Dialog>Finally, remember it. Even 
+if something seems 
+unpleasant, it's a memory 
+of us.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="573880854" Unknown1="3955161334">
-      <SDL2 Key="3242473903">
+    <Entry Unknown0="2049522154" Unknown1="1491036195">
+      <SDL2 Key="3546064743">
         <Unknown>
           <Entry>
             <Values>
@@ -1349,12 +1432,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>約束して、二度とこんなことしないって。いいことも悪いことも全部、わたしたちの思い出なんだから。</Dialog>
+          <Dialog>Promise you'll never do 
+this again. All good and 
+bad things are part of our 
+memories.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2369854075" Unknown1="3713817347">
-      <SDL2 Key="3242473903">
+    <Entry Unknown0="2396011030" Unknown1="3000538314">
+      <SDL2 Key="3546064743">
         <Unknown>
           <Entry>
             <Values>
@@ -1369,12 +1455,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>いさぎよくないよ……。</Dialog>
+          <Dialog>That's not nice...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3001137542" Unknown1="1036150947">
-      <SDL2 Key="3242473903">
+    <Entry Unknown0="1439559359" Unknown1="3037150151">
+      <SDL2 Key="3546064743">
         <Unknown>
           <Entry>
             <Values>
@@ -1389,12 +1475,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>困った人……。</Dialog>
+          <Dialog>A troublesome person...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1380223526" Unknown1="3670935558">
-      <SDL2 Key="3242473903">
+    <Entry Unknown0="720980410" Unknown1="2309961971">
+      <SDL2 Key="3546064743">
         <Unknown>
           <Entry>
             <Values>
@@ -1409,12 +1495,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……開き直ったりしてないよね？</Dialog>
+          <Dialog>...You haven't re-opened 
+it, have you?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3176262280" Unknown1="1785555731">
-      <SDL2 Key="3242473903">
+    <Entry Unknown0="2124434149" Unknown1="1168729242">
+      <SDL2 Key="2602449485">
         <Unknown>
           <Entry>
             <Values>
@@ -1429,12 +1516,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>本当に反省してるなら……愛の言葉をたくさん言って真剣さを証明してほしい。</Dialog>
+          <Dialog>If you're really reflecting 
+on it... I want you to say 
+a lot of words of love to 
+prove you're serious.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2733738389" Unknown1="2345695411">
-      <SDL2 Key="3242473903">
+    <Entry Unknown0="94191244" Unknown1="1138035607">
+      <SDL2 Key="2602449485">
         <Unknown>
           <Entry>
             <Values>
@@ -1449,12 +1539,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>わたしが言ってもらいたい言葉は“あいしてる”。</Dialog>
+          <Dialog>The word I want you to say 
+is "I love you".</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1112840757" Unknown1="1876760598">
-      <SDL2 Key="3242473903">
+    <Entry Unknown0="449419657" Unknown1="477890755">
+      <SDL2 Key="2602449485">
         <Unknown>
           <Entry>
             <Values>
@@ -1469,12 +1560,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>えっと……“ゴメンなさい”っていっぱい言ってもらおうかな？</Dialog>
+          <Dialog>Um... I would you to say 
+"I'm sorry" a lot, okay?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2908879512" Unknown1="427653923">
-      <SDL2 Key="3242473903">
+    <Entry Unknown0="779131573" Unknown1="3061396586">
+      <SDL2 Key="2602449485">
         <Unknown>
           <Entry>
             <Values>
@@ -1489,12 +1581,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>それじゃあ……“絶対浮気はしません”って宣言して。</Dialog>
+          <Dialog>Well then... Say "I will 
+never cheat".</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3523320229" Unknown1="3202386115">
-      <SDL2 Key="3242473903">
+    <Entry Unknown0="4117581404" Unknown1="3064322919">
+      <SDL2 Key="2602449485">
         <Unknown>
           <Entry>
             <Values>
@@ -1509,12 +1602,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>頑張って♪</Dialog>
+          <Dialog>Do your best♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1919183429" Unknown1="418195494">
-      <SDL2 Key="3242473903">
+    <Entry Unknown0="3399067993" Unknown1="1263327379">
+      <SDL2 Key="3143455384">
         <Unknown>
           <Entry>
             <Values>
@@ -1529,12 +1622,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ファイト！</Dialog>
+          <Dialog>Fight!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3715222184" Unknown1="210602803">
-      <SDL2 Key="3242473903">
+    <Entry Unknown0="507554437" Unknown1="3813213242">
+      <SDL2 Key="3143455384">
         <Unknown>
           <Entry>
             <Values>
@@ -1549,12 +1642,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>う～ん……気持ちが届かないよ。</Dialog>
+          <Dialog>Hmm... My feelings can't 
+reach you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3255921077" Unknown1="2918226131">
-      <SDL2 Key="2314648694">
+    <Entry Unknown0="2772278828" Unknown1="3849694007">
+      <SDL2 Key="3143455384">
         <Unknown>
           <Entry>
             <Values>
@@ -1569,12 +1663,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>しっかり！</Dialog>
+          <Dialog>It was close!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1651800661" Unknown1="905787446">
-      <SDL2 Key="2314648694">
+    <Entry Unknown0="3127507241" Unknown1="2250025059">
+      <SDL2 Key="3143455384">
         <Unknown>
           <Entry>
             <Values>
@@ -1589,12 +1683,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>はい。あなたの気持ち、ちゃんと伝わったよ。</Dialog>
+          <Dialog>Yes. I was able to convey 
+your feelings.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3447839416" Unknown1="60660547">
-      <SDL2 Key="2314648694">
+    <Entry Unknown0="3457219157" Unknown1="3961115658">
+      <SDL2 Key="3143455384">
         <Unknown>
           <Entry>
             <Values>
@@ -1609,12 +1704,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>素敵♪　新記録が出たよ！</Dialog>
+          <Dialog>Nice♪ You set a new record!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="4062280133" Unknown1="3187714275">
-      <SDL2 Key="2314648694">
+    <Entry Unknown0="2500701948" Unknown1="910523143">
+      <SDL2 Key="3951921395">
         <Unknown>
           <Entry>
             <Values>
@@ -1629,12 +1724,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>反省してるなら、その気持ちを反省文で表して。</Dialog>
+          <Dialog>If you're reflecting on it, 
+express those feelings of 
+reflection.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2458143333" Unknown1="3624749126">
-      <SDL2 Key="2314648694">
+    <Entry Unknown0="1782123001" Unknown1="200046643">
+      <SDL2 Key="3951921395">
         <Unknown>
           <Entry>
             <Values>
@@ -1649,12 +1746,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>頑張れ、頑張れ～。</Dialog>
+          <Dialog>Do your best, do your 
+best~.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="4254182088" Unknown1="3433933651">
-      <SDL2 Key="2314648694">
+    <Entry Unknown0="3202353701" Unknown1="3823740122">
+      <SDL2 Key="3951921395">
         <Unknown>
           <Entry>
             <Values>
@@ -1669,12 +1767,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>キレイに書けてるよ。</Dialog>
+          <Dialog>You can write beautifully.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3794880981" Unknown1="2903554291">
-      <SDL2 Key="2314648694">
+    <Entry Unknown0="1172176588" Unknown1="3843378135">
+      <SDL2 Key="3951921395">
         <Unknown>
           <Entry>
             <Values>
@@ -1689,12 +1787,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>丁寧に書かなくちゃ。</Dialog>
+          <Dialog>I have to write it 
+carefully.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2190760565" Unknown1="3038599254">
-      <SDL2 Key="2314648694">
+    <Entry Unknown0="1510562249" Unknown1="1186744323">
+      <SDL2 Key="3951921395">
         <Unknown>
           <Entry>
             <Values>
@@ -1709,12 +1808,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>しっかり書いてね！</Dialog>
+          <Dialog>Please write it down!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3986799320" Unknown1="1136507747">
-      <SDL2 Key="2314648694">
+    <Entry Unknown0="1857051381" Unknown1="3971577002">
+      <SDL2 Key="2506095561">
         <Unknown>
           <Entry>
             <Values>
@@ -1729,12 +1828,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ちゃんと心がこもってるね。よかった♪</Dialog>
+          <Dialog>I'm really loving it. It 
+was good♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="306272741" Unknown1="3760244739">
-      <SDL2 Key="2314648694">
+    <Entry Unknown0="900533916" Unknown1="3907328935">
+      <SDL2 Key="2506095561">
         <Unknown>
           <Entry>
             <Values>
@@ -1749,12 +1849,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>わぁ、新記録達成ね！</Dialog>
+          <Dialog>Wow, you've reached a new 
+record!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2997103236" Unknown1="2771216486">
-      <SDL2 Key="2314648694">
+    <Entry Unknown0="182020504" Unknown1="1988892883">
+      <SDL2 Key="2506095561">
         <Unknown>
           <Entry>
             <Values>
@@ -1769,12 +1870,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>本当に反省してるんだったら、わたしの目をじっと見つめられる？　逸らしたり動いたりしたらダメ。</Dialog>
+          <Dialog>If you've reflected on it, 
+can you stare at my eyes? 
+If you can't then you're 
+not honest.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="498174697" Unknown1="3016608627">
-      <SDL2 Key="2314648694">
+    <Entry Unknown0="1585474244" Unknown1="3699983482">
+      <SDL2 Key="2506095561">
         <Unknown>
           <Entry>
             <Values>
@@ -1789,12 +1893,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そう、しっかり見つめて。</Dialog>
+          <Dialog>Yes, look carefully.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="38873588" Unknown1="271636499">
-      <SDL2 Key="2314648694">
+    <Entry Unknown0="3850198637" Unknown1="3635800951">
+      <SDL2 Key="2506095561">
         <Unknown>
           <Entry>
             <Values>
@@ -1809,12 +1913,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>わたしだけを……見て。</Dialog>
+          <Dialog>Just me... Just look at me.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2729720468" Unknown1="3057481846">
-      <SDL2 Key="2314648694">
+    <Entry Unknown0="4205427048" Unknown1="89974947">
+      <SDL2 Key="2506095561">
         <Unknown>
           <Entry>
             <Values>
@@ -1829,12 +1933,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もう、動かないで！</Dialog>
+          <Dialog>Don't move anymore!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="230791929" Unknown1="2262686595">
-      <SDL2 Key="2314648694">
+    <Entry Unknown0="240171668" Unknown1="3914929226">
+      <SDL2 Key="3314430517">
         <Unknown>
           <Entry>
             <Values>
@@ -1849,12 +1953,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>目を逸らしちゃダメ！</Dialog>
+          <Dialog>Don't look away!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="845232388" Unknown1="1732306979">
-      <SDL2 Key="2314648694">
+    <Entry Unknown0="3578621501" Unknown1="4018518855">
+      <SDL2 Key="3314430517">
         <Unknown>
           <Entry>
             <Values>
@@ -1869,12 +1973,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あなたの目、キレイだったよ。</Dialog>
+          <Dialog>Your eyes are beautiful.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3536063140" Unknown1="2202896518">
-      <SDL2 Key="3108361169">
+    <Entry Unknown0="2860108088" Unknown1="3492591731">
+      <SDL2 Key="3314430517">
         <Unknown>
           <Entry>
             <Values>
@@ -1889,12 +1993,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>すごい！　新記録達成したね♪</Dialog>
+          <Dialog>Incredible! You have set a 
+new record♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1037134345" Unknown1="921562003">
-      <SDL2 Key="3108361169">
+    <Entry Unknown0="4263561828" Unknown1="422175770">
+      <SDL2 Key="3314430517">
         <Unknown>
           <Entry>
             <Values>
@@ -1909,12 +2014,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もう、ギブアップだなんて……。ちゃんと反省してね？</Dialog>
+          <Dialog>It's already a give-up. 
+You're going to reflect on 
+it, aren't you?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="577833236" Unknown1="3696293939">
-      <SDL2 Key="3108361169">
+    <Entry Unknown0="2233318925" Unknown1="341150487">
+      <SDL2 Key="3314430517">
         <Unknown>
           <Entry>
             <Values>
@@ -1929,7 +2036,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>いいよ……今回はこれで許してあげる。</Dialog>
+          <Dialog>Okay... I'll forgive you 
+this time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

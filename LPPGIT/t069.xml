@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="664990821" Unknown="16">
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="1205786501" Unknown="16">
   <Entries>
-    <Entry Unknown0="2741308126" Unknown1="2356544947">
-      <SDL2 Key="1226446392">
+    <Entry Unknown0="776039041" Unknown1="2289486031">
+      <SDL2 Key="1840795100">
         <Unknown>
           <Entry>
             <Values>
@@ -112,23 +112,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>フルーツポンチってあるよね。どうしてポンチなんだろう？</Dialog>
+          <Dialog>There is fruit punch. Why 
+is it called puch?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、●も思ってた。不思議な名前だよな。</Dialog>
-          <Dialog>でしょ？　どうしてフルーツコンポートじゃないのかな。</Dialog>
-          <Dialog>コン……ポート？</Dialog>
-          <Dialog>お家ではフルーツコンポートって呼んでるんだけど……。</Dialog>
-          <Dialog>へえ。</Dialog>
-          <Dialog>でも喫茶店だと、フルーツコンポートがフルーツポンチって呼ばれてて。</Dialog>
-          <Dialog>最近ずっと気になってて。あなたも同じ？</Dialog>
-          <Dialog>そうじゃなくて……あんまり食べないからよくわかんないけど。</Dialog>
-          <Dialog>そうなんだ。うん、覚えておこ。</Dialog>
-          <Dialog>（その情報、なんに使うんだ？）</Dialog>
+          <Dialog>Oh, I thought the same. 
+It's a strange name.</Dialog>
+          <Dialog>Right? I wonder why it's 
+not called fruit compote.</Dialog>
+          <Dialog>Com..pote?</Dialog>
+          <Dialog>At home, I call it fruit 
+compote...</Dialog>
+          <Dialog>Huh.</Dialog>
+          <Dialog>But in a coffe shop, fruit 
+compote is called fruit 
+punch.</Dialog>
+          <Dialog>I've been curious lately. 
+Are you the same?</Dialog>
+          <Dialog>Not really... I don't eat 
+that much, so I'm not sure.</Dialog>
+          <Dialog>I see. Yes, I'll remember 
+it.</Dialog>
+          <Dialog>（What are you going to use 
+that information for?）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1007871055" Unknown1="952661600">
-      <SDL2 Key="3287980318">
+    <Entry Unknown0="2962399723" Unknown1="3626709536">
+      <SDL2 Key="662352291">
         <Unknown>
           <Entry>
             <Values>
@@ -226,23 +236,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>フルーツポンチの他に苦手な物ってあるの？</Dialog>
+          <Dialog>Is there anything alse you 
+don't like besides fruit 
+punch?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あまり食べないってだけで苦手なわけじゃないよ。</Dialog>
-          <Dialog>じゃあ、好きなものは？</Dialog>
-          <Dialog>▲高嶺＊＊▲。</Dialog>
-          <Dialog>わたしは、食べられないでしょ。</Dialog>
-          <Dialog>▲高嶺＊＊▲と一緒ならなんでも美味しいってこと。</Dialog>
-          <Dialog>もう……。でもわたしも、そうかな。苦いコーヒー以外は。</Dialog>
-          <Dialog>●が砂糖入れてやるよ。１０ダースぐらい。</Dialog>
-          <Dialog>それじゃ甘すぎ。</Dialog>
-          <Dialog>じゃあ塩入れてやるよ。</Dialog>
-          <Dialog>もう、変なことばっかり。</Dialog>
+          <Dialog>It's not that I don't like 
+it, I just don't eat that 
+much.</Dialog>
+          <Dialog>Then, what do you like?</Dialog>
+          <Dialog>▲高嶺＊＊▲.</Dialog>
+          <Dialog>You can't eat me.</Dialog>
+          <Dialog>▲高嶺＊＊▲, anything with you 
+is delicious.</Dialog>
+          <Dialog>Oh you... But, I think so 
+too. Except for bitter 
+coffe.</Dialog>
+          <Dialog>I add sugar to it. About 10 
+dozen.</Dialog>
+          <Dialog>That's too sweet.</Dialog>
+          <Dialog>Well then, I'll add salt 
+too.</Dialog>
+          <Dialog>Now, that's just weird.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3244578812" Unknown1="2302223282">
-      <SDL2 Key="3287980318">
+    <Entry Unknown0="3779529532" Unknown1="2358608853">
+      <SDL2 Key="662352291">
         <Unknown>
           <Entry>
             <Values>
@@ -340,23 +359,36 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そういえば、コーヒーにお塩を入れるんだっけ？</Dialog>
+          <Dialog>Come to think of it, do 
+you want to put salt in 
+your coffe?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>え？</Dialog>
-          <Dialog>ほかに、どんな変わったものを飲んでるの？</Dialog>
-          <Dialog>冗談だって……。でも昔、チリソースを飲んだことはあるな。</Dialog>
-          <Dialog>え、すごい。チリソース大好き？</Dialog>
-          <Dialog>好きで飲んだんじゃないよ。トマトジュースと間違えて、つい一気に……。</Dialog>
-          <Dialog>トマトジュースの横に並んでたのかな？　パパとおんなじ。</Dialog>
-          <Dialog>どういうこと？</Dialog>
-          <Dialog>パパはトマトジュースにチリソース入れるの。</Dialog>
-          <Dialog>へぇ、今度やってみようかな。</Dialog>
-          <Dialog>ふふ、いつかパパと会ったときに感想聞かせてあげて？</Dialog>
+          <Dialog>Huh?</Dialog>
+          <Dialog>What other unusual drinks 
+are you drinking?</Dialog>
+          <Dialog>It was a joke... But, I 
+used to drink chili sauce a 
+long time ago.</Dialog>
+          <Dialog>Oh, nice. Do you love chili 
+sauce?</Dialog>
+          <Dialog>I didn't liked it. I 
+mistakenly tought it was 
+tomato juice...</Dialog>
+          <Dialog>Was it next to the tomato 
+juice? The same as papa.</Dialog>
+          <Dialog>What do you mean?</Dialog>
+          <Dialog>Papa confused chili sauce 
+as tomato juice.</Dialog>
+          <Dialog>Huh, I think I'll try it 
+next time.</Dialog>
+          <Dialog>Fufu, when you meet papa 
+someday, can I tell him 
+what you think?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="869661262" Unknown1="4293293347">
-      <SDL2 Key="3812209001">
+    <Entry Unknown0="3199326961" Unknown1="4226168895">
+      <SDL2 Key="662352291">
         <Unknown>
           <Entry>
             <Values />
@@ -426,21 +458,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>チリソースの意外な使い方ってことで、サバ缶にかけてみた。</Dialog>
+          <Dialog>It was a surprising use of 
+chili sauce and I tried it 
+an a mackerel can.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>どうだったの？</Dialog>
-          <Dialog>それがさ、けっこう美味いんだ。</Dialog>
-          <Dialog>どんな味？</Dialog>
-          <Dialog>サバのムニエルって感じ。酸味が、こう、強くなって。</Dialog>
-          <Dialog>それ、レモン代わりになったってことかな。</Dialog>
-          <Dialog>え……あれ、そう言われればそんなような。</Dialog>
-          <Dialog>ふふ、今度はレモンもかけてみて？</Dialog>
-          <Dialog>……そうしてみる。</Dialog>
+          <Dialog>How was it?</Dialog>
+          <Dialog>It was pretty delicious.</Dialog>
+          <Dialog>How does it taste?</Dialog>
+          <Dialog>It was like mackerel 
+muniel. It had a strong 
+sour-flavor.</Dialog>
+          <Dialog>I guess it's a lemon 
+substitute.</Dialog>
+          <Dialog>Eh... Well, if you say so, 
+that sounds right.</Dialog>
+          <Dialog>Fufu, why don't you try 
+lemons next time?</Dialog>
+          <Dialog>... I will do that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2357351615" Unknown1="2738415312">
-      <SDL2 Key="3812209001">
+    <Entry Unknown0="135515" Unknown1="1134273168">
+      <SDL2 Key="1203431197">
         <Unknown>
           <Entry>
             <Values>
@@ -520,22 +559,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねえ、あなたは一人暮らしでしょ？</Dialog>
+          <Dialog>Hey, you live alone, right?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん？　ああ。</Dialog>
-          <Dialog>家事はちゃんとしてるの？</Dialog>
-          <Dialog>まあ、それなりに。してる……かな？</Dialog>
-          <Dialog>本当に？</Dialog>
-          <Dialog>大丈夫だって。してるしてる。</Dialog>
-          <Dialog>それならいいんだけど。</Dialog>
-          <Dialog>そんなに危なっかしいかな。</Dialog>
-          <Dialog>そうじゃないけど……気になっちゃうから。</Dialog>
-          <Dialog>（そういうもんかなあ……）</Dialog>
+          <Dialog>Hmm? Yeah.</Dialog>
+          <Dialog>Do you do your housework 
+properly?</Dialog>
+          <Dialog>Well, in its own way. I'm 
+doing it... well?</Dialog>
+          <Dialog>Really?</Dialog>
+          <Dialog>It's okay. I'm doing it 
+properly.</Dialog>
+          <Dialog>Then it's fine.</Dialog>
+          <Dialog>I wonder if it's so 
+dangerous.</Dialog>
+          <Dialog>That's not the case... I'm 
+worried about you.</Dialog>
+          <Dialog>（I don't know...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1372899180" Unknown1="4037645090">
-      <SDL2 Key="2885370959">
+    <Entry Unknown0="1907882924" Unknown1="4110807877">
+      <SDL2 Key="1203431197">
         <Unknown>
           <Entry>
             <Values>
@@ -619,22 +663,29 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねえ、家事の話だけど。</Dialog>
+          <Dialog>Hey, it's about the 
+housework.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、ちゃんとやってるって。</Dialog>
-          <Dialog>お掃除も？　お部屋、キレイにしてる？</Dialog>
-          <Dialog>▲高嶺＊＊▲から見てキレイ……かはわかんないけど。</Dialog>
-          <Dialog>やっぱり不安……。</Dialog>
-          <Dialog>大丈夫だと思うけどな。物の場所はわかってるし、ゴキブリも出ないし……。</Dialog>
-          <Dialog>きゃっ！</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>な、なんでも……。</Dialog>
-          <Dialog>（嫌いなのか、そりゃそうだよな……）</Dialog>
+          <Dialog>Oh, I'm doing it properly.</Dialog>
+          <Dialog>Also the cleaning? Are the 
+rooms clean?</Dialog>
+          <Dialog>▲高嶺＊＊▲, it might not look 
+so... from your point of view.</Dialog>
+          <Dialog>I'm getting worried...</Dialog>
+          <Dialog>I think it's okay, though. 
+I know where things are, 
+and there are no 
+cockroaches...</Dialog>
+          <Dialog>Kya!</Dialog>
+          <Dialog>Hmm?</Dialog>
+          <Dialog>N-nothing...</Dialog>
+          <Dialog>（You don't like them, do 
+you...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2202364606" Unknown1="1616307603">
-      <SDL2 Key="2885370959">
+    <Entry Unknown0="237062753" Unknown1="1683400879">
+      <SDL2 Key="1203431197">
         <Unknown>
           <Entry>
             <Values>
@@ -714,22 +765,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>しつこかったら、ごめんね？</Dialog>
+          <Dialog>If I'm persistent, would 
+you forgive me?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>家事の話……。</Dialog>
-          <Dialog>ああ、そんなに気になるか。</Dialog>
-          <Dialog>お洗濯は？</Dialog>
-          <Dialog>たまにためちゃうことはあるけど……。</Dialog>
-          <Dialog>え、毎日しないの？</Dialog>
-          <Dialog>ほぼ……毎日。男一人だし、大した量じゃないから。</Dialog>
-          <Dialog>うーん……。</Dialog>
-          <Dialog>（そんなに真剣に悩まなくても……）</Dialog>
+          <Dialog>Hmm?</Dialog>
+          <Dialog>About the housework...</Dialog>
+          <Dialog>Oh, I know you care so much.</Dialog>
+          <Dialog>How about washing?</Dialog>
+          <Dialog>I try to do it sometimes, 
+but...</Dialog>
+          <Dialog>Huh, you don't do it 
+everyday?</Dialog>
+          <Dialog>Almost... every day. It's 
+just me, so it's not that 
+much.</Dialog>
+          <Dialog>Hmm...</Dialog>
+          <Dialog>（You don't have to worry 
+that much...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="485671983" Unknown1="346576448">
-      <SDL2 Key="3711658651">
+    <Entry Unknown0="2423423435" Unknown1="3020624384">
+      <SDL2 Key="1203431197">
         <Unknown>
           <Entry>
             <Values>
@@ -828,24 +885,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねえ、考えたんだけど……。</Dialog>
+          <Dialog>Hey, I was thinking...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>何を？</Dialog>
-          <Dialog>家事、わたしがお手伝いした方がいいんじゃないかな。</Dialog>
-          <Dialog>えっ、▲高嶺＊＊▲が!?</Dialog>
-          <Dialog>……やっぱり、イヤ？</Dialog>
-          <Dialog>イヤじゃないけど……よくないんじゃないか。それに親も心配するだろ。</Dialog>
-          <Dialog>どうしてパパとママが心配するの？</Dialog>
-          <Dialog>どうしてって……きっとそうだよ。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>どうしても必要になったら頼むからさ、まだいいよ。</Dialog>
-          <Dialog>うん……じゃあ、将来の楽しみにとっておくね？</Dialog>
-          <Dialog>（それ……楽しみなのか？）</Dialog>
+          <Dialog>What?</Dialog>
+          <Dialog>I think I should help you 
+with your housework.</Dialog>
+          <Dialog>Huh,▲高嶺＊＊▲ wants to help!?</Dialog>
+          <Dialog>... I knew it, can't I?</Dialog>
+          <Dialog>I don't hate it, but... I 
+think it's not good. And 
+your parents would worry.</Dialog>
+          <Dialog>Why would mama and papa 
+worry?</Dialog>
+          <Dialog>I don't know why... I'm 
+just sure.</Dialog>
+          <Dialog>...</Dialog>
+          <Dialog>I'll ask you if you really 
+need me, so it's all good.</Dialog>
+          <Dialog>Yes... I'll keep it in mind 
+for the future, okay?</Dialog>
+          <Dialog>（Then... are you looking 
+for it?）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2705635292" Unknown1="2132345746">
-      <SDL2 Key="3711658651">
+    <Entry Unknown0="3240586012" Unknown1="2054513589">
+      <SDL2 Key="2011770217">
         <Unknown>
           <Entry>
             <Values>
@@ -943,23 +1008,36 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……お魚料理で相談があるんだけど。</Dialog>
+          <Dialog>... I'd like to talk to you 
+about fish dishes.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>料理……●、役に立つかな。それでもよければ。</Dialog>
-          <Dialog>うん、ありがとう。お魚をさばこうとしたんだけど……。</Dialog>
-          <Dialog>生きてた？</Dialog>
-          <Dialog>ううん、そうじゃなくて。まな板に横たわってるお魚が、睨んでるみたいで。</Dialog>
-          <Dialog>ああ、確かに。スーパーで魚と目が合うとちょっと怖いもんな。</Dialog>
-          <Dialog>その目を見つめてると、どうしても包丁を向けられなくて……。</Dialog>
-          <Dialog>目をつぶって……は無理か、危ないよな。</Dialog>
-          <Dialog>どうしたらいいかな？</Dialog>
-          <Dialog>料理の問題でもないな。う～ん……。</Dialog>
-          <Dialog>う～ん……。</Dialog>
+          <Dialog>Cooking... I wonder if I'll 
+be useful. Otherwise, I'll 
+be glad.</Dialog>
+          <Dialog>Yes, thank you. I tried to 
+judge the fish...</Dialog>
+          <Dialog>Was it alive?</Dialog>
+          <Dialog>No, not really. The fish 
+lying on the cutting board 
+seems to be staring at me.</Dialog>
+          <Dialog>Yes, I'm sure. It's a 
+little scary when you meet 
+the fish at the supermarket.</Dialog>
+          <Dialog>When I looked into its 
+eyes, I couldn't point my 
+kitchen knife at all...</Dialog>
+          <Dialog>Close you eyes... but it 
+would be impossible or 
+dangerous.</Dialog>
+          <Dialog>What should I do?</Dialog>
+          <Dialog>It's not a cooking problem. 
+Hmm...</Dialog>
+          <Dialog>Hmm...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="330684974" Unknown1="3385218307">
-      <SDL2 Key="3850127928">
+    <Entry Unknown0="2660317905" Unknown1="3452311583">
+      <SDL2 Key="2011770217">
         <Unknown>
           <Entry>
             <Values />
@@ -1062,24 +1140,37 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>前に言ってた魚料理のことだけど。</Dialog>
+          <Dialog>It's about the fish dish 
+you mentioned before.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。</Dialog>
-          <Dialog>つまり、魚の目が怖いってこと？</Dialog>
-          <Dialog>目そのものじゃなくて、声が聞こえてきそうで……。</Dialog>
-          <Dialog>声……魚の？</Dialog>
-          <Dialog>「なんですかあなたは」「私に何をするんですか？」……そんな声。</Dialog>
-          <Dialog>実際に聞こえるわけじゃないよな？</Dialog>
-          <Dialog>もちろん。でもそういうこと、ない？　ぬいぐるみでも。</Dialog>
-          <Dialog>●の部屋、ぬいぐるみないし……。</Dialog>
-          <Dialog>ウサギのぬいぐるみが「おかえり」「楽しいことあった？」なんて話しかけてきそうな、そういう感覚。</Dialog>
-          <Dialog>それは怖くないんだ。</Dialog>
-          <Dialog>もちろん。</Dialog>
+          <Dialog>Yes.</Dialog>
+          <Dialog>In other words, are you 
+afraid of the fish's eyes?</Dialog>
+          <Dialog>It's not the eyes 
+themselves, but I can seem 
+to hear its voice...</Dialog>
+          <Dialog>Voice... from the fish?</Dialog>
+          <Dialog>"What are you doing?", 
+"What are you doing to 
+me?"... That kind of voice.</Dialog>
+          <Dialog>You can't actually hear it, 
+can you?</Dialog>
+          <Dialog>Of course. Doens't happen 
+to you? I even hear stuffed 
+animals.</Dialog>
+          <Dialog>I don't have stuffed 
+animals in my room...</Dialog>
+          <Dialog>It feels like the stuffed 
+bunny will say "Welcome 
+back", "Did you have fun?". 
+I can hear things like that.</Dialog>
+          <Dialog>I'm not affaid of that.</Dialog>
+          <Dialog>Of course.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1818408095" Unknown1="2669201072">
-      <SDL2 Key="2638134782">
+    <Entry Unknown0="3772936507" Unknown1="1065058928">
+      <SDL2 Key="2011770217">
         <Unknown>
           <Entry>
             <Values />
@@ -1168,23 +1259,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>魚料理のことだけど。</Dialog>
+          <Dialog>It's about the fish dishes.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん、いい方法ないかな？</Dialog>
-          <Dialog>買うときに、頭を落としてもらえばいいんじゃないか？</Dialog>
-          <Dialog>それだと鮮度が……それに、根本的な解決にはならないし。</Dialog>
-          <Dialog>サングラスかけて料理したら？　魚の目も気にならなくなる。</Dialog>
-          <Dialog>それじゃ変な人だよ。</Dialog>
-          <Dialog>魚の目を絵の具で塗り潰す。マジックでもいいけど。</Dialog>
-          <Dialog>ちょっと残酷……。</Dialog>
-          <Dialog>もう死んでるんだし。</Dialog>
-          <Dialog>だからって……よくないよ。</Dialog>
-          <Dialog>まあ、そうだよな……。</Dialog>
+          <Dialog>Yes, isn't there a good way?</Dialog>
+          <Dialog>Why don't you turn your 
+face when you buy it?</Dialog>
+          <Dialog>If that's the case, I can't 
+see how fresh it is... And 
+it's not a fundamental 
+solution.</Dialog>
+          <Dialog>Why don't you wear 
+sunglasess and cook? You 
+won't even see the eyes of 
+the fish.</Dialog>
+          <Dialog>Then I would look like a 
+weird person.</Dialog>
+          <Dialog>Paint the fish's eyes. Even 
+magic paint is good.</Dialog>
+          <Dialog>That would be a little 
+cruel...</Dialog>
+          <Dialog>But they are already dead.</Dialog>
+          <Dialog>Even so... it's not good.</Dialog>
+          <Dialog>Well, that's right...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="833890124" Unknown1="3431559938">
-      <SDL2 Key="2638134782">
+    <Entry Unknown0="1368906636" Unknown1="3387282213">
+      <SDL2 Key="1069257039">
         <Unknown>
           <Entry>
             <Values />
@@ -1301,25 +1402,37 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>魚料理の問題さ。</Dialog>
+          <Dialog>About the problem of 
+cooking fish.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。</Dialog>
-          <Dialog>魚の目を隠しちゃえばいいんじゃないか、布でもかぶせて。</Dialog>
-          <Dialog>それはもうやったけど、やっぱり気になっちゃうの。この布の下に、あの目が……って。</Dialog>
-          <Dialog>じゃあ……よし！</Dialog>
-          <Dialog>どうしたの？</Dialog>
-          <Dialog>●が、叱ってやる。▲高嶺＊＊▲に文句つけるなって！</Dialog>
-          <Dialog>お魚に……？</Dialog>
-          <Dialog>そう、人のカノジョを怖がらせるなって！</Dialog>
-          <Dialog>お魚さん、怒られて……それで食べられちゃうんだ。</Dialog>
-          <Dialog>……そうだ！</Dialog>
-          <Dialog>ちょっと可哀想。でも……うん。</Dialog>
-          <Dialog>あなたが味方だって、考えながらお料理してみる。そうすれば大丈夫かも。</Dialog>
+          <Dialog>Yes.</Dialog>
+          <Dialog>You should hide the eyes of 
+the fish, cover them with a 
+cloth.</Dialog>
+          <Dialog>I've already done it, but I 
+can still feel them. Those 
+eyes under the cloth... 
+gazing.</Dialog>
+          <Dialog>Then... I have it!</Dialog>
+          <Dialog>What's wrong?</Dialog>
+          <Dialog>I will scold it. Don't 
+complain to▲高嶺＊＊▲!</Dialog>
+          <Dialog>The fish...?</Dialog>
+          <Dialog>That's right, don't scare 
+other people's girlfriends!</Dialog>
+          <Dialog>The fish fot angry... 
+That's why I can eat it.</Dialog>
+          <Dialog>...That's right!</Dialog>
+          <Dialog>I feel a little pity for 
+it. But... okay.</Dialog>
+          <Dialog>I will cook while thinking 
+you are on my side. If I 
+can do that, I will be fine.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1663388318" Unknown1="1379321203">
-      <SDL2 Key="3481134425">
+    <Entry Unknown0="3993086529" Unknown1="1446414479">
+      <SDL2 Key="1069257039">
         <Unknown>
           <Entry>
             <Values>
@@ -1436,25 +1549,36 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ちょっと教えてもらいたいことがあるの。</Dialog>
+          <Dialog>There's something I'd like 
+to tell you.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なに？</Dialog>
-          <Dialog>わたし、みんなが使う言葉がわからないことが多くて……。</Dialog>
-          <Dialog>たまに会話に乗り遅れちゃうの。</Dialog>
-          <Dialog>ああ、なるほど。いいよ、●にわかることなら。</Dialog>
-          <Dialog>ありがとう。じゃあ……「ガチ」って？</Dialog>
-          <Dialog>「ガチ」は……。</Dialog>
-          <Dialog>漢字でどう書くの？</Dialog>
-          <Dialog>……漢字？</Dialog>
-          <Dialog>真剣勝負、本気……意味はわかったんだけど、漢字がわからなくて。</Dialog>
-          <Dialog>ガチは、えーと……「我」に血液の「血」……とか？</Dialog>
-          <Dialog>そうなんだ！　すごいね、ありがとう。</Dialog>
-          <Dialog>……ごめん、▲高嶺＊＊▲。冗談……。</Dialog>
+          <Dialog>What?</Dialog>
+          <Dialog>I often don't understand 
+the words everyone uses...</Dialog>
+          <Dialog>Sometimes I miss myself in 
+the conversation.</Dialog>
+          <Dialog>Ah, I see. It's okay, I 
+know some words.</Dialog>
+          <Dialog>Thank you. Then... what is 
+"Gachi"?</Dialog>
+          <Dialog>"Gachi" is...</Dialog>
+          <Dialog>How do you write its kanji?</Dialog>
+          <Dialog>...Kanji?</Dialog>
+          <Dialog>A fair game, seriously... I 
+understand the meaning, but 
+I don't understand the 
+kanji.</Dialog>
+          <Dialog>Gachi, uh... "Ga" means I, 
+and "chi" means... blood?</Dialog>
+          <Dialog>I see! That's great, thank 
+you.</Dialog>
+          <Dialog>...I'm sorry,▲高嶺＊＊▲. It was 
+a joke...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="4241630223" Unknown1="3867686432">
-      <SDL2 Key="3481134425">
+    <Entry Unknown0="1884479915" Unknown1="2263610080">
+      <SDL2 Key="1069257039">
         <Unknown>
           <Entry>
             <Values>
@@ -1544,23 +1668,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あのねまたわからない流行語があって……。</Dialog>
+          <Dialog>You know, there's another 
+popular word I don't 
+understand...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どんな？</Dialog>
-          <Dialog>女子力って、どういう意味？</Dialog>
-          <Dialog>まあ、▲高嶺＊＊▲は女子力高いよな。</Dialog>
-          <Dialog>お友達にも言われたけど、それっていいことなの？</Dialog>
-          <Dialog>もちろん、高いんだから。</Dialog>
-          <Dialog>じゃあ、あなたは男子力、高い？</Dialog>
-          <Dialog>……どうだろう。彼氏力とは違うよな。</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>な、なんでも！</Dialog>
-          <Dialog>……変なの。</Dialog>
+          <Dialog>What kind?</Dialog>
+          <Dialog>What does women's power 
+mean?</Dialog>
+          <Dialog>Well,▲高嶺＊＊▲ has high girl 
+power.</Dialog>
+          <Dialog>My friend told me, is that 
+a good thing?</Dialog>
+          <Dialog>Of course, it's expensive.</Dialog>
+          <Dialog>Then, are you high on male 
+power?</Dialog>
+          <Dialog>...I wonder. It's different 
+from boyfriend's power.</Dialog>
+          <Dialog>?</Dialog>
+          <Dialog>Whatever!</Dialog>
+          <Dialog>... It's weird.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2166659004" Unknown1="1811538802">
-      <SDL2 Key="4289538997">
+    <Entry Unknown0="2701609980" Unknown1="1851081621">
+      <SDL2 Key="1609287834">
         <Unknown>
           <Entry>
             <Values>
@@ -1671,24 +1802,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねえ。「パネェ」って、どんな人なの？</Dialog>
+          <Dialog>Hey. What kind of person is 
+"Pane"?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>マジパネェっす。</Dialog>
-          <Dialog>そう、その人。マジの意味は、わたしでもわかるよ。本当のパ姉さん、ってことだと思うんだけど。</Dialog>
-          <Dialog>「パ姉さん」がわからない。</Dialog>
-          <Dialog>そんなに笑わなくても……。</Dialog>
-          <Dialog>ごめんごめん。</Dialog>
-          <Dialog>もしかして……人のことじゃないの？</Dialog>
-          <Dialog>人かもしれない。</Dialog>
-          <Dialog>あ、やっぱりそうなの？</Dialog>
-          <Dialog>人じゃないかもしれない。</Dialog>
-          <Dialog>え……。あ、もう！　いじわるしてる。</Dialog>
-          <Dialog>はは。</Dialog>
+          <Dialog>Marzipan.</Dialog>
+          <Dialog>Yes, that's the one. I 
+really understand what it 
+means. I think it should be 
+called Pa nee-san.</Dialog>
+          <Dialog>I don't think "Pa nee-san" 
+is correct.</Dialog>
+          <Dialog>You don't have to laugh so 
+much...</Dialog>
+          <Dialog>Sorry, sorry.</Dialog>
+          <Dialog>You mean... it isn't about 
+people?</Dialog>
+          <Dialog>It might be a person.</Dialog>
+          <Dialog>Oh, is that right?</Dialog>
+          <Dialog>It may not be a person.</Dialog>
+          <Dialog>Eh... Oh, come on! I'm 
+messing around with you.</Dialog>
+          <Dialog>Ha ha.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="4086643214" Unknown1="2644915683">
-      <SDL2 Key="4289538997">
+    <Entry Unknown0="2121341617" Unknown1="2577856767">
+      <SDL2 Key="1609287834">
         <Unknown>
           <Entry>
             <Values>
@@ -1784,17 +1923,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>またわからない言葉があって。「ディスる」って、どういう時に使うの？</Dialog>
+          <Dialog>There are also words that I 
+don't understand. When do 
+you use "Disuru"?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲にはディスられたくないな。</Dialog>
-          <Dialog>Ｔｈｉｓられる？　Ｔｈｉｓの……受動態？　どういう意味だろう……。</Dialog>
-          <Dialog>違う違う。そのＴｈｉｓじゃなくて、ディーアイエスのＤｉｓ。</Dialog>
-          <Dialog>ああ、じゃあ悪い意味なんだ。</Dialog>
-          <Dialog>もともとはラッパー用語、なのかな？</Dialog>
-          <Dialog>ラッパ？　音楽用語なの？</Dialog>
-          <Dialog>えっと……。</Dialog>
-          <Dialog>わたし、また……。</Dialog>
-          <Dialog>（こういうのも▲高嶺＊＊▲のいいところかもな）</Dialog>
+          <Dialog>▲高嶺＊＊▲, I don't want to be 
+dissed.</Dialog>
+          <Dialog>THIS can be done? THIS is 
+passive? I wonder what it 
+means...</Dialog>
+          <Dialog>No, no. It's not "This", 
+but "Dis".</Dialog>
+          <Dialog>Oh, then that's a bad thing.</Dialog>
+          <Dialog>Was it originally a rapper 
+term?</Dialog>
+          <Dialog>Rap? Is it a music term?</Dialog>
+          <Dialog>Well...</Dialog>
+          <Dialog>Well, I'll see you later...</Dialog>
+          <Dialog>（This thing is one of you 
+good points,▲高嶺＊＊▲）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

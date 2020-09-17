@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="4221429097" Unknown="24">
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="4013282766" Unknown="24">
   <Entries>
-    <Entry Unknown0="3632533447" Unknown1="2135343738">
-      <SDL2 Key="996124513">
+    <Entry Unknown0="2497719407" Unknown1="3478609598">
+      <SDL2 Key="1665524610">
         <Unknown>
           <Entry>
             <Values>
@@ -87,20 +87,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇ「はとぽっぽ」の歌ってあるよね。</Dialog>
+          <Dialog>Hey, there's a song called 
+"Hato Poppo".</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、幼稚園の頃に歌ったな。</Dialog>
-          <Dialog>その歌……「欲しけりゃ」って、ちょっと傲慢かなって。見下してる気がして。</Dialog>
-          <Dialog>……見下すって鳩を？</Dialog>
-          <Dialog>あなたが鳩だったらどんな気持ち？　鳩の気持ちになってみて。</Dialog>
-          <Dialog>鳩の気持ち…………ポ……ポーポーポー。</Dialog>
-          <Dialog>それじゃ、ただの鳴き声。もう、そうじゃなくて、ちゃんと気持ちになってみて。</Dialog>
-          <Dialog>鳩の気持ち……考えておくよ。</Dialog>
+          <Dialog>Oh, I sang it when I was in 
+kindergarten.</Dialog>
+          <Dialog>That song... "If you want 
+it", it's a little arrogant.
+I feel like I'm looking 
+down on you.</Dialog>
+          <Dialog>... Do you look down on a 
+pigeon?</Dialog>
+          <Dialog>How would you feel if you 
+were a pigeon? Try to feel 
+like a pigeon.</Dialog>
+          <Dialog>Feeling like a pigeon... 
+Po... Popopo.</Dialog>
+          <Dialog>Well then, it's just a cry. 
+It's not like that anymore, 
+just try to make yourself 
+feel good.</Dialog>
+          <Dialog>Pigeon feeling... I'll 
+think about it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2134043238" Unknown1="749297960">
-      <SDL2 Key="1427394963">
+    <Entry Unknown0="2668846714" Unknown1="50948593">
+      <SDL2 Key="1665524610">
         <Unknown>
           <Entry>
             <Values />
@@ -180,22 +193,35 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>この前の鳩の話だけどさ。</Dialog>
+          <Dialog>It's about our talk of the 
+pigeon from last time.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん、ちゃんと考えた？</Dialog>
-          <Dialog>それ、鳩のほうも問題だと思うんだ。「やるぞ」って言われてホイホイ食べてるわけだし。</Dialog>
-          <Dialog>鳩が悪いってこと？</Dialog>
-          <Dialog>鳩にも意識改革が必要って言うか。</Dialog>
-          <Dialog>鳩の意識改革って？</Dialog>
-          <Dialog>上から目線で言われたら豆を食べないとかさ。そういう毅然とした態度、姿勢って言うか……。</Dialog>
-          <Dialog>でも、好きなものが目の前にあったら本能として食べちゃうと思う。</Dialog>
-          <Dialog>好きなものが目の前にあったら本能として……。</Dialog>
-          <Dialog>ど、どうしたの？　急に……。</Dialog>
+          <Dialog>Yeah, did you think about 
+it?</Dialog>
+          <Dialog>I think it's a problem for 
+pigeons, too. They say "I'm 
+going to do it", and they 
+eat.</Dialog>
+          <Dialog>You mean pigeons are bad?</Dialog>
+          <Dialog>I wonder if pigeons need to 
+change their mindset.</Dialog>
+          <Dialog>What is a change of 
+consciousness of pigeons?</Dialog>
+          <Dialog>If you say from above, you 
+have to eat beans. That 
+kind of resolute attitude...</Dialog>
+          <Dialog>But I think if I have 
+something I like in front 
+of me, I will eat it as my 
+instict.</Dialog>
+          <Dialog>If you have something you 
+like in front of you...</Dialog>
+          <Dialog>What's wrong? So suddenly...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="227870996" Unknown1="2454196107">
-      <SDL2 Key="898729981">
+    <Entry Unknown0="2865062317" Unknown1="3054804131">
+      <SDL2 Key="722888296">
         <Unknown>
           <Entry>
             <Values>
@@ -289,23 +315,37 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>考えたんだけど「はとぽっぽ」の歌……。</Dialog>
+          <Dialog>I thought about it, but the 
+song "Hato Poppo"...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>お、鳩に意識改革させる方法を思いついた？</Dialog>
-          <Dialog>そうじゃなくて歌詞を変えたらどうかなって。</Dialog>
-          <Dialog>へえ、どんな？</Dialog>
-          <Dialog>ごきげんいかが？　もしも豆が欲しいなら、あげちゃいますよー♪</Dialog>
-          <Dialog>……ちょっと、かなり、ゴロが悪いって言うか。</Dialog>
-          <Dialog>世界観や構成としては……どうかな？</Dialog>
-          <Dialog>そうだな。「あげちゃいますよ」を「一緒にたべませんか」にしたらいいかも……。</Dialog>
-          <Dialog>一緒にって、鳩さんと一緒に食べるの？</Dialog>
-          <Dialog>そうそう。鳩だけじゃなくて、人間も意識改革をね。</Dialog>
-          <Dialog>ふふ、わたしたちも？</Dialog>
+          <Dialog>Oh, did you come up with a 
+way to make pigeons change 
+their minds?</Dialog>
+          <Dialog>Why not change the lyrics 
+instead?</Dialog>
+          <Dialog>Huh, who's that?</Dialog>
+          <Dialog>How are you? If you want 
+beans, I'll give you♪</Dialog>
+          <Dialog>... Hey, I think it's a 
+little bad.</Dialog>
+          <Dialog>As for the view of the 
+world and the composition...
+What do you think?</Dialog>
+          <Dialog>That's right. It may be 
+good to change "I'll give 
+you" to "Can you eat with 
+me?"...</Dialog>
+          <Dialog>Are you going to eat with 
+the pigeon?</Dialog>
+          <Dialog>Yes, yes. Not only pigeons, 
+but also human beings 
+change their consciousness.</Dialog>
+          <Dialog>Fufu, we too?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1748287351" Unknown1="754348586">
-      <SDL2 Key="764555583">
+    <Entry Unknown0="1691360351" Unknown1="3158789806">
+      <SDL2 Key="722888296">
         <Unknown>
           <Entry>
             <Values>
@@ -403,23 +443,35 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>考えたんだけど……「はとぽっぽ」の歌。</Dialog>
+          <Dialog>I thought about it... The 
+song "Hato Poppo".</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>まだ考えてたんだ。</Dialog>
-          <Dialog>あれ、「鳩」って呼び捨てにしてるからいけないと思うの。</Dialog>
-          <Dialog>「鳩さん」？</Dialog>
-          <Dialog>そう。それで新しい歌詞を……。</Dialog>
-          <Dialog>あの、この前も思ったんだけど昔からの名曲を勝手に変えたらダメなんじゃ……。</Dialog>
-          <Dialog>でも、鳩の気持ちを……。そういえば、鳩の気持ちを考えておくっていうのは？</Dialog>
-          <Dialog>それは……鳩に、直接、聞いてみようかなって。</Dialog>
-          <Dialog>どこかで聞けるの？</Dialog>
-          <Dialog>デートで公園に行ったとき、聞くよ。そこに鳩がいたら……。</Dialog>
-          <Dialog>ふふ、ほんとに？</Dialog>
+          <Dialog>I was still thinking.</Dialog>
+          <Dialog>I don't think it's because 
+I've called pigeon-san away.</Dialog>
+          <Dialog>"Pigeon-san"?</Dialog>
+          <Dialog>Right. So I was thinking 
+about new lyrics...</Dialog>
+          <Dialog>Well, I thought the other 
+day, but I can't change old 
+masterpieces without 
+permission.</Dialog>
+          <Dialog>But, the feelings of a 
+pigeon... Speaking of 
+which, what do you think 
+about it?</Dialog>
+          <Dialog>For that... I'm going to 
+ask the pigeon directly.</Dialog>
+          <Dialog>Can you listen to them?</Dialog>
+          <Dialog>I'll listen when I go to 
+the park on a date. If 
+there was a pigeon there...</Dialog>
+          <Dialog>Fufu, really?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="266476054" Unknown1="3612938712">
-      <SDL2 Key="3579094262">
+    <Entry Unknown0="1862487658" Unknown1="4177091041">
+      <SDL2 Key="722888296">
         <Unknown>
           <Entry>
             <Values>
@@ -521,23 +573,36 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……ねぇ、夜、眠れない時って、どうしてる？</Dialog>
+          <Dialog>... Hey, what do you do 
+when you can't sleep at 
+night?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲のことを考えてる。</Dialog>
-          <Dialog>もうマジメに！</Dialog>
-          <Dialog>マジメだよ、大真面目。▲高嶺＊＊▲のことを考えて、それで寝る。</Dialog>
-          <Dialog>わたしの……ことを考えると眠れるの？</Dialog>
-          <Dialog>眠れるな。なんて言うか、こうハッピー・メンタルな心の落ち着きって言うか。</Dialog>
-          <Dialog>よくわからないけど、わたしのこと考えると眠れるんだ……アコちゃんにも効くかな？</Dialog>
-          <Dialog>アコちゃん？</Dialog>
-          <Dialog>わたしの従姉。眠れないって相談されて……うん……わたしのことを考えてって言ってみようかな。</Dialog>
-          <Dialog>待ってそれちょっと待って。</Dialog>
-          <Dialog>どうして？</Dialog>
+          <Dialog>I think about ▲高嶺＊＊▲.</Dialog>
+          <Dialog>Take it seriously!</Dialog>
+          <Dialog>I'm serious, really. I 
+think about ▲高嶺＊＊▲, and go 
+to bed.</Dialog>
+          <Dialog>My... Can you sleep when 
+you think about me?</Dialog>
+          <Dialog>Don't sleep. I don't know 
+what to say, but I'm so 
+happy and mentally calm.</Dialog>
+          <Dialog>I'm not sure, but if you 
+think about me, you can 
+sleep... Does it work for 
+Ako-chan?</Dialog>
+          <Dialog>Ako-chan?</Dialog>
+          <Dialog>My cousing. She consulted 
+me about her lack of 
+sleep... I... I'll say that 
+she must think of me.</Dialog>
+          <Dialog>Wait, wait a second.</Dialog>
+          <Dialog>Why?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3712334276" Unknown1="1274593083">
-      <SDL2 Key="4153662289">
+    <Entry Unknown0="3132445085" Unknown1="2936310931">
+      <SDL2 Key="1262918835">
         <Unknown>
           <Entry>
             <Values>
@@ -639,23 +704,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>アコちゃん、まだなかなか眠れないって……。</Dialog>
+          <Dialog>Ako-chan, she can't sleep 
+well yet...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>従姉の子だっけ？</Dialog>
-          <Dialog>そう。同い年でちょっと離れて住んでるの。</Dialog>
-          <Dialog>へぇ、▲高嶺＊＊▲の従姉ならきっと美人なんだろうな。</Dialog>
-          <Dialog>わたしよりずっとキレイだよ。</Dialog>
-          <Dialog>そんなことない。</Dialog>
-          <Dialog>……アコちゃんに会ったことないでしょ？　顔もスタイルもわからないと思うけど。</Dialog>
-          <Dialog>▲高嶺＊＊▲より美人がいるわけないだろ。</Dialog>
-          <Dialog>……い、いる、たくさん。わたしよりキレイな人……いっぱい、いる。</Dialog>
-          <Dialog>いないよ。少なくとも●の世界にはいない。</Dialog>
-          <Dialog>……ヘンな世界。</Dialog>
+          <Dialog>Is that your cousin?</Dialog>
+          <Dialog>Right. We live a bit apart 
+but we're the same age.</Dialog>
+          <Dialog>Huh, I'm sure your cousin 
+▲高嶺＊＊▲ is a beautiful woman.</Dialog>
+          <Dialog>She's much more beautiful 
+than me.</Dialog>
+          <Dialog>That's not true.</Dialog>
+          <Dialog>... You've never met 
+Ako-chan? I don't think you 
+know her face or style.</Dialog>
+          <Dialog>▲高嶺＊＊▲, there's no way 
+she's more beautiful than 
+you.</Dialog>
+          <Dialog>... Yes, there are. People 
+more beautiful than me... 
+There are many.</Dialog>
+          <Dialog>Not here. At least not in 
+my world.</Dialog>
+          <Dialog>... A strange world.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="954527527" Unknown1="3550880474">
-      <SDL2 Key="935531195">
+    <Entry Unknown0="1958743119" Unknown1="2738306718">
+      <SDL2 Key="1262918835">
         <Unknown>
           <Entry>
             <Values>
@@ -749,23 +825,37 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>アコちゃんからまた相談されちゃって……。</Dialog>
+          <Dialog>Ako-chan asked my again...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>不眠の従姉か。</Dialog>
-          <Dialog>不眠じゃなくてなかなか寝つけない、っていうことなんだけど……いい解決方法ないかな？</Dialog>
-          <Dialog>寝る前にバッティングセンターに行って、さんざん体力を使ったらどうかな。</Dialog>
-          <Dialog>女の子だから、そういうのはちょっと……。</Dialog>
-          <Dialog>羊を五万匹まで数えるとか。</Dialog>
-          <Dialog>羊を数えるのは何回もやったみたい……。</Dialog>
-          <Dialog>食べ物で何かないかなこう、体と心をリラックスさせるような。</Dialog>
-          <Dialog>でも寝る前に何か食べるのって体によくないよね。</Dialog>
-          <Dialog>負担にならないような軽いもので……何かないかな。</Dialog>
-          <Dialog>うーん……。</Dialog>
+          <Dialog>You cousin with insomnia?</Dialog>
+          <Dialog>It's not insomnia, it's 
+just that she can't sleep 
+easily... Is there a good 
+solution?</Dialog>
+          <Dialog>Why doesn't she go to the 
+batting center before going 
+to bed and use a lot of 
+physical strength?</Dialog>
+          <Dialog>She's a girls, so that kind 
+of thing...</Dialog>
+          <Dialog>For example counting up to 
+50,000 sheep.</Dialog>
+          <Dialog>It seems she counted sheep 
+many times...</Dialog>
+          <Dialog>It's like relaxing your 
+body and mind, as if there 
+weren't any food.</Dialog>
+          <Dialog>But eating something before 
+going to bed is not good 
+for you.</Dialog>
+          <Dialog>It's just a light meal... 
+I don't know what to do.</Dialog>
+          <Dialog>Hmm...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3750906566" Unknown1="2148123016">
-      <SDL2 Key="935531195">
+    <Entry Unknown0="2146680410" Unknown1="4025043409">
+      <SDL2 Key="1262918835">
         <Unknown>
           <Entry>
             <Values>
@@ -871,23 +961,46 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>アコちゃん、レタスで眠れるようになったって。</Dialog>
+          <Dialog>Ako-chan said she could 
+sleep with a lettuce.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>おお、よかった……って、レタス？　レタス食べると眠れるのか、▲高嶺＊＊▲の考案？</Dialog>
-          <Dialog>わたしじゃなくて、イギリスのウサギの絵本を思い出して、そうだ、レタスだ、って。</Dialog>
-          <Dialog>……話がよくわからないんだけど。</Dialog>
-          <Dialog>絵本で、子ウサギたちはレタスを食べると、必ず寝ちゃうの。それを思い出して。</Dialog>
-          <Dialog>……アコちゃんってウサギだった？</Dialog>
-          <Dialog>ふふ、人間だよ。でもちょっと子ウサギっぽいかも。わたしも食べてみたらすぐ眠くなっちゃって……。</Dialog>
-          <Dialog>マジ？　●にも効くかな、●も、布団に入ってから５分くらいたたないと眠れない時あるんだよな。</Dialog>
-          <Dialog>それ、十分に快眠。それに、あなたは子ウサギじゃなくて……カピバラ、かも？</Dialog>
-          <Dialog>●？　カピバラ？　なんでそんなマニアックな動物……似てるか●？</Dialog>
-          <Dialog>うふふ、今のきょとんとした顔がね？　ヒントをくれてありがとう。</Dialog>
+          <Dialog>Oh, I'm glad... What, 
+lettuce? You can sleep if 
+you eat lettuce, or did 
+▲高嶺＊＊▲ created it?</Dialog>
+          <Dialog>Not me, it reminds me about 
+the British rabbit picture 
+book, and yes, lettuce.</Dialog>
+          <Dialog>... I don't really 
+understand the story.</Dialog>
+          <Dialog>In the picture book, the 
+rabbits always sleep when 
+they eat lettuce. I 
+remembered that.</Dialog>
+          <Dialog>... Was Ako-chan a rabbit?</Dialog>
+          <Dialog>Fufu, she's human. But 
+maybe I look like a little 
+rabbit. When I tried to eat 
+it, I became sleepy...</Dialog>
+          <Dialog>Really? I wonder if it 
+would work for me, but 
+there are times when I 
+can't sleep after 5 minutes.</Dialog>
+          <Dialog>It's a good enough time. 
+And, you're not a little 
+rabbit... A capybara, 
+maybe?</Dialog>
+          <Dialog>Me? A capybara? Why such a 
+maniac animal... Do I look 
+like that?</Dialog>
+          <Dialog>Ufufu, what's with your 
+face right now? Thank you 
+for taking the hint.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1844832628" Unknown1="3836243947">
-      <SDL2 Key="533052397">
+    <Entry Unknown0="2326086029" Unknown1="2163506307">
+      <SDL2 Key="2072425245">
         <Unknown>
           <Entry>
             <Values>
@@ -956,20 +1069,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇ、動物を飼うなら何がいい？</Dialog>
+          <Dialog>Hey, what would you like if 
+you had an animal?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●の部屋、ペット飼っちゃいけないからな……。</Dialog>
-          <Dialog>じゃあ「もし」飼うなら？</Dialog>
-          <Dialog>……現実的に考えると、金魚か亀かな。場所とらないし世話も楽そうだし。</Dialog>
-          <Dialog>亀なら、ウサギのほうがいいよ。</Dialog>
-          <Dialog>「ウサギとカメ」か。いいかもな、鳴かないし。</Dialog>
-          <Dialog>じゃあ、ウサギ！　飼うなら、ウサギに決定だね？</Dialog>
-          <Dialog>「もし」の話だよな？</Dialog>
+          <Dialog>I can't keep pets in my 
+room...</Dialog>
+          <Dialog>Then, what if you could 
+keep one?</Dialog>
+          <Dialog>...Honestly, it would be a 
+goldfish or a turtle. They 
+don't take up much space 
+and are easy to take care.</Dialog>
+          <Dialog>For turtles, rabbits are 
+better.</Dialog>
+          <Dialog>"Rabbit and turtle". It 
+doesn't sound good.</Dialog>
+          <Dialog>Then a rabbit! If you want 
+to keep one, rabbits are 
+the right choice, right?</Dialog>
+          <Dialog>You're talking about "ifs", 
+are you?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3365150679" Unknown1="2589381258">
-      <SDL2 Key="533052397">
+    <Entry Unknown0="1152416831" Unknown1="2317823630">
+      <SDL2 Key="2072425245">
         <Unknown>
           <Entry>
             <Values>
@@ -1064,24 +1188,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇ、ウサギを飼うなら、どんな品種がいいかな？</Dialog>
+          <Dialog>Hey, if you could keep a 
+rabbit, what kind of breed 
+would you like?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>品種……ウサギってそんなに種類いたっけ？</Dialog>
-          <Dialog>ネザーランドドワーフ、ロップイヤー、アンゴラ……。</Dialog>
-          <Dialog>……普通のでいいよ。童話なんかに出て来る白いやつ。</Dialog>
-          <Dialog>ジャパニーズホワイト。</Dialog>
-          <Dialog>それでいいよ、白ウサギって可愛いし。</Dialog>
-          <Dialog>もう一回、言って。</Dialog>
-          <Dialog>それでいいよ。なんで？</Dialog>
-          <Dialog>そっちじゃなくて、あとのほう。</Dialog>
-          <Dialog>「白ウサギって可愛いし」。</Dialog>
-          <Dialog>ふふ♪だよね？</Dialog>
-          <Dialog>？</Dialog>
+          <Dialog>Breed... Are there so many 
+kinds of rabbits?</Dialog>
+          <Dialog>The Netherlands Dwarf, 
+Lopyear, Angola...</Dialog>
+          <Dialog>...The normal one it's 
+fine. The white one that 
+appears in fairy tales.</Dialog>
+          <Dialog>Japanese White.</Dialog>
+          <Dialog>That's fine, white rabbits 
+are cute.</Dialog>
+          <Dialog>Say it again.</Dialog>
+          <Dialog>It's okay. Why?</Dialog>
+          <Dialog>Not that one, the other one.</Dialog>
+          <Dialog>"White rabbits are cute".</Dialog>
+          <Dialog>Fufu♪ Right?</Dialog>
+          <Dialog>?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1866660470" Unknown1="733573432">
-      <SDL2 Key="3347463860">
+    <Entry Unknown0="1340321354" Unknown1="3302570433">
+      <SDL2 Key="2072425245">
         <Unknown>
           <Entry>
             <Values>
@@ -1175,23 +1306,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇ、ウサギを飼うとして……。</Dialog>
+          <Dialog>Hey, if you keep a rabbit...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>その話題ちょくちょく出るけど本当には飼えないから。</Dialog>
-          <Dialog>いつか飼うとして。すぐじゃなくていいから。</Dialog>
-          <Dialog>いつかね……。</Dialog>
-          <Dialog>いやなの？</Dialog>
-          <Dialog>いやじゃないけど、部屋、もっと広くないとな。</Dialog>
-          <Dialog>大丈夫。</Dialog>
-          <Dialog>昼間はいないから、そういうのも平気かな。</Dialog>
-          <Dialog>大丈夫、帰って来るのちゃんと待ってるから。</Dialog>
-          <Dialog>自信満々だな。</Dialog>
-          <Dialog>ウサギさんだから、大丈夫。</Dialog>
+          <Dialog>The topic comes ofter, but 
+I can't really keep one.</Dialog>
+          <Dialog>Someday you will keep one. 
+It doesn't have to be 
+immediately.</Dialog>
+          <Dialog>Someday...</Dialog>
+          <Dialog>You don't like it?</Dialog>
+          <Dialog>It's not that I don't like 
+it, but the room must be 
+larger.</Dialog>
+          <Dialog>It's all right.</Dialog>
+          <Dialog>I'm not there during the 
+day, so I don't mind that 
+kind of thing.</Dialog>
+          <Dialog>It's okay, I'll be waiting 
+for you to come back.</Dialog>
+          <Dialog>You're very confident.</Dialog>
+          <Dialog>I'm a rabbit, so it's okay.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1034230052" Unknown1="3076005787">
-      <SDL2 Key="3922093358">
+    <Entry Unknown0="2593501565" Unknown1="2481220723">
+      <SDL2 Key="893863652">
         <Unknown>
           <Entry>
             <Values />
@@ -1294,24 +1433,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>前に言ってた、何か飼うって話、あれ、犬じゃダメかな。</Dialog>
+          <Dialog>As I said before, talking 
+about keeping something, a 
+dog isn't an option.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ダメ。</Dialog>
-          <Dialog>……猫は？</Dialog>
-          <Dialog>ウサギって言ったよ。男子に二言なし。</Dialog>
-          <Dialog>まあ、ウサギでもいいんだけどさ……。</Dialog>
-          <Dialog>一緒に暮らすなら、絶対ウサギだよ。</Dialog>
-          <Dialog>ほんとウサギが好きなんだな。●がもし飼うとしたら、ってだけの話なのに。</Dialog>
-          <Dialog>それ、ちょっと違うよ。</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>あなたたちが、だもん。</Dialog>
-          <Dialog>？　●、一人暮らしだぞ？</Dialog>
-          <Dialog>今は、ね？　将来、家庭を持った時の話。</Dialog>
+          <Dialog>No good.</Dialog>
+          <Dialog>... A cat?</Dialog>
+          <Dialog>I said rabbit. No words for 
+boys.</Dialog>
+          <Dialog>Well, a rabbit is okay...</Dialog>
+          <Dialog>If we live together, it has 
+to be a rabbit.</Dialog>
+          <Dialog>You really like rabbits. If 
+I want to keep one, it's 
+just a story.</Dialog>
+          <Dialog>That's a little different.</Dialog>
+          <Dialog>?</Dialog>
+          <Dialog>You guys, that's it.</Dialog>
+          <Dialog>? Me, I live alone?</Dialog>
+          <Dialog>Right now, right? I'm 
+talking about having a 
+family in the future.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2554613639" Unknown1="554074682">
-      <SDL2 Key="3922093358">
+    <Entry Unknown0="1419799599" Unknown1="2434211454">
+      <SDL2 Key="893863652">
         <Unknown>
           <Entry>
             <Values>
@@ -1407,22 +1554,39 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>この前ね、急患の人がやって来て……。</Dialog>
+          <Dialog>The other day, an emergency 
+patient came...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>へえ。▲高嶺＊＊▲の家って救急指定病院？</Dialog>
-          <Dialog>そうじゃないけど、来た人を断れないでしょ。家族に運ばれて来たおじいさんだったの。</Dialog>
-          <Dialog>なんで救急車呼ばなかったんだろ？</Dialog>
-          <Dialog>救急車が嫌いなんだって。あと周りの迷惑になるからって。</Dialog>
-          <Dialog>でも▲高嶺＊＊▲の家は迷惑だったかもな。</Dialog>
-          <Dialog>大事な患者さんだもん。パパも、診るのは当然だって。</Dialog>
-          <Dialog>うんうん、立派だよな。それで、おじいさんは？</Dialog>
-          <Dialog>救急車で救急センターへ。危ないところだったけど、その後は無事に。</Dialog>
-          <Dialog>結局乗ったんだな。助かったなら、いいけど。</Dialog>
+          <Dialog>Huh.▲高嶺＊＊▲, is your house 
+an emergency designated 
+hospital?</Dialog>
+          <Dialog>It's not, but you can't 
+refuse the person who came. 
+He was an ojisan who was 
+brought to my family.</Dialog>
+          <Dialog>Why didn't you call an 
+ambulance?</Dialog>
+          <Dialog>He said he doesn't like 
+ambulances. Because it's a 
+bother to other people.</Dialog>
+          <Dialog>But in your house▲高嶺＊＊▲ 
+might have been annoying.</Dialog>
+          <Dialog>It's an important patient. 
+It's natural for Papa to 
+see people.</Dialog>
+          <Dialog>Yeah, that's fine. So, what 
+about the old man?</Dialog>
+          <Dialog>We went to the emergency 
+center by ambulance. It was 
+a dangerous place, but 
+after that it was safe.</Dialog>
+          <Dialog>He got in one after all. If 
+he's saved, that's fine.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="1072835110" Unknown1="4066976232">
-      <SDL2 Key="704023674">
+    <Entry Unknown0="1607704122" Unknown1="3720948145">
+      <SDL2 Key="893863652">
         <Unknown>
           <Entry>
             <Values>
@@ -1525,24 +1689,42 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>この前の急患のおじいさん、運ばれた大学病院に入院してるんだけど。</Dialog>
+          <Dialog>The ojisan who was sick 
+last time, was admitted to 
+the university hospital.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>救急車が嫌いなんだっけ。</Dialog>
-          <Dialog>説得して、乗ってもらうの大変だったの。</Dialog>
-          <Dialog>ガンコなんだな。</Dialog>
-          <Dialog>それでね、入院先から何かお礼をしたいって電話がかかって来て……。</Dialog>
-          <Dialog>電話できるくらい元気になったなら、よかったな。</Dialog>
-          <Dialog>病院の電話を使ったのかな。パパは、あの症状でまだ歩けるはずないって、</Dialog>
-          <Dialog>無理してたのかもな。ガンコな人って、義理堅いから。</Dialog>
-          <Dialog>それで症状が悪化しないのかな……。</Dialog>
-          <Dialog>今は病院でも携帯使えるとこ多いし、ちゃんと寝たままかけたのかもよ？</Dialog>
-          <Dialog>おじいさん、携帯電話使えるのかな……。</Dialog>
-          <Dialog>（たしかに若くても苦手な人いるしな。……▲高嶺＊＊▲とか）</Dialog>
+          <Dialog>He doesn't like ambulances.</Dialog>
+          <Dialog>I was hard to persuade him 
+to get on.</Dialog>
+          <Dialog>He was stubborn.</Dialog>
+          <Dialog>So, I got a phone call from 
+the hospital to thank me...</Dialog>
+          <Dialog>I wish he could be fine 
+enough to call you.</Dialog>
+          <Dialog>I wonder if he used the 
+hospital phone. Papa said 
+he couldn't walk because of 
+those symptoms.</Dialog>
+          <Dialog>It may have been 
+impossible. A stubborn 
+person has a strong sense 
+of duty.</Dialog>
+          <Dialog>I wonder if that doesn't 
+make his symptoms worse...</Dialog>
+          <Dialog>There are a lot of people 
+who can use their phones in 
+the hospital now, maybe he 
+went to bed properly?</Dialog>
+          <Dialog>I wonder if the ojisan can 
+use his cell phone...</Dialog>
+          <Dialog>（Certainly some people are 
+not good at being young... 
+▲高嶺＊＊▲）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3444918740" Unknown1="1879625547">
-      <SDL2 Key="704023674">
+    <Entry Unknown0="1787142509" Unknown1="1423203427">
+      <SDL2 Key="1434938447">
         <Unknown>
           <Entry>
             <Values>
@@ -1636,23 +1818,37 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>おじいさんがどうしてもお礼をしたいって電話をかけてくるの。</Dialog>
+          <Dialog>The ojisan called to thank 
+me.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、まだ入院中？</Dialog>
-          <Dialog>歩けるようにはなったけど、退院はまだ先みたい。</Dialog>
-          <Dialog>そっか。もらえばいいんじゃないの？</Dialog>
-          <Dialog>パパ。治療費以外は、一切受け取らない人だから。</Dialog>
-          <Dialog>▲高嶺＊＊▲のお父さんもガンコ……じゃなくて、真っ直ぐな人なんだな。</Dialog>
-          <Dialog>ふふ、いいよガンコで。</Dialog>
-          <Dialog>うん……でもカノジョのお父さんがガンコだと色々困りそうだな。</Dialog>
-          <Dialog>そうなの？　どうして？</Dialog>
-          <Dialog>「娘さんをください！」「お前なんかにはやらん！」……みたいな。</Dialog>
-          <Dialog>……もう。</Dialog>
+          <Dialog>Ah, he's still in the 
+hospital?</Dialog>
+          <Dialog>He's been able to walk, but 
+he's still leaving the 
+hospital.</Dialog>
+          <Dialog>I see. Why doesn't him stay?</Dialog>
+          <Dialog>Papa. Because he doesn't 
+receive anything except 
+medical treatment fees.</Dialog>
+          <Dialog>▲高嶺＊＊▲ you father is not 
+stubborn... he's a straight 
+person.</Dialog>
+          <Dialog>Fufu, he is stubborn.</Dialog>
+          <Dialog>Yes... But it seems like a 
+lot of trouble if my 
+girlfriend's father is 
+stubborn.</Dialog>
+          <Dialog>Is that so? Why?</Dialog>
+          <Dialog>Like... "Give me your 
+daughter's hand please" and 
+he says "I'm not going to 
+do it".</Dialog>
+          <Dialog>... Oh you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="687144759" Unknown1="3468047082">
-      <SDL2 Key="3519487825">
+    <Entry Unknown0="613440543" Unknown1="1577520750">
+      <SDL2 Key="1434938447">
         <Unknown>
           <Entry>
             <Values>
@@ -1750,23 +1946,38 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>入院してたおじいさん、もうすぐ退院できるって。</Dialog>
+          <Dialog>The ojisan who was in the 
+hospital said he could 
+leave the hospital soon.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>それじゃ、お礼の品を持って▲高嶺＊＊▲の家にやって来るな。</Dialog>
-          <Dialog>でも、パパはきっと受け取らないんだろうな。</Dialog>
-          <Dialog>う～ん。</Dialog>
-          <Dialog>いただいた品を返すのも、おじいさんに失礼だよね。</Dialog>
-          <Dialog>家の前に嫌いな救急車を停めておけば、おじいさん入れないんじゃないか。</Dialog>
-          <Dialog>救急車、そんなことに使えないよ。</Dialog>
-          <Dialog>じゃあお父さんに、救急車の格好してもらうとか。</Dialog>
-          <Dialog>無理だよ。……ふふ、パパが救急車？</Dialog>
-          <Dialog>そう。こう……ダンボールかなんかでさ。</Dialog>
-          <Dialog>ふふ、ふふふっ。ごめん、パパ……。おかしい。</Dialog>
+          <Dialog>Then,▲高嶺＊＊▲make sure he 
+doesn't forget to bring a 
+thank-you gift to your 
+house.</Dialog>
+          <Dialog>But, I'm sure Papa won't 
+take it.</Dialog>
+          <Dialog>Hmm.</Dialog>
+          <Dialog>It would be rude to return 
+an item you received.</Dialog>
+          <Dialog>If you park an ambulance 
+that you don't like in 
+front of your house, the 
+ojisan won't get in.</Dialog>
+          <Dialog>Ambulances can't be used 
+for that.</Dialog>
+          <Dialog>Then ask your father to 
+dress as an ambulance.</Dialog>
+          <Dialog>It's impossible... Fufu, 
+Papa's an ambulance?</Dialog>
+          <Dialog>Yes. With this... cardboard 
+or something.</Dialog>
+          <Dialog>Fufu, fufufu. I'm sorry, 
+Papa... It's funny.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="3483523798" Unknown1="3441021336">
-      <SDL2 Key="3519487825">
+    <Entry Unknown0="801345066" Unknown1="3803781537">
+      <SDL2 Key="1434938447">
         <Unknown>
           <Entry>
             <Values>
@@ -1868,23 +2079,40 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ロバの耳の王様の話、あるよね。</Dialog>
+          <Dialog>There is a story about the 
+king of donkey ears.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、うん。</Dialog>
-          <Dialog>あれ、どうして耳だけでロバだってわかったんだろう。</Dialog>
-          <Dialog>……ああ、耳だけだったら、ロバだか馬だか犬だか、すぐに区別できないよな。</Dialog>
-          <Dialog>ブタさんなら区別つくよね。</Dialog>
-          <Dialog>つくけど、ブタの耳だと、食べられちゃうからな。きっと変な話になっちゃう。</Dialog>
-          <Dialog>ブタさんの耳……食べるの？</Dialog>
-          <Dialog>ミミガーって沖縄料理が、ブタの耳だよ。食べたことある。</Dialog>
-          <Dialog>食べたんだ……。でもこの話、沖縄の話じゃないよね？</Dialog>
-          <Dialog>ってことは、ロバの耳を、食用として見ていない国な。どこだ？</Dialog>
-          <Dialog>どの国もそうだよ。……きっと。</Dialog>
+          <Dialog>Oh, yeah.</Dialog>
+          <Dialog>Huh, I wonder who did you 
+find you were a donkey with 
+only your ears.</Dialog>
+          <Dialog>...Ah, if it's just the 
+ears, it's hard to tell 
+whether it's a donkey, a 
+horse, or a dog.</Dialog>
+          <Dialog>If you're a pig, you can 
+tell them apart.</Dialog>
+          <Dialog>I'm sorry, but pig's ears 
+would make me be eaten.I'm 
+sure it's going to be a 
+strange story.</Dialog>
+          <Dialog>Pig's ear... do you eat 
+them?</Dialog>
+          <Dialog>Mimigar is Okinawan food 
+made of pig's ear. I've 
+eaten it before.</Dialog>
+          <Dialog>I ate it... But this story 
+isn't about Okinawa, is it?</Dialog>
+          <Dialog>I mean, it's a country that 
+doesn't see donkey ears as 
+edible. Where is it?</Dialog>
+          <Dialog>Every country is the 
+same... Surely.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2634414468" Unknown1="1371045883">
-      <SDL2 Key="3519487825">
+    <Entry Unknown0="2054525277" Unknown1="902057043">
+      <SDL2 Key="491384614">
         <Unknown>
           <Entry>
             <Values />
@@ -1958,21 +2186,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>この前のロバの耳の話。あれ、うさぎ耳だったらわかりやすいよな。</Dialog>
+          <Dialog>It's about the donkey ear's 
+story. It's easy to 
+understand if they are 
+rabbit's ears.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>飛び出しちゃって、隠すに隠せないよ。</Dialog>
-          <Dialog>でも人気者になりそうだな。バニーキング！　横にはバニーガールがいて。</Dialog>
-          <Dialog>……なに？　急に見つめて。</Dialog>
-          <Dialog>▲高嶺＊＊▲も、うさぎ耳が似合いそうだよな。</Dialog>
-          <Dialog>わたし……王様のそばにいるバニーガール？</Dialog>
-          <Dialog>きっと似合うよ。うん、絶対似合う。</Dialog>
-          <Dialog>いやだよ……でも、王様があなただったらいいかも。</Dialog>
-          <Dialog>（王様か、難しいな）</Dialog>
+          <Dialog>It jumps out and I can't 
+hide it.</Dialog>
+          <Dialog>But I think it would be 
+popular. Bunny King! There 
+is a bunny girl next to me.</Dialog>
+          <Dialog>...What? You're staring at 
+me suddenly.</Dialog>
+          <Dialog>▲高嶺＊＊▲, the rabbit ears 
+would look good.</Dialog>
+          <Dialog>Me... a bunny girls next 
+to the king?</Dialog>
+          <Dialog>I'm sure it will look good 
+on you. Yes, it definitely 
+suits you.</Dialog>
+          <Dialog>I don't want that... But, 
+it would be good if you 
+were the king.</Dialog>
+          <Dialog>（King, that's hard）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="4171509735" Unknown1="3311854234">
-      <SDL2 Key="4059510443">
+    <Entry Unknown0="880823311" Unknown1="905444958">
+      <SDL2 Key="491384614">
         <Unknown>
           <Entry>
             <Values>
@@ -2064,22 +2305,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねえ。あなたはアルバイトしてるよね。</Dialog>
+          <Dialog>Hey you. You work part-
+time, correct?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん、ああ。</Dialog>
-          <Dialog>わたしも……やってみようかな。</Dialog>
-          <Dialog>なんで？　小遣い足りないとか。</Dialog>
-          <Dialog>ううん、そういうわけじゃ。……社会勉強、かな？</Dialog>
-          <Dialog>なるほど。</Dialog>
-          <Dialog>それに、あなたが……。</Dialog>
-          <Dialog>●？</Dialog>
-          <Dialog>学校の勉強に、部活に、それにアルバイトまで……。見習いたいな、って。</Dialog>
-          <Dialog>（見習われるほど、真面目にやってるかな……）</Dialog>
+          <Dialog>Hmm.</Dialog>
+          <Dialog>Me too... i think I'll give 
+it a try.</Dialog>
+          <Dialog>Why? Not enough pocket 
+money.</Dialog>
+          <Dialog>No, that's not why... 
+Social studies, I guess?</Dialog>
+          <Dialog>So that's it.</Dialog>
+          <Dialog>And you...</Dialog>
+          <Dialog>Me?</Dialog>
+          <Dialog>For studying at school, 
+club activities, and 
+part-time jobs... I want to 
+be an apprentice.</Dialog>
+          <Dialog>（I wonder is she's 
+seriously want to learn 
+from me...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2672986758" Unknown1="382304584">
-      <SDL2 Key="4059510443">
+    <Entry Unknown0="1068760602" Unknown1="4188604817">
+      <SDL2 Key="491384614">
         <Unknown>
           <Entry>
             <Values />
@@ -2171,22 +2421,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえばバイトの話、どうなった？</Dialog>
+          <Dialog>By the way, what happened 
+to the part-time job?</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん……。パパとママに相談したんだけど……。</Dialog>
-          <Dialog>ああ、反対されたか。</Dialog>
-          <Dialog>パパがね、“高校生のうちは勉強と部活に集中しなさい”って。</Dialog>
-          <Dialog>そっか……でも、それでいいんじゃないか？</Dialog>
-          <Dialog>どうして？</Dialog>
-          <Dialog>▲高嶺＊＊▲がバイトしたら●といる時間、減るじゃん。</Dialog>
-          <Dialog>そうだけど、でも……。</Dialog>
-          <Dialog>ダメ。高校生のうちは勉強と部活に集中しなさい。</Dialog>
-          <Dialog>もう……。はい、パパ。</Dialog>
+          <Dialog>Yes... I talked with Mama 
+and Papa...</Dialog>
+          <Dialog>Oh, I wonder what they told 
+you.</Dialog>
+          <Dialog>Papa said "High school 
+students should concentrate 
+on their studies and club 
+activities".</Dialog>
+          <Dialog>I see... But that's fine, 
+isn't it?</Dialog>
+          <Dialog>Why?</Dialog>
+          <Dialog>▲高嶺＊＊▲if you work part-
+time, we would spend less 
+time together.</Dialog>
+          <Dialog>I see, but...</Dialog>
+          <Dialog>No good. In high school, 
+concentrate on your studies 
+and club activities.</Dialog>
+          <Dialog>Geez... I get it, Papa.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="766847284" Unknown1="3563597739">
-      <SDL2 Key="1539946882">
+    <Entry Unknown0="1248166221" Unknown1="817118275">
+      <SDL2 Key="1031346033">
         <Unknown>
           <Entry>
             <Values>
@@ -2285,24 +2546,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇ、サーブでバックスピンってどうやってかけるのかな？</Dialog>
+          <Dialog>Hey, how do you put 
+backspin on your serve?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>無理！</Dialog>
-          <Dialog>どうして？　やってた人がいるってリナ先輩が言ってたよ。</Dialog>
-          <Dialog>リナ先輩って、地区のランキングに入ってる人だよな……。サーブでバックスピン？</Dialog>
-          <Dialog>どうやるんだろう？</Dialog>
-          <Dialog>オーバーサーブだったらバックスピンは無理だろ、アンダーってことかな、こうか……？</Dialog>
-          <Dialog>それ、スライスじゃない？</Dialog>
-          <Dialog>スライスサーブじゃないよ。この角度で……こう……。</Dialog>
-          <Dialog>ラケットがないと、わからないね。</Dialog>
-          <Dialog>だから、こうだって。こう！</Dialog>
-          <Dialog>大丈夫っ？</Dialog>
-          <Dialog>な、なんでもない。</Dialog>
+          <Dialog>I can't!</Dialog>
+          <Dialog>Why? Rina-senpai said there 
+was a person who was doing 
+it.</Dialog>
+          <Dialog>Rina-senpai is ranked in 
+the district... Serve and 
+backspin?</Dialog>
+          <Dialog>How do you do it?</Dialog>
+          <Dialog>If it's an overserver, you 
+can't backspin, it's under 
+it, isn't it?</Dialog>
+          <Dialog>Isn't that a slice?</Dialog>
+          <Dialog>It's not a slice server. At 
+this angle... this way...</Dialog>
+          <Dialog>Without a racket, I don't 
+know.</Dialog>
+          <Dialog>That's why it's like this. 
+This way!</Dialog>
+          <Dialog>Are you okay?</Dialog>
+          <Dialog>It's nothing.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="2287230871" Unknown1="706122314">
-      <SDL2 Key="1539946882">
+    <Entry Unknown0="74497279" Unknown1="988278350">
+      <SDL2 Key="1031346033">
         <Unknown>
           <Entry>
             <Values>
@@ -2396,23 +2667,36 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>わたしのバックハンド、トップスピンがかからないことがたまにあって……。</Dialog>
+          <Dialog>Sometimes my backhand and 
+top spin don't come right...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、無回転になっちゃうのか。▲高嶺＊＊▲は両手打ちが多いよな？</Dialog>
-          <Dialog>わたしは体の回転で打つから両手のほうが得意かな。</Dialog>
-          <Dialog>打ち返す時にラケットのヘッドを下げれば、トップスピンは自然にかかると思うけど。</Dialog>
-          <Dialog>口で言うのは簡単だけど。</Dialog>
-          <Dialog>こうだよ……テイクバックして、こう返せばいいんだ。</Dialog>
-          <Dialog>ラケットがないと、ヘッドまではわからないよ。</Dialog>
-          <Dialog>●の手首を見て、こう引いて……こう！</Dialog>
-          <Dialog>だ、大丈夫？</Dialog>
-          <Dialog>ちょっと……足が滑っただけ。</Dialog>
-          <Dialog>ふふ、無理しないで？</Dialog>
+          <Dialog>Oh, then it's non-spining. 
+▲高嶺＊＊▲, you have a lot of 
+two-handed hits, right?</Dialog>
+          <Dialog>I'm better at using both 
+hands because I hit it by 
+rotating my body.</Dialog>
+          <Dialog>If you lower your racket's 
+head when you hit it back, 
+you'll naturally get a 
+topspin.</Dialog>
+          <Dialog>It's easier said than done.</Dialog>
+          <Dialog>It's like this... All you 
+have to do is take it back 
+and return it like this.</Dialog>
+          <Dialog>If you don't have a racket, 
+you won't even know the 
+head.</Dialog>
+          <Dialog>Look at my wrist, pull like 
+this... Like this!</Dialog>
+          <Dialog>Are you okay?</Dialog>
+          <Dialog>A little... I just slipped.</Dialog>
+          <Dialog>Fufu, don't overdo it okay?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="788675126" Unknown1="2474193400">
-      <SDL2 Key="3958955997">
+    <Entry Unknown0="262401546" Unknown1="4237949313">
+      <SDL2 Key="1031346033">
         <Unknown>
           <Entry>
             <Values />
@@ -2502,21 +2786,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……。</Dialog>
+          <Dialog>....</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……なに？</Dialog>
-          <Dialog>ううん、なんにも。</Dialog>
-          <Dialog>……そう。</Dialog>
-          <Dialog>見てるよね？</Dialog>
-          <Dialog>見られるの、いや？</Dialog>
-          <Dialog>いやじゃないけど……。</Dialog>
-          <Dialog>じゃあ、いいよね？</Dialog>
-          <Dialog>？</Dialog>
+          <Dialog>...What?</Dialog>
+          <Dialog>No, nothing.</Dialog>
+          <Dialog>... That so.</Dialog>
+          <Dialog>You're watching, aren't you?</Dialog>
+          <Dialog>You can see it, no?</Dialog>
+          <Dialog>I don't hate, but...</Dialog>
+          <Dialog>Then it's good, right?</Dialog>
+          <Dialog>?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
-    <Entry Unknown0="4251277796" Unknown1="253288283">
-      <SDL2 Key="3958955997">
+    <Entry Unknown0="1515581757" Unknown1="732179507">
+      <SDL2 Key="1840795100">
         <Unknown>
           <Entry>
             <Values />
@@ -2606,19 +2890,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……。</Dialog>
+          <Dialog>....</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>また見てる。</Dialog>
-          <Dialog>ふふ、見たいから。</Dialog>
-          <Dialog>なんで？　別に楽しくないだろ。</Dialog>
-          <Dialog>ううん、楽しいよ？</Dialog>
-          <Dialog>……別に●は鏡見ても楽しくないけどな。</Dialog>
-          <Dialog>そういう問題かな。</Dialog>
-          <Dialog>あ、でも▲高嶺＊＊▲の顔見てるのは楽しいかもな。</Dialog>
-          <Dialog>……わたしは鏡見ても楽しくないよ？</Dialog>
-          <Dialog>そういう問題じゃ……。あれ？</Dialog>
-          <Dialog>ふふ、楽しいね？</Dialog>
-          <Dialog>（まあ、いっか）</Dialog>
+          <Dialog>I'm watching again.</Dialog>
+          <Dialog>Fufu, I want to see it.</Dialog>
+          <Dialog>Why? It's not really funny.</Dialog>
+          <Dialog>No, it's fun, isn't it?</Dialog>
+          <Dialog>... I don't have fun 
+looking at the mirror.</Dialog>
+          <Dialog>I wonder if that's the 
+problem.</Dialog>
+          <Dialog>Oh, but it might be fun to 
+see ▲高嶺＊＊▲'s face.</Dialog>
+          <Dialog>... I don't enjoy looking 
+in the mirror, do I?</Dialog>
+          <Dialog>That's not the problem... 
+Huh?</Dialog>
+          <Dialog>Fufu, isn't it fun?</Dialog>
+          <Dialog>（Oh, well）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
