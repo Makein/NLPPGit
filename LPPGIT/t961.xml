@@ -36,10 +36,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>友人その他</Dialog>
-          <Dialog>家族</Dialog>
-          <Dialog>その他</Dialog>
-          <Dialog>リストから選択</Dialog>
+          <Dialog>Friends and others</Dialog>
+          <Dialog>Family</Dialog>
+          <Dialog>Others</Dialog>
+          <Dialog>Select from list</Dialog>
           <Dialog>【DEBUG】カレシの顔として登録</Dialog>
           <Dialog>▲紹介友達名▲</Dialog>
         </Dialogs>
@@ -211,34 +211,34 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>友人</Dialog>
-          <Dialog>家族</Dialog>
-          <Dialog>その他</Dialog>
-          <Dialog>リストから選択</Dialog>
-          <Dialog>【DEBUG】カレシの顔として登録</Dialog>
+          <Dialog>Friend</Dialog>
+          <Dialog>Family</Dialog>
+          <Dialog>Other</Dialog>
+          <Dialog>Select from list</Dialog>
+          <Dialog>【DEBUG】Registered as a boyfriend's face </Dialog>
           <Dialog>▲紹介友達名▲</Dialog>
-          <Dialog>有名人</Dialog>
-          <Dialog>父</Dialog>
-          <Dialog>母</Dialog>
-          <Dialog>兄</Dialog>
-          <Dialog>姉</Dialog>
-          <Dialog>弟</Dialog>
-          <Dialog>妹</Dialog>
-          <Dialog>息子</Dialog>
-          <Dialog>娘</Dialog>
-          <Dialog>Ａ型</Dialog>
-          <Dialog>Ｂ型</Dialog>
-          <Dialog>ＡＢ型</Dialog>
-          <Dialog>Ｏ型</Dialog>
-          <Dialog>やさしい</Dialog>
-          <Dialog>冷たい</Dialog>
-          <Dialog>物静か</Dialog>
-          <Dialog>騒がしい</Dialog>
-          <Dialog>まじめ</Dialog>
-          <Dialog>おもしろい</Dialog>
-          <Dialog>いやらしい</Dialog>
-          <Dialog>登録する</Dialog>
-          <Dialog>やり直す</Dialog>
+          <Dialog>Celebrity</Dialog>
+          <Dialog>Father</Dialog>
+          <Dialog>Mother</Dialog>
+          <Dialog>Elder brother</Dialog>
+          <Dialog>Elder sister</Dialog>
+          <Dialog>Brother</Dialog>
+          <Dialog>Sister</Dialog>
+          <Dialog>Son</Dialog>
+          <Dialog>Daughter</Dialog>
+          <Dialog>Type A</Dialog>
+          <Dialog>Type Ｂ</Dialog>
+          <Dialog>Type ＡＢ</Dialog>
+          <Dialog>Type Ｏ</Dialog>
+          <Dialog>Gentle</Dialog>
+          <Dialog>Cold</Dialog>
+          <Dialog>Quiet</Dialog>
+          <Dialog>Noisy</Dialog>
+          <Dialog>Serious</Dialog>
+          <Dialog>Amusing</Dialog>
+          <Dialog>Nasty</Dialog>
+          <Dialog>Register</Dialog>
+          <Dialog>Redo</Dialog>
           <Dialog>○</Dialog>
           <Dialog>×</Dialog>
         </Dialogs>
@@ -296,13 +296,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>付き合ってどのくらい？</Dialog>
-          <Dialog>カレシの好きなとこは？</Dialog>
-          <Dialog>最近うれしかったことは？</Dialog>
-          <Dialog>悩みは？</Dialog>
-          <Dialog>趣味は？</Dialog>
-          <Dialog>好きな料理は？</Dialog>
-          <Dialog>年齢は？</Dialog>
+          <Dialog>How long have you been together?</Dialog>
+          <Dialog>What do you like about your boyfriend?</Dialog>
+          <Dialog>What's made you happy recently?</Dialog>
+          <Dialog>What's bothering you?</Dialog>
+          <Dialog>What's your hobby?</Dialog>
+          <Dialog>What is your favorite dish? </Dialog>
+          <Dialog>How old are you? </Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -492,20 +492,20 @@
         <Dialogs>
           <Dialog>○</Dialog>
           <Dialog>×</Dialog>
-          <Dialog>よろしく</Dialog>
-          <Dialog>ちがう</Dialog>
-          <Dialog>A型</Dialog>
-          <Dialog>B型</Dialog>
-          <Dialog>O型</Dialog>
-          <Dialog>AB型</Dialog>
-          <Dialog>情熱的</Dialog>
-          <Dialog>大雑把</Dialog>
-          <Dialog>天然</Dialog>
-          <Dialog>几帳面</Dialog>
-          <Dialog>ぶっ飛んでる</Dialog>
-          <Dialog>自分勝手</Dialog>
-          <Dialog>他の人に紹介する</Dialog>
-          <Dialog>終わりにする</Dialog>
+          <Dialog>Goodく</Dialog>
+          <Dialog>Wrong</Dialog>
+          <Dialog>Type A</Dialog>
+          <Dialog>Type B</Dialog>
+          <Dialog>Type O</Dialog>
+          <Dialog>Type AB</Dialog>
+          <Dialog>Passionate</Dialog>
+          <Dialog>Careless</Dialog>
+          <Dialog>Natural</Dialog>
+          <Dialog>Careful</Dialog>
+          <Dialog>Crazy</Dialog>
+          <Dialog>Selfish</Dialog>
+          <Dialog>Introduce to others</Dialog>
+          <Dialog>End it</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
