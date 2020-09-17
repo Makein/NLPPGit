@@ -5718,32 +5718,36 @@ point...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店員</Dialog>
-          <Dialog>いらっしゃいませー。</Dialog>
+          <Dialog>Clerk</Dialog>
+          <Dialog>Welcome.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>一緒に水着選ぶのって、ちょっと恥ずかしいね？</Dialog>
+          <Dialog>Isn't it a little
+embarrassing to choose a
+swimsuit together？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、そうかも……。</Dialog>
-          <Dialog>ねえ、どんなのがいい？</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>ビキニ以外考えられない</Dialog>
-          <Dialog>通はワンピースなんだよ！</Dialog>
-          <Dialog>ビキニ！</Dialog>
-          <Dialog>……もう、わかった。</Dialog>
-          <Dialog>(よっし！)</Dialog>
-          <Dialog>ワンピース！</Dialog>
-          <Dialog>ワンピース……うん、わかった。どれがいいかな……。</Dialog>
-          <Dialog>(よし……)</Dialog>
-          <Dialog>いいね！</Dialog>
-          <Dialog>チェンジ！</Dialog>
-          <Dialog>うーん……。</Dialog>
-          <Dialog>いいねいいね！</Dialog>
-          <Dialog>チェンジチェンジ！</Dialog>
-          <Dialog>(さすがにそろそろ決めないと……)</Dialog>
-          <Dialog>最初のがよかった</Dialog>
-          <Dialog>一つ前のにしよう</Dialog>
-          <Dialog>今着てるのがいい</Dialog>
-          <Dialog>ありがとうございましたー。</Dialog>
+          <Dialog>Yeah, I guess...</Dialog>
+          <Dialog>Hey, what do you like？</Dialog>
+          <Dialog>Let's see...</Dialog>
+          <Dialog>I can't think of anything
+other than a bikini.</Dialog>
+          <Dialog>It's a dress!</Dialog>
+          <Dialog>Bikini!</Dialog>
+          <Dialog>... I understand.</Dialog>
+          <Dialog>(Good!)</Dialog>
+          <Dialog>Dress!</Dialog>
+          <Dialog>Dress... I understand.
+Which is better...</Dialog>
+          <Dialog>(Well...)</Dialog>
+          <Dialog>I like it!</Dialog>
+          <Dialog>Change!</Dialog>
+          <Dialog>Hmm...</Dialog>
+          <Dialog>I like it!</Dialog>
+          <Dialog>Change-change!</Dialog>
+          <Dialog>(I have to decide soon...)</Dialog>
+          <Dialog>The first was good</Dialog>
+          <Dialog>Let's go back</Dialog>
+          <Dialog>It's better to wear it now</Dialog>
+          <Dialog>Thank you very much.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

@@ -32,13 +32,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（ねむ……
-出発、早いからな……）</Dialog>
-          <Dialog>（▲姉ヶ崎＊▲、
-もう、来てるかな？）</Dialog>
+          <Dialog>（I'm……
+Leave early...)</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲, are you 
+here already?）</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>おはよう。</Dialog>
-          <Dialog>あ、▲姉ヶ崎＊▲！</Dialog>
+          <Dialog>Good morning.</Dialog>
+          <Dialog>Ah, ▲姉ヶ崎＊▲！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -62,11 +62,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店長</Dialog>
-          <Dialog>待機中…。</Dialog>
-          <Dialog>待機中……。</Dialog>
+          <Dialog>Manager</Dialog>
+          <Dialog>Waiting...</Dialog>
+          <Dialog>Waiting......</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>お姉さんからは以上です。</Dialog>
+          <Dialog>That's all from your sister.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -86,9 +86,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>蜜柑苺珈琲綺麗。</Dialog>
+          <Dialog>The tangerine strawberry
+coffee is lovely.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ぴよ。</Dialog>
+          <Dialog>PIYO.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
