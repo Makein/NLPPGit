@@ -82,17 +82,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ……どうしたの、こんなところで。</Dialog>
+          <Dialog>Ah... What's up？ Why are you
+here？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういう▲姉ヶ崎＊▲は？</Dialog>
-          <Dialog>私？　私は気分転換にちょっと……。</Dialog>
-          <Dialog>●もそんな感じなんだけど……。</Dialog>
-          <Dialog>もぅ。なによ、それ。</Dialog>
-          <Dialog>はは、なんだろ……。</Dialog>
-          <Dialog>ふふ。まぁ……あなたにも会えたことだし、今日は良かったかな。</Dialog>
+          <Dialog>How about you,
+▲姉ヶ崎＊▲？</Dialog>
+          <Dialog>Me？ I'm here just for a
+change of mood...</Dialog>
+          <Dialog>I'm here for the same
+reason...</Dialog>
+          <Dialog>Geez. What's that？</Dialog>
+          <Dialog>Haha. What...？</Dialog>
+          <Dialog>Hehe. Well... Now that I met
+you, I feel like today is a
+nice day.</Dialog>
           <Dialog>？</Dialog>
-          <Dialog>ううん、なんでもない。じゃあ、私もう行くね。また、ね。</Dialog>
-          <Dialog>うん。</Dialog>
+          <Dialog>No, never mind. Well, I have
+to go. See you later, okay？</Dialog>
+          <Dialog>Okay.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -142,12 +149,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ。また気分転換？</Dialog>
+          <Dialog>Hehe. Are you here for a
+change of mood again？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん……偶然。</Dialog>
-          <Dialog>もしかして、ここに来れば、私に会えるかもって思ってる……とか？</Dialog>
-          <Dialog>え……？</Dialog>
-          <Dialog>ううん、なんでもない。じゃあ、また……ね。</Dialog>
+          <Dialog>Yeah... What a coincidence.</Dialog>
+          <Dialog>Did you come here because you
+expected to see me... hmm？</Dialog>
+          <Dialog>Eh...？</Dialog>
+          <Dialog>No, never mind. Well, see you
+later, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -197,12 +207,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>また嬉しい偶然……かな？</Dialog>
+          <Dialog>Another lucky coincidence,
+huh？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ……。</Dialog>
-          <Dialog>この後どこか行ければいいんだけど……。</Dialog>
-          <Dialog>何かある？</Dialog>
-          <Dialog>うん、帰らないと。ごめんね、じゃ……。</Dialog>
+          <Dialog>Ah...</Dialog>
+          <Dialog>I wish I could hang out with
+you a little longer, but...</Dialog>
+          <Dialog>You got something planned？</Dialog>
+          <Dialog>Yeah, I have to go home now.
+Sorry. Bye...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -277,16 +290,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ……ふふ、こういうこともあるんだ。</Dialog>
+          <Dialog>Ah... Hehe. You also come to
+this place.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲？</Dialog>
-          <Dialog>映画、１人で観てたんだ。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲も、これから１人で？</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>●……、ヘンなこと言ったかな？</Dialog>
-          <Dialog>ううん、違うの。ただ……誘えば良かったのかなって。</Dialog>
-          <Dialog>えっと……。</Dialog>
-          <Dialog>ふふ、いいの。一緒には、また今度ね？</Dialog>
+          <Dialog>Did you come to watch a movie
+alone？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲,
+too？ Did you watch
+a movie alone？</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Did I... ask a weird
+question？</Dialog>
+          <Dialog>No, you didn't. It's just... I
+was thinking that I should've
+invited you here.</Dialog>
+          <Dialog>Well...</Dialog>
+          <Dialog>Hehe. It's okay. We can come
+here together next time, all
+right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -336,12 +358,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>また会っちゃったね、１人？</Dialog>
+          <Dialog>We meet again. Are you here by
+yourself？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん。▲姉ヶ崎＊▲も？</Dialog>
-          <Dialog>うん、私はもう観終わっちゃって、帰るところ……。</Dialog>
-          <Dialog>そっか、タイミング合わないね。</Dialog>
-          <Dialog>ううん。次は、一緒に来ようね？</Dialog>
+          <Dialog>Yes.
+▲姉ヶ崎＊▲,
+too？</Dialog>
+          <Dialog>Yeah, but I just got out of
+the theater and I'm about to
+go home...</Dialog>
+          <Dialog>I see. Too bad. We couldn't
+watch it together.</Dialog>
+          <Dialog>Don't worry. We can come here
+together next time, right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -391,12 +420,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、また行き違い……？</Dialog>
+          <Dialog>Ah, we run into each other
+again...？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、そうみたい。</Dialog>
-          <Dialog>ふふ、タイミング合ってるのか、合ってないのか、よくわからないね？</Dialog>
-          <Dialog>うん、ほんとに……。</Dialog>
-          <Dialog>いいよ、気にしなくても。いつでも一緒に来れるんだから。</Dialog>
+          <Dialog>Yeah, it seems so.</Dialog>
+          <Dialog>Hehe. I'm not sure if we
+should call this good or bad
+timing.</Dialog>
+          <Dialog>Yeah, really...</Dialog>
+          <Dialog>It's okay. Don't worry. We can
+come here together later
+whenever we want.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -476,16 +510,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……ふふ、こんなところにカワイイ男の子、発見っ。</Dialog>
+          <Dialog>...Hehe. I found this cute boy
+right here.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲？</Dialog>
-          <Dialog>ここにいるってことは……トレーニング？</Dialog>
-          <Dialog>今日はなんとなく……。</Dialog>
-          <Dialog>ふふ、そっか……良かった。体鍛えるのもいいけど、私のこともかまってね？</Dialog>
-          <Dialog>うん、もちろん……。</Dialog>
-          <Dialog>ふふ。じゃあ、私は行かなきゃ……。</Dialog>
-          <Dialog>そうなんだ。</Dialog>
-          <Dialog>うん、じゃあね！</Dialog>
+          <Dialog>You're here for... training？</Dialog>
+          <Dialog>Yeah, something like that...</Dialog>
+          <Dialog>Hehe. I see... That's good.
+It's good that you're training
+your body, but don't forget
+about me, okay？</Dialog>
+          <Dialog>Of course, I won't...</Dialog>
+          <Dialog>Hehe. Now, I've got to go...</Dialog>
+          <Dialog>Okay.</Dialog>
+          <Dialog>Okay, bye！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -539,12 +577,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ、また会ったね。</Dialog>
+          <Dialog>Hehe, we meet again.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲もまたここに？</Dialog>
-          <Dialog>私のことはどうでもいいの。それより、もしかして、ムキムキになろうとか思ってる？</Dialog>
-          <Dialog>ムキムキ？</Dialog>
-          <Dialog>却下！　それだけはダメなんだからね！　絶対だよ！</Dialog>
+          <Dialog>▲姉ヶ崎＊▲,
+you come here again.</Dialog>
+          <Dialog>You don't have to concern
+about me. Are you possibly
+trying to get brawny？</Dialog>
+          <Dialog>Brawny？</Dialog>
+          <Dialog>I object！ I don't want you to
+be brawny！ So, don't！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -594,12 +636,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、▲姉ヶ崎＊▲。またここに……もしかしてダイエットとか？</Dialog>
+          <Dialog>Ah,
+▲姉ヶ崎＊▲.
+You're here again...
+Are you possibly trying
+to lose weight？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>なに？</Dialog>
-          <Dialog>健康ブームだし、体鍛えるのはいいよ？　でも……。</Dialog>
-          <Dialog>女の子にダイエットのことは聞かない！　これ、忠告だよ!?</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>It's okay that you enjoy body
+training, but...</Dialog>
+          <Dialog>Don't ever talk to your
+girlfriend about her weight！
+This is the warning！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -683,16 +732,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。お買い物？</Dialog>
+          <Dialog>▲主人公＊▲.
+Are you shopping？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲……。うん、そんなとこ。</Dialog>
-          <Dialog>もしかして、誰か私以外へのプレゼントを買いに来た、とか？</Dialog>
-          <Dialog>ええっ!?</Dialog>
-          <Dialog>もぅ……そんなに慌てなくたって……。</Dialog>
-          <Dialog>ごめん。</Dialog>
-          <Dialog>いいの、信じてるもん……ごめんね、変なこと言って……。</Dialog>
-          <Dialog>ううん、大丈夫……。</Dialog>
-          <Dialog>あ、もう行かなきゃ……じゃあね？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲...
+Yeah, that's right.</Dialog>
+          <Dialog>Perhaps, you're buying
+presents for some other
+girls？</Dialog>
+          <Dialog>Eh！？</Dialog>
+          <Dialog>Geez... You don't have to
+fluster like that...</Dialog>
+          <Dialog>Sorry.</Dialog>
+          <Dialog>Fine, I trust you... Sorry
+that I said something weird...</Dialog>
+          <Dialog>No, don't worry...</Dialog>
+          <Dialog>Ah, I have to go... See you
+later, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -742,12 +798,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ……。</Dialog>
+          <Dialog>Ah...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲。</Dialog>
-          <Dialog>ふふ、また会っちゃったね……。</Dialog>
-          <Dialog>うん……。</Dialog>
-          <Dialog>私、もう行かなくちゃいけないけど……ふふ、こういうのも新鮮だね？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>Hehe, we meet again...</Dialog>
+          <Dialog>Yeah...</Dialog>
+          <Dialog>I have to get going... Hehe.
+It feels nice that we met like
+this, right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -797,12 +855,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ……よく会うね、買い物？</Dialog>
+          <Dialog>Ah... We often meet here. Are
+you shopping？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>んー、ただ単にブラブラと……。</Dialog>
-          <Dialog>暇なんだ？</Dialog>
-          <Dialog>そうでもないよ、●もいろいろと、さ。</Dialog>
-          <Dialog>そっか、時間があればどこかで話したいけど、もう行かなきゃ。じゃあね？</Dialog>
+          <Dialog>Well, I'm just walking
+aimlessly...</Dialog>
+          <Dialog>Got so much free time, huh？</Dialog>
+          <Dialog>No, I also have a lot of
+things to take care of.</Dialog>
+          <Dialog>I see. I want to hang out with
+you a little more, but I have
+to go now. Bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -891,17 +954,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……珍しいところで会うね。</Dialog>
+          <Dialog>...It's unusual to meet you
+here.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、▲姉ヶ崎＊▲。</Dialog>
-          <Dialog>もしかして……エントランスホールに好きなアイドルのポスターでも貼ってあった？</Dialog>
-          <Dialog>え……。</Dialog>
-          <Dialog>いいのいいの、私、そういうことに理解あるカノジョだから。</Dialog>
-          <Dialog>だから……。</Dialog>
-          <Dialog>そうよね。あなたもそういう年齢なんだし、目が移っちゃうのも仕方がないよね。</Dialog>
-          <Dialog>だから。</Dialog>
-          <Dialog>いいのいいの、わかってるから。私への気持ちが一番なら、他の女の子見るくらい許してあげるから。</Dialog>
-          <Dialog>（だめだ、聞いてくれない……）</Dialog>
+          <Dialog>Ah,
+▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>Could it be that... there are
+some posters of the idols you
+like at the entrance？</Dialog>
+          <Dialog>Eh...？</Dialog>
+          <Dialog>It's fine. I'm a very
+understanding girlfriend.</Dialog>
+          <Dialog>But...</Dialog>
+          <Dialog>I know. You're at the age that
+would be interested in
+something like that.</Dialog>
+          <Dialog>But I...</Dialog>
+          <Dialog>It's fine. I understand. If
+I'm still your "number one," I
+wouldn't mind if you also look
+at some other girls.</Dialog>
+          <Dialog>(No good. She's not listening
+to me...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -965,14 +1039,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、また偶然……。</Dialog>
-          <Dialog>言っとくけど、別に変なイベントじゃ……。</Dialog>
-          <Dialog>んー？　言い訳するのがあやしいなぁ。</Dialog>
-          <Dialog>ホントだって！</Dialog>
-          <Dialog>ふふ。今日のところは信じてあげる。私もイヤな女になりたくないし。じゃあ、行かなきゃ……。</Dialog>
-          <Dialog>だから違うって……。</Dialog>
+          <Dialog>Ah, we meet again...</Dialog>
+          <Dialog>Let me tell you first. I'm not
+attending any weird event...</Dialog>
+          <Dialog>Huh？ It sounds even more
+suspicious when you say that.</Dialog>
+          <Dialog>I told you the truth！</Dialog>
+          <Dialog>Hehe. I'll trust you this
+time. I don't want to be an
+evil woman. Well, I have to
+go...</Dialog>
+          <Dialog>But you misunderstood me...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1026,12 +1105,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。ふふ、また来てたんだ。</Dialog>
+          <Dialog>▲主人公＊▲.
+Hehe, you're here again.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
-          <Dialog>ふふ、そんなに好きなら、今度デートのときに誘って？</Dialog>
-          <Dialog>それもありかな……。</Dialog>
-          <Dialog>考えておいて？　あ、私は用事の途中だから……じゃあね？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲...</Dialog>
+          <Dialog>Hehe. If you like it this
+much, how about we come here
+together for a date next
+time？</Dialog>
+          <Dialog>That'd be nice...</Dialog>
+          <Dialog>Think about it, okay？ Ah, I
+have to run an errand. ...See
+you later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1116,17 +1201,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こーら！　ゲームセンターなんかで、なに遊んでるの!?</Dialog>
+          <Dialog>Hey！ What are you doing at
+the game center！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うわ、▲姉ヶ崎＊▲!?</Dialog>
-          <Dialog>学生の本分は勉強よ？　遊んでるヒマなんてあるの!?</Dialog>
-          <Dialog>う……。</Dialog>
-          <Dialog>なーんてね、ふふ。ちょっとお姉さんぶっちゃった。</Dialog>
-          <Dialog>え？</Dialog>
-          <Dialog>一度、言ってみたかったのよね、“遊んでないで勉強しなさい！”なーんてね。</Dialog>
-          <Dialog>えーっと……。</Dialog>
-          <Dialog>今日のところは多めに見てあげるから、遅くならないうちに帰るんだぞ？　いい？</Dialog>
-          <Dialog>う、うん……。</Dialog>
+          <Dialog>Whoa,
+▲姉ヶ崎＊▲！？</Dialog>
+          <Dialog>A student's duty is to study,
+right？ Do you have so much
+time to play around！？</Dialog>
+          <Dialog>Urgh...</Dialog>
+          <Dialog>Just kidding. Hehe. I just
+wanted to act like a big
+sister.</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>I've wanted to say this for a
+long time. “Don't play. Go to
+study！” Something like that.</Dialog>
+          <Dialog>Well...</Dialog>
+          <Dialog>I'll let you off this time,
+but you should go home before
+it gets dark, okay？</Dialog>
+          <Dialog>Y-Yes...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1176,12 +1271,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こーら！　また遊んでるの？</Dialog>
+          <Dialog>Hey！ You're playing again？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、▲姉ヶ崎＊▲か。びっくりしたなあ。</Dialog>
-          <Dialog>ふふ。やっぱり男の子は、こういうところ好きなのかな？</Dialog>
-          <Dialog>んー、そうかも。</Dialog>
-          <Dialog>ふふ。私はもう行くけど、カノジョのことも、ちゃんと相手してあげてね？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲？
+Don't scare me.</Dialog>
+          <Dialog>Hehe. Guys really like to come
+to this place, huh？</Dialog>
+          <Dialog>Yeah, I think.</Dialog>
+          <Dialog>Hehe, I have to go now. Don't
+play until you forget your
+girlfriend, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1231,12 +1330,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そこの少年、お姉さんと遊んでみない？</Dialog>
+          <Dialog>Hey, that boy. Do you want to
+play with this big sister？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>わ、▲姉ヶ崎＊▲!?</Dialog>
-          <Dialog>ふふ。本気にした？</Dialog>
-          <Dialog>え……えっと……？</Dialog>
-          <Dialog>でも残念。お姉さんは忙しくて今日は遊べないのでした。じゃあね！</Dialog>
+          <Dialog>Whoa,
+▲姉ヶ崎＊▲！？</Dialog>
+          <Dialog>Hehe. Wanna play with me？</Dialog>
+          <Dialog>Eh...？ Well...？</Dialog>
+          <Dialog>Too bad. This big sister is
+too busy today, so she can't
+play with you. Bye now！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1331,18 +1434,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>お客様、何をお探しですか？</Dialog>
+          <Dialog>Mister, what are you looking
+for？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっと……って、▲姉ヶ崎＊▲!?</Dialog>
-          <Dialog>ふふ。一度言ってみたかったんだ、コレ。ファミレスじゃ無理だもんね。</Dialog>
-          <Dialog>えっと……？</Dialog>
-          <Dialog>で、なにか探してるの？</Dialog>
-          <Dialog>そういうわけじゃないんだけど……。</Dialog>
-          <Dialog>じゃあ、どういうわけなの？</Dialog>
-          <Dialog>こう……なんというか……冷やかし？</Dialog>
-          <Dialog>ふふ、あんまりお店に迷惑かけちゃダメだぞ？</Dialog>
-          <Dialog>うん……。</Dialog>
-          <Dialog>うん、よろしい。私はまだ用事があるから、先に行くね？　じゃあ。</Dialog>
+          <Dialog>Well... Huh？
+▲姉ヶ崎＊▲！？</Dialog>
+          <Dialog>Hehe. I've wanted to say it.
+That line isn't what we use to
+greet customers at a family
+restaurant, right？</Dialog>
+          <Dialog>Well...</Dialog>
+          <Dialog>What were you looking for？</Dialog>
+          <Dialog>It's not what you think...</Dialog>
+          <Dialog>Then what is it？</Dialog>
+          <Dialog>I'm... just checking the
+prices, okay？</Dialog>
+          <Dialog>Hehe. Don't cause any trouble,
+okay？</Dialog>
+          <Dialog>Okay...</Dialog>
+          <Dialog>Yeah, very well. I have an
+errand to run, so I'm leaving.
+Bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1397,13 +1509,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>お客様、探し物は見つかりましたか？</Dialog>
+          <Dialog>Mister, have you found what
+you were looking for？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>いえ……▲姉ヶ崎＊▲!?</Dialog>
-          <Dialog>ふふ、また会ったね。どう？　私のファミレス以外の接客。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲だったら、どこの店でも働けるよ。</Dialog>
-          <Dialog>ふふ、そんな風におだてても、商品の値引きはしないからね？</Dialog>
-          <Dialog>（店員の真似はまだ続いてたのか……）</Dialog>
+          <Dialog>No...
+▲姉ヶ崎＊▲！？</Dialog>
+          <Dialog>Hehe. We meet again. How's
+that？ Is my service outside
+the family restaurant okay？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲,
+with your manners, you
+can work at any place.</Dialog>
+          <Dialog>Hehe. Even if you're trying to
+flatter me, I can't cut the
+price for you, okay？</Dialog>
+          <Dialog>(So, she still enjoys playing
+as a shopkeeper, huh...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1453,12 +1574,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そういえば、結局なにを探してるのか聞いてなかったっけ……。</Dialog>
+          <Dialog>By the way, you still haven't
+told me what you were looking
+for...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲？</Dialog>
-          <Dialog>よくここで会うね。そんなにこのお店、好き？</Dialog>
-          <Dialog>意外に、目的もなくブラブラするのに向いてるんだよね、ここ。</Dialog>
-          <Dialog>ふふ、そっか。私は残念ながら目的があるから、もう行かなきゃ……じゃあね？</Dialog>
+          <Dialog>We met here a lot. Do you like
+this store that much？</Dialog>
+          <Dialog>I didn't plan to come here. I
+was just walking aimlessly and
+somehow I ended up here.</Dialog>
+          <Dialog>Hehe. I see. Too bad I already
+have my plans. I have to go
+now. See you later, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1543,17 +1671,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、奇遇ね。なにか探しもの？</Dialog>
-          <Dialog>うん、ＣＤを……。</Dialog>
-          <Dialog>そんなの当り前じゃない、ＣＤ屋さんだもの。</Dialog>
-          <Dialog>うん、そうだけど……。</Dialog>
-          <Dialog>なに？　なにか不服なの？</Dialog>
-          <Dialog>なんでもありません。</Dialog>
-          <Dialog>よし、許してつかわす。ふふ。</Dialog>
-          <Dialog>もう、いじめないでよ。</Dialog>
-          <Dialog>ふふ、でも今のあなた、カワイかったよ？</Dialog>
+          <Dialog>Ah, I didn't expect to see you
+here. Are you looking for
+something？</Dialog>
+          <Dialog>Yeah, a CD...</Dialog>
+          <Dialog>I know that. This store only
+sells CDs.</Dialog>
+          <Dialog>Yeah, right...</Dialog>
+          <Dialog>What？ Do you have a problem
+with me？</Dialog>
+          <Dialog>No, I'm not.</Dialog>
+          <Dialog>All right. I'll forgive you.
+Hehe.</Dialog>
+          <Dialog>Hey, don't bully me.</Dialog>
+          <Dialog>Hehe. It's because you're so
+cute, you know？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1598,11 +1732,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、また会ったね。</Dialog>
+          <Dialog>Ah, we meet again.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
-          <Dialog>ふふ、今度、私のお気に入りＣＤ、教えてあげようか。</Dialog>
-          <Dialog>それで……私のことを考えながら聞いてくれると、嬉しいかな。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲...</Dialog>
+          <Dialog>Hehe. This time, shall I show
+you my favorite CDs？</Dialog>
+          <Dialog>And then... If you think of me
+while you're listening to
+them, I'll be happy.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1657,13 +1794,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>何？　ひょっとして音楽少年だっけ？</Dialog>
+          <Dialog>What？ It's the Music Boy
+again？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲……別にそういうわけじゃ。</Dialog>
-          <Dialog>多趣味な男の人って、ちょっと素敵かな？</Dialog>
-          <Dialog>……そうなんだ。</Dialog>
-          <Dialog>そうそう、ふふ、頑張ってね？</Dialog>
-          <Dialog>（といっても、何を頑張ればいいんだろう）</Dialog>
+          <Dialog>▲姉ヶ崎＊▲...
+I'm not a Music Boy.</Dialog>
+          <Dialog>I think guys who are
+interested in various things
+are wonderful, you know？</Dialog>
+          <Dialog>...Is that so？</Dialog>
+          <Dialog>Yes, yes. Hehe, do your best,
+okay？</Dialog>
+          <Dialog>(And what am I supposed to do
+my best for？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1728,14 +1871,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あれ？　偶然……。</Dialog>
+          <Dialog>Eh？ What a coincidence...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲。どうしたの？　こんなとこで。</Dialog>
-          <Dialog>うん、私の好きな映画のグッズが置いてあるらしいんだけど、よくわからなくって。</Dialog>
-          <Dialog>そうなんだ。手伝おうか？</Dialog>
-          <Dialog>たまには見せてくれるのかな？　頼りになるところ。</Dialog>
-          <Dialog>たまにはって……。</Dialog>
-          <Dialog>ふふ、冗談。お願いします▼</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.
+What's up？ Why are you here？</Dialog>
+          <Dialog>Well, the promotional items
+for my favorite movie are out
+today, but I can't find them.</Dialog>
+          <Dialog>I see. Can I help？</Dialog>
+          <Dialog>Every once in a while, you try
+to show me how reliable you
+are, huh？</Dialog>
+          <Dialog>Every once in a while...？</Dialog>
+          <Dialog>Hehe. Just kidding. Please
+help me▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1800,14 +1949,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ……。</Dialog>
+          <Dialog>Ah...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲、偶然だね。また映画関係？</Dialog>
-          <Dialog>うん、そんなところ……また付き合ってくれる？</Dialog>
-          <Dialog>うん、少しなら……。</Dialog>
-          <Dialog>ありがと。……ねぇ、よく来るの？　ここ。</Dialog>
-          <Dialog>そうでもないんじゃないかな……。</Dialog>
-          <Dialog>ふーん？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲,
+what a coincidence.
+Are you looking for some
+movie related items again？</Dialog>
+          <Dialog>Yeah, that's right... Can you
+accompany me for a while？</Dialog>
+          <Dialog>Yeah, I can...</Dialog>
+          <Dialog>Thanks. ...Hey, you come here
+a lot, huh？</Dialog>
+          <Dialog>I don't think so...</Dialog>
+          <Dialog>Hmm？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1862,13 +2016,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やっぱり、よく来てるよね……。</Dialog>
+          <Dialog>Really. You come here a lot,
+huh...？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
-          <Dialog>私の用事には付き合ってくれたけど、あなたの用事はなんなの？</Dialog>
-          <Dialog>今日は偶然、たまたま、さ……。</Dialog>
-          <Dialog>そうなんだ？</Dialog>
-          <Dialog>うん、そう。でももう行かなきゃ。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲...</Dialog>
+          <Dialog>I'm here for some errands, but
+what about you？ What are you
+doing here？</Dialog>
+          <Dialog>Today is totally a
+coincidence. I only come here
+occasionally...</Dialog>
+          <Dialog>Is that so？</Dialog>
+          <Dialog>Yeah. Ah, I have to get going
+now.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1968,19 +2128,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>わっ、▲姉ヶ崎＊▲。</Dialog>
-          <Dialog>なんでそんなに驚くの？</Dialog>
-          <Dialog>特に意味はないよ？</Dialog>
-          <Dialog>ここ、メイド喫茶だよね？</Dialog>
-          <Dialog>うん、そうみたい……。</Dialog>
-          <Dialog>もしかしてファミレスよりも、こういうとこの方が好き？</Dialog>
-          <Dialog>そういうわけじゃ……。</Dialog>
-          <Dialog>ご主人様！</Dialog>
-          <Dialog>わっ！</Dialog>
-          <Dialog>じー……。</Dialog>
-          <Dialog>（う、視線が痛い……）</Dialog>
+          <Dialog>Whoa！
+▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>Why are you that surprised？</Dialog>
+          <Dialog>There's no particular reason.</Dialog>
+          <Dialog>This place is a maid cafe,
+right？</Dialog>
+          <Dialog>Yeah, it seems so...</Dialog>
+          <Dialog>Perhaps, you like this place
+more than a family restaurant,
+huh？</Dialog>
+          <Dialog>That's not...</Dialog>
+          <Dialog>Master！</Dialog>
+          <Dialog>Whoa！</Dialog>
+          <Dialog>Shhhh...</Dialog>
+          <Dialog>(Urgh... Her eyes could kill
+me...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2030,12 +2195,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>いらっしゃいませ、ご主人様！</Dialog>
+          <Dialog>Welcome home, Master！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
-          <Dialog>あれ？　反応薄い？</Dialog>
-          <Dialog>……ちょっと感動した。</Dialog>
-          <Dialog>ふふ、なにそれ？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲...</Dialog>
+          <Dialog>Eh？ You're not surprised？</Dialog>
+          <Dialog>...I'm impressed.</Dialog>
+          <Dialog>Hehe. What do you mean？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2090,13 +2255,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ……。</Dialog>
+          <Dialog>Hey...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲！</Dialog>
-          <Dialog>通ってる？</Dialog>
-          <Dialog>ううん……。</Dialog>
-          <Dialog>……常連？</Dialog>
-          <Dialog>違う違う！</Dialog>
+          <Dialog>You're passing by？</Dialog>
+          <Dialog>No...</Dialog>
+          <Dialog>...So you're a regular
+customer？</Dialog>
+          <Dialog>No, no！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2171,16 +2337,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>？</Dialog>
-          <Dialog>▲姉ヶ崎＊▲、偶然だね。</Dialog>
-          <Dialog>ううん。遠くからあなたが見えたから、追いかけてきちゃったの。</Dialog>
-          <Dialog>そっか。</Dialog>
-          <Dialog>っと、そろそろ行くよ。</Dialog>
-          <Dialog>うん、そうだね。</Dialog>
-          <Dialog>じゃあ。</Dialog>
-          <Dialog>じゃあね。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲,
+what a coincidence.</Dialog>
+          <Dialog>No. I saw you from afar, so I
+followed you.</Dialog>
+          <Dialog>I see.</Dialog>
+          <Dialog>Ah, time to go.</Dialog>
+          <Dialog>Yeah, right.</Dialog>
+          <Dialog>Bye.</Dialog>
+          <Dialog>Bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2250,16 +2418,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲...</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……。</Dialog>
+          <Dialog>......</Dialog>
           <Dialog>▲姉ヶ崎＊▲？</Dialog>
-          <Dialog>ふふ、冗談。びっくりした？</Dialog>
-          <Dialog>もう、ひどいな。</Dialog>
-          <Dialog>っと、そろそろ行くよ。</Dialog>
-          <Dialog>そうだね。</Dialog>
-          <Dialog>じゃあ。</Dialog>
-          <Dialog>うん、またね。</Dialog>
+          <Dialog>Hehe. Just kidding. Did I
+surprise you？</Dialog>
+          <Dialog>Hey, that was so mean.</Dialog>
+          <Dialog>Ah, time to go.</Dialog>
+          <Dialog>I guess.</Dialog>
+          <Dialog>Bye.</Dialog>
+          <Dialog>Okay, see you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2339,17 +2508,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（暇だな……）</Dialog>
+          <Dialog>(I'm so bored...)</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>わっ！</Dialog>
+          <Dialog>Waah！</Dialog>
           <Dialog>？</Dialog>
-          <Dialog>▲姉ヶ崎＊▲か、なんだ……。</Dialog>
-          <Dialog>あはは、びっくりしてる。カワイイ▼</Dialog>
-          <Dialog>もう、勘弁してよ。</Dialog>
-          <Dialog>っと、そろそろ行くよ。</Dialog>
-          <Dialog>うん、そうだね。</Dialog>
-          <Dialog>じゃあ。</Dialog>
-          <Dialog>バイバイ。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲
+What...？</Dialog>
+          <Dialog>Ahaha. Did I scare you？ So
+cute▼</Dialog>
+          <Dialog>Hey, don't make fun of me.</Dialog>
+          <Dialog>Ah, time to go.</Dialog>
+          <Dialog>Yeah, right.</Dialog>
+          <Dialog>Bye.</Dialog>
+          <Dialog>Bye-bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

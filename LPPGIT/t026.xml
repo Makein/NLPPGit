@@ -87,18 +87,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>最近の練習、キツいなー……。</Dialog>
+          <Dialog>Practice has been hard
+lately...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふ、眠そうだね？</Dialog>
-          <Dialog>▲高嶺＊＊▲は元気だなー……。</Dialog>
-          <Dialog>経験値の差じゃないかな？　わたしのほうが長いでしょう？　テニス歴。</Dialog>
-          <Dialog>そうだけどさー……。</Dialog>
-          <Dialog>もう、しゃんとして。うーん、基礎体力がないのかな……。</Dialog>
-          <Dialog>あー……それはあるかもなー。</Dialog>
-          <Dialog>ジョギングを日課にしてみるのは？</Dialog>
-          <Dialog>そのぶん、寝させて欲しいかも……。</Dialog>
-          <Dialog>……うん、寝てて欲しいかも。ちょっと危険だもの、そのままだと。</Dialog>
-          <Dialog>（どうすればいいんだろうなー……）</Dialog>
+          <Dialog>Hehe, you look sleepy.</Dialog>
+          <Dialog>▲高嶺＊＊▲
+is very energetic...</Dialog>
+          <Dialog>Maybe because I'm more
+experienced. I started playing
+tennis much earlier than you.</Dialog>
+          <Dialog>That's true, but...</Dialog>
+          <Dialog>Hey, could it be that you lack
+physical strength...？</Dialog>
+          <Dialog>Ah... That could be the case.</Dialog>
+          <Dialog>How about you try jogging
+every day？</Dialog>
+          <Dialog>I'd prefer to have some more
+sleep...</Dialog>
+          <Dialog>...Hmm, so you just want to
+sleep. Now, I can't think of
+other options.</Dialog>
+          <Dialog>(What shall I do...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -191,17 +200,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。アルバイトなんて、してみるのはどう？</Dialog>
+          <Dialog>▲主人公＊▲.
+Why don't you find a part-time
+job？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>？　何を急に……。</Dialog>
-          <Dialog>ほら、基礎体力の話、したでしょう？　その話をクラスの子にしたら、バイトすると体力つくよって教えてくれたの。</Dialog>
-          <Dialog>ちなみにどんなバイト？</Dialog>
-          <Dialog>工事現場の資材運び、って言ってたかな？　あとは、運送屋さんとか。</Dialog>
-          <Dialog>そ、それは……。</Dialog>
-          <Dialog>無理そう？</Dialog>
-          <Dialog>だと、思う……。</Dialog>
-          <Dialog>そう……やっぱり、地道にトレーニングしたほうがいいのかもね？</Dialog>
-          <Dialog>（うん、そうしよう！）</Dialog>
+          <Dialog>？ What is it all of a
+sudden？</Dialog>
+          <Dialog>We were talking about
+training, right？ I talked
+with a classmate about it and
+he said part-time jobs helped
+him build stamina.</Dialog>
+          <Dialog>What kind of part-time jobs？</Dialog>
+          <Dialog>Carrying raw materials at
+construction sites. Also,
+working as a delivery man.</Dialog>
+          <Dialog>T-That's...</Dialog>
+          <Dialog>Impossible for you？</Dialog>
+          <Dialog>I guess...</Dialog>
+          <Dialog>I see... Maybe training
+regularly would be the best
+option, huh？</Dialog>
+          <Dialog>(Yeah, I'll do that！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -295,18 +315,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>今度、ラケットを買い換えようと思って。</Dialog>
+          <Dialog>I'm buying a new racket.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なんで？</Dialog>
-          <Dialog>長く使ってるからかな……最近、調子が悪くて……。</Dialog>
-          <Dialog>そっか。……どした？</Dialog>
-          <Dialog>うん……愛着のあるラケットだから、買い換えちゃうのも、さびしいかなって……。</Dialog>
-          <Dialog>あー……でもさ、買い換えても捨てるわけじゃないんだろ？</Dialog>
-          <Dialog>うん。</Dialog>
-          <Dialog>それならそんなに気に病むこともないと思うけどな？</Dialog>
-          <Dialog>とりあえず、見に行ってみたら？　いいラケットがあるかもだし。</Dialog>
-          <Dialog>……うん、そうだよね？　ね、一緒に見に行ってくれる？</Dialog>
-          <Dialog>ああ、いいよ。いつにしよっか。</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>I've been using this one for a
+long time... It's getting worn
+out...</Dialog>
+          <Dialog>I see. ...Are you a bit sad？</Dialog>
+          <Dialog>Yeah... I really love it, so
+it's sad to have to buy a
+replacement...</Dialog>
+          <Dialog>Ah... But it doesn't mean that
+you have to throw it away once
+you get a new one, right？</Dialog>
+          <Dialog>Yeah.</Dialog>
+          <Dialog>Then you don't have to feel
+sad about it.</Dialog>
+          <Dialog>Plus, you may be able to find
+a new one that you really
+like.</Dialog>
+          <Dialog>...Um, that might be so. Hey,
+will you help me shop for
+one？</Dialog>
+          <Dialog>Ah, okay. Just tell me when
+you want to go.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -399,17 +431,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どう、決めた？</Dialog>
+          <Dialog>Well, have you decided？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>やっぱり、買い換えようかと思って。</Dialog>
-          <Dialog>ああ、一番気に入ってたラケットに？</Dialog>
-          <Dialog>うん。試し打ちでもすごく手になじんだし。相談に乗ってくれて、ありがとう。</Dialog>
-          <Dialog>どういたしまして。今、使ってるヤツはどうすんの？</Dialog>
-          <Dialog>思い出ボックス行きかな？</Dialog>
-          <Dialog>思い出ボックス？　何が入ってんの？</Dialog>
-          <Dialog>小学生の頃からだから、いろいろ入ってるよ？　昔、使ってた下敷きに、集めてたシールも……。</Dialog>
-          <Dialog>でも、出しておいて素振り用にしようかな？　あのラケット重いし、いい練習になりそう。</Dialog>
-          <Dialog>（物持ちがいいんだな、▲高嶺＊＊▲は……）</Dialog>
+          <Dialog>I think I'll buy a
+replacement.</Dialog>
+          <Dialog>Ah, for your favorite racket？</Dialog>
+          <Dialog>Yeah, I found a new one that I
+feel comfortable with. Thanks
+for giving me advice.</Dialog>
+          <Dialog>You're welcome. What will you
+do with your old racket then？</Dialog>
+          <Dialog>I'll put it in my memory box.</Dialog>
+          <Dialog>Your memory box？ What is in
+there？</Dialog>
+          <Dialog>I've been putting a lot of
+things in there since I was in
+grade school. A mat that I
+made, some stickers that I
+collected...</Dialog>
+          <Dialog>But, maybe I should just leave
+the racket outside. It's
+pretty heavy, so it's suitable
+for swinging practice.</Dialog>
+          <Dialog>(▲高嶺＊＊▲
+really takes good care of her
+stuff...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -503,17 +549,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>部活とお勉強の両立って、難しいのかな。</Dialog>
+          <Dialog>I wonder if it's hard to
+maintain good grades while
+attending club activities.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なんで？</Dialog>
-          <Dialog>他の部に所属してる子が、教室でそんなことを言ってたの。</Dialog>
-          <Dialog>部活でクタクタになって帰ってから、勉強する気にはならないって。</Dialog>
-          <Dialog>あー、なるほどなぁ。</Dialog>
-          <Dialog>ね、わたし、まだまだ練習量が足りないのかな？</Dialog>
-          <Dialog>へっ？</Dialog>
-          <Dialog>だって、帰ってから何もする気にならないほど疲れて帰ることなんてないんだもん。これって、練習不足ってことじゃない？</Dialog>
-          <Dialog>部長に相談して、わたしだけでも増やしてもらおうかな……。</Dialog>
-          <Dialog>（今でも相当なのに……すごいな、▲高嶺＊＊▲）</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>A classmate of mine who's in a
+different club said that.</Dialog>
+          <Dialog>When she gets tired from club
+activities, she feels too
+exhausted to study.</Dialog>
+          <Dialog>Ah, that's true.</Dialog>
+          <Dialog>Hey, do you think I don't
+practice enough？</Dialog>
+          <Dialog>Hah？</Dialog>
+          <Dialog>Because I've never felt
+exhausted to the point that I
+couldn't study. Does that mean
+I don't practice enough？</Dialog>
+          <Dialog>Maybe I should ask the captain
+for personalized, intensive
+training...</Dialog>
+          <Dialog>(I think you already practice
+very hard... You're amazing,
+▲高嶺＊＊▲.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -612,18 +671,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>練習量を増やした効果は出た？</Dialog>
+          <Dialog>How's everything going after
+you increased your practice？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん……疲れるようにはなったけど、帰ってすぐにバタンっ！　ってほどではない、かな？　だから、居残りしてもう少し……。</Dialog>
-          <Dialog>いやいやいや。それ以上はダメだろ。</Dialog>
-          <Dialog>えっ、どうして？</Dialog>
-          <Dialog>練習のしすぎは怪我のもと！</Dialog>
-          <Dialog>……うん、でも。</Dialog>
-          <Dialog>何よりも、●と過ごす時間が減る！</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>そんなふうに言われたら、わたし……。</Dialog>
-          <Dialog>……はあい。元に戻します。</Dialog>
-          <Dialog>（……ホッ）</Dialog>
+          <Dialog>Well, it was more tiring, but
+not to the point that I fell
+asleep once I got home. I
+should extend my practice
+time...</Dialog>
+          <Dialog>No, no, no. Don't do that.</Dialog>
+          <Dialog>Eh？ Why？</Dialog>
+          <Dialog>You'll hurt yourself if you
+practice too much！</Dialog>
+          <Dialog>...Okay, but...</Dialog>
+          <Dialog>Most importantly, you'll have
+less time to spend with me！</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>If you say so, I...</Dialog>
+          <Dialog>...Okay. I'll just practice
+regularly.</Dialog>
+          <Dialog>(...Phew.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -708,16 +775,29 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇ、聞いた？　試合用のユニフォームが変わるかもしれないって話。</Dialog>
+          <Dialog>Hey, have you heard？ Our club
+is going to change its
+uniform？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、有名デザイナーにデザインを依頼するって噂も聞いたけど、本当かな。</Dialog>
-          <Dialog>そうなの？　それ、本当だといいなぁ。</Dialog>
-          <Dialog>へぇ……気になる？</Dialog>
-          <Dialog>ふふ。以前だったら、ちっとも気にならなかったと思うよ？</Dialog>
-          <Dialog>でも今は、もしかわいいユニフォームを着られるなら、着たいなって思う。</Dialog>
-          <Dialog>あなたも、その方が嬉しいでしょ？　……なんて。</Dialog>
-          <Dialog>いつになったら、わかるんだろうね？　早く続報、聞きたいな！</Dialog>
-          <Dialog>（……そんなに照れられたら、こっちまで照れるって）</Dialog>
+          <Dialog>Yeah, I've heard they hired a
+famous designer this time. I
+wonder if it's true.</Dialog>
+          <Dialog>Really？ That would be nice.</Dialog>
+          <Dialog>Hmm？ Are you interested？</Dialog>
+          <Dialog>Hehe, before, I probably
+wouldn't have cared much.</Dialog>
+          <Dialog>But now, if there will be cute
+uniforms, I really want to
+wear them.</Dialog>
+          <Dialog>You would be happy for that
+too, wouldn't you？ ...I
+guess.</Dialog>
+          <Dialog>I wonder if we can see them
+anytime soon. I really want to
+know more about them！</Dialog>
+          <Dialog>(...When she says something
+like that, even I feel a
+little embarrassed, too.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -802,17 +882,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ユニフォームの続報、届いたよ。</Dialog>
+          <Dialog>I have new info about the new
+uniforms.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>え、どうだったの？</Dialog>
-          <Dialog>話自体は本当だったんだけど、流れちゃったって。よその部から“何でテニス部だけ？”ってクレームが出て。</Dialog>
-          <Dialog>そっか。ハァ、残念。ホントに……。</Dialog>
-          <Dialog>そう言えばさ。こないだ言い忘れたんだけど。</Dialog>
-          <Dialog>ん？　なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲は普段からカワイイぞ？</Dialog>
-          <Dialog>……もう、このタイミングで言うなんてずるい……！</Dialog>
-          <Dialog>知らないっ！</Dialog>
-          <Dialog>（タイミング……女の子って難しいな……）</Dialog>
+          <Dialog>Eh？ What is it？</Dialog>
+          <Dialog>The story itself was true, but
+now people from other clubs
+are asking, "Why just the
+tennis club？"</Dialog>
+          <Dialog>I see. Hah... That's too bad.
+Really...</Dialog>
+          <Dialog>By the way, I keep forgetting
+to tell you.</Dialog>
+          <Dialog>Hmm？ What？</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+you are already very cute, you
+know？</Dialog>
+          <Dialog>...Hey, why do you say it all
+of a sudden！？ Such bad
+timing...！</Dialog>
+          <Dialog>I don't care anymore！</Dialog>
+          <Dialog>(Bad timing...？ Girls are
+really hard to understand...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -911,18 +1002,41 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>この前ね、お買い物に行ったときに、試合で何度か対戦したことのある子とばったり会ったの。</Dialog>
+          <Dialog>Earlier, while I was shopping,
+I ran into a girl who I always
+competed with in tennis
+matches.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>へぇ、話したの？</Dialog>
-          <Dialog>うん、向こうから話しかけてくれて。その子ね、すごくテニスが上手で……最初に試合したときは、手も足も出なかったの。</Dialog>
-          <Dialog>え！　▲高嶺＊＊▲が？</Dialog>
-          <Dialog>今は笑って話せるけど、そのあとは大変だったのよ？　もう、悔しくて。</Dialog>
-          <Dialog>何となく、想像できる気がする……。</Dialog>
-          <Dialog>ふふっ。それでね、この前はお互いの学校での練習方法とか、情報を交換してきたの。</Dialog>
-          <Dialog>目からウロコが落ちるような特訓も聞いてきたから、部長に言ってみようかと思って。</Dialog>
-          <Dialog>お。スパイ合戦か？</Dialog>
-          <Dialog>大げさだよ。……でも、情報戦では負けないつもり、ふふふ……。</Dialog>
-          <Dialog>（まさか、負けたことを根に持ってるわけではないよな？）</Dialog>
+          <Dialog>Huh？ Did you get a chance to
+talk with her？</Dialog>
+          <Dialog>Yeah, she called out to me.
+That girl is really good at
+tennis. I was totally beaten
+during my first match with
+her.</Dialog>
+          <Dialog>Eh！？
+▲高嶺＊＊▲,
+really？</Dialog>
+          <Dialog>I can laugh about it now, but
+it was really hard for me back
+then. Now, I still regret it.</Dialog>
+          <Dialog>Somehow, I think I can
+understand that feeling...</Dialog>
+          <Dialog>Hehe, we talked about the
+strategies our schools used
+for practice.</Dialog>
+          <Dialog>She told me some very useful
+techniques. I wonder if I
+should inform our captain.</Dialog>
+          <Dialog>Oh, are you becoming a spy
+now？</Dialog>
+          <Dialog>Don't exaggerate... Anyway,
+I'm not going to lose when it
+comes to information warfare.
+Hehehe...</Dialog>
+          <Dialog>(Don't tell me she's been
+holding a grudge ever since
+she lost to that girl.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1016,18 +1130,29 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あのあと、ライバルから有効な情報は引き出せた？</Dialog>
+          <Dialog>Later on, did you get any more
+information from your rival？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん、まあ……。</Dialog>
-          <Dialog>あれ、歯切れが悪いなぁ。</Dialog>
-          <Dialog>テニスの話はもちろんなんだけど……ほかのことも、いろいろ……。</Dialog>
-          <Dialog>ほかのこと？</Dialog>
-          <Dialog>その……彼氏の話……。</Dialog>
-          <Dialog>……●？</Dialog>
-          <Dialog>うん。あと、彼女のお付き合いしてる人のこともね？　それで、情報交換……。</Dialog>
-          <Dialog>……えぇと？　どんなことを？</Dialog>
-          <Dialog>それはホラ、あんなコトや、こんなコト？　……うん、それはまた、いずれ！　ね？</Dialog>
-          <Dialog>（あんなコトやこんなコトって、いったい……）</Dialog>
+          <Dialog>Um, sort of...</Dialog>
+          <Dialog>Eh？ What's with that
+vagueness？</Dialog>
+          <Dialog>We talked about tennis, of
+course. ...But, we also talked
+about other things...</Dialog>
+          <Dialog>Other things？</Dialog>
+          <Dialog>Like... Our boyfriends...</Dialog>
+          <Dialog>...Me？</Dialog>
+          <Dialog>Yeah, she also has a
+boyfriend, so we kind of
+shared the information...</Dialog>
+          <Dialog>U-Um... What kind of
+information？</Dialog>
+          <Dialog>That's... Well, a little bit
+of this, and a little bit of
+that... Um, something of that
+sort, okay？</Dialog>
+          <Dialog>(A little bit of this, and a
+little bit of that...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1121,17 +1246,39 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そういえばこの前、テニス用語のことでみんなと盛り上がったの。</Dialog>
+          <Dialog>By the way, people have been
+discussing tennis terminology
+lately.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうなんだ、どんな話？</Dialog>
-          <Dialog>あのね、今、シングルスのことをシングルって言う人が増えてるんだって。</Dialog>
-          <Dialog>あー、興味のない人は勘違いしてるかもな。</Dialog>
-          <Dialog>うん。実際に、高校から始めた人は入部してから気がついたって言ってたし。</Dialog>
-          <Dialog>シングルに“ス”ってつけると、おかしいような気がしちゃうのも仕方ないかな。</Dialog>
-          <Dialog>あとね、ほかにもいろんな話が出たの。サービスやラブの語源とか、水取りは大変だよねって話も。</Dialog>
-          <Dialog>ん？　水取りもテニス用語？</Dialog>
-          <Dialog>えっ？　そう思ってたけど……違うのかな。調べて、わかったら報告するね？</Dialog>
-          <Dialog>（▲高嶺＊＊▲ってけっこう、調べもの好きだよな）</Dialog>
+          <Dialog>Really？ What kind of
+terminology？</Dialog>
+          <Dialog>Well, like there are a lot of
+people who say "single"
+instead of "singles."</Dialog>
+          <Dialog>Ah, people who don't have an
+interest in tennis might say
+it wrong.</Dialog>
+          <Dialog>Yeah. Currently, there are a
+lot of people who just started
+playing tennis in high school,
+so they didn't learn the
+terms.</Dialog>
+          <Dialog>It's a bit weird that you have
+to add an "s" to the word
+"single," right？</Dialog>
+          <Dialog>And there are terms like
+"service" and "love" in
+English. Then there's also the
+term "mizutori" in Japanese.</Dialog>
+          <Dialog>Huh？ Is "mizutori" also a
+tennis term？</Dialog>
+          <Dialog>Eh？ That's what I thought.
+...Maybe I'm wrong. I'd better
+research about this and I'll
+let you know.</Dialog>
+          <Dialog>(▲高嶺＊＊▲
+really likes researching,
+huh？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1230,18 +1377,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>水取りの話をしたでしょう？　やっぱり、純粋なテニス用語ってわけではないみたい。</Dialog>
+          <Dialog>We were discussing the term
+"mizutori," right？ It didn't
+originate from tennis though.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>へぇ、そうなんだ。</Dialog>
-          <Dialog>ぬか漬けをするときや、あと厳密には違うけど風水でも水取りってするんだって。</Dialog>
-          <Dialog>また、調べたなぁ。ありがとな、わざわざ。</Dialog>
-          <Dialog>ふふっ、どういたしまして。</Dialog>
-          <Dialog>にてしも、水取りかー……なるべくならやりたくないよな？</Dialog>
-          <Dialog>ふふ。それも含めて、部活の楽しさなのかもしれないよ？</Dialog>
-          <Dialog>まぁな？</Dialog>
-          <Dialog>でもやっぱりやりたくない？</Dialog>
-          <Dialog>だよなー！</Dialog>
-          <Dialog>もう、どっち？　ふふ！</Dialog>
+          <Dialog>Huh？ Really？</Dialog>
+          <Dialog>The term we used in tennis is
+different from the one in
+religious ceremonies, but
+somehow it's related to
+Chinese feng shui.</Dialog>
+          <Dialog>You really did some research
+on this. Thanks for your
+effort.</Dialog>
+          <Dialog>Hehe, you're welcome.</Dialog>
+          <Dialog>It won't be fun if I have to
+remember all the terms...</Dialog>
+          <Dialog>Hehe. But if you know these
+terms, you'll have more fun
+when you play tennis, right？</Dialog>
+          <Dialog>Maybe not.</Dialog>
+          <Dialog>But aren't you curious about
+these terms？</Dialog>
+          <Dialog>Maybe.</Dialog>
+          <Dialog>Which one is your answer？
+Hehe！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1350,19 +1510,35 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇ、今度、スポーツショップにつきあってくれる？</Dialog>
+          <Dialog>Hey, can you go with me to the
+sports shop later？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>いいよ。なに買うの？</Dialog>
-          <Dialog>シューズを新調しようかなって。頑張ればまだ履けるけど、だいぶ磨り減ってきたから。</Dialog>
-          <Dialog>タイミングもいいし、ガットも張り替えようと思って。</Dialog>
-          <Dialog>そっか。●のも張り替えるべきかな……。</Dialog>
-          <Dialog>前はいつ張り替えたの？</Dialog>
-          <Dialog>……いつだっけ。</Dialog>
-          <Dialog>いちおう、３ヶ月ごとに張り替えたほうが良いらしいけど……。</Dialog>
-          <Dialog>……やっぱやるべき？</Dialog>
-          <Dialog>そのほうがいいと思う……。</Dialog>
-          <Dialog>でもすごい。それであんな風にプレイできるなんて尊敬しちゃう……本当にすごいね。</Dialog>
-          <Dialog>（ヘンなところで尊敬されちゃったよ……）</Dialog>
+          <Dialog>Fine. What do you want to
+buy？</Dialog>
+          <Dialog>I'm thinking about buying a
+new pair of shoes. The current
+pair still works great, but
+they're getting worn out.</Dialog>
+          <Dialog>It's probably time for me to
+change my racket's strings
+too.</Dialog>
+          <Dialog>I see. Maybe I should change
+mine as well...</Dialog>
+          <Dialog>When was the last time you
+changed them？</Dialog>
+          <Dialog>...When was it？</Dialog>
+          <Dialog>For now, you should be
+changing them every three
+months...</Dialog>
+          <Dialog>...I've been using them much
+longer than that.</Dialog>
+          <Dialog>That's what I thought...</Dialog>
+          <Dialog>But you're amazing. Even with
+old strings, you can still
+play really well. I respect
+you. Really.</Dialog>
+          <Dialog>(She respects me for such a
+weird thing...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1461,18 +1637,40 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>どう？　ガットを張り替えて、使い心地は？</Dialog>
+          <Dialog>How is it？ Did you feel any
+differences after you changed
+the racket's strings？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>やっぱ違うかも。ボールに伸びが出たって言うか。</Dialog>
-          <Dialog>ふふっ、それなら良かった。悩むよね、張り替えの時期って。</Dialog>
-          <Dialog>▲高嶺＊＊▲はやっぱり３ヶ月ごと派？</Dialog>
-          <Dialog>いちおう、基本は。でも、プレイの内容で状態が変わったりするから、必要なときに、って感じかな。</Dialog>
-          <Dialog>張り替えようと思ったときが、張り替え時ってことか。次に●がそう思うのは、ずっと先かもな……。</Dialog>
-          <Dialog>ふふっ、もう。大会目指して行くなら、基本は守ったほうがいいんじゃない？</Dialog>
-          <Dialog>そっか。じゃあ、在学中は▲高嶺＊＊▲と一緒に張り替えるよ。</Dialog>
-          <Dialog>……在学中だけ？</Dialog>
-          <Dialog>ハハッ、ごめん。もちろん、卒業してからも。</Dialog>
-          <Dialog>よろしい、なんて。ふふ！</Dialog>
+          <Dialog>The feeling is totally
+different, especially when I
+hit the ball.</Dialog>
+          <Dialog>Hehe, then that's good. It's a
+bit worrisome when you think
+about changing them, right？</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+do you change them every 3
+months？</Dialog>
+          <Dialog>I usually do that. But, it
+depends. Sometimes I change
+them when I feel like they
+need to be changed.</Dialog>
+          <Dialog>For me, by the time I think
+about changing them, I've
+already passed the recommended
+period.</Dialog>
+          <Dialog>Hehe, geez. If you want to win
+a tournament, you at least
+need to have standards,
+right？</Dialog>
+          <Dialog>I see. So, while we go to the
+same school, I'll change them
+at the same time as
+▲高嶺＊＊▲.</Dialog>
+          <Dialog>...While we go to the same
+school？</Dialog>
+          <Dialog>Haha, sorry. I mean, even
+after we graduate, too.</Dialog>
+          <Dialog>Very well. Yeah. Hehe！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1571,18 +1769,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そういえば……練習中に、じっと見てたおじいさんがいたの、気がついた？</Dialog>
+          <Dialog>By the way, there was an old
+man watching us practice. Did
+you notice？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、いたな。にこにこしてた人。</Dialog>
-          <Dialog>誰か、知ってる人でもいたのかな？　お孫さんとか。</Dialog>
-          <Dialog>▲高嶺＊＊▲のほうを見てた気がするけどな、おじいさん。</Dialog>
-          <Dialog>えっ、そうだった？　うーん……見覚えのあるお顔じゃなかったけど……。</Dialog>
-          <Dialog>……ふふっ。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>ボールを追いかけて、首を左右に動かしてる姿がかわいかったなって。鏡の光が気になるネコさんみたいで。</Dialog>
-          <Dialog>あー、言われてみればそんな感じだったな。</Dialog>
-          <Dialog>でしょう？　気がついたらいなくなってたけど……。</Dialog>
-          <Dialog>（やっぱり知り合いじゃないのか。●の勘違い？）</Dialog>
+          <Dialog>Ah, I did. That guy kept
+smiling.</Dialog>
+          <Dialog>I wonder if he knows someone
+on our team. Maybe his
+granddaughter.</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+I think he was there to watch
+you play.</Dialog>
+          <Dialog>Eh？ Really？ Hmm, but I can't
+recall ever meeting him
+before...</Dialog>
+          <Dialog>...Hehe.</Dialog>
+          <Dialog>Huh？</Dialog>
+          <Dialog>He was turning his head left
+and right when he looked at
+the ball. It was like a cat
+watching its toy.</Dialog>
+          <Dialog>Ah, when you say that, I can
+picture it.</Dialog>
+          <Dialog>Right？ But I didn't notice
+when he left though...</Dialog>
+          <Dialog>(So she doesn't know him？ I
+was wrong, huh？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1685,19 +1898,36 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、練習のときにあのおじいさんと話してたよな？　知り合いだったの？</Dialog>
+          <Dialog>By the way, you were talking
+to that old man during
+practice. Did you know him？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ううん。わたしを見に来てたのは合ってるけど、勘違いだったって。</Dialog>
-          <Dialog>勘違い？</Dialog>
-          <Dialog>わたしに良く似たお孫さんがいて、彼女もテニスをやってるらしいんだけど、よくよく聞いてみたら学校が違ってたの。</Dialog>
-          <Dialog>ハハッ、おじいさん、びっくりしただろうなぁ……。</Dialog>
-          <Dialog>でも、▲高嶺＊＊▲とそんなに似てるのか。どこ校だって？</Dialog>
-          <Dialog>……忘れちゃった。</Dialog>
-          <Dialog>え？</Dialog>
-          <Dialog>忘れちゃいました。だから、その子には会いに行けません。……ううん、行っちゃダメ。わかった？</Dialog>
-          <Dialog>（▲高嶺＊＊▲は相変わらずわかりやすいなぁ）</Dialog>
-          <Dialog>……お返事は？</Dialog>
-          <Dialog>……はい。スイマセン。</Dialog>
+          <Dialog>No. I thought he came to watch
+me play, but it was a
+misunderstanding.</Dialog>
+          <Dialog>Misunderstanding？</Dialog>
+          <Dialog>He has a granddaughter and she
+plays tennis as well. But when
+I asked him, it turned out
+that she was in another
+school.</Dialog>
+          <Dialog>Haha, that old man must be
+surprised then...</Dialog>
+          <Dialog>But, ▲高嶺＊＊▲,
+do you really look like his
+granddaughter？ What school
+does she go to？</Dialog>
+          <Dialog>...I forgot.</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>I already forgot, so you can't
+go to see that girl. ...No,
+don't even think about seeing
+her. Got it？</Dialog>
+          <Dialog>(▲高嶺＊＊▲,
+I can tell what's on your
+mind...)</Dialog>
+          <Dialog>...What's your answer？</Dialog>
+          <Dialog>...Okay. I'm sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1809,19 +2039,38 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>壁打ちってさ、効果あんの？</Dialog>
+          <Dialog>Do you think my skill will
+improve if I practice with a
+backboard？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>もちろん。効果がないとしたら、ちゃんとした練習ができてないってことだと思うけど。</Dialog>
-          <Dialog>うっ。</Dialog>
-          <Dialog>ふふっ。今、海外でとっても活躍してる日本人のテニスプレイヤー、いるでしょ？</Dialog>
-          <Dialog>ああ、最年少で海外の大会で優勝したっていう……。</Dialog>
-          <Dialog>うん。彼は子どもの頃、壁打ちばっかりしてたんだって。</Dialog>
-          <Dialog>へぇ……じゃあ、やっぱり方法によるのか。</Dialog>
-          <Dialog>そうだと思う。自分のフォームを確認できるし、コントロールもついたりするし。</Dialog>
-          <Dialog>ただ闇雲に打ったりするとヘンなクセがついちゃったりするから、そこは気をつけないと。</Dialog>
-          <Dialog>……奥が深いな、壁打ち。</Dialog>
-          <Dialog>そう、なかなか侮れないんだから。</Dialog>
-          <Dialog>（今度の練習のときは、もっと気合入れてやってみるかな）</Dialog>
+          <Dialog>Of course. If you don't see
+any improvement, that means
+you probably did it wrong.</Dialog>
+          <Dialog>Urgh.</Dialog>
+          <Dialog>Hehe. Currently, there are a
+lot of Japanese tennis players
+that become famous overseas.</Dialog>
+          <Dialog>Yeah, the youngest
+professional player ever is
+Japanese...</Dialog>
+          <Dialog>Yeah. I heard that when he was
+a child, he only practiced
+with a backboard.</Dialog>
+          <Dialog>Huh...？ Then it's probably
+quite an effective method.</Dialog>
+          <Dialog>I think so. You can check your
+form and evaluate your control
+while you're practicing.</Dialog>
+          <Dialog>But if you just practice
+recklessly, your form might
+even get worse, so you need to
+be careful.</Dialog>
+          <Dialog>...Practicing with a backboard
+isn't as easy as I thought.</Dialog>
+          <Dialog>Right, you can't take it too
+lightly.</Dialog>
+          <Dialog>(I should try harder during my
+next practice then.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1916,18 +2165,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>どう？　壁打ち、やってみた？</Dialog>
+          <Dialog>How's your practice with a
+backboard going？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん。なかなか面白いかな？　何といってもタダで出来るのがいいな。</Dialog>
-          <Dialog>ふふっ。壁さえあれば、いつでも出来るもんね？　どんな効果があった？</Dialog>
-          <Dialog>今までより、構えは早くなったような気はする。</Dialog>
-          <Dialog>ふむふむ。それから？</Dialog>
-          <Dialog>それから……あ、そうだ。今度さ、フォーム見てくれると嬉しいんだけど。気になってさ。</Dialog>
-          <Dialog>うん、いいよ？　わたしも一緒に壁打ち、しようかな。</Dialog>
-          <Dialog>お、いいね。壁打ちデート。</Dialog>
-          <Dialog>壁打ちがしたいの？　それともデート？</Dialog>
-          <Dialog>両方？</Dialog>
-          <Dialog>もう、欲張りなんだから。ふふふ！</Dialog>
+          <Dialog>Hmm, it's pretty fun. Somehow,
+it's such a simple practice.</Dialog>
+          <Dialog>Hehe, you only need a
+backboard in order to
+practice, right？ Do you see
+any improvement？</Dialog>
+          <Dialog>I feel like my reflexes are
+getting faster.</Dialog>
+          <Dialog>Um, um, anything else？</Dialog>
+          <Dialog>And... Ah, right. I was
+wondering if you could take a
+look at my form and give me
+your opinion.</Dialog>
+          <Dialog>Um, fine. Maybe I should try
+practicing with a backboard
+with you, too.</Dialog>
+          <Dialog>Ah, that's nice. We'll have a
+date while practicing with a
+backboard.</Dialog>
+          <Dialog>Do you want to practice or go
+on a date？</Dialog>
+          <Dialog>Can I do both？</Dialog>
+          <Dialog>Hey, that's too greedy.
+Teeheehee！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2026,18 +2290,38 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そういえば、聞いた？　遠征するかもしれないっていう話。</Dialog>
+          <Dialog>By the way, have you heard
+about the tournament trip？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、聞いた聞いた。遠いところなのかな？</Dialog>
-          <Dialog>移動はバスなのかな。……きっと、バスだよね？</Dialog>
-          <Dialog>たぶん。あれ？　車、苦手なんだっけ？</Dialog>
-          <Dialog>ううん。車酔いはしないんだけど……観光バスだけはどうしてもダメなの。</Dialog>
-          <Dialog>観光バスって、妙にフワフワするもんな。いざとなったら酔い止め飲むしかないな。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>あれ、酔い止めもダメ？</Dialog>
-          <Dialog>ダメじゃないけど……一度、酔い止めを飲んだら眠くなっちゃって、一日中うとうとしちゃって……。</Dialog>
-          <Dialog>ハァ、どうしよう。わたしだけ、電車で行こうかな？</Dialog>
-          <Dialog>（それも難しいだろうなあ……どうすりゃいいんだろ）</Dialog>
+          <Dialog>Yeah, I've heard about it. I
+wonder if the venue is far
+from here.</Dialog>
+          <Dialog>Maybe we have to go by bus.
+...It's very likely, right？</Dialog>
+          <Dialog>I guess so. Eh？ You don't
+like traveling by bus？</Dialog>
+          <Dialog>Um, I don't usually get
+carsick, but I'm not quite
+comfortable with sightseeing
+buses.</Dialog>
+          <Dialog>You can easily get sick in a
+sightseeing bus, huh？ Maybe
+you should take some medicine
+to prevent motion sickness in
+advance.</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Eh？ You can't take motion
+sickness medicine？</Dialog>
+          <Dialog>No, that's not the case... But
+I'll get drowsy if I take the
+medicine. I'll just sleep
+through the whole trip.</Dialog>
+          <Dialog>Hah, what should I do？ Will I
+be allowed to go by train by
+myself？</Dialog>
+          <Dialog>(This is a tough situation.
+...I don't know what I can
+do.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2146,20 +2430,43 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえばさ、遠征の話。結局隣の市で練習試合だってな。</Dialog>
+          <Dialog>By the way, we're only going
+to the nearby town for the
+tournament trip.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。電車で行くみたいで安心しちゃった。でも……ちゃんと対策を考えないといけないよね？</Dialog>
-          <Dialog>だなぁ。今後、本当に遠征するかも知れないし。</Dialog>
-          <Dialog>うん……どうすればいいと思う？</Dialog>
-          <Dialog>ちょっと調べてみたんだけどさ。バスは前のほうの席に座る、景色は近場を見ない、あとはサングラスをかけるといいみたいだぞ。</Dialog>
-          <Dialog>そうなの？</Dialog>
-          <Dialog>そう。視覚からの刺激を減らすといいんだってさ。あと、運転手目線で乗車するといいってのもあったな。</Dialog>
-          <Dialog>運転手目線……ね、それってゲームセンターで特訓できるかな？</Dialog>
-          <Dialog>ああ、車のゲームで？　どうかな……。</Dialog>
-          <Dialog>一度、試してみたいな。ね、連れてってくれる？</Dialog>
-          <Dialog>う、うん、まあいいけど。</Dialog>
-          <Dialog>よろしくね？　絶対、克服してみせる……！</Dialog>
-          <Dialog>（これで克服できたら、けっこう画期的な発見になるかもな……）</Dialog>
+          <Dialog>Yeah, we'll go by train so I'm
+quite relieved now. But... I
+really have to be well
+prepared.</Dialog>
+          <Dialog>Right. And there might be a
+real trip sometime later.</Dialog>
+          <Dialog>Um... What do you think I
+should do？</Dialog>
+          <Dialog>I've done some research.
+Sitting near the front of the
+bus, not looking around too
+much, and wearing sunglasses
+help.</Dialog>
+          <Dialog>Really？</Dialog>
+          <Dialog>Yeah, avoid anything that'll
+stimulate your vision. You can
+try to look straight as if you
+were a bus driver too.</Dialog>
+          <Dialog>Look straight as if I were a
+bus driver？ Maybe I can
+practice doing that with
+arcade games first.</Dialog>
+          <Dialog>Ah, with car-racing games？ I
+wonder...</Dialog>
+          <Dialog>I should give it a try. Hey,
+will you accompany me there？</Dialog>
+          <Dialog>U-Um, okay.</Dialog>
+          <Dialog>All right. I'll try to
+win...！</Dialog>
+          <Dialog>(If she can overcome her
+motion sickness by playing
+games, it'll be such an
+amazing discovery...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2272,19 +2579,38 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえばさ、女子部のほうで言い争いしてなかったか？</Dialog>
+          <Dialog>By the way, do members of the
+female tennis club quarrel
+sometimes？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん……普段はすごく仲のいい二人でね？　練習も、いつも一緒に組んだりしてるくらいなんだけど。</Dialog>
-          <Dialog>同じ人を好きになったって。それで、ケンカが始まっちゃったの。</Dialog>
-          <Dialog>そりゃまた……。</Dialog>
-          <Dialog>……これで相手があなただったら、きっとわたしもそこに入ってた。</Dialog>
-          <Dialog>え！</Dialog>
-          <Dialog>前は、そういう風になる気持ちなんて、ちっともわからなかったけど……。</Dialog>
-          <Dialog>好きな人、取られちゃうと思ったら……ケンカしちゃう気持ち、わかるなって。</Dialog>
-          <Dialog>▲高嶺＊＊▲……。</Dialog>
-          <Dialog>何とか仲直りはして欲しいんだけどね？　すぐには難しい気がする……。</Dialog>
-          <Dialog>……そんなことも何となく理解できるようになっちゃうなんて。恋ってすごいね？</Dialog>
-          <Dialog>（そんな悲しそうな顔、するなよ……）</Dialog>
+          <Dialog>Well... There were two girls
+who used to be very good
+friends. They always practiced
+together.</Dialog>
+          <Dialog>But then they fell in love
+with the same guy and started
+to quarrel.</Dialog>
+          <Dialog>I see...</Dialog>
+          <Dialog>...If you were the guy they
+fell in love with, I would
+probably be like those girls.</Dialog>
+          <Dialog>Eh！？</Dialog>
+          <Dialog>Earlier, I couldn't understand
+why people would fight over
+something like that...</Dialog>
+          <Dialog>But now, I think I know how
+they feel when they think the
+guy they love might be
+snatched away.</Dialog>
+          <Dialog>▲高嶺＊＊▲...</Dialog>
+          <Dialog>I still want them to be
+friends again, but it might be
+quite difficult.</Dialog>
+          <Dialog>...For me to finally
+understand something like
+that, love sure is an amazing
+thing.</Dialog>
+          <Dialog>(Don't make that sad face...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2392,19 +2718,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……あのさ。こないだのケンカ、どうなった？</Dialog>
+          <Dialog>...Hey, what happened to the
+girls that were fighting？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。仲直りしたみたい。</Dialog>
-          <Dialog>早っ！　どうやって？</Dialog>
-          <Dialog>二人で告白して、二人で振られちゃったんだって。本当は、どちらにも脈はないってわかってたらしくて……。</Dialog>
-          <Dialog>だから、もうスッキリしちゃおうって。それで、仲直り。</Dialog>
-          <Dialog>そ、そうなのか。女の子って、何だか不思議だな……。</Dialog>
-          <Dialog>ふふ。でも、仲直りしてくれてよかった。わたしのカンが外れてくれて、よかった……。</Dialog>
-          <Dialog>▲高嶺＊＊▲……。</Dialog>
-          <Dialog>ごめんね、この前はヘンなこと言っちゃったりして。忘れてくれると嬉しい。</Dialog>
-          <Dialog>……いいよ、気にすんなって。</Dialog>
-          <Dialog>ありがとう。じゃあ、帰ろう？</Dialog>
-          <Dialog>（▲高嶺＊＊▲のあんな悲しそうな顔、もう見たくないな……）</Dialog>
+          <Dialog>Oh, they reconciled.</Dialog>
+          <Dialog>So fast！ How？</Dialog>
+          <Dialog>They both confessed to him,
+and they both were rejected.
+They realized that neither of
+them could get him...</Dialog>
+          <Dialog>So, they finally decided to
+become friends again.</Dialog>
+          <Dialog>R-Really？ Girls' feelings are
+very mysterious...</Dialog>
+          <Dialog>Hehe. Now they are friends
+again. I'm glad my intuition
+was wrong this time.</Dialog>
+          <Dialog>▲高嶺＊＊▲...</Dialog>
+          <Dialog>Sorry. I said something weird
+earlier. I hope you'll just
+forget it.</Dialog>
+          <Dialog>...It's okay. Don't worry
+about it.</Dialog>
+          <Dialog>Thanks. Then let's go home.</Dialog>
+          <Dialog>(I don't want to see
+▲高嶺＊＊▲
+with that sad face again...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2493,17 +2832,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>聞いた？　顧問の鈴木先生の奥さん、出産間近だって話。</Dialog>
+          <Dialog>Have you heard about our
+advisor, Suzuki-sensei？ His
+wife will give birth to a baby
+soon.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん！　最近ずっとそわそわしてたもんね？　その理由がわかって、ちょっとスッキリ。</Dialog>
-          <Dialog>ハハハ。最近上の空だもんなー。</Dialog>
-          <Dialog>ふふっ。今ね、ナイショでプレゼントしようかって話が出てるの。</Dialog>
-          <Dialog>へーっ、面白そうだな。</Dialog>
-          <Dialog>でしょう？　男子部も乗ってくれないかな。</Dialog>
-          <Dialog>じゃあ、●から部長に言ってみるよ。</Dialog>
-          <Dialog>うん、お願い。</Dialog>
-          <Dialog>おう。鈴木先生、泣いちゃうかもな？　感激して。</Dialog>
-          <Dialog>厳しいけど感動屋さんだもんね？　どんな反応するのか、ちょっと楽しみ。</Dialog>
+          <Dialog>Yeah！ He's been very fidgety
+lately. I finally understood
+why when I heard the news.</Dialog>
+          <Dialog>Hahaha. He really has been
+absent-minded lately.</Dialog>
+          <Dialog>Hehe. Right now, we have a
+plan to give him a surprise
+present.</Dialog>
+          <Dialog>Hmm？ That sounds fun.</Dialog>
+          <Dialog>Right？ Maybe the male members
+should join us too.</Dialog>
+          <Dialog>Then I'll ask the captain
+about this.</Dialog>
+          <Dialog>Okay, I'll leave it to you.</Dialog>
+          <Dialog>Wow, maybe Suzuki-sensei will
+be impressed and cry.</Dialog>
+          <Dialog>He is strict but he has his
+sensitive side. I can't wait
+to see how he will react.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2603,19 +2955,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、やっぱり泣いたな、鈴木先生。</Dialog>
+          <Dialog>By the way, Suzuki-sensei
+really cried, huh？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。わたし、もらい泣きしちゃった。</Dialog>
-          <Dialog>男子部のほうにもいたぞ？　もらい泣きしてるヤツ。</Dialog>
-          <Dialog>そんなこと言ってるあなたはどうだったの？</Dialog>
-          <Dialog>んー、どうだろ？</Dialog>
-          <Dialog>ふふっ、いいよ、聞かないでおいてあげる。</Dialog>
-          <Dialog>でもいいなぁ、あんな旦那さま。いつかはわたしも……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>ううん！　プレゼント、練習前に渡したせいか、練習きつくなかったね？</Dialog>
-          <Dialog>だな。きっと次は反動で厳しくなると見たね。</Dialog>
-          <Dialog>ふふっ！　先生の幸せパワーに負けないように、頑張ろう？</Dialog>
-          <Dialog>おう！</Dialog>
+          <Dialog>Yeah, I even cried with him.</Dialog>
+          <Dialog>Some guys in our club cried
+too.</Dialog>
+          <Dialog>You're saying that, but what
+about you？</Dialog>
+          <Dialog>Huh？ What？</Dialog>
+          <Dialog>Hehe, okay. I'd better not
+ask.</Dialog>
+          <Dialog>But it'd be nice to have a
+husband like him... One day,
+we'll also...</Dialog>
+          <Dialog>Huh？</Dialog>
+          <Dialog>Nothing！ I was thinking that
+we gave him the present before
+practice, yet the practice was
+so hard.</Dialog>
+          <Dialog>Yeah, he reacted by being even
+more strict with us.</Dialog>
+          <Dialog>Hehe！ We can't lose to his
+happiness. Let's do our best.</Dialog>
+          <Dialog>Okay！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

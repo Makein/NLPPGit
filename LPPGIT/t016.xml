@@ -57,11 +57,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇ、どうかしたの？　さっきから、黙って。</Dialog>
-          <Dialog>わたし、なにか悪いことしたの？</Dialog>
-          <Dialog>黙ってちゃ、わからないよ。</Dialog>
-          <Dialog>……いつまで、そうしてるの？</Dialog>
-          <Dialog>もういい、好きにして！</Dialog>
+          <Dialog>Hey, what happened？ You've
+been quiet since then.</Dialog>
+          <Dialog>Have I done something bad？</Dialog>
+          <Dialog>If you stay quiet, I won't
+understand a thing.</Dialog>
+          <Dialog>...How long will you stay that
+way？</Dialog>
+          <Dialog>I don't care！ Do whatever you
+like！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -121,11 +125,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇ……どうしたの？　さっきから……。</Dialog>
-          <Dialog>……わたし、怒らせちゃった？</Dialog>
-          <Dialog>……なにか言って。</Dialog>
-          <Dialog>……黙ってるなんて、ひどいよ……。</Dialog>
-          <Dialog>もういい、帰る……。</Dialog>
+          <Dialog>Hey... What happened？ Since
+then...</Dialog>
+          <Dialog>Did I make you angry？</Dialog>
+          <Dialog>...Please say something.</Dialog>
+          <Dialog>...It's just cruel to stay
+quiet like that...</Dialog>
+          <Dialog>Whatever！ I'm going home...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -185,11 +191,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あれ？　さっきから、黙ってるよね……どうして？</Dialog>
-          <Dialog>わかった、ふざけてるんでしょ？　ね？</Dialog>
-          <Dialog>……ねぇ？</Dialog>
-          <Dialog>ちょっと！　返事くらいしてよ。</Dialog>
-          <Dialog>……もう、知らない！</Dialog>
+          <Dialog>Eh？ You've been quiet for a
+while... What happened？</Dialog>
+          <Dialog>I see. You're just playing
+jokes with me, right？</Dialog>
+          <Dialog>...Hmm？</Dialog>
+          <Dialog>Come on！ At least answer me.</Dialog>
+          <Dialog>...I don't care anymore！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -249,11 +257,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……どうして、黙ってるの？</Dialog>
-          <Dialog>……もしかして、寝ちゃった、とか？</Dialog>
-          <Dialog>マナカウサギもおねむになっちゃうよ～？</Dialog>
-          <Dialog>……知ってる？　一人で喋るのって、すごく恥ずかしいんだよ？</Dialog>
-          <Dialog>……もういい、じゃあね。</Dialog>
+          <Dialog>...What happened？ You're
+being so quiet.</Dialog>
+          <Dialog>...Have you fallen asleep？</Dialog>
+          <Dialog>Rabbit Manaka will become
+sleepy too, you know？</Dialog>
+          <Dialog>...Do you know？ Talking all
+by yourself is very
+embarrassing.</Dialog>
+          <Dialog>...Whatever. Bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -313,11 +325,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>どうして、黙っちゃったの？</Dialog>
-          <Dialog>……なにか言って欲しいなぁ……。</Dialog>
-          <Dialog>ウサギはね、寂しいと……死んじゃうんだよ？</Dialog>
-          <Dialog>マナカウサギが寂しいって言ってるよ～。</Dialog>
-          <Dialog>……一生、そこでそうしててください。じゃあね。</Dialog>
+          <Dialog>Why are you being so quiet？</Dialog>
+          <Dialog>...It would be nice if you
+just said something...</Dialog>
+          <Dialog>Rabbits will die too if they
+get lonely, you know？</Dialog>
+          <Dialog>I'm telling you. Rabbit Manaka
+is getting lonely~！</Dialog>
+          <Dialog>...Please, don't ever do this
+to me again in my lifetime.
+Bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -377,11 +394,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……もしもし？　起きてる？</Dialog>
-          <Dialog>おーい、朝だよー？</Dialog>
-          <Dialog>今からマナカウサギのダンスが始まります！</Dialog>
-          <Dialog>ウソでーす！</Dialog>
-          <Dialog>……バカみたい。じゃあね。</Dialog>
+          <Dialog>...Hello？ Are you awake？</Dialog>
+          <Dialog>Hey, it's morning already.</Dialog>
+          <Dialog>Rabbit Manaka is going to
+dance now！</Dialog>
+          <Dialog>I lied！</Dialog>
+          <Dialog>...I feel like a fool. Bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -441,11 +459,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇ、どうして黙ってるの？</Dialog>
-          <Dialog>……なにも言ってくれないんだ。</Dialog>
-          <Dialog>わたしといても、もう楽しくない……なんて。</Dialog>
-          <Dialog>……そう、なの？</Dialog>
-          <Dialog>……ゴメンね、帰る。</Dialog>
+          <Dialog>Hey, why are you being so
+quiet？</Dialog>
+          <Dialog>...You haven't said anything
+at all.</Dialog>
+          <Dialog>Is it boring being with
+me...？ I wonder.</Dialog>
+          <Dialog>...Is it true？</Dialog>
+          <Dialog>...Sorry, I'm going home.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -505,11 +526,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……どうかしたの？　さっきから、黙ってる……。</Dialog>
-          <Dialog>意地悪してるの？　わたし、いけなかった？</Dialog>
-          <Dialog>……ねぇ、意地悪しないで、謝るから……。</Dialog>
-          <Dialog>……ごめんなさい、退屈させて……。</Dialog>
-          <Dialog>……帰るね、じゃあ……。</Dialog>
+          <Dialog>...What happened？ You've been
+so quiet.</Dialog>
+          <Dialog>Are you having a bad time？ I
+can't make you feel better？</Dialog>
+          <Dialog>...Hey, if I'm the one making
+you feel bad, I'm really
+sorry...</Dialog>
+          <Dialog>I'm sorry to make you feel so
+bored.</Dialog>
+          <Dialog>I'm going home. Bye...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -569,17 +595,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>さっきから、
-黙ってるよね……
-どうして？</Dialog>
-          <Dialog>……もしかして
-怒ってるの？</Dialog>
-          <Dialog>……わたし、なにか
-しちゃったのかな……。</Dialog>
-          <Dialog>ねぇ、怒ってないなら、
-なにか言って？</Dialog>
-          <Dialog>今日は、帰るね。
-……またね？</Dialog>
+          <Dialog>You've been quiet for a while
+now... What happened？</Dialog>
+          <Dialog>Are you possibly angry with
+me？</Dialog>
+          <Dialog>...I must've done something
+bad to you...</Dialog>
+          <Dialog>Hey, if you're not angry, can
+you say something？</Dialog>
+          <Dialog>I'm going home now. ...Bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -629,12 +653,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……いいのに、無理しなくても。</Dialog>
+          <Dialog>...You didn't have to overdo
+it.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっ？</Dialog>
-          <Dialog>そりゃあね、楽しくない日もあると思うよ？　わかってるもん。</Dialog>
-          <Dialog>その……。</Dialog>
-          <Dialog>わたし、帰る。反省して。</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>Now I know that we can have
+days like this sometimes.</Dialog>
+          <Dialog>That's...</Dialog>
+          <Dialog>I'm leaving. You should
+reflect on this.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -684,12 +711,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>わたしといるの……嫌？</Dialog>
+          <Dialog>Is it that bad being with me？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっ？</Dialog>
-          <Dialog>わたし、怒らせるようなことしたのかな……。</Dialog>
-          <Dialog>その……。</Dialog>
-          <Dialog>今日はもう、帰るね。</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>Did I make you upset or
+something？</Dialog>
+          <Dialog>That's...</Dialog>
+          <Dialog>I'm leaving for today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -739,12 +767,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……つまんない。</Dialog>
+          <Dialog>...Boring.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっ？</Dialog>
-          <Dialog>今日も、楽しく過ごしたかったのに……。</Dialog>
-          <Dialog>その……。</Dialog>
-          <Dialog>もういい、じゃあね！</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>I expected that today would be
+fun...</Dialog>
+          <Dialog>That's...</Dialog>
+          <Dialog>Enough. Bye！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -794,12 +823,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇ、もしかして、わたしのこと怒らせたいの？</Dialog>
+          <Dialog>Hey, are you trying to upset
+me or something？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっ？</Dialog>
-          <Dialog>残念でした。デートがつまらないくらいでは怒りません。</Dialog>
-          <Dialog>でも、あなたは頭を冷やす必要があるみたい。じゃあね。</Dialog>
-          <Dialog>え!?　ちょっと……。</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>Too bad. Our date was so
+boring, but I'm not getting
+upset.</Dialog>
+          <Dialog>Anyway, I think you need some
+time to cool your head. I'm
+leaving.</Dialog>
+          <Dialog>Eh！？ Wait...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -849,12 +883,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>今日のあなた、ひどいと思う。</Dialog>
+          <Dialog>You are really terrible today.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっ？</Dialog>
-          <Dialog>意地悪。</Dialog>
-          <Dialog>いじわるいじわるいじわるっ！</Dialog>
-          <Dialog>え!?　ちょっと……。</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>You're so mean！</Dialog>
+          <Dialog>Mean, mean, mean！！</Dialog>
+          <Dialog>Eh！？ Wait...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -904,12 +938,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もうっ、いやっ！</Dialog>
+          <Dialog>This is it！？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>あなたの顔にラクガキしてもいい？　そうしたら許せるかも。</Dialog>
-          <Dialog>……ううん、やっぱり許せない。バイバイ！</Dialog>
-          <Dialog>え!?　ちょっと……。</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>Can I draw something on your
+face now？ If you let me, I
+might forgive you.</Dialog>
+          <Dialog>...No, even so, I still can't
+forgive you. Bye-bye！</Dialog>
+          <Dialog>Eh！？ Wait...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -959,12 +996,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……わたしのこと、好き……だよね？</Dialog>
+          <Dialog>...Do you... love me？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっ？</Dialog>
-          <Dialog>それとも、もうわたしのこと……ううん。</Dialog>
-          <Dialog>今日は、もう帰った方がいいみたい……じゃあ、ね？</Dialog>
-          <Dialog>……ちょっと！</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>Or do you... Never mind.</Dialog>
+          <Dialog>I think I'd better leave for
+today. ...See you later.</Dialog>
+          <Dialog>...Wait！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1014,12 +1052,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……どうして？</Dialog>
+          <Dialog>...What's wrong？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっ……？</Dialog>
-          <Dialog>……どうして、意地悪するの？　わたし、いけなかった？</Dialog>
-          <Dialog>ゴメンね……今日はもう、帰りたいの。</Dialog>
-          <Dialog>……ちょっと！</Dialog>
+          <Dialog>Eh...？</Dialog>
+          <Dialog>...Why are you so mean today.
+Are you angry？</Dialog>
+          <Dialog>I'm sorry... I'd better leave
+now.</Dialog>
+          <Dialog>...Wait！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1069,12 +1109,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇ……わたしね、今日楽しく過ごしたかった。</Dialog>
+          <Dialog>Hey... I thought we would have
+a good time today.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっ？</Dialog>
-          <Dialog>わたしのこと、嫌になったなら、ちゃんと教えてね？</Dialog>
-          <Dialog>こんなこと、言いたくないのに……じゃあね。</Dialog>
-          <Dialog>……ちょっと！</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>If you hate me, please tell
+me, okay？</Dialog>
+          <Dialog>But I really don't want to
+hear that... Bye now.</Dialog>
+          <Dialog>...Wait！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

@@ -82,17 +82,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>おはよう。</Dialog>
+          <Dialog>'Morning.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>んー。</Dialog>
-          <Dialog>もう。いつもこんなギリギリ？</Dialog>
-          <Dialog>ん……おは……え！　▲高嶺＊＊▲！</Dialog>
-          <Dialog>ふふ。おはようは？</Dialog>
-          <Dialog>えーと。おはようございます……。</Dialog>
-          <Dialog>よくできました。ほら、しゃんと起きて？　遅刻しちゃう。</Dialog>
-          <Dialog>はい。……ていうか、なんで？</Dialog>
-          <Dialog>誰かさんが、朝が弱いって言ってたでしょう？　それよりほら、準備！</Dialog>
-          <Dialog>はーい。</Dialog>
+          <Dialog>Hmm？</Dialog>
+          <Dialog>Hey. How long are you gonna
+stay in bed？</Dialog>
+          <Dialog>Okay... Morni-- What！？
+▲高嶺＊＊▲！</Dialog>
+          <Dialog>Hehe. Good morning.</Dialog>
+          <Dialog>Um... Good morning...</Dialog>
+          <Dialog>That's good. Hey, if you don't
+get up, we'll be late.</Dialog>
+          <Dialog>Yes. ...But, why is this...？</Dialog>
+          <Dialog>Someone said that he could
+barely get up in the morning,
+right？ Now, get ready！</Dialog>
+          <Dialog>Okay~.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -202,20 +207,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>おはよう、起きてくださーい。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>'Morning. Please wake up.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>んん？</Dialog>
-          <Dialog>……ん？　▲高嶺＊＊▲！　なんで？</Dialog>
-          <Dialog>忘れちゃったの？　起こすの、手伝いに来るって言ってたこと。</Dialog>
-          <Dialog>あれっ？　……あっ、そっか。</Dialog>
-          <Dialog>ふふ、寝ぼすけさん。</Dialog>
-          <Dialog>じゃあわたし、お部屋の外で待ってるね？</Dialog>
-          <Dialog>なんで？　すぐ着替えるからさ、そこで……。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>とにかく、外で待ってるから。早くしてね？</Dialog>
-          <Dialog>（……？）</Dialog>
+          <Dialog>Mmm...</Dialog>
+          <Dialog>...Huh！？
+▲高嶺＊＊▲！
+Why？</Dialog>
+          <Dialog>Did you forget？ I told you
+I'd help you get up.</Dialog>
+          <Dialog>Eh？ ...Ah, I see.</Dialog>
+          <Dialog>Hehe. You sleepyhead.</Dialog>
+          <Dialog>I'll be waiting outside then.</Dialog>
+          <Dialog>Why don't you stay here？ I'll
+just get dressed and I'll be
+ready...</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Huh？</Dialog>
+          <Dialog>I'll be waiting outside. Just
+hurry up.</Dialog>
+          <Dialog>(...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -305,18 +316,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん……。</Dialog>
-          <Dialog>ん……あれ……▲高嶺＊＊▲。▲高嶺＊＊▲!?</Dialog>
-          <Dialog>ふふっ、目が覚めた？</Dialog>
-          <Dialog>覚めた……えーと？</Dialog>
-          <Dialog>約束したでしょう？　起こしに来るって。さては、寝ぼけてるな？</Dialog>
-          <Dialog>うん、頭、働かないかも。</Dialog>
-          <Dialog>……じゃあ、ちゃんと目が覚めるまで添い寝、しちゃおうかな。</Dialog>
-          <Dialog>うん……え!?</Dialog>
-          <Dialog>ふふっ、お目目パッチリ。早く準備してね？</Dialog>
-          <Dialog>（びっくりした……）</Dialog>
+          <Dialog>Hmm...</Dialog>
+          <Dialog>Mmm... Eh？
+▲高嶺＊＊▲.
+▲高嶺＊＊▲！？</Dialog>
+          <Dialog>Hehe. Are you awake？</Dialog>
+          <Dialog>I'm awake... Um...</Dialog>
+          <Dialog>I promised you, right？ So now
+I'm here to wake you up. Hey,
+are you still half asleep？</Dialog>
+          <Dialog>Um, my brain hasn't woken up
+yet.</Dialog>
+          <Dialog>...Then shall I get in bed
+with you until you fully wake
+up？</Dialog>
+          <Dialog>Yeah... What！！？</Dialog>
+          <Dialog>Haha, now you're awake. Get
+ready, okay？</Dialog>
+          <Dialog>(What a surprise...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -366,12 +385,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>早くしないと、行っちゃうよ？</Dialog>
+          <Dialog>If you don't get up, I'll
+leave...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>待って、おイモ屋さん……。</Dialog>
-          <Dialog>ふふ、おはよう。朝だよ？</Dialog>
-          <Dialog>うん、サンキュ……ふぁ……。</Dialog>
-          <Dialog>外にいるから、早く来てね？</Dialog>
+          <Dialog>Wait... I wanna buy some
+potatoes first...</Dialog>
+          <Dialog>Haha. 'Morning. It's morning
+already.</Dialog>
+          <Dialog>Okay, thank you... Whoa...</Dialog>
+          <Dialog>I'll wait outside. You'd
+better hurry, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -431,13 +454,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>起きてくださーい。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Please wake up.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん……あ、▲高嶺＊＊▲。おはよ……。</Dialog>
-          <Dialog>おはよう。良く眠れた？</Dialog>
-          <Dialog>もう少し……▲高嶺＊＊▲も、ほら……。</Dialog>
-          <Dialog>もう……。本当に少しだよ？　少ししたら、起きてね？</Dialog>
+          <Dialog>Mmm... Ah,
+▲高嶺＊＊▲.
+'Morning...</Dialog>
+          <Dialog>'Morning. Did you sleep well？</Dialog>
+          <Dialog>Just a little bit more...
+▲高嶺＊＊▲
+should sleep too. Come on.</Dialog>
+          <Dialog>Hey... I'll give you a little
+more time. I'll wake you up in
+a bit, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -487,12 +516,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>おはよう。朝だよ？</Dialog>
+          <Dialog>'Morning. It's morning
+already.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲……おはよ……。</Dialog>
-          <Dialog>ふふ。あなた見てると、一緒に寝たくなっちゃうから不思議。</Dialog>
-          <Dialog>うん、ぜひ……。</Dialog>
-          <Dialog>ふふっ、もう。ほら、起きて？　遅刻しちゃうよ？</Dialog>
+          <Dialog>▲高嶺＊＊▲...
+'Morning...</Dialog>
+          <Dialog>Hehe. Looking at you like
+this, I want to sleep on your
+bed too.</Dialog>
+          <Dialog>Oh, welcome...</Dialog>
+          <Dialog>Hehe, no thanks. Hey, are you
+awake？ We're gonna be late.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -587,19 +621,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あれっ、▲高嶺＊＊▲。どした？</Dialog>
-          <Dialog>ね、まだお昼、買ってない？</Dialog>
-          <Dialog>うん、これから。なんで？</Dialog>
-          <Dialog>よかったらこれ、食べない？</Dialog>
-          <Dialog>弁当？　▲高嶺＊＊▲の手作り？
-マジで！</Dialog>
-          <Dialog>もう、声が大きいよ。</Dialog>
-          <Dialog>あ、ごめん。うれしくて、つい。</Dialog>
-          <Dialog>それならしょうがないかな？　なんて。和食なんだけど、大丈夫？</Dialog>
-          <Dialog>全然、問題なし！</Dialog>
-          <Dialog>また、そんな大声出して。……もう。</Dialog>
+          <Dialog>Eh？
+▲高嶺＊＊▲.
+What's up？</Dialog>
+          <Dialog>Hey, have you bought your
+lunch yet？</Dialog>
+          <Dialog>No, I'm about to. Why？</Dialog>
+          <Dialog>Would you mind eating this？</Dialog>
+          <Dialog>A lunch box？
+▲高嶺＊＊▲
+made it？</Dialog>
+          <Dialog>Hey, don't be too loud.</Dialog>
+          <Dialog>Ah, sorry. I'm just so happy.</Dialog>
+          <Dialog>Then I won't blame you. Oh
+well... Is a Japanese-styled
+lunch okay for you？</Dialog>
+          <Dialog>No problem at all！</Dialog>
+          <Dialog>You're too loud again.
+...Geez.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -689,18 +730,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あれ、▲高嶺＊＊▲。どうしたの？</Dialog>
+          <Dialog>Ah,
+▲高嶺＊＊▲.
+What's up？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん、あのね。今日、お昼どうするのかな、と思って……。</Dialog>
-          <Dialog>これから買いに行こうかと……。</Dialog>
-          <Dialog>よかった。これ。あなたに、食べて欲しいんだけど……。</Dialog>
-          <Dialog>弁当？　ひょっとして●のために作ってくれたとか？</Dialog>
-          <Dialog>うん。がんばっちゃった、なんて。……召し上がれ。</Dialog>
-          <Dialog>もちろん！</Dialog>
-          <Dialog>へー、和食か～。いいな～。</Dialog>
-          <Dialog>お口に合わなかったら、言ってね？</Dialog>
-          <Dialog>合わないはずがないって。</Dialog>
-          <Dialog>……そう言ってもらえると、嬉しい。ふふ。</Dialog>
+          <Dialog>Um, well... I wonder if you
+already had lunch...</Dialog>
+          <Dialog>I'm about to go buy it...</Dialog>
+          <Dialog>Great. Here. I was hoping you
+would try this...</Dialog>
+          <Dialog>A lunch box？ Is it for me？</Dialog>
+          <Dialog>Yes. I made it myself.
+...Please try it.</Dialog>
+          <Dialog>Okay！</Dialog>
+          <Dialog>Wow, Japanese food. So nice.</Dialog>
+          <Dialog>If you don't like it, please
+tell me.</Dialog>
+          <Dialog>Oh, I really like it.</Dialog>
+          <Dialog>...I'm glad to hear that.
+Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -795,18 +843,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、▲高嶺＊＊▲。どした？</Dialog>
-          <Dialog>ね、もうお昼、買っちゃった？</Dialog>
-          <Dialog>うん、これ。パン。</Dialog>
-          <Dialog>じゃあ、それは没収。</Dialog>
-          <Dialog>え、あ、ちょっと！</Dialog>
-          <Dialog>あなたには、これね？</Dialog>
-          <Dialog>へっ。あ……ひょっとして、手作り弁当？</Dialog>
-          <Dialog>ふふっ。パンとは正反対の和食だけど。</Dialog>
-          <Dialog>おーっ、すごい！　本格的だ、サンキュ、▲高嶺＊＊▲！</Dialog>
-          <Dialog>どういたしまして。お口に合わなかったら言ってね？　次、もっと頑張るから。</Dialog>
+          <Dialog>Ah,
+▲高嶺＊＊▲.
+What's up？</Dialog>
+          <Dialog>Hey, have you bought your
+lunch？</Dialog>
+          <Dialog>Yeah. This sandwich here.</Dialog>
+          <Dialog>Then it's confiscated.</Dialog>
+          <Dialog>Eh！？ Wait！</Dialog>
+          <Dialog>You should eat this instead.</Dialog>
+          <Dialog>Huh？ Ah, could it be a
+homemade lunch box？</Dialog>
+          <Dialog>Hehe. It's Japanese food
+though.</Dialog>
+          <Dialog>Oh, awesome！ Wonderful. Thank
+you,
+▲高嶺＊＊▲！</Dialog>
+          <Dialog>You're welcome. Please let me
+know how you like it. I'll
+surely try harder next time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -856,12 +913,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……どう？</Dialog>
+          <Dialog>...How is it？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、うまい。出汁もきいてて、味付けに味わいがあって……。</Dialog>
-          <Dialog>もう、それ何回め？</Dialog>
-          <Dialog>本当にウマイんだから仕方ないだろ？</Dialog>
-          <Dialog>そっか、仕方ないか。ふふ！</Dialog>
+          <Dialog>Very delicious. Your soup base
+and the seasonings are well
+blended...</Dialog>
+          <Dialog>Hey, how many times are you
+going to praise me？</Dialog>
+          <Dialog>It's just too delicious that I
+can't help praising you.</Dialog>
+          <Dialog>I see. You can't help it, eh？
+Hehe！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -911,12 +973,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今日の弁当もうまい！　▲高嶺＊＊▲の作る煮物は最高だな。</Dialog>
+          <Dialog>Today's lunch is so
+delicious！
+▲高嶺＊＊▲'s
+stew is the best.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふ、ありがとう。</Dialog>
-          <Dialog>ね、次はどんなお弁当がいい？</Dialog>
-          <Dialog>▲高嶺＊＊▲の弁当は何でもウマイからなー。</Dialog>
-          <Dialog>本当？　うれしい……じゃあ、次も頑張っちゃうね？</Dialog>
+          <Dialog>Hehe. Thanks.</Dialog>
+          <Dialog>Hey, what shall I cook for you
+next？</Dialog>
+          <Dialog>▲高嶺＊＊▲'s
+food is always delicious. So
+anything's okay.</Dialog>
+          <Dialog>Really？ I'm so happy. ...Then
+I'll also try my best next
+time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -966,12 +1036,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>今日のお弁当、どうだった？</Dialog>
+          <Dialog>How is today's lunch？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>バッチリ。▲高嶺＊＊▲の味付けは最高だよ。</Dialog>
-          <Dialog>味付けも、じゃなくて？</Dialog>
-          <Dialog>そっか。失礼しました。</Dialog>
-          <Dialog>ふふ、よろしい。なんて。次は何を作ろうかな？　リクエスト、ある？</Dialog>
+          <Dialog>Perfect.
+▲高嶺＊＊▲'s
+flavor is the best.</Dialog>
+          <Dialog>Just the flavor？</Dialog>
+          <Dialog>Oh, I'm sorry.</Dialog>
+          <Dialog>Hehe. Very well. I wonder what
+I should make next. You have
+any requests？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1056,19 +1130,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲。オッス。</Dialog>
-          <Dialog>ふふ、オッス。今日はね、お弁当持ってきたの。</Dialog>
-          <Dialog>弁当？　じゃあ●、購買に行ってパン買ってくる。</Dialog>
-          <Dialog>そうじゃなくて。はい。</Dialog>
-          <Dialog>……●の分も!?</Dialog>
-          <Dialog>もう、大げさなんだから。</Dialog>
-          <Dialog>おっ、洋食ランチ！
-ウマそう！
-食べていい？</Dialog>
-          <Dialog>ふふっ、召し上がれ▼</Dialog>
-          <Dialog>いっただっきまーす！</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+Yo！</Dialog>
+          <Dialog>Hehe, yo！ I made a lunch box
+today.</Dialog>
+          <Dialog>Lunch box？ Then I'll go buy a
+sandwich and we can eat
+together.</Dialog>
+          <Dialog>I didn't mean that. Here.</Dialog>
+          <Dialog>...Is this for me！？</Dialog>
+          <Dialog>Hey, don't overreact.</Dialog>
+          <Dialog>Oh, a Western-styled lunch！
+Looks yummy. Can I really eat
+it？</Dialog>
+          <Dialog>Hehe. Please▼</Dialog>
+          <Dialog>I'll eat it now！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1153,17 +1231,29 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あっ、▲高嶺＊＊▲。ちょっと待ってて、●、急いで購買に行ってくるから一緒に昼メシ……。</Dialog>
-          <Dialog>待って。そう思って、わたしも急いで来たの。</Dialog>
-          <Dialog>ああ、何か食いたいものある？</Dialog>
-          <Dialog>ううん、そうじゃないの。これ、食べて欲しいなって。</Dialog>
-          <Dialog>弁当！</Dialog>
-          <Dialog>うん。洋食なんだけど……もしよかったら召し上がれ。</Dialog>
-          <Dialog>食べる！</Dialog>
-          <Dialog>ふふっ、そんな嬉しそうな顔されたら、わたしまで嬉しくなっちゃう。はい、どうぞ。</Dialog>
-          <Dialog>いっただっきまーす！</Dialog>
+          <Dialog>Ah,
+▲高嶺＊＊▲.
+Wait a sec. I'll go buy my
+lunch, so we can eat
+together...</Dialog>
+          <Dialog>Wait. I knew you would say
+that. That's why I hurried
+here.</Dialog>
+          <Dialog>Ah, do you have anything you
+want to eat in particular？</Dialog>
+          <Dialog>No, that's not the case. Here.
+I want you to try this.</Dialog>
+          <Dialog>A lunch box！</Dialog>
+          <Dialog>Yes. It's Western food though.
+If it's okay, please have
+some.</Dialog>
+          <Dialog>I'll eat it！</Dialog>
+          <Dialog>Hehe. Seeing your happy face
+makes me happy too. Here you
+go.</Dialog>
+          <Dialog>I'll eat it now！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1263,19 +1353,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲。どした？</Dialog>
-          <Dialog>ふふっ、さらいに来ちゃった。</Dialog>
-          <Dialog>●を？　さらっても、何も出ないぞ？</Dialog>
-          <Dialog>それはどうでしょう？　はいっ。</Dialog>
-          <Dialog>ん？　弁当!?</Dialog>
-          <Dialog>そう。あなたと、ランチしたいなって。どう？</Dialog>
-          <Dialog>行く！</Dialog>
-          <Dialog>もう、お口、だらしないよ？</Dialog>
-          <Dialog>ついヨダレが……。この匂いは洋風だな。</Dialog>
-          <Dialog>ふふっ、ピンポン。ね、早く食べて？</Dialog>
-          <Dialog>おう！</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+What's up？</Dialog>
+          <Dialog>Hehe. I'm going to kidnap you.</Dialog>
+          <Dialog>I don't have money though.
+What do you want？</Dialog>
+          <Dialog>What shall I request then...？
+Here.</Dialog>
+          <Dialog>Huh？ A lunch box！？</Dialog>
+          <Dialog>Yes. I want you to eat this.
+How's that？</Dialog>
+          <Dialog>Okay！</Dialog>
+          <Dialog>Hey, wipe your mouth.</Dialog>
+          <Dialog>Am I drooling or
+something...？ From the smell,
+this must be Western food.</Dialog>
+          <Dialog>Hehe, bingo. Hey, why don't
+you hurry and eat it？</Dialog>
+          <Dialog>Okay！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1315,11 +1412,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あー、ウマかった！　次も楽しみだー。</Dialog>
+          <Dialog>Oh, delicious！ I'm looking
+forward to the next one.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>やる気を起こさせるの、本当に上手だよね？</Dialog>
-          <Dialog>本当に楽しみだからさ。食べるたびに新しい発見があるっていうか……。</Dialog>
-          <Dialog>はいはい。もう……ふふっ！</Dialog>
+          <Dialog>You're very good at cheering
+people up, huh？</Dialog>
+          <Dialog>I'm really looking forward to
+it. It's like I've discovered
+something new for every bite I
+took...</Dialog>
+          <Dialog>Okay, okay. Enough. Hehe！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1368,12 +1470,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>お、新メニュー。</Dialog>
+          <Dialog>Oh, new menu.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。せっかくだから、いろんなもの、あなたに食べて欲しいなと思って。……どう？</Dialog>
-          <Dialog>これは……。</Dialog>
-          <Dialog>うまい！　こないだのもウマかったけど、今回のもバッチリ●好み。</Dialog>
-          <Dialog>……よかった。このままずっと、レパートリー増やせればいいな。</Dialog>
+          <Dialog>Yeah. I added so many things
+that you wanted to eat in it.
+How is it？</Dialog>
+          <Dialog>This is...</Dialog>
+          <Dialog>Very delicious！ The last one
+was delicious but this one is
+perfect！ It's my favorite.</Dialog>
+          <Dialog>...I'm glad that I added more
+stuff in it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1423,12 +1530,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>今日のおかず、どうかな？</Dialog>
+          <Dialog>How is today's side dish？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、今日もうまい。いいのかねぇ、こんなにうまくて。</Dialog>
-          <Dialog>もっと褒めてくれてもいいよ？</Dialog>
-          <Dialog>▲高嶺＊＊▲の料理、もっと食べたいなー。</Dialog>
-          <Dialog>ふふっ、了解しました。次回もお楽しみに▼</Dialog>
+          <Dialog>It's very delicious. Wow, you
+really can cook delicious
+food.</Dialog>
+          <Dialog>You can still praise me even
+more？</Dialog>
+          <Dialog>▲高嶺＊＊▲'s
+food is so delicious. I want
+more...</Dialog>
+          <Dialog>Hehe. Roger that. You can look
+forward to it▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1508,16 +1621,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲、どうした？</Dialog>
-          <Dialog>……これ。一緒に食べない？</Dialog>
-          <Dialog>……お弁当？　●の分？</Dialog>
-          <Dialog>いらないなら、一人で食べる。</Dialog>
-          <Dialog>いっ、いる！　いります！</Dialog>
-          <Dialog>えぇと、中華なんだけど、いい？</Dialog>
-          <Dialog>もちろん！　▲高嶺＊＊▲の作った中華か、ウマそう……。</Dialog>
-          <Dialog>感想は、食べてからお願いします。どうぞ？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+What's up？</Dialog>
+          <Dialog>...Here. Shall we eat
+together？</Dialog>
+          <Dialog>...A lunch box？ Is that for
+me？</Dialog>
+          <Dialog>If you don't want it, I'll
+just eat it alone.</Dialog>
+          <Dialog>I want it！ Yes, I want it！</Dialog>
+          <Dialog>Hmm. It's Chinese food though.
+Is it good？</Dialog>
+          <Dialog>Of course！ So
+▲高嶺＊＊▲
+can cook Chinese food...
+Hmm... Looks yummy.</Dialog>
+          <Dialog>Please try it and let me know
+what you think. Here you go.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1607,17 +1729,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲。なに？</Dialog>
-          <Dialog>えぇと。ね、お昼、もう買いに行っちゃった？</Dialog>
-          <Dialog>いや、まだこれから。あれ？　手に持ってるのって。</Dialog>
-          <Dialog>……うん。お弁当、作ってきたの。一緒にいかが？</Dialog>
-          <Dialog>お、サンキュ！　ちなみに、なに？</Dialog>
-          <Dialog>中華。ほら、前にお腹に溜まるものがいいって言ってたでしょう？</Dialog>
-          <Dialog>おお、豪勢だ。ありがたくいただくよ。</Dialog>
-          <Dialog>うん。食べ終わったら、どんな感じだったか教えてね？</Dialog>
-          <Dialog>あなたの好み、知りたいから。</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+What is it？</Dialog>
+          <Dialog>Um, hey... Have you already
+bought your lunch？</Dialog>
+          <Dialog>No, I'm about to. Eh？ What's
+that you're carrying？</Dialog>
+          <Dialog>...Um, it's the lunch I made.
+Shall we eat together？</Dialog>
+          <Dialog>Oh, thank you！ What did you
+make？</Dialog>
+          <Dialog>Chinese food. Hey, you said
+earlier that you like it,
+right？</Dialog>
+          <Dialog>Oh, it looks luxurious. Thank
+you so much.</Dialog>
+          <Dialog>Okay. Let me know how you like
+it after you finish it, okay？</Dialog>
+          <Dialog>I really want to know your
+preferences.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1707,17 +1839,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なに、▲高嶺＊＊▲。</Dialog>
-          <Dialog>お昼、一緒に食べよう？</Dialog>
-          <Dialog>おう。じゃあさ、ちょっと待っててよ。購買にひとっ走り……。</Dialog>
-          <Dialog>行かなくて大丈夫。あなたの分もあるから。</Dialog>
-          <Dialog>弁当？</Dialog>
-          <Dialog>もし中華っていう気分じゃなかったら、購買……。</Dialog>
-          <Dialog>中華！　いいな！</Dialog>
-          <Dialog>ふふっ。そんな顔してくれるなら、気合いを入れて作った甲斐があるかな？</Dialog>
-          <Dialog>じゃあ、食べよっか。食べた感想、聞きたいからしっかり味わってね？</Dialog>
+          <Dialog>What's up？
+▲高嶺＊＊▲.</Dialog>
+          <Dialog>Shall we eat lunch together？</Dialog>
+          <Dialog>Oh, great. Just wait a sec.
+I'll go buy my lunch.</Dialog>
+          <Dialog>You don't have to. I made some
+for you.</Dialog>
+          <Dialog>You made lunch for me？</Dialog>
+          <Dialog>If you're not in the mood for
+Chinese food, you can buy your
+own...</Dialog>
+          <Dialog>Chinese food？ That's great！</Dialog>
+          <Dialog>Hehe. Just seeing your happy
+face makes me feel like it is
+really worth it to cook this.</Dialog>
+          <Dialog>Then shall we start eating？ I
+want to hear your opinion, so
+please savor it, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1772,13 +1913,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>お、中華だ。</Dialog>
+          <Dialog>Oh, it's Chinese food.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>はい、中華です。……どう？</Dialog>
-          <Dialog>うまい！　なんかどんどん上がってる気がする、料理の腕。</Dialog>
-          <Dialog>ふふ。それはスパイスのせいじゃないかな？</Dialog>
-          <Dialog>スパイス？</Dialog>
-          <Dialog>そう、良く言うでしょう？　ふふっ、どんどん食べてね？</Dialog>
+          <Dialog>Yes, it's Chinese food. ...How
+is it？</Dialog>
+          <Dialog>Delicious！ I feel like your
+food is spicing up my spirits.</Dialog>
+          <Dialog>Hehe. That's probably because
+I actually put spices in
+there.</Dialog>
+          <Dialog>Really？</Dialog>
+          <Dialog>Yeah, you can feel them,
+right？ Hehe. You'd better
+hurry and eat it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1828,12 +1975,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>今日のお弁当は、中華です。</Dialog>
+          <Dialog>Today's lunch is Chinese food.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>待ってました！</Dialog>
-          <Dialog>ふふ、調子がいいんだから。……どうかな？　今日のおかず。</Dialog>
-          <Dialog>……うまい！　幸せを感じるウマさ、みたいな？</Dialog>
-          <Dialog>そう言ってもらえる、わたしも幸せ。なんて。</Dialog>
+          <Dialog>I've been waiting！</Dialog>
+          <Dialog>Hehe, you're in such good
+mood. ...How do you think
+about the side dish today？</Dialog>
+          <Dialog>...Very delicious！ It's so
+delicious that I'm full of joy
+now.</Dialog>
+          <Dialog>Hearing you say that, I'm now
+so full of joy too. Yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1883,12 +2035,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん、今日の中華もうまい！</Dialog>
+          <Dialog>Um, today's Chinese food is
+also delicious！</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふ、よかった。</Dialog>
-          <Dialog>でもさ、いつも大変じゃないか？　こんな豪華なお弁当……●は嬉しいけど。</Dialog>
-          <Dialog>ぜんぜん。だって、あなたの笑顔がわたしにとってはご馳走だから。</Dialog>
-          <Dialog>……なんて。ね、次は何が食べたい？</Dialog>
+          <Dialog>Hehe. I'm glad.</Dialog>
+          <Dialog>But, for you to cook such
+wonderful food, it must be
+quite troublesome. I love to
+eat it, but...</Dialog>
+          <Dialog>No problem. Seeing your smile
+when you eat it is the best
+reward for me.</Dialog>
+          <Dialog>...Oh well. Hey, what do you
+want to eat next time？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

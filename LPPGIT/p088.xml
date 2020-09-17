@@ -32,11 +32,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（あ、出かける前にカメラの準備しておくか？）</Dialog>
-          <Dialog>確認しておこう</Dialog>
-          <Dialog>大丈夫だ</Dialog>
-          <Dialog>（写真撮れるように、アルバムの整理もした方がいいかもな）</Dialog>
-          <Dialog>（待ち合わせ時間に、遅れないようにしないとな）</Dialog>
+          <Dialog>(Ah, should I check my
+camera before I head out？)</Dialog>
+          <Dialog>Lets check</Dialog>
+          <Dialog>No need</Dialog>
+          <Dialog>(I better organize my
+album to make space for
+more pictures.)</Dialog>
+          <Dialog>(I shouldn't be late to
+our meeting.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -51,7 +55,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（▲彼女＊＊▲のリクエストだし写真を撮ろう……）</Dialog>
+          <Dialog>(▲彼女＊＊▲
+asked for it, so let's take a
+picture...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

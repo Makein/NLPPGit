@@ -32,11 +32,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>髪、切ってみたんだけど。</Dialog>
+          <Dialog>I just had a haircut...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうみたいだな……。</Dialog>
-          <Dialog>うん。似合ってる</Dialog>
-          <Dialog>ちょっと違うかな……</Dialog>
+          <Dialog>I see...</Dialog>
+          <Dialog>Yeah, that looks good</Dialog>
+          <Dialog>This doesn't look right</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -71,11 +71,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>髪、切ってきたんだけど、何か言うことない？</Dialog>
+          <Dialog>I just had a haircut... Don't
+you have anything to say？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ。えっと……。</Dialog>
-          <Dialog>すごく似合ってるよ</Dialog>
-          <Dialog>●の好みじゃないな</Dialog>
+          <Dialog>Ah, um...</Dialog>
+          <Dialog>You look good</Dialog>
+          <Dialog>I don't like it</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -110,11 +111,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねえ。髪、ショートにしてみたんだけど、どうかな？</Dialog>
+          <Dialog>Hey, my hair is shorter now.
+What do you think？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>うん。ショートもいいな</Dialog>
-          <Dialog>あんまり……</Dialog>
+          <Dialog>Well...</Dialog>
+          <Dialog>Yeah, this looks good</Dialog>
+          <Dialog>This is not good...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -149,11 +151,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>髪、セミロングにしてみたんだけど……。</Dialog>
+          <Dialog>I tried this semi-long
+hairstyle...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうみたいだな……。</Dialog>
-          <Dialog>よく似合ってるよ</Dialog>
-          <Dialog>あまり好きじゃないな</Dialog>
+          <Dialog>Let me see...</Dialog>
+          <Dialog>It suits you well</Dialog>
+          <Dialog>It's not very good...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -188,11 +191,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>髪、セミロングにしてみたんだけど。何か言うことは？</Dialog>
+          <Dialog>I tried this semi-long
+hairstyle... Don't you have
+anything to say？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>いいよ。よく似合ってる</Dialog>
-          <Dialog>●の好みとはズレてるな</Dialog>
+          <Dialog>Well...</Dialog>
+          <Dialog>Nice, it suits you</Dialog>
+          <Dialog>I don't quite like it</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -227,11 +232,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねえねえ。この髪型、どう思う？</Dialog>
+          <Dialog>Hey, hey. What do you think
+about this hairstyle？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>うん。似合ってるよ</Dialog>
-          <Dialog>好みじゃないな……</Dialog>
+          <Dialog>Well...</Dialog>
+          <Dialog>Yeah, you look good</Dialog>
+          <Dialog>I don't like it...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -266,11 +272,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>リンコの髪、けっこう長くなったでしょ。</Dialog>
+          <Dialog>Rinko's hair is much longer
+now, right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん……。</Dialog>
-          <Dialog>すごくよく似合ってるよ</Dialog>
-          <Dialog>でも、似合ってないな</Dialog>
+          <Dialog>Yeah...</Dialog>
+          <Dialog>It really suits you</Dialog>
+          <Dialog>It doesn't suit you</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -305,11 +312,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>髪、伸ばしてみたんだけど、感想ある？</Dialog>
+          <Dialog>My hair is longer now. What's
+your opinion？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>感想？</Dialog>
-          <Dialog>いいと思うぞ</Dialog>
-          <Dialog>らしくないよな</Dialog>
+          <Dialog>Opinion？</Dialog>
+          <Dialog>This is really nice</Dialog>
+          <Dialog>It's not very good</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -344,11 +352,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ほら。髪、伸ばしてみたよ。女の子っぽい？</Dialog>
+          <Dialog>Hey, my hair is longer now. Do
+I look feminine？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ええと……。</Dialog>
-          <Dialog>可愛いよ</Dialog>
-          <Dialog>子供っぽいかな</Dialog>
+          <Dialog>Well...</Dialog>
+          <Dialog>This is so cute</Dialog>
+          <Dialog>You look too childish</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -368,7 +377,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そう。やっぱ、こういうの好きなんだ。そっか。</Dialog>
+          <Dialog>Okay, you like this then. I
+see.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -388,7 +398,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そっか。へへ。ま、気に入らないなんて言ったら、小キックだったけどね！</Dialog>
+          <Dialog>Really？ Hehe. Well, if you
+said that you didn't like it,
+I would kick you！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -408,7 +420,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>へへへ。よかった。これで、リンコの魅力、さらにアップってとこだね！</Dialog>
+          <Dialog>Hehehe. That's good. Now,
+Rinko's charm level is going
+up, right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -428,7 +442,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>えぇっ？　難しいなぁ、もう……。</Dialog>
+          <Dialog>Eh！？ This is very difficult.
+Hah...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -448,7 +463,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ウソ？　好きだと思ったんだけどな……。</Dialog>
+          <Dialog>No way. I thought you would
+like it...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -468,7 +484,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>わかった。じゃあ、もうやめとくね。</Dialog>
+          <Dialog>I see. I won't do this style
+anymore.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -503,11 +520,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>これ、新しい髪型。評価受付中。</Dialog>
+          <Dialog>Here's the new hairstyle. Now,
+evaluation time.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>いいな、そういうの</Dialog>
-          <Dialog>よくないかも</Dialog>
+          <Dialog>Let me see...</Dialog>
+          <Dialog>This is great</Dialog>
+          <Dialog>Not really good</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -542,11 +560,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>これ、どう？　新しい髪型。</Dialog>
+          <Dialog>Here, how is it？ My new
+hairstyle.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>いいな、そういうの</Dialog>
-          <Dialog>よくないかも</Dialog>
+          <Dialog>Let me see...</Dialog>
+          <Dialog>This is great</Dialog>
+          <Dialog>Not really good</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -581,11 +600,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あのさ、髪型変えたんだけど、どう？　ヘン？</Dialog>
+          <Dialog>Say... I changed my hairstyle.
+How is it？ Weird？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>いいな、そういうの</Dialog>
-          <Dialog>よくないかも</Dialog>
+          <Dialog>Let me see...</Dialog>
+          <Dialog>This is great</Dialog>
+          <Dialog>Not really good</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -605,7 +625,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>わかった、覚えとく。しばらくこれにしよっと。</Dialog>
+          <Dialog>I got it. I'll keep it like
+this for a while.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -625,7 +646,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>へへ。そっか、こういうの好きか。</Dialog>
+          <Dialog>Hmm？ Really？ So you like it
+like this.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -645,7 +667,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>やった。へへ、うれしい。</Dialog>
+          <Dialog>Yay！ Hehe. I'm happy.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -665,7 +687,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ちぇっ、なんだ……。</Dialog>
+          <Dialog>Tsk. What...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -685,7 +707,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……じゃあいい！</Dialog>
+          <Dialog>...Never mind！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -705,7 +727,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そっか。うん、そうだよね。</Dialog>
+          <Dialog>Really？ Yeah, I guess.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -740,7 +762,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ちょっと雰囲気変えてみたんだけど……。</Dialog>
+          <Dialog>I wanted to try some changes,
+so...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>そうだな、その髪の色……。</Dialog>
           <Dialog>いいね！</Dialog>
@@ -779,7 +802,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>こういうイメージってどう？　ほれ、感想言ってみ。</Dialog>
+          <Dialog>Do you like my new image？
+Hey, tell me what you think.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>そうだな、その髪の色……。</Dialog>
           <Dialog>いいね！</Dialog>
@@ -862,12 +886,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲!?　その髪の色……。</Dialog>
+          <Dialog>▲小早川＊▲！？
+You changed your hair color...</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>ちょっと雰囲気変えてみたんだけど……。</Dialog>
-          <Dialog>そ、そうだな……。</Dialog>
-          <Dialog>もう最高！</Dialog>
-          <Dialog>さすがに引く</Dialog>
+          <Dialog>Just wanted to change the mood
+a bit...</Dialog>
+          <Dialog>Let me see...</Dialog>
+          <Dialog>This is nice！</Dialog>
+          <Dialog>It's not good！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -907,12 +933,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲!?　その髪の色……。</Dialog>
+          <Dialog>▲小早川＊▲！！
+You changed your hair color...</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>さて、なんか感想ある？</Dialog>
-          <Dialog>そ、そうだな……。</Dialog>
-          <Dialog>もう最高！</Dialog>
-          <Dialog>さすがに引く</Dialog>
+          <Dialog>Hey, tell me what you think.</Dialog>
+          <Dialog>Let me see...</Dialog>
+          <Dialog>This is nice！</Dialog>
+          <Dialog>It's not good！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -952,12 +979,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲!?　その髪の色……。</Dialog>
+          <Dialog>▲小早川＊▲！！
+You changed your hair color...</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>ねぇねぇ、どこかおかしくない？</Dialog>
-          <Dialog>そ、そうだな……。</Dialog>
-          <Dialog>もう最高！</Dialog>
-          <Dialog>さすがに引く</Dialog>
+          <Dialog>Hey, hey. How's Rinko's image
+change？</Dialog>
+          <Dialog>Let me see...</Dialog>
+          <Dialog>This is nice！</Dialog>
+          <Dialog>It's not good！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -977,7 +1006,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ちょっと雰囲気変えてみたんだけど……。</Dialog>
+          <Dialog>Just wanted to change the mood
+a bit...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -997,7 +1027,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>リンコのイメージなんだけどさ。変えてみようかなって思って。</Dialog>
+          <Dialog>Rinko's image has changed
+somehow, right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1017,7 +1048,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねえねえ。リンコ、イメチェンしてみたんだけど。</Dialog>
+          <Dialog>Hey, hey. Rinko tried this
+image change.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1057,12 +1089,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>おとなしい感じにしてみたんだけど……似合うかな？</Dialog>
+          <Dialog>I tried to look more mature.
+Does this look suit me？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ほう、どれどれ。</Dialog>
-          <Dialog>いいね、似合ってるよ</Dialog>
-          <Dialog>あんまり似合ってないな</Dialog>
-          <Dialog>まあまあじゃないかな</Dialog>
+          <Dialog>Hmm, let me see...</Dialog>
+          <Dialog>Yes, this suits you</Dialog>
+          <Dialog>You don't look good</Dialog>
+          <Dialog>It's just so-so, I guess</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1102,12 +1135,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>おとなしい感じの服、好きそうだったから……どうかな？</Dialog>
+          <Dialog>I'm wearing this mature
+looking outfit. What do you
+think？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>見事に●好みだな</Dialog>
-          <Dialog>ちょっとイメージ違うな</Dialog>
-          <Dialog>ああ、いいと思うよ</Dialog>
+          <Dialog>Let me see...</Dialog>
+          <Dialog>I really love this</Dialog>
+          <Dialog>This doesn't look right</Dialog>
+          <Dialog>Ah, I guess it's good</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1147,12 +1182,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>清楚系美少女のリンコって、どうかな？</Dialog>
+          <Dialog>What do you think about this
+neat, lady-like look for
+Rinko？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>よく似合ってるよ</Dialog>
-          <Dialog>キャラが違うよ</Dialog>
-          <Dialog>まあ、いいんじゃない</Dialog>
+          <Dialog>Let me see...</Dialog>
+          <Dialog>You really look good</Dialog>
+          <Dialog>This doesn't suit you</Dialog>
+          <Dialog>Well, I guess it's okay</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1192,12 +1229,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>可愛い服って似合わないかもだけど……。</Dialog>
+          <Dialog>I tried this cute outfit. Does
+it suit me？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ふむ……。</Dialog>
-          <Dialog>これはこれでいいな</Dialog>
-          <Dialog>確かにな</Dialog>
-          <Dialog>好きなの着たらいいよ</Dialog>
+          <Dialog>Hmm...</Dialog>
+          <Dialog>I think this is good</Dialog>
+          <Dialog>It doesn't suit you</Dialog>
+          <Dialog>Just wear what you want</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1237,12 +1275,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>こういうイメージってどう？　ほれ、感想言ってみ。</Dialog>
+          <Dialog>Do you like my new image？
+Hey, tell me what you think.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>可愛い系も似合うな</Dialog>
-          <Dialog>恥ずかしくないか？</Dialog>
-          <Dialog>まあ、いいと思うぞ</Dialog>
+          <Dialog>Let me see...</Dialog>
+          <Dialog>You look cute like this</Dialog>
+          <Dialog>Aren't you embarrassed？</Dialog>
+          <Dialog>Well, I guess it's okay</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1282,12 +1321,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>可愛い感じにまとめてみたんだけど、どう？</Dialog>
+          <Dialog>I tried to look cute. What do
+you think？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>バッチリ！</Dialog>
-          <Dialog>無理がある</Dialog>
-          <Dialog>好きずきじゃないか？</Dialog>
+          <Dialog>Let me see...</Dialog>
+          <Dialog>Perfect！</Dialog>
+          <Dialog>Did you overdo it？</Dialog>
+          <Dialog>It's the matter of taste</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1327,12 +1367,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>カジュアルにしてみました……。</Dialog>
+          <Dialog>I tried this casual outfit...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なるほど。</Dialog>
-          <Dialog>やっぱりよく似合うよ</Dialog>
-          <Dialog>●の好みとは違うなぁ</Dialog>
-          <Dialog>それなりだと思うぞ</Dialog>
+          <Dialog>I see.</Dialog>
+          <Dialog>It suits you well</Dialog>
+          <Dialog>I don't like it</Dialog>
+          <Dialog>Nothing is different...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1372,12 +1412,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>こういう感じの服、好きだったよね？</Dialog>
+          <Dialog>Do you like this style of
+clothing？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>カジュアルが似合うな</Dialog>
-          <Dialog>●の好みじゃないな</Dialog>
-          <Dialog>そこそこいいと思うぞ</Dialog>
+          <Dialog>Let me see...</Dialog>
+          <Dialog>This suits you well</Dialog>
+          <Dialog>I don't like it</Dialog>
+          <Dialog>You look okay</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1417,12 +1458,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねぇ、ほら、カジュアルな感じにしてみたよ。どうかな？</Dialog>
+          <Dialog>Hey, look. I tried this casual
+outfit. How do I look？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>いいね。思った通り</Dialog>
-          <Dialog>あれ、やっぱり違ったか</Dialog>
-          <Dialog>まあ、いいかもな</Dialog>
+          <Dialog>Let me see...</Dialog>
+          <Dialog>Good, you look good</Dialog>
+          <Dialog>Eh？ Something's not right</Dialog>
+          <Dialog>Well, you look okay</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1462,12 +1504,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>たまには、こんな服もいいかなって……。</Dialog>
+          <Dialog>Occasionally, it's good to
+wear something like this,
+huh...？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>おお……。</Dialog>
-          <Dialog>ＯＫ！　すごくいいよ</Dialog>
-          <Dialog>いや、それはヤバイだろ</Dialog>
-          <Dialog>好きにすればいいよ</Dialog>
+          <Dialog>Oh...</Dialog>
+          <Dialog>Yes！ This is great！</Dialog>
+          <Dialog>No, this is terrible</Dialog>
+          <Dialog>Wear whatever you want</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1507,12 +1551,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>こんな感じの服にしてみたんだけど……。ねぇ、なんか言ってってば。</Dialog>
+          <Dialog>I tried this style of
+clothing... Hey, do you have
+anything to say？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そ、そうだな……。</Dialog>
-          <Dialog>ナイス！　●好みだ！</Dialog>
-          <Dialog>少し落ち着け</Dialog>
-          <Dialog>好きにしたらいいよ</Dialog>
+          <Dialog>L-Let me see...</Dialog>
+          <Dialog>Nice！ I love it</Dialog>
+          <Dialog>It's not quite good</Dialog>
+          <Dialog>If you like it, it's fine</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1552,12 +1598,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>どうかな。頑張ってセクシーなの着てきたんだけど。</Dialog>
+          <Dialog>What do you think？ I tried
+this sexy outfit this time.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>むむ。そうだな……。</Dialog>
-          <Dialog>いい！　すごくいい！</Dialog>
-          <Dialog>無理しなくていいよ</Dialog>
-          <Dialog>好きにしたらいいよ</Dialog>
+          <Dialog>Hmm... Let me see...</Dialog>
+          <Dialog>Nice！ This is great！</Dialog>
+          <Dialog>Don't overdo it</Dialog>
+          <Dialog>Just wear what you want</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1577,7 +1624,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そっか。じゃ……これからはこのイメージでいこうかな。</Dialog>
+          <Dialog>I see. Then I'll keep this
+look for a while.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1597,7 +1645,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>うんうん。だったらこれからは、こういう感じの服そろえておくから。</Dialog>
+          <Dialog>Okay, okay. I'll keep wearing
+this style of clothing from
+now on.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1617,7 +1667,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>へへ……よかった。それじゃこれからは、こういう服にするね。</Dialog>
+          <Dialog>Hehe. I'm glad. Then I'll keep
+wearing this style from now
+on.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1637,7 +1689,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そっか……。じゃあ、もう着るのやめよ。</Dialog>
+          <Dialog>I see... Then I'll stop
+wearing this...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1657,7 +1710,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……そうなの!?　うーん、わっかんないなぁ……。</Dialog>
+          <Dialog>...Really！？ Hah... I don't
+quite understand...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1677,7 +1731,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>気に入ってくれると思って着てきたのに。……ちょっとショックかも。</Dialog>
+          <Dialog>I chose this because I thought
+you would like it....This is a
+shock.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1697,7 +1753,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……なんか反応薄い。</Dialog>
+          <Dialog>...What's with that reaction？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1717,7 +1773,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>なに？　ちゃんと感想言ってくれないと、わかんないじゃん。</Dialog>
+          <Dialog>What？ If you don't say what
+you think clearly, how can I
+know？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1737,7 +1795,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……せっかく頑張ってきたのに。張り合いないなぁ。</Dialog>
+          <Dialog>...I really tried my best for
+this. This isn't worth my
+effort at all.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1757,7 +1817,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……ああ、そう。どっちでもいいんだ。</Dialog>
+          <Dialog>...Ah, I see. You don't care
+then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1777,7 +1838,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>無視、ですか……。いいけどね！</Dialog>
+          <Dialog>Are you ignoring me...？ Fine,
+then！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1797,7 +1859,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>頑張ったんだけどな……。</Dialog>
+          <Dialog>I really tried my best...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1837,12 +1899,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>今日の服、どう思う？</Dialog>
+          <Dialog>What do you think about my
+outfit today？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（うん？　いつもと同じ雰囲気の服だよな？）</Dialog>
-          <Dialog>やっぱり似合うな</Dialog>
-          <Dialog>違う感じの服も見たいな</Dialog>
-          <Dialog>それでいいんじゃないか？</Dialog>
+          <Dialog>(Hmm？ It's the same as what
+she usually wears, isn't it？)</Dialog>
+          <Dialog>This suits you well</Dialog>
+          <Dialog>You should try new styles</Dialog>
+          <Dialog>Isn't it okay like this？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1882,12 +1946,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>今日の服だけどさ、なんか感想ある？</Dialog>
+          <Dialog>What do you think about my
+outfit today？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（えーと。いつもと似たような雰囲気の服だよな？）</Dialog>
-          <Dialog>清楚でいいと思うぞ</Dialog>
-          <Dialog>違う服も似合うかもな</Dialog>
-          <Dialog>それでいいんじゃない？</Dialog>
+          <Dialog>(Hmm？ This is similar to what
+she usually wears...)</Dialog>
+          <Dialog>This style is good</Dialog>
+          <Dialog>This doesn't suit you</Dialog>
+          <Dialog>Isn't it okay like this？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1927,12 +1993,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねえ。やっぱり、こういう清楚な感じの服ってさ、今でも好きなの？</Dialog>
+          <Dialog>Hey, do you like this
+neat-and-tidy clothing style？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……そうだな。</Dialog>
-          <Dialog>ああ、好きだよ</Dialog>
-          <Dialog>違う服も見てみたいな</Dialog>
-          <Dialog>何でもいいんじゃないか？</Dialog>
+          <Dialog>...Let me see.</Dialog>
+          <Dialog>Yeah, I like it</Dialog>
+          <Dialog>You should try new styles</Dialog>
+          <Dialog>It doesn't matter, right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1972,12 +2039,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>今日の服ってさ。本当にリンコに似合ってるかな？</Dialog>
+          <Dialog>Do you think this outfit suits
+Rinko？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>もちろん似合ってるぞ</Dialog>
-          <Dialog>雰囲気変えてみようか</Dialog>
-          <Dialog>え？　いいんじゃないか？</Dialog>
+          <Dialog>Let me see...</Dialog>
+          <Dialog>Of course, it suits you</Dialog>
+          <Dialog>You should try new styles</Dialog>
+          <Dialog>Eh？ Isn't it good？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2017,12 +2085,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>今日の服、こんな感じだけどさ。……どう？</Dialog>
+          <Dialog>I tried this outfit today.
+...What do you think？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（今日のはいつもと同じ可愛い系の服だよな？）</Dialog>
-          <Dialog>特にないよ。●好みだ</Dialog>
-          <Dialog>雰囲気変えてほしいな</Dialog>
-          <Dialog>●に言われても</Dialog>
+          <Dialog>(This is the cute style that
+she usually wears.)</Dialog>
+          <Dialog>Yes, I like it</Dialog>
+          <Dialog>You should try new styles</Dialog>
+          <Dialog>It doesn't matter</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2062,12 +2132,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>今日のファッションにさ、何か感想はある？</Dialog>
+          <Dialog>What do you think about my
+fashion today？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（今日の服も可愛い系か）</Dialog>
-          <Dialog>可愛いのが似合ってるよ</Dialog>
-          <Dialog>違う服が似合うかもな</Dialog>
-          <Dialog>特にない</Dialog>
+          <Dialog>(She's wearing a cute outfit
+today.)</Dialog>
+          <Dialog>You look cute in it</Dialog>
+          <Dialog>This doesn't suit you</Dialog>
+          <Dialog>No comment</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2107,12 +2179,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>この服、どうかな？</Dialog>
+          <Dialog>What do you think about this
+outfit？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>やっぱり似合うよ</Dialog>
-          <Dialog>そろそろ飽きたかな</Dialog>
-          <Dialog>いいんじゃない？</Dialog>
+          <Dialog>Let me see...</Dialog>
+          <Dialog>This looks good</Dialog>
+          <Dialog>I'm getting bored of this</Dialog>
+          <Dialog>Isn't it good？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2152,12 +2225,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>さて、なんか感想ある？</Dialog>
+          <Dialog>Well, what's your opinion？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>服か……。</Dialog>
-          <Dialog>似合ってると思うよ</Dialog>
-          <Dialog>イメージ変えたら？</Dialog>
-          <Dialog>よくわからないな</Dialog>
+          <Dialog>About your outfit...？</Dialog>
+          <Dialog>It suits you</Dialog>
+          <Dialog>Try something else</Dialog>
+          <Dialog>I don't know</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2197,12 +2270,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねぇねぇ、どこかおかしくない？</Dialog>
+          <Dialog>Hey, hey. Do I look different
+today？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>カジュアルなのが一番だ</Dialog>
-          <Dialog>そろそろ飽きたかな</Dialog>
-          <Dialog>別に変じゃないぞ</Dialog>
+          <Dialog>Let me see...</Dialog>
+          <Dialog>This casual style is good</Dialog>
+          <Dialog>I'm getting bored of this</Dialog>
+          <Dialog>It's not too weird</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2222,7 +2296,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ふーん。そうなんだ。</Dialog>
+          <Dialog>Hmm... I see.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2242,7 +2316,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ま、そうだよね。へへ。</Dialog>
+          <Dialog>Well, I thought so. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2262,7 +2336,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>へへ。そうだよね。そう言ってくれると思った。</Dialog>
+          <Dialog>Hehe, right？ I already
+thought you'd say that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2282,7 +2357,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そっか。気に入らないんだ。そうかもなーとは思ってたけどね。</Dialog>
+          <Dialog>I see. You didn't like it. I
+thought you would, though.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2302,7 +2378,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>えぇー？　こういうの好きだと思ったから着てきたのに。</Dialog>
+          <Dialog>Eh？ I chose this because I
+thought you would like it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2322,7 +2399,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そっか。じゃあ、もっと頑張ってみるね。</Dialog>
+          <Dialog>I see. Then I'll try harder
+next time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2342,7 +2420,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>それだけ？　まあ、いいんだけど。</Dialog>
+          <Dialog>That's it？ Well, that's fine,
+though.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2362,7 +2441,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そんな答えじゃつまんないって。素直に似合うっていえばいいじゃん。</Dialog>
+          <Dialog>What's with that answer？
+Can't you just honestly say
+that you like it？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2382,7 +2463,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そういう意味じゃなくて！　ああ、いいよ、もう！</Dialog>
+          <Dialog>That's not what I asked you！
+Ah, this is enough！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

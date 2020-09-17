@@ -37,11 +37,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はい、もしもし。▲姉ヶ崎＊▲？</Dialog>
+          <Dialog>Yes, hello.
+▲姉ヶ崎＊▲？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、私。ちょっと話したいんだけど、迷惑だった？</Dialog>
-          <Dialog>まさか、大丈夫だよ。</Dialog>
-          <Dialog>ええっと……。</Dialog>
+          <Dialog>Yes, it's me. Can I talk to
+you now？ Am I bothering you？</Dialog>
+          <Dialog>Not at all. We can talk now.</Dialog>
+          <Dialog>Well...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -81,11 +83,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はい、もしもし。▲姉ヶ崎＊▲？</Dialog>
+          <Dialog>Yes, hello.
+▲姉ヶ崎＊▲？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、私。今、平気？</Dialog>
-          <Dialog>うん、大丈夫。どうしたの？</Dialog>
-          <Dialog>あのね……。</Dialog>
+          <Dialog>Yes, it's me. Can we talk
+now？</Dialog>
+          <Dialog>Yes, of course. What's up？</Dialog>
+          <Dialog>Um...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -125,11 +129,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はい、もしもし。▲姉ヶ崎＊▲？</Dialog>
+          <Dialog>Yes, hello.
+▲姉ヶ崎＊▲？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、私だよ。今大丈夫かな？</Dialog>
-          <Dialog>ううん、大丈夫。</Dialog>
-          <Dialog>えっとね……。</Dialog>
+          <Dialog>Yes, it's me. Are you free to
+talk now？</Dialog>
+          <Dialog>Yes, I'm free.</Dialog>
+          <Dialog>Then...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -149,7 +155,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もし時間があるならでいいけど……今度、デートに行かない？</Dialog>
+          <Dialog>In case you have time, shall
+we go on a date？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -169,7 +176,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ。そっちが誘ってくれないから、こっちからデートのお誘い、しちゃおうと思って。</Dialog>
+          <Dialog>Hehe. Since you didn't ask me,
+I decided to ask you out on a
+date.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -189,7 +198,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今度、デートに行かない？　二人だけでどこかに……ね？</Dialog>
+          <Dialog>Shall we schedule our next
+date？ Is it okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -209,7 +219,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>週末、デートに行かない？　あなたの予定、空いてるといいんだけど。</Dialog>
+          <Dialog>Shall we go on a date this
+weekend？ Do you have free
+time？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -229,7 +241,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>週末、一緒にデートしたいな……って。どうかな？</Dialog>
+          <Dialog>I'm thinking about us going on
+a date this weekend... How's
+that？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -249,7 +263,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私からデートのお誘い。待ち切れなかったんだもの。</Dialog>
+          <Dialog>I couldn't wait, so I decided
+to ask you out on a date.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -269,7 +284,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>予定が空いてれば、だけど……今からどこか行けないかな？</Dialog>
+          <Dialog>If you're free, how about we
+go somewhere now？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -289,7 +305,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もし暇なら、今からどこかに行かないかなって。ふふ。どうかな？</Dialog>
+          <Dialog>In case you're free, shall we
+go somewhere now？ Hehe. What
+do you say？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -309,7 +327,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今からどこかにいかない？　二人で……ね？</Dialog>
+          <Dialog>Shall we go somewhere now？
+Just the two of us, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -329,7 +348,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ここ……なんて、どうかな？</Dialog>
+          <Dialog>What do you think about this
+place...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -373,10 +393,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>うん。いいよ</Dialog>
-          <Dialog>ごめん、予定があるから</Dialog>
-          <Dialog>他の場所にしない？</Dialog>
-          <Dialog>別の日にできない？</Dialog>
+          <Dialog>Okay, sounds good</Dialog>
+          <Dialog>Sorry. I'm so busy</Dialog>
+          <Dialog>Can we change the place？</Dialog>
+          <Dialog>Can we change the day？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -401,9 +421,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん。どこか行きたい場所、ある？</Dialog>
+          <Dialog>Well, do you have a place in
+mind that you wanted to go
+to？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
+          <Dialog>Let me see...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -428,9 +450,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、どこがいい？</Dialog>
+          <Dialog>Then where do you want to go？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
+          <Dialog>Let me see...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -455,9 +477,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うーん……どこか行きたい場所、ある？</Dialog>
+          <Dialog>Hmm... Do you have a place in
+mind that you wanted to go
+to？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
+          <Dialog>Let me see...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -482,9 +506,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、私もそこ、気になってたの。</Dialog>
+          <Dialog>Yeah, I like it there.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>じゃあ、決まりだね。</Dialog>
+          <Dialog>Then it's decided.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -509,9 +533,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうね、いいわ。そこにしましょう？</Dialog>
+          <Dialog>I see. It's good. Let's go
+there.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>じゃあ、決まりだね。</Dialog>
+          <Dialog>Then it's decided.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -536,9 +561,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、私もそこでいいよ。</Dialog>
+          <Dialog>Yeah, I think it's good.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>じゃあ、決まりだね。</Dialog>
+          <Dialog>Then it's decided.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -563,9 +588,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>んー、悪くはないんだけど……。</Dialog>
+          <Dialog>Hmm, I think it's not bad,
+but...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（他の場所にしたほうが良さそうだな……）</Dialog>
+          <Dialog>(I should've chosen a
+different place...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -590,9 +617,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うーん……そこ、今回はちょっと、ナシかな？</Dialog>
+          <Dialog>Well... That place... I don't
+think it's good.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そっか……。</Dialog>
+          <Dialog>I see...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -617,9 +645,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うーん、どうしても……そこがいいの？</Dialog>
+          <Dialog>Well, do you really want to go
+there？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（乗り気じゃないみたいだな……）</Dialog>
+          <Dialog>(She doesn't like it, I
+guess...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -644,9 +674,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あとは……いつがいい？</Dialog>
+          <Dialog>Then... What time shall we
+meet up？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
+          <Dialog>Let me see...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -671,9 +702,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、いつにする？</Dialog>
+          <Dialog>Then what time shall we meet
+up？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
+          <Dialog>Let me see...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -698,9 +730,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>んー、いつがいいかな？</Dialog>
+          <Dialog>Hmm, what time should we meet
+up？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
+          <Dialog>Let me see...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -725,9 +758,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、これで決まり……かな？</Dialog>
+          <Dialog>Yeah, then it's all decided.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだね。</Dialog>
+          <Dialog>Yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -752,9 +785,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これで、あとはデートするだけよ？　ふふ。</Dialog>
+          <Dialog>Now, we just wait for our
+date. Hehe.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだね。</Dialog>
+          <Dialog>Yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -779,9 +813,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ、誘ってよかった。</Dialog>
+          <Dialog>Hehe. I'm glad I asked you.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、ありがとう。</Dialog>
+          <Dialog>Yes, thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -806,9 +840,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ごめんね、こっちから誘ったのに、決めてもらっちゃって。</Dialog>
+          <Dialog>Sorry. I was the one asking
+you but I let you decide
+everything...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ううん、構わないよ。</Dialog>
+          <Dialog>No, I don't mind.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -833,9 +869,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ。今度は行き先だけじゃなくて、最初からあなたに誘って欲しいかな？</Dialog>
+          <Dialog>Hehe. I'll be happy if you ask
+me out for a date next time.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、できるだけそうする。</Dialog>
+          <Dialog>Okay, I'll try to do that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -860,9 +897,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あなたが行き先、決めてくれたんだもの。きっと楽しくなるね？</Dialog>
+          <Dialog>I'm glad you've decided the
+date and time for our date.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、だといいな。</Dialog>
+          <Dialog>Okay. No problem.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -887,9 +925,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ごめんね、急にお願いして。私はできるだけ予定、空けておくから……ね？</Dialog>
+          <Dialog>Sorry for asking you so
+sudden. I'll try to keep my
+schedules free, so...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>誘ってくれたのに……こっちこそ、ごめん。</Dialog>
+          <Dialog>I'm the one who should say
+sorry to you...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -918,9 +959,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっか……残念だけど、仕方ないね。デートはまた今度ってこと、かな？</Dialog>
+          <Dialog>I see... What a pity. I have
+no choice. Maybe we can go on
+a date later then.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今度は●から誘うよ。今日は、ごめん。</Dialog>
+          <Dialog>Next time, I'll be inviting
+you. Sorry about today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -945,9 +989,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>仕方ないよね……うん、急なお願いだったし、いろいろあるよね。</Dialog>
+          <Dialog>It can't be helped then...
+Yeah, I know it was sudden.
+You've got many things to do,
+right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ごめん。デートはまた今度……●から誘うよ。</Dialog>
+          <Dialog>Sorry. Let's go on a date next
+time. I'll be the one inviting
+you then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

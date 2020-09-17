@@ -42,12 +42,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そういえば、もうすぐテストじゃん。</Dialog>
+          <Dialog>It's almost exam time again.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>だな……。</Dialog>
-          <Dialog>ユーウツ。文系科目はいいけどさ、数学とかリンコ苦手だしさ……。</Dialog>
-          <Dialog>教えてあげようか？</Dialog>
-          <Dialog>自分で努力しないとな</Dialog>
+          <Dialog>Yeah...</Dialog>
+          <Dialog>Well, I'm okay with social
+sciences but I'm very bad at
+math...</Dialog>
+          <Dialog>Shall I teach you？</Dialog>
+          <Dialog>Study hard by yourself</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -86,11 +88,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>最近、勉強がはかどんないんだよね……。アンタはどうかなって思ったんだけど……。</Dialog>
+          <Dialog>Lately, I didn't do well with
+my study... How about you...？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、そろそろテストだったな……。</Dialog>
-          <Dialog>それなら一緒にやろうか</Dialog>
-          <Dialog>それじゃ頑張らないとな！</Dialog>
+          <Dialog>Right. It's almost exam
+time...</Dialog>
+          <Dialog>Let's study together then</Dialog>
+          <Dialog>You have to study hard！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -129,11 +133,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あのさ……勉強会ってわけじゃないけど、わかんないところあってさ……放課後とか空いてないかな？</Dialog>
+          <Dialog>Hey... There are some
+materials that I don't quite
+understand in class. I wonder
+if you're free after school...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえばもうすぐテストか……。</Dialog>
-          <Dialog>わかった。一緒にやるか</Dialog>
-          <Dialog>残念だけど空いてないな</Dialog>
+          <Dialog>It's almost exam time, huh？</Dialog>
+          <Dialog>Let's study together then</Dialog>
+          <Dialog>Sorry, I don't have time</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -153,7 +160,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>じゃあさ、あとで家に来てくれる？　待ってるからさ。</Dialog>
+          <Dialog>Then come to my house. I'll be
+waiting.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -173,7 +181,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>じゃさ、学校終わったらリンコの家に来ること。</Dialog>
+          <Dialog>Then come to Rinko's house
+after school.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -193,7 +202,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>それじゃさ、学校終わったらリンコの家で。……よろしくね。</Dialog>
+          <Dialog>Then come to my house after
+school. I'll have to trouble
+you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -213,7 +224,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……このケチ。</Dialog>
+          <Dialog>...Cheapskate！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -233,7 +244,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そーじゃなくて！　……もういいよ。</Dialog>
+          <Dialog>I didn't mean that！
+...Whatever！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -253,7 +265,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>えー、それってリンコより大切な用事なの？</Dialog>
+          <Dialog>Eh？ You have something even
+more important than Rinko！？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -288,11 +301,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あれ、余裕あるじゃん。テスト近いのにさ。</Dialog>
+          <Dialog>Eh？ You still have time to
+have fun？ Exams are getting
+close.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲。そういえばもうすぐテストだったか……。</Dialog>
-          <Dialog>一緒に勉強しようか</Dialog>
-          <Dialog>帰って勉強しないと！</Dialog>
+          <Dialog>▲小早川＊▲.
+It's almost exam time again,
+huh...？</Dialog>
+          <Dialog>Shall we study together？</Dialog>
+          <Dialog>I'll go home and study！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -327,11 +344,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あ、リンコが勉強しようとしてるのに、こんなとこで遊んでる。</Dialog>
+          <Dialog>Ah, Rinko was thinking about
+studying with you but you're
+having fun here.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲。そういえばもうすぐテストだったな……。</Dialog>
-          <Dialog>よかったら教えるぞ</Dialog>
-          <Dialog>早く帰って勉強しろよ</Dialog>
+          <Dialog>▲小早川＊▲.
+Right, it's almost exam time
+again...</Dialog>
+          <Dialog>I can teach you, okay？</Dialog>
+          <Dialog>You go home and study</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -370,11 +391,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あれ、偶然じゃん。……あのさ、この後、時間ある？　わかんないとこあってさ……。</Dialog>
+          <Dialog>Eh？ What a coincidence. Well,
+do you have time after this？
+There's something I don't
+understand...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲。そういえばもうすぐテストか……。</Dialog>
-          <Dialog>わかった。手伝うよ</Dialog>
-          <Dialog>悪い、今回はパス</Dialog>
+          <Dialog>▲小早川＊▲.
+Right, it's almost exam time
+again...</Dialog>
+          <Dialog>Okay, I can help you</Dialog>
+          <Dialog>Sorry, I really can't</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -394,7 +420,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>じゃさ、後で家に来て。</Dialog>
+          <Dialog>Then come to my house after
+this.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -414,7 +441,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>別に頼んでないって。……まあ、いいけどさ。</Dialog>
+          <Dialog>I didn't ask for your help...
+but it's okay.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -434,7 +462,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>頼りになるじゃん。じゃあさ、家で待ってるから。</Dialog>
+          <Dialog>You're reliable. Then I'll be
+waiting at home.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -454,7 +483,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>なんだ、アンタもやばかったのか……はあ。</Dialog>
+          <Dialog>What？ Isn't that terrible？
+*sigh*</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -474,7 +504,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あ、そうくるんだ。薄情者。</Dialog>
+          <Dialog>Ah, is that so？ What a
+cold-hearted guy.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -494,7 +525,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そっか……。じゃあ、また今度。今度は絶対だよ？</Dialog>
+          <Dialog>Really...？ Then maybe next
+time... Next time, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -519,9 +551,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>勉強でわからないとこがあるんだけど、一緒に勉強しない？</Dialog>
+          <Dialog>I have something that I don't
+quite understand. How about we
+study together？</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>じゃ、リンコの部屋で。リンコにも教えてよね、上級生なんだからさ。</Dialog>
+          <Dialog>Then come to Rinko's house.
+You'll teach Rinko, too,
+right？ You're an
+upperclassman, after all.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -546,9 +583,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>勉強でわからないとこがあるんだけど、一緒に勉強しない？</Dialog>
+          <Dialog>I have something that I don't
+quite understand. How about we
+study together？</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>下級生に教わるつもり？　ま、いいけど。リンコの部屋でね。</Dialog>
+          <Dialog>And you need help from an
+underclassman？ Well, that's
+fine. Come to Rinko's house
+then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -573,9 +615,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>勉強でわからないとこがあるんだけど、一緒に勉強しない？</Dialog>
+          <Dialog>I have something that I don't
+quite understand. How about we
+study together？</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>うん、もちろん。リンコの部屋に、おいでよ。</Dialog>
+          <Dialog>Of course, that's okay. Come
+to Rinko's house, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -600,9 +645,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>中入るのは初めてか……じゃ、入って。</Dialog>
+          <Dialog>It's your first time to get in
+my room, right？ Welcome.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、お邪魔します。</Dialog>
+          <Dialog>Okay. Thanks.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -627,9 +673,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>じゃ、入って。言っとくけどさ、不審者は容赦なく捕まるから。</Dialog>
+          <Dialog>Okay, welcome. Let me tell
+you. If you do anything weird,
+I'll get the security guard to
+arrest you.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……お邪魔します。</Dialog>
+          <Dialog>...Okay.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -654,9 +703,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あのさ……中に入るのは……初めてだよね？</Dialog>
+          <Dialog>Say... This is your first time
+to get in my room, right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだね。お邪魔します。</Dialog>
+          <Dialog>Yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -681,9 +731,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……じゃ、入って。</Dialog>
+          <Dialog>...Okay, come on in.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>お邪魔します。</Dialog>
+          <Dialog>Thanks.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -708,9 +758,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>守衛さんには、いちおうカレシって言っとくから。</Dialog>
+          <Dialog>I already told the security
+guard that you're my
+boyfriend.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（不審者扱いか……）</Dialog>
+          <Dialog>(Or they might think that I'm
+a suspicious person？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -735,9 +788,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あのさ、リンコの家、もう慣れた？</Dialog>
+          <Dialog>Hey, you've come to Rinko's
+house quite often, huh？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>まあね……。</Dialog>
+          <Dialog>Yeah...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -762,9 +816,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>部屋見てもいいけど、外に出たら記憶から抹消すること。</Dialog>
+          <Dialog>You can look as much as you
+want, but you have to forget
+everything when you leave.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（無茶な……）</Dialog>
+          <Dialog>(How could I do that...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -789,9 +845,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>金目の物、そんなにないから。</Dialog>
+          <Dialog>I don't have anything valuable
+here.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（泥棒か……）</Dialog>
+          <Dialog>(I'm not a burglar...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -816,9 +873,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>なんか、自分の部屋なのに緊張してきた……。</Dialog>
+          <Dialog>It's my own room, but somehow,
+I'm getting nervous...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（可愛いとこあるな……）</Dialog>
+          <Dialog>(This is your cute side,
+huh...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -838,7 +897,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ほら、キョロキョロしない。</Dialog>
+          <Dialog>Hey, don't look around
+restlessly.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -858,7 +918,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ほら。突っ立ってないで、準備するよ。</Dialog>
+          <Dialog>Hey, let's get ready for
+studying.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -878,7 +939,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>へへ。まだちょっとだけ落ち着かないかも。</Dialog>
+          <Dialog>Hehe. I need to calm myself
+down a bit.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -898,7 +960,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>さて……じゃ、座って。</Dialog>
+          <Dialog>Now then... Have a seat.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -918,7 +980,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ほらほら、早く座って。</Dialog>
+          <Dialog>Hey, come on. Have a seat.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -938,7 +1000,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>じゃ、座ろっか。</Dialog>
+          <Dialog>Then have a seat.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -958,7 +1020,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい、いくよ。</Dialog>
+          <Dialog>Okay, let's start.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -978,7 +1040,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>じゃあ、いくから。</Dialog>
+          <Dialog>Now, we shall start.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -998,7 +1060,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……じゃあ、いくね。</Dialog>
+          <Dialog>...Okay, here we go.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1028,8 +1090,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>これから問題を３つ出すよ。正解だったら、ご褒美もあるかもね。</Dialog>
-          <Dialog>じゃ、スタート！</Dialog>
+          <Dialog>There will be 3 questions. If
+you answer them all correctly,
+you'll get a reward.</Dialog>
+          <Dialog>Now, start！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1049,7 +1113,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>正解。やるじゃん。</Dialog>
+          <Dialog>Correct. You did it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1069,7 +1133,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あ、当たりだ。やるじゃん。</Dialog>
+          <Dialog>Ah, that's correct. You're
+great.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1089,7 +1154,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>うん、正解。すごいね。</Dialog>
+          <Dialog>Yes, correct. So cool.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1109,7 +1174,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>間違い。ダメじゃん。</Dialog>
+          <Dialog>Wrong. This isn't good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1129,7 +1194,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ダメじゃん。はずれ。</Dialog>
+          <Dialog>No, this is wrong.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1149,7 +1214,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>残念。間違いだよ。</Dialog>
+          <Dialog>Too bad. Wrong answer.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1169,7 +1234,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>パスね。まあ、いいけど。</Dialog>
+          <Dialog>Pass, huh？ Fine, though.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1189,7 +1254,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ふぅん。じゃあ、パスで。</Dialog>
+          <Dialog>Hmm. Then we'll pass.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1209,7 +1274,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>わかった。パスだね。</Dialog>
+          <Dialog>Okay, pass.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1229,7 +1294,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい。じゃ、次。</Dialog>
+          <Dialog>Yes. Then, next.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1249,7 +1314,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>それじゃ、次いくよ。</Dialog>
+          <Dialog>Now, the next one.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1269,7 +1334,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>じゃあ、次の問題いくね。</Dialog>
+          <Dialog>Okay, the next question then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1289,7 +1354,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>全問正解か……。じゃあ……ご褒美。</Dialog>
+          <Dialog>All correct... Then... Your
+reward.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1309,7 +1375,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ほんとに全問正解……？　ご褒美か……約束だし。</Dialog>
+          <Dialog>You really got them all
+correct... I promised you a
+reward, right...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1329,7 +1397,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>全問正解だね。じゃあ、リンコからご褒美あげる……。</Dialog>
+          <Dialog>All correct, huh？ Then Rinko
+will give you a reward...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1349,7 +1418,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ご褒美は……これ。</Dialog>
+          <Dialog>Here's your reward...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1369,7 +1438,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……ちょっと待ってて。</Dialog>
+          <Dialog>...Wait a moment.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1389,7 +1458,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ご褒美はなしだね。惜しかったけどさ。</Dialog>
+          <Dialog>I can't give you the reward.
+This is regrettable.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1409,7 +1479,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい、残念。一問間違えたから、ご褒美はなし。</Dialog>
+          <Dialog>Okay, too bad. You didn't get
+all the correct answers. No
+reward.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1429,7 +1501,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>惜しかったけど、これだとご褒美はあげられないよ？</Dialog>
+          <Dialog>This is regrettable, but I
+can't give you any reward.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1449,7 +1522,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>どうする？　もう一回やってあげてもいいけど？</Dialog>
+          <Dialog>It can't be helped. Let's try
+once more.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1469,7 +1543,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あ、もう諦める？</Dialog>
+          <Dialog>Ah, giving up already？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1489,7 +1563,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>しょうがないなー。じゃ、もう一回。</Dialog>
+          <Dialog>What do you wanna do？ I don't
+mind doing this again, though.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1509,7 +1584,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>もう……。全然ダメじゃん。</Dialog>
+          <Dialog>Geez... This is too bad.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1529,7 +1604,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ダメすぎ。ご褒美には程遠いね。</Dialog>
+          <Dialog>You're way too bad to get any
+reward.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1549,7 +1625,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>残念……。ちょっと間違い多かったね。</Dialog>
+          <Dialog>Too bad... You missed too many
+of them.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1589,7 +1666,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あ、やめちゃうんだ？　ふぅん……。</Dialog>
+          <Dialog>Ah, you're giving up？ Hmm...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1609,7 +1686,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>もう……。全然勉強にならないし……。</Dialog>
+          <Dialog>Geez... We didn't study
+much...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1629,7 +1707,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>もう……しょうがないな。ちょっと待ってて。</Dialog>
+          <Dialog>Geez... I have no choice. Just
+wait a moment.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1649,7 +1728,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あのさ……もっとそばに……よらないの？</Dialog>
+          <Dialog>Hey... Do you want to get
+closer to me...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1669,7 +1749,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>なんかさ……足りないよね？</Dialog>
+          <Dialog>Something is quite lacking
+here, huh...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1689,7 +1770,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねぇ……する？</Dialog>
+          <Dialog>Hey... Wanna do it？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1709,7 +1790,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>じっと見るのは、なし……。</Dialog>
+          <Dialog>You're not allowed to stare...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1729,7 +1810,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ご褒美。見せてあげるの、ここでだけだから。</Dialog>
+          <Dialog>This is your exclusive reward.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1749,7 +1830,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>せっかくくれたんだしさ……だったら見る権利くらいはあるだろうし……。</Dialog>
+          <Dialog>I went through the trouble for
+this... So it's your privilege
+to look at me...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1769,7 +1852,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい、ご褒美。ここでお披露目になっちゃった。</Dialog>
+          <Dialog>Okay, the reward. Think of it
+as my debut.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1789,7 +1873,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ご褒美……嬉しい？</Dialog>
+          <Dialog>Your reward... Are you happy？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1809,7 +1893,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ご褒美。オトコってさ、こういうの好き、なんだよね？</Dialog>
+          <Dialog>Your reward. I think most guys
+like something like this,
+right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1829,7 +1915,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ご褒美。こんなリンコ……どう思う？</Dialog>
+          <Dialog>Your reward. What do you think
+when you look at Rinko？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1849,7 +1936,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい。ご褒美タイムおしまい。</Dialog>
+          <Dialog>Okay, time's up for your
+reward.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1869,7 +1957,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ご褒美はここまで！　ああもう、恥ずかしかった！</Dialog>
+          <Dialog>This is it for the reward！
+Argh！ It's embarrassing.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1889,7 +1978,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい。ご褒美おしまい。続きはまた今度だよ。</Dialog>
+          <Dialog>Okay. That's enough. We'll
+continue next time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1909,7 +1999,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>もう一回、問題解いてくれたら、別のも見せてあげるけど？　どうする？</Dialog>
+          <Dialog>If you answer another set of
+questions correctly, I'll show
+you a different costume. How's
+that？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1929,7 +2022,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ＯＫ。じゃあ、もう一回チャレンジ。</Dialog>
+          <Dialog>Okay. Then another round of
+challenge.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1949,7 +2043,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そう。じゃあ、また今度。</Dialog>
+          <Dialog>I see. Then we'll do this
+later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1969,7 +2064,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>頑張ったみたいだしさ、特別……。</Dialog>
+          <Dialog>Since you really tried your
+best, here's a special...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1989,7 +2085,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>特別だからね、こんなの。</Dialog>
+          <Dialog>It's special, you know？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2009,7 +2105,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>特別だよ。これで……やる気、出たよね？</Dialog>
+          <Dialog>This is special... Do you feel
+motivated？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2029,7 +2126,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>しょうがないからさ、はい。これで少しはやる気出るでしょ？</Dialog>
+          <Dialog>It can't be helped... Here.
+Will this motivate you a
+little bit？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2049,7 +2148,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>もう。これでやる気でないなら知らないから。</Dialog>
+          <Dialog>Geez. If this can't motivate
+you, I don't know what will.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2069,7 +2169,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>恥ずかしいんだから……これで、やるき出してよね。</Dialog>
+          <Dialog>It's embarrassing... I hope
+this helps motivate you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2089,7 +2190,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あんまじろじろ見ないの。</Dialog>
+          <Dialog>Don't stare too much.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2109,7 +2210,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>恥ずかしいっつーの。</Dialog>
+          <Dialog>This is embarrassing！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2129,7 +2230,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……なに？</Dialog>
+          <Dialog>...What？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2149,7 +2250,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>似合ってんのかな、これ。</Dialog>
+          <Dialog>Does this suit me？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2169,7 +2270,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>どうなの？　これさ。</Dialog>
+          <Dialog>What do you think about this？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2189,7 +2290,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あぁもう、恥ずかしい。</Dialog>
+          <Dialog>Ah, hey！ It's embarrassing.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2209,7 +2310,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>見過ぎだっつーの。</Dialog>
+          <Dialog>You stare too much！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2229,7 +2330,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねぇ、聞いてんの？</Dialog>
+          <Dialog>Hey, are you listening？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2249,7 +2350,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねぇ、似合う？</Dialog>
+          <Dialog>Hey, does it suit me？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2269,7 +2370,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>こういうの……好きなんだ？</Dialog>
+          <Dialog>Do you like this...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2289,7 +2390,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>なんか……落ち着かないんだけど……。</Dialog>
+          <Dialog>Somehow... I can't feel at
+ease...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2309,7 +2411,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ほら……もういいでしょ……。</Dialog>
+          <Dialog>Hey... Isn't it enough？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2329,7 +2431,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>これだと……罰ゲームみたいじゃん。</Dialog>
+          <Dialog>I feel like I'm punished to
+wear this.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2349,7 +2452,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……じっと見過ぎ……。</Dialog>
+          <Dialog>...You stare too much.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2369,7 +2472,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>いつまで見てんの……ばか……。</Dialog>
+          <Dialog>How long are you going to
+look...？ Idiot...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2389,7 +2493,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そんなとこ見ても面白くないって……。</Dialog>
+          <Dialog>There's nothing interesting
+here...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2409,7 +2514,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>えっ？　何かおかしい？</Dialog>
+          <Dialog>Eh？ Does something look
+weird？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2429,7 +2535,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>もう、何もないってば……。</Dialog>
+          <Dialog>Hey, I said there's nothing
+here...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2449,7 +2556,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>顔、にやけてる……。</Dialog>
+          <Dialog>You're grinning...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2469,7 +2576,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>変なこと考えてない？</Dialog>
+          <Dialog>Don't think about anything
+indecent.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2489,7 +2597,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>こんな格好だけど……いい……？</Dialog>
+          <Dialog>Is this kind of outfit
+okay...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2509,7 +2618,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>服とか……気にならないよね……？</Dialog>
+          <Dialog>You don't care much about my
+outfit, huh...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2529,7 +2639,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>このまま？　そんなの、おかしいって……。</Dialog>
+          <Dialog>Like this, do I look
+strange...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2549,7 +2660,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>それじゃ、今日はこのへんで切り上げよっか。</Dialog>
+          <Dialog>Then this should be it for
+today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2569,7 +2681,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>今日はありがと。けっこう勉強になったと思う。</Dialog>
+          <Dialog>Thank you. I think I've
+learned many things today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2589,7 +2702,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>自信ついた。これならテストいい点取れるかも。</Dialog>
+          <Dialog>Now I'm more confident. I'll
+probably get good grades on
+the exams.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2609,7 +2724,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>今日はほんとにありがとね。この調子なら、テストもがんばれそうかも。</Dialog>
+          <Dialog>Thank you for today. Like
+this, I'm sure I can do my
+best on the exams.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2629,7 +2746,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>いまいち不安かな……。</Dialog>
+          <Dialog>I still feel uneasy about the
+exams...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2649,7 +2767,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>うーん。勉強会の意味なかったかも……。</Dialog>
+          <Dialog>Well... I didn't feel much
+like we were reviewing
+lessons...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2669,7 +2789,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あんまりうまくいかなかったね。どうしよ……。</Dialog>
+          <Dialog>It didn't go well. What should
+I do...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2689,7 +2810,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>勉強……全然はかどらなかったんだけど……？</Dialog>
+          <Dialog>We didn't make much progress
+on our lesson reviews...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2709,7 +2831,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>全然うまくいかなかったじゃん……。むしろ時間の無駄……。</Dialog>
+          <Dialog>It didn't go well... I feel
+like it was such a waste of
+time...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2729,7 +2853,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>さっぱりだった。テスト、すごく不安……。</Dialog>
+          <Dialog>This is not good. Now, I feel
+very uneasy about the exams...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2749,7 +2874,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>もう、こんな時間だし、今日はもう終わり。</Dialog>
+          <Dialog>It's already this late. We
+should stop here.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2779,9 +2905,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>もうこんな時間か……すぐ帰っちゃう？</Dialog>
-          <Dialog>今日はもう帰るよ</Dialog>
-          <Dialog>もう少し一緒にいたいな</Dialog>
+          <Dialog>It's this time already？ Do
+you have to hurry home？</Dialog>
+          <Dialog>I'm going home now</Dialog>
+          <Dialog>I still want to be here</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2801,7 +2928,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そっか。じゃあ……下まで送るから。</Dialog>
+          <Dialog>Okay. I'll see you off then...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2821,7 +2948,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そっか。じゃあ……ちょっと待ってて。</Dialog>
+          <Dialog>Okay. Then... Wait a moment.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2846,9 +2973,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>来てくれてサンキュ。勉強、もうちょっとがんばってみる。</Dialog>
+          <Dialog>Thanks for coming. I'll try my
+best with my study.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、がんばれよ。</Dialog>
+          <Dialog>Ah, do your best.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2873,9 +3001,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>なんか来てもらって悪かったかも。勉強のほうも、あんまりだったし……。</Dialog>
+          <Dialog>Somehow, it wasn't a good idea
+for you to come here. Our
+study didn't go well either...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>悪かった……。</Dialog>
+          <Dialog>Sorry...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2900,9 +3030,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>勉強会っていうより……ちょっとヘンな感じ……。</Dialog>
+          <Dialog>The way we review our lessons
+was a bit weird...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>だな……。</Dialog>
+          <Dialog>Yeah...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

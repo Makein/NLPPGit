@@ -37,11 +37,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はい。もしもし。</Dialog>
+          <Dialog>Yes, hello？</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>あ、リンコだけど。</Dialog>
-          <Dialog>何？</Dialog>
-          <Dialog>えっと……。</Dialog>
+          <Dialog>Ah, it's Rinko.</Dialog>
+          <Dialog>What's the matter？</Dialog>
+          <Dialog>Umm...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -81,11 +81,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はい。もしもし。</Dialog>
+          <Dialog>Yes, hello？</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>あ……リンコだけど。今、いい？</Dialog>
-          <Dialog>いいよ。何？</Dialog>
-          <Dialog>うん。あのさ……。</Dialog>
+          <Dialog>Ah, this is Rinko. Are you
+available now？</Dialog>
+          <Dialog>Yes, I am. What's the matter？</Dialog>
+          <Dialog>Well, umm...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -125,11 +126,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はい。もしもし。</Dialog>
+          <Dialog>Yes, hello？</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>あっ、リンコだけど。今、いいかな？</Dialog>
-          <Dialog>いいよ。何？</Dialog>
-          <Dialog>うん。あのね……。</Dialog>
+          <Dialog>Ah, this is Rinko. Are you
+free？</Dialog>
+          <Dialog>Yes, I am. What's the matter？</Dialog>
+          <Dialog>Okay. Well...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -149,7 +151,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>デートにでも誘ってみようかと。</Dialog>
+          <Dialog>Well, I was thinking if we
+should go on a date.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -169,7 +172,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>今度、リンコがデートしてあげる。</Dialog>
+          <Dialog>This time Rinko is asking you
+out on a date.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -189,7 +193,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>えと、今度デートしない？</Dialog>
+          <Dialog>Um, can we go out on a date？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -209,7 +213,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>週末、デートする？</Dialog>
+          <Dialog>Can we go out on a date this
+weekend？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -229,7 +234,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>週末、どっか行く？</Dialog>
+          <Dialog>Why don't we go somewhere this
+weekend？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -249,7 +255,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あのさ、週末……どうかな？　デート。</Dialog>
+          <Dialog>Well, this weekend... What do
+you think about a date？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -269,7 +276,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>今、ヒマなんだけどさ。</Dialog>
+          <Dialog>Right now, I'm kind of
+available.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -289,7 +297,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>今から出てこれたりする？</Dialog>
+          <Dialog>Can we go out after this？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -309,7 +317,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>今からどっか行かない？</Dialog>
+          <Dialog>Why don't we go somewhere
+after this？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -329,7 +338,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ここでいい？</Dialog>
+          <Dialog>Would here be okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -373,10 +382,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>うん。いいよ</Dialog>
-          <Dialog>都合がつかないな</Dialog>
-          <Dialog>他の場所にしない？</Dialog>
-          <Dialog>別の日にできない？</Dialog>
+          <Dialog>Okay, sounds good</Dialog>
+          <Dialog>Hmm, I don't think I can</Dialog>
+          <Dialog>Can we change the place？</Dialog>
+          <Dialog>Can we change the date？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -401,9 +410,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>行きたいとこある？</Dialog>
+          <Dialog>Do you want to go somewhere
+specific？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うーん、そうだな……。</Dialog>
+          <Dialog>Hmm... Well...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -428,9 +438,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>じゃあさ、どこ？</Dialog>
+          <Dialog>Well then, where？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うーん、そうだな……。</Dialog>
+          <Dialog>Hmm... Well...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -455,9 +465,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>どこでもいいけど？</Dialog>
+          <Dialog>Wherever will do</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うーん、そうだな……。</Dialog>
+          <Dialog>Hmm... Well...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -482,9 +492,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そこでいいけど。</Dialog>
+          <Dialog>That's okay.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>じゃあ、そういうことで。</Dialog>
+          <Dialog>Then it's decided.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -509,9 +519,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>うん。それでいいけど。</Dialog>
+          <Dialog>Yeah, that's okay.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>じゃあ、そういうことで。</Dialog>
+          <Dialog>Then it's decided.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -536,9 +546,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>うん。わかった。</Dialog>
+          <Dialog>Yeah, got it.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>じゃあ、そういうことで。</Dialog>
+          <Dialog>Then it's decided.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -563,9 +573,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>イマイチ……。</Dialog>
+          <Dialog>No...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（やめておくか）</Dialog>
+          <Dialog>(I'd better stop then.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -590,9 +600,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ビミョー……却下。</Dialog>
+          <Dialog>Too weird. Declined.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（他の場所にするか）</Dialog>
+          <Dialog>(I have to change the location
+then.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -617,9 +628,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あのね、別のとこにしない？</Dialog>
+          <Dialog>Hey, how about a different
+location？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうか……。</Dialog>
+          <Dialog>Let me see...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -644,9 +656,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>何日？</Dialog>
+          <Dialog>When？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
+          <Dialog>Let me think...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -671,9 +683,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>何日にする？</Dialog>
+          <Dialog>What day then？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
+          <Dialog>Let me think...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -698,9 +710,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>何日がいい？</Dialog>
+          <Dialog>What day would be good？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
+          <Dialog>Let me think...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -725,9 +737,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>じゃ、ケッテー。</Dialog>
+          <Dialog>Then it's decided.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん。</Dialog>
+          <Dialog>Yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -752,9 +764,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>じゃあ、そういうことで。</Dialog>
+          <Dialog>Okay, it's alright.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん。</Dialog>
+          <Dialog>Yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -779,9 +791,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>やった。すっごく楽しみ。</Dialog>
+          <Dialog>Yay. I can't wait.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、そうだな。</Dialog>
+          <Dialog>Ah, yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -806,9 +818,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>じゃあ、楽しみにしてるから。</Dialog>
+          <Dialog>Then I'll be looking forward
+to it.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ。</Dialog>
+          <Dialog>Okay.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -833,9 +846,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>じゃあ、楽しみにしてるね。</Dialog>
+          <Dialog>Then I'm looking forward to
+it.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ。わかった。</Dialog>
+          <Dialog>Okay, I got it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -860,9 +874,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ありがと、楽しみにしてるね。</Dialog>
+          <Dialog>Thanks. I'll be looking
+forward to it.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ。期待してて。</Dialog>
+          <Dialog>Ah, you can expect something
+good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -887,9 +903,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>じゃあ、しょうがないね。</Dialog>
+          <Dialog>Then it can't be helped.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん。ゴメンな。</Dialog>
+          <Dialog>Yeah. Sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -914,9 +930,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そっか。じゃあいいや。</Dialog>
+          <Dialog>I see. Fine then.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ゴメンな。</Dialog>
+          <Dialog>Sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -941,9 +957,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ごめんね、次はふたりで出かけようね。</Dialog>
+          <Dialog>Sorry. Let's go somewhere
+together next time, okay？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん。そうだな……。</Dialog>
+          <Dialog>Okay then...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

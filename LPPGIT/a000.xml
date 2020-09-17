@@ -247,40 +247,78 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（電話だけで、すぐ採用されてしまった）</Dialog>
-          <Dialog>（春はやっぱり人手不足なんだな……）</Dialog>
-          <Dialog>（ファミレス『デキシーズ』●は今日からここで働くんだな……）</Dialog>
-          <Dialog>さて……まずはどうしたら……。</Dialog>
+          <Dialog>(I've only called, but they
+accepted my application right
+away.)</Dialog>
+          <Dialog>(I guess they're really
+short-handed in spring...)</Dialog>
+          <Dialog>(Family Restaurant "Dixie's".
+I'll be working here from
+today on, huh...？)</Dialog>
+          <Dialog>All right then... What should
+I do first？</Dialog>
           <Dialog>？？？</Dialog>
-          <Dialog>いらっしゃいませー。</Dialog>
-          <Dialog>お客様、おひとりでしょうか？</Dialog>
-          <Dialog>（うわ、キレイな人だな。大人っぽいけど、大学生か？　じゃなくて！）</Dialog>
-          <Dialog>どうなさいました？</Dialog>
-          <Dialog>えっと……●、今日からここでバイトを……。</Dialog>
-          <Dialog>え、あぁ。新人さんね？</Dialog>
-          <Dialog>はい。</Dialog>
-          <Dialog>こっちに来て。</Dialog>
-          <Dialog>従業員は、表の入り口から入っちゃダメよ。</Dialog>
-          <Dialog>すいません……。</Dialog>
-          <Dialog>ふふ、いいわ。初めてなんだもの。</Dialog>
+          <Dialog>Welcome！</Dialog>
+          <Dialog>Mister, are you here by
+yourself？</Dialog>
+          <Dialog>(Whoa, what a beautiful girl！
+She looks mature... Is she a
+college student？ No！ This is
+not the time for this！)</Dialog>
+          <Dialog>How may I help you？</Dialog>
+          <Dialog>Um... I will be working
+part-time here from today
+on...</Dialog>
+          <Dialog>Eh？ Ah, are you a new
+employee？</Dialog>
+          <Dialog>Yes.</Dialog>
+          <Dialog>Please come here.</Dialog>
+          <Dialog>Employees are not allowed to
+use the customers' entrance,
+you know？</Dialog>
+          <Dialog>I'm sorry...</Dialog>
+          <Dialog>Hehe, it's all right. After
+all, it's your first day.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私は姉ヶ崎　寧々（あねがさき　ねね）、よろしくね？</Dialog>
-          <Dialog>▲苗字▲　▲名前▲です。よろしくお願いします。</Dialog>
-          <Dialog>私はここでも学校でも、あなたの１年先輩になるのかな？</Dialog>
-          <Dialog>なんで学校……●、転校してきたばかりなんですけど……。</Dialog>
-          <Dialog>ふふ。ごめんね、店長から聞いたの。私と同じ高校の１年後輩が来るって。</Dialog>
-          <Dialog>そうだったんですか。</Dialog>
-          <Dialog>ん～っ……ちょっと他人行儀かな？</Dialog>
-          <Dialog>なにがですか？</Dialog>
-          <Dialog>敬語。たった１歳しか違わないのに、それだとすごく年上扱いされてるみたいで、ちょっと、ね。</Dialog>
-          <Dialog>すいま……いや、ごめん。ちょっと緊張してて。</Dialog>
-          <Dialog>うん、それそれ。でも、お客様には敬語だよ？</Dialog>
-          <Dialog>うちのお店、そのあたりは厳しいから。ね？</Dialog>
-          <Dialog>はい……じゃなくて、うん。</Dialog>
-          <Dialog>ふふ。じゃあ私は戻るから、ここにいて？　もうすぐ店長が来るはずだから……。</Dialog>
-          <Dialog>うん、ありがとう。</Dialog>
-          <Dialog>ふふ、どういたしまして。</Dialog>
-          <Dialog>（このバイト、楽しくなりそうだな……）</Dialog>
+          <Dialog>I'm Anegasaki Nene, Pleased to
+meet you.</Dialog>
+          <Dialog>I'm ▲苗字▲ ▲名前▲.
+Pleased to meet you, too.</Dialog>
+          <Dialog>In school and at work, I'm
+both a year older than you,
+right？</Dialog>
+          <Dialog>In school...？ But, I have
+just transferred here. How do
+you...</Dialog>
+          <Dialog>Hehe. Sorry, I heard from the
+manager that a junior from my
+high school would come to work
+here.</Dialog>
+          <Dialog>Ah, is that so？</Dialog>
+          <Dialog>Hmm... I guess you're still
+nervous？</Dialog>
+          <Dialog>Why do you say so？</Dialog>
+          <Dialog>The way you speak to me. Even
+though I'm a year older, you
+don't have to be too polite,
+okay？</Dialog>
+          <Dialog>Excuse... No, I'm sorry. I
+guess I'm still a bit nervous.</Dialog>
+          <Dialog>Ah, it's all right. But don't
+forget to be polite to the
+guests.</Dialog>
+          <Dialog>This restaurant is very strict
+when it comes to manners,
+okay？</Dialog>
+          <Dialog>I underst... I mean, okay.</Dialog>
+          <Dialog>Hehe. Alright, I'm heading
+back for now. Can you wait
+here？ The manager should be
+here soon.</Dialog>
+          <Dialog>Okay, thanks.</Dialog>
+          <Dialog>Hehe, you're welcome.</Dialog>
+          <Dialog>(Looks like this part-time job
+will be fun...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -539,41 +577,83 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（電話だけで、すぐ採用されてしまった）</Dialog>
-          <Dialog>（初日から遅刻なんてしたくないし、暑いけど、少し急ぐか……）</Dialog>
-          <Dialog>（ファミレス『デキシーズ』●は今日からここで働くんだな……）</Dialog>
-          <Dialog>えっと、バイトは確かここから入って……。</Dialog>
+          <Dialog>(I've only just called, but
+they accepted my application
+right away.)</Dialog>
+          <Dialog>(I don't want to be late on my
+first day at work. It's hot,
+but I must hurry...)</Dialog>
+          <Dialog>(Family Restaurant "Dixie's".
+I'll be working here from
+today on, huh...？)</Dialog>
+          <Dialog>Um, I guess this is the
+employees' entrance...</Dialog>
           <Dialog>？？？</Dialog>
-          <Dialog>よいしょ……っと。</Dialog>
-          <Dialog>ふぅ……暑いなぁ。こんな日にゴミ出しなんて、もうやんなっちゃう……。</Dialog>
-          <Dialog>あ……。</Dialog>
-          <Dialog>あ……もしかして……今日から入る新人さん？</Dialog>
-          <Dialog>（キレイな人だな……大人っぽくて……じゃなくて！）</Dialog>
-          <Dialog>はい。▲苗字▲　▲名前▲です。</Dialog>
+          <Dialog>All right, then.</Dialog>
+          <Dialog>Hahh... It's so hot. I can't
+handle any more garbage
+disposing on a day like
+this...</Dialog>
+          <Dialog>Um...</Dialog>
+          <Dialog>Ah... Could you be... The new
+employee？</Dialog>
+          <Dialog>(What a beautiful person...
+She looks mature. No！ This is
+not the time for this！)</Dialog>
+          <Dialog>Yes. My name is
+▲苗字▲ ▲名前▲.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私は姉ヶ崎　寧々（あねがさき　ねね）。</Dialog>
-          <Dialog>ふふ、愚痴ってるところ聞かれちゃった。</Dialog>
-          <Dialog>あ、私はあなたの指導係も頼まれてるから、よろしくね？</Dialog>
-          <Dialog>はい、姉ヶ崎さん。</Dialog>
-          <Dialog>バイトも初めてだし、引っ越してきたばかりでわからないことだらけだけど、よろしくお願いします。</Dialog>
-          <Dialog>あ、そうなんだ。</Dialog>
-          <Dialog>……ん～、ちょっと固いかな？</Dialog>
-          <Dialog>そうですか？</Dialog>
-          <Dialog>お客様に敬語を使うのは当たり前だけど……私に対しては普通に話してくれる？</Dialog>
-          <Dialog>でも先輩ですし……。</Dialog>
-          <Dialog>そういうの、ちょっとね。ほら、私って大人びて見えるでしょ？</Dialog>
-          <Dialog>だから、近い歳の人に敬語使われると、何だか……ね？</Dialog>
-          <Dialog>姉ヶ崎さんって、何歳なんですか？</Dialog>
-          <Dialog>あなたと同じ高校の３年生。店長から聞いたの、同じ学校の後輩が来るって。</Dialog>
-          <Dialog>えっ、高校生!?</Dialog>
-          <Dialog>……そうよね。うん、わかってる。みんな必ず驚くもの。</Dialog>
-          <Dialog>いえ、そんなこと……じゃなくて、そうじゃないよ。その、キレイだから、ついすごく年上だって思っただけで。</Dialog>
-          <Dialog>今さらお世辞？</Dialog>
-          <Dialog>まさか。だから、えっと……。</Dialog>
-          <Dialog>じゃあ、今後は敬語禁止ね。それなら許してあげる。</Dialog>
-          <Dialog>努力し……する。</Dialog>
-          <Dialog>ふふ。これからよろしくね。さっ、中に入りましょ。いろいろ説明するから。</Dialog>
-          <Dialog>（このバイト、楽しくなりそうだな……）</Dialog>
+          <Dialog>My name is Anegasaki Nene.</Dialog>
+          <Dialog>Hehe, I guess you overheard me
+mumbling.</Dialog>
+          <Dialog>Ah, I was asked to give you
+guidance. Let's work hard
+together.</Dialog>
+          <Dialog>Okay, Anegasaki-san.</Dialog>
+          <Dialog>This is my first job and I've
+just moved in. I will have to
+learn a lot from you. So
+please take care of me.</Dialog>
+          <Dialog>Ah, right...</Dialog>
+          <Dialog>...Hmm. I think you're too
+formal.</Dialog>
+          <Dialog>Is that so？</Dialog>
+          <Dialog>You should be formal to the
+customers. But you can talk
+normally to me, okay？</Dialog>
+          <Dialog>But you are older...</Dialog>
+          <Dialog>If you say that, I... Look！
+Do I look very old to you？</Dialog>
+          <Dialog>When someone near my age talks
+to me too formally, it just
+makes me feel... You
+understand, right？</Dialog>
+          <Dialog>How old are you then,
+Anegasaki-san？</Dialog>
+          <Dialog>We go to the same high school.
+I'm in 3rd year. The manager
+told me that a junior from my
+school was coming to work
+here.</Dialog>
+          <Dialog>Eh？ You're a high school
+student！？</Dialog>
+          <Dialog>...Yeah. I know. Everyone
+reacts like that.</Dialog>
+          <Dialog>No, it's not... I mean you're
+so pretty. That's why I
+thought you were much older...</Dialog>
+          <Dialog>Now you're flattering me？</Dialog>
+          <Dialog>No. But... Er...</Dialog>
+          <Dialog>Okay, from now on, don't be
+too formal. Then, I'll forgive
+you.</Dialog>
+          <Dialog>Okay... Sure. I'll try.</Dialog>
+          <Dialog>Hehe. Let's work hard
+together. Now, let's get
+inside. I'll explain to you
+what we do here.</Dialog>
+          <Dialog>(Looks like this part-time job
+will be fun...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -798,38 +878,78 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（電話だけで、すぐ採用されてしまった）</Dialog>
-          <Dialog>（ちょっと涼しいな、体あっためるためにも、少し急ぐか……）</Dialog>
-          <Dialog>（ファミレス『デキシーズ』●は今日からここで働くんだな……）</Dialog>
-          <Dialog>（たしかバイトはここから入るんだったな……）</Dialog>
-          <Dialog>失礼しまーす。</Dialog>
-          <Dialog>ん～、やっぱり着慣れないな……。</Dialog>
-          <Dialog>今日からバイトか……●にできるのか、ちょっと不安かも。</Dialog>
+          <Dialog>(I was hired with just one
+phone call...)</Dialog>
+          <Dialog>(It's a bit cold today. I'd
+better hurry.)</Dialog>
+          <Dialog>(Family restaurant "Dixie's".
+I'll be working here starting
+today.)</Dialog>
+          <Dialog>(I guess the employees'
+entrance is here...)</Dialog>
+          <Dialog>Excuse me.</Dialog>
+          <Dialog>Hmm, I guess I'm not used to
+wearing this...</Dialog>
+          <Dialog>A job, huh...？ I feel a bit
+uneasy. Can I really do this？</Dialog>
           <Dialog>？？？</Dialog>
-          <Dialog>あ、いたいた。あなたが新しく入った人？</Dialog>
-          <Dialog>（うわ、隣に。……キレイで大人っぽい人だな……じゃなくて！）</Dialog>
-          <Dialog>ん？　どうしたの？</Dialog>
-          <Dialog>えっと、▲苗字▲　▲名前▲です。よろしくお願いします。</Dialog>
+          <Dialog>Ah, there you are. Are you the
+new employee？</Dialog>
+          <Dialog>(Wow, this girl... She looks
+beautiful and mature... No！
+This is not the time for
+this！)</Dialog>
+          <Dialog>Hm？ What's wrong？</Dialog>
+          <Dialog>Um, I'm
+▲苗字▲ ▲名前▲.
+My pleasure to meet you.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ。私は姉ヶ崎　寧々（あねがさき　ねね）。</Dialog>
-          <Dialog>あなたの指導係だけど、敬語は無しよ？　１歳しか違わないんだし、ね？</Dialog>
-          <Dialog>高校生なんですか？</Dialog>
-          <Dialog>……何歳に見える？</Dialog>
-          <Dialog>だって、すごくキレイだし……大学生ぐらいじゃないかって……。</Dialog>
-          <Dialog>ふふ。お世辞は上手なんだ。じゃあ、フロアを任せても平気かな？</Dialog>
-          <Dialog>お世辞ってわけじゃなくて……。</Dialog>
-          <Dialog>もぅ……本気にしないの。でも、歳の近い人の敬語がイヤなのは本当よ？</Dialog>
-          <Dialog>もちろん、お客様には敬語で話して貰わないといけないけど。</Dialog>
-          <Dialog>……うん、わかった。</Dialog>
-          <Dialog>ふふ……じゃあ、さっそくだけど、仕事の説明するね？</Dialog>
-          <Dialog>秋は季節のメニューも多くて大変だけど、頑張って。</Dialog>
-          <Dialog>あ、はい……じゃなくて、わかった。</Dialog>
-          <Dialog>そんなに引っかかるなら、敬語でもいいよ？</Dialog>
-          <Dialog>ううん、●も引っ越してきたばっかりだから、気楽に話せる人、欲しかったところだし。</Dialog>
-          <Dialog>そうなんだ……じゃあ、まずはお友達から？</Dialog>
-          <Dialog>うん。先輩後輩じゃなくて、友達ってことで。</Dialog>
-          <Dialog>ふふ。これからよろしくね。</Dialog>
-          <Dialog>（このバイト、楽しくなりそうだな……）</Dialog>
+          <Dialog>Hehe, I'm Anegasaki Nene.</Dialog>
+          <Dialog>I'll be looking after you, but
+you don't have to be too
+formal, okay？ I'm just a year
+older.</Dialog>
+          <Dialog>Are you a high school
+student？</Dialog>
+          <Dialog>...How old do I look？</Dialog>
+          <Dialog>Well, you're really
+beautiful... I figured you
+were a college student...</Dialog>
+          <Dialog>Hehe. You're good at flattery.
+I guess you'll be fine to take
+care of the customers, huh？</Dialog>
+          <Dialog>It's not flattery... I...</Dialog>
+          <Dialog>Geez, don't be so serious. But
+I really don't like people
+near my age to talk to me too
+formally, okay？</Dialog>
+          <Dialog>Of course, you need to speak
+formally to the customers,
+though.</Dialog>
+          <Dialog>...Okay, I got it.</Dialog>
+          <Dialog>Hehe... Then I'll start
+explaining the job right away,
+okay？</Dialog>
+          <Dialog>We have many special menus in
+the fall, so it might be
+difficult to remember. You'll
+have to do your best.</Dialog>
+          <Dialog>Ah, yes... I mean... Sure, I
+got it.</Dialog>
+          <Dialog>If it's so much of a burden,
+just speak to me formally
+then.</Dialog>
+          <Dialog>No, Since I just moved here
+recently, it's nice to have
+someone who I can talk
+casually with.</Dialog>
+          <Dialog>Is that so...？ Let's be
+friends then.</Dialog>
+          <Dialog>Yeah. We're not senior and
+junior, but friends.</Dialog>
+          <Dialog>Hehe. Then let's get along.</Dialog>
+          <Dialog>(Looks like this part-time job
+will be fun...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1089,42 +1209,74 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（電話だけで、すぐ採用されてしまった）</Dialog>
-          <Dialog>（う……寒い。初日から遅刻もしたくないし、急ごう……）</Dialog>
-          <Dialog>（ファミレス『デキシーズ』●は今日からここで働くんだな……）</Dialog>
-          <Dialog>うぅ、寒っ……早いとこ中に……。</Dialog>
+          <Dialog>(I've only called, but they
+accepted my application right
+away.)</Dialog>
+          <Dialog>(Urgh, it's cold. It's my
+first day so I don't want to
+be late. I'll hurry...)</Dialog>
+          <Dialog>(Family Restaurant "Dixie's".
+I'll be working here from
+today on, huh...？)</Dialog>
+          <Dialog>Brrr, it's cold... I need to
+hurry inside.</Dialog>
           <Dialog>？？？</Dialog>
-          <Dialog>くしゅん。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>うう……冬の外掃除なんて罰ゲームみたいなものじゃない……もぅ……。</Dialog>
-          <Dialog>あの、すいません。この店の人ですか？</Dialog>
-          <Dialog>あ、はい。入り口はあちらになっています。</Dialog>
-          <Dialog>（大人っぽくてキレイな人だな……じゃなくて！）</Dialog>
-          <Dialog>どうしました？</Dialog>
-          <Dialog>いえ、●、今日からここでバイトを……。</Dialog>
-          <Dialog>え……あぁ、新人さんね？　じゃあ、こっちに。</Dialog>
-          <Dialog>……ここ、店のスタッフルームか……。</Dialog>
-          <Dialog>お待たせ。</Dialog>
-          <Dialog>はい……。</Dialog>
+          <Dialog>Achoo！</Dialog>
+          <Dialog>Hm？</Dialog>
+          <Dialog>Urgh, cleaning outside in the
+winter is like being
+punished... Geez...</Dialog>
+          <Dialog>Um, excuse me. Do you work
+here？</Dialog>
+          <Dialog>Ah, yes. The entrance is right
+over there.</Dialog>
+          <Dialog>(What a beautiful person...
+She looks mature. No！ This is
+not the time for this！)</Dialog>
+          <Dialog>What's wrong？</Dialog>
+          <Dialog>No, I'll be working here
+starting from today.</Dialog>
+          <Dialog>Eh？ Ah, you're the new
+employee？ Then come over
+here.</Dialog>
+          <Dialog>This is the staff room, huh...</Dialog>
+          <Dialog>Sorry for the wait.</Dialog>
+          <Dialog>Yes...</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私は姉ヶ崎　寧々（あねがさき　ねね）。</Dialog>
-          <Dialog>同じ高校の３年生なんだけど、知らないよね？</Dialog>
-          <Dialog>はい。最近引っ越してきました。２年の▲苗字▲　▲名前▲です。</Dialog>
-          <Dialog>えっと……１年先輩なんですか？</Dialog>
-          <Dialog>もぅ……どうせもっと年上なんだと思ったでしょ。</Dialog>
-          <Dialog>すごく大人っぽいから、つい……。</Dialog>
-          <Dialog>敬語をやめるなら、許してあげる。</Dialog>
-          <Dialog>えっ？</Dialog>
-          <Dialog>だから、敬語をやめるの。だって、１歳しか違わないのに敬語だなんて……。</Dialog>
-          <Dialog>すごく年上扱いされてる感じがして、ちょっとイヤなの。</Dialog>
-          <Dialog>そうなんだ……わかった。じゃあ、敬語は無しで。</Dialog>
-          <Dialog>ふふ。素直なんだ。</Dialog>
-          <Dialog>ん～、どうだろ？</Dialog>
-          <Dialog>じゃあ、さっそく新人指導、始めちゃうからね。</Dialog>
-          <Dialog>え……そんな急に？</Dialog>
-          <Dialog>ふふ。ビジネスはスピードよ？</Dialog>
-          <Dialog>そっか……じゃあ、いろいろと迷惑かけると思うけど、よろしく。</Dialog>
-          <Dialog>うん。こちらこそ、よろしくね。</Dialog>
+          <Dialog>I'm Anegasaki Nene...</Dialog>
+          <Dialog>I'm a third year at our high
+school, but you don't know me,
+right？</Dialog>
+          <Dialog>That's right. I moved here
+recently. I'm a second year,
+▲苗字▲　▲名前▲.</Dialog>
+          <Dialog>Umm, so that makes you my
+senior by one year？</Dialog>
+          <Dialog>Geez, I bet you were thinking
+I was much older, right？</Dialog>
+          <Dialog>You look mature, so I just...</Dialog>
+          <Dialog>If you stop speaking formally,
+I'll forgive you.</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>I said, stop speaking
+formally. After all, there's
+only one year difference
+between us...</Dialog>
+          <Dialog>I don't like being treated as
+if I'm a lot older.</Dialog>
+          <Dialog>Is that so...？ I got it. Then
+I'll speak casually.</Dialog>
+          <Dialog>Hehe. You're obedient.</Dialog>
+          <Dialog>Hmm, you think？</Dialog>
+          <Dialog>Then I'll start training you
+right away.</Dialog>
+          <Dialog>Eh...？！ That sudden？</Dialog>
+          <Dialog>Hehe. Speed is everything for
+business, you know？</Dialog>
+          <Dialog>I see... I might cause a bunch
+of trouble, but let's get
+along.</Dialog>
+          <Dialog>Yeah, let's get along.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

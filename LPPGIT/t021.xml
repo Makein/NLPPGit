@@ -32,9 +32,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。一つだけ、聞いていい？</Dialog>
+          <Dialog>▲主人公＊▲.
+May I ask you a question？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、いいけど？</Dialog>
+          <Dialog>Um, yes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -84,12 +85,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>今朝ね、新聞で占いの欄を見たんだけど。</Dialog>
+          <Dialog>This morning, I read a fortune
+telling column in a newspaper.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>へぇ、どうだった？</Dialog>
-          <Dialog>ふふっ、“すべてがうまく行く、大吉”って。</Dialog>
-          <Dialog>お、いいねぇ。そんな予感はある？</Dialog>
-          <Dialog>こうして、あなたと話せてることがもう……ううん、なんでもない。ふふ！</Dialog>
+          <Dialog>Hmm？ And what did it say？</Dialog>
+          <Dialog>Hehe. It said, "Everything
+will go smoothly. You are very
+lucky."</Dialog>
+          <Dialog>Oh, that's good. And did you
+find anything lucky today？</Dialog>
+          <Dialog>Having a chance to talk with
+you like this... No, there's
+nothing. Hehe！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -143,12 +150,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>今朝ね、新聞で占いの欄を見たんだけど。</Dialog>
+          <Dialog>This morning, I read a fortune
+telling column in a newspaper.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>へぇ、どうだった？</Dialog>
-          <Dialog>“流れる水の如し。吉”って。</Dialog>
-          <Dialog>へぇ……なんか哲学っぽいな。</Dialog>
-          <Dialog>ふふっ、ホントだね？　普段と変わらない、いい一日ってことだと思うことにしようっと。</Dialog>
+          <Dialog>Hmm？ And what did it say？</Dialog>
+          <Dialog>It said, "Things go like
+flowing water. You are lucky."</Dialog>
+          <Dialog>Eh...？ It sounds so
+philosophical.</Dialog>
+          <Dialog>Hehe, is that so？ I think
+today will be a good day just
+like the other days.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -203,13 +215,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>今朝ね、新聞で占いの欄を見たんだけど。</Dialog>
+          <Dialog>This morning, I read a fortune
+telling column in a newspaper.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>へぇ、どうだった？</Dialog>
-          <Dialog>“注意すべし、凶”って……。</Dialog>
-          <Dialog>……そっか。まあ、気にすんなって！</Dialog>
-          <Dialog>うん。所詮、占いだもんね？　……されど、占いかもしれないけど。</Dialog>
-          <Dialog>（案外、気にするタイプ？）</Dialog>
+          <Dialog>Hmm？ And what did it say？</Dialog>
+          <Dialog>It said, "Be careful. Today is
+bad."</Dialog>
+          <Dialog>...Really？ Well, don't take
+it too seriously！</Dialog>
+          <Dialog>Yeah... After all, it's just a
+fortune, right？ ...Just let
+it be. It's merely a
+fortune...</Dialog>
+          <Dialog>(She takes these things
+surprisingly seriously.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

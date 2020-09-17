@@ -28,9 +28,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねえ、ちょっといい？</Dialog>
+          <Dialog>Hey, you got a moment？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、なに？</Dialog>
+          <Dialog>Yeah, what is it？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -80,12 +80,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうそう。今日のテレビの占いでね。</Dialog>
+          <Dialog>Well, there was a fortune
+telling program on TV today.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>動物が走るやつ？</Dialog>
-          <Dialog>そう、それそれ。それでタヌキさんが一番だったの。</Dialog>
-          <Dialog>それって……“大吉”？</Dialog>
-          <Dialog>正解！　ふふ。今日はきっといいことあるよね。</Dialog>
+          <Dialog>You mean the one with the
+running animals？</Dialog>
+          <Dialog>Yeah, that one. And the
+raccoon dog was the winner.</Dialog>
+          <Dialog>Which means... "Excellent
+luck"？</Dialog>
+          <Dialog>Correct！ Hehe. There must be
+something good happening
+today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -135,12 +141,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そういえば今日、テレビの占いでね、もうちょっとって感じだったんだ。</Dialog>
+          <Dialog>On the fortune telling program
+today, I feel like it was so
+close.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>テレビの占いって……ああ、あの動物が走るやつ？</Dialog>
-          <Dialog>そう。途中までタヌキさんが一番だったのに逆転されて２位。結局、“中吉”</Dialog>
-          <Dialog>中吉ならよかったほうじゃないかな？</Dialog>
-          <Dialog>うーん。でもそれって普通だから……うーん。</Dialog>
+          <Dialog>The fortune telling
+program...？ Ah, the one with
+the running animals？</Dialog>
+          <Dialog>Yeah. The raccoon dog was the
+leader until midway. In the
+end, it came out second. So,
+it's "Moderate luck" for me.</Dialog>
+          <Dialog>Moderate luck is still nice,
+isn't it？</Dialog>
+          <Dialog>Hmm. But it's just too
+general... Hmm.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -195,13 +210,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あれ？　元気ないみたいだけど、何かあったの？</Dialog>
+          <Dialog>Eh？ You don't look well. Did
+something happen？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん……今日のテレビの占いでね。</Dialog>
-          <Dialog>ああ、あの動物が走るやつ？</Dialog>
-          <Dialog>そう……あれでタヌキさんが逆転負けしちゃったの……。</Dialog>
-          <Dialog>つまり占いの結果がよくなかったのか……。</Dialog>
-          <Dialog>はぁ、今日はおとなしくしていたほうがいいのかな……？</Dialog>
+          <Dialog>Yeah... For today's fortune
+telling program...</Dialog>
+          <Dialog>Ah, the one with the running
+animals？</Dialog>
+          <Dialog>Yeah... The raccoon dog lost
+today...</Dialog>
+          <Dialog>Which means your fortune isn't
+good today...？</Dialog>
+          <Dialog>Hah, I should behave myself
+today, right...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

@@ -104,18 +104,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲ってさ、小さい頃、どんな子だった？</Dialog>
-          <Dialog>小さい頃？　うーん、習い事ばっかり。</Dialog>
-          <Dialog>へぇ……どんなのやってたんだ？</Dialog>
-          <Dialog>水泳でしょ、お習字、ピアノ、バレエ、テニスとあとは……あ、学習塾も。</Dialog>
-          <Dialog>忙しそうだな、そりゃ……親にやらされてたとか？</Dialog>
-          <Dialog>ううん。どっちかって言うと、自分から。</Dialog>
-          <Dialog>だれだれちゃんが習い始めたって聞くと、わたしもやる、って。</Dialog>
-          <Dialog>なんだかね、すごく、がんばってたの。今考えると、おかしいけど。</Dialog>
-          <Dialog>（負けず嫌いだったんだな……わかる気がする）</Dialog>
+          <Dialog>Um, what？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+Say, how were you as a child？</Dialog>
+          <Dialog>When I was a child？ Um... I
+was practicing all the time.</Dialog>
+          <Dialog>Huh...？ What kind of
+practice？</Dialog>
+          <Dialog>Swimming, penmanship, piano,
+ballet, tennis, and... Oh yes,
+I attended prep school as
+well.</Dialog>
+          <Dialog>That sounds really busy... Did
+your parents force you to？</Dialog>
+          <Dialog>No, they didn't. I decided by
+myself.</Dialog>
+          <Dialog>When I heard that some kids
+started doing stuff, I just
+wanted to do it too.</Dialog>
+          <Dialog>Somehow, I really tried my
+best. It's funny when I think
+about myself back then.</Dialog>
+          <Dialog>(You just hated to lose to
+anyone... I kind of understand
+that.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -236,19 +250,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲は家族と仲いいの？</Dialog>
-          <Dialog>いいよ？　お休みの日は、３人でお買い物に行ったりするし。</Dialog>
-          <Dialog>この間もね？　ママと並んで歩いてたら姉妹に間違えられちゃって。</Dialog>
-          <Dialog>へーっ、喜んだろ、お袋さん。</Dialog>
-          <Dialog>うん。そこまでは良かったんだけど……。</Dialog>
-          <Dialog>ママが“私もまだまだいけるのかしら”なんて言うから、パパが拗ねちゃって。</Dialog>
-          <Dialog>大変だったのよ？　最終的には、機嫌が直ったから良かったけど。</Dialog>
-          <Dialog>ラブラブなんだ、高嶺家は。</Dialog>
-          <Dialog>うん、ものすごく。わたしもいつかは、あぁなりたいな……なんて。</Dialog>
-          <Dialog>（うん、うらやましい）</Dialog>
+          <Dialog>Um, what？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+Are you getting along well
+with your family？</Dialog>
+          <Dialog>Yes. On holidays, the three of
+us usually go shopping
+together.</Dialog>
+          <Dialog>The other day, I was walking
+with my mom and someone
+mistook us for sisters.</Dialog>
+          <Dialog>Huh, your mom must be happy
+then.</Dialog>
+          <Dialog>Yes, it was good up to that
+part, but...</Dialog>
+          <Dialog>Mom just said, "I'm still good
+looking, then" and my dad
+started pouting.</Dialog>
+          <Dialog>That was terrible. But in the
+end, we used humor to fix that
+situation, which was good.</Dialog>
+          <Dialog>The Takanes are really deeply
+in love.</Dialog>
+          <Dialog>Yes, pretty much. Someday, I
+want to be like that too...
+Sort of...</Dialog>
+          <Dialog>(Yeah, I'm quite jealous.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -369,20 +398,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲、学校のほうはどう？　最近できた友達とか、いる？</Dialog>
-          <Dialog>最近？　……あ！</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>３年生の先輩なんだけど、すごぉく素敵な人。</Dialog>
-          <Dialog>す、素敵な先輩ね？　聞かせてもらおうか？</Dialog>
-          <Dialog>女の人です。ふふっ！</Dialog>
-          <Dialog>なんだ……。</Dialog>
-          <Dialog>先輩なのに、可愛い感じの人。いつも、にこにこしてるの。ああいう人、男子からもモテるんだろうな。</Dialog>
-          <Dialog>へぇ……●も会ってみたいな！</Dialog>
-          <Dialog>うーん……ダメ。</Dialog>
-          <Dialog>（●、信用されてない？）</Dialog>
+          <Dialog>Um, what？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+How's school？ Have you made
+any new friends lately？</Dialog>
+          <Dialog>Lately？ ...Ah！</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>I've met a third year senior
+who is such a wonderful
+person.</Dialog>
+          <Dialog>A wonderful senior？ Can you
+tell me more about him？</Dialog>
+          <Dialog>She's a female though...
+Teehee...！</Dialog>
+          <Dialog>What...？</Dialog>
+          <Dialog>Although she's older, she's so
+cute. She smiles all the time.
+She's probably popular among
+the guys too.</Dialog>
+          <Dialog>Huh...？ I want to meet her,
+too！</Dialog>
+          <Dialog>Hmm... No.</Dialog>
+          <Dialog>(She doesn't have faith in
+me！？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -486,19 +526,35 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲ってさ、中学のとき、どんなだった？</Dialog>
-          <Dialog>中学生の頃は、今よりちょっとだけ体格が良かったかな。</Dialog>
-          <Dialog>そうなの？</Dialog>
-          <Dialog>お菓子作りがとにかく楽しくて、毎日のように作って食べてたらいつの間にか。</Dialog>
-          <Dialog>そっか。全然そんなふうに見えないけどな。</Dialog>
-          <Dialog>途中でお医者様からストップの指導が入ったの。</Dialog>
-          <Dialog>“若くて新陳代謝が活発な愛花はともかく、これ以上は私たちがダメだ！”ってパパが。</Dialog>
-          <Dialog>そんなに作ってたのか……。</Dialog>
-          <Dialog>今は、ちゃんと加減して作ってるからバッチリよ？　量も質も。ふふ。</Dialog>
-          <Dialog>（親が医者としてストップをかけるなんて、相当だったんだろうな……）</Dialog>
+          <Dialog>Um, what？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+What were you like when you
+were in junior high？</Dialog>
+          <Dialog>When I was in junior high, I
+was chubbier than I am now.</Dialog>
+          <Dialog>Really？</Dialog>
+          <Dialog>I really enjoyed baking back
+then, so I kept cooking and
+kept eating all the time.</Dialog>
+          <Dialog>Really？ I totally can't
+picture that.</Dialog>
+          <Dialog>One day, the doctor asked me
+to stop.</Dialog>
+          <Dialog>Papa even said, "When you are
+young, you still have high
+metabolism. But I can't let my
+Manaka eat any more than
+this."</Dialog>
+          <Dialog>You cooked that much...？</Dialog>
+          <Dialog>I have better control of
+myself for baking now. With
+both quality and quantity.
+Hehe.</Dialog>
+          <Dialog>(Her dad is a doctor. If he
+asked her to stop, it must've
+been quite serious...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -619,19 +675,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲ってさ、小学校の頃は、どんなだった？</Dialog>
-          <Dialog>うーん……素振り、よくしてたかな。</Dialog>
-          <Dialog>素振り？　そりゃまたなんで。</Dialog>
-          <Dialog>初めてお友だちの家にお泊まりに行ったときにね？　『心に残るスポーツアニメ』っていう番組を見たの。</Dialog>
-          <Dialog>もちろんテニスもあって。その主人公の女の子がね？　すごい技を出してたの。必殺なんとかって。あんなの初めて見たから……。</Dialog>
-          <Dialog>やってみたくなったとか？</Dialog>
-          <Dialog>……そんなこと、ないよ？</Dialog>
-          <Dialog>だって、不可能だもん。火がついて、コートに穴の開くようなサーブなんて。</Dialog>
-          <Dialog>……ちゃんと、わかってたんだから。</Dialog>
-          <Dialog>（“本当はやる気満々だった”に２０００点）</Dialog>
+          <Dialog>Um, what？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+What were you like during
+grade school？</Dialog>
+          <Dialog>Well... I was practicing a lot
+of things...</Dialog>
+          <Dialog>Practice, again？ What else
+did you do then？</Dialog>
+          <Dialog>The first time I was allowed
+to sleep over at my friend's,
+I got to watch an anime.</Dialog>
+          <Dialog>It was about a talented female
+tennis player. That was the
+first time I saw something
+like a special smashing skill.</Dialog>
+          <Dialog>And did you try it？</Dialog>
+          <Dialog>...I didn't.</Dialog>
+          <Dialog>It was so impossible. When she
+served, the ball caught fire
+and made a hole in the court.</Dialog>
+          <Dialog>...I knew that it was
+impossible.</Dialog>
+          <Dialog>(I bet that she really wanted
+to try it！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -725,18 +794,36 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲ってさ、いつ頃から、テニスやってたの？</Dialog>
-          <Dialog>物心ついた頃には。両親が二人ともやってたから、自然とわたしも。</Dialog>
-          <Dialog>へーっ。ずいぶん期待されたんじゃない？</Dialog>
-          <Dialog>それが、その頃の話を聞くとね？　上手にボールを打てなくて、悔しくて泣きながら練習してたって。</Dialog>
-          <Dialog>泣きながら……それが今じゃテニス部のエースってわけか。</Dialog>
-          <Dialog>テニススクールを探してくれた、パパとママのおかげ。</Dialog>
-          <Dialog>あと▲高嶺＊＊▲の努力も。</Dialog>
-          <Dialog>それは、もちろん。……なんてね、ふふ▼</Dialog>
-          <Dialog>（負けず嫌いにも年季が入ってるんだな……）</Dialog>
+          <Dialog>Um, what？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+When did you start playing
+tennis？</Dialog>
+          <Dialog>It's natural that I got
+interested in tennis because
+both my parents play it.</Dialog>
+          <Dialog>Hmm. But you're really into
+it, aren't you？</Dialog>
+          <Dialog>Well, when I was a kid, there
+were times that I couldn't
+play well. I cried but I also
+practiced harder.</Dialog>
+          <Dialog>So you kept crying and
+practicing harder until you
+became the ace of the tennis
+club？</Dialog>
+          <Dialog>Papa and Mama also helped find
+a tennis school for me. I'm
+thankful.</Dialog>
+          <Dialog>But you also tried your best,
+right,
+▲高嶺＊＊▲？</Dialog>
+          <Dialog>That's a sure thing. ...I
+guess. Hehe▼</Dialog>
+          <Dialog>(So she has always hated to
+lose ever since she was a kid,
+huh...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

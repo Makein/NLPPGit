@@ -36,11 +36,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そういえば、もうすぐテストだけどお勉強してる？　ね、家でちょっと、復習しない？</Dialog>
+          <Dialog>By the way, the tests are
+coming up. Have you been
+studying？ Hey, how about a
+review session at my house？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲の家で？　そうだな……。</Dialog>
-          <Dialog>うん、しよっか</Dialog>
-          <Dialog>ごめん、今日はちょっと……</Dialog>
+          <Dialog>▲高嶺＊＊▲'s
+house？ Well...</Dialog>
+          <Dialog>Okay. Let's do that</Dialog>
+          <Dialog>Sorry, I can't...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -79,11 +83,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>テストの範囲、発表されたね？　あの、よかったら一緒にお勉強しない？　わたしのお部屋で。</Dialog>
+          <Dialog>You already know what will be
+covered in the tests, right？
+Um, how about we review the
+lessons together in my room？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲の部屋で？　そうだな……。</Dialog>
-          <Dialog>うん、しよう！</Dialog>
-          <Dialog>ごめん、今日は都合が……</Dialog>
+          <Dialog>▲高嶺＊＊▲'s
+room？ Well...</Dialog>
+          <Dialog>Yes, let's do that！</Dialog>
+          <Dialog>I'm not in the mood today</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -122,11 +130,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>テストのお勉強、してる？　わからないところがあったら、高嶺先生が教えてあげるけど？</Dialog>
+          <Dialog>Have you studied for the
+tests？ If you have anything
+you don't understand,
+Manaka-sensei can teach you.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ホントに？　どうしようかな……。</Dialog>
-          <Dialog>お願いします、先生！</Dialog>
-          <Dialog>大丈夫です、先生！</Dialog>
+          <Dialog>Really？ What shall I do...？</Dialog>
+          <Dialog>Please, sensei！</Dialog>
+          <Dialog>I'm fine, sensei！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -146,7 +157,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>じゃあ準備できたら、わたしの家までお願いね？</Dialog>
+          <Dialog>Okay. When you're ready, just
+come to my house.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -166,7 +178,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふっ、良かった。じゃあ、待ってるね？</Dialog>
+          <Dialog>Hehe. That's good. I'll be
+waiting then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -186,7 +199,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふっ、よろしい。学校が終わったら、お願いね？</Dialog>
+          <Dialog>Hehe. Very well. Let's do this
+after school.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -206,7 +220,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そう、残念……じゃあ、また今度ね？</Dialog>
+          <Dialog>I see. Too bad... Then maybe
+next time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -226,7 +241,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そう……ごめんなさい、都合も聞かないで。次は、一緒にできるといいな……。</Dialog>
+          <Dialog>I see. Sorry, I wasn't aware
+that you weren't in the mood.
+Maybe next time...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -246,7 +263,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふぅん、自信満々なお返事。じゃあ今回はそれぞれでお勉強しましょう？</Dialog>
+          <Dialog>Hmm. Very confident in
+yourself, huh？ This time, we
+study on our own then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -285,11 +304,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。ちょうどよかった。ね、このあと一緒にお勉強しない？　一人じゃ集中できなくて……。</Dialog>
+          <Dialog>▲主人公＊▲.
+Nice timing. Hey, how about we
+review the lessons together
+after this？ What do you
+think？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そっか、そろそろテストだもんな。</Dialog>
-          <Dialog>うん、いいよ</Dialog>
-          <Dialog>でもごめん、今日はちょっと</Dialog>
+          <Dialog>Right. The tests are coming
+up...</Dialog>
+          <Dialog>Okay, let's do that</Dialog>
+          <Dialog>Sorry, I can't</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -332,11 +356,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。偶然だね？　ね、もし時間があったらだけど……このあと、一緒にテスト勉強しない？</Dialog>
+          <Dialog>▲主人公＊▲.
+What a coincidence. Hey, if
+you have time, how about we
+study for the tests together？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あー、テスト近いもんな。</Dialog>
-          <Dialog>よし、やろう！</Dialog>
-          <Dialog>ごめん、まだ用事が……</Dialog>
+          <Dialog>Ah, it's almost exams time.</Dialog>
+          <Dialog>All right. Let's do that！</Dialog>
+          <Dialog>Sorry, I really can't...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -375,11 +402,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。ちょうどあなたに連絡しようかなって思ってたの。ね、一緒にお勉強しない？</Dialog>
+          <Dialog>▲主人公＊▲.
+I was about to call you. Hey,
+wanna study together？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、テストが近いからか。そうだな……。</Dialog>
-          <Dialog>よし、いっちょやったるか！</Dialog>
-          <Dialog>ごめん、今日はダメなんだ</Dialog>
+          <Dialog>Ah, the tests are coming up.
+Let me see...</Dialog>
+          <Dialog>Okay, let's do that！</Dialog>
+          <Dialog>Sorry, I can't</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -399,7 +429,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>本当？　ふふっ、よかった。じゃあ、家で待ってるから、準備ができたら来てね？</Dialog>
+          <Dialog>Really？ Hehe, I'm glad. Then
+I'll wait at home. Get ready
+and come see me, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -419,7 +451,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふっ、うれしい。じゃあわたし、家で準備しておくね？　またあとで。</Dialog>
+          <Dialog>Hehe, I'm glad. Then I'll be
+waiting at home. See you
+later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -439,7 +473,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん、やったるか！　なんて。じゃ、あとで家に来てくれる？</Dialog>
+          <Dialog>Yeah, Let's do that！ Well...
+I'll see you at my house,
+okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -459,7 +495,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そうだよね……じゃあ、日を改めて誘うね？　それじゃ。</Dialog>
+          <Dialog>I see... Then I might ask you
+later. Bye now.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -479,7 +516,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あ……そっか。じゃあ、また別の機会に誘うね？　それじゃあ。</Dialog>
+          <Dialog>Ah... I see. Let's wait until
+the next chance then. Bye now.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -499,7 +537,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>えー……。ふふっ、ウソ。残念だけど……次はちゃんと、空けておいてね？</Dialog>
+          <Dialog>Eh？ Hehe. Too bad. ...Next
+time, make yourself available,
+okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -524,9 +564,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>勉強でわからないとこがあるんだけど、一緒に勉強しない？</Dialog>
+          <Dialog>I don't quite understand. How
+about we study together？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>そうなの？　じゃあ、わたしのお部屋でしましょ。</Dialog>
+          <Dialog>Is that so？ Then, you can
+come study at my house.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -551,9 +593,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>勉強でわからないとこがあるんだけど、一緒に勉強しない？</Dialog>
+          <Dialog>I don't quite understand. How
+about we study together？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん、そうしましょ。わたしの、お部屋で。</Dialog>
+          <Dialog>Okay, let's study at my house.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -578,9 +621,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>勉強でわからないとこがあるんだけど、一緒に勉強しない？</Dialog>
+          <Dialog>I don't quite understand. How
+about we study together？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>じゃあ、わたしのお部屋で教えてあげる、なんて。</Dialog>
+          <Dialog>Well, how about I tutor you at
+my house？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -605,9 +650,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>いらっしゃいませ。なんて……。</Dialog>
+          <Dialog>Welcome. Well...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（あー、なんかドキドキするかも……）</Dialog>
+          <Dialog>(Ah, I'm getting a bit
+nervous...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -632,9 +678,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あの……その、楽にしてね？</Dialog>
+          <Dialog>Um... Well... Please make
+yourself at home...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（あー、▲高嶺＊＊▲の緊張が伝わって、●までドキドキする……）</Dialog>
+          <Dialog>(Ah,
+▲高嶺＊＊▲'s
+nervousness makes me feel
+nervous too...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -659,9 +709,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>男の子がお部屋に入るの、初めてなの……緊張しちゃう。</Dialog>
+          <Dialog>This is the first time I
+invited a guy to my room. I'm
+so nervous.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（そんなこと言われたら、●までドキドキするよ……）</Dialog>
+          <Dialog>(Hearing that makes me nervous
+too...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -686,9 +739,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>今日も集中して、お勉強しようね？</Dialog>
+          <Dialog>Let's concentrate and study
+hard, okay？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>おう！</Dialog>
+          <Dialog>Okay！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -713,9 +767,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>たくさん、進められるといいね？</Dialog>
+          <Dialog>I hope we can review a lot of
+lessons today.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>だな、頑張ろう！</Dialog>
+          <Dialog>Yeah. Let's do our best！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -740,9 +795,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>今日は、効率よく、お勉強できたらいいね。</Dialog>
+          <Dialog>I hope we can get some good
+results today.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>だな。</Dialog>
+          <Dialog>Yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -762,7 +818,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もう、キョロキョロしないの。</Dialog>
+          <Dialog>Hey, stop looking at
+everything.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -782,7 +839,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あの、恥ずかしいからあまり見ないでね？</Dialog>
+          <Dialog>Um, I feel embarrassed so
+please don't look around too
+much.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -802,7 +861,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そんなところ、見ないの。ふふっ、仕方ない人。</Dialog>
+          <Dialog>Don't look over there. Hehe,
+you helpless guy.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -822,7 +882,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あ、また見てる。そんなに女の子の部屋が気になるの？　もう。</Dialog>
+          <Dialog>Ah, you're looking again. Are
+you that curious about a
+girl's room？ Geez.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -842,7 +904,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>やっぱり、まだ少し緊張する……。</Dialog>
+          <Dialog>I'm still a little nervous...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -862,7 +924,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>コーヒーお紅茶、お茶お水、今日は何がいい？　ふふ！</Dialog>
+          <Dialog>Coffee, iced tea, hot tea,
+water. What do you like？
+Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -882,7 +946,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>じゃあ座って？　そろそろ始めましょう？</Dialog>
+          <Dialog>Have a seat. Shall we start？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -902,7 +966,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あ、どうぞ座って。</Dialog>
+          <Dialog>Ah, please have a seat.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -922,7 +986,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>はい、どうぞ。楽にしてね？</Dialog>
+          <Dialog>Okay, here you are. Make
+yourself at home.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -942,7 +1007,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>さ、始めるよ。</Dialog>
+          <Dialog>Now, let's start.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -962,7 +1027,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そろそろ、始めるからね。</Dialog>
+          <Dialog>Shall we start now？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -982,7 +1047,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>はい、始めますよ？　ふふ！</Dialog>
+          <Dialog>Okay, time to start. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1006,7 +1071,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>じゃあ、問題出すね？　全問正解でご褒美あげるから、頑張って。</Dialog>
+          <Dialog>Okay, I'll ask questions. If
+you answer them all correctly,
+I'll give you a reward. Do
+your best.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1026,7 +1094,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふっ、正解。</Dialog>
+          <Dialog>Hehe, correct.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1046,7 +1114,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>当たり。すごいね？</Dialog>
+          <Dialog>Exactly. Wonderful.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1066,7 +1134,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふっ、ピンポン▼</Dialog>
+          <Dialog>Hehe. Bingo▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1086,7 +1154,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>不正解です。残念。</Dialog>
+          <Dialog>Incorrect. Too bad.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1106,7 +1174,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>はずれ。惜しいかも。</Dialog>
+          <Dialog>Wrong. How disappointing.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1126,7 +1194,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ブ、ブーです。</Dialog>
+          <Dialog>Boo boo...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1146,7 +1214,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もう、しっかり！</Dialog>
+          <Dialog>Be more serious！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1166,7 +1234,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>んー……もうちょっと考えたら、きっとわかるよ？</Dialog>
+          <Dialog>Hmm... If you stop and think
+about it, you'll finally get
+it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1186,7 +1256,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ほら、ちゃんと復習しておかないから。</Dialog>
+          <Dialog>Hey, you need to be more
+serious about reviewing your
+lessons.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1206,7 +1278,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>はい、じゃあ次の問題ね？</Dialog>
+          <Dialog>Now, the next question.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1226,7 +1298,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>次の問題、行ってもいいかな？</Dialog>
+          <Dialog>Are you ready for the next
+question？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1246,7 +1319,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>では、次の問題です。</Dialog>
+          <Dialog>Okay. Next question.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1266,7 +1339,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>はい、良く出来ました。ご褒美、あげるね？</Dialog>
+          <Dialog>Yes, you did very well. I'll
+give you a reward.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1286,7 +1360,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふ、さすがだね？　じゃあ、ご褒美……ね？</Dialog>
+          <Dialog>Hehe, I expected as much. Now,
+here's a reward... okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1306,7 +1381,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふっ、良く出来ました▼約束どおり、ご褒美あげちゃおうかな。</Dialog>
+          <Dialog>Hehe. Great job▼ As I
+promised, I'll give you a
+reward.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1326,7 +1403,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふっ、ご褒美だよ……。</Dialog>
+          <Dialog>Hehe, now, a reward...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1346,7 +1423,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>少しだけ待ってて……？</Dialog>
+          <Dialog>Can you wait a moment...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1366,7 +1443,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>惜しかったね？　もう少しで、ご褒美なんだけどな？</Dialog>
+          <Dialog>Disappointing, huh？ Just a
+little more, and you'll get
+the reward, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1386,7 +1465,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>惜しいんだけど……ごめんなさい、これじゃあご褒美はあげられない、かな。</Dialog>
+          <Dialog>How disappointing... I'm
+sorry. I won't give you the
+reward...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1406,7 +1487,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>残念！　ご褒美まで、あと一歩、ってところかな？</Dialog>
+          <Dialog>Too bad！ You were so close to
+getting the reward.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1426,7 +1508,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふ、もう１回？</Dialog>
+          <Dialog>Hehe, once more？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1446,7 +1528,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……そう？　あなたがいいなら、それでいいけど。</Dialog>
+          <Dialog>...I see. If that's what you
+want, it's fine.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1466,7 +1549,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>じゃあ、もう１回。</Dialog>
+          <Dialog>Then, once more.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1486,7 +1569,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もう……これじゃ、ご褒美なんて言ってられないよ？</Dialog>
+          <Dialog>Hey... I can't give you a
+reward for this.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1506,7 +1590,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ひょっとして、あまり調子良くない？　大丈夫？</Dialog>
+          <Dialog>Are you not feeling well？ Are
+you okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1526,7 +1611,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ご褒美、あげたいのに……やる気、出そう？</Dialog>
+          <Dialog>I wanted to give you a reward,
+but... Are you serious about
+this？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1546,7 +1633,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>その意気、その意気。ふふ、頑張ろう？</Dialog>
+          <Dialog>That's the spirit. Hehe, do
+your best.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1566,7 +1654,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふぅん……諦めちゃうんだ……。</Dialog>
+          <Dialog>Hmm... Are you giving up？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1586,7 +1674,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……そう。これじゃ、あまり勉強にならないね。</Dialog>
+          <Dialog>...Hey, then you don't want to
+study, huh？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1606,7 +1695,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……もう。じゃあ、おまけしてあげる。……特別なんだからね？</Dialog>
+          <Dialog>...Hey. Then I'll give you a
+bonus. This is specially for
+you, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1626,7 +1717,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>どうしよう……わたし……。</Dialog>
+          <Dialog>What should I do...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1646,7 +1737,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇ、あまり見ないで？</Dialog>
+          <Dialog>Hey, don't stare.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1666,7 +1757,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もっと近づいても……いい？</Dialog>
+          <Dialog>Can I move closer to you？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1686,7 +1777,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>待たせて、ごめんね？</Dialog>
+          <Dialog>Sorry for the wait.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1706,7 +1797,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……こんなの、あなたの前でだけ、だからね？</Dialog>
+          <Dialog>...I can wear this specially
+for you, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1726,7 +1818,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇ、どう？　あなたの期待通りなら、嬉しいんだけど……。</Dialog>
+          <Dialog>Hey, how is it？ If you like
+it, I'll be very happy...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1746,7 +1839,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あなたがプレゼントしてくれた服……ねぇ、他の誰にもナイショだよ？</Dialog>
+          <Dialog>This is what you gave me as a
+present... Hey, don't ever
+tell anyone, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1766,7 +1861,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あなたに、見て欲しいかなって……似合う？</Dialog>
+          <Dialog>I want you to see this... Does
+it suit me？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1786,7 +1882,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……こんなの、好き？　どうかな？</Dialog>
+          <Dialog>...Do you like this？ Let me
+know.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1806,7 +1903,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>喜んで欲しくて……。こんなわたしは、イヤ？</Dialog>
+          <Dialog>I hope you like it... But, do
+I look bad in this？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1826,9 +1924,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>タイムアップ、かな？
-……ハァ、
-まだ、ドキドキしてる……。</Dialog>
+          <Dialog>Time's up, I guess... ...Hah,
+I'm still so nervous.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1848,7 +1945,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ここまで、だよ？　……わたし、すごいことしちゃったね？　恥ずかしい……。</Dialog>
+          <Dialog>It's enough, okay？ I did
+something quite extreme. I'm
+so embarrassed.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1868,7 +1967,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふ、おしまい。すごく、ドキドキしちゃった……。</Dialog>
+          <Dialog>Hehe, that's all. I was really
+nervous...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1888,7 +1988,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……ね、もう１回テストする？　そしたら別の服も見せてあげるけど……。</Dialog>
+          <Dialog>Hey, wanna try another round？
+I'll reward you with a
+different costume...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1908,7 +2010,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……うん、じゃあ、頑張ってね？</Dialog>
+          <Dialog>...Um, then do your best.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1928,7 +2030,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……うん。お楽しみはまた今度、だね？</Dialog>
+          <Dialog>...Okay. Then I'll be looking
+forward to the next time,
+okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1948,7 +2052,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あなた、頑張ってたでしょう？　だから……特別。</Dialog>
+          <Dialog>You did a great job. Here's
+something special for you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1968,7 +2073,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あなたが頑張ってたから、わたしも、って……どうかな？</Dialog>
+          <Dialog>You really did your best, so I
+should do my part too...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1988,7 +2094,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>特別、なんだからね？</Dialog>
+          <Dialog>This is special, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2008,7 +2114,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>これで、やる気を出してくれなかったら……怒っちゃうんだから。</Dialog>
+          <Dialog>If you don't feel motivated to
+study, I'll be very angry...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2028,7 +2135,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>これなら、やる気……出る？　恥ずかしいけど、あなたのためなら……。</Dialog>
+          <Dialog>Do you feel motivated？ It's
+embarrassing, but if it's for
+you...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2052,7 +2161,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>すごく、恥ずかしいよ？　でも……あなたのやる気が出れば、それでいいかなって。</Dialog>
+          <Dialog>This is very embarrassing.
+But, if it will help motivate
+you to study, I guess it's
+okay.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2072,7 +2184,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……ふふ、似合ってる？</Dialog>
+          <Dialog>...Hehe. Does it suit me？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2092,7 +2204,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>やっぱり、恥ずかしいかも……。</Dialog>
+          <Dialog>This is really embarrassing...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2112,7 +2224,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もう、見すぎ、だよ？</Dialog>
+          <Dialog>Hey. You stare too much.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2132,7 +2244,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>こういうの、好き？</Dialog>
+          <Dialog>Do you like this？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2152,7 +2264,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ほら、その……感想は、ないの？</Dialog>
+          <Dialog>Hey, um... What do you think？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2172,7 +2284,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>どうしよう、落ち着かないんだけど……。</Dialog>
+          <Dialog>What should I do？ I can't be
+calm...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2192,7 +2305,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……ねぇ、何か言って……。</Dialog>
+          <Dialog>...Hey. Say something...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2212,7 +2325,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……聞いてる？</Dialog>
+          <Dialog>...Are you listening？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2232,7 +2345,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇってば……もう……。</Dialog>
+          <Dialog>Hey... Come on...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2252,7 +2365,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ずっと、黙ってるつもり？</Dialog>
+          <Dialog>Are you just going to keep
+quiet？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2272,7 +2386,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……ね、少しだけでいいからあっち向いて？　だって……。</Dialog>
+          <Dialog>...Hey, can you look away for
+a while？ Okay...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2292,7 +2407,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……イジワル……。</Dialog>
+          <Dialog>...Naughty.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2312,7 +2427,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇ、もういい？</Dialog>
+          <Dialog>Hey, is this enough？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2332,7 +2447,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そんな風に見られたら、わたし……。</Dialog>
+          <Dialog>If you look at me like that...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2352,7 +2467,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ほら、もうおしまい！　……ね？</Dialog>
+          <Dialog>Hey, this is enough, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2372,7 +2487,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そんなに見ないで？　恥ずかしいよ……。</Dialog>
+          <Dialog>Don't look at me like that.
+It's embarrassing...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2392,7 +2508,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>気になるところでも、ある？</Dialog>
+          <Dialog>Do you like this...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2412,7 +2528,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……どこ見てるの？</Dialog>
+          <Dialog>...Where are you looking at？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2432,7 +2548,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そんな顔で見ないの。もう……バカ。</Dialog>
+          <Dialog>Don't look at me with that
+face. You idiot...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2452,7 +2569,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>じっと見ちゃ、イヤなんだから……。</Dialog>
+          <Dialog>Don't stare. I feel bad...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2472,7 +2589,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇ……このまま……ね？</Dialog>
+          <Dialog>Hey... Just like this, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2492,7 +2609,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>いつもと、違う格好してるからかな？　すごく、ドキドキしてるの、今……。</Dialog>
+          <Dialog>This is probably different
+from my usual outfits. I'm
+getting so nervous.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2512,7 +2631,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……この格好のままでも……嫌いにならないでくれる？</Dialog>
+          <Dialog>...Are you going to hate me if
+I continue wearing this？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2532,7 +2652,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん、今日はここまで、かな？</Dialog>
+          <Dialog>Okay, this is it for today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2552,7 +2672,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>これなら、テストでもいい結果、出せそうだね？</Dialog>
+          <Dialog>With this, you'll get good
+test results for sure.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2572,7 +2693,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>バッチリだったよ？　ふふ、本当に。</Dialog>
+          <Dialog>You did perfectly, huh？ Hehe,
+it's true.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2592,7 +2714,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>これなら、安心。先生した甲斐があったかな？　なんて。</Dialog>
+          <Dialog>With this, you can rest
+assured. I wonder if this was
+worth the effort teaching you.
+Just kidding.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2612,7 +2737,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>悪くはなかったけど……もう少し、かな？</Dialog>
+          <Dialog>It wasn't bad but... Shouldn't
+you put some more effort？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2632,7 +2758,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あなたなら、もう少しいい結果が出せると思う。頑張ろ？</Dialog>
+          <Dialog>I think you can do a little
+better than this. Try harder,
+okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2652,7 +2780,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふむ。もう少し頑張りましょう、って感じかな？　なんて。</Dialog>
+          <Dialog>Hm, you'd better try harder,
+okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2672,7 +2801,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ちょっとだけ……ううん、かなり、不安かも。</Dialog>
+          <Dialog>You should study harder... No,
+I guess I just feel a bit
+uneasy.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2692,7 +2823,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>えぇと……もう少し、真剣にお勉強したほうがいいんじゃないかな？</Dialog>
+          <Dialog>Um... I think you should be
+more serious when you study.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2712,7 +2844,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>先生、不安……。</Dialog>
+          <Dialog>Now, I'm not too sure...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2732,7 +2864,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もうこんな時間……お開きの時間、かな……。</Dialog>
+          <Dialog>It's already this late... I
+think we should stop here...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2762,9 +2895,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ね、どうする？　……帰っちゃう？</Dialog>
-          <Dialog>そうだな、帰るよ</Dialog>
-          <Dialog>もう少し、一緒にいようか</Dialog>
+          <Dialog>Hey, what's after this？ Going
+home？</Dialog>
+          <Dialog>Yeah. I'm going home.</Dialog>
+          <Dialog>I'll stay a little longer.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2784,7 +2918,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……そっか。うん、そうだよね？</Dialog>
+          <Dialog>...Is that so？ Um, I guess.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2804,7 +2938,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>本当？　じゃあ、少しだけ待っててくれる？</Dialog>
+          <Dialog>Really？ Then, can you wait
+for me just a bit？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2829,9 +2964,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>今日はありがとう。あなたとお勉強できて、良かった。</Dialog>
+          <Dialog>Thanks for today. I'm glad I
+was able to study with you.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●も。こちらこそ、ありがとな。</Dialog>
+          <Dialog>I'm so glad too. Thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2856,9 +2992,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>今日は、ありがとう……。</Dialog>
+          <Dialog>Thanks for today...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ごめんな、あんまり集中できなくて……。</Dialog>
+          <Dialog>I'm sorry, I wasn't able to
+concentrate much...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2883,9 +3020,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ちょっとおかしなお勉強会になっちゃったね？</Dialog>
+          <Dialog>We had such a strange study
+session, eh？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>時々なら、こういうのもいいんじゃないか？</Dialog>
+          <Dialog>Something like this is good
+every once in a while, right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

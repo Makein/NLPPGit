@@ -202,32 +202,51 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうだ。あなたって、どういうタイプの女の子が好きなの？</Dialog>
+          <Dialog>Ah, right. What type of girl
+do you like？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●の好きなタイプ？　んー、一言で言うと……。</Dialog>
-          <Dialog>知的で強気な女の子</Dialog>
-          <Dialog>優しくて積極的な女の子</Dialog>
-          <Dialog>▲姉ヶ崎＊▲だよ</Dialog>
-          <Dialog>知的で強気なタイプって、けっこう好きかな。</Dialog>
-          <Dialog>頭がよくて、言うこともはっきり言って？</Dialog>
-          <Dialog>そう、それ。そういう感じ。</Dialog>
-          <Dialog>たまには、いじめられちゃったりとか？</Dialog>
-          <Dialog>まぁ、そうなるかな？</Dialog>
-          <Dialog>へぇ、そうか、いじめてもいいのね。</Dialog>
-          <Dialog>（あ、あれ……？）</Dialog>
-          <Dialog>優しくて積極的なタイプ、かな？</Dialog>
-          <Dialog>ワガママも聞いてくれちゃうような？</Dialog>
-          <Dialog>そうそう、そういう感じ。</Dialog>
-          <Dialog>じゃあ、やっぱり年上ってことなのかな？</Dialog>
-          <Dialog>そういうことに……なるかな。</Dialog>
-          <Dialog>そっか。あんまり気にしなくてもいいのかな……。</Dialog>
-          <Dialog>（……？）</Dialog>
-          <Dialog>今の▲姉ヶ崎＊▲みたいな人、かな？</Dialog>
-          <Dialog>……え？</Dialog>
-          <Dialog>落ち着いてて、大人っぽくてさ。</Dialog>
-          <Dialog>あ……うん、そっか。わかった。ありがと。</Dialog>
-          <Dialog>……ごめん、ちょっと自分でも恥ずかしかった。</Dialog>
-          <Dialog>ふふ……私も、ちょっと恥ずかしい……かな？</Dialog>
+          <Dialog>The type of girl that I like？
+Hmm, if I have to say...</Dialog>
+          <Dialog>Intellectual and strong</Dialog>
+          <Dialog>Kind and positive</Dialog>
+          <Dialog>Just like
+▲姉ヶ崎＊▲</Dialog>
+          <Dialog>I think I like an intellectual
+and strong girl.</Dialog>
+          <Dialog>Like a smart girl who likes to
+say what she wants？</Dialog>
+          <Dialog>Yeah, yeah. That kind of girl.</Dialog>
+          <Dialog>Who sometimes likes to tease
+you？</Dialog>
+          <Dialog>Well, I guess so.</Dialog>
+          <Dialog>Hmm？ I see. So some teasing
+would be fine, huh？</Dialog>
+          <Dialog>(E-Eh...？)</Dialog>
+          <Dialog>The kind and positive type, I
+think.</Dialog>
+          <Dialog>The type that usually does
+whatever you ask？</Dialog>
+          <Dialog>Right, right. Something like
+that.</Dialog>
+          <Dialog>Then would an upperclassman be
+okay？</Dialog>
+          <Dialog>For that... I guess it's okay.</Dialog>
+          <Dialog>I see. So I shouldn't have
+been worried then...</Dialog>
+          <Dialog>(...？)</Dialog>
+          <Dialog>Just like
+▲姉ヶ崎＊▲,
+I think.</Dialog>
+          <Dialog>...Eh？</Dialog>
+          <Dialog>I mean the calm and mature
+type.</Dialog>
+          <Dialog>Ah... Um, I see. I got it.
+Thanks.</Dialog>
+          <Dialog>...Sorry, I feel a little
+embarrassed to say that.</Dialog>
+          <Dialog>Hehe... Me, too. I think I
+feel a little embarrassed,
+too.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -362,25 +381,37 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ところでさ、本当はどんなタイプの女の子が好みなの？</Dialog>
+          <Dialog>By the way, can you tell me
+honestly what type of girl you
+like？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>本当って……うーん、好きなタイプか……。</Dialog>
-          <Dialog>優しくて大人しい女の子</Dialog>
-          <Dialog>▲姉ヶ崎＊▲だよ</Dialog>
-          <Dialog>優しくて大人しいタイプかな？　あんまり騒々しいのは、ちょっとさ。</Dialog>
-          <Dialog>落ち着いてて、大人っぽくて？</Dialog>
-          <Dialog>それそれ、そういうの。</Dialog>
-          <Dialog>んー、だったらあのままでも良かったのか……。</Dialog>
-          <Dialog>え、何が？</Dialog>
-          <Dialog>なんでもないよ、もう。</Dialog>
-          <Dialog>（少し怒ってる？）</Dialog>
-          <Dialog>今の▲姉ヶ崎＊▲みたいなのが、好みのタイプかな……。</Dialog>
-          <Dialog>えっ？</Dialog>
-          <Dialog>はっきりしてて、感情をぶつけられる感じとかさ。</Dialog>
-          <Dialog>たまにイジめられちゃっても？</Dialog>
-          <Dialog>そういうのも含めてさ。</Dialog>
-          <Dialog>ふぅん、そうなんだ……うん、答えてくれてありがと。</Dialog>
-          <Dialog>？　どういたしまして。</Dialog>
+          <Dialog>Honestly...？ Hmm, the type
+that I like is...</Dialog>
+          <Dialog>Kind and obedient</Dialog>
+          <Dialog>Just like
+▲姉ヶ崎＊▲</Dialog>
+          <Dialog>The kind and obedient type, I
+think. I don't like a
+boisterous girl.</Dialog>
+          <Dialog>So, you like a calm and mature
+girl？</Dialog>
+          <Dialog>Right, right.</Dialog>
+          <Dialog>Hmm, then will it be fine like
+this...？</Dialog>
+          <Dialog>Eh？ What？</Dialog>
+          <Dialog>Never mind. Geez.</Dialog>
+          <Dialog>(Is she a little angry？)</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.
+You are my type...</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>You usually express your
+feelings clearly.</Dialog>
+          <Dialog>You don't mind that I tease
+you sometimes？</Dialog>
+          <Dialog>That's fine.</Dialog>
+          <Dialog>Hmm, I see... Okay, thanks for
+your answer.</Dialog>
+          <Dialog>...？ You're welcome.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -528,25 +559,41 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そう言えば……あなたの好きなタイプって、どういうの？</Dialog>
+          <Dialog>By the way, what type of girl
+do you like？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●の好きなタイプ？　んー、そうだなあ……。</Dialog>
-          <Dialog>優しくて大人しい女の子</Dialog>
-          <Dialog>▲姉ヶ崎＊▲だよ</Dialog>
-          <Dialog>優しくて、大人しい子が好きかな？</Dialog>
-          <Dialog>ふぅん……。</Dialog>
-          <Dialog>なにニヤニヤしてるの？</Dialog>
-          <Dialog>ううん。意外と、主導権握りたいほうなんだなって。</Dialog>
-          <Dialog>●が？　そうかな？</Dialog>
-          <Dialog>ふふ。優しくて大人しい子でしょ？　あなたがリードすることになるんじゃない？</Dialog>
-          <Dialog>たしかに、そうかも。</Dialog>
-          <Dialog>そっか、そういうのでいいんだ。</Dialog>
-          <Dialog>今の▲姉ヶ崎＊▲が理想的、かな。</Dialog>
-          <Dialog>もう……そんなお世辞言って……。</Dialog>
-          <Dialog>お世辞じゃないよ。優しくて包容力があってさ、やっぱそういう人が好きだな。</Dialog>
-          <Dialog>そっか、そうなんだ。</Dialog>
-          <Dialog>ちょっと言うのが恥ずかしかったけど。</Dialog>
-          <Dialog>ふふ。照れてるの、カワイかったよ？</Dialog>
+          <Dialog>My type？ Well, let me
+think...</Dialog>
+          <Dialog>The kind and obedient type, I
+think.</Dialog>
+          <Dialog>Just like
+▲姉ヶ崎＊▲</Dialog>
+          <Dialog>The type that usually does
+whatever you ask？</Dialog>
+          <Dialog>Hmm...</Dialog>
+          <Dialog>Why are you smiling？</Dialog>
+          <Dialog>No, I've just never imagined
+you as the type that likes to
+take the lead.</Dialog>
+          <Dialog>Really？</Dialog>
+          <Dialog>Hehe, kind and obedient, huh？
+So, you like a girl who always
+follows your lead, right？</Dialog>
+          <Dialog>Yes, I think so.</Dialog>
+          <Dialog>I see. Then that's fine.</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.
+You're my ideal woman, I
+think.</Dialog>
+          <Dialog>Geez... Don't flatter me like
+that...</Dialog>
+          <Dialog>I didn't flatter you. You are
+kind and broad-minded. I
+really like this kind of girl.</Dialog>
+          <Dialog>Okay, I see.</Dialog>
+          <Dialog>It's kind of embarrassing to
+say this though.</Dialog>
+          <Dialog>Hehe. Are you embarrassed？
+You're so cute.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -736,32 +783,49 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（あれ、▲姉ヶ崎＊▲だ……）</Dialog>
+          <Dialog>(Eh？ That's
+▲姉ヶ崎＊▲...)</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うっ……、ぐす……。</Dialog>
-          <Dialog>（泣いてる!?）</Dialog>
-          <Dialog>▲姉ヶ崎＊▲。</Dialog>
-          <Dialog>あっ。</Dialog>
-          <Dialog>どうしたの？　何かあった？</Dialog>
-          <Dialog>ううん、違うの。映画が……。</Dialog>
-          <Dialog>映画？</Dialog>
-          <Dialog>今観てきた映画に感動しちゃって……思い出したらまた泣けてきちゃった。</Dialog>
-          <Dialog>そっか。▲姉ヶ崎＊▲って、登場人物に感情移入する方？</Dialog>
-          <Dialog>普段はあんまり……今回のは特別かな。</Dialog>
-          <Dialog>へぇ、なんで？</Dialog>
-          <Dialog>なんでって……それは、秘密。</Dialog>
-          <Dialog>えー。</Dialog>
-          <Dialog>でも思い出して泣いちゃうなんて、相当いい映画だったんだな。</Dialog>
-          <Dialog>うん、すっごく。</Dialog>
-          <Dialog>どんな映画？</Dialog>
-          <Dialog>純愛ものだよ。生徒に恋をした女教師の話。</Dialog>
-          <Dialog>そっか、その教師に感情移入しちゃったんだ。</Dialog>
-          <Dialog>う、うん。そう、かな。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>だから、その話は……。</Dialog>
+          <Dialog>*sniff*... *sniff*...</Dialog>
+          <Dialog>(Is she crying！？)</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>Ah！</Dialog>
+          <Dialog>What's the matter？ Did
+something happen？</Dialog>
+          <Dialog>No, it's not like that. The
+movie...</Dialog>
+          <Dialog>Movie？</Dialog>
+          <Dialog>I was so impressed with the
+movie I just saw... When I
+thought about it, I started
+crying.</Dialog>
+          <Dialog>I see. So
+▲姉ヶ崎＊▲,
+do you feel sympathy for the
+characters in that movie？</Dialog>
+          <Dialog>Usually, I'm not like this.
+But this time, it's different.</Dialog>
+          <Dialog>Eh？ Why？</Dialog>
+          <Dialog>Why...？ It's... a secret.</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>A movie that can make you cry
+just by thinking about it...
+It must be a good movie.</Dialog>
+          <Dialog>Yes, very good！</Dialog>
+          <Dialog>What kind of movie is it？</Dialog>
+          <Dialog>It's about pure love. A female
+teacher has fallen in love
+with her student.</Dialog>
+          <Dialog>I see. So you feel sympathy
+with that teacher？</Dialog>
+          <Dialog>U-Um... Maybe so...</Dialog>
+          <Dialog>Hmm？</Dialog>
+          <Dialog>Because the story is...</Dialog>
           <Dialog>▲姉ヶ崎＊▲？</Dialog>
-          <Dialog>あ、私もう行くね。こんな顔だし。じゃあね。</Dialog>
-          <Dialog>（なんで慌てたんだ？）</Dialog>
+          <Dialog>Ah, I have to go. My face is a
+mess now. Bye.</Dialog>
+          <Dialog>(Why did she panic like
+that？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -886,24 +950,36 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（……よし、フロア落ち着いたな。休憩しよう）</Dialog>
+          <Dialog>(...Okay, not many customers
+now. I'll take a break.)</Dialog>
           <Dialog>？？？</Dialog>
-          <Dialog>よし、ネネちゃん可愛い！　これならカレもメロメロだよね!?</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>あ、▲姉ヶ崎＊▲か。</Dialog>
+          <Dialog>Okay, Nene-chan. You're so
+cute！ He'll surely fall madly
+in love with you！</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>Ah,
+▲姉ヶ崎＊▲？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えっ!!　今の、聞いてた？</Dialog>
-          <Dialog>まぁ、なんとなく。何してたの？</Dialog>
-          <Dialog>えっと、その……そう！　身だしなみのチェック。制服とか、髪とか。</Dialog>
-          <Dialog>あぁ、接客業だもんな。</Dialog>
-          <Dialog>う、うん。もちろん、そう。</Dialog>
-          <Dialog>でも、なんかメロメロがどうとか……。</Dialog>
-          <Dialog>そ、それは……。</Dialog>
-          <Dialog>それは？</Dialog>
-          <Dialog>それは……ほら、お客様をメロメロにしないとね！</Dialog>
-          <Dialog>え……？</Dialog>
-          <Dialog>わ、私もう行くから！　じゃあね！</Dialog>
-          <Dialog>（なんかおかしいような？）</Dialog>
+          <Dialog>Eh！？ Did you hear that？！</Dialog>
+          <Dialog>Um, somehow... What were you
+doing？</Dialog>
+          <Dialog>Well, um... Right！ It was an
+appearance check！ Like
+checking the uniform, and
+hair, and stuff.</Dialog>
+          <Dialog>Ah, that's important for a
+restaurant, right？</Dialog>
+          <Dialog>Y-Yeah. Of course, it is.</Dialog>
+          <Dialog>But, then... What about
+falling madly in love...？</Dialog>
+          <Dialog>T-That's...</Dialog>
+          <Dialog>That's...？</Dialog>
+          <Dialog>That's... a reminder that we
+can't fall madly in love with
+the customers！</Dialog>
+          <Dialog>Eh...？</Dialog>
+          <Dialog>Ah, I have to go！ See you！</Dialog>
+          <Dialog>(Something is strange...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1058,26 +1134,46 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、今日も頑張って働くか！</Dialog>
+          <Dialog>Okay, I'll keep working hard
+again today！</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲、どうかした？</Dialog>
-          <Dialog>あのね、ちょっとお願いがあるんだけど？</Dialog>
-          <Dialog>▲姉ヶ崎＊▲が、●に？　珍しいな、何？</Dialog>
-          <Dialog>もとは私が店長から頼まれたんだけど……。</Dialog>
-          <Dialog>……どう、お願いできるかな？</Dialog>
-          <Dialog>いいよ。▲姉ヶ崎＊▲は他にも色々やってるしさ。</Dialog>
-          <Dialog>ありがとう。やっぱり頼もしくなってきたよね。</Dialog>
-          <Dialog>あ、やっぱり？　●ももう一人前だな。</Dialog>
-          <Dialog>もう、調子にのっちゃって。</Dialog>
-          <Dialog>だったら、他にも色々お願いしちゃおうかな。</Dialog>
-          <Dialog>え？</Dialog>
-          <Dialog>アレに、コレに……楽ができて助かるなぁ。</Dialog>
-          <Dialog>お、おう。任せてよ。</Dialog>
-          <Dialog>ふふ、冗談よ。でも最近頑張ってるからご褒美あげよっかなぁ。</Dialog>
-          <Dialog>ご、ご褒美!?</Dialog>
-          <Dialog>……変なこと考えた？　そんな子にはご褒美はなし。</Dialog>
-          <Dialog>えー。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>▲姉ヶ崎＊▲,
+what's up？</Dialog>
+          <Dialog>Well, I have a favor to ask of
+you.</Dialog>
+          <Dialog>▲姉ヶ崎＊▲
+is asking for my help？ This
+is rare. What is it？</Dialog>
+          <Dialog>The manager asked me to do
+this, but...</Dialog>
+          <Dialog>...How is it？ Can you help？</Dialog>
+          <Dialog>Fine. I know
+▲姉ヶ崎＊▲
+already has plenty of things
+to take care of.</Dialog>
+          <Dialog>Thanks. You've become
+reliable, huh？</Dialog>
+          <Dialog>Ah, really？ Now, I've become
+such an able man.</Dialog>
+          <Dialog>Hey, don't get ahead of
+yourself.</Dialog>
+          <Dialog>But, maybe I shall ask you to
+help with something else, too.</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>There's this... And that... If
+you can do them all, that will
+be helpful.</Dialog>
+          <Dialog>O-Oh, leave them to me.</Dialog>
+          <Dialog>Hehe, I'm kidding. But, you've
+been working hard lately.
+Maybe I should give you a
+reward.</Dialog>
+          <Dialog>A reward！？</Dialog>
+          <Dialog>...Are you imagining something
+perverted？ A kid like this
+doesn't deserve a reward then.</Dialog>
+          <Dialog>Eh！？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1247,28 +1343,45 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さぁ、休憩だ。</Dialog>
+          <Dialog>Okay, time for a break.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>熱っ！</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲、どうかした!?</Dialog>
-          <Dialog>ううん、なんでもないの。コーヒーが熱かっただけ。</Dialog>
-          <Dialog>なんだ、びっくりした。</Dialog>
-          <Dialog>私、猫舌なの。おどろかせちゃってごめんね。</Dialog>
-          <Dialog>へぇ、意外。完璧な▲姉ヶ崎＊▲がね。</Dialog>
-          <Dialog>猫舌ぐらいで、そんな……。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲の弱点見つけちゃった！</Dialog>
-          <Dialog>そういうこと言うんだ、可愛くないぞ。</Dialog>
-          <Dialog>●もたまには仕返ししないと。</Dialog>
-          <Dialog>ふぅん……。</Dialog>
-          <Dialog>あなたこの前、自分のミスオーダーのピザ、勝手に食べてたわよね。</Dialog>
-          <Dialog>なんでそれを……。</Dialog>
-          <Dialog>あとその制服、先週から洗ってないでしょ。店長にバレたら怒られちゃうよ？</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>もっとあるけど、聞きたい？</Dialog>
-          <Dialog>えっと……●、仕事に戻るから！</Dialog>
-          <Dialog>あははっ。</Dialog>
-          <Dialog>それじゃ！</Dialog>
+          <Dialog>So hot！</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>▲姉ヶ崎＊▲,
+what's up？</Dialog>
+          <Dialog>No, it's nothing. This coffee
+is just too hot.</Dialog>
+          <Dialog>Is that so？ I was startled.</Dialog>
+          <Dialog>I can't handle hot food. Sorry
+if I scared you.</Dialog>
+          <Dialog>Hmm？ That's unexpected from a
+perfect woman like
+▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>Just because I can't handle
+hot food...？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲
+has weak points, too！ I've
+found one！</Dialog>
+          <Dialog>Saying it like that, you
+aren't cute at all.</Dialog>
+          <Dialog>Occasionally, it's my turn to
+retaliate.</Dialog>
+          <Dialog>Hmph...</Dialog>
+          <Dialog>Earlier, there was a wrong
+order for a pizza, and you
+secretly ate it.</Dialog>
+          <Dialog>How did you...</Dialog>
+          <Dialog>And you haven't washed your
+uniform since last week,
+right？ The manager will be
+very angry if he knows this.</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>There are more. Do you want to
+hear？</Dialog>
+          <Dialog>Hmm... I'm going back to
+work！</Dialog>
+          <Dialog>Ahaha！</Dialog>
+          <Dialog>Bye now！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1467,33 +1580,49 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（▲姉ヶ崎＊▲がいる……）</Dialog>
-          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>(▲姉ヶ崎＊▲
+is there...)</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。おでかけ？</Dialog>
-          <Dialog>ま、そんなとこ。そっちは？</Dialog>
-          <Dialog>そんなとこ。あ……ボタン取れかかってるの、みっけ。</Dialog>
-          <Dialog>ほんとだ。まぁいいや、取っちゃえ。</Dialog>
-          <Dialog>あ、待って！</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>ちょっとじっとしてて。</Dialog>
-          <Dialog>（うわ……）</Dialog>
-          <Dialog>（近い……）</Dialog>
-          <Dialog>もう、だらしがないぞ。</Dialog>
-          <Dialog>（やっぱ美人だよな、▲姉ヶ崎＊▲は）</Dialog>
-          <Dialog>これぐらい、言えばつけてあげるのに。</Dialog>
-          <Dialog>（おまけにこれだけ優しくしてくれる……）</Dialog>
-          <Dialog>（面倒見がいいよな）</Dialog>
-          <Dialog>……よし、と。はい、できました。</Dialog>
-          <Dialog>ありがと。▲姉ヶ崎＊▲って裁縫も得意なんだな。</Dialog>
-          <Dialog>そんなことないよ。女の子だもん、普通だよ。</Dialog>
-          <Dialog>でも、あっという間だったな。</Dialog>
-          <Dialog>何？　もっとくっついてて欲しかった？</Dialog>
-          <Dialog>そ、そんなんじゃ。</Dialog>
-          <Dialog>ふふ、カワイイ▼</Dialog>
-          <Dialog>それじゃ、お姉さんはもう行くから。気をつけてね？</Dialog>
-          <Dialog>あぁ、それじゃ。</Dialog>
-          <Dialog>（子供扱いされてしまった）</Dialog>
+          <Dialog>▲主人公＊▲.
+Are you about to leave？</Dialog>
+          <Dialog>Yeah, how about you？</Dialog>
+          <Dialog>Me, too. Ah... You button is
+falling off, see？</Dialog>
+          <Dialog>You're right. It's okay,
+though. Just leave it like
+that.</Dialog>
+          <Dialog>Ah, wait！</Dialog>
+          <Dialog>...Huh？</Dialog>
+          <Dialog>Stay still for a moment.</Dialog>
+          <Dialog>(Whoa...)</Dialog>
+          <Dialog>(She's so close...)</Dialog>
+          <Dialog>Hey, stay still.</Dialog>
+          <Dialog>(▲姉ヶ崎＊▲
+really is such a beautiful
+girl.)</Dialog>
+          <Dialog>For something like this, you
+could've asked for my help.</Dialog>
+          <Dialog>(She's so caring...)</Dialog>
+          <Dialog>(Also, she's very good at
+taking care of things...)</Dialog>
+          <Dialog>...All right. It's done.</Dialog>
+          <Dialog>Thanks.
+▲姉ヶ崎＊▲,
+you're good at sewing, too.</Dialog>
+          <Dialog>No, I'm a woman, so this is
+just natural.</Dialog>
+          <Dialog>But, you got it done in no
+time.</Dialog>
+          <Dialog>What？ You wanted me to stay
+like that longer then？</Dialog>
+          <Dialog>N-No, I didn't.</Dialog>
+          <Dialog>Hehe, so cute▼</Dialog>
+          <Dialog>Now, this big sister has to
+get going. Be careful on your
+way home, okay？</Dialog>
+          <Dialog>Okay, bye.</Dialog>
+          <Dialog>(She treated me like a kid.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1658,29 +1787,35 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>お疲れ様でしたー。</Dialog>
-          <Dialog>（さて、帰るか……）</Dialog>
-          <Dialog>いてっ！</Dialog>
+          <Dialog>Good work！</Dialog>
+          <Dialog>(Okay, time to go home...)</Dialog>
+          <Dialog>Ouch！</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あっ！</Dialog>
-          <Dialog>ごめんね！　大丈夫？</Dialog>
-          <Dialog>いてて……。</Dialog>
-          <Dialog>あ、鼻血。</Dialog>
-          <Dialog>ほんとだ……。</Dialog>
-          <Dialog>ちょっと横になって。</Dialog>
-          <Dialog>え？</Dialog>
-          <Dialog>▲姉ヶ崎＊▲!?</Dialog>
-          <Dialog>頭高くして。私が鼻おさえておいてあげるから。</Dialog>
-          <Dialog>いいよ。こんなの鼻にティッシュでもつめとけば……。</Dialog>
-          <Dialog>だーめ、それだと抜くときまた傷つけちゃうんだよ。</Dialog>
-          <Dialog>う、うん……。</Dialog>
-          <Dialog>ふふ。</Dialog>
-          <Dialog>いいから、少し大人しくしてなさい？</Dialog>
-          <Dialog>わかった。</Dialog>
-          <Dialog>ふふ、いい子よ？</Dialog>
-          <Dialog>（にしても膝枕って……）</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>（痛かったけど、ちょっとラッキーだったな）</Dialog>
+          <Dialog>Ah！</Dialog>
+          <Dialog>Sorry！ Are you okay？</Dialog>
+          <Dialog>Ouch...</Dialog>
+          <Dialog>Ah, your nose is bleeding.</Dialog>
+          <Dialog>Really...</Dialog>
+          <Dialog>You must lie down then.</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲！？</Dialog>
+          <Dialog>Raise you head. I'll hold your
+nose for you.</Dialog>
+          <Dialog>I'm fine. Just put some tissue
+on it and I'll be fine...</Dialog>
+          <Dialog>No, you'll bleed again when
+you take the tissue off.</Dialog>
+          <Dialog>O-Okay...</Dialog>
+          <Dialog>Hehe.</Dialog>
+          <Dialog>It's fine. Just be a little
+obedient, okay？</Dialog>
+          <Dialog>Okay.</Dialog>
+          <Dialog>Hehe, good boy.</Dialog>
+          <Dialog>(Did I fall asleep on her
+lap...？)</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>(It hurts, but somehow I feel
+so lucky.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1795,22 +1930,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>行くぞ、▲高嶺＊＊▲！</Dialog>
+          <Dialog>Let's go,
+▲高嶺＊＊▲！</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>はい！</Dialog>
-          <Dialog>よっ。</Dialog>
-          <Dialog>あっ。</Dialog>
-          <Dialog>げ、失敗。悪い、●が取りにいくから！</Dialog>
+          <Dialog>Okay！</Dialog>
+          <Dialog>Yah！</Dialog>
+          <Dialog>Ah！</Dialog>
+          <Dialog>Urgh, out. Sorry. I'll get the
+ball.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい、ボール。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲？　サンキュ。</Dialog>
-          <Dialog>どういたしまして。ここの部って男女で練習するんだ？</Dialog>
-          <Dialog>ウチの部、そこらへん適当なんだよ。</Dialog>
-          <Dialog>ふぅん。それにしてもキレイな子だよね……。</Dialog>
-          <Dialog>▲高嶺＊＊▲？　うん、たしかに。</Dialog>
-          <Dialog>あんな子がチームメイトなんだ……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>ううん、なんにも。じゃあね、がんばって。</Dialog>
+          <Dialog>Here, your ball.</Dialog>
+          <Dialog>▲姉ヶ崎＊▲？
+Thank you.</Dialog>
+          <Dialog>You're welcome. So guys and
+girls are practicing together
+in this club.</Dialog>
+          <Dialog>I think it's good like this
+for our club.</Dialog>
+          <Dialog>Hmm... And, that girl is very
+pretty, huh？</Dialog>
+          <Dialog>▲高嶺＊＊▲？
+Yeah, she is.</Dialog>
+          <Dialog>So she's your teammate...</Dialog>
+          <Dialog>Hmm？</Dialog>
+          <Dialog>No, never mind. See you later.
+Do your best.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1915,22 +2059,38 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（お、▲高嶺＊＊▲がいる）</Dialog>
-          <Dialog>おーい。</Dialog>
+          <Dialog>(Oh, it's
+▲高嶺＊＊▲
+right there.)</Dialog>
+          <Dialog>Hey！</Dialog>
           <Dialog>？？？</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>えっ？</Dialog>
-          <Dialog>▲姉ヶ崎＊▲もいたのか、気づかなかった。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲,
+you're also here. I didn't see
+you.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私“も”？</Dialog>
-          <Dialog>ほら、向こうにテニス部の仲間がいたから声かけようと思ったんだけどさ。</Dialog>
-          <Dialog>あぁ、あの女の子……。</Dialog>
-          <Dialog>そのとき▲姉ヶ崎＊▲に声かけられたから、びっくりしたよ。</Dialog>
-          <Dialog>そっか、邪魔しちゃったね。</Dialog>
-          <Dialog>邪魔だなんて、別に用があったわけじゃないし。</Dialog>
-          <Dialog>ううん、私もう行くから。あなたはあの子の方に行ってあげて。</Dialog>
-          <Dialog>ちょっと、▲姉ヶ崎＊▲。</Dialog>
-          <Dialog>（ほんとに行っちゃった、気にしないでいいのに）</Dialog>
+          <Dialog>"Also"？</Dialog>
+          <Dialog>Look, that girl right there is
+my teammate in the tennis
+club. I was about to call out
+to her.</Dialog>
+          <Dialog>Ah, that girl...</Dialog>
+          <Dialog>When
+▲姉ヶ崎＊▲
+called me, I was really
+surprised.</Dialog>
+          <Dialog>I see. So, I interrupted you,
+huh？</Dialog>
+          <Dialog>No, you didn't. I didn't
+really have any business with
+her.</Dialog>
+          <Dialog>Never mind. I'm leaving. You'd
+better go talk with that girl.</Dialog>
+          <Dialog>Wait,
+▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>(She's gone... There's nothing
+she should get upset about.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2050,24 +2210,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（ここの掃除が終わったら、次は裏手か……）</Dialog>
+          <Dialog>(Once I'm done with this, I'll
+have to sweep the other side
+then...)</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>▲高嶺＊＊▲、オッス。</Dialog>
-          <Dialog>アルバイト大変そうね。</Dialog>
-          <Dialog>ぜんぜん、こんなの朝飯前だって。</Dialog>
-          <Dialog>そうなんだ。お仕事の邪魔しちゃ悪いから行くね。</Dialog>
-          <Dialog>あぁ。</Dialog>
-          <Dialog>よし、ここはこんなもんでいいか。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+what's up？</Dialog>
+          <Dialog>Such a hard job, huh？</Dialog>
+          <Dialog>Not at all. This is just a
+piece of cake.</Dialog>
+          <Dialog>I see. I shouldn't bother you
+while you're working. I'll get
+going now.</Dialog>
+          <Dialog>Okay.</Dialog>
+          <Dialog>All right. I think I'm done
+with this.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ダメ。</Dialog>
-          <Dialog>えっ!?</Dialog>
-          <Dialog>ダメって、何が？</Dialog>
-          <Dialog>ここの掃除。ぜんぜんキレイになってないから、やり直し。</Dialog>
-          <Dialog>そんな、ちゃんとやったよ。</Dialog>
-          <Dialog>いいじゃない。それくらい、朝飯前なんでしょ？</Dialog>
-          <Dialog>（機嫌悪いのか？）</Dialog>
+          <Dialog>Not yet.</Dialog>
+          <Dialog>Eh！？</Dialog>
+          <Dialog>What do you mean？</Dialog>
+          <Dialog>This area is not clean yet.
+You have to redo it.</Dialog>
+          <Dialog>What？ I've already cleaned
+it.</Dialog>
+          <Dialog>Isn't it okay？ This is just a
+piece of cake, isn't it？</Dialog>
+          <Dialog>(Is she in a bad mood？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2222,30 +2392,39 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>おっと。</Dialog>
-          <Dialog>いてて、やっちまった。</Dialog>
+          <Dialog>Oh no！</Dialog>
+          <Dialog>Ouch, not again.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>大丈夫？</Dialog>
-          <Dialog>あぁ、なんてことないって。</Dialog>
-          <Dialog>ちょっと見せて。</Dialog>
+          <Dialog>Are you okay？</Dialog>
+          <Dialog>Oh, I'm okay.</Dialog>
+          <Dialog>Let me take a look.</Dialog>
           <Dialog>▲高嶺＊＊▲？</Dialog>
-          <Dialog>わたし、消毒液と絆創膏取ってくるから。</Dialog>
-          <Dialog>え、いいよ。これくらい。</Dialog>
-          <Dialog>行っちゃった……。</Dialog>
+          <Dialog>I'll get some disinfectant and
+bandages for you.</Dialog>
+          <Dialog>Eh？ I'm really okay.</Dialog>
+          <Dialog>She's gone...</Dialog>
           <Dialog>？？？</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>怪我したの？　手当てしてあげる。</Dialog>
-          <Dialog>いいって、今テニス部の仲間がやってくれるから。</Dialog>
-          <Dialog>でも、私が。</Dialog>
-          <Dialog>いいってば。部外者にやってもらうのも、悪いしさ。</Dialog>
-          <Dialog>……むぅ……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>もう。じゃあ、あの子にやってもらいなさい！</Dialog>
+          <Dialog>Did you get injured？ Shall I
+take care of your wounds for
+you？</Dialog>
+          <Dialog>It's okay. My teammate is
+getting a first aid kit for
+me. But, I...</Dialog>
+          <Dialog>I said it's okay.</Dialog>
+          <Dialog>It wouldn't be good to bother
+someone outside the tennis
+club to do this.</Dialog>
+          <Dialog>...Hmph...</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>Geez. Just let that girl take
+care of you then！</Dialog>
           <Dialog>▲姉ヶ崎＊▲？</Dialog>
-          <Dialog>（なんか怒るようなこと言ったか？）</Dialog>
+          <Dialog>(Did I say something to make
+her angry？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2339,19 +2518,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。そこの整理終わったらさ、次受付入って。</Dialog>
+          <Dialog>▲主人公＊▲,
+When you finish sorting this
+shelf, can you help me over
+there？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>おう、わかった。</Dialog>
-          <Dialog>頼んだよ。</Dialog>
-          <Dialog>よし、とっとと終わらすか。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲。なんか用事？</Dialog>
+          <Dialog>Oh, okay.</Dialog>
+          <Dialog>I'll leave it to you then.</Dialog>
+          <Dialog>All right, I'd better hurry
+and get this done.</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.
+Do you need anything？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、本借りに。……今の子、可愛らしいね。</Dialog>
-          <Dialog>そう、かな？　下級生だけど委員じゃ先輩だから、●は仕事教わったりしてる。</Dialog>
-          <Dialog>あなたの教育係ってこと？</Dialog>
-          <Dialog>んー、そうかも。</Dialog>
-          <Dialog>ふぅん……そっか。じゃあね。</Dialog>
-          <Dialog>？　あぁ。</Dialog>
+          <Dialog>No, I came to return a book.
+...That girl is cute, huh？</Dialog>
+          <Dialog>You think so？ She's a first
+year student, but as a library
+committee, she's my senior.</Dialog>
+          <Dialog>So she's like your supervisor
+then？</Dialog>
+          <Dialog>Hm, you can say that.</Dialog>
+          <Dialog>Hmm... I see. Bye then.</Dialog>
+          <Dialog>Huh？ Ah...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2481,25 +2669,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あーもう、貸し出し記録つけ終わんない！</Dialog>
+          <Dialog>Ah, geez. I can never finish
+these lending records！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>いつも仕事溜めてるからそうなるんだ。</Dialog>
-          <Dialog>うるさいなぁ、それより手伝ってよ。</Dialog>
-          <Dialog>ダメだ。自分でやれ。</Dialog>
-          <Dialog>ケチ！</Dialog>
-          <Dialog>やれやれ。</Dialog>
+          <Dialog>Because you've left them
+undone for a long time.</Dialog>
+          <Dialog>Shut up already. Just help me
+do it.</Dialog>
+          <Dialog>No, do it yourself.</Dialog>
+          <Dialog>Tsk！</Dialog>
+          <Dialog>Oh my...</Dialog>
           <Dialog>？？？</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>手伝ってあげないの？</Dialog>
-          <Dialog>自業自得だから、いいんだよ。甘やかしたら、本人のためにもならないし。</Dialog>
-          <Dialog>大事にしてるんだ。</Dialog>
-          <Dialog>そりゃまぁ、同じ委員の仲間だし。</Dialog>
-          <Dialog>それだけ？</Dialog>
-          <Dialog>えぇ？</Dialog>
-          <Dialog>なんでもない。帰るね。</Dialog>
-          <Dialog>（なんのことだ？）</Dialog>
+          <Dialog>Won't you help her out？</Dialog>
+          <Dialog>She should learn from her
+mistakes. I can't spoil her.
+This is for her sake.</Dialog>
+          <Dialog>You really care about her.</Dialog>
+          <Dialog>Well, we have to work together
+as library committee members.</Dialog>
+          <Dialog>Just because of that？</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>Never mind. I'm leaving.</Dialog>
+          <Dialog>(What was that？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2629,25 +2823,35 @@
         </Unknown>
         <Dialogs>
           <Dialog>？？？</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>▲小早川＊▲、何してんだ？</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>▲小早川＊▲.
+What are you doing here？</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>なんでもいいじゃん、お父さんかっつーの。</Dialog>
-          <Dialog>あ、もう行かなきゃ。</Dialog>
-          <Dialog>おう、じゃあ早く帰れよ。</Dialog>
-          <Dialog>だからお父さんかっつーの。</Dialog>
-          <Dialog>やれやれ、あんまりうるさく言うとほんとに嫌われるかな。</Dialog>
+          <Dialog>None of your business. Are you
+my dad or what？</Dialog>
+          <Dialog>Ah, I have to go.</Dialog>
+          <Dialog>Oh, hurry home, okay？</Dialog>
+          <Dialog>Again, are you my dad or
+what！？</Dialog>
+          <Dialog>Oh my, if I don't scold her a
+little bit, she won't like it,
+huh？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>誰がうるさいって？</Dialog>
-          <Dialog>▲姉ヶ崎＊▲。</Dialog>
-          <Dialog>誰でも年上から小言言われるのは嫌いかもね。</Dialog>
-          <Dialog>今の、聞いてたんだ。</Dialog>
-          <Dialog>うん。あなたも私のこと鬱陶しいなんて思ってる？</Dialog>
-          <Dialog>まさか、そんなことないって。</Dialog>
-          <Dialog>ならば、よろしい。</Dialog>
-          <Dialog>（何を気にしてるんだ、▲姉ヶ崎＊▲は。</Dialog>
+          <Dialog>Who do you want to scold？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>No one likes to be scolded by
+older people, you know？</Dialog>
+          <Dialog>Did you hear us？</Dialog>
+          <Dialog>Yeah. Have you ever thought
+that I caused troubles for
+you？</Dialog>
+          <Dialog>No, never.</Dialog>
+          <Dialog>Then that's good.</Dialog>
+          <Dialog>(What is it that
+▲姉ヶ崎＊▲
+is worried about...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2757,23 +2961,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>？？？</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>▲小早川＊▲、来てたのか。</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>▲小早川＊▲.
+So, you're here.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>もう帰るとこだけど。</Dialog>
-          <Dialog>もしかして、●に会いに来たとか？</Dialog>
-          <Dialog>んなわけないじゃん、バカじゃないの？</Dialog>
-          <Dialog>そりゃそうか。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>I'm about to leave though.</Dialog>
+          <Dialog>Could it be that you come here
+to see me？</Dialog>
+          <Dialog>How could that be？ Are you an
+idiot？</Dialog>
+          <Dialog>Oh my...</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私はね、あなたがいるからここのバイト続けてるんだよ。</Dialog>
-          <Dialog>えぇ!?</Dialog>
-          <Dialog>もう、すぐ騙されすぎ。</Dialog>
-          <Dialog>だ、だよね。</Dialog>
-          <Dialog>全部嘘ってわけじゃないけどね。</Dialog>
-          <Dialog>え？</Dialog>
+          <Dialog>For me, you are the reason I
+continue working here.</Dialog>
+          <Dialog>...Eh！？</Dialog>
+          <Dialog>Geez, of course it was a joke.</Dialog>
+          <Dialog>T-That's right...</Dialog>
+          <Dialog>Not that the whole thing is a
+joke though.</Dialog>
+          <Dialog>Eh？...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2893,22 +3102,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>▲姉ヶ崎＊▲。</Dialog>
-          <Dialog>卒業おめでとう。</Dialog>
-          <Dialog>ありがと。</Dialog>
-          <Dialog>デキシーズでのバイトも、今日で最後だね。</Dialog>
-          <Dialog>うん、今までありがとう。</Dialog>
-          <Dialog>あなたが来てくれたおかげで、色々助かったなぁ。</Dialog>
-          <Dialog>そうかな。</Dialog>
-          <Dialog>もちろん。あとね、バイトが前より楽しくなった。</Dialog>
-          <Dialog>ほんと？　●も楽しかったな。</Dialog>
-          <Dialog>ふふ。これからはお客様かな？</Dialog>
-          <Dialog>そうかも。</Dialog>
-          <Dialog>じゃあ、またね。弟ができたみたいで、嬉しかったよ。</Dialog>
-          <Dialog>（ほんと、お姉さんみたいな人だったな……）</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>Congratulations for
+graduation.</Dialog>
+          <Dialog>Thanks.</Dialog>
+          <Dialog>Today will be your last day to
+work at Dixie's, right？</Dialog>
+          <Dialog>Yeah, thanks for your help up
+until now.</Dialog>
+          <Dialog>Ever since you've started
+working there, you've helped
+me a lot.</Dialog>
+          <Dialog>Is that so？</Dialog>
+          <Dialog>Of course. And since then,
+I've enjoyed my job even more.</Dialog>
+          <Dialog>Really？ I also enjoyed
+working there.</Dialog>
+          <Dialog>Hehe, next time, visit us as a
+customer, okay？</Dialog>
+          <Dialog>Maybe I will.</Dialog>
+          <Dialog>See you later. I'm really
+happy to have a little brother
+like you.</Dialog>
+          <Dialog>(Right, she's like an older
+sister to me...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3032,22 +3252,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。卒業、おめでとう。</Dialog>
+          <Dialog>▲主人公＊▲.
+Congratulations for
+graduation.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲。ありがと。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>卒業、しちゃったね。</Dialog>
-          <Dialog>あぁ、▲姉ヶ崎＊▲の１年遅れでね。</Dialog>
-          <Dialog>うん、そう。私が、卒業するまでに勇気が出せたらな。</Dialog>
-          <Dialog>えっ？</Dialog>
-          <Dialog>でも。もう、さよならするから。</Dialog>
-          <Dialog>どうして？</Dialog>
-          <Dialog>このままずっとお姉さん役なんて、辛いから……。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
-          <Dialog>私も、お姉さんから卒業したかったな……。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.
+Thanks.</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Hmm？</Dialog>
+          <Dialog>You have graduated, huh？</Dialog>
+          <Dialog>Yeah, it's one year after
+▲姉ヶ崎＊▲'s.</Dialog>
+          <Dialog>Um, right. I should have
+gathered up my courage before
+I graduated.</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>But, it's time for us to part.</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>I can't continue acting like
+your older sister...</Dialog>
+          <Dialog>▲姉ヶ崎＊▲...</Dialog>
+          <Dialog>I am now graduated from being
+your sister...</Dialog>
           <Dialog>▲姉ヶ崎＊▲！</Dialog>
-          <Dialog>▲姉ヶ崎＊▲ー！　待ってくれー!!</Dialog>
+          <Dialog>▲姉ヶ崎＊▲！
+Wait！！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

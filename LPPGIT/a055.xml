@@ -137,25 +137,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あれ、▲姉ヶ崎＊▲だ……。</Dialog>
+          <Dialog>Oh, it's
+▲姉ヶ崎＊▲...</Dialog>
           <Dialog>▲姉ヶ崎＊▲！</Dialog>
-          <Dialog>やぁ</Dialog>
-          <Dialog>チョップしかない！</Dialog>
-          <Dialog>声をかけない</Dialog>
+          <Dialog>Hey</Dialog>
+          <Dialog>Chop attack！</Dialog>
+          <Dialog>Don't call her</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい？</Dialog>
-          <Dialog>やぁ。</Dialog>
-          <Dialog>なぁに？</Dialog>
-          <Dialog>ていっ！</Dialog>
-          <Dialog>いたっ。</Dialog>
-          <Dialog>なに？</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>何してんの？</Dialog>
-          <Dialog>ちょっと今からいくところがあって、急いでるの。</Dialog>
-          <Dialog>そっか。呼びとめてごめん。</Dialog>
-          <Dialog>ううん、じゃあね。</Dialog>
-          <Dialog>（忙しそうだな……）</Dialog>
-          <Dialog>（別にいいか。行こう……）</Dialog>
+          <Dialog>Yes？</Dialog>
+          <Dialog>Hey.</Dialog>
+          <Dialog>What is it？</Dialog>
+          <Dialog>Hiya！</Dialog>
+          <Dialog>Ouch.</Dialog>
+          <Dialog>What is it？</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>What's up？</Dialog>
+          <Dialog>I'm on my way somewhere, so
+I'm in a hurry.</Dialog>
+          <Dialog>I see. Sorry for stopping you.</Dialog>
+          <Dialog>No problem. See you later.</Dialog>
+          <Dialog>(She's so busy, huh...)</Dialog>
+          <Dialog>(Nah, I'll just go...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -285,23 +287,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（あ、▲姉ヶ崎＊▲だ）</Dialog>
-          <Dialog>ネエちゃん、お茶どう？</Dialog>
-          <Dialog>ちょっといいですか？</Dialog>
-          <Dialog>ねぇねぇ、お姉さん</Dialog>
-          <Dialog>声をかけない</Dialog>
+          <Dialog>(Ah,
+▲姉ヶ崎＊▲.)</Dialog>
+          <Dialog>Wanna have some tea？</Dialog>
+          <Dialog>Do you have a moment？</Dialog>
+          <Dialog>Hello, Sis</Dialog>
+          <Dialog>Don't call her</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>急いでるので……。</Dialog>
-          <Dialog>ダメです！</Dialog>
-          <Dialog>ねぇねぇ、お姉さん。</Dialog>
-          <Dialog>間に合ってます。</Dialog>
-          <Dialog>あっ、あなただったの。</Dialog>
-          <Dialog>どうしたの？</Dialog>
-          <Dialog>ちょっとキャッチがうるさくて、てっきり。</Dialog>
-          <Dialog>はは、間違えられたか。</Dialog>
-          <Dialog>あ、もう行くね？</Dialog>
-          <Dialog>あぁ、それじゃ。</Dialog>
-          <Dialog>（別にいいか。行こう……）</Dialog>
+          <Dialog>I'm in a hurry, so...</Dialog>
+          <Dialog>No, I don't！</Dialog>
+          <Dialog>Hello, Sis.</Dialog>
+          <Dialog>That's enough.</Dialog>
+          <Dialog>Ah, it was you.</Dialog>
+          <Dialog>What's up？</Dialog>
+          <Dialog>With such a pick up line, I
+thought...</Dialog>
+          <Dialog>Haha, you mistook me？</Dialog>
+          <Dialog>Ah, I have to go.</Dialog>
+          <Dialog>Okay, see you later.</Dialog>
+          <Dialog>(Nah, I'll just go...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -441,26 +445,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（あれ、▲姉ヶ崎＊▲だ。今日シフト入ってたっけ？）</Dialog>
+          <Dialog>(That's
+▲姉ヶ崎＊▲.
+Did she have a shift today？)</Dialog>
           <Dialog>▲姉ヶ崎＊▲！</Dialog>
-          <Dialog>やぁ</Dialog>
-          <Dialog>チョップしかない！</Dialog>
-          <Dialog>声をかけない</Dialog>
+          <Dialog>Hey</Dialog>
+          <Dialog>Chop attack！</Dialog>
+          <Dialog>Don't call her</Dialog>
           <Dialog>▲姉ヶ崎＊▲？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい？</Dialog>
-          <Dialog>やぁ。</Dialog>
-          <Dialog>なぁに？</Dialog>
-          <Dialog>ていっ！</Dialog>
-          <Dialog>いたっ……。</Dialog>
-          <Dialog>なに？</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>今日シフト入ってたっけ？</Dialog>
-          <Dialog>ううん。急に休みの人が出たから、ヘルプ。</Dialog>
-          <Dialog>そっか、大変だな。</Dialog>
-          <Dialog>ふふ。じゃあサポートしてくれると助かるな。</Dialog>
-          <Dialog>オッケー、●でよければ。</Dialog>
-          <Dialog>（別に、気にすることじゃないか）</Dialog>
+          <Dialog>Yes？</Dialog>
+          <Dialog>Hey.</Dialog>
+          <Dialog>What is it？</Dialog>
+          <Dialog>Hiya！</Dialog>
+          <Dialog>Ouch...</Dialog>
+          <Dialog>What is it？</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Did you have a shift today？</Dialog>
+          <Dialog>No. Someone couldn't make it
+so I came in.</Dialog>
+          <Dialog>I see. It's troublesome, huh？</Dialog>
+          <Dialog>Hehe. Then it would help if
+you support me.</Dialog>
+          <Dialog>Okay. If you are all right
+with me.</Dialog>
+          <Dialog>(It's not what I need to worry
+about.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -605,27 +615,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（あれ、これってどうするんだっけ……）</Dialog>
-          <Dialog>（▲姉ヶ崎＊▲。いいところに）</Dialog>
+          <Dialog>(Oh, how was I supposed to do
+this...？)</Dialog>
+          <Dialog>(▲姉ヶ崎＊▲.
+Nice timing.)</Dialog>
           <Dialog>▲姉ヶ崎＊▲！</Dialog>
-          <Dialog>やぁ</Dialog>
-          <Dialog>チョップしかない！</Dialog>
-          <Dialog>声をかけない</Dialog>
-          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>Hey</Dialog>
+          <Dialog>Chop attack！</Dialog>
+          <Dialog>Don't call her</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい？</Dialog>
-          <Dialog>やぁ。</Dialog>
-          <Dialog>なぁに？</Dialog>
-          <Dialog>ていっ！</Dialog>
-          <Dialog>いたっ……。</Dialog>
-          <Dialog>なに？</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>あのさ、これってどうするんだっけ……。</Dialog>
-          <Dialog>あぁ、それはね。</Dialog>
-          <Dialog>サンキュ！　助かった。</Dialog>
-          <Dialog>どういたしまして。少しずつ覚えていってね。</Dialog>
-          <Dialog>わかった、頑張るよ。</Dialog>
-          <Dialog>（他の人に聞けばいいか）</Dialog>
+          <Dialog>Yes？</Dialog>
+          <Dialog>Hey.</Dialog>
+          <Dialog>What is it？</Dialog>
+          <Dialog>Hiya！</Dialog>
+          <Dialog>Ouch...</Dialog>
+          <Dialog>What is it？</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Um, how am I supposed to do
+this...？</Dialog>
+          <Dialog>Ah, to do that...</Dialog>
+          <Dialog>Thank you！ You saved me.</Dialog>
+          <Dialog>You're welcome. Keep learning
+it a little at a time.</Dialog>
+          <Dialog>Got it. I'll do my best.</Dialog>
+          <Dialog>(I'll ask someone else.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -755,24 +769,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（▲姉ヶ崎＊▲がいる）</Dialog>
+          <Dialog>(▲姉ヶ崎＊▲
+is there.)</Dialog>
           <Dialog>▲姉ヶ崎＊▲！</Dialog>
-          <Dialog>やぁ</Dialog>
-          <Dialog>チョップしかない！</Dialog>
-          <Dialog>声をかけない</Dialog>
-          <Dialog>▲姉ヶ崎＊▲、オッス。</Dialog>
+          <Dialog>Hey.</Dialog>
+          <Dialog>Chop attack！</Dialog>
+          <Dialog>Don't call her</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.
+What's up？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい？</Dialog>
-          <Dialog>やぁ。</Dialog>
-          <Dialog>なぁに？</Dialog>
-          <Dialog>ていっ！</Dialog>
-          <Dialog>いたっ……。</Dialog>
-          <Dialog>なに？</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>あ、もう行かなくて大丈夫？</Dialog>
-          <Dialog>あぁ、ぼちぼち行こうかな。</Dialog>
-          <Dialog>うん、じゃあね。</Dialog>
-          <Dialog>（別にいいか。行こう……）</Dialog>
+          <Dialog>Yes？</Dialog>
+          <Dialog>Hey.</Dialog>
+          <Dialog>What is it？</Dialog>
+          <Dialog>Hiya！</Dialog>
+          <Dialog>Ouch...</Dialog>
+          <Dialog>What is it？</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Ah, don't you need to go
+soon？</Dialog>
+          <Dialog>Ah, you're right.</Dialog>
+          <Dialog>I guess I'll go.</Dialog>
+          <Dialog>(Nah, I'll just go...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -916,26 +933,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（あれは、▲姉ヶ崎＊▲か）</Dialog>
+          <Dialog>(That's
+▲姉ヶ崎＊▲？)</Dialog>
           <Dialog>▲姉ヶ崎＊▲！</Dialog>
-          <Dialog>やぁ</Dialog>
-          <Dialog>チョップしかない！</Dialog>
-          <Dialog>声をかけない</Dialog>
-          <Dialog>▲姉ヶ崎＊▲。何してんの？</Dialog>
+          <Dialog>Hey.</Dialog>
+          <Dialog>Chop attack！</Dialog>
+          <Dialog>Don't call her</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.
+What's up？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい？</Dialog>
-          <Dialog>やぁ。</Dialog>
-          <Dialog>なぁに？</Dialog>
-          <Dialog>ていっ！</Dialog>
-          <Dialog>いたっ……。</Dialog>
-          <Dialog>なに？</Dialog>
-          <Dialog>何してんの？</Dialog>
-          <Dialog>▲主人公＊▲。先生から頼まれごと。ちょっとそこまで。</Dialog>
-          <Dialog>なんか手伝う？</Dialog>
-          <Dialog>ううん、大したことじゃないから。</Dialog>
-          <Dialog>そっか。</Dialog>
-          <Dialog>でもありがと。じゃあね。</Dialog>
-          <Dialog>（別にいいか。行こう……）</Dialog>
+          <Dialog>Yes？</Dialog>
+          <Dialog>Hey.</Dialog>
+          <Dialog>What is it？</Dialog>
+          <Dialog>Hiya！</Dialog>
+          <Dialog>Ouch...</Dialog>
+          <Dialog>What is it？</Dialog>
+          <Dialog>What's up？</Dialog>
+          <Dialog>▲主人公＊▲.
+I'm doing an errand for a
+teacher.</Dialog>
+          <Dialog>Is there anything I can help
+you with？</Dialog>
+          <Dialog>No, it's not a big deal.</Dialog>
+          <Dialog>I see.</Dialog>
+          <Dialog>But thanks. See you later.</Dialog>
+          <Dialog>(Nah, I'll just go...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1074,25 +1096,29 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（あ、▲姉ヶ崎＊▲）</Dialog>
-          <Dialog>おい</Dialog>
-          <Dialog>おーい</Dialog>
-          <Dialog>膝カックンのチャンス！</Dialog>
-          <Dialog>声をかけない</Dialog>
-          <Dialog>おい。</Dialog>
+          <Dialog>(Ah,
+▲姉ヶ崎＊▲)</Dialog>
+          <Dialog>-Hey.</Dialog>
+          <Dialog>Hey~！</Dialog>
+          <Dialog>Knee knock attack！</Dialog>
+          <Dialog>Don't call her</Dialog>
+          <Dialog>-Hey.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はいはい。</Dialog>
-          <Dialog>おーい。</Dialog>
-          <Dialog>はーい。</Dialog>
-          <Dialog>はっ！</Dialog>
-          <Dialog>いたっ……。</Dialog>
-          <Dialog>こら。</Dialog>
-          <Dialog>何してんの？　買い物とか？</Dialog>
-          <Dialog>▲主人公＊▲。うん、そんなとこ。</Dialog>
-          <Dialog>結構長く話しちゃったね。そろそろ行こうかな。</Dialog>
-          <Dialog>そう？　じゃあ、●ももう行くよ。</Dialog>
-          <Dialog>うん、またね。</Dialog>
-          <Dialog>（別にいいか。行こう……）</Dialog>
+          <Dialog>Yes, yes.</Dialog>
+          <Dialog>Hey~！</Dialog>
+          <Dialog>Yes~！</Dialog>
+          <Dialog>Hiya！</Dialog>
+          <Dialog>Ouch...</Dialog>
+          <Dialog>Hey！</Dialog>
+          <Dialog>What's up？ Shopping？</Dialog>
+          <Dialog>▲主人公＊▲.
+Yeah, that's right.</Dialog>
+          <Dialog>We talked for quite a bit. I
+guess I'll get going.</Dialog>
+          <Dialog>Yeah？ Then I guess I'll get
+going too.</Dialog>
+          <Dialog>Yeah, see you later.</Dialog>
+          <Dialog>(Nah, I'll just go...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1222,24 +1248,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なんか暇……。</Dialog>
+          <Dialog>I'm bored...</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>おう</Dialog>
-          <Dialog>やぁ、▲姉ヶ崎＊▲</Dialog>
-          <Dialog>うなれ！　●のチョップ！</Dialog>
-          <Dialog>おう。</Dialog>
-          <Dialog>ふふ。</Dialog>
-          <Dialog>やぁ、▲姉ヶ崎＊▲。</Dialog>
-          <Dialog>うん。</Dialog>
-          <Dialog>ていっ！</Dialog>
-          <Dialog>いたっ……もう、怒るよ？</Dialog>
-          <Dialog>あ、そろそろ行かなきゃ。</Dialog>
-          <Dialog>用事あったんだ？</Dialog>
-          <Dialog>そうなの。呼び止めてごめんね。</Dialog>
-          <Dialog>ううん、ぜんぜん。</Dialog>
-          <Dialog>じゃあね。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>Oh.</Dialog>
+          <Dialog>Hey,
+▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>Take this chop attack！</Dialog>
+          <Dialog>Oh.</Dialog>
+          <Dialog>Hehe.</Dialog>
+          <Dialog>Hey,
+▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>Yes.</Dialog>
+          <Dialog>Hiya！</Dialog>
+          <Dialog>Ouch！ Hey, I'm angry now！</Dialog>
+          <Dialog>Ah, I have to get going.</Dialog>
+          <Dialog>Have something to do？</Dialog>
+          <Dialog>That's right. Sorry for
+stopping you.</Dialog>
+          <Dialog>No, it's okay.</Dialog>
+          <Dialog>See you later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1394,28 +1423,39 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>よし、休憩だ……。</Dialog>
-          <Dialog>（そういや、▲姉ヶ崎＊▲も今休憩か。休憩室にいるかも）</Dialog>
-          <Dialog>休憩室に行く</Dialog>
-          <Dialog>やめておく</Dialog>
-          <Dialog>（ま、いいか。外の空気でも吸おう）</Dialog>
+          <Dialog>All right, break time...</Dialog>
+          <Dialog>(That's right.
+▲姉ヶ崎＊▲
+is taking a break, too. She
+might be in the break room
+now.)</Dialog>
+          <Dialog>Go to the break room.</Dialog>
+          <Dialog>Don't go.</Dialog>
+          <Dialog>(Well, whatever. I'll get some
+fresh air outside.)</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>おう</Dialog>
-          <Dialog>やぁ、▲姉ヶ崎＊▲</Dialog>
-          <Dialog>うなれ！　●のチョップ！</Dialog>
-          <Dialog>おう。</Dialog>
-          <Dialog>ふふ。</Dialog>
-          <Dialog>やぁ、▲姉ヶ崎＊▲。</Dialog>
-          <Dialog>うん。</Dialog>
-          <Dialog>ていっ！</Dialog>
-          <Dialog>いたっ……もう、怒るよ？</Dialog>
-          <Dialog>やっぱりここにいた。</Dialog>
-          <Dialog>何？　どうかした？</Dialog>
-          <Dialog>ないけど、休憩のタイミング同じだったなって思って。</Dialog>
-          <Dialog>ふふ、そっか。</Dialog>
-          <Dialog>私は、そろそろ戻るね。</Dialog>
-          <Dialog>（●ももう少ししたら仕事戻るか……）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Oh.</Dialog>
+          <Dialog>Hey,
+▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>Take this chop attack！</Dialog>
+          <Dialog>Oh.</Dialog>
+          <Dialog>Hehe.</Dialog>
+          <Dialog>Hey,
+▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>Yes.</Dialog>
+          <Dialog>Hiya！</Dialog>
+          <Dialog>Ouch！ Hey, I'm angry now！</Dialog>
+          <Dialog>So you were here.</Dialog>
+          <Dialog>Hmm？ You want anything？</Dialog>
+          <Dialog>No, I just think that we both
+are taking breaks at the same
+time.</Dialog>
+          <Dialog>Hehe, I see.</Dialog>
+          <Dialog>It's about time for me to go
+back.</Dialog>
+          <Dialog>(I should also go back to work
+soon...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1550,26 +1590,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はぁ、疲れた……。</Dialog>
-          <Dialog>（今日は忙しいな……）</Dialog>
+          <Dialog>Hah, I'm tired...</Dialog>
+          <Dialog>(It's really busy today...)</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>おう</Dialog>
-          <Dialog>やぁ、▲姉ヶ崎＊▲</Dialog>
-          <Dialog>うなれ！　●のチョップ！</Dialog>
-          <Dialog>声をかけない</Dialog>
-          <Dialog>おう。</Dialog>
-          <Dialog>ふふ。</Dialog>
-          <Dialog>やぁ、▲姉ヶ崎＊▲。</Dialog>
-          <Dialog>うん。</Dialog>
-          <Dialog>ていっ！</Dialog>
-          <Dialog>いたっ……もう、怒るよ？</Dialog>
-          <Dialog>なんか、お疲れだね？</Dialog>
-          <Dialog>うん。今日忙しくて。</Dialog>
-          <Dialog>もうすぐお客さん落ち着きそうだから、頑張って。ね？</Dialog>
-          <Dialog>（よし！　もう少し頑張るか）</Dialog>
-          <Dialog>（別にいいか……）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>Oh.</Dialog>
+          <Dialog>Hey,
+▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>Take this chop attack！</Dialog>
+          <Dialog>Don't call her</Dialog>
+          <Dialog>Oh.</Dialog>
+          <Dialog>Hehe.</Dialog>
+          <Dialog>Hey,
+▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>Yes.</Dialog>
+          <Dialog>Hiya！</Dialog>
+          <Dialog>Ouch！ Hey, I'm angry now！</Dialog>
+          <Dialog>Aren't you looking a bit
+tired？</Dialog>
+          <Dialog>Yeah. Today is really busy.</Dialog>
+          <Dialog>The customers will settle down
+soon, so do your best. Okay？</Dialog>
+          <Dialog>(All right！ I'll work hard
+for a bit more.)</Dialog>
+          <Dialog>(Well, whatever...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1723,28 +1768,36 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（腹減った……）</Dialog>
-          <Dialog>（▲姉ヶ崎＊▲だ……）</Dialog>
-          <Dialog>おい</Dialog>
-          <Dialog>おーい</Dialog>
-          <Dialog>膝カックンのチャンス！</Dialog>
-          <Dialog>声をかけない</Dialog>
-          <Dialog>おい。</Dialog>
+          <Dialog>(I'm hungry...)</Dialog>
+          <Dialog>(▲姉ヶ崎＊▲...)</Dialog>
+          <Dialog>-Hey.</Dialog>
+          <Dialog>Hey~！</Dialog>
+          <Dialog>Knee knock attack！</Dialog>
+          <Dialog>Don't call her</Dialog>
+          <Dialog>-Hey.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はいはい。</Dialog>
-          <Dialog>おーい。</Dialog>
-          <Dialog>はーい。</Dialog>
-          <Dialog>はっ！</Dialog>
-          <Dialog>いたっ……。</Dialog>
-          <Dialog>こら。</Dialog>
-          <Dialog>▲主人公＊▲。どうしたの？　なんか元気ない？</Dialog>
-          <Dialog>そう？　腹が減ってるから、それでかな？</Dialog>
-          <Dialog>ふふ、男の子だね。じゃあ、いいものあげる。先生には内緒ね。</Dialog>
-          <Dialog>何？</Dialog>
-          <Dialog>のど飴。あまりお腹の足しにはならないかもだけど。</Dialog>
-          <Dialog>ありがと。</Dialog>
-          <Dialog>（うん、少しは空腹も紛れるかな……）</Dialog>
-          <Dialog>（別にいいか……。腹減った）</Dialog>
+          <Dialog>Yes, yes.</Dialog>
+          <Dialog>Hey~！</Dialog>
+          <Dialog>Yes~！</Dialog>
+          <Dialog>Hiya！</Dialog>
+          <Dialog>Ouch...</Dialog>
+          <Dialog>Hey！</Dialog>
+          <Dialog>▲主人公＊▲.
+What's up？ You don't seem
+very energetic.</Dialog>
+          <Dialog>Really？ I'm hungry, so maybe
+that's why.</Dialog>
+          <Dialog>Hehe, just like a boy. Then
+I'll give you something good.
+Keep it a secret from the
+teacher.</Dialog>
+          <Dialog>What is it？</Dialog>
+          <Dialog>A cough drop. It might not
+help your hunger much though.</Dialog>
+          <Dialog>Thanks.</Dialog>
+          <Dialog>(Yeah, I think it helped a
+bit.)</Dialog>
+          <Dialog>(Whatever... I'm hungry.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1884,26 +1937,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>おう</Dialog>
-          <Dialog>やぁ、▲姉ヶ崎＊▲</Dialog>
-          <Dialog>うなれ！　●のチョップ！</Dialog>
-          <Dialog>声をかけない</Dialog>
-          <Dialog>おう。</Dialog>
-          <Dialog>ふふ。</Dialog>
-          <Dialog>やぁ、▲姉ヶ崎＊▲。</Dialog>
-          <Dialog>うん。</Dialog>
-          <Dialog>ていっ！</Dialog>
-          <Dialog>いたっ……もう、怒るよ？</Dialog>
-          <Dialog>どうしたの？</Dialog>
-          <Dialog>用はないけど……それじゃダメ？</Dialog>
-          <Dialog>そんなことないけど。</Dialog>
-          <Dialog>ふふ、冗談。いじめちゃった。</Dialog>
-          <Dialog>あ、もう行かなきゃ。じゃあね。</Dialog>
-          <Dialog>うん、それじゃ。</Dialog>
-          <Dialog>（別にいいか。行こう……）</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>Oh.</Dialog>
+          <Dialog>Hey,
+▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>Take this chop attack！</Dialog>
+          <Dialog>Don't call her</Dialog>
+          <Dialog>Oh.</Dialog>
+          <Dialog>Hehe.</Dialog>
+          <Dialog>Hey,
+▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>Yes.</Dialog>
+          <Dialog>Hiya！</Dialog>
+          <Dialog>Ouch！ Hey, I'm angry now！</Dialog>
+          <Dialog>What's up？</Dialog>
+          <Dialog>Nothing... Can't I be here？</Dialog>
+          <Dialog>That's not the case.</Dialog>
+          <Dialog>Hehe, just kidding. I was
+teasing you.</Dialog>
+          <Dialog>Ah, I have to get going. See
+you later.</Dialog>
+          <Dialog>Yeah, see you.</Dialog>
+          <Dialog>(Nah, I'll just go...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1978,16 +2035,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>▲姉ヶ崎＊▲、偶然だね。</Dialog>
-          <Dialog>ううん。遠くからあなたが見えたから、追いかけてきちゃったの。</Dialog>
-          <Dialog>そっか。</Dialog>
-          <Dialog>あ、ごめんね。呼び止めて、立ち話させちゃって。もう行くから。</Dialog>
-          <Dialog>いいって、そんなの。</Dialog>
-          <Dialog>どこでも会えるのにね。あなたのこと見かけると……ううん、じゃあね。</Dialog>
-          <Dialog>？　うん、それじゃ。</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲,
+What a coincidence.</Dialog>
+          <Dialog>Not really. I saw you from
+afar, so I tried to call you.</Dialog>
+          <Dialog>Is that so？</Dialog>
+          <Dialog>Ah, I'm sorry. I stopped you
+and kept you occupy. I guess
+I'll be going now.</Dialog>
+          <Dialog>I had a good time chatting
+with you.</Dialog>
+          <Dialog>Seems like we can see each
+other everywhere. When I see
+you around, I... No, never
+mind. See you later.</Dialog>
+          <Dialog>？ Okay, see you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2047,15 +2112,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>Ah,
+▲姉ヶ崎＊▲...</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……。</Dialog>
+          <Dialog>......</Dialog>
           <Dialog>▲姉ヶ崎＊▲？</Dialog>
-          <Dialog>ふふ、冗談。びっくりした？</Dialog>
-          <Dialog>もう、ひどいな。</Dialog>
-          <Dialog>結構長く話しちゃったな。</Dialog>
-          <Dialog>ほんとだ。じゃあ、もう行くね。バイバイ。</Dialog>
-          <Dialog>バイバイ。</Dialog>
+          <Dialog>Hehe, just kidding. Did it
+surprise you？</Dialog>
+          <Dialog>Hey, that was so mean.</Dialog>
+          <Dialog>We've been talking for a
+while.</Dialog>
+          <Dialog>Yeah. I've got to go now.
+Bye-bye.</Dialog>
+          <Dialog>Bye-bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2125,16 +2194,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（暇だな……）</Dialog>
+          <Dialog>(I'm so bored...)</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>わっ！</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>▲姉ヶ崎＊▲か、なんだ……。</Dialog>
-          <Dialog>あはは、びっくりしてる。カワイイ▼</Dialog>
-          <Dialog>もう、勘弁してよ。</Dialog>
-          <Dialog>だって楽しいんだもん。用があるから、もう行くね。バイバイ。</Dialog>
-          <Dialog>うん。</Dialog>
-          <Dialog>（もう行っちゃった、なんか遊ばれてるな……）</Dialog>
+          <Dialog>Wah！</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲,
+What was that...？</Dialog>
+          <Dialog>Ahaha. You were surprised. So
+cute▼</Dialog>
+          <Dialog>Oh, don't do that to me.</Dialog>
+          <Dialog>But teasing you is fun. I've
+got something to do, so I have
+to get going. Bye-bye.</Dialog>
+          <Dialog>Bye.</Dialog>
+          <Dialog>(She left... Somehow, she
+seemed to enjoy teasing me...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2214,17 +2288,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>Ah,
+▲姉ヶ崎＊▲.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>あれ、仕事？　休憩中だよね。</Dialog>
-          <Dialog>うん、ちょっと立て込んでて。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲、色々任されてるもんな。よし手伝うよ。</Dialog>
-          <Dialog>でもあなたも休憩中。</Dialog>
-          <Dialog>いいっていいって。</Dialog>
-          <Dialog>ほら、二人でやればすぐ終わるじゃん。</Dialog>
-          <Dialog>ありがとう。ごめんね、休憩終わっちゃうよね。</Dialog>
-          <Dialog>そんなの気にすんなって。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Eh？ Are you working？ You're
+taking a break？</Dialog>
+          <Dialog>Yeah. It's so crowded today.</Dialog>
+          <Dialog>▲姉ヶ崎＊▲
+has a lot to take care of.
+I'll help you then.</Dialog>
+          <Dialog>But it's your break time.</Dialog>
+          <Dialog>It's okay.</Dialog>
+          <Dialog>See？ When we did this
+together, we could get it done
+faster.</Dialog>
+          <Dialog>Thank you. Sorry for making
+you work during your break.</Dialog>
+          <Dialog>Oh, don't worry about that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2303,17 +2384,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（今日も忙しいな……）</Dialog>
-          <Dialog>（▲姉ヶ崎＊▲、いいところに）</Dialog>
-          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>(It's so busy today...)</Dialog>
+          <Dialog>(▲姉ヶ崎＊▲.
+Nice timing.)</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。どうしたの？</Dialog>
-          <Dialog>ちょっと手伝って欲しいんだけど。</Dialog>
-          <Dialog>うーん、いいけど。お願いは？</Dialog>
-          <Dialog>え……。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>お願いします、姉ヶ崎さん。</Dialog>
-          <Dialog>よろしい、ふふ。</Dialog>
+          <Dialog>▲主人公＊▲.
+What's up？</Dialog>
+          <Dialog>I think I need your help.</Dialog>
+          <Dialog>Okay but you have to ask me
+nicely.</Dialog>
+          <Dialog>Eh...？</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Please, Anegasaki-san.</Dialog>
+          <Dialog>Very well. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2393,17 +2477,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（お客さん多いな、この調子じゃ休憩はしばらく無理か）</Dialog>
+          <Dialog>(So many customers today. I
+guess I won't have time for a
+break.)</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲、どうしたの？</Dialog>
-          <Dialog>もう休憩でしょ？　行ってきなさい。</Dialog>
-          <Dialog>でもこの混み具合じゃ……。</Dialog>
-          <Dialog>私が代わりにやっとくから。</Dialog>
-          <Dialog>それは……。</Dialog>
-          <Dialog>生意気言わないの。休むときは休む、ほら。</Dialog>
-          <Dialog>うん、わかった。ありがとう。</Dialog>
-          <Dialog>（未だに▲姉ヶ崎＊▲には世話になりっぱなしだな）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.
+What's wrong？</Dialog>
+          <Dialog>It's your break time, right？
+You should rest.</Dialog>
+          <Dialog>But it's so crowded like
+this...</Dialog>
+          <Dialog>I'll take charge now.</Dialog>
+          <Dialog>But...</Dialog>
+          <Dialog>Just be obedient. Break time
+is break time. Go.</Dialog>
+          <Dialog>Okay. I got it. Thank you.</Dialog>
+          <Dialog>(Even now,
+▲姉ヶ崎＊▲
+is still taking care of me...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2473,16 +2565,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ふぅ、終わった……。</Dialog>
-          <Dialog>あれ、▲姉ヶ崎＊▲？</Dialog>
+          <Dialog>Phew. It's done...</Dialog>
+          <Dialog>Eh？
+▲姉ヶ崎＊▲？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>●に用？　だったら中に入ってくればいいのに。</Dialog>
-          <Dialog>うん。でも上級生が教室まで会いに来たら迷惑かなって。</Dialog>
-          <Dialog>そんなことないって。</Dialog>
-          <Dialog>あぁ、もう席つかないと。</Dialog>
-          <Dialog>ごめんなさい。チャイムが鳴るまで話しちゃって、もう行くから。</Dialog>
-          <Dialog>そんな気にしなくたっていいよ。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Is there anything you want？
+Why didn't you just come in？</Dialog>
+          <Dialog>Well, it might not be good if
+a student of higher grade get
+in the classroom.</Dialog>
+          <Dialog>You don't have to worry about
+that.</Dialog>
+          <Dialog>Ah, class is about to start.</Dialog>
+          <Dialog>Sorry. I've been here until
+the bell rang. I've got to go.</Dialog>
+          <Dialog>Don't worry about that. It's
+okay.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2537,14 +2636,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ふぅ、終わった……。</Dialog>
-          <Dialog>（なんか視線を感じる……）</Dialog>
-          <Dialog>（▲姉ヶ崎＊▲か……）</Dialog>
-          <Dialog>▲姉ヶ崎＊▲、どうしたの？</Dialog>
+          <Dialog>Phew. It's done...</Dialog>
+          <Dialog>(I feel like someone is
+staring at me...)</Dialog>
+          <Dialog>(▲姉ヶ崎＊▲？)</Dialog>
+          <Dialog>▲姉ヶ崎＊▲,
+What's up？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>来ちゃった。ちゃんと私に気付くなんて、えらいえらい。</Dialog>
-          <Dialog>もう行くね。また、来るかも。</Dialog>
-          <Dialog>うん、わかった。</Dialog>
+          <Dialog>I'm here. You're great to
+notice that I'm here.</Dialog>
+          <Dialog>I have to go. I'll drop by
+again, I guess.</Dialog>
+          <Dialog>Okay. Got it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2604,14 +2707,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ふぅ、終わった……。</Dialog>
+          <Dialog>Phew. It's done...</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>▲姉ヶ崎＊▲。どうしたの、教室まで来るなんて。</Dialog>
-          <Dialog>もちろん、あなたに会いに来たんだよ？</Dialog>
-          <Dialog>よし、じゃあ行くね。また来るから。</Dialog>
-          <Dialog>うん、わかった。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲.
+What's the matter？ Why did
+you come to my class？</Dialog>
+          <Dialog>Of course, I want to see you.</Dialog>
+          <Dialog>Okay, I have to go. I'll drop
+by again.</Dialog>
+          <Dialog>Okay. Got it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2661,12 +2767,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ、どうかしたの？</Dialog>
+          <Dialog>Hey, what's the matter？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>周り、人いなくなったな。って思って。</Dialog>
-          <Dialog>そう、だけど？</Dialog>
-          <Dialog>いい？</Dialog>
-          <Dialog>断れないの、わかってるくせに。</Dialog>
+          <Dialog>I'm thinking that there aren't
+any people around.</Dialog>
+          <Dialog>Right. So？</Dialog>
+          <Dialog>Can we...？</Dialog>
+          <Dialog>You know that I can't refuse.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2721,13 +2828,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ、どうかした？</Dialog>
+          <Dialog>Hey, what's wrong？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>周り、人いなくなったな。って思って。</Dialog>
-          <Dialog>はぁ……もう！</Dialog>
-          <Dialog>いい？</Dialog>
-          <Dialog>いいけど、あまり調子に乗っちゃダメよ？</Dialog>
-          <Dialog>わかってるって。</Dialog>
+          <Dialog>I'm thinking that there aren't
+any people around.</Dialog>
+          <Dialog>Huh...？ Geez！</Dialog>
+          <Dialog>Can we...？</Dialog>
+          <Dialog>Yes... But don't get carried
+away, okay？</Dialog>
+          <Dialog>Okay, I know.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2777,12 +2886,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ、どうしたの？</Dialog>
+          <Dialog>Hey. What's the matter？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>周り、人いなくなったな。って思って。</Dialog>
-          <Dialog>……そうね？</Dialog>
-          <Dialog>いい？</Dialog>
-          <Dialog>しょうがないなぁ。</Dialog>
+          <Dialog>I'm thinking that there aren't
+any people around.</Dialog>
+          <Dialog>...That's right.</Dialog>
+          <Dialog>Can we...？</Dialog>
+          <Dialog>I have no choice, huh？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2806,7 +2916,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう、おしまい。恥ずかしいから……。</Dialog>
+          <Dialog>Hey, enough. It's
+embarrassing...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2831,9 +2942,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい、これで終わり。いい？</Dialog>
+          <Dialog>Okay, now it's enough. All
+right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はーい。</Dialog>
+          <Dialog>All right~</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2858,9 +2970,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>わかってると思うけど、今回は特別よ？</Dialog>
+          <Dialog>I think you already know that
+this is special just for
+today, okay？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>わかってまーす。</Dialog>
+          <Dialog>Okay, I know~</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2910,12 +3024,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なに？　どうかしたの？</Dialog>
+          <Dialog>What？ What's wrong？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>みんな、いないよな？</Dialog>
-          <Dialog>うん、そうみたい……。</Dialog>
-          <Dialog>いい？</Dialog>
-          <Dialog>もう、仕事中なのに……。</Dialog>
+          <Dialog>No one's here.</Dialog>
+          <Dialog>Yeah, it seems so...</Dialog>
+          <Dialog>Can we...？</Dialog>
+          <Dialog>Hey. We are at work now...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2965,12 +3079,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なに？　どうかした？</Dialog>
+          <Dialog>What？ What's wrong？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>みんな、いないよな？</Dialog>
-          <Dialog>こら、仕事中だぞ。</Dialog>
-          <Dialog>でも、いい？</Dialog>
-          <Dialog>もう、ずるいなぁ……。</Dialog>
+          <Dialog>No one's here.</Dialog>
+          <Dialog>Hey, we are at work.</Dialog>
+          <Dialog>But we can do it, right？</Dialog>
+          <Dialog>Ah, you're so crafty...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3020,12 +3134,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なぁに、どうしたの？</Dialog>
+          <Dialog>What？ What's wrong？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>みんな、いないよな？</Dialog>
-          <Dialog>あ、もぅ……。</Dialog>
-          <Dialog>いい？</Dialog>
-          <Dialog>仕事中だってこと、忘れちゃダメよ？</Dialog>
+          <Dialog>No one's here.</Dialog>
+          <Dialog>Ah, hey...</Dialog>
+          <Dialog>Can we...？</Dialog>
+          <Dialog>Just don't forget that we're
+at work now, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3060,10 +3175,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>っ……、今の聞かれたかな。</Dialog>
+          <Dialog>...... Someone might hear our
+noise.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>聞こえてないって。</Dialog>
-          <Dialog>ううん、もうやめにしよ。</Dialog>
+          <Dialog>No one would.</Dialog>
+          <Dialog>No, just stop it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3098,10 +3214,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>このくらいにしておこうか。</Dialog>
+          <Dialog>Do you think this is okay？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もう少し……。</Dialog>
-          <Dialog>ダーメ。人、来ちゃうから。</Dialog>
+          <Dialog>A little more...</Dialog>
+          <Dialog>No！ What if someone came
+here？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3136,10 +3253,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>満足した？</Dialog>
+          <Dialog>Are you satisfied？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん。</Dialog>
-          <Dialog>ふふ、素直でよろしい。</Dialog>
+          <Dialog>Yes.</Dialog>
+          <Dialog>Hehe, you're so honest.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3189,12 +3306,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……どうかしたの？</Dialog>
+          <Dialog>...What's wrong？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>誰もいないみたいだな？</Dialog>
-          <Dialog>……学校で？</Dialog>
-          <Dialog>いい？</Dialog>
-          <Dialog>ほどほどにね……。</Dialog>
+          <Dialog>Seems like no one's around.</Dialog>
+          <Dialog>...But, this is school.</Dialog>
+          <Dialog>Can we...？</Dialog>
+          <Dialog>Just not too much then...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3244,12 +3361,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……どうかした？</Dialog>
+          <Dialog>...What's the matter？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>誰もいないみたいだな？</Dialog>
-          <Dialog>ここ、学校だよ？</Dialog>
-          <Dialog>いい？</Dialog>
-          <Dialog>すぐ調子にのるんだから、もう。</Dialog>
+          <Dialog>Seems like no one's around.</Dialog>
+          <Dialog>This is school, you know？</Dialog>
+          <Dialog>Can we...？</Dialog>
+          <Dialog>You're getting carried away
+again. Geez.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3299,12 +3417,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どうしたの？</Dialog>
+          <Dialog>What's wrong？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>誰もいないみたいだな？</Dialog>
-          <Dialog>……甘えたいの？</Dialog>
-          <Dialog>うん。いい？</Dialog>
-          <Dialog>もう、学校なのになぁ。</Dialog>
+          <Dialog>Seems like no one's around.</Dialog>
+          <Dialog>...You are so spoiled.</Dialog>
+          <Dialog>Yeah... Then can we？</Dialog>
+          <Dialog>Hey, it's school here.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3339,10 +3457,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ほら、誰か来ちゃったから。</Dialog>
+          <Dialog>Hey, someone's coming.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もうちょっと！</Dialog>
-          <Dialog>もう、だめだってば。</Dialog>
+          <Dialog>Just a bit more！</Dialog>
+          <Dialog>No, enough already.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3377,10 +3495,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>人が来る前に、おしまいにしましょ。</Dialog>
+          <Dialog>Let's stop it before someone's
+here.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>大丈夫だって、来ないから。</Dialog>
-          <Dialog>ダーメ！</Dialog>
+          <Dialog>It's okay. No one's here.</Dialog>
+          <Dialog>It's not okay！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3415,10 +3534,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こんなの、今回だけだからね？</Dialog>
+          <Dialog>This is special just for this
+time. Really.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はいはーい。</Dialog>
-          <Dialog>もう▼</Dialog>
+          <Dialog>Okay, okay.</Dialog>
+          <Dialog>Hey▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

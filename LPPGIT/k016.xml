@@ -65,11 +65,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ん……？　どうかした？</Dialog>
-          <Dialog>おーい？　もしもーし？</Dialog>
-          <Dialog>……ちょっと、ほんとにどうしたの？</Dialog>
-          <Dialog>いいかげんにしないと怒るよ？</Dialog>
-          <Dialog>あっそ……。リンコ、もう帰るから。じゃ。</Dialog>
+          <Dialog>Hmm？ What's wrong？</Dialog>
+          <Dialog>Hey！ Hello？</Dialog>
+          <Dialog>...Wait. What is going on
+here？</Dialog>
+          <Dialog>If you don't tell me, I'll get
+angry.</Dialog>
+          <Dialog>Okay... I'll go home now. Bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -129,11 +131,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ん……？　で？</Dialog>
-          <Dialog>シカト？</Dialog>
-          <Dialog>そーですか。無視ですか。</Dialog>
-          <Dialog>リンコ、もう帰るけど？</Dialog>
-          <Dialog>ほんとに帰るからね！</Dialog>
+          <Dialog>Hmm...？ What？</Dialog>
+          <Dialog>Are you ignoring me？</Dialog>
+          <Dialog>So？ You are ignoring me.</Dialog>
+          <Dialog>I'm going home.</Dialog>
+          <Dialog>I'm really going home！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -193,11 +195,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ん？　急に黙ってどうかした？</Dialog>
-          <Dialog>ねえ……ねえってば。</Dialog>
-          <Dialog>リンコ、なんか気にさわるようなこと言った？</Dialog>
-          <Dialog>……ねえ、なんか言ってよ。</Dialog>
-          <Dialog>……もういい。帰る。</Dialog>
+          <Dialog>Hmm？ Why did you become quiet
+all of a sudden？</Dialog>
+          <Dialog>Hey... I said "Hey."</Dialog>
+          <Dialog>Did Rinko say something that
+hurt you？</Dialog>
+          <Dialog>...Hey, say something.</Dialog>
+          <Dialog>...Enough. I'm leaving.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -257,15 +261,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>どうしたの？　静かじゃん。</Dialog>
-          <Dialog>……もしかして、
-立ったまま寝てる？　
-器用だね。へぇー。</Dialog>
-          <Dialog>リンコ、ネコ耳
-つけてみよッかな～？</Dialog>
-          <Dialog>つけないっつーの！</Dialog>
-          <Dialog>乗りつっこみが滑ったときの
-辛さときたら……帰る……。</Dialog>
+          <Dialog>What happened？ You've been
+quiet.</Dialog>
+          <Dialog>...Are you sleep-walking？ So
+skillful. Hmm...</Dialog>
+          <Dialog>Shall Rinko wear a costume
+with cat's ears~？</Dialog>
+          <Dialog>Are you listening！？</Dialog>
+          <Dialog>If you aren't in the mood for
+this... I'm going home.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -325,11 +329,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ん……？　どうしたの？　黙っちゃって。</Dialog>
-          <Dialog>おーい。聞いてるー！　もしもーし！</Dialog>
-          <Dialog>それじゃあ、リンコがネコになって歌います。</Dialog>
-          <Dialog>ニャーン、ニャニャ～、ニャ～ニャニャニャ～ン♪</Dialog>
-          <Dialog>……サービス終了……帰る……。</Dialog>
+          <Dialog>Hmm...？ What's wrong？ You've
+been quiet.</Dialog>
+          <Dialog>Hey！ Are you listening！？
+Hello！</Dialog>
+          <Dialog>Then Rinko will sing a cat's
+song.</Dialog>
+          <Dialog>Meow, meow, meow. Meow, meow,
+meow~♪</Dialog>
+          <Dialog>...Enough for the service. I'm
+leaving...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -393,11 +402,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>どうしたの？　黙りこくっちゃって。</Dialog>
-          <Dialog>ねぇ。リンコを放っておかないでよー。</Dialog>
-          <Dialog>リンコは寂しいぞー。</Dialog>
-          <Dialog>ほら、にゃんにゃん。ネコリンコだよー。</Dialog>
-          <Dialog>……もういいよ。帰る。</Dialog>
+          <Dialog>What's wrong？ You're so
+quiet.</Dialog>
+          <Dialog>Hey, don't ignore Rinko like
+this.</Dialog>
+          <Dialog>Rinko is getting lonely.</Dialog>
+          <Dialog>Hey, meow, meow. This is Rinko
+the Kitten.</Dialog>
+          <Dialog>...This is enough. I'm
+leaving.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -457,11 +470,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ん……？　で？</Dialog>
-          <Dialog>ねえ？</Dialog>
-          <Dialog>なんか言えば……？</Dialog>
-          <Dialog>……もうリンコと話すことはないってこと？</Dialog>
-          <Dialog>もう帰る……。</Dialog>
+          <Dialog>Hmm...？ What？</Dialog>
+          <Dialog>Hey！</Dialog>
+          <Dialog>Can you say something...？</Dialog>
+          <Dialog>...You don't want to talk to
+Rinko？</Dialog>
+          <Dialog>I'm going home...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -524,11 +538,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……で？　さっきから、なに？</Dialog>
-          <Dialog>黙ってんなら帰るけど？</Dialog>
-          <Dialog>ホントに帰るけど……？</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>もういい……。それじゃ。</Dialog>
+          <Dialog>...Hey. What's wrong with
+you？</Dialog>
+          <Dialog>If you don't speak, I'll go
+home.</Dialog>
+          <Dialog>I'm really going home...</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Enough... Bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -588,11 +604,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……さっきから、どうかした？</Dialog>
-          <Dialog>ねえ……ほんとにどうしたの？</Dialog>
-          <Dialog>ねえ、なんか言ってよ……。</Dialog>
-          <Dialog>リンコのこと、嫌いになっちゃった？</Dialog>
-          <Dialog>そっか……リンコ、帰るね……。</Dialog>
+          <Dialog>...What's wrong with you？</Dialog>
+          <Dialog>Hey... What happened？</Dialog>
+          <Dialog>Hey, say something...</Dialog>
+          <Dialog>Do you hate Rinko？</Dialog>
+          <Dialog>Well... Rinko is leaving
+now...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -642,12 +659,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>もういいよ。わかった。</Dialog>
+          <Dialog>Enough already. I got it.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっ……？</Dialog>
-          <Dialog>今日は最悪だってこと。気持ち、切り替えて、またデートしよ。</Dialog>
-          <Dialog>いや、待ってくれ……。</Dialog>
-          <Dialog>バイバイ。</Dialog>
+          <Dialog>Eh...？</Dialog>
+          <Dialog>Today is the worst. I'll mend
+my feelings, then let's date
+again someday.</Dialog>
+          <Dialog>No, wait...</Dialog>
+          <Dialog>Bye-bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -697,12 +716,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>つまんない。</Dialog>
+          <Dialog>Boring.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そ、そうかな……。</Dialog>
-          <Dialog>わざとリンコを怒らせようとしてたんだよね？</Dialog>
-          <Dialog>ごめん……。</Dialog>
-          <Dialog>もういいから。</Dialog>
+          <Dialog>I-Is that so...？</Dialog>
+          <Dialog>You're just trying to make
+Rinko mad, aren't you？</Dialog>
+          <Dialog>Sorry...</Dialog>
+          <Dialog>It's over already.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -752,12 +772,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>今日のデート、ちっとも楽しくないな……。</Dialog>
+          <Dialog>Today's date isn't very fun...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そ、そう？</Dialog>
-          <Dialog>リンコのこと、全然考えてくれてないし？</Dialog>
-          <Dialog>そんなことないよ……。</Dialog>
-          <Dialog>はぁ……今日は無理！　リンコ、帰るから！</Dialog>
+          <Dialog>R-Really？</Dialog>
+          <Dialog>You're not thinking about
+Rinko at all, are you？</Dialog>
+          <Dialog>It's not like that...</Dialog>
+          <Dialog>Haa... Today is just a waste！
+Rinko will go home！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -807,12 +829,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あはははは。</Dialog>
+          <Dialog>Ahahaha.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ど、どうしたの？</Dialog>
-          <Dialog>なんかさ、もう一周して笑えてくるよね。つまんなくて。</Dialog>
-          <Dialog>うん。最後に笑えたのが救いかな。それじゃ、リンコ、帰るから。</Dialog>
-          <Dialog>えっ、そんな！</Dialog>
+          <Dialog>W-What happened？</Dialog>
+          <Dialog>Why don't you try laughing it
+out？ It's just so boring.</Dialog>
+          <Dialog>Yeah, it's a relief to laugh
+in the end of it all. Now
+Rinko's going home.</Dialog>
+          <Dialog>Eh？ Wait！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -866,12 +891,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>もうダメ……。限界。</Dialog>
+          <Dialog>Enough... This is my limit.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっ……？</Dialog>
-          <Dialog>ほんと、今までよく付き合ってきたって思うよ。我慢大会なら、いいとこ行くかもね！</Dialog>
-          <Dialog>あ、あの……。</Dialog>
-          <Dialog>もう帰るから。じゃあ！</Dialog>
+          <Dialog>Eh...？</Dialog>
+          <Dialog>I've been with you until now.
+I'm good to go if I have to
+participate in a patience
+contest！</Dialog>
+          <Dialog>W-Well...</Dialog>
+          <Dialog>I'm going home. Bye！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -921,12 +949,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……これって楽しくないよね？</Dialog>
+          <Dialog>...This isn't fun.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今日のデート、楽しくないか？</Dialog>
-          <Dialog>もうリンコのことなんて、どうでもいいんでしょ！</Dialog>
-          <Dialog>ばかばかばか！　もう帰る！</Dialog>
-          <Dialog>せめて言い訳くらい聞いてくれー！</Dialog>
+          <Dialog>Today's date is not fun？</Dialog>
+          <Dialog>Now Rinko doesn't care
+anymore！</Dialog>
+          <Dialog>Stupid stupid stupid！ I'm
+going home！</Dialog>
+          <Dialog>Wait！ I have a good reason
+for this！ Please listen！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -976,12 +1007,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……もう帰る。</Dialog>
+          <Dialog>...I'm going home.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ええっ！</Dialog>
-          <Dialog>別に、お互い無理して一緒にいなくていいじゃん……。</Dialog>
-          <Dialog>お、おい……待って……。</Dialog>
-          <Dialog>いや。一人で帰るから。</Dialog>
+          <Dialog>Eeeeh？？</Dialog>
+          <Dialog>We both shouldn't keep forcing
+ourselves to be together...</Dialog>
+          <Dialog>H-Hey... Wait...</Dialog>
+          <Dialog>No. I'll go home by myself.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1035,12 +1067,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>どういうことか説明して。</Dialog>
+          <Dialog>Can you explain this？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっ？　なにが……。</Dialog>
-          <Dialog>もしかしてリンコたち、相性悪いのかな？　なんでこんな風になったのか、よくわかんない。</Dialog>
-          <Dialog>お、おいっ!?</Dialog>
-          <Dialog>……今日はもう帰るから。</Dialog>
+          <Dialog>Eh？ Explain what...？</Dialog>
+          <Dialog>Are we possibly not a good
+match？ I don't really
+understand why I feel this
+way...</Dialog>
+          <Dialog>H-Hey！</Dialog>
+          <Dialog>...I'm going home.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1090,12 +1125,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……リンコといても楽しくない？</Dialog>
+          <Dialog>...Is being with Rinko not
+fun？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そんなことないよ。</Dialog>
-          <Dialog>ウソ。だって……今日は全然、笑ってくれないもん……。</Dialog>
-          <Dialog>そんな……。</Dialog>
-          <Dialog>……だからリンコ、もう帰るね。</Dialog>
+          <Dialog>It's not like that.</Dialog>
+          <Dialog>Liar. You didn't smile at all
+today.</Dialog>
+          <Dialog>That's...</Dialog>
+          <Dialog>That's why, Rinko is going
+home.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

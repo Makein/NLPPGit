@@ -670,86 +670,171 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ふぅ、今日もバイト終了っと……。</Dialog>
-          <Dialog>あ、メール……。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲からだ。先にあがったはずなのに、何か忘れ物かな。</Dialog>
-          <Dialog>学校の校舎裏に来てください。
-ネネ</Dialog>
-          <Dialog>（メールで呼び出しなんて……）</Dialog>
-          <Dialog>（それにしても学校？　なんで……）</Dialog>
-          <Dialog>（校舎裏……）</Dialog>
+          <Dialog>Phew, I'm done with my work
+today...</Dialog>
+          <Dialog>Ah, a message...</Dialog>
+          <Dialog>▲姉ヶ崎＊▲
+sent me a message？
+She's just left. I
+wonder if she forgot
+something here.</Dialog>
+          <Dialog>"Please come to the school's
+backyard. - Nene."</Dialog>
+          <Dialog>(She sent me a message asking
+me to meet her...)</Dialog>
+          <Dialog>(But why at school...？)</Dialog>
+          <Dialog>(In the backyard...)</Dialog>
           <Dialog>▲姉ヶ崎＊▲！</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲……。</Dialog>
-          <Dialog>どうしたの、いきなり。しかも、なんでわざわざ学校に……。</Dialog>
-          <Dialog>うん、デキシーズでもいいかなって思ったんだけど。</Dialog>
-          <Dialog>もし、もしね。私があなたと同じ学年だったら……。</Dialog>
-          <Dialog>学校で出会うこともあったのかな、って。</Dialog>
-          <Dialog>同じ時間を、学校で一番多く過ごすこともあったのかな、って。</Dialog>
-          <Dialog>そんなこと考えてるうちに、ここに来ちゃった……。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
-          <Dialog>あのね、初めて出会ったときのこと、覚えてるかな？</Dialog>
-          <Dialog>うん、●、間違えて店の表から入っちゃって……。</Dialog>
-          <Dialog>この子、いきなりドジして、この先大丈夫かなって、ほんのちょっとだけ思っちゃった。</Dialog>
-          <Dialog>ふふ、春の陽気のせいだったのかな？</Dialog>
-          <Dialog>暑かった。そしたら、ほんとに暑そうな▲姉ヶ崎＊▲が荷物抱えて、頑張ってた。</Dialog>
-          <Dialog>ふふ、ちょっと愚痴ってたんだよね。聞かれて恥ずかしかったんだよ？</Dialog>
-          <Dialog>暑さと仕事で、少しまいってたのかな……。</Dialog>
-          <Dialog>秋の涼しい日だったな、初めてのバイト先に行ったら、キレイな人がいてびっくりした。</Dialog>
-          <Dialog>そう、会っていきなりそんなお世辞言うんだもん。びっくりしちゃった。</Dialog>
-          <Dialog>お世辞じゃないんだけどな、そのときも言ったけど。</Dialog>
-          <Dialog>調子のいい子なのかなって、そのときは誤解しちゃった。</Dialog>
-          <Dialog>すごく寒い日で、そんな中、店の前掃除してたよね。</Dialog>
-          <Dialog>うん、辛かったなぁ、あれは……。</Dialog>
-          <Dialog>実はね、あの日はひとりお休みしたスタッフがいて、私が代わりに外の掃除をすることになったの。</Dialog>
-          <Dialog>あのときね、考えてたんだ……。</Dialog>
-          <Dialog>何を？</Dialog>
-          <Dialog>新しい子が入ってきて、指導役をすることになって、しかもそれが学校の後輩で……。</Dialog>
-          <Dialog>きっとまた頼りにされちゃうんだろうな、って。</Dialog>
-          <Dialog>イヤだったの？</Dialog>
-          <Dialog>ううん、違うの。ただ、そうなるんだろうな、って思ってたの。今までがそうだったから……。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>でもね、違ったの。裏切られちゃった。</Dialog>
-          <Dialog>裏切る？</Dialog>
-          <Dialog>うん、たしかに頼りないところもあって、年下っぽいな、って思ったけど、それだけじゃなくって。</Dialog>
-          <Dialog>辛かったら頼って？　なんて、そんなことまで言っちゃう男の子。</Dialog>
-          <Dialog>いつか言ったっけ、ほんとの私は、そんなにしっかりした人間じゃないって。</Dialog>
-          <Dialog>うん……。</Dialog>
-          <Dialog>私……私ね。</Dialog>
-          <Dialog>……好きな人がいたの。</Dialog>
-          <Dialog>年上の人……私、その人に相応しくなろうとして、目一杯、背伸びし続けたの……。</Dialog>
-          <Dialog>その結果、頼れるみんなの寧々さんが出来上がっちゃった。</Dialog>
-          <Dialog>でもそうじゃないの、私はただ、好きな人に気に入られたいの。</Dialog>
-          <Dialog>好きな人にそばにいてほしいの……。</Dialog>
-          <Dialog>私を……あなたのそばにおいてほしいの……。</Dialog>
-          <Dialog>あなたが……好きなの……。</Dialog>
-          <Dialog>●も好きだ</Dialog>
-          <Dialog>ごめん</Dialog>
-          <Dialog>……いいの？</Dialog>
-          <Dialog>ああ、●も▲姉ヶ崎＊▲にそばにいてほしい。</Dialog>
-          <Dialog>カノジョになってほしい。</Dialog>
-          <Dialog>うれしい……。</Dialog>
-          <Dialog>●も……。</Dialog>
-          <Dialog>そばに、いっていい？</Dialog>
-          <Dialog>ずっと、こうしたかった……。</Dialog>
-          <Dialog>キス、してもいい……？</Dialog>
-          <Dialog>あ……。</Dialog>
+          <Dialog>▲主人公＊▲...</Dialog>
+          <Dialog>What's the matter？ Why did
+you message me all of a
+sudden？ And why at
+school...？</Dialog>
+          <Dialog>Well, I was thinking that
+Dixie's might be okay, but...</Dialog>
+          <Dialog>Supposing... Just supposing
+that we were in the same
+grade...</Dialog>
+          <Dialog>We could have met at school...</Dialog>
+          <Dialog>And we could have spent most
+of our time together at
+school...</Dialog>
+          <Dialog>When I thought about that, I
+just chose this place without
+realizing...</Dialog>
+          <Dialog>▲姉ヶ崎＊▲...</Dialog>
+          <Dialog>Hey, do you remember the first
+time we met？</Dialog>
+          <Dialog>Yes, I made a mistake by
+entering Dixie's from the
+front door...</Dialog>
+          <Dialog>Actually, I was thinking, "If
+this kid was such a burden
+like that, it might be hard
+for me to work with him."</Dialog>
+          <Dialog>Well, blame it on the nice
+Spring weather, hm？</Dialog>
+          <Dialog>It was really hot. And
+▲姉ヶ崎＊▲,
+you were carrying a large
+bucket. You seemed to be
+working hard.</Dialog>
+          <Dialog>Hehe. And I was grumbling. It
+was really embarrassing that
+you heard it.</Dialog>
+          <Dialog>I'm not quite good at working
+under the heat...</Dialog>
+          <Dialog>It was on a cool day in the
+Fall. I was about to go to
+work and was surprised to meet
+such a beautiful girl.</Dialog>
+          <Dialog>Right, and you flattered me at
+the first moment we met. I was
+also surprised.</Dialog>
+          <Dialog>I didn't flatter you. And I
+told you that already.</Dialog>
+          <Dialog>That caused me some
+misunderstanding and I even
+doubted whether or not you
+would be a nice kid.</Dialog>
+          <Dialog>It was a very cold day. You
+were sweeping in front of the
+restaurant, right？</Dialog>
+          <Dialog>Yeah, that was such a painful
+work...</Dialog>
+          <Dialog>Actually, another staff member
+was absent on that day. That's
+why I had to sweep out there.</Dialog>
+          <Dialog>What I was thinking back then
+was that...</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>...The new employee had
+arrived and I had to give him
+guidance. He happened to be a
+junior at my school, so...</Dialog>
+          <Dialog>He would surely rely on me a
+lot.</Dialog>
+          <Dialog>Did I trouble you？</Dialog>
+          <Dialog>No, you didn't. That was just
+the feeling I had back then.
+But...</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>But, I knew I was wrong.
+You've betrayed me.</Dialog>
+          <Dialog>I betrayed you？</Dialog>
+          <Dialog>Yes, you're still not quite
+reliable and you still act
+childish, but it's not just
+like that.</Dialog>
+          <Dialog>"You can rely on me." You're
+the kind of guy who said that
+to me.</Dialog>
+          <Dialog>I've told you before that I am
+not as strong as I look.</Dialog>
+          <Dialog>Yes...</Dialog>
+          <Dialog>I... I...</Dialog>
+          <Dialog>I had a person that I liked.</Dialog>
+          <Dialog>He was an upperclassman. To be
+a girl that'd be suitable for
+him, I tried my best in
+everything...</Dialog>
+          <Dialog>As a result, I've become this
+reliable Nene-san that
+everyone knows.</Dialog>
+          <Dialog>But I'm not that reliable... I
+just want the person I love to
+like me.</Dialog>
+          <Dialog>I want the person I love to be
+by my side...</Dialog>
+          <Dialog>I... want you to be by my
+side...</Dialog>
+          <Dialog>I... love you...</Dialog>
+          <Dialog>I love you, too</Dialog>
+          <Dialog>Sorry</Dialog>
+          <Dialog>...Really？</Dialog>
+          <Dialog>Yes, I also want
+▲姉ヶ崎＊▲
+to be by my side.</Dialog>
+          <Dialog>I want you to be my
+girlfriend.</Dialog>
+          <Dialog>I'm so happy...</Dialog>
+          <Dialog>Me, too...</Dialog>
+          <Dialog>Can I get closer to you？</Dialog>
+          <Dialog>I've always wanted to do
+this...</Dialog>
+          <Dialog>Can I kiss you...？</Dialog>
+          <Dialog>Yeah...</Dialog>
           <Dialog>▲姉ヶ崎＊▲？</Dialog>
-          <Dialog>なんでもない……いいよ……。</Dialog>
-          <Dialog>（……！）</Dialog>
-          <Dialog>ごめんね？　こんなキスで……。</Dialog>
-          <Dialog>あとでもう一度、謝るから……。</Dialog>
-          <Dialog>●は、そんな風には考えられないよ……。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲は好きだけど……。</Dialog>
-          <Dialog>それは違う意味だから……だから……。</Dialog>
-          <Dialog>ううん、いいの……ありがとう、話、聞いてくれて。</Dialog>
-          <Dialog>ごめん……。</Dialog>
-          <Dialog>謝らないで、私が言い出したことだもの。</Dialog>
-          <Dialog>でも、どうしよう……これから。</Dialog>
-          <Dialog>できれば、このまま好きでいさせて……。</Dialog>
-          <Dialog>うん、●も友人として、▲姉ヶ崎＊▲のことは好きでい続けるよ……。</Dialog>
-          <Dialog>ありがとう、でもいいの。好きでいることを許してくれさえしたら、たとえ友達じゃなくても……。</Dialog>
-          <Dialog>好き……。</Dialog>
+          <Dialog>Never mind... It's okay...</Dialog>
+          <Dialog>(...！)</Dialog>
+          <Dialog>I'm sorry. Our kiss was like
+that...</Dialog>
+          <Dialog>We can make up for this later,
+right...？</Dialog>
+          <Dialog>I don't think of you that
+way...</Dialog>
+          <Dialog>▲姉ヶ崎＊▲,
+I like you, but...</Dialog>
+          <Dialog>It's not the same feeling that
+you have for me, so...</Dialog>
+          <Dialog>No, don't worry... Thanks for
+hearing me out.</Dialog>
+          <Dialog>Sorry...</Dialog>
+          <Dialog>Don't apologize. I was the one
+that called you here.</Dialog>
+          <Dialog>But, what will we be after
+this...？</Dialog>
+          <Dialog>If possible, can I keep having
+this feeling toward you...？</Dialog>
+          <Dialog>I'll also continue liking
+▲姉ヶ崎＊▲
+as my friend...</Dialog>
+          <Dialog>Thanks. I'll keep on loving
+you, even though my feelings
+for you are more than feelings
+for a friend...</Dialog>
+          <Dialog>I love you...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1383,86 +1468,162 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ふぅ、今日もバイト終了っと……。</Dialog>
-          <Dialog>電話……▲姉ヶ崎＊▲？　先にあがったはずだけど……。</Dialog>
-          <Dialog>もしもし……。</Dialog>
+          <Dialog>Phew, I've finished my work
+today...</Dialog>
+          <Dialog>Telephone... From
+▲姉ヶ崎＊▲？
+Although she has just left...</Dialog>
+          <Dialog>Hello...</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もしもし、あのね……。</Dialog>
-          <Dialog>（わざわざ電話で呼び出しなんて……）</Dialog>
-          <Dialog>（それにしても……どうして学校なんだ……？）</Dialog>
-          <Dialog>（校舎裏だったな……）</Dialog>
+          <Dialog>Hello. Um...</Dialog>
+          <Dialog>(She called me out...)</Dialog>
+          <Dialog>(But, why at school？)</Dialog>
+          <Dialog>(In the backyard...)</Dialog>
           <Dialog>▲姉ヶ崎＊▲！</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>電話で呼び出しって、どうしたの？</Dialog>
-          <Dialog>しかも、わざわざ学校まで……。</Dialog>
-          <Dialog>だって……、デキシーズには、あなたとの思い出がたくさんあるけど、欲しいのは今までの思い出じゃないんだもの。</Dialog>
-          <Dialog>え……？</Dialog>
-          <Dialog>ねぇ、初めて会ったときのこと、覚えてる？</Dialog>
-          <Dialog>●……従業員用じゃなくて、表の入口から入っちゃって……。</Dialog>
-          <Dialog>ふふ、そうそう。これは教育し甲斐のある子だなって思ったの。春の陽気で頭がぼーっとしちゃってたのかな？</Dialog>
-          <Dialog>暑い中。▲姉ヶ崎＊▲が汗流しながら頑張ってた……。</Dialog>
-          <Dialog>もぅ、そんな恥ずかしい格好、忘れてもいいのに。</Dialog>
-          <Dialog>恥ずかしくなんか……一生懸命だなって。</Dialog>
-          <Dialog>ほんとに？　ならいいけど。</Dialog>
-          <Dialog>涼しい秋の日で……、バイト先で美人に会ったんだよな。</Dialog>
-          <Dialog>もぅ、初対面の女の子にそんなことばかり言ってると、ダメな大人になっちゃうよ？</Dialog>
-          <Dialog>ばかりって……あれは咄嗟に口から出て……。</Dialog>
-          <Dialog>ふふ、冗談。</Dialog>
-          <Dialog>すごく寒かったね。外の掃除が大変そうだった。</Dialog>
-          <Dialog>うん、あれは辛かったな、手がかじかんじゃって。</Dialog>
-          <Dialog>でもあれは、お休みしたスタッフのヘルプだったんだよね……。</Dialog>
-          <Dialog>あのときね、すこーしだけユウウツだったの。</Dialog>
-          <Dialog>え、どうして？</Dialog>
-          <Dialog>だってまた新人の指導役、おまけに同じ学校の後輩……。</Dialog>
-          <Dialog>ごめん……。</Dialog>
-          <Dialog>ふふ、謝らなくていいの。イジワルしちゃった。</Dialog>
-          <Dialog>でもね、面白かったからいいの……。</Dialog>
-          <Dialog>面白い？</Dialog>
-          <Dialog>そう。新人のくせに、年下のくせに。自分を頼ってくれなんていう生意気な男の子。</Dialog>
-          <Dialog>すごく面白くて……嬉しかったんだ、そんな風に言ってくれて。</Dialog>
-          <Dialog>そっか……。</Dialog>
-          <Dialog>いつか言ったよね、私、ほんとうはしっかりした人間なんかじゃないって。</Dialog>
-          <Dialog>うん……。</Dialog>
-          <Dialog>私ね、好きな人がいたんだ。</Dialog>
-          <Dialog>年上の人。</Dialog>
-          <Dialog>私は、がんばって、無理して、その人の隣に立っていようとしたの。</Dialog>
-          <Dialog>それだけのことなの。</Dialog>
-          <Dialog>思い返すと、そんな自分は正しかったのかなって気持ちもあったんだけど……。</Dialog>
-          <Dialog>今のあなたを見てたら、あのときの自分は間違ってなかったんじゃないかって思えるの。</Dialog>
-          <Dialog>だって、頑張ってるあなたは純粋で、可愛くて、魅力的で……。</Dialog>
-          <Dialog>私は、好きになっちゃったんだから……。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
-          <Dialog>私の、カレシになってくれないかな……？</Dialog>
-          <Dialog>●も好きだ</Dialog>
-          <Dialog>ごめん</Dialog>
-          <Dialog>え、いいんだ……。</Dialog>
-          <Dialog>うん……●で良かったら、▲姉ヶ崎＊▲のカレシにしてほしい。</Dialog>
-          <Dialog>……カノジョだよ？　お姉さんじゃないからね？</Dialog>
-          <Dialog>うん、わかってる……。</Dialog>
-          <Dialog>そっか、今からあなたがカレシなんだね。</Dialog>
-          <Dialog>……ね、そっち行くよ？</Dialog>
-          <Dialog>う、うん……。</Dialog>
-          <Dialog>ふふ、ドキドキしてない？</Dialog>
-          <Dialog>そりゃそうだよ……。</Dialog>
-          <Dialog>キス、したいって思わない？</Dialog>
-          <Dialog>それは……。</Dialog>
-          <Dialog>私は、思ってる……。</Dialog>
-          <Dialog>（……！）</Dialog>
-          <Dialog>……どうしたの？</Dialog>
-          <Dialog>だ、だって……。</Dialog>
-          <Dialog>ねぇ、黙って？</Dialog>
-          <Dialog>そっちがどうしたのって……。</Dialog>
-          <Dialog>黙って……。</Dialog>
-          <Dialog>●は、そういうのじゃなくて……。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲のこと好きだけど、たぶん▲姉ヶ崎＊▲とは違う好きで……。</Dialog>
-          <Dialog>だから……。</Dialog>
-          <Dialog>ううん、もういいよ。</Dialog>
-          <Dialog>残念だけど、しょうがないよね……。</Dialog>
-          <Dialog>もう、謝らないの。そういうとこも、好きになったんだけど……。</Dialog>
-          <Dialog>ね、これから避けたりしないでね？</Dialog>
-          <Dialog>うん、もちろん。</Dialog>
-          <Dialog>ならいいの……。</Dialog>
-          <Dialog>これからも、よろしくね。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Why did you call to ask me
+out？</Dialog>
+          <Dialog>And, why at school？</Dialog>
+          <Dialog>Because... There were a lot
+things happened between us at
+Dixie's, but that's not what I
+want us to be.</Dialog>
+          <Dialog>Eh...？</Dialog>
+          <Dialog>Hey, do you remember the first
+time we met？</Dialog>
+          <Dialog>Ah... I went in Dixie's front
+door instead of employees'
+entrance...</Dialog>
+          <Dialog>Right. I doubted if I could
+train you. That clumsiness was
+because of Spring's joyful
+atmosphere, huh？</Dialog>
+          <Dialog>It was in the
+middle of the Summer.
+▲姉ヶ崎＊▲
+was sweating while working
+hard on her job.</Dialog>
+          <Dialog>Geez, you should've forgotten
+about that embarrassing
+moment.</Dialog>
+          <Dialog>Embarrassing...？ I was just
+thinking that you were really
+working hard.</Dialog>
+          <Dialog>Really？ Then that's fine.</Dialog>
+          <Dialog>It was a cool day in the fall.
+I went to work and met a
+beautiful girl.</Dialog>
+          <Dialog>Geez, if you keep saying this
+kind of thing in front of
+women, you won't grow up to be
+a good man, you know？</Dialog>
+          <Dialog>"Keep saying"？ I had only
+said it once...</Dialog>
+          <Dialog>Hehe, just kidding.</Dialog>
+          <Dialog>It was on a very cold day. You
+were sweeping outside. It
+seemed like a tough job.</Dialog>
+          <Dialog>Yeah, it was so painful. My
+hands became all numb.</Dialog>
+          <Dialog>But actually, I was helping
+out because of an absent staff
+member...</Dialog>
+          <Dialog>At that time, I was a little
+depressed.</Dialog>
+          <Dialog>Eh？ Why？</Dialog>
+          <Dialog>Because there was a new
+employee that I had to train.
+To make the matter worse, he
+was my junior at my school...</Dialog>
+          <Dialog>Sorry...</Dialog>
+          <Dialog>Hehe. You don't have to
+apologize. I was just teasing
+you.</Dialog>
+          <Dialog>But he turned out to be
+interesting, so it was fine...</Dialog>
+          <Dialog>Interesting？</Dialog>
+          <Dialog>Right. He was a newcomer, and
+younger than me, yet he asked
+me to rely on him. Such a
+cheeky guy.</Dialog>
+          <Dialog>That was very interesting. I
+was really happy when he said
+that to me.</Dialog>
+          <Dialog>Really...？</Dialog>
+          <Dialog>I've told you before that I'm
+not as strong as I look.</Dialog>
+          <Dialog>Yes...</Dialog>
+          <Dialog>I had a person that I liked.</Dialog>
+          <Dialog>He was an upperclassman.</Dialog>
+          <Dialog>I always tried my very best
+just to be able to stand by
+his side.</Dialog>
+          <Dialog>That was the only reason...</Dialog>
+          <Dialog>To think back, I'm not sure if
+that was the right thing to
+do...</Dialog>
+          <Dialog>Now that I'm looking at you
+here, I really doubt that what
+I had always done might be
+wrong.</Dialog>
+          <Dialog>Look at how you've always
+tried your best... You're
+innocent, cute, and
+charming...</Dialog>
+          <Dialog>And, I have fallen in love
+with you...</Dialog>
+          <Dialog>▲姉ヶ崎＊▲...</Dialog>
+          <Dialog>...Will you become my
+boyfriend...？</Dialog>
+          <Dialog>I love you</Dialog>
+          <Dialog>Sorry</Dialog>
+          <Dialog>Eh？ Really...？</Dialog>
+          <Dialog>Yes...
+If you think I'm
+good enough for you,
+I want to be
+▲姉ヶ崎＊▲'s
+boyfriend.</Dialog>
+          <Dialog>...Then I'll be your
+girlfriend, not your big
+sister, you know？</Dialog>
+          <Dialog>Yes, I know...</Dialog>
+          <Dialog>I see. Then from now on, you
+are my boyfriend.</Dialog>
+          <Dialog>...Hey, I'm going there.</Dialog>
+          <Dialog>O-Okay...</Dialog>
+          <Dialog>Hehe, isn't your heart
+throbbing？</Dialog>
+          <Dialog>That's right...</Dialog>
+          <Dialog>Don't you want to kiss？</Dialog>
+          <Dialog>That's...</Dialog>
+          <Dialog>I want to...</Dialog>
+          <Dialog>(...！)</Dialog>
+          <Dialog>...What's wrong？</Dialog>
+          <Dialog>B-But...</Dialog>
+          <Dialog>Hey, stop speaking.</Dialog>
+          <Dialog>I wonder if you are...</Dialog>
+          <Dialog>Stop speaking...</Dialog>
+          <Dialog>I don't think of you like
+that...</Dialog>
+          <Dialog>▲姉ヶ崎＊▲,
+I like you, but it's not the
+same feeling as what
+▲姉ヶ崎＊▲
+has toward me...</Dialog>
+          <Dialog>So...</Dialog>
+          <Dialog>No, it's okay.</Dialog>
+          <Dialog>This is too bad, but it can't
+be helped...</Dialog>
+          <Dialog>Don't apologize anymore. One
+reason I love you is because
+you're like this...</Dialog>
+          <Dialog>Hey, from now on, you won't
+try to avoid me, right？</Dialog>
+          <Dialog>No, I won't.</Dialog>
+          <Dialog>Then that's fine...</Dialog>
+          <Dialog>Please continue to be nice to
+me, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2131,87 +2292,165 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ふぅ、もう少しで終わりだ。もうひと踏ん張りするか！</Dialog>
+          <Dialog>Phew, just a little bit more
+until today's job is done.
+I'll just hang in there！</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲……そっか今日は早あがりだっけ。</Dialog>
-          <Dialog>あのね……。</Dialog>
-          <Dialog>（バイト終わったら話したいって、なんだろう……）</Dialog>
-          <Dialog>（しかも学校？　どうして……）</Dialog>
-          <Dialog>（校舎裏だったな……）</Dialog>
+          <Dialog>Hey.</Dialog>
+          <Dialog>▲姉ヶ崎＊▲...
+Did you finish your
+work early today？</Dialog>
+          <Dialog>Well...</Dialog>
+          <Dialog>(She said she had something to
+talk to me after I finished my
+work. What could it be...？)</Dialog>
+          <Dialog>(And, why at school...？)</Dialog>
+          <Dialog>(In the backyard, huh...？)</Dialog>
           <Dialog>▲姉ヶ崎＊▲！</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>どうしたの、話があるって。</Dialog>
-          <Dialog>それもデキシーズじゃなくて、学校でって……。</Dialog>
-          <Dialog>だって、デキシーズだと邪魔が入っちゃうかもしれないじゃない。</Dialog>
-          <Dialog>ふたりっきりで、話がしたいの。</Dialog>
-          <Dialog>ううん、ふたりきりじゃないと、話せないこと……。</Dialog>
-          <Dialog>それって……？</Dialog>
-          <Dialog>もぅ、急かさないで……。</Dialog>
-          <Dialog>待ってる間にね、あなたと初めて会ったときのこと思い出してたの。</Dialog>
-          <Dialog>え……。</Dialog>
-          <Dialog>ねぇ、あなたは覚えてる？</Dialog>
-          <Dialog>働きに来たのに、普通に正面から入っちゃったんだよね、●……。</Dialog>
-          <Dialog>ふふ、あれじゃお客様だって思っちゃうよ。</Dialog>
-          <Dialog>ぽかぽかした日だったし、そのせいだったりして？　ふふ。</Dialog>
-          <Dialog>暑い日だったけど、▲姉ヶ崎＊▲は一生懸命働いてた。</Dialog>
-          <Dialog>あのときは……正直まいってたの……。</Dialog>
-          <Dialog>暑いし重いしで……見られてちょっと恥ずかしかったな。</Dialog>
-          <Dialog>秋の涼しい日で……応対してくれた▲姉ヶ崎＊▲が美人でびっくりした……。</Dialog>
-          <Dialog>そんなお世辞まで再現しなくていいの。</Dialog>
-          <Dialog>あれは、正直な感想がつい……。</Dialog>
-          <Dialog>もぅ、恥ずかしいなぁ。</Dialog>
-          <Dialog>店の外の掃除してたね、すごく寒い日だったのに。</Dialog>
-          <Dialog>あれは辛かったなぁ……なんでよりによってこんな日に！　って思ってた。</Dialog>
-          <Dialog>お休みしたスタッフのヘルプだったから、余計にね。</Dialog>
-          <Dialog>あのときは、こんなことになるなんて、思ってもみなかった……。</Dialog>
-          <Dialog>こんなこと？</Dialog>
-          <Dialog>学校の後輩相手に指導役、きっとまた頼りにされちゃうんだろうなって。</Dialog>
-          <Dialog>……その通りになって、ごめん。</Dialog>
-          <Dialog>ふふ、いいの。そこまでは予想通りだったんだけどね。</Dialog>
-          <Dialog>慣れない仕事に一生懸命なくせに、先輩に、自分のこと頼ってもいい、なんて。すごく可愛かった。</Dialog>
-          <Dialog>新人には早く一人前になってほしい、って思うけど、あなたは違った。</Dialog>
-          <Dialog>いつまでも面倒見ていたいな、このまま離したくないな、って。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>前に話したよね、ほんとうの私はしっかりした人間じゃないって。</Dialog>
-          <Dialog>うん……。</Dialog>
-          <Dialog>あのね、私、好きな人がいたの……。</Dialog>
-          <Dialog>年上の人だった。</Dialog>
-          <Dialog>私はその人に支えられるだけなのがイヤで、自分も大人になろうってがんばったの。</Dialog>
-          <Dialog>それで今の私が出来上がったんだけど、その人から見たら、やっぱりただ可愛いだけの年下だったのかな。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
-          <Dialog>でもね、そのことはもういいの。</Dialog>
-          <Dialog>今はとにかく、あなたが可愛くてしかたないの。</Dialog>
-          <Dialog>可愛くて、離したくなくて……つまり……好きなの。</Dialog>
-          <Dialog>私の……カレシになってほしいな……。</Dialog>
-          <Dialog>●も好きだ</Dialog>
-          <Dialog>ごめん……</Dialog>
-          <Dialog>え？　それって……。</Dialog>
-          <Dialog>うん……●も、▲姉ヶ崎＊▲のこと、好きだから。</Dialog>
-          <Dialog>ほんとに？　お姉さん扱いなんて、ヤだよ。</Dialog>
-          <Dialog>うん、そうじゃなくて、女の人として、好きだよ。</Dialog>
-          <Dialog>うれしいな、それ……そっちに行っても、いい？</Dialog>
-          <Dialog>ふふ……。</Dialog>
-          <Dialog>なに？</Dialog>
-          <Dialog>ね、キスしてあげる……。</Dialog>
-          <Dialog>え、いいの……？</Dialog>
-          <Dialog>うん、私がしたいから、するの。</Dialog>
-          <Dialog>（……！）</Dialog>
-          <Dialog>……なぁに？</Dialog>
-          <Dialog>なにって……。</Dialog>
-          <Dialog>ふふ、もっと？</Dialog>
-          <Dialog>ちが……わないけど……。</Dialog>
-          <Dialog>素直でよろしい……。</Dialog>
-          <Dialog>●はそういう風に、▲姉ヶ崎＊▲を見てたわけじゃなくて……。</Dialog>
-          <Dialog>好きなんだけど、やっぱりそれは意味が違って……。</Dialog>
-          <Dialog>だから……。</Dialog>
-          <Dialog>はぁ、やっぱりかぁ……。</Dialog>
-          <Dialog>やっぱり年上はダメ？　同い年がいい？　それとも年下？</Dialog>
-          <Dialog>年齢は、関係ないよ……。</Dialog>
-          <Dialog>でも、私のことはお姉さんみたいに思ってる？</Dialog>
-          <Dialog>……うん、そうかも……。</Dialog>
-          <Dialog>そっか。それならそれで、いいんだ……。</Dialog>
-          <Dialog>これからも、お姉さんでいさせて……？</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>What's the matter？ Why did
+you want to talk to me？</Dialog>
+          <Dialog>And why not at Dixie's, but at
+school...？</Dialog>
+          <Dialog>Because we might be
+interrupted if we talked at
+Dixie's.</Dialog>
+          <Dialog>I wanted this to be private.</Dialog>
+          <Dialog>No, I mean, this is a very
+private business...</Dialog>
+          <Dialog>And What exactly is it...？</Dialog>
+          <Dialog>Hey, don't rush me...</Dialog>
+          <Dialog>While I was waiting for you, I
+thought about the first time
+we met.</Dialog>
+          <Dialog>Eh...？</Dialog>
+          <Dialog>Hey, do you still remember
+it？</Dialog>
+          <Dialog>I came to work at Dixie's but
+I entered from the front
+door...</Dialog>
+          <Dialog>Hehe, that's why I thought you
+were a customer.</Dialog>
+          <Dialog>The weather was kind of warm
+outside. Maybe you could blame
+it on that. Hehe.</Dialog>
+          <Dialog>It was such a hot day, but
+▲姉ヶ崎＊▲
+was working very hard.</Dialog>
+          <Dialog>That time... To tell you the
+truth...</Dialog>
+          <Dialog>It was really tough working
+like that and it was
+embarrassing that you saw me.</Dialog>
+          <Dialog>It was a cool day in the fall.
+I was really surprised when I
+saw the beautiful
+▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>You don't have to repeat that
+kind of flattery.</Dialog>
+          <Dialog>It's my honest opinion...</Dialog>
+          <Dialog>Geez, don't make me feel
+embarrassed.</Dialog>
+          <Dialog>You were sweeping outside on a
+very cold day.</Dialog>
+          <Dialog>That was really painful... I
+was thinking why I had to do
+it that day.</Dialog>
+          <Dialog>I was helping out because a
+staff member was absent, but
+that job was too much.</Dialog>
+          <Dialog>At that time, I didn't think
+that things would turn out
+this way...</Dialog>
+          <Dialog>...This way？</Dialog>
+          <Dialog>I had to train someone who was
+my junior at school. I was
+wondering if I could turn him
+into a reliable staff.</Dialog>
+          <Dialog>...Sorry that I turned out
+like this.</Dialog>
+          <Dialog>Hehe, don't worry. That part
+was something I had expected.</Dialog>
+          <Dialog>For a guy who couldn't even
+take care of his own job, it
+was cute when you told me that
+I could rely on you.</Dialog>
+          <Dialog>It's good if a newcomer can
+work on his own without my
+help, but with you, I felt
+different.</Dialog>
+          <Dialog>I want to continue taking care
+of you, and I don't want to
+part with you.</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>I've told you before that I am
+not as strong as I look.</Dialog>
+          <Dialog>Yes...</Dialog>
+          <Dialog>Well, I had someone that I
+loved...</Dialog>
+          <Dialog>He was an upperclassman.</Dialog>
+          <Dialog>I didn't want to rely on him
+too much, so I tried my best
+to act like an adult.</Dialog>
+          <Dialog>Even now that I've become like
+this, from his point of view,
+I'd still be just a cute
+underclassman to him.</Dialog>
+          <Dialog>▲姉ヶ崎＊▲...</Dialog>
+          <Dialog>But I don't care about that
+anymore.</Dialog>
+          <Dialog>Now that I've met you, you're
+just so cute. It really can't
+be helped.</Dialog>
+          <Dialog>You're so cute and I don't
+want to lose you... In other
+word... I love you.</Dialog>
+          <Dialog>I... want you to be my
+boyfriend.</Dialog>
+          <Dialog>I love you, too</Dialog>
+          <Dialog>Sorry...</Dialog>
+          <Dialog>Eh？ That's...</Dialog>
+          <Dialog>Yes, I love
+▲姉ヶ崎＊▲,
+too.</Dialog>
+          <Dialog>Really？ I don't want to be
+your big sister, you know？</Dialog>
+          <Dialog>I know. Not as an older
+sister, but as a woman.</Dialog>
+          <Dialog>I'm so happy... Can I go
+there...？</Dialog>
+          <Dialog>Hehe...</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>Hey, I'll give you a kiss...</Dialog>
+          <Dialog>Eh？ Is that okay...？</Dialog>
+          <Dialog>Yes, I just want to do it.</Dialog>
+          <Dialog>(...！)</Dialog>
+          <Dialog>...What？</Dialog>
+          <Dialog>Well...</Dialog>
+          <Dialog>Hehe, you want more？</Dialog>
+          <Dialog>No... Yes...</Dialog>
+          <Dialog>You can be honest...</Dialog>
+          <Dialog>I don't think of
+▲姉ヶ崎＊▲
+that way...</Dialog>
+          <Dialog>I like you, but it's a
+different kind of feeling...</Dialog>
+          <Dialog>So...</Dialog>
+          <Dialog>Hah, as I thought...</Dialog>
+          <Dialog>An older girl is no good,
+huh？ So you like a girl in
+the same grade, or in a lower
+grade？</Dialog>
+          <Dialog>The age isn't the factor
+here...</Dialog>
+          <Dialog>But, you think of me as your
+big sister, right？</Dialog>
+          <Dialog>...Well, that's probably
+right...</Dialog>
+          <Dialog>I see. Then I think it's fine
+like this...</Dialog>
+          <Dialog>Will you let me be your big
+sister from now on...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2300,15 +2539,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>イヤなら断ってくれてもいいんだけど……これからあなたのこと、下の名前で呼んで……いいかな？</Dialog>
-          <Dialog>うん、いいよ</Dialog>
-          <Dialog>今までどおりでいいよ</Dialog>
-          <Dialog>……</Dialog>
-          <Dialog>あ……ありがとう。</Dialog>
-          <Dialog>▲主人公＊▲。その、よろしく……。</Dialog>
-          <Dialog>あ、うん、そうだよね……わかった。</Dialog>
-          <Dialog>返事くれないけど、いい、のかな？　呼んじゃうからね？</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>If you don't like it, I won't
+do it, but... From now on, can
+I call you by your first
+name？</Dialog>
+          <Dialog>Sure, that's fine</Dialog>
+          <Dialog>It's fine as it is</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>T-Thanks.</Dialog>
+          <Dialog>▲主人公＊▲.
+Please be nice to me...</Dialog>
+          <Dialog>Ah, okay. I see... I
+understand.</Dialog>
+          <Dialog>If you don't answer, it means
+okay, right？ I'll call you by
+your first name then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2397,15 +2643,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>ねぇ、これからあなたのこと下の名前で呼ぶけど、いいでしょ？</Dialog>
-          <Dialog>うん、いいよ</Dialog>
-          <Dialog>今までどおりでいいよ</Dialog>
-          <Dialog>……</Dialog>
-          <Dialog>ふふ、だよね。</Dialog>
-          <Dialog>▲主人公＊▲。これからよろしくね？</Dialog>
-          <Dialog>え、そう……？　なら、しばらくこのままでもいいけど。</Dialog>
-          <Dialog>黙っちゃうんだ、照れてる？　ふふ、呼んじゃうからね。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Hey, I can call you by your
+first name from now on,
+right？</Dialog>
+          <Dialog>Sure, that's fine</Dialog>
+          <Dialog>It's fine as it is</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Hehe, okay.</Dialog>
+          <Dialog>▲主人公＊▲.
+From now on please
+be nice to me, okay？</Dialog>
+          <Dialog>Eh？ Really？ Then I won't
+change how I call you. For
+now.</Dialog>
+          <Dialog>You didn't answer. Are you
+embarrassed？ Hehe, I'll call
+you by your first name then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2494,15 +2748,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>これからは、あなたのこと下の名前で呼べると、嬉しいな。どう？</Dialog>
-          <Dialog>うん、いいよ</Dialog>
-          <Dialog>今までどおりでいいよ</Dialog>
-          <Dialog>……</Dialog>
-          <Dialog>ふふ、やった！</Dialog>
-          <Dialog>▲主人公＊▲。よろしくね？</Dialog>
-          <Dialog>残念……でもわかった。しばらくはこのままね。</Dialog>
-          <Dialog>あれ、どうしたの？　……下の名前で呼んじゃうからね？</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>I'd be happy if I can call you
+by your first name from now
+on. How's that？</Dialog>
+          <Dialog>Sure, that's fine</Dialog>
+          <Dialog>It's fine as it is</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Hehe. Yay！</Dialog>
+          <Dialog>▲主人公＊▲.
+Be nice to me, okay？</Dialog>
+          <Dialog>Too bad... But I understand.
+Then I won't change how I call
+you for now.</Dialog>
+          <Dialog>Eh？ What is it？ ...I'll just
+call you by your first name
+then, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2582,16 +2843,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>迷惑じゃなかったら、だけど。今度の日曜日、デートしてくれない、かな。</Dialog>
-          <Dialog>うん、いいよ</Dialog>
-          <Dialog>また今度、誘うよ</Dialog>
-          <Dialog>……</Dialog>
-          <Dialog>ほんとに？　うれしい……約束だね。</Dialog>
-          <Dialog>そっか……残念だけど、仕方ないね。</Dialog>
-          <Dialog>やっぱり……迷惑だよね、いきなり。</Dialog>
+          <Dialog>If it doesn't trouble you, I
+wonder if we can go on a date
+this Sunday.</Dialog>
+          <Dialog>Okay, sounds good</Dialog>
+          <Dialog>I'll think about it</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Really？ I'm so happy. It's a
+promise, okay？</Dialog>
+          <Dialog>I see... Too bad, but it can't
+be helped, huh？</Dialog>
+          <Dialog>As I thought... It troubled
+you, right？ I asked you too
+suddenly.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、違うんだ。ぼーっとしちゃって。デートね、大丈夫だよ。</Dialog>
-          <Dialog>ほんと？　よかった……。</Dialog>
+          <Dialog>Ah, no. I spaced out for a
+bit. A date, right？ Okay！</Dialog>
+          <Dialog>Really？ I'm so glad...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2671,16 +2939,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ね、せっかくなんだから今度の日曜日、デートして？</Dialog>
-          <Dialog>うん、いいよ</Dialog>
-          <Dialog>また今度、誘うよ</Dialog>
-          <Dialog>……</Dialog>
-          <Dialog>ふふ、いいお返事。約束ね？</Dialog>
-          <Dialog>ふぅん、そうなんだ。……いいよ、また今度ね。</Dialog>
-          <Dialog>ねぇ？　聞いてた？</Dialog>
+          <Dialog>Hey, how about we go on a date
+this Sunday？</Dialog>
+          <Dialog>Okay, sounds good</Dialog>
+          <Dialog>I'll think about it</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Hehe, nice reply. It's a
+promise, okay？</Dialog>
+          <Dialog>Hmm, I see. ...Fine, maybe
+next time.</Dialog>
+          <Dialog>Hey, are you listening？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、違うんだ。ぼーっとしちゃって。デートね、大丈夫だよ。</Dialog>
-          <Dialog>もぉ、断られるかと思っちゃった。ふふ。</Dialog>
+          <Dialog>Ah, no. I spaced out for a
+bit. A date, right？ Okay.</Dialog>
+          <Dialog>Geez, I thought I was turned
+down for a bit. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2760,16 +3033,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今度の日曜日に、あなたとデートできたらなって……。</Dialog>
-          <Dialog>うん、いいよ</Dialog>
-          <Dialog>また今度、誘うよ</Dialog>
-          <Dialog>……</Dialog>
-          <Dialog>ふふ、ありがとう。</Dialog>
-          <Dialog>え、そう……。うん、わかった。また今度ね？</Dialog>
-          <Dialog>……もしかして都合悪い？</Dialog>
+          <Dialog>I was wondering if you would
+go on a date with me this
+Sunday...</Dialog>
+          <Dialog>Okay, sounds good</Dialog>
+          <Dialog>I'll think about it</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Hehe, thanks.</Dialog>
+          <Dialog>Eh？ Really...？ Um, I
+understand. Maybe next time,
+okay？</Dialog>
+          <Dialog>...Is it inconvenient for
+you？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ごめん、ちょっとぼーっとしちゃって。デートね、了解。</Dialog>
-          <Dialog>やった、うれしい。じゃあ、お願いね？</Dialog>
+          <Dialog>Sorry, I spaced out a bit. A
+date, right？ Okay.</Dialog>
+          <Dialog>Yay！ I'm glad. Then, you'll
+go with me, right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2813,11 +3093,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。これから、その、よろしくね。</Dialog>
+          <Dialog>▲主人公＊▲.
+From now on...
+I'll be in your care.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、こちらこそ。</Dialog>
-          <Dialog>バイバイ……また、ね。</Dialog>
-          <Dialog>バイバイ。また今度。</Dialog>
+          <Dialog>Yeah, same here.</Dialog>
+          <Dialog>Bye-bye. I'll see you later.</Dialog>
+          <Dialog>Bye-bye. See you later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2861,11 +3143,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。これからも、よろしく。</Dialog>
+          <Dialog>▲主人公＊▲.
+From now on, I'll
+be counting on you.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、こちらこそ。</Dialog>
-          <Dialog>じゃあ、バイバイ！</Dialog>
-          <Dialog>バイバイ。また今度。</Dialog>
+          <Dialog>Yeah, same here.</Dialog>
+          <Dialog>Okay, bye-bye！</Dialog>
+          <Dialog>Bye-bye. I'll see you later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2909,11 +3193,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。これからも、よろしくね？</Dialog>
+          <Dialog>▲主人公＊▲.
+From now on, I'll be
+counting on you, okay？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、こちらこそ。</Dialog>
-          <Dialog>バイバイ！　また今度ね。</Dialog>
-          <Dialog>バイバイ。また今度。</Dialog>
+          <Dialog>Yeah, same here.</Dialog>
+          <Dialog>Bye-bye！ I'll see you later.</Dialog>
+          <Dialog>Bye-bye. See you later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2943,8 +3229,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>私のこと、そばにおいてくれて、ありがとう……。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Thank you for being by my
+side...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2974,8 +3261,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>これからは一緒だから、覚悟してね？</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>We'll be together from now on.
+Are you ready for that？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3005,8 +3293,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>これからは、ずぅっと……一緒だよ？</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>From now on, we'll always be
+together.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

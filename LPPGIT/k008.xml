@@ -52,13 +52,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>うわ、人多い。</Dialog>
+          <Dialog>Wow, so crowded.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>憩いの場が求められてるのかもな。家族で弁当持って来たりするにはいいところかも。</Dialog>
-          <Dialog>家族でお弁当ね……。</Dialog>
+          <Dialog>I think people are looking for
+a place to relax. There are
+families that bring lunch
+boxes here too.</Dialog>
+          <Dialog>Family's lunch boxes, huh...</Dialog>
           <Dialog>▲小早川＊▲？</Dialog>
-          <Dialog>いいんじゃない、そういうのもさ。うん、悪くないね。</Dialog>
-          <Dialog>（家族とは上手くいってるみたいだな……）</Dialog>
+          <Dialog>Isn't that good？ I think it's
+not a bad idea.</Dialog>
+          <Dialog>(I guess she's getting along
+well with her family now...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -108,12 +113,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ここ歩くと、時間の経過を感じる。</Dialog>
+          <Dialog>Walking around here makes me
+feel like we're traveling
+through time.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>木なんかは日々成長してるしな。</Dialog>
-          <Dialog>こういう自然のある場所に来ると、季節の変化なんかもわかるしさ。</Dialog>
-          <Dialog>ずっと一緒にこういうの見られたらいいよな。</Dialog>
-          <Dialog>……なに言ってんの。バカじゃん。</Dialog>
+          <Dialog>These trees grow day by day,
+huh？</Dialog>
+          <Dialog>Being close to nature like
+this, we can notice all the
+season changes.</Dialog>
+          <Dialog>It would be nice if we could
+stay here watching this
+forever.</Dialog>
+          <Dialog>...What are you saying？ Are
+you an idiot？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -168,13 +181,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>遠くに行くのもいいけど、こういうところでまったりするのもいいよな。</Dialog>
+          <Dialog>It's good to go for a vacation
+somewhere, but just relaxing
+here is nice, too.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>まったりねぇ。</Dialog>
-          <Dialog>ほんとはイチャイチャしたいとか、思ってんじゃない？</Dialog>
-          <Dialog>そんなことは……。</Dialog>
-          <Dialog>じゃ、まったりしてよっか。</Dialog>
-          <Dialog>……はい。</Dialog>
+          <Dialog>Relaxing, huh？</Dialog>
+          <Dialog>Actually, you were thinking
+about flirting with me and
+stuff, right？</Dialog>
+          <Dialog>That's...</Dialog>
+          <Dialog>Let's just relax here then.</Dialog>
+          <Dialog>...Okay.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -227,12 +244,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>神社って、来ると身が引き締まらないか？　いつも誰かに見られてるって感じがして。</Dialog>
+          <Dialog>When you come to the shrine,
+do you feel like someone or
+something is watching us all
+the time？</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>たしかに。そういえば中学のとき、鳥居なんかにいたずらしたらさ。</Dialog>
-          <Dialog>バチでも当たった？</Dialog>
-          <Dialog>うん。神社の人に見つかって境内の掃除させられた。ほんとどこから見てたんだろ、あれ。</Dialog>
-          <Dialog>（見られてるって、そういう意味じゃ……）</Dialog>
+          <Dialog>Yeah, right. Speaking of
+which, one time I was trying
+to play a prank with the
+shrine's archway.</Dialog>
+          <Dialog>Did you get cursed after
+that？</Dialog>
+          <Dialog>Yeah, the shrine keeper found
+out and forced me to sweep the
+shrine's ground. I still
+wonder how he could see me.</Dialog>
+          <Dialog>(I didn't mean it that way
+though...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -286,12 +314,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>神社かぁ。なんかさ、年中、虫がいそう……。</Dialog>
+          <Dialog>A shrine, huh？ There are a
+lot of insects here all year
+round...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>童心にかえって虫捕りでもするか？</Dialog>
-          <Dialog>ガキかっつーの。一人でやれば？</Dialog>
-          <Dialog>それじゃデートの意味が……。</Dialog>
-          <Dialog>だったらもっとデートっぽい提案したら？　そしたら、リンコもノってあげるからさ。</Dialog>
+          <Dialog>Do you feel like catching some
+insects now？</Dialog>
+          <Dialog>Do you think I'm a child！？
+If you want to, do it by
+yourself.</Dialog>
+          <Dialog>If I do so, this won't be like
+a date...</Dialog>
+          <Dialog>If you know that, try
+suggesting something more
+suitable for a date. I might
+join you then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -366,16 +403,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>おみくじ引いていこっか？</Dialog>
+          <Dialog>Do you want to draw a
+fortune？</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>べつにいいけど。</Dialog>
-          <Dialog>凶だ……。▲小早川＊▲はどうだった？</Dialog>
-          <Dialog>はぁ……。</Dialog>
-          <Dialog>落ち込むなって！　とりあえず、一緒に結びにいこうよ！</Dialog>
-          <Dialog>なんで？　コレ、大吉なんだけど？</Dialog>
-          <Dialog>じゃあ、もっと喜べばいいのに。</Dialog>
-          <Dialog>だって、あとは下がるだけじゃん？　ハァ……つまんない。</Dialog>
-          <Dialog>（●の方が落ち込みたいよ……）</Dialog>
+          <Dialog>I don't mind doing that.</Dialog>
+          <Dialog>Bad luck...
+▲小早川＊▲,
+how's yours？</Dialog>
+          <Dialog>Hah...</Dialog>
+          <Dialog>Don't feel down！ Let's tie
+our fortune together to drive
+away bad luck！</Dialog>
+          <Dialog>Why？ Look, I got the
+"excellent luck" one.</Dialog>
+          <Dialog>Well then, you should've acted
+a bit happier.</Dialog>
+          <Dialog>But I can't get any better
+fortune after I got this one.
+Hah... This is boring.</Dialog>
+          <Dialog>(I should be the one who feels
+disappointed...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -434,13 +481,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そっか、今の映画……。</Dialog>
+          <Dialog>Right, this movie...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>知ってたの？</Dialog>
-          <Dialog>タイトル変わってるからわかんなかったけど、原作読んだことある。</Dialog>
-          <Dialog>へぇ。そうなんだ。</Dialog>
-          <Dialog>設定もストーリーも大胆にアレンジしてるから、すぐわからなかった。へぇ、やるなぁ。</Dialog>
-          <Dialog>（この映画、正解だったみたいだな）</Dialog>
+          <Dialog>Did you know it？</Dialog>
+          <Dialog>They changed the title so I
+didn't recognize it at first,
+but I've read the original
+novel.</Dialog>
+          <Dialog>Huh？ Really？</Dialog>
+          <Dialog>The scenes and story are
+pretty unique so I noticed it.
+They did pretty well for this.</Dialog>
+          <Dialog>(Seems like I chose the right
+movie this time.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -490,12 +543,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ま、そこそこかな。</Dialog>
+          <Dialog>Well, it was so-so, I think.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>面白くなかった？</Dialog>
-          <Dialog>思ったよりは楽しめた。最初から期待してなければ、外すショックもないしね。</Dialog>
-          <Dialog>ネガティブだなぁ。</Dialog>
-          <Dialog>映画なんてさ、そのぐらいに構えてるのがちょうどいいって。</Dialog>
+          <Dialog>It wasn't fun？</Dialog>
+          <Dialog>It was better than I thought.
+But I didn't expect much to
+begin with, so I didn't feel
+disappointed.</Dialog>
+          <Dialog>Such a negative opinion.</Dialog>
+          <Dialog>For a movie, that much is
+enough for me to care about.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -554,13 +611,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>なんか、“いかにも”って感じ。制作費数十億？　全米ナンバー１？　“泣けましたー”とかやっちゃう？</Dialog>
+          <Dialog>Why would people give
+"Thumbs-up" or "No.1 at U.S.
+Box Office" or "I'm so
+impressed" opinions for such a
+movie？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……失敗だったな。</Dialog>
-          <Dialog>ま、たまにはこういうくだらない娯楽で時間を浪費するのもいいんじゃない？</Dialog>
-          <Dialog>いいのか？</Dialog>
-          <Dialog>無駄のある生活こそが、人生に潤いを与えるってね。</Dialog>
-          <Dialog>（ポジティブなんだかネガティブなんだか……）</Dialog>
+          <Dialog>...It was a failure.</Dialog>
+          <Dialog>Well, it's fine that we waste
+our time with something
+worthless like this
+occasionally, right？</Dialog>
+          <Dialog>Is it really okay？</Dialog>
+          <Dialog>Sometimes you can gain
+something from living a futile
+life, right？</Dialog>
+          <Dialog>(Does that have positive or
+negative meaning...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -619,13 +686,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>リンコ、ボウリングって苦手なんだよね。</Dialog>
+          <Dialog>I'm so bad at bowling, aren't
+I？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ボールが重いから？</Dialog>
-          <Dialog>……悪い？　だって腕つりそうになるんだもん。</Dialog>
-          <Dialog>……子供用ボール使えば？</Dialog>
-          <Dialog>ヤダ、カッコわるい。ポリシーに反するよ。</Dialog>
-          <Dialog>（意地っ張りめ）</Dialog>
+          <Dialog>I think the ball is too heavy
+for you.</Dialog>
+          <Dialog>...Really？ That's why my arm
+is getting sore...</Dialog>
+          <Dialog>...Why don't you use the
+children's ball then？</Dialog>
+          <Dialog>No, that's so uncool. It's
+against my policy.</Dialog>
+          <Dialog>(So obstinate.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -680,13 +752,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ストライクを２回連続で出すのはダブルだよね。</Dialog>
+          <Dialog>When we get 2 strikes in a
+row, it's called "double,"
+right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>だな、３回連続だとターキー。</Dialog>
-          <Dialog>それそれ、なんでターキーなわけ？　ターキーって七面鳥だよね？</Dialog>
-          <Dialog>なんかいろいろ説はあるらしいけど……実際のところは知らないな。</Dialog>
-          <Dialog>もう、気になるなぁ。ターキー達成したら、教えること！</Dialog>
-          <Dialog>（だから知らないって）</Dialog>
+          <Dialog>Yeah, and for 3 strikes in a
+row, it's called "turkey."</Dialog>
+          <Dialog>Why is that？ Turkey as a type
+of bird？</Dialog>
+          <Dialog>There are many theories about
+this, but I don't know which
+one is true.</Dialog>
+          <Dialog>Well, never mind. If I can
+make a turkey, you tell me
+then.</Dialog>
+          <Dialog>(But I don't know...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -740,12 +820,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ふぅ。ボウリングもさ、やってみるとそこそこ面白いよね。</Dialog>
-          <Dialog>スカーンって爽快に倒せるようになるとさ、もっと面白くなるんだろうけどね。重いボール使うといいのかな。</Dialog>
+          <Dialog>Phew, it's quite fun to play
+bowling once I get used to it.</Dialog>
+          <Dialog>It would be more enjoyable if
+I could sweep all the pins
+though. Maybe I should use a
+heavier ball.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>重いのは持てないだろ？</Dialog>
-          <Dialog>じゃあ両手で……いやいや、カッコ悪い。</Dialog>
-          <Dialog>（爽快感より、カッコ良さなんだな）</Dialog>
+          <Dialog>You can't carry a heavy ball.</Dialog>
+          <Dialog>Then I'll use both hands...
+No, that would be so uncool.</Dialog>
+          <Dialog>(You care more about being
+cool than having fun, huh？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -799,12 +885,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>んー、結構楽しめた。</Dialog>
+          <Dialog>Hm, that was quite fun.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>最近のもありなんだ？</Dialog>
-          <Dialog>うん、やっぱ生で観るのはいいからさ。でも本当に観たいバンドはほとんど解散しちゃってるけど。</Dialog>
-          <Dialog>そうなのか、そりゃ残念だな。</Dialog>
-          <Dialog>伝説のライブとかさ、観たかったよ。リンコがもっと早く生まれてればなぁ。</Dialog>
+          <Dialog>There were recent artists too.</Dialog>
+          <Dialog>Yeah, their live performances
+were nice. Anyway, most of the
+bands that I like are already
+disbanded.</Dialog>
+          <Dialog>Really？ What a pity.</Dialog>
+          <Dialog>VThere were those legendary
+concerts that I wanted to
+watch. I wish I were born
+sooner.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -863,13 +955,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>４７点。</Dialog>
+          <Dialog>47 points.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>微妙な点だな……。</Dialog>
-          <Dialog>辛口リンコから４０点台もらえれば、胸を張っていいって。リンコの点数は世の評論家プラス２０点の価値があるからね。</Dialog>
-          <Dialog>じゃあ▲小早川＊▲に選ばれた●は、胸を張ってもいいのかな。</Dialog>
-          <Dialog>……今の発言、７点。</Dialog>
-          <Dialog>（１０点満点……なわけないな）</Dialog>
+          <Dialog>Such an odd score...</Dialog>
+          <Dialog>Anyone who gets 40 points from
+me can be proud. Add 20 points
+to my score and it can be
+world critics' standard.</Dialog>
+          <Dialog>Then as a guy that
+▲小早川＊▲
+chose, I can be proud, right？</Dialog>
+          <Dialog>...For that statement, I give
+you 7 points.</Dialog>
+          <Dialog>(It's not out of 10, isn't
+it...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -932,13 +1031,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……。</Dialog>
+          <Dialog>......</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>気に入らなかったか。</Dialog>
-          <Dialog>大分ね、ここまで外してくれると、いっそ清々しい。</Dialog>
-          <Dialog>悪い。</Dialog>
-          <Dialog>悪いのはアンタだけじゃないって、こういう文化を容認してる現代社会が悪いんだよ。アンタだけが悪いんじゃないって。</Dialog>
-          <Dialog>（やっぱ●も悪いんだな……）</Dialog>
+          <Dialog>You don't like it？</Dialog>
+          <Dialog>I wish we could leave this
+place as soon as possible.</Dialog>
+          <Dialog>My bad.</Dialog>
+          <Dialog>It's not just you. It's the
+whole society that approves
+something like this. You're
+not the only one to be blamed.</Dialog>
+          <Dialog>(But I'm one of those to be
+blamed, right...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1001,13 +1105,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>へっへっへー。リンコをカラオケに連れてきたらどうなるか、当然理解してるよね？</Dialog>
+          <Dialog>Teeheehee. You know what will
+happen when you take Rinko to
+the karaoke box, right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうなるんだ？</Dialog>
-          <Dialog>当然、入れる曲は洋楽縛りに決まってんじゃん。ちゃらちゃらしたＪ－ＰＯＰなんか歌わせないって。</Dialog>
-          <Dialog>……お手柔らかに。</Dialog>
-          <Dialog>さーて、何、歌おっかなー。今日のリンコはすごいよー。驚くよー。</Dialog>
-          <Dialog>（テンション高いな……楽しんでるからいいけど）</Dialog>
+          <Dialog>What will happen？</Dialog>
+          <Dialog>Of course, we'll sing only
+Western songs. I won't sing
+any cheesy J-POP songs, you
+know？</Dialog>
+          <Dialog>...Don't be too harsh on me.</Dialog>
+          <Dialog>Well, what should I sing
+first？ I'm really good at
+this. You'll be surprised.</Dialog>
+          <Dialog>(She's so pumped up... I think
+it's fine as long as she
+enjoys it.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1057,12 +1170,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>こう、カラオケ来るとさ。前の人の履歴をチェックしちゃうよね。</Dialog>
+          <Dialog>When we come to a karaoke box
+like this, we can see what the
+people before us sang, right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、見ちゃうね、つい。</Dialog>
-          <Dialog>ん、なんだこれ、履歴がデュエットのラブソングばっか。</Dialog>
-          <Dialog>カップルで楽しくカラオケですか、ちゃんと歌うたえっつーの。</Dialog>
-          <Dialog>（●達の立場は……？）</Dialog>
+          <Dialog>Yeah, we can see the records.</Dialog>
+          <Dialog>Huh？ What are these？ They
+are all duets and love songs.</Dialog>
+          <Dialog>Why did a couple come to a
+karaoke box？ And can't they
+just sing regular songs？</Dialog>
+          <Dialog>(And what about us？ What are
+we...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1121,13 +1240,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>さーて。今日は何、歌おっかなー。</Dialog>
+          <Dialog>Well, what am I gonna sing
+today？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>たまには洋楽以外も歌わないか？</Dialog>
-          <Dialog>えー、例えば？</Dialog>
-          <Dialog>せっかく●と来てるんだから、流行りのラブソングとか。</Dialog>
-          <Dialog>やだ、最悪、ダサい、却下。……はい、この曲でケッテー。</Dialog>
-          <Dialog>（ん、これは英語のラブソング……だよな？）</Dialog>
+          <Dialog>Can we sing something besides
+Western songs occasionally？</Dialog>
+          <Dialog>Eh？ For example...</Dialog>
+          <Dialog>Since we're already here, how
+about some popular love
+songs？</Dialog>
+          <Dialog>No, that's the worst. No way！
+I object. ...Here, let's sing
+this song.</Dialog>
+          <Dialog>(Huh？ This is an English love
+song... I think.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1181,12 +1307,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>観覧車なんて、ぐるぐる回るだけで何が楽しいんだろ、って思ってたけどさ。</Dialog>
+          <Dialog>The Ferris wheel just keeps
+going round and round. I was
+wondering what was so fun
+about it.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん？</Dialog>
-          <Dialog>乗ってみると、結構面白いもんだね。</Dialog>
-          <Dialog>気に入ってくれて嬉しいよ。</Dialog>
-          <Dialog>なんでアンタが嬉しがるのさ。リンコは観覧車を褒めたの、アンタいつから観覧車になったわけ？</Dialog>
+          <Dialog>And？</Dialog>
+          <Dialog>Once I tried it, it was pretty
+fun.</Dialog>
+          <Dialog>I'm happy that you like it.</Dialog>
+          <Dialog>Why are you being happy？ I'm
+praising the Ferris wheel.
+Since when did you become the
+Ferris wheel, huh？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1241,13 +1374,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>観覧車って不思議だよね。昼と夜とじゃなんか違う感じがする。</Dialog>
+          <Dialog>The Ferris wheel is wonderful.
+The feelings are different
+during the daytime and the
+nighttime.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>違う感じって？</Dialog>
-          <Dialog>ほら。昼間は家族連れとかがわーって楽しむ感じだけど、夕方とか夜になると……。</Dialog>
-          <Dialog>確かにムードが出てくるよな。</Dialog>
-          <Dialog>そんなつもりがなくても、一緒に乗った相手を意識したりして。</Dialog>
-          <Dialog>そんなこと……ま、乗ってみたらわかるかもね。</Dialog>
+          <Dialog>The feelings are different？</Dialog>
+          <Dialog>See. During the daytime,
+people bring their families
+and have some fun. Then at
+nighttime...</Dialog>
+          <Dialog>It has different mood, right？</Dialog>
+          <Dialog>Even for the couples that
+don't intend for such a mood,
+they will feel it too.</Dialog>
+          <Dialog>For that... Well, we'll know
+if we try, right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1297,12 +1439,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>なんかくだらなくない？　こういうのって。</Dialog>
-          <Dialog>あぁも脅かしてやろうって気満々だと、却って怖がらないぞって思うじゃん。</Dialog>
+          <Dialog>It's kind of dumb, isn't it？
+This stuff.</Dialog>
+          <Dialog>It really felt like they were
+trying to scare you, but
+rather, don't you think it
+wasn't even scary？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>その割に、中では●にぴったりくっついてたぞ？</Dialog>
-          <Dialog>あれは演技、サービスだよ。へへ、だまされた？</Dialog>
-          <Dialog>（マジ!?）</Dialog>
+          <Dialog>You're saying that now, but
+weren't you holding onto me
+tightly when we were in
+there？</Dialog>
+          <Dialog>That was an act. My special
+service. Hehe, did I fool
+you？</Dialog>
+          <Dialog>(Seriously！？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1357,13 +1508,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>もう！　なんでこんなに暗いかな！　歩きにくいし！</Dialog>
+          <Dialog>Geez！ Why is it so dark！？
+It's hard to walk！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>お化け屋敷だからな。</Dialog>
-          <Dialog>どうせアンタも“きゃー！　暗ーい！　こわーい！”とか言って抱きついてくるのを期待してるんだろうけど、無駄だからね？</Dialog>
-          <Dialog>きゃー！　暗ーい！　こわーい！</Dialog>
-          <Dialog>だからってアンタが言う……なっ！</Dialog>
-          <Dialog>いたっ。</Dialog>
+          <Dialog>Because it's a haunted house.</Dialog>
+          <Dialog>You might expect me to scream,
+"Kyaa！ It's dark！ I'm
+scared！" and cling to you,
+but it's never gonna happen.</Dialog>
+          <Dialog>Kyaa！ It's dark！ I'm
+scared！！</Dialog>
+          <Dialog>Even so, don't... say it！</Dialog>
+          <Dialog>Ouch！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1432,14 +1588,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>入り口にさ、“ボクより小さい子は乗れないよ”って書いた絵あるよね。</Dialog>
-          <Dialog>あの絵って、昔からなんかムカツクんだよね。</Dialog>
+          <Dialog>There's that sign, "If you are
+shorter than me, you can't
+ride this" at the entrance.</Dialog>
+          <Dialog>I've felt so irritated with
+that picture since a long time
+ago.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>身長制限にひっかかったことがあるのか？</Dialog>
-          <Dialog>それは！　あるけど……とにかく上から目線が気にくわないんだってば！</Dialog>
-          <Dialog>上から目線って……。</Dialog>
-          <Dialog>だからさ、身長追い越した後はいつも見下ろしてやることにしてんだよね。</Dialog>
-          <Dialog>（不毛な……）</Dialog>
+          <Dialog>It's there to show the height
+restriction, isn't it？</Dialog>
+          <Dialog>That's right！ But... I felt
+like it was looking down on me
+every time！</Dialog>
+          <Dialog>It was looking down...？</Dialog>
+          <Dialog>That's why ever since I've
+grown taller than it, I always
+walked there and looked down
+on it.</Dialog>
+          <Dialog>(A sore loser... huh？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1489,12 +1655,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ジェットコースターってさ……一番上に昇りきるとこまでが本番だね。</Dialog>
+          <Dialog>For a roller coaster, the most
+exciting moment is when it's
+getting close to the summit,
+right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>たしかに、走りだしちゃえば一瞬だからな。</Dialog>
-          <Dialog>この昇っているときの緊張感があるからこそ、それが解放されたときのカタルシスが大きいんだね。</Dialog>
-          <Dialog>そんなに理屈っぽく考えなくても……。</Dialog>
-          <Dialog>きゃーーーーーーーーっ！</Dialog>
+          <Dialog>Right. After that, everything
+goes by in an instant.</Dialog>
+          <Dialog>The excitement when we go up
+to the peak and then unleash
+all our feelings is like a
+catharsis, huh？</Dialog>
+          <Dialog>You don't have to think of
+such a theory...</Dialog>
+          <Dialog>Kyaaaaaa！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1549,13 +1723,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>わ……すっごい……。</Dialog>
+          <Dialog>Wow... Amazing...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>この遊園地の目玉なんだよ。</Dialog>
-          <Dialog>ほんとにおとぎの国みたいだね……。</Dialog>
-          <Dialog>おとぎの国って……。</Dialog>
-          <Dialog>ちょっ……違うって！　だから……もう！</Dialog>
-          <Dialog>●もそう思うよ。</Dialog>
+          <Dialog>This is the amusement park's
+special program.</Dialog>
+          <Dialog>This is like a real fairyland.</Dialog>
+          <Dialog>Fairyland...？</Dialog>
+          <Dialog>Wait... No！ It's just...
+Geez！</Dialog>
+          <Dialog>I agree with you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1614,13 +1790,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>うわぁ……。電気代かかりそー……。</Dialog>
+          <Dialog>Wow... Their electricity bill
+must cost a lot...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……微妙な反応だな。あんまり興味ないか？</Dialog>
-          <Dialog>違うって。ちゃんとキレイだなって思ってるって！</Dialog>
-          <Dialog>じゃあ、なんで電気代？</Dialog>
-          <Dialog>それは、ちょっと気になっただけで……いいから照れ隠しってことにしとけっつーの。</Dialog>
-          <Dialog>（一応、楽しんでるみたいだな）</Dialog>
+          <Dialog>...What a strange reaction.
+You don't like this then？</Dialog>
+          <Dialog>It's not like that. I think
+it's very beautiful！</Dialog>
+          <Dialog>Then why are you concerned
+about the electricity bill？</Dialog>
+          <Dialog>That's because I was just
+wondering... Can you not make
+me feel any more awkward！？</Dialog>
+          <Dialog>(Seems like she enjoys it
+then.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1675,13 +1858,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>すごいキレイ……。</Dialog>
+          <Dialog>So beautiful...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、そうだな。</Dialog>
-          <Dialog>このまま、時間止まっちゃえばいいのに……。</Dialog>
-          <Dialog>えっ？</Dialog>
-          <Dialog>へへ。期待した？</Dialog>
-          <Dialog>（……本気か？）</Dialog>
+          <Dialog>Yeah, I agree.</Dialog>
+          <Dialog>It would be nice if we could
+stop time right here...</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>Hehe. Are you expecting
+something...？</Dialog>
+          <Dialog>(...Was she serious？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1750,14 +1935,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>へへー。</Dialog>
+          <Dialog>Hehe.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ご機嫌だな、▲小早川＊▲。</Dialog>
-          <Dialog>プールってさ、海と違って流されても壁があるじゃん。浮き輪に乗って、ぼーって浮いてても慌てなくてすむからいいよね。</Dialog>
-          <Dialog>ああ、そういう楽しみ方もあるかな。</Dialog>
-          <Dialog>あ、別に浮き輪がないと泳げないわけじゃないから。</Dialog>
-          <Dialog>そんなこと言ってないよ。でも危ないから、ひっくり返るなよ？</Dialog>
-          <Dialog>だから泳げるって言ってんじゃん！</Dialog>
+          <Dialog>You are in such a good mood,
+▲小早川＊▲.</Dialog>
+          <Dialog>Unlike the sea, the swimming
+pool has walls. I can put this
+swim ring on and float around
+without worrying.</Dialog>
+          <Dialog>Yeah, you can enjoy your time
+like that.</Dialog>
+          <Dialog>Ah, but that doesn't mean I
+can't swim without this swim
+ring.</Dialog>
+          <Dialog>I didn't say that. But you
+must be careful. Don't let it
+topple over and fall, okay？</Dialog>
+          <Dialog>I said that I can swim, didn't
+you hear！？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1812,13 +2007,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>うん。泳ぐならやっぱプールだね。施設も充実してるし。</Dialog>
+          <Dialog>Yeah, it sure is nice to swim
+in the pool. This is very well
+designed.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>海は海で楽しいけどな。</Dialog>
-          <Dialog>でも海の水ってしょっぱいし。</Dialog>
-          <Dialog>そりゃそうだ。</Dialog>
-          <Dialog>水飲んだ時のショックは海のほうがおっきいじゃん。</Dialog>
-          <Dialog>（溺れる前提の話か？）</Dialog>
+          <Dialog>But the sea also has its good
+points.</Dialog>
+          <Dialog>But sea water is salty.</Dialog>
+          <Dialog>That's true though.</Dialog>
+          <Dialog>If you choke, sea water would
+feel more terrible.</Dialog>
+          <Dialog>(You mean in case of
+drowning？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1873,13 +2073,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……ちょっとはしゃぎすぎたかも。疲れた、眠い。</Dialog>
+          <Dialog>...I was in such high spirits
+that I'm now exhausted. I'm
+sleepy.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>こら、こんなとこで立って寝るな。器用だな。</Dialog>
-          <Dialog>だってー。</Dialog>
-          <Dialog>ほら、着替えて来いって。待っててやるから。</Dialog>
-          <Dialog>うんー。</Dialog>
-          <Dialog>（眠いと素直になるのか？）</Dialog>
+          <Dialog>Hey, don't fall asleep while
+you're standing like that.</Dialog>
+          <Dialog>But~</Dialog>
+          <Dialog>Come on. Go change your
+clothes. I'll wait here.</Dialog>
+          <Dialog>Okay~</Dialog>
+          <Dialog>(She becomes obedient when
+she's sleepy, huh？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1929,12 +2134,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>星座の説明ってさ、なんか聞き入っちゃう。</Dialog>
+          <Dialog>I tried to listen to the
+narration attentively.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>でもすぐ忘れちゃうんだよな。</Dialog>
-          <Dialog>そうそう。カタチ見ただけじゃ覚えられないしさ、なんか名前もややこしいし。</Dialog>
-          <Dialog>何度聞いても、新鮮な話に感じるから、得した気になれるな。</Dialog>
-          <Dialog>アンタ、幸せ者だよ……。</Dialog>
+          <Dialog>But you forgot about it in no
+time, right？</Dialog>
+          <Dialog>Right, right. I can't remember
+the stars' configurations or
+their names.</Dialog>
+          <Dialog>This way, whenever you come
+here, everything you hear will
+always sound like new
+information to you.</Dialog>
+          <Dialog>You are so happy-go-lucky...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1998,13 +2210,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねぇ。最近、星って見てる？</Dialog>
+          <Dialog>Hey, have you been looking at
+the stars lately？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あんまり。</Dialog>
-          <Dialog>だよね。忙しい現代人は星を見上げる心の余裕さえ失ってさ。</Dialog>
-          <Dialog>あまつさえ偽物の星でそんな心の隙間を埋めようとする。いやぁ、世知辛いね。</Dialog>
-          <Dialog>ひょっとして行きたくないのか？</Dialog>
-          <Dialog>……そういうわけじゃ。悪かったね、リンコ素直じゃなくってさ。</Dialog>
+          <Dialog>No.</Dialog>
+          <Dialog>Right. People these days get
+too busy to glance up at the
+sky.</Dialog>
+          <Dialog>Yet they invented something
+like this so that they could
+see fake stars. Ah, life is
+tough.</Dialog>
+          <Dialog>Does it mean you don't like to
+come to this place？</Dialog>
+          <Dialog>...That's not the case. Sorry,
+Rinko didn't really mean to
+say that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2068,13 +2289,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>星ってさ、何万年とか何億年とか前の光がようやく届いて見えてるんだよね。</Dialog>
-          <Dialog>リンコたちのいる星の光も、別の星の誰かが何万年もかけて見てるのかな？</Dialog>
+          <Dialog>For the stars, it takes them
+some million or billion years
+until their lights reach us
+and we can see them, right？</Dialog>
+          <Dialog>The light from our star will
+reach other stars in some
+billion years and someone out
+there might see it.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>壮大な話だな……。</Dialog>
-          <Dialog>リンコ達のことも見られたりするのかな。リンコ達はどう見えてるのかな？　ね？</Dialog>
-          <Dialog>なんか恥ずかしいな。</Dialog>
-          <Dialog>別に恥ずかしいことなんて、してないじゃん？</Dialog>
+          <Dialog>That sounds wonderful...</Dialog>
+          <Dialog>Will someone be able to see
+us, too？ I wonder how they
+will see us. Hmm？</Dialog>
+          <Dialog>Somehow this is embarrassing.</Dialog>
+          <Dialog>But we aren't doing anything
+embarrassing now.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2129,13 +2359,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>こういうとこ来るとさ、花ってこんなに種類があったんだって改めて思うよ。</Dialog>
+          <Dialog>Whenever I come here, I'm
+always amazed with how many
+types of flowers there are.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>花だけじゃなくて、珍しい木や草もあるみたいだぞ。</Dialog>
-          <Dialog>あっ、この花、ヘンな形してる。</Dialog>
-          <Dialog>ヘンな形って……。花もそんなこと言われたくないって思ってるぞ、きっと。</Dialog>
-          <Dialog>あ、ヘンな顔の男子高校生がいる。</Dialog>
-          <Dialog>……その男子高校生も、そんなこと言われたくないって思ってるぞ……きっと。</Dialog>
+          <Dialog>Not just flowers, there are
+also rare plants and grasses
+here as well.</Dialog>
+          <Dialog>Ah, that flower has such a
+weird shape.</Dialog>
+          <Dialog>Weird shape...？ I don't think
+the flower would be happy to
+hear you say that, really.</Dialog>
+          <Dialog>Ah, this high school guy right
+here is making such a weird
+face.</Dialog>
+          <Dialog>...I don't think the high
+school guy is happy to hear
+you say that... Really.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2190,13 +2431,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>植物って、普通の呼び方以外にも学名とかあって覚えきれなくない？</Dialog>
+          <Dialog>Plants also have their
+scientific names besides their
+common names, right？ Do you
+remember them？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>別に覚えなくてもいいだろ？</Dialog>
-          <Dialog>でもさ、わざとやってんじゃないかってくらい複雑な名前してる、挑戦的じゃん？</Dialog>
-          <Dialog>誰に挑戦してるんだよ。</Dialog>
-          <Dialog>そりゃ、リンコたちにだよ。よっし、いっこくらい覚えてこっと。</Dialog>
-          <Dialog>（帰る頃には忘れてるんだろうな）</Dialog>
+          <Dialog>There's no need to remember,
+is there？</Dialog>
+          <Dialog>But they are such complicated
+names. Don't you feel
+challenged to remember them？</Dialog>
+          <Dialog>Challenged？ By whom？</Dialog>
+          <Dialog>Then let me make it a
+challenge for us. Let's see
+how many we can remember.</Dialog>
+          <Dialog>(By the time I reach home,
+I'll surely forget all of
+them.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2261,14 +2512,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……暑い。</Dialog>
+          <Dialog>...It's hot.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ。亜熱帯植物のコーナーだからな。</Dialog>
-          <Dialog>残念だけどリンコにはここの花たちを愛でる余裕がないよ。</Dialog>
-          <Dialog>さよなら。もう会えないと思うけど……。</Dialog>
-          <Dialog>おおげさだな。</Dialog>
-          <Dialog>置いてくよ？　アンタもリンコにさよならされたい？</Dialog>
-          <Dialog>わかったわかった。</Dialog>
+          <Dialog>Yeah, it's the subtropical
+plants' corner after all.</Dialog>
+          <Dialog>It's very unfortunate that
+Rinko doesn't have any passion
+for the flowers here.</Dialog>
+          <Dialog>Goodbye. I think I'll never
+see them ever again.</Dialog>
+          <Dialog>Don't exaggerate.</Dialog>
+          <Dialog>I'm leaving. Do you want me to
+say goodbye to you, too？</Dialog>
+          <Dialog>I got it, I got it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2318,12 +2574,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>リンコは楽しかったけど……アンタは退屈じゃなかった？</Dialog>
+          <Dialog>I really had fun... But did
+you get bored？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そんなことないけど、なんで？</Dialog>
-          <Dialog>なんか自分が楽しいと、楽しいのは自分だけなんじゃないかって思ったりする。</Dialog>
-          <Dialog>そんなことないって。●も充分楽しいぞ。</Dialog>
-          <Dialog>そっか。ならいいよ、へへ。</Dialog>
+          <Dialog>Not at all, why？</Dialog>
+          <Dialog>I had so much fun that I was
+worrying whether it was just
+me.</Dialog>
+          <Dialog>I said that it's not the case.
+I also had some fun.</Dialog>
+          <Dialog>Really？ Then it's good. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2377,12 +2637,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ふぅん。こういうとこって来たことないな……。ひとりだったら一生来なかったかも。</Dialog>
+          <Dialog>Hmm, I've never been to this
+kind of show. If I were alone,
+I would never have a chance to
+watch it.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうなのか。なら、良かったな。</Dialog>
-          <Dialog>良かったかどうかは、また別問題だけど……。</Dialog>
-          <Dialog>▲小早川＊▲に少しでも良いことがあるなら、●も付き合ってる甲斐があるよ。</Dialog>
-          <Dialog>あーあ、リンコがオトコに影響されるなんてなー。</Dialog>
+          <Dialog>Really？ Then that's good.</Dialog>
+          <Dialog>Whether it's good or not,
+that's another question...</Dialog>
+          <Dialog>▲小早川＊▲,
+if I could make you enjoy it
+just a little bit, that would
+make bringing you here worth
+it.</Dialog>
+          <Dialog>Ah~！ No, Rinko doesn't easily
+get influenced by a guy！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2432,12 +2701,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……疲れた。</Dialog>
+          <Dialog>...I'm exhausted.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>合わないか。</Dialog>
-          <Dialog>人が多いだけじゃん？　他に行くところないのかっつーの。</Dialog>
-          <Dialog>悪かったよ。</Dialog>
-          <Dialog>なんか疲れてるから、小キックは封印中だよ。命拾いしたね。</Dialog>
+          <Dialog>You don't like it？</Dialog>
+          <Dialog>It was just too crowded. Can't
+you think of some place else
+to go？</Dialog>
+          <Dialog>Sorry.</Dialog>
+          <Dialog>I'm just too exhausted to give
+you a kick. Your life is safe
+for today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2496,13 +2769,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>うわ、風強っ……！</Dialog>
+          <Dialog>Whoa, it's windy...！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>海が近いからなぁ。</Dialog>
-          <Dialog>あの橋も揺れたりしないのかな……。</Dialog>
-          <Dialog>さすがにそれはないだろう。</Dialog>
-          <Dialog>ああ、それでここ、デートスポットに使ってるんだ。吊り橋効果ってやつ？</Dialog>
-          <Dialog>吊り橋か、一気に橋の風格が下がったな。</Dialog>
+          <Dialog>We're very close to the ocean.</Dialog>
+          <Dialog>I wonder if that bridge was
+shaking...</Dialog>
+          <Dialog>I don't think so.</Dialog>
+          <Dialog>Ah, that thing is the famous
+date spot, right？ Is it
+what's called a suspension
+bridge？</Dialog>
+          <Dialog>Suspension bridge？ It's more
+like a normal bridge that is
+curving down.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2560,12 +2839,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>なんでカップルってこんなとこ来たがるんだろ？　夜景がきれい？　ロマンチック？　あーはいはい。お疲れさん。</Dialog>
+          <Dialog>Why do couples like to come
+here？ Because the night view
+is beautiful and romantic？
+Ah, come on. Answer me.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今や完全にデートスポットだからな。普通に遊びに行くのと同じ感覚なんだろ。</Dialog>
-          <Dialog>だね。だいたい、そんなこと言ったら、リンコたちも同じようなもんだし。</Dialog>
-          <Dialog>で、どうする？</Dialog>
-          <Dialog>せっかく来たんだし、ちょっと歩いてみよ。喜んでるふりくらいはしてあげるよ。</Dialog>
+          <Dialog>It's called a perfect date
+spot, but it doesn't feel any
+different from when I came
+here alone.</Dialog>
+          <Dialog>Yeah, when you say so, I can
+feel that our thoughts are
+pretty much alike.</Dialog>
+          <Dialog>Now then, what are we gonna
+do？</Dialog>
+          <Dialog>Since we're already here,
+let's take a stroll. For you,
+I can at least pretend to have
+fun.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2620,13 +2911,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>この橋、渡るべからず。</Dialog>
+          <Dialog>We shouldn't walk across this
+bridge.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なに？</Dialog>
-          <Dialog>なんとなくそう思っただけ。</Dialog>
-          <Dialog>つまり……橋の中央を渡ればいいのか？</Dialog>
-          <Dialog>轢かれるよ。車、走ってるし。</Dialog>
-          <Dialog>……だよな。</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>Somehow that's what I thought.</Dialog>
+          <Dialog>That means... you're fine if
+we walk up to the middle of
+the bridge？</Dialog>
+          <Dialog>We would be run over. There
+are car lanes, right？</Dialog>
+          <Dialog>...That's right.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2676,12 +2971,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>海の定番といえば？</Dialog>
+          <Dialog>What's your general impression
+of the ocean？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ビーチバレー、スイカ割り……砂遊び。</Dialog>
-          <Dialog>はずれ。そんな非生産的なことはしません。</Dialog>
-          <Dialog>やっぱこれだよね。やきそば食べよ。</Dialog>
-          <Dialog>（生産的というか即物的というか……）</Dialog>
+          <Dialog>Beach volleyball, watermelon
+crush, sandpit...</Dialog>
+          <Dialog>No. I'm not going to do
+anything unproductive like
+that.</Dialog>
+          <Dialog>It has to be something like...
+eating fried noodles.</Dialog>
+          <Dialog>(I doubt that's what you can
+call "productive"...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2744,13 +3045,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あ、砂の城なんて作ってる。なんで海にまで来てさ、砂で遊んだりするんだろ。水に触れに来たんじゃないの？</Dialog>
+          <Dialog>Ah, people are building sand
+castles？ Why do they come to
+the ocean to play with sand
+and not get in the ocean？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>まぁ、ビーチ込みで海水浴だろ？</Dialog>
-          <Dialog>ふぅん、まあ下手に体動かすよりはラクでよさそうだけどさ。……あそこからまだ大きくするんだ、やるじゃん。</Dialog>
-          <Dialog>おぉ、たしかにありゃすごいな。</Dialog>
-          <Dialog>……ね、リンコ達でも作れるかな？</Dialog>
-          <Dialog>（興味あるのか）</Dialog>
+          <Dialog>Well, they might be playing on
+the beach before sea bathing.</Dialog>
+          <Dialog>Hmm, maybe they just don't
+like to move their bodies that
+much. ...That's such a big
+sand castle. Pretty nice.</Dialog>
+          <Dialog>Oh, that's awesome.</Dialog>
+          <Dialog>...Hey, shall we build one
+like that, too？</Dialog>
+          <Dialog>(Actually, you wanted to do
+it, huh？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2805,13 +3115,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲。水着、似合ってるな。</Dialog>
+          <Dialog>▲小早川＊▲.
+You look good with that
+swimsuit.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>うわ……目がやらしい……。</Dialog>
-          <Dialog>でも、ほんとに似合ってる。</Dialog>
-          <Dialog>う、攻撃に動じない。</Dialog>
-          <Dialog>たまには素直に褒められてみろって。</Dialog>
-          <Dialog>……わかった、褒められとく。ありがと。</Dialog>
+          <Dialog>Whoa... Such lewd eyes...</Dialog>
+          <Dialog>But it really suits you
+nicely.</Dialog>
+          <Dialog>D-Don't make me bully you.</Dialog>
+          <Dialog>I just want to praise you
+frankly.</Dialog>
+          <Dialog>...I get it. Thanks for
+praising me.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2865,12 +3180,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>来てから言うのもなんだけどさ、何するの？　水、冷たいよ？</Dialog>
+          <Dialog>When you said we should just
+come here, what did you think
+we could do？ The water is
+very cold.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>別に恋人同士が海に来るのに、目的なんていらないだろ。</Dialog>
-          <Dialog>うわ、何それ。</Dialog>
-          <Dialog>ちょっとくさかったか……。</Dialog>
-          <Dialog>……わかったわかった、散歩でもする？　実はこんな海も嫌いじゃないよ、暑くないしさ。</Dialog>
+          <Dialog>We are lovers, right？ We
+don't need any special reason
+to come to the ocean.</Dialog>
+          <Dialog>Whoa. What's this？</Dialog>
+          <Dialog>This is getting a little
+awkward...</Dialog>
+          <Dialog>...I got it, I got it. Let's
+take a stroll. I don't really
+hate it here. At least the
+weather isn't so hot.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2935,14 +3259,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>シーズンオフの海は物悲しいね、演歌の世界だね。</Dialog>
+          <Dialog>The off-season ocean feels
+pretty sad. It's like
+listening to oldies songs.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>演歌？</Dialog>
-          <Dialog>リンコには、波をバックに熱唱する演歌歌手が見えるよ。</Dialog>
-          <Dialog>なんだそれ。例えば、どんな歌？</Dialog>
-          <Dialog>うん、こうさ……。</Dialog>
-          <Dialog>って、歌うかっつーの！</Dialog>
-          <Dialog>（▲小早川＊▲は演歌も好きなのかも）</Dialog>
+          <Dialog>Oldies？</Dialog>
+          <Dialog>It's like Rinko is singing an
+oldie song with the waves as
+her background music.</Dialog>
+          <Dialog>What is this？ For example,
+what kind of song？</Dialog>
+          <Dialog>Well, it's...</Dialog>
+          <Dialog>What！？ You think I'm gonna
+sing here！？</Dialog>
+          <Dialog>(▲小早川＊▲
+also likes oldies, huh？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3011,14 +3342,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>リンコは、時季外れの静かな海のほうが好きかな。</Dialog>
+          <Dialog>I think I like the quiet
+off-season ocean like this.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>何をするわけでもないけどね。</Dialog>
-          <Dialog>いいじゃん、それで。</Dialog>
-          <Dialog>波の音聞いてると、和むよな。</Dialog>
-          <Dialog>……まったく、カレシが和んじゃったみたいだし？　少しぐらい退屈でも、もうちょっといてあげるよ。</Dialog>
-          <Dialog>そりゃ、どうも。</Dialog>
-          <Dialog>へへ……。</Dialog>
+          <Dialog>We can't really do anything
+here though.</Dialog>
+          <Dialog>It's good like this.</Dialog>
+          <Dialog>We can feel at peace just
+listening to the wave's sound.</Dialog>
+          <Dialog>...Really. I mean I want my
+boyfriend to feel inner peace
+although it's a little boring
+to be here.</Dialog>
+          <Dialog>Thanks for that.</Dialog>
+          <Dialog>Hehe...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3072,12 +3409,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>マンボウってさ、なに考えてるんだろね。</Dialog>
+          <Dialog>I wonder what these sunfish
+are thinking.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ぼけーっとしてるように見えるけどな。</Dialog>
-          <Dialog>実はすっごい哲学的なこと考えてたりして。宇宙とは何かー、命とは何かー。</Dialog>
-          <Dialog>だったらすごいな。</Dialog>
-          <Dialog>ほら、アンタも少しは見習ってみ？</Dialog>
+          <Dialog>They look like they're just
+fooling around all day.</Dialog>
+          <Dialog>But they might actually think
+about something very
+philosophical, like what the
+universe is, or what life
+is...</Dialog>
+          <Dialog>That would be awesome.</Dialog>
+          <Dialog>Hey, can you at least follow
+their examples？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3132,13 +3476,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>スキューバダイビングなんかで、マンボウと一緒に泳ぐのが人気らしいよ。</Dialog>
+          <Dialog>When people go scuba diving,
+they like to swim along with
+the sunfish, you know？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>でっかいのに、おとなしくて。たしかに最適かもな。</Dialog>
-          <Dialog>リンコも、マンボウだったら一緒に泳いであげてもいいかな。</Dialog>
-          <Dialog>皮膚にはたくさんの寄生虫が貼りついてるって、ここに書いてあるぞ。</Dialog>
-          <Dialog>……やっぱ見てるだけがいい……。</Dialog>
-          <Dialog>（変わり身早いな……）</Dialog>
+          <Dialog>Sunfish are huge and obedient
+so they're the best choice.</Dialog>
+          <Dialog>For me, I think swimming
+alongside the sunfish isn't a
+bad idea.</Dialog>
+          <Dialog>But it's written here that
+there are so many parasites on
+sunfish's skin.</Dialog>
+          <Dialog>...Then it's good enough to
+just watch them...</Dialog>
+          <Dialog>(She changes her mind so
+quickly...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3192,12 +3545,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>飛べない鳥か……。</Dialog>
+          <Dialog>A bird that can't fly,
+huh...？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうしたんだ？</Dialog>
-          <Dialog>なんとなく。コンプレックスとかあるのかなって。</Dialog>
-          <Dialog>生き物なんだし、集団で生きてればコンプレックスもあるだろ。</Dialog>
-          <Dialog>また無難にまとめるし……アンタはあまりなさそうだね、お気楽だし。</Dialog>
+          <Dialog>What's wrong？</Dialog>
+          <Dialog>I wonder if it has some kind
+of inferiority complex.</Dialog>
+          <Dialog>All kinds of living creatures
+that live as a group have some
+kind of complex, I think.</Dialog>
+          <Dialog>They have to gather to feel
+safe... Totally not like you
+who take everything so
+lightly.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3260,13 +3620,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ペンギンの赤ちゃんって可愛いよね。ちっちゃくてさ、灰色でさ、もふもふしてて。</Dialog>
+          <Dialog>The penguin's baby is just so
+cute. It's all gray and
+fluffy.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ぬいぐるみみたいだよな。</Dialog>
-          <Dialog>そうそう。これで大きくなっても可愛いんだから大自然の奇蹟だね。</Dialog>
-          <Dialog>……なんだか今日は素直だな。</Dialog>
-          <Dialog>たまにはね。あっ、お土産買ってこっと。ペンギンのなにか。</Dialog>
-          <Dialog>（ほんと素直だ）</Dialog>
+          <Dialog>Like a plush doll, right？</Dialog>
+          <Dialog>Right, and penguins are still
+cute when they grow up. This
+is such a miracle of nature.</Dialog>
+          <Dialog>...Somehow, you're quite
+humble today.</Dialog>
+          <Dialog>I'm like this occasionally.
+Let's buy some souvenirs. I
+want something about penguins.</Dialog>
+          <Dialog>(She's really humble.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3321,13 +3688,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>海中を疑似体験って感じ？</Dialog>
+          <Dialog>This feels as if we are under
+the sea, huh？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>きれいだよな。</Dialog>
-          <Dialog>あっ！　なんか今、通った！</Dialog>
-          <Dialog>なんだろ。速くてよくわからなかった。</Dialog>
-          <Dialog>そんなのもう一回確かめたらいいじゃん。今度はちゃんと見ててよ。</Dialog>
-          <Dialog>（……これはしばらく足止めくらうな）</Dialog>
+          <Dialog>So beautiful, right？</Dialog>
+          <Dialog>Ah！ Something was just
+passing by！</Dialog>
+          <Dialog>What was that？ It was so fast
+that I couldn't see clearly.</Dialog>
+          <Dialog>Shall we confirm what it was？
+If it comes by again, I will
+surely know.</Dialog>
+          <Dialog>(...That means we'll be stuck
+here for a while, huh？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3381,12 +3754,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あっ、魚の群れ。</Dialog>
+          <Dialog>Ah, a school of fish.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>すごいなぁ。</Dialog>
-          <Dialog>ねぇ。水族館でも小さな魚って大きな魚に食べられたりしてるのかな？</Dialog>
-          <Dialog>どうだろうな。目の前で魚が食べられたら小さい子はショックかも。</Dialog>
-          <Dialog>弱肉強食か、あまり好きな言葉じゃないかも。小さい子には優しくしてあげればいいんだって。</Dialog>
+          <Dialog>That looks amazing.</Dialog>
+          <Dialog>Hey, in the aquarium, small
+fish are eaten by bigger fish,
+right？</Dialog>
+          <Dialog>I wonder if those tiny fish
+are shocked when they see
+their friends being eaten
+right before their eyes.</Dialog>
+          <Dialog>"The survival of the fittest,"
+huh？ I don't like it. The
+smaller ones should be treated
+with kindness.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3441,13 +3822,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>イルカってほんと賢いよね。地球で二番目くらいに賢いかも。</Dialog>
+          <Dialog>Dolphins are really smart. I
+think they're the second
+smartest animal in the world.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>二番目って……。一番が人間だとして、あとは？</Dialog>
-          <Dialog>残念。人間は三番目だよ。</Dialog>
-          <Dialog>えっ？</Dialog>
-          <Dialog>一番はネコ。可愛くて賢くてさ、パーフェクトだよ。</Dialog>
-          <Dialog>（▲小早川＊▲のネコ好きはよっぽどだな）</Dialog>
+          <Dialog>Second...？ Then humans are
+the smartest, right？</Dialog>
+          <Dialog>No, humans are the third.</Dialog>
+          <Dialog>Eh！？</Dialog>
+          <Dialog>The smartest ones are cats.
+Being cute and smart, they're
+so perfect.</Dialog>
+          <Dialog>(▲小早川＊▲'s
+love for cats is just too
+extreme...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3502,13 +3890,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>イルカってなんであんなに跳ねるんだろ、驚異のメカニズムだね。</Dialog>
+          <Dialog>How come the dolphins can jump
+like that？ There must be some
+mechanisms.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>たしかに。こう間近で見てても不思議だな。</Dialog>
-          <Dialog>きっと筋肉ムキムキだね、可愛い顔してるけど。</Dialog>
-          <Dialog>ムキムキなんだ。</Dialog>
-          <Dialog>うん。でもきっとショーのあとは筋肉痛だよ、プロだねぇ。</Dialog>
-          <Dialog>（……なるのか、筋肉痛？）</Dialog>
+          <Dialog>Yeah, when we watch them this
+close, the jumps are really
+wonderful.</Dialog>
+          <Dialog>They must be quite brawny,
+even with those cute faces.</Dialog>
+          <Dialog>Brawny, huh？</Dialog>
+          <Dialog>Yeah, but they'll have to
+endure muscular pain after the
+show. They're professionals.</Dialog>
+          <Dialog>(...I wonder if they'll have
+muscular pain...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3558,12 +3954,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>カップルが多い。すっかりデートスポットじゃん。</Dialog>
+          <Dialog>So many couples here. It must
+really be a famous date spot.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲は、ここ気に入ってない？</Dialog>
-          <Dialog>別に。普通かな。</Dialog>
-          <Dialog>あ、ネコだ。ここらへん、ネコ多いよな。</Dialog>
-          <Dialog>……前言撤回。気に入ってるかも、へへ。</Dialog>
+          <Dialog>▲小早川＊▲,
+do you like this place？</Dialog>
+          <Dialog>Not particularly. It's
+ordinary.</Dialog>
+          <Dialog>Ah, cats. There are many cats
+over there.</Dialog>
+          <Dialog>...I withdraw my words. I like
+this place. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3608,12 +4009,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あれってドラマの撮影か？　こんなところで撮影してるのか。</Dialog>
+          <Dialog>Are they filming a TV series
+over there？</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>景色いいから、撮影でよく使われてるって聞いたことあるよ。</Dialog>
-          <Dialog>行っちゃった。しかし……あんな着ぐるみが出てくるドラマってあったか？</Dialog>
-          <Dialog>……っていうかさ、カメラなかったんだけど、ほんとにドラマの撮影？</Dialog>
-          <Dialog>……もしかして、タダのヘンな人だったのか……。</Dialog>
+          <Dialog>This place has nice scenery. I
+heard that it's often used as
+a location for films and
+series.</Dialog>
+          <Dialog>They're gone. But... Is there
+a series that has that cartoon
+character？</Dialog>
+          <Dialog>...And I didn't see any
+camera. Are you sure they're
+filming a series？</Dialog>
+          <Dialog>...Don't tell me they're just
+some weird people...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3668,13 +4078,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、スケボーやってる人たちがいるな。</Dialog>
+          <Dialog>Ah, there are people
+skateboarding over there.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>ねぇ。ああいうのって、やったことある？</Dialog>
-          <Dialog>まあ、少しだけ。</Dialog>
-          <Dialog>学校に遅刻しそうなときに役立ちそうなんだけど、どうかな？</Dialog>
-          <Dialog>危ないって。怪我でもしたら……。</Dialog>
-          <Dialog>お父さんかっつーの！</Dialog>
+          <Dialog>Hey, have you ever tried it？</Dialog>
+          <Dialog>Yeah, just a little bit.</Dialog>
+          <Dialog>It might be handy when I'm
+late for school. What do you
+think？</Dialog>
+          <Dialog>It's quite dangerous. You
+might get hurt...</Dialog>
+          <Dialog>Don't talk like you're my
+dad！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3728,12 +4143,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>カップルってさ、やたら高いとこ行きたがると思わない？　偏見？</Dialog>
+          <Dialog>Couples usually enjoy being at
+some high places, don't you
+think？ Pretty typical.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そう……かな？　たしかに景色がどうこうとか、デートスポットには高い場所が多いかもな。</Dialog>
-          <Dialog>高いとこに昇って？　気分まで浮ついちゃって？　もっと地に足のついた付き合いはできないのかね。</Dialog>
-          <Dialog>まぁ、たまには浮ついちゃうぐらいが楽しいんじゃないか？</Dialog>
-          <Dialog>そう、た・ま・に。そのさじ加減が、大人の付き合いってやつでしょ。</Dialog>
+          <Dialog>Is... that so？ But I guess
+many date spots with nice
+scenery are all up in high
+places, huh？</Dialog>
+          <Dialog>They just try to build those
+places at high spots？ Can't
+people date somewhere closer
+to the ground？</Dialog>
+          <Dialog>Well, occasionally, the
+excitement when we're up this
+high feels nice, right？</Dialog>
+          <Dialog>Yes, once in a while. The
+people that keep going to such
+places are some boring adults.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3793,14 +4220,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>景色いいな。</Dialog>
+          <Dialog>The view is nice.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>わざわざ上まで来たんだからさ、ぐるっとまわってみれば。</Dialog>
-          <Dialog>そうだな。一番良い景色を見ていこうぜ。</Dialog>
-          <Dialog>はぁ。アンタってさ、たまにほんと子供みたいにはしゃぐよね。</Dialog>
-          <Dialog>だってせっかく来たんだし。</Dialog>
-          <Dialog>ま、いいんだけどさ。あ、走ると転ぶから気をつけなよ。</Dialog>
-          <Dialog>（子供扱い……）</Dialog>
+          <Dialog>Since we're already here, how
+about we try walking around？</Dialog>
+          <Dialog>Okay, let's go to the spot
+with the best view.</Dialog>
+          <Dialog>Hah, sometimes you really act
+like a kid.</Dialog>
+          <Dialog>Because I've been waiting for
+us to be here.</Dialog>
+          <Dialog>Well, fine then. Ah, don't
+run, or you'll fall down. Be
+careful.</Dialog>
+          <Dialog>(Don't treat me like a kid...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3854,12 +4287,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>実際昇ってみると、外から眺めるより高く感じるんだよね。</Dialog>
+          <Dialog>When we're actually here, it's
+much higher up than I had
+pictured it.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ずっと下見てるけど怖くないのか？</Dialog>
-          <Dialog>なんで？　ここって手抜き工事の噂でもあんの？</Dialog>
-          <Dialog>また物騒なことを……。</Dialog>
-          <Dialog>ないなら問題なし。ほら、アンタもおいでよ。見るだけならタダなんだからさ。</Dialog>
+          <Dialog>Aren't you scared when you
+look down like that？</Dialog>
+          <Dialog>Why？ Were there rumors about
+accidents or poor construction
+here？</Dialog>
+          <Dialog>It's just dangerous...</Dialog>
+          <Dialog>Then that's no problem. Come
+on. You should try looking
+down there too. They won't
+charge us for it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3913,12 +4354,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>なるほど。このあたり、いかにも女の子が好きそうなデザインだよね。</Dialog>
+          <Dialog>I see. This is the kind of
+design that girls like, huh？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲も女の子だろ。</Dialog>
-          <Dialog>じゃあ、聞くけどさ。この中にリンコが気に入りそうなものがあると思う？</Dialog>
-          <Dialog>それは難しいな。</Dialog>
-          <Dialog>そ、リンコの好みは複雑なの。雑誌とタレントに踊らされるティーンエイジャーとは違うんだからさ。</Dialog>
+          <Dialog>▲小早川＊▲
+is also a girl.</Dialog>
+          <Dialog>Then let me ask. Among these
+items, which one would Rinko
+like？</Dialog>
+          <Dialog>That's difficult.</Dialog>
+          <Dialog>Right. Rinko's preference is
+complicated, unlike those
+teenagers who copy magazine
+models or idols.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3973,13 +4421,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……やっぱ帰ろ。</Dialog>
+          <Dialog>...I'm going home.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ここまで来たのに？</Dialog>
-          <Dialog>だって……こんな店にあるの、リンコに似合うはずないじゃん。</Dialog>
-          <Dialog>そんなことないって。とにかく見るだけ見てみよう。見るだけならタダなんだし。</Dialog>
-          <Dialog>……うん。見るくらいなら、いいけど……。</Dialog>
-          <Dialog>（もうちょっと自信持ってもいいのにな）</Dialog>
+          <Dialog>We have just arrived though.</Dialog>
+          <Dialog>But why do we have to be
+here？ There isn't anything
+that will suit Rinko anyway.</Dialog>
+          <Dialog>Even if you say so, we can
+just look around. They won't
+charge us for looking.</Dialog>
+          <Dialog>...Okay, it's fine if we just
+look around...</Dialog>
+          <Dialog>(You should have more
+confidence in yourself.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4033,12 +4487,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>クラスの子とかはさ、こういうのいろいろ試してるらしいんだけど。</Dialog>
+          <Dialog>A lot of my classmates like to
+try these items.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>へぇ。さすがにこのあたりは男には理解しにくい世界だな。</Dialog>
-          <Dialog>でもさ、女の子のきれいになりたいって気持ちぐらい理解できない？　一応、カノジョ持ちなんだしさ。</Dialog>
-          <Dialog>まあ……それはな。やっぱり▲小早川＊▲もそうなのか？</Dialog>
-          <Dialog>……あーあ。やっぱわかってないよね、アンタ。</Dialog>
+          <Dialog>Huh？ This is really the world
+that guys can't understand.</Dialog>
+          <Dialog>But at least you should
+understand the feelings of
+girls who want to become
+pretty. You have a girlfriend,
+after all.</Dialog>
+          <Dialog>Well... In that case,
+▲小早川＊▲,
+you want to become pretty,
+too？</Dialog>
+          <Dialog>...Hah, you really don't
+understand a thing.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4088,12 +4552,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>女って面倒だよね。外出するにもいちいち化粧したりしないといけないし。</Dialog>
+          <Dialog>It's so troublesome to be
+women. Many women can't go
+outside without putting on
+make-ups.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲は化粧しないよな。</Dialog>
-          <Dialog>そりゃ、必要ないし。</Dialog>
-          <Dialog>でもそのうちするようになるんだよな、どんな風になるんだろう。</Dialog>
-          <Dialog>勝手に想像すんな！</Dialog>
+          <Dialog>▲小早川＊▲,
+but you don't wear any
+make-ups, right？</Dialog>
+          <Dialog>They're not necessary for me.</Dialog>
+          <Dialog>But you'll start using them
+someday, right？ I wonder how
+you'll look.</Dialog>
+          <Dialog>Don't imagine things on your
+own！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4133,11 +4605,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>いかにも女の子向けのアクセサリーショップだな。</Dialog>
+          <Dialog>There are only accessories for
+girls, huh？</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>一応、男向けもあるみたいだけど？</Dialog>
-          <Dialog>どれどれ。</Dialog>
-          <Dialog>似合うかどうかは別問題だけどさ、リンコは別に止めないよ？</Dialog>
+          <Dialog>There seem to be some for
+guys, too.</Dialog>
+          <Dialog>Let me see.</Dialog>
+          <Dialog>Well, whether they will look
+good on you or not is
+questionable though.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4191,12 +4667,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>アクセサリーねぇ。</Dialog>
+          <Dialog>Accessories, huh？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん？　気に入ったのがあったのか？</Dialog>
-          <Dialog>別に。まだそこまで興味はないかな。</Dialog>
-          <Dialog>でもミュージシャンって結構ジャラジャラ付けてるよな、真似したりしないの？</Dialog>
-          <Dialog>真似とか言うな。あとね、音楽はファッションじゃないの、精神性なの、精神性。</Dialog>
+          <Dialog>Hmm？ Is there any of them
+that you like？</Dialog>
+          <Dialog>Not really. I'm not that
+interested in these items.</Dialog>
+          <Dialog>But many music artists wear
+these kinds of items too,
+right？ Haven't you tried to
+copy them？</Dialog>
+          <Dialog>Don't say such a thing as
+copy. And music is not
+fashion. Music is the soul.
+The soul！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4246,12 +4730,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>んー。こーんな静かな湖畔に来るとさ、自然と眠くなっちゃうね。</Dialog>
+          <Dialog>Hmm. It sure is quiet. It's
+like I'm automatically feeling
+sleepy when I'm at the lake
+shore.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、●も眠いや。</Dialog>
-          <Dialog>ちょっ、カノジョとのデート中に眠いとか言うなっつーの。</Dialog>
-          <Dialog>だってさ、また来ればいいじゃないか、何度でも。</Dialog>
-          <Dialog>ん、そっか。……そうだね。</Dialog>
+          <Dialog>Yeah, I'm getting sleepy too.</Dialog>
+          <Dialog>Wait. Don't say you're getting
+sleepy while you're on a date
+with your girlfriend！</Dialog>
+          <Dialog>But, we can always come back
+here as many time as we want,
+right？</Dialog>
+          <Dialog>Hmm, right... That's true.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4301,12 +4792,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねぇ、リンコのこと好き？</Dialog>
+          <Dialog>Hey, do you love me？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なんだ？　突然……。</Dialog>
-          <Dialog>どれくらい？　この湖よりおっきい？</Dialog>
-          <Dialog>そうだな……。この湖の１０杯分ぐらい。</Dialog>
-          <Dialog>……あっさり答えるし。もっと照れたっていいじゃん、へへ。</Dialog>
+          <Dialog>Why do you ask me that all of
+a sudden...？</Dialog>
+          <Dialog>How much do you love me？ As
+much as the size of this
+lake？</Dialog>
+          <Dialog>Let me see... About 10 times
+the size of this lake.</Dialog>
+          <Dialog>...You easily answered my
+question. I was expecting that
+you'd get more embarrassed.
+Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4361,13 +4859,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>レンタサイクルなんてあるんだな。</Dialog>
+          <Dialog>There's a Rent-A-Cycle here.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>ん？　なにそれ？</Dialog>
-          <Dialog>自転車貸してくれるんだよ。で、サイクリングロードを走れる。▲小早川＊▲、自転車は大丈夫だろ？</Dialog>
-          <Dialog>……バカにしてんの？</Dialog>
-          <Dialog>ごめんごめん。で、どうする？</Dialog>
-          <Dialog>知らない、一人で走ってれば？</Dialog>
+          <Dialog>Huh？ What is that？</Dialog>
+          <Dialog>You can rent bicycles to ride
+around here.
+▲小早川＊▲,
+can you ride a bicycle？</Dialog>
+          <Dialog>...Are you making fun of me？</Dialog>
+          <Dialog>Sorry, sorry. Well, do you
+want to ride it？</Dialog>
+          <Dialog>I don't know. Do they have a
+tandem？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4422,13 +4925,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>もし、ここからリンコが落っこちたらさ、助けるために飛び込んでくれる？</Dialog>
+          <Dialog>If Rinko fell from here, would
+you jump down to save Rinko's
+life？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そりゃ、飛び込むだろ！　ちなみに●が落ちたら、▲小早川＊▲は？</Dialog>
-          <Dialog>うーーん、人を呼ぶくらいはするかも。</Dialog>
-          <Dialog>じゃあ、人がいなかったら？</Dialog>
-          <Dialog>カレシの根性に期待！</Dialog>
-          <Dialog>……。</Dialog>
+          <Dialog>Of course I'd jump！ By the
+way, if I fell, would you jump
+down to save me,
+▲小早川＊▲？</Dialog>
+          <Dialog>Hmm, I'd call others to help
+you, I think.</Dialog>
+          <Dialog>What if there weren't people
+around？</Dialog>
+          <Dialog>I'd believe in my boyfriend
+that he'd survive！</Dialog>
+          <Dialog>......</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4482,12 +4993,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あ、魚はねた。</Dialog>
+          <Dialog>Ah, jumping fish.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ほんとだ。結構数いるな。</Dialog>
-          <Dialog>ここ、釣りも出来るみたい。</Dialog>
-          <Dialog>釣りか、さすがにデートに選ぶには渋すぎるかな。</Dialog>
-          <Dialog>釣りも悪くないけど、今することでもないかな。老後の趣味にとっておくよ。</Dialog>
+          <Dialog>Really. That's a lot of them.</Dialog>
+          <Dialog>Seems like fishing is allowed
+here.</Dialog>
+          <Dialog>Fishing, huh？ I think it's
+such a boring thing to do
+during a date.</Dialog>
+          <Dialog>I don't hate fishing, but
+that's not something we should
+do. It's a hobby for old
+people.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4542,13 +5059,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>アンタってさ、船酔いする？</Dialog>
+          <Dialog>Do you usually get seasick？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうかな？　今はなんともないけど。</Dialog>
-          <Dialog>そっか。やっぱ湖の遊覧船じゃ、ぬるいよね。</Dialog>
-          <Dialog>荒々しいのがいいのか？</Dialog>
-          <Dialog>うん。そしたらさ、気分が悪くなったアンタを介抱できるじゃん？</Dialog>
-          <Dialog>（介抱はされたいけど……そのために気分悪くなるのはな……）</Dialog>
+          <Dialog>I wonder. I don't feel sick
+now though.</Dialog>
+          <Dialog>I see. Maybe because this
+pleasure cruise moves slowly
+in the lake.</Dialog>
+          <Dialog>Do you want it to go faster？</Dialog>
+          <Dialog>Yeah, in that case, I could be
+nursing you while you got
+seasick, right？</Dialog>
+          <Dialog>(I want her to look after me,
+but I don't want to get
+sick...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4606,13 +5130,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うーん。いい汗かいてるなぁ。</Dialog>
-          <Dialog>あれ？　▲小早川＊▲、元気ないぞ？</Dialog>
+          <Dialog>Yeah, I'm sweating.</Dialog>
+          <Dialog>Eh？
+▲小早川＊▲,
+you don't look happy.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>暑い。疲れた。足痛い。</Dialog>
-          <Dialog>頂上まで着いたらそんなこと忘れちゃうって。ほら、もう少し頑張ろう。</Dialog>
-          <Dialog>……なんでそんな無駄にテンション高いかな……むかついてきた、びしっ。</Dialog>
-          <Dialog>（理不尽なっ！）</Dialog>
+          <Dialog>Too hot. I'm tired. My feet
+hurt.</Dialog>
+          <Dialog>You'll forget about all these
+once you reach the peak. Come
+on. Just keep it up a little
+longer.</Dialog>
+          <Dialog>...Why are you so uselessly
+energetic...？ This is
+irritating！</Dialog>
+          <Dialog>(Don't be unreasonable！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4666,12 +5198,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>山で人とすれ違うときさ、必ず挨拶するんだね。</Dialog>
+          <Dialog>We have to greet other people
+when they walk past us on the
+mountain, huh？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、マナーってやつだな。▲小早川＊▲もちゃんと挨拶しろよ？</Dialog>
-          <Dialog>それぐらい、するっつーの。</Dialog>
-          <Dialog>●と最初に会った頃、してたっけ？</Dialog>
-          <Dialog>う、うるさい。たしかにそんな時期もあったかもしれないけどさ、今のリンコは違うじゃん。</Dialog>
+          <Dialog>Yeah, that's good manners.
+▲小早川＊▲
+should greet them, too.</Dialog>
+          <Dialog>I did greet them！</Dialog>
+          <Dialog>Did you greet me when we first
+met？ I can't remember...</Dialog>
+          <Dialog>S-Shut up！ There was a moment
+like that for me, but the
+current Rinko is different！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4725,12 +5264,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>あれ……？　道、さっきから下ってない？</Dialog>
+          <Dialog>Eh...？ Have we been going
+downhill？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そんなことないだろ。人だっているし。</Dialog>
-          <Dialog>でもほら、道標も……。下りのコースに入っちゃったみたい……。</Dialog>
-          <Dialog>うわ、マジかよ。テンションも下り坂だな……。</Dialog>
-          <Dialog>つまんない、２０点。いいから、復帰するよ。ほら。</Dialog>
+          <Dialog>That can't be. There are also
+people walking around here.</Dialog>
+          <Dialog>But, look at that signpost...
+It says this path is going
+downhill...</Dialog>
+          <Dialog>Whoa, are you serious？ Now,
+my excitement has gone
+downhill as well...</Dialog>
+          <Dialog>This is boring. You get only
+20 points. Anyway, let's go
+back. Come on.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4785,13 +5332,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>やっぱお年寄りが多いね。</Dialog>
+          <Dialog>This place is full of old
+people.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだなぁ、紅葉狩りする高校生カップルてのも珍しいかもな。</Dialog>
-          <Dialog>真顔でカップルとか言うな……はずい。</Dialog>
-          <Dialog>（そんな今更……）</Dialog>
-          <Dialog>今更とか思うな。</Dialog>
-          <Dialog>思うのもダメなのかよ！</Dialog>
+          <Dialog>Yeah, it's rare for high
+school couples to come to view
+maple leaves on a date.</Dialog>
+          <Dialog>Don't use the word "couples."
+It's embarrassing...</Dialog>
+          <Dialog>(Even now...？)</Dialog>
+          <Dialog>Don't dare thinking "Even
+now"！</Dialog>
+          <Dialog>Don't I even have the right to
+think！？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4846,13 +5399,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>紅葉を見ると、秋って感じがするな。まさに風物詩。</Dialog>
+          <Dialog>These maple leaves remind me
+that it's fall.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>まぁ、そういうのもあるけどさ、足下も。ほら。</Dialog>
-          <Dialog>お！　栗か！</Dialog>
-          <Dialog>秋といえばさ、やっぱ栗ごはんって感じ？</Dialog>
-          <Dialog>そうだよな、栗の数でケンカしたり！</Dialog>
-          <Dialog>しないっつーの。</Dialog>
+          <Dialog>Well, you can say that, but
+there are these things on the
+ground as well. Look.</Dialog>
+          <Dialog>Oh！ Chestnuts！</Dialog>
+          <Dialog>When we talk about fall, we
+can't forget about chestnut
+rice, right？</Dialog>
+          <Dialog>Right. Are we gonna fight over
+who gets more chestnuts in the
+rice？</Dialog>
+          <Dialog>Of course not！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4911,13 +5471,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ふっふっふー。リンコをスキーに誘ったこと、後悔することになるよ。</Dialog>
+          <Dialog>Teeheehee. Are you regretting
+it now that you invited Rinko
+to ski？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なんで？</Dialog>
-          <Dialog>リンコ、こう見えてスキーは得意なんだよね。隣で滑るのが恥ずかしくなるくらいの腕前を見せたげる。</Dialog>
-          <Dialog>お手柔らかにな。</Dialog>
-          <Dialog>それじゃ、上級者コース行っちゃう？　ほらほら置いてくよ。</Dialog>
-          <Dialog>（聞いてないな……）</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>Because I'm actually very good
+at skiing, you know？ So good
+that I might cause the people
+who ski near me to feel
+embarrassed.</Dialog>
+          <Dialog>Don't be too hard on me.</Dialog>
+          <Dialog>Now then, let's go to the
+advanced course. Come on.
+Follow me.</Dialog>
+          <Dialog>(She didn't listen...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4977,14 +5545,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ゲレンデだと３割増しで女の人が美人に見えるっていうけど、本当だな。</Dialog>
+          <Dialog>People say that the 3 levels
+of ski slopes are like the
+beauty levels of women. I
+think that's true.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>ふぅん。でもさ、そういう台詞はこっち向いて言うべきじゃん？</Dialog>
-          <Dialog>▲小早川＊▲も美人だよ。３割増しで。</Dialog>
-          <Dialog>……ねぇ。ちょっとスキー以外のこともやってみよっか。</Dialog>
-          <Dialog>……何？</Dialog>
-          <Dialog>雪っ！　合っ！　戦っ！</Dialog>
-          <Dialog>いてっ！</Dialog>
+          <Dialog>Hmm. But that kind of saying
+doesn't have anything to do
+with me, right？</Dialog>
+          <Dialog>▲小早川＊▲,
+you're a beautiful girl. So,
+you're like the premium slope.</Dialog>
+          <Dialog>...Hey, for now, shall we do
+something besides skiing？</Dialog>
+          <Dialog>...What？</Dialog>
+          <Dialog>Snowball！ Fight！</Dialog>
+          <Dialog>Ouch！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5034,12 +5610,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はは。▲小早川＊▲、鼻が赤くなってるぞ。</Dialog>
+          <Dialog>Haha.
+▲小早川＊▲,
+your nose and your face are
+all red.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>えっ？　ちょっ、バカ、見んな！</Dialog>
-          <Dialog>でもそれ、可愛いぞ。</Dialog>
-          <Dialog>もっ……やっ……そういうこと言うなっての！</Dialog>
-          <Dialog>もう……。</Dialog>
+          <Dialog>Eh？ Wait. You idiot. Don't
+look！</Dialog>
+          <Dialog>But you're cute like that.</Dialog>
+          <Dialog>Ah... No... Don't say that！</Dialog>
+          <Dialog>Geez...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5089,12 +5669,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>リンコには縁のない世界だね。すごいとは思うけどさ。</Dialog>
+          <Dialog>These things aren't related to
+Rinko at all.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>素直にへぇとかほぉとか言ってればいいんじゃないか？</Dialog>
-          <Dialog>へぇ。</Dialog>
-          <Dialog>ほぉ。</Dialog>
-          <Dialog>はぁ……二人とも縁がないみたいだね。</Dialog>
+          <Dialog>Can you just act a bit like
+"Heh" or "Oh" or something
+like that？</Dialog>
+          <Dialog>Heh.</Dialog>
+          <Dialog>Oh.</Dialog>
+          <Dialog>Hah... I don't think we can
+relate to each other now.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5144,13 +5728,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>なにこれ？　なんかでっかい目がいっこだけ描いてあるけど？</Dialog>
+          <Dialog>What is this？ There's only a
+very big eye on the whole
+painting.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>タイトルは……“視線”か。まんまだな。</Dialog>
-          <Dialog>さっきから見られてるとは思ってたけどさ。そっか、こいつだったか。</Dialog>
-          <Dialog>よし、見つめ返してやろう。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>置いてくなって！</Dialog>
+          <Dialog>Its title is... "A glance."
+So, I guess that's it.</Dialog>
+          <Dialog>That's what I thought when I
+first saw it. Yeah, so that's
+its name.</Dialog>
+          <Dialog>All right, let's stare back at
+it.</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Don't leave me alone！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5205,13 +5795,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……。</Dialog>
+          <Dialog>......</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲はこの絵がお気に入りか。普通の風景画だけど、訴えかけるものでもあったのか？</Dialog>
-          <Dialog>むかつく……。</Dialog>
-          <Dialog>おい、どうしたんだよ。</Dialog>
-          <Dialog>絵、キライ！　どうせ描けないもん。</Dialog>
-          <Dialog>（美術館に展示してある絵に対抗しても……）</Dialog>
+          <Dialog>▲小早川＊▲,
+do you like this painting？
+You usually complain about all
+kinds of paintings here
+though.</Dialog>
+          <Dialog>I'm irritated...</Dialog>
+          <Dialog>Hey, what's wrong？</Dialog>
+          <Dialog>I hate paintings！ I've never
+been able to paint them.</Dialog>
+          <Dialog>(And you're saying that out
+loud in an art gallery...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5270,13 +5866,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>うわ、でっか……。</Dialog>
+          <Dialog>Wow, so big...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>映像で見るのとはまた違うよな。</Dialog>
-          <Dialog>ここまで大きいとモンスターだよ。ゲームに敵として出てきてもおかしくなさそう。</Dialog>
-          <Dialog>でも草食動物だぞ？</Dialog>
-          <Dialog>……じゃあ、そのゲームの主人公は野菜だね。はい、決まり。</Dialog>
-          <Dialog>（何が決まったんだ……？）</Dialog>
+          <Dialog>It's different from when we
+see it in pictures, right？</Dialog>
+          <Dialog>If it's this big, it can be
+called a monster. I won't be
+surprised if it is featured as
+an enemy in a game.</Dialog>
+          <Dialog>But it is a herbivore.</Dialog>
+          <Dialog>...Well, in a game that has a
+vegetable as a protagonist
+then. Yeah, it's decided.</Dialog>
+          <Dialog>(What is decided...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5330,12 +5932,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>キリンの首はなぜ長い？　はい。</Dialog>
+          <Dialog>Why does a giraffe have a long
+neck？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>んー、それは……。</Dialog>
-          <Dialog>それは？</Dialog>
-          <Dialog>それは……お前の可愛い顔を食べるためさ！</Dialog>
-          <Dialog>……どんだけ背高いの、その赤ずきん。</Dialog>
+          <Dialog>Hm, because...</Dialog>
+          <Dialog>Because...</Dialog>
+          <Dialog>Because... Then it will be
+able to eat you, you cute
+little girl！</Dialog>
+          <Dialog>...What was that？ Am I the
+little red riding hood？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5385,12 +5991,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ライオンってさ、ネコ科なんだよね。いくらネコでもこれはちょっとなぁ。</Dialog>
+          <Dialog>Lions are in the cat family
+too, right？ No matter how
+much they look like cats, they
+are still a little bit...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>まあ、猫とは大きさが違うからな。やっぱり怖い……。</Dialog>
-          <Dialog>メスはたてがみがないからさ、ちょっと猫っぽいんだけど。</Dialog>
-          <Dialog>▲小早川＊▲も、たてがみはないよな？</Dialog>
-          <Dialog>はあ？　なにそれ？　頭から噛まれたい？</Dialog>
+          <Dialog>Well, their sizes are much
+different. Lions are really
+scary...</Dialog>
+          <Dialog>Without those sharp fangs and
+nails, they just look like
+cats.</Dialog>
+          <Dialog>▲小早川＊▲,
+you don't have a mane, right？</Dialog>
+          <Dialog>Huh？ What's that？ Want me to
+bite your head off！？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5464,15 +6079,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ライオンとトラが戦ったら、どっちが強いのかな？　やっぱライオン？　百獣の王だし。</Dialog>
+          <Dialog>If a lion fights with a tiger,
+which one will be stronger？ I
+think it's the lion because
+it's the king of beasts.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ライオンとトラでも子供を作れるらしいぞ？</Dialog>
-          <Dialog>話聞けっつーの……。</Dialog>
-          <Dialog>先に惚れた方が負けってことだよ。</Dialog>
-          <Dialog>あぁ、なるほど。</Dialog>
-          <Dialog>つまり、▲小早川＊▲から●に告白したってことは……。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>いてっ！</Dialog>
+          <Dialog>A lion and a tiger can
+reproduce and make a baby, you
+know？</Dialog>
+          <Dialog>Did you listen to me...？</Dialog>
+          <Dialog>The one that falls in love
+first will lose.</Dialog>
+          <Dialog>Ah, I see.</Dialog>
+          <Dialog>Since
+▲小早川＊▲
+confessed to me first...</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Ouch！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5527,13 +6150,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>んー、この獣臭さ。独特だよねぇ。</Dialog>
+          <Dialog>Hmm, these animals really have
+such unique smells.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲って、動物好きだっけ？</Dialog>
-          <Dialog>べつにフツー。でもたまには動物と触れあうのもいいんじゃない？</Dialog>
-          <Dialog>そっか。</Dialog>
-          <Dialog>うわ。この子もふもふ～。</Dialog>
-          <Dialog>（楽しんでくれてるみたいだな）</Dialog>
+          <Dialog>▲小早川＊▲,
+do you like animals？</Dialog>
+          <Dialog>I like them in general. It's
+good to get close to animals
+every once in a while.</Dialog>
+          <Dialog>I see.</Dialog>
+          <Dialog>Wow, this one is so fluffy~</Dialog>
+          <Dialog>(I guess she enjoys it.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5588,13 +6215,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>獣とケダモノって何が違うのかな？</Dialog>
+          <Dialog>How do you tell animals and
+beasts apart？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうだろ？　つまり、こいつらが獣で……。</Dialog>
-          <Dialog>アンタが？</Dialog>
-          <Dialog>ケダモノ。</Dialog>
-          <Dialog>納得。</Dialog>
-          <Dialog>（冗談だったのに……）</Dialog>
+          <Dialog>How？ Well, these are
+animals...</Dialog>
+          <Dialog>And you？</Dialog>
+          <Dialog>A beast.</Dialog>
+          <Dialog>I agree.</Dialog>
+          <Dialog>(I was just joking...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5781,16 +6410,16 @@
           <Dialog>通はワンピースなんだよ！</Dialog>
           <Dialog>ビキニ！</Dialog>
           <Dialog>はいはい、そうですね。しょうがないな……。</Dialog>
-          <Dialog>（よっし！）</Dialog>
+          <Dialog>(よっし！)</Dialog>
           <Dialog>ワンピース！</Dialog>
           <Dialog>そういうフェチ？　まあ深くつっこまないけど、考えておく。</Dialog>
-          <Dialog>（よし……）</Dialog>
+          <Dialog>(よし……)</Dialog>
           <Dialog>いいね！</Dialog>
           <Dialog>チェンジ！</Dialog>
           <Dialog>うーん……。</Dialog>
           <Dialog>いいねいいね！</Dialog>
           <Dialog>チェンジチェンジ！</Dialog>
-          <Dialog>（さすがにそろそろ決めないと……）</Dialog>
+          <Dialog>(さすがにそろそろ決めないと……)</Dialog>
           <Dialog>最初のがよかった</Dialog>
           <Dialog>一つ前のにしよう</Dialog>
           <Dialog>今着てるのがいい</Dialog>

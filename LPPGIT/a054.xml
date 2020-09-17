@@ -184,32 +184,42 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。あの、お願いがあるんだけど。</Dialog>
+          <Dialog>▲主人公＊▲.
+I have something to ask you.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>何？</Dialog>
-          <Dialog>▲新主人公▲。って呼んじゃ、ダメかな。</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>うん、いいよ</Dialog>
-          <Dialog>別の呼び方がいいな</Dialog>
-          <Dialog>今まで通りでいいよ</Dialog>
-          <Dialog>うん、いいよ。その呼び方で。</Dialog>
-          <Dialog>よかったぁ。恥ずかしいけど、勇気出してよかった▼</Dialog>
-          <Dialog>（▲主人公＊▲か……結構いいかも）</Dialog>
-          <Dialog>うーん、別の呼び方がいいかな……。</Dialog>
+          <Dialog>What is it？</Dialog>
+          <Dialog>▲新主人公▲.
+Can I call you like this？</Dialog>
+          <Dialog>Well, that is...</Dialog>
+          <Dialog>Yes, that's okay</Dialog>
+          <Dialog>How about something else？</Dialog>
+          <Dialog>The usual name is better</Dialog>
+          <Dialog>Yes, that's okay.</Dialog>
+          <Dialog>I'm glad. It's a little
+embarrassing but I just wanted
+to try it▼</Dialog>
+          <Dialog>(▲主人公＊▲...？
+That sounds nice.)</Dialog>
+          <Dialog>Hmm... How about trying
+something else...？</Dialog>
           <Dialog>▲生成選択肢１▲</Dialog>
           <Dialog>▲生成選択肢２▲</Dialog>
           <Dialog>▲生成選択肢３▲</Dialog>
           <Dialog>▲生成選択肢４▲</Dialog>
-          <Dialog>▲新主人公▲ってのはどう？</Dialog>
-          <Dialog>え、うん。わかった。</Dialog>
-          <Dialog>▲主人公＊▲。こっちもステキだね？</Dialog>
-          <Dialog>（うん、悪くないかも！）</Dialog>
-          <Dialog>それは、やめにしたいかな。</Dialog>
-          <Dialog>そっか……。ごめん。</Dialog>
-          <Dialog>（これはダメか……）</Dialog>
-          <Dialog>今のままでいいんじゃないかな。</Dialog>
-          <Dialog>そうよね、ごめんなさい。</Dialog>
-          <Dialog>（今のままが一番だよな！）</Dialog>
+          <Dialog>▲新主人公▲.
+How about this one？</Dialog>
+          <Dialog>Eh？ Okay, I got it.</Dialog>
+          <Dialog>▲主人公＊▲.
+This sounds wonderful, right？</Dialog>
+          <Dialog>(Yes, not bad！)</Dialog>
+          <Dialog>I think you'd better stop
+that.</Dialog>
+          <Dialog>Really...？ Sorry.</Dialog>
+          <Dialog>(That's no good？)</Dialog>
+          <Dialog>Isn't it already good the way
+it is？</Dialog>
+          <Dialog>That's right. I'm sorry.</Dialog>
+          <Dialog>(The usual name is the best！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -388,32 +398,41 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲新主人公▲。</Dialog>
+          <Dialog>▲新主人公▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なんて？</Dialog>
-          <Dialog>これからあなたのことこう呼ぶけど、いい？</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>うん、いいよ</Dialog>
-          <Dialog>別の呼び方がいいな</Dialog>
-          <Dialog>今まで通りでいいよ</Dialog>
-          <Dialog>うん、いいよ。その呼び方で。</Dialog>
-          <Dialog>ふふ。そうやって、私の言うこと聞いてくれちゃうとこ、好きよ？</Dialog>
-          <Dialog>（▲主人公＊▲か……結構いいかも）</Dialog>
-          <Dialog>うーん、別の呼び方がいいかな……。</Dialog>
+          <Dialog>What was that？</Dialog>
+          <Dialog>If I call you like this from
+now on, what would you say？</Dialog>
+          <Dialog>Well, that is...</Dialog>
+          <Dialog>Yes, that's okay</Dialog>
+          <Dialog>How about something else？</Dialog>
+          <Dialog>The usual name is better</Dialog>
+          <Dialog>Yes, that's okay.</Dialog>
+          <Dialog>Hehe. I like it when you
+listen to what I say like
+this.</Dialog>
+          <Dialog>(▲主人公＊▲...？
+That sounds nice.)</Dialog>
+          <Dialog>Hmm... How about trying
+something else...？</Dialog>
           <Dialog>▲生成選択肢１▲</Dialog>
           <Dialog>▲生成選択肢２▲</Dialog>
           <Dialog>▲生成選択肢３▲</Dialog>
           <Dialog>▲生成選択肢４▲</Dialog>
-          <Dialog>▲新主人公▲ってのはどう？</Dialog>
-          <Dialog>そうね……いいよ。</Dialog>
-          <Dialog>▲主人公＊▲。うん、悪くないね。</Dialog>
-          <Dialog>（うん、悪くないかも！）</Dialog>
-          <Dialog>それは、無理かな。</Dialog>
-          <Dialog>え、そっか……。ごめん。</Dialog>
-          <Dialog>（これはダメか……）</Dialog>
-          <Dialog>今のままでいいんじゃないかな。</Dialog>
-          <Dialog>もう、せっかく切り出したのに。</Dialog>
-          <Dialog>（今のままが一番だよな！）</Dialog>
+          <Dialog>▲新主人公▲.
+How about this one？</Dialog>
+          <Dialog>Well... Fine.</Dialog>
+          <Dialog>▲主人公＊▲.
+Yeah, not bad, right？</Dialog>
+          <Dialog>(Yes, not bad！)</Dialog>
+          <Dialog>That's impossible, I guess.</Dialog>
+          <Dialog>Eh？ Really...？ Sorry.</Dialog>
+          <Dialog>(That's no good？)</Dialog>
+          <Dialog>Isn't it already good the way
+it is？</Dialog>
+          <Dialog>Geez. I was being daring and
+all.</Dialog>
+          <Dialog>(The usual name is the best！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -587,30 +606,38 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なに？</Dialog>
-          <Dialog>▲新主人公▲。って呼ばれたら、うれしい？</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>うん、いいよ</Dialog>
-          <Dialog>別の呼び方がいいな</Dialog>
-          <Dialog>今まで通りでいいよ</Dialog>
-          <Dialog>うん、いいよ。その呼び方で。</Dialog>
-          <Dialog>ほんと？　じゃあ、呼んじゃう。</Dialog>
-          <Dialog>（▲主人公＊▲か……結構いいかも）</Dialog>
-          <Dialog>うーん、別の呼び方がいいかな……。</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>▲新主人公▲.
+Are you happy when I call you
+like this？</Dialog>
+          <Dialog>Well, that is...</Dialog>
+          <Dialog>Yes, that's okay</Dialog>
+          <Dialog>How about something else？</Dialog>
+          <Dialog>The usual name is better</Dialog>
+          <Dialog>Yes, that's okay.</Dialog>
+          <Dialog>Really？ Then I'll call you
+this way.</Dialog>
+          <Dialog>(▲主人公＊▲...？
+That sounds nice.)</Dialog>
+          <Dialog>Hmm... How about trying
+something else...？</Dialog>
           <Dialog>▲生成選択肢１▲</Dialog>
           <Dialog>▲生成選択肢２▲</Dialog>
           <Dialog>▲生成選択肢３▲</Dialog>
           <Dialog>▲生成選択肢４▲</Dialog>
-          <Dialog>▲新主人公▲ってのはどう？</Dialog>
-          <Dialog>うん。じゃあこれからは、こう呼ぶね？</Dialog>
-          <Dialog>（うん、悪くないかも！）</Dialog>
-          <Dialog>うーん。それは、なし。</Dialog>
-          <Dialog>（これはダメか……）</Dialog>
-          <Dialog>今のままでいいんじゃないかな。</Dialog>
-          <Dialog>あ、そうなの。</Dialog>
-          <Dialog>（今のままが一番だよな！）</Dialog>
+          <Dialog>▲新主人公▲.
+How about this one？</Dialog>
+          <Dialog>Okay, so I'll call you this
+way from now on.</Dialog>
+          <Dialog>(Yes, not bad！)</Dialog>
+          <Dialog>No, that's no good.</Dialog>
+          <Dialog>(That's no good？)</Dialog>
+          <Dialog>Isn't it already good the way
+it is？</Dialog>
+          <Dialog>Ah, is that so？</Dialog>
+          <Dialog>(The usual name is the best！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -804,34 +831,44 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲新主人公▲。</Dialog>
+          <Dialog>▲新主人公▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えぇっ!?</Dialog>
-          <Dialog>これはさすがに……イヤ？</Dialog>
-          <Dialog>（これは……）</Dialog>
-          <Dialog>いい！　すごくいい！</Dialog>
-          <Dialog>もっといい呼び方が……</Dialog>
-          <Dialog>やめてくれ</Dialog>
-          <Dialog>すごく恥ずかしいんだけど、喜ぶかなって。</Dialog>
-          <Dialog>（▲主人公＊▲か……）</Dialog>
-          <Dialog>（せっかくだし、ここは思い切って……）</Dialog>
+          <Dialog>Eh！？</Dialog>
+          <Dialog>How about I called you like
+this？ You like it？</Dialog>
+          <Dialog>(This is...)</Dialog>
+          <Dialog>Good！ Really good！</Dialog>
+          <Dialog>How about something else？</Dialog>
+          <Dialog>Stop it.</Dialog>
+          <Dialog>It's so embarrassing but I
+think you might like it.</Dialog>
+          <Dialog>(▲主人公＊▲...？)</Dialog>
+          <Dialog>(Well, since she asked, I'd
+better choose what I like...)</Dialog>
           <Dialog>▲生成選択肢１▲</Dialog>
           <Dialog>▲生成選択肢２▲</Dialog>
           <Dialog>▲生成選択肢３▲</Dialog>
           <Dialog>▲生成選択肢４▲</Dialog>
-          <Dialog>今まで通りでいいよ</Dialog>
-          <Dialog>それよりも……▲新主人公▲、なんてどうかな……。</Dialog>
-          <Dialog>えっと……。</Dialog>
-          <Dialog>（これはさすがに無理か？）</Dialog>
-          <Dialog>▲主人公＊▲。……あなたが、こう呼んで欲しいなら。大丈夫。</Dialog>
-          <Dialog>（言ってみるもんだな……）</Dialog>
-          <Dialog>え……？</Dialog>
-          <Dialog>ダメだよなこんなの！　だよな！</Dialog>
-          <Dialog>うん、そうだよ。びっくりした。</Dialog>
-          <Dialog>（ちぇっ、これはダメだったか……）</Dialog>
-          <Dialog>そういうのは、やめとこう。</Dialog>
-          <Dialog>あ……そっか。いいの、忘れて。</Dialog>
-          <Dialog>（うん、普通が一番）</Dialog>
+          <Dialog>Just call me the same.</Dialog>
+          <Dialog>I'd rather go with
+▲新主人公▲.
+How's that？</Dialog>
+          <Dialog>Well...</Dialog>
+          <Dialog>(So, this name is impossible,
+huh？)</Dialog>
+          <Dialog>▲主人公＊▲.
+If you like this name, I'm
+fine with it.</Dialog>
+          <Dialog>(She has tried saying it...)</Dialog>
+          <Dialog>Eh...？</Dialog>
+          <Dialog>That's no good, right？</Dialog>
+          <Dialog>Yeah, no good. You scared me.</Dialog>
+          <Dialog>(Tsk. So this is no good,
+huh...？)</Dialog>
+          <Dialog>Can you stop it？</Dialog>
+          <Dialog>Ah... Really？ Fine. Just
+forget it.</Dialog>
+          <Dialog>(Yeah, the usual is the best.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1021,34 +1058,38 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲新主人公▲。</Dialog>
+          <Dialog>▲新主人公▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えぇっ!?</Dialog>
-          <Dialog>ほら、どうなの？　こういうの。</Dialog>
-          <Dialog>（これは……）</Dialog>
-          <Dialog>いい！　すごくいい！</Dialog>
-          <Dialog>もっといい呼び方が……</Dialog>
-          <Dialog>やめてくれ</Dialog>
-          <Dialog>やっぱりね。こういうのが好きなんだ。</Dialog>
-          <Dialog>（▲主人公＊▲か……）</Dialog>
-          <Dialog>（せっかくだし、ここは思い切って……）</Dialog>
+          <Dialog>Eh！？</Dialog>
+          <Dialog>Hey, how do you like it？</Dialog>
+          <Dialog>(This is...)</Dialog>
+          <Dialog>Good！ Really good！</Dialog>
+          <Dialog>How about something else？</Dialog>
+          <Dialog>Stop it</Dialog>
+          <Dialog>Right. I knew you'd like this.</Dialog>
+          <Dialog>(▲主人公＊▲...？)</Dialog>
+          <Dialog>(Well, since she asked, I'd
+better choose what I like...)</Dialog>
           <Dialog>▲生成選択肢１▲</Dialog>
           <Dialog>▲生成選択肢２▲</Dialog>
           <Dialog>▲生成選択肢３▲</Dialog>
           <Dialog>▲生成選択肢４▲</Dialog>
-          <Dialog>今まで通りでいいよ</Dialog>
-          <Dialog>それよりも……▲新主人公▲、なんてどうかな……。</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>おっ、やっぱりいいな！</Dialog>
-          <Dialog>もう、特別だからね。</Dialog>
-          <Dialog>（言ってみるもんだな……）</Dialog>
-          <Dialog>なぁに？　それ。</Dialog>
-          <Dialog>よくない!?</Dialog>
-          <Dialog>よくない！</Dialog>
-          <Dialog>（ちぇっ、これはダメだったか……）</Dialog>
-          <Dialog>そういうのは、やめとこう。</Dialog>
-          <Dialog>なぁんだ、違うのか。</Dialog>
-          <Dialog>（うん、普通が一番）</Dialog>
+          <Dialog>The usual name is better.</Dialog>
+          <Dialog>I'd rather go with
+▲新主人公▲.
+How's that？</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Ah, that sounds nice！</Dialog>
+          <Dialog>Hey, it's special, okay？</Dialog>
+          <Dialog>(She has tried saying it...)</Dialog>
+          <Dialog>What was that？</Dialog>
+          <Dialog>No good！？</Dialog>
+          <Dialog>No good！！</Dialog>
+          <Dialog>(Tsk. So this is no good,
+huh...？)</Dialog>
+          <Dialog>Can you stop it？</Dialog>
+          <Dialog>What？ You don't like it？</Dialog>
+          <Dialog>(Yeah, the usual is the best.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1242,34 +1283,41 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲新主人公▲。</Dialog>
+          <Dialog>▲新主人公▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えぇっ!?</Dialog>
-          <Dialog>どう？　惚れ直しちゃう？</Dialog>
-          <Dialog>（これは……）</Dialog>
-          <Dialog>いい！　すごくいい！</Dialog>
-          <Dialog>もっといい呼び方が……</Dialog>
-          <Dialog>やめてくれ</Dialog>
-          <Dialog>もう、喜んじゃって。カワイイ▼</Dialog>
-          <Dialog>（▲主人公＊▲か……）</Dialog>
-          <Dialog>（せっかくだし、ここは思い切って……）</Dialog>
+          <Dialog>Eh！？</Dialog>
+          <Dialog>How's that？ You like it？</Dialog>
+          <Dialog>(This is...)</Dialog>
+          <Dialog>Good！ Really good！</Dialog>
+          <Dialog>How about something else？</Dialog>
+          <Dialog>Stop it</Dialog>
+          <Dialog>Hey, you're that happy. So
+cute▼</Dialog>
+          <Dialog>(▲主人公＊▲...？)</Dialog>
+          <Dialog>(Well, since she asked, I'd
+better choose what I like...)</Dialog>
           <Dialog>▲生成選択肢１▲</Dialog>
           <Dialog>▲生成選択肢２▲</Dialog>
           <Dialog>▲生成選択肢３▲</Dialog>
           <Dialog>▲生成選択肢４▲</Dialog>
-          <Dialog>今まで通りでいいよ</Dialog>
-          <Dialog>それよりも……▲新主人公▲、なんてどうかな……。</Dialog>
-          <Dialog>もー、しょうがないなぁ。</Dialog>
-          <Dialog>いいの？　いいよね？</Dialog>
-          <Dialog>▲主人公＊▲。ほら、これでいい？</Dialog>
-          <Dialog>（言ってみるもんだな……）</Dialog>
-          <Dialog>なるほどね、そうきたか……。</Dialog>
-          <Dialog>な？　いいでしょ、これ！</Dialog>
-          <Dialog>それはさすがに無理。</Dialog>
-          <Dialog>（ちぇっ、これはダメだったか……）</Dialog>
-          <Dialog>そういうのは、やめとこう。</Dialog>
-          <Dialog>あれ？　ダメ？</Dialog>
-          <Dialog>（うん、普通が一番）</Dialog>
+          <Dialog>The usual name is better.</Dialog>
+          <Dialog>I'd rather go with
+▲新主人公▲.
+How's that？</Dialog>
+          <Dialog>Well, I have no choice, huh？</Dialog>
+          <Dialog>It's good, right？</Dialog>
+          <Dialog>▲主人公＊▲.
+Hey, is this okay？</Dialog>
+          <Dialog>(She has tried saying it...)</Dialog>
+          <Dialog>I see. So you like it like
+that...</Dialog>
+          <Dialog>Okay？ It's good, right！？</Dialog>
+          <Dialog>It's totally impossible.</Dialog>
+          <Dialog>(Tsk. So this is no good,
+huh...？)</Dialog>
+          <Dialog>Can you stop it？</Dialog>
+          <Dialog>Eh？ No？</Dialog>
+          <Dialog>(Yeah, the usual is the best.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1409,26 +1457,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（▲姉ヶ崎＊▲のこと、そろそろ別の呼び方してみるかな……？）</Dialog>
+          <Dialog>(The way I call
+▲姉ヶ崎＊▲
+now... Shall I try changing
+it...？)</Dialog>
           <Dialog>▲生成選択肢１▲</Dialog>
           <Dialog>▲生成選択肢２▲</Dialog>
           <Dialog>▲生成選択肢３▲</Dialog>
           <Dialog>▲生成選択肢４▲</Dialog>
-          <Dialog>やっぱり、このまま</Dialog>
-          <Dialog>▲生成選択肢５▲。</Dialog>
+          <Dialog>I should keep it the same</Dialog>
+          <Dialog>▲生成選択肢５▲.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>なんて、どう？</Dialog>
-          <Dialog>うん。あなたがそう呼びたいなら、いいよ。</Dialog>
-          <Dialog>ほんと？　じゃあ、▲姉ヶ崎＊▲！</Dialog>
-          <Dialog>なんか、新鮮だね。</Dialog>
-          <Dialog>ちょっと恥ずかしいから……。</Dialog>
-          <Dialog>（ダメだったか……）</Dialog>
-          <Dialog>あの、それはちょっと……。</Dialog>
-          <Dialog>恥ずかしがらなくてもいいって！</Dialog>
-          <Dialog>そうじゃなくて。本当に……無理。</Dialog>
-          <Dialog>ま、いっか……。</Dialog>
-          <Dialog>……？</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>How is it？</Dialog>
+          <Dialog>Okay. If you want to call me
+like that, it's fine.</Dialog>
+          <Dialog>Really？ Then
+▲姉ヶ崎＊▲！</Dialog>
+          <Dialog>That sounds nice.</Dialog>
+          <Dialog>It's a little embarrassing...</Dialog>
+          <Dialog>(So it's no good...？)</Dialog>
+          <Dialog>Um, that's not quite good...</Dialog>
+          <Dialog>You don't have to be shy！</Dialog>
+          <Dialog>That's not the case. ...Just
+don't call me like that.</Dialog>
+          <Dialog>Nah, never mind.</Dialog>
+          <Dialog>...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1568,26 +1622,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（▲姉ヶ崎＊▲のこと、そろそろ別の呼び方してみるかな……？）</Dialog>
+          <Dialog>(The way I call
+▲姉ヶ崎＊▲
+now... Shall I try changing
+it...？)</Dialog>
           <Dialog>▲生成選択肢１▲</Dialog>
           <Dialog>▲生成選択肢２▲</Dialog>
           <Dialog>▲生成選択肢３▲</Dialog>
           <Dialog>▲生成選択肢４▲</Dialog>
-          <Dialog>やっぱり、このまま</Dialog>
-          <Dialog>▲生成選択肢５▲。</Dialog>
+          <Dialog>I should keep it the same</Dialog>
+          <Dialog>▲生成選択肢５▲.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>なんて、どう？</Dialog>
-          <Dialog>よし、許可してあげましょう。</Dialog>
-          <Dialog>ほんと？　じゃあ、▲姉ヶ崎＊▲！</Dialog>
-          <Dialog>もう、ハシャいじゃって。</Dialog>
-          <Dialog>それはちょっとないなぁ。</Dialog>
-          <Dialog>（ダメだったか……）</Dialog>
-          <Dialog>あはは。</Dialog>
-          <Dialog>はは、ウケた？　いいよねこれ。</Dialog>
-          <Dialog>絶対イヤ。</Dialog>
-          <Dialog>ま、いっか……。</Dialog>
-          <Dialog>……？</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>How is it？</Dialog>
+          <Dialog>Okay, you got my permission.</Dialog>
+          <Dialog>Really？ Then
+▲姉ヶ崎＊▲！</Dialog>
+          <Dialog>Hey, you don't have to be that
+happy.</Dialog>
+          <Dialog>I don't think that's a good
+idea.</Dialog>
+          <Dialog>(So it's no good...？)</Dialog>
+          <Dialog>Hahaha.</Dialog>
+          <Dialog>Haha, you like it？ It's good,
+right？</Dialog>
+          <Dialog>Of course not.</Dialog>
+          <Dialog>Nah, never mind.</Dialog>
+          <Dialog>...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1727,26 +1788,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（▲姉ヶ崎＊▲のこと、そろそろ別の呼び方してみるかな……？）</Dialog>
+          <Dialog>(The way I call
+▲姉ヶ崎＊▲
+now... Shall I try changing
+it...？)</Dialog>
           <Dialog>▲生成選択肢１▲</Dialog>
           <Dialog>▲生成選択肢２▲</Dialog>
           <Dialog>▲生成選択肢３▲</Dialog>
           <Dialog>▲生成選択肢４▲</Dialog>
-          <Dialog>やっぱり、このまま</Dialog>
-          <Dialog>▲生成選択肢５▲。</Dialog>
+          <Dialog>I should keep it the same</Dialog>
+          <Dialog>▲生成選択肢５▲.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>なんて、どう？</Dialog>
-          <Dialog>いいよ。もう一回呼んでみて？</Dialog>
-          <Dialog>ほんと？　じゃあ、▲姉ヶ崎＊▲！</Dialog>
-          <Dialog>ふふ、喜んじゃって。カワイイ▼</Dialog>
-          <Dialog>他の呼び方がいいな。だから、ね？</Dialog>
-          <Dialog>（ダメだったか……）</Dialog>
-          <Dialog>うーん、あなたのお願いだしなぁ。</Dialog>
-          <Dialog>そうそう、お願い聞いて？</Dialog>
-          <Dialog>でもやっぱりダメ。ほんとにイヤなんだもん。</Dialog>
-          <Dialog>ま、いっか……。</Dialog>
-          <Dialog>……？</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>How is it？</Dialog>
+          <Dialog>That's okay. Can you call me
+again？</Dialog>
+          <Dialog>Really？ Then
+▲姉ヶ崎＊▲！</Dialog>
+          <Dialog>Hehe. You look so happy.
+You're cute▼</Dialog>
+          <Dialog>You shouldn't call me like
+that, okay？</Dialog>
+          <Dialog>(So it's no good...？)</Dialog>
+          <Dialog>Well, if you really want to...</Dialog>
+          <Dialog>Yes, yes. I really want to.</Dialog>
+          <Dialog>But, no. I really don't like
+this name.</Dialog>
+          <Dialog>Nah, never mind.</Dialog>
+          <Dialog>...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

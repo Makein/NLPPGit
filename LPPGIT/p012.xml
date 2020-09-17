@@ -87,22 +87,41 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●にもカノジョが出来たんだな……。</Dialog>
-          <Dialog>カノジョが出来たら、生活も今までとは変わるよな。</Dialog>
-          <Dialog>これから、何したらいいんだろ。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>このあとどうやって過ごしていけばいいか、確認しておくか？</Dialog>
-          <Dialog>不安だから確認する</Dialog>
-          <Dialog>もうわかってるから必要ない</Dialog>
-          <Dialog>よし。じゃあ確認しておこう。練習みたいなもんだな。</Dialog>
-          <Dialog>付き合うといったら、やっぱりデートだな。</Dialog>
-          <Dialog>良い雰囲気になったら、カノジョとスキンシップしたり……。</Dialog>
-          <Dialog>上手くいけば、キスも出来るかも!?</Dialog>
-          <Dialog>といっても、最初からそんなに上手くはいかないよな。</Dialog>
-          <Dialog>まずは自分をしっかり磨かないと、デートに行っても何も出来ずに終わりそうだ。</Dialog>
-          <Dialog>そのためにも、まずは今日の予定を決めるか……。</Dialog>
-          <Dialog>必要ないか、もうわかってるからな。</Dialog>
-          <Dialog>じゃあ、今日の予定を決めよう。</Dialog>
+          <Dialog>I finally got myself a
+girlfriend, huh？</Dialog>
+          <Dialog>After getting a girlfriend,
+I'm sure my life will change
+somehow.</Dialog>
+          <Dialog>What do I do now？</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Should I take a look at how
+I'll spend my life from now
+on？</Dialog>
+          <Dialog>I'm anxious to examine it.</Dialog>
+          <Dialog>That's not necessary.</Dialog>
+          <Dialog>All right. I'd better take a
+look. This will be like
+practice.</Dialog>
+          <Dialog>I get to hang out with her
+normally, but this time it
+will be an actual date.</Dialog>
+          <Dialog>If she's in a good mood, I can
+try touching her, too...</Dialog>
+          <Dialog>If things go well, I might
+even get to kiss her！</Dialog>
+          <Dialog>But of course, I probably
+won't master it on the first
+try.</Dialog>
+          <Dialog>First off, if I don't fix
+myself up, I can't possibly
+ask her out on a date.</Dialog>
+          <Dialog>In that case, I'll have to
+carefully choose my activities
+each day.</Dialog>
+          <Dialog>f course, I already know how
+to manage it.</Dialog>
+          <Dialog>Now then, I need to decide
+what I'll do today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -117,7 +136,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今日の予定を決めるか……。</Dialog>
+          <Dialog>What should I do today？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -147,10 +166,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば告白された日の帰り道……。</Dialog>
-          <Dialog>デートしようって約束はしたけど、場所決めてなかったな。</Dialog>
-          <Dialog>よし、改めて自分からちゃんと誘おう。</Dialog>
-          <Dialog>出かけるならやっぱり、休みの日がいいよな……。</Dialog>
+          <Dialog>On the day that she confessed
+to me...</Dialog>
+          <Dialog>I promised her that I'd go on
+a date with her. I'd better
+decide on the location.</Dialog>
+          <Dialog>Okay. I'll call and ask her
+out.</Dialog>
+          <Dialog>It's a good idea to ask her
+out on a holiday...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -180,10 +204,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、まだデートの約束してないな……。</Dialog>
-          <Dialog>今度こっちから誘うって言ったしな……。</Dialog>
-          <Dialog>よし、デートに誘ってみよう。</Dialog>
-          <Dialog>出かけるならやっぱり、休みの日がいいよな……。</Dialog>
+          <Dialog>Speaking of which, I haven't
+discussed the date with her
+yet...</Dialog>
+          <Dialog>I told her I'd schedule a
+date, right...？</Dialog>
+          <Dialog>All right. I'll invite her out
+on a date.</Dialog>
+          <Dialog>It's a good idea to ask her
+out on a holiday...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -198,7 +227,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>でもこの時間に電話は無理だな、またにするか。</Dialog>
+          <Dialog>It's unreasonable to call at
+this hour. I'll make the call
+later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -213,7 +244,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今なら電話しても大丈夫だろ。</Dialog>
+          <Dialog>I think it's okay to call her
+now.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -228,7 +260,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲彼女＊＊▲に電話するか……。</Dialog>
+          <Dialog>▲彼女＊＊▲...
+I should call her now.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -248,8 +281,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>デートは日曜か祝日にしか出来ないけど、平日に近場に呼び出して会うぐらいはいいよな。</Dialog>
-          <Dialog>向こうの都合も考えて、無茶な時間じゃなければ大丈夫だろ。</Dialog>
+          <Dialog>I can only invite her to a
+date on Sunday or on a
+holiday, but I can still ask
+her to hang out with me
+somewhere nearby.</Dialog>
+          <Dialog>As long as I call at a
+reasonable time when I ask her
+out, it should be fine.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -264,7 +303,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>でもさすがに今呼び出すのはまずいな……またにするか。</Dialog>
+          <Dialog>But I don't think now is a
+good time to ask her out. I'd
+better do it later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -279,7 +320,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今からなら呼び出しても大丈夫かな。</Dialog>
+          <Dialog>I think now is a good time to
+try calling her.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -294,7 +336,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲彼女＊＊▲に電話するか……。</Dialog>
+          <Dialog>▲彼女＊＊▲...
+I should call her now.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -314,8 +357,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ふぅ、楽しかったな。</Dialog>
-          <Dialog>▲彼女＊＊▲からメールだ。</Dialog>
+          <Dialog>Phew, it feels great.</Dialog>
+          <Dialog>▲彼女＊＊▲'s
+mail？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -330,7 +374,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>メールチェックするか……。</Dialog>
+          <Dialog>I'll have to check my messages
+then...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -345,7 +390,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>よし、送信完了。</Dialog>
+          <Dialog>Okay, message sent.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -370,9 +415,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あとはカレンダーでスケジュールの確認して、ウェブで情報集めて、</Dialog>
-          <Dialog>それからマップでデートスポットも確認したいし、カノジョにプレゼントすることもあるだろうからアイテムも把握して……。</Dialog>
-          <Dialog>カレシ始めるのも大変だな。</Dialog>
+          <Dialog>I'd better check my calendar
+to confirm my schedule, and
+then check the web for some
+info.</Dialog>
+          <Dialog>Then, I'll have to check date
+spots on the map. Sometimes, I
+may exchange gifts with her,
+so I'd better check my items.</Dialog>
+          <Dialog>It's not easy to be a girl's
+boyfriend, eh？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -387,7 +439,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今電話するのはさすがにまずいだろ……。</Dialog>
+          <Dialog>It's not good to call her now.
+I'll do it later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

@@ -97,19 +97,29 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……朝だよ。</Dialog>
+          <Dialog>...Rise and shine.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うーん……あと５時間……。</Dialog>
-          <Dialog>はぁ。わざわざ起こしに来てあげたってのに。ねぇ……起きてってば。</Dialog>
-          <Dialog>んん……？</Dialog>
-          <Dialog>ん……あれ？　▲小早川＊▲、なんでココに？</Dialog>
-          <Dialog>アンタが朝起きられないっていうから、起こしに来たの。</Dialog>
-          <Dialog>そうだっけ？</Dialog>
-          <Dialog>ったく……。ワザワザ来てあげたのに、何でそんな態度とるかな。</Dialog>
-          <Dialog>ごめん、ごめん。</Dialog>
-          <Dialog>早くしないと、遅刻しちゃうじゃん。</Dialog>
-          <Dialog>おっと、そうだった。</Dialog>
-          <Dialog>そんな毎日毎日、起こしに来てあげられるってわけじゃないんだからさ。</Dialog>
+          <Dialog>Hmm... Gimme 5 more hours...</Dialog>
+          <Dialog>Hah. I took the trouble to
+come here and wake you up.
+Come on, snap out of it！</Dialog>
+          <Dialog>Hmm...？</Dialog>
+          <Dialog>Huh？
+▲小早川＊▲！
+Why are you here？</Dialog>
+          <Dialog>You said you could barely wake
+up in the morning, so I'm here
+to help.</Dialog>
+          <Dialog>I did？</Dialog>
+          <Dialog>Geez... I've come really far
+just for you, and now you're
+giving me that attitude.</Dialog>
+          <Dialog>Sorry, sorry.</Dialog>
+          <Dialog>If you don't hurry, we're
+going to be late.</Dialog>
+          <Dialog>Oh, right.</Dialog>
+          <Dialog>I can't be here every morning
+to wake you up, you know？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -229,22 +239,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねぇ、起きてよ。</Dialog>
+          <Dialog>I said wake up.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もう少し、もう少しだけ……。</Dialog>
-          <Dialog>ねえってば！</Dialog>
-          <Dialog>んん……？</Dialog>
-          <Dialog>▲小早川＊▲!?　あれ、どうして……？</Dialog>
-          <Dialog>まだ寝ぼけてんの？　起こしに来てあげるって言ったじゃん。</Dialog>
-          <Dialog>そうだった……っけ？</Dialog>
-          <Dialog>もう、忘れてんの？　いい加減なんだから。</Dialog>
-          <Dialog>ごめん、ごめん。……でも、▲小早川＊▲に起こしてもらうのって……。</Dialog>
-          <Dialog>なに？</Dialog>
-          <Dialog>夫婦みたいでイイなあ。</Dialog>
-          <Dialog>調子にのらない！　寝てれば!?</Dialog>
-          <Dialog>ぐぁ。</Dialog>
-          <Dialog>もぉ、早く起きてってば！</Dialog>
-          <Dialog>（どっちだよ……）</Dialog>
+          <Dialog>Just a little. Just a little
+more...</Dialog>
+          <Dialog>Come on！</Dialog>
+          <Dialog>Hmm...？</Dialog>
+          <Dialog>▲小早川＊▲！？
+Eh？ Why are you...？</Dialog>
+          <Dialog>Are you going to sleep in
+again？ I told you I'd be
+coming to wake you up, right？</Dialog>
+          <Dialog>I... did？</Dialog>
+          <Dialog>Have you forgotten already？
+Whatever, just do as you like
+then.</Dialog>
+          <Dialog>Sorry, sorry... But... having
+▲小早川＊▲
+come wake me up...</Dialog>
+          <Dialog>Come again？</Dialog>
+          <Dialog>It feels like we're a married
+couple, eh？</Dialog>
+          <Dialog>Don't get over your head！ Get
+back to sleep！</Dialog>
+          <Dialog>Ouch.</Dialog>
+          <Dialog>Come on, snap out of it！</Dialog>
+          <Dialog>(Make up you mind...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -354,20 +374,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねぇ……起きて……起きてよぉ。</Dialog>
+          <Dialog>Come on... Wake up... Just
+wake up...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>う……んん。もう少し、もう少しこのままで……。</Dialog>
-          <Dialog>もう……このままだとリンコまで遅刻しちゃうよ？</Dialog>
-          <Dialog>あれ……？</Dialog>
-          <Dialog>あ、起きた。</Dialog>
-          <Dialog>▲小早川＊▲？　どうしてここに？</Dialog>
-          <Dialog>リンコが朝、起こしに来るって言ったじゃん。</Dialog>
-          <Dialog>そうだった……ような。</Dialog>
-          <Dialog>約束したのに……忘れたの？</Dialog>
-          <Dialog>ごめん、ごめん。</Dialog>
-          <Dialog>ほんと寝起き悪いんだもん。それとも、おはようのキスが足りなかったの？</Dialog>
-          <Dialog>キ、キス!?　まさか、寝てる間に!?</Dialog>
-          <Dialog>冗談。ほんとにしちゃっても良かったけどね、へへ。</Dialog>
+          <Dialog>Umm... Just a little bit. Just
+a little bit more...</Dialog>
+          <Dialog>Geez... If you're going to be
+like this, we'll be late, you
+know？</Dialog>
+          <Dialog>Eh...？</Dialog>
+          <Dialog>Ah, you woke up.</Dialog>
+          <Dialog>▲小早川＊▲？
+Why are you here？</Dialog>
+          <Dialog>I told you that I'd wake you
+up in the morning, right？</Dialog>
+          <Dialog>Ah, that's... right.</Dialog>
+          <Dialog>I've promised you... Have you
+forgotten？</Dialog>
+          <Dialog>Sorry, sorry.</Dialog>
+          <Dialog>You're really bad at waking
+up, I guess. Was the good
+morning kiss not enough for
+you？</Dialog>
+          <Dialog>K-Kiss！？ No way... You did？
+When I was asleep？</Dialog>
+          <Dialog>Kidding. I don't mind if you
+want to. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -421,12 +453,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねえ、起きてってば。</Dialog>
+          <Dialog>Come on, wake up.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>んー。あと少しだけ……。</Dialog>
-          <Dialog>もう。起きないとリンコ、先に行くよ!?</Dialog>
-          <Dialog>……ん。▲小早川＊▲、待ってくれー。</Dialog>
-          <Dialog>まったく。いつまでも待ってくれるのなんてリンコくらいだよ？　幸せなカレシだね。</Dialog>
+          <Dialog>Umm... Few more minutes...</Dialog>
+          <Dialog>If you don't wake up soon,
+Rinko will go ahead！！！？</Dialog>
+          <Dialog>...Mmm.
+▲小早川＊▲,
+wait for me！</Dialog>
+          <Dialog>Hmph. Rinko will wait forever
+just for you, you know？ What
+a lucky boyfriend.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -476,12 +513,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……ねえ、起きなって。リンコ、先に行くよ？</Dialog>
+          <Dialog>...Come on, wake up. Wake up
+or Rinko will go ahead.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>んん……あ、▲小早川＊▲……。おはよう。</Dialog>
-          <Dialog>リンコはお母さんかっつーの！</Dialog>
-          <Dialog>はい、すいません。</Dialog>
-          <Dialog>ほら、早く準備してね。</Dialog>
+          <Dialog>Mmm... Ah！
+▲小早川＊▲...
+Good morning.</Dialog>
+          <Dialog>Rinko is not your mother！</Dialog>
+          <Dialog>Right, sorry.</Dialog>
+          <Dialog>Hey, hurry and get ready,
+okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -536,13 +577,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>お・は・よ♪</Dialog>
+          <Dialog>Good~ morning~♪</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>おっと！　びっくりした！　▲小早川＊▲か……。</Dialog>
-          <Dialog>目、覚めた？</Dialog>
-          <Dialog>ああ。でもびっくりした。</Dialog>
-          <Dialog>へへ、朝起こしに来るのも結構楽しいかも。</Dialog>
+          <Dialog>Hmm？</Dialog>
+          <Dialog>Whoa！ You surprised me！
+▲小早川＊▲...</Dialog>
+          <Dialog>So, are you wide awake now？</Dialog>
+          <Dialog>Yeah, but you really surprised
+me.</Dialog>
+          <Dialog>Hehe, I never thought that
+waking you up could be so much
+fun.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -646,19 +691,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねえ。</Dialog>
+          <Dialog>Hey.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうしたんだ？</Dialog>
-          <Dialog>お弁当、持ってきたんだよね。</Dialog>
-          <Dialog>へぇ、▲小早川＊▲は弁当か。いいなー。</Dialog>
-          <Dialog>ちょっ……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>アンタの分！　気付けっつーの。</Dialog>
-          <Dialog>うわ、すごい。</Dialog>
-          <Dialog>こういうの、初めてだったんだけどね。メニュー大丈夫だった？</Dialog>
-          <Dialog>うん、全然ＯＫ。へえ、▲小早川＊▲、和食なんて作れるのか。意外にやるなぁ。</Dialog>
-          <Dialog>“意外”ってのが気になるけど、まぁ許してあげよう。これも研究の成果だよ。</Dialog>
-          <Dialog>（研究か……頑張ってくれたんだな）</Dialog>
+          <Dialog>What's the matter？</Dialog>
+          <Dialog>I made lunch.</Dialog>
+          <Dialog>Wow, that would be nice if
+Iget the chance to eat
+▲小早川＊▲'s
+cooking.</Dialog>
+          <Dialog>Wait...</Dialog>
+          <Dialog>Hmm？</Dialog>
+          <Dialog>This is for you！ Take it！</Dialog>
+          <Dialog>Wow！ This is amazing.</Dialog>
+          <Dialog>I'm new at this stuff. Is the
+menu okay？</Dialog>
+          <Dialog>Yeah, it's totally okay. Wow,
+▲小早川＊▲
+can make Japanese dishes.
+That's surprising.</Dialog>
+          <Dialog>What do you mean by
+surprising？ ...Well, I made
+it based on reference, so I'll
+forgive you.</Dialog>
+          <Dialog>(Reference, huh？ She really
+tried her best...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -733,16 +789,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねえ、ちょっと。</Dialog>
+          <Dialog>Hey, wait up.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>お、▲小早川＊▲、どうしたの？</Dialog>
-          <Dialog>アンタのお弁当、作ってきたの。はい。</Dialog>
-          <Dialog>▲小早川＊▲が!?</Dialog>
-          <Dialog>うわ、これ、自分で作ったんだよね。</Dialog>
-          <Dialog>うん。あんまりしないけど、今回はちょっとだけがんばってみたかな。どう？</Dialog>
-          <Dialog>素直に嬉しいよ。</Dialog>
-          <Dialog>おぉ、和食か。……結構凝ってるな。これはあれか、普段とのギャップが人を魅力的に見せるという……。</Dialog>
-          <Dialog>一言余計だっつーの！</Dialog>
+          <Dialog>Oh,
+▲小早川＊▲.
+What's up？</Dialog>
+          <Dialog>I just happened to make you
+some lunch. Here.</Dialog>
+          <Dialog>▲小早川＊▲
+did！？</Dialog>
+          <Dialog>Whoa！ This is... You made
+this all by yourself？</Dialog>
+          <Dialog>Yup, even though I don't do
+this often, I put some effort
+into it this time. What do you
+think？</Dialog>
+          <Dialog>I'm really happy.</Dialog>
+          <Dialog>Whoa, a Japanese-style dish...
+The combination is just right.
+It will surely attract the
+eyes of a commoner...</Dialog>
+          <Dialog>That was unnecessary！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -846,19 +913,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねぇねぇ。</Dialog>
+          <Dialog>Hey, hey.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>お、▲小早川＊▲。昼休みにどうしたの？</Dialog>
-          <Dialog>今日はスペシャルな日だよ。へへ。</Dialog>
-          <Dialog>随分ご機嫌だなぁ。</Dialog>
-          <Dialog>ジャーン。リンコがお弁当を作ってきたのでした！</Dialog>
-          <Dialog>ほんと？　すごい！</Dialog>
-          <Dialog>和食にしてみたんだけど、どうかな？</Dialog>
-          <Dialog>うん。嬉しいよ。▲小早川＊▲って料理できたんだな。</Dialog>
-          <Dialog>へへ、まぁね。前からってわけじゃないけど。リンコのこと見直した？　お嫁さんにしたくなっちゃった？</Dialog>
-          <Dialog>うん。▲小早川＊▲って家庭的なんだな。</Dialog>
-          <Dialog>ほんとはこの日のために特訓したんだけどね。へへ……。</Dialog>
-          <Dialog>（うーん、可愛いやつ）</Dialog>
+          <Dialog>Ah,
+▲小早川＊▲.
+How did you spend your
+lunchtime？</Dialog>
+          <Dialog>Today is a special day, hehe.</Dialog>
+          <Dialog>You look pretty cheerful
+today.</Dialog>
+          <Dialog>Tada~！ Rinko made lunch for
+you！</Dialog>
+          <Dialog>Really？ Cool！</Dialog>
+          <Dialog>It's a Japanese-style lunch.
+What do you think？</Dialog>
+          <Dialog>Yeah, I'm very happy.
+▲小早川＊▲
+really knows how to cook, eh？</Dialog>
+          <Dialog>Hehe. Just a little. So, does
+it make Rinko look better in
+your eyes？ Don't you want
+Rinko to be your bride？</Dialog>
+          <Dialog>Yeah. I think
+▲小早川＊▲
+will be a good wife.</Dialog>
+          <Dialog>The truth is, I've been
+preparing hard for today.
+Hehe.</Dialog>
+          <Dialog>(Aaawww... That's so cute.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -908,12 +990,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい、お弁当。和食だよ。</Dialog>
+          <Dialog>Okay, here's your lunch. I
+made you a Japanese- style
+one.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>お、ありがとう。なかなか本格的だ。</Dialog>
-          <Dialog>ね、おいしい？</Dialog>
-          <Dialog>うん、もちろん。▲小早川＊▲、味付けうまくなってきたな。</Dialog>
-          <Dialog>そりゃまあ。続けてればね。</Dialog>
+          <Dialog>Oh, thank you. I think it's
+getting better every time.</Dialog>
+          <Dialog>So, is it delicious？</Dialog>
+          <Dialog>Yeah, it sure is.
+▲小早川＊▲'s
+seasoning is getting better
+and better.</Dialog>
+          <Dialog>I'll continue making it for
+you then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -953,11 +1042,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ほら、お弁当。</Dialog>
+          <Dialog>Hey, here's your lunch.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>毎度ながら感激するなー。これなんか、よくできてる。</Dialog>
-          <Dialog>あ、それもいいけどさ。こっちも自信作。</Dialog>
-          <Dialog>（なんかいいな、こういうの……）</Dialog>
+          <Dialog>I'm so impressed with it every
+time... This one is also
+great.</Dialog>
+          <Dialog>Well, that's good. I made this
+with confidence.</Dialog>
+          <Dialog>(Something like this is very
+nice...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1007,12 +1100,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はいっ、お弁当。</Dialog>
+          <Dialog>Here's your lunch.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ありがとう。▲小早川＊▲ってこういう家庭料理得意だな。</Dialog>
-          <Dialog>どうかなぁ、上達してる？</Dialog>
-          <Dialog>うん、毎回楽しみだよ。今日はなんだろうって。</Dialog>
-          <Dialog>よっし！　またがんばって愛情弁当作るからねっ！</Dialog>
+          <Dialog>Thanks. I think
+▲小早川＊▲
+is really good at cooking.</Dialog>
+          <Dialog>Really？ Do you see any
+improvement？</Dialog>
+          <Dialog>Yeah, it's getting better
+every time. I can't wait to
+see what you'll make next.</Dialog>
+          <Dialog>Yeah！ I'll do my best on my
+next Love-Love Lunch Box！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1117,19 +1216,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>……ねえ。</Dialog>
+          <Dialog>...Hey.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>お、▲小早川＊▲。どうした？</Dialog>
-          <Dialog>あのさ、リンコ、お弁当持ってきたんだけど、食べる？</Dialog>
-          <Dialog>うん。じゃあ●も何か買ってくるか。</Dialog>
-          <Dialog>や、そうじゃなくてさ……。</Dialog>
-          <Dialog>へへ……ちょっと、がんばったんだよね。どうかな？</Dialog>
-          <Dialog>まさか手作りとは。</Dialog>
-          <Dialog>ま、サンドイッチぐらいなら、リンコでもさ。</Dialog>
-          <Dialog>うん、悪くないよ。上出来。</Dialog>
-          <Dialog>なーんか先生みたいな評価の仕方だね、もっと素直に喜んでみ？</Dialog>
-          <Dialog>そうだね、ありがとう。嬉しいよ。</Dialog>
-          <Dialog>そうそう。感謝したってバチは当たらないよ。</Dialog>
+          <Dialog>Oh,
+▲小早川＊▲.
+What's up？</Dialog>
+          <Dialog>Hmm... Rinko brought a lunch
+box today？ Shall we eat
+together？</Dialog>
+          <Dialog>Okay. Then I'll go buy
+something.</Dialog>
+          <Dialog>No, I didn't mean that...</Dialog>
+          <Dialog>Hehe... I put some effort in
+it. What do you think？</Dialog>
+          <Dialog>You really made this by
+yourself？</Dialog>
+          <Dialog>Well, if it's just a sandwich,
+Rinko can make it well.</Dialog>
+          <Dialog>Yeah, not bad. Nice job.</Dialog>
+          <Dialog>You sounded like my teacher
+with his evaluation. Can't you
+show more appreciation？</Dialog>
+          <Dialog>Well... Thank you. I'm really
+happy.</Dialog>
+          <Dialog>Yup, since you thanked me
+properly, I won't punish you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1224,18 +1335,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねえ、ちょっとちょっと。</Dialog>
+          <Dialog>Hey, wait. Wait.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あれ、▲小早川＊▲、どうしたの？</Dialog>
-          <Dialog>今日は特別なんだけどさ……。</Dialog>
-          <Dialog>なんだ？</Dialog>
-          <Dialog>リンコ、お弁当作ってきたんだよね。</Dialog>
-          <Dialog>ほんと？　嬉しいな。▲小早川＊▲のスペシャルランチか。</Dialog>
-          <Dialog>スペシャルとか言うな！　普通でしょ、サンドイッチぐらい。</Dialog>
-          <Dialog>なかなかよくできてるぞ。</Dialog>
-          <Dialog>そう？　まあリンコにかかればこのぐらいは。</Dialog>
-          <Dialog>あの▲小早川＊▲が●のためになぁ。</Dialog>
-          <Dialog>もぉ、余計なこと言わずに黙って食べる！</Dialog>
+          <Dialog>Eh？
+▲小早川＊▲.
+What's up？</Dialog>
+          <Dialog>Today is special, all right？</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>Rinko made lunch for you.</Dialog>
+          <Dialog>Really？ I'm happy.
+▲小早川＊▲'s
+special lunch, eh？</Dialog>
+          <Dialog>Don't say special！ It's just
+a regular sandwich after all.</Dialog>
+          <Dialog>But you've done very well.</Dialog>
+          <Dialog>Really？ Well, if it's just
+this, Rinko can handle it.</Dialog>
+          <Dialog>▲小早川＊▲！
+really made it specially for
+me after all.</Dialog>
+          <Dialog>Stop saying unnecessary things
+and just eat quietly！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1310,16 +1430,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねえ、あのさ。</Dialog>
+          <Dialog>Hey. Um...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あれ、どうしたの？</Dialog>
-          <Dialog>へへ、喜んでよ。今日のお昼は特別だよ。</Dialog>
-          <Dialog>何かあったっけ……。</Dialog>
-          <Dialog>うわ、これ、全部▲小早川＊▲が作ったの？</Dialog>
-          <Dialog>もちろんっ！　といっても、ただのサンドイッチだけどね。</Dialog>
-          <Dialog>……うん、人もサンドイッチも見かけによらないな。ありがとう。</Dialog>
-          <Dialog>ケンカ売ってる？　ったく。</Dialog>
-          <Dialog>（まんざらでもなさそうだぞ？）</Dialog>
+          <Dialog>Huh？ What's up？</Dialog>
+          <Dialog>Hehe, you should be happy.
+Today's a special day.</Dialog>
+          <Dialog>What day is it today...？</Dialog>
+          <Dialog>Whoa, all of this... Did
+▲小早川＊▲
+make it？</Dialog>
+          <Dialog>Of course！ But it's actually
+just a regular sandwich.</Dialog>
+          <Dialog>Yeah, you can't tell some
+people by the sandwiches they
+made. Thank you.</Dialog>
+          <Dialog>Are you trying to start a
+fight？ Geez.</Dialog>
+          <Dialog>(Wrong words to show my
+gratitude？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1369,12 +1497,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい、お弁当。</Dialog>
+          <Dialog>Here, your lunch.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ありがとう。毎回パワーアップしてるな。</Dialog>
-          <Dialog>味付けもチェックしといてね。</Dialog>
-          <Dialog>……うん。おいしい！</Dialog>
-          <Dialog>もう、口にケチャップついてるじゃん。子供みたい……。</Dialog>
+          <Dialog>Thanks. It always gives me a
+power boost.</Dialog>
+          <Dialog>Why don't you try the
+seasoning first？</Dialog>
+          <Dialog>...Yeah, so delicious！</Dialog>
+          <Dialog>You have ketchup all over your
+mouth... Aren't you just like
+a little kid？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1424,12 +1556,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>どうぞ。</Dialog>
+          <Dialog>Here.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ありがと。最初のサンドイッチに比べて、上達したな。</Dialog>
-          <Dialog>まぁ、ね。おいしい？</Dialog>
-          <Dialog>うん、うまいよ。</Dialog>
-          <Dialog>ならいいや、続けてる甲斐もあるよ。</Dialog>
+          <Dialog>Thanks. It tastes even better
+than the first sandwich you
+made.</Dialog>
+          <Dialog>Really？ So, is it good？</Dialog>
+          <Dialog>Yeah, delicious.</Dialog>
+          <Dialog>I'll continue making them for
+you then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1479,12 +1614,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい、お弁当。</Dialog>
+          <Dialog>Here, your lunch.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>おお。毎回楽しみだな。</Dialog>
-          <Dialog>今日は洋風スペシャルメニューだよ。毎日、努力してるんだから。</Dialog>
-          <Dialog>本当に嬉しいよ。ありがとう。</Dialog>
-          <Dialog>へへっ。リンコがカノジョでよかったでしょ？</Dialog>
+          <Dialog>Oh. I'm always looking forward
+to this.</Dialog>
+          <Dialog>This time is a special
+Western-style menu. I
+practiced every day just to
+make this.</Dialog>
+          <Dialog>You make me very happy.
+Thanks.</Dialog>
+          <Dialog>Hehe. Aren't you grateful
+having Rinko as your
+girlfriend？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1579,18 +1721,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねえ、ちょっと。</Dialog>
+          <Dialog>Hey, just a moment.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうしたんだ、▲小早川＊▲？</Dialog>
-          <Dialog>実はさ……お弁当、作ってきたんだけど……。</Dialog>
-          <Dialog>●に？</Dialog>
-          <Dialog>他に誰がいるっつーの。……口に合うかわかんないケド。</Dialog>
-          <Dialog>うわ、すごい。中華風か？</Dialog>
-          <Dialog>中華、嫌いだった？</Dialog>
-          <Dialog>まさか！　大好きだよ！</Dialog>
-          <Dialog>ならいいんだけど……感謝して食べれば？</Dialog>
-          <Dialog>もちろん。残さずいただくよ。</Dialog>
-          <Dialog>それは食べる側の当然の義務だっつーの。</Dialog>
+          <Dialog>What's the matter,
+▲小早川＊▲？</Dialog>
+          <Dialog>The truth is... I made lunch
+for you...</Dialog>
+          <Dialog>For me？</Dialog>
+          <Dialog>I don't see anyone else around
+here... I don't know if you'll
+like it though.</Dialog>
+          <Dialog>Whoa, it looks great！ Chinese
+style？</Dialog>
+          <Dialog>You don't like Chinese food？</Dialog>
+          <Dialog>No way！ I love Chinese food！</Dialog>
+          <Dialog>Good then... Will you try to
+eat it？</Dialog>
+          <Dialog>Of course, I'll eat until
+there's nothing left.</Dialog>
+          <Dialog>You must. That's your
+responsibility after all.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1675,17 +1825,29 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>ねえ、ちょっと。</Dialog>
+          <Dialog>Hey, just a moment.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲？　どうしたんだ、こんなとこで？</Dialog>
-          <Dialog>なんかさ、お母さんがお弁当作り過ぎたから持ってけって、アンタに。</Dialog>
-          <Dialog>そうなんだ、助かるよ。お礼言っておいて。</Dialog>
-          <Dialog>味は……保証しないけどね。</Dialog>
-          <Dialog>まさか！　ありがたくいただくよ。</Dialog>
-          <Dialog>中華風か。うん、結構おいしいよ。</Dialog>
-          <Dialog>そう。それなら朝早くから頑張った甲斐はあったかな……。</Dialog>
-          <Dialog>頑張った？</Dialog>
-          <Dialog>お母さんがね！</Dialog>
+          <Dialog>▲小早川＊▲？
+What's the matter？ Why are
+you here？</Dialog>
+          <Dialog>Somehow, Mom made some extra
+food for lunch. So Rinko
+brought it over, for you.</Dialog>
+          <Dialog>Oh really？ I appreciate it so
+much. Tell her I'm so
+grateful, okay？</Dialog>
+          <Dialog>I can't... guarantee the
+taste, okay？</Dialog>
+          <Dialog>It won't be that bad！ I'll
+eat it gratefully！</Dialog>
+          <Dialog>Chinese style, huh？ Yeah,
+it's very delicious.</Dialog>
+          <Dialog>Really？ Then this is worth my
+effort to wake up very early
+and try my best...</Dialog>
+          <Dialog>Try your best？</Dialog>
+          <Dialog>I mean, Mom had tried her
+best！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1762,14 +1924,21 @@
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲小早川＊▲？</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>へへ。今日は良いもの持ってきてあげたよ。</Dialog>
-          <Dialog>何？　飛び蹴り？</Dialog>
-          <Dialog>な、違うし。お弁当……、作ってきたんだってば。</Dialog>
-          <Dialog>ほんと？</Dialog>
-          <Dialog>おお、本格中華か!?</Dialog>
-          <Dialog>まだまだだと思うけど……。</Dialog>
-          <Dialog>そんなことないぞ、なかなか悪くないって。</Dialog>
-          <Dialog>そう？　じゃあ、あとで品評もよろしく、参考にするから。</Dialog>
+          <Dialog>Hehe. Today I have something
+nice for you.</Dialog>
+          <Dialog>What would that be？ Another
+flying kick？</Dialog>
+          <Dialog>Hey, it's not that. A lunch
+box, you know... I made this
+for you.</Dialog>
+          <Dialog>Really？</Dialog>
+          <Dialog>Whoa, Chinese food！</Dialog>
+          <Dialog>I'm still not good at making
+them though...</Dialog>
+          <Dialog>Don't be like that. It's not
+bad at all, okay？</Dialog>
+          <Dialog>Really？ Then after this, I'll
+learn from more recipes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1819,12 +1988,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい、お弁当。また中華だけど。</Dialog>
+          <Dialog>Here, your lunch box. It's
+Chinese food again.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>おお、ありがとう。うん、なんかすごくなってるな。</Dialog>
-          <Dialog>ね、おいしい？</Dialog>
-          <Dialog>もちろん。味付けが絶妙。</Dialog>
-          <Dialog>なに、その微妙な誉め方。まあ、感想は随時受け付けるからさ。</Dialog>
+          <Dialog>Whoa, thanks. I think you've
+gotten really good at making
+them.</Dialog>
+          <Dialog>So, is it delicious？</Dialog>
+          <Dialog>Of course. They're exquisitely
+flavored！</Dialog>
+          <Dialog>What's with that "exquisitely
+flavored" thingy...？ Well, I
+get what you mean, though.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1874,12 +2049,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい、お弁当。今日は中華だよ。</Dialog>
+          <Dialog>Here's your lunch. Today is
+Chinese food.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ありがとう。これ、好きなんだよね。</Dialog>
-          <Dialog>案外イケるでしょ。</Dialog>
-          <Dialog>うん。それに段々美味くなってる気がする。</Dialog>
-          <Dialog>そ、そう？　また作ってみよっかな。</Dialog>
+          <Dialog>Thank you. I really like this,
+you know？</Dialog>
+          <Dialog>You didn't expect them at all,
+did you？</Dialog>
+          <Dialog>Yeah. The taste is gradually
+getting better with each bite.</Dialog>
+          <Dialog>R-Really？ I'll try to make
+them again then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1929,12 +2109,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい、お弁当。中華にしてみたよ。</Dialog>
+          <Dialog>Here's your lunch. I tried
+Chinese food this time.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ありがとう。うん、おいしいよ。</Dialog>
-          <Dialog>……結婚したら、毎日こんなカンジなのかな？</Dialog>
-          <Dialog>えっ!?</Dialog>
-          <Dialog>も、もしもだってば。焦んないでよ。</Dialog>
+          <Dialog>Thank you. Hmm, it tastes
+delicious.</Dialog>
+          <Dialog>I guess... it will feel like
+this when we're married...</Dialog>
+          <Dialog>Eh！？</Dialog>
+          <Dialog>It's just a possibility. We
+can't be impatient.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

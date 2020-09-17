@@ -32,9 +32,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。ねぇ……いっこだけ質問。</Dialog>
+          <Dialog>▲主人公＊▲.
+Hey... I have a question.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、いいけど？</Dialog>
+          <Dialog>Yeah, okay.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -89,13 +90,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>そういえばさ、今朝、テレビで占いやってたんだけど。</Dialog>
+          <Dialog>Well, there was a fortune
+telling program on TV this
+morning.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ。やってるよな、そういえば。</Dialog>
-          <Dialog>そうそれ。アタシの今日の運勢は“最高”なんだって。</Dialog>
-          <Dialog>へぇ。よかったじゃないか。</Dialog>
-          <Dialog>しょせん占いは占いじゃん。いいも悪いもないと思ってんだけどね。</Dialog>
-          <Dialog>（だったらなんでそんな話をするんだ？）</Dialog>
+          <Dialog>Yeah, I've heard about it.</Dialog>
+          <Dialog>Well, my fortune today is
+"best luck."</Dialog>
+          <Dialog>Huh？ Isn't that great？</Dialog>
+          <Dialog>It's just a prediction. I
+don't really care much about
+it.</Dialog>
+          <Dialog>(Then why did you bring up
+this topic, huh？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -145,12 +152,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>今朝、テレビで占いやってたんだけどさ。</Dialog>
+          <Dialog>I watched the fortune telling
+program on TV this morning.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん？</Dialog>
-          <Dialog>今日の運勢は“普通”なんだって。</Dialog>
-          <Dialog>普通か。いいことも悪いことも起らないってことかな？</Dialog>
-          <Dialog>平凡な一日ってこと。ま、退屈だけど、それはそれでいいのかもね。</Dialog>
+          <Dialog>And？</Dialog>
+          <Dialog>My fortune for today is
+"normal."</Dialog>
+          <Dialog>Normal？</Dialog>
+          <Dialog>It means I'll have an ordinary
+day today. Well, it might be
+boring but I think it's okay.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -205,13 +216,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>今朝、テレビで占いやってて……。</Dialog>
+          <Dialog>I watched the fortune telling
+program on TV this morning...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、いつも朝やってるやつか。どうだって？</Dialog>
-          <Dialog>運勢は“最悪”だったけど？</Dialog>
-          <Dialog>……そのわりには平然としてるな。</Dialog>
-          <Dialog>占いは占いじゃん。気にするだけ無駄だよ。</Dialog>
-          <Dialog>（クールだな……）</Dialog>
+          <Dialog>Ah, the one you usually watch,
+right？</Dialog>
+          <Dialog>My fortune for today is "worst
+luck."</Dialog>
+          <Dialog>...You don't seem concerned
+about it much, huh？</Dialog>
+          <Dialog>It's just a prediction. It's
+useless to worry about it.</Dialog>
+          <Dialog>(You're acting cool, huh...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

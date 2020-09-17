@@ -91,18 +91,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねぇ、聞いてもいいかな？</Dialog>
+          <Dialog>Hey, can I ask you a
+question？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なに？</Dialog>
-          <Dialog>良かったの？　……わたしで。</Dialog>
-          <Dialog>え!?</Dialog>
-          <Dialog>たまにね、不安になるの。どうしてわたしなのかな、わたしのドコを好きになってくれたのかな、って。</Dialog>
-          <Dialog>……ひょっとしたら、あなたにはもっとステキな人が……。</Dialog>
-          <Dialog>ストップ。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>●の気持ちを無視した想像は禁止！</Dialog>
-          <Dialog>あっ……そうだよね……ごめんなさい。</Dialog>
-          <Dialog>（うーん。どうすれば▲高嶺＊＊▲にわかってもらえるんだろう）</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>Am I... good enough？</Dialog>
+          <Dialog>Eh！？</Dialog>
+          <Dialog>Sometimes I feel uneasy. I
+wonder why you chose me. I
+wonder what part of me you
+like, and stuff.</Dialog>
+          <Dialog>...Perhaps there might be a
+girl that suits you much
+better...</Dialog>
+          <Dialog>Stop！</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Stop imagining things without
+considering my feeling！</Dialog>
+          <Dialog>Ah... That's right. ...I'm
+sorry.</Dialog>
+          <Dialog>Hmm... How can I make
+▲高嶺＊＊▲
+understand...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -196,18 +206,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲。この間の話だけどさ。</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+About what we talked about
+earlier...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>……うん。</Dialog>
-          <Dialog>▲高嶺＊＊▲は、どうして●？　●のどこを好きになってくれたんだ？　もっと、かっこいいヤツがいたと思うんだけど。</Dialog>
-          <Dialog>あ、あなたの代わりなんて誰も……！</Dialog>
-          <Dialog>そっか、安心した。●と同じで。</Dialog>
-          <Dialog>……えっ。</Dialog>
-          <Dialog>どこが好き、とかじゃないんだよな。まあ、言っちゃえば……全部？</Dialog>
-          <Dialog>な、一緒だろ？</Dialog>
-          <Dialog>……ちっとも一緒じゃない……。</Dialog>
-          <Dialog>絶対、わたしのほうがあなたを好きだもん。……負けないんだから。</Dialog>
-          <Dialog>よし、これからもお互いに勝負だな？</Dialog>
+          <Dialog>...Hmm.</Dialog>
+          <Dialog>▲高嶺＊＊▲
+Why do you love me？ There
+might be a guy that suits you
+better.</Dialog>
+          <Dialog>T-There is no one who can take
+your place...！</Dialog>
+          <Dialog>I see. Then you can rest
+assured, because I feel the
+same way too.</Dialog>
+          <Dialog>...Eh？</Dialog>
+          <Dialog>It's not just some parts of
+you that I like. If I had to
+say, it would be everything.</Dialog>
+          <Dialog>And you feel the same way,
+right？</Dialog>
+          <Dialog>...Not at all. It's not the
+same...</Dialog>
+          <Dialog>I definitely love you more...
+I'm not losing to you.</Dialog>
+          <Dialog>All right. From now on, we'll
+see who wins, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -296,16 +320,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>人を好きになる仕組みって、考えたこと、ある？</Dialog>
+          <Dialog>Have you ever thought about
+the mechanisms of falling in
+love？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うーん、▲高嶺＊＊▲のことは気が付いたら好きになってからな……。だから、告白ＯＫしたんだし。</Dialog>
-          <Dialog>嬉しかった。でもね、そうは言っても、気になるところはあると思うの。</Dialog>
-          <Dialog>▲高嶺＊＊▲……。</Dialog>
-          <Dialog>あっ、違うの。それが不満だとか、不安ってことじゃなくて……。</Dialog>
-          <Dialog>そういうところもひっくるめて好きだって言える……そんな気持ちって、どこから来るのかなって。</Dialog>
-          <Dialog>わたしもそう。わたし、今まで人のことを嫌いだって思ったことはないけど、ここまで好きになったこともなかった。</Dialog>
-          <Dialog>だから、すごく不思議。どういうことなんだろうね、人を好きになるって。</Dialog>
-          <Dialog>（確かに不思議だよな……）</Dialog>
+          <Dialog>Hmm, when I realized it, I
+already loved you,
+▲高嶺＊＊▲,
+That's why I said okay when
+you confessed to me.</Dialog>
+          <Dialog>I'm happy. Anyway, even though
+you said so, there are things
+that I'm quite concerned
+about.</Dialog>
+          <Dialog>▲高嶺＊＊▲...</Dialog>
+          <Dialog>Ah, no. I didn't mean that I
+feel unsatisfied or uneasy...</Dialog>
+          <Dialog>I'm just wondering where these
+feelings of love come from...</Dialog>
+          <Dialog>For me, I've never really
+hated anyone in my life. But
+I've never loved anyone this
+much either.</Dialog>
+          <Dialog>That's why I think that love
+is amazing, and I wonder what
+are behind these feelings of
+love.</Dialog>
+          <Dialog>(It really is amazing...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -414,18 +455,35 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>人を好きになる仕組みのこと、考えてるっていうお話、したでしょう？</Dialog>
+          <Dialog>We've talked about the
+mechanisms of falling in love
+earlier, right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん。結論、出た？</Dialog>
-          <Dialog>ん……考えても考えてもわからなくて……。</Dialog>
-          <Dialog>でね、急に思い出したの。人を好きになるのは、理屈じゃないっていう言葉。</Dialog>
-          <Dialog>思い出したら、すっきりしちゃって。……もう、考えなくてもいいかなって。</Dialog>
-          <Dialog>そっか。</Dialog>
-          <Dialog>うん。きっとね、理屈はいろいろつけられるんだろうけど、いいの。</Dialog>
-          <Dialog>あなたと会ったこと。それがもう、答えなんだと思う。</Dialog>
-          <Dialog>……なんて。</Dialog>
-          <Dialog>ふふ、お粗末さまでした。ああ、考えすぎてお勉強も遅れちゃったから、今夜から頑張らなくちゃ！</Dialog>
-          <Dialog>（▲高嶺＊＊▲……）</Dialog>
+          <Dialog>Yeah. Did you find the
+answer？</Dialog>
+          <Dialog>Hmm... No matter how hard I
+think about it, I can never
+understand it.</Dialog>
+          <Dialog>But, I recalled some people
+saying that love doesn't need
+reason.</Dialog>
+          <Dialog>When I think about it, it's
+really true. So, it's probably
+better that I just stop
+thinking about this.</Dialog>
+          <Dialog>Is that so？</Dialog>
+          <Dialog>Yeah, I know there are many
+theories about love, but I
+don't care anymore.</Dialog>
+          <Dialog>Just being able to see you is
+the only answer I need.</Dialog>
+          <Dialog>...Yeah.</Dialog>
+          <Dialog>Hehe. Thanks for listening to
+me. Ah, I spent too much time
+thinking about this that I've
+slacked off on studying
+lately！</Dialog>
+          <Dialog>(▲高嶺＊＊▲...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -529,18 +587,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もう少しであなたのお誕生日だね？</Dialog>
+          <Dialog>It's almost your birthday,
+huh？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あー、もうそんな時期か。</Dialog>
-          <Dialog>そんな時期です。もう……男の子って、みんなそんな感じなのかな。</Dialog>
-          <Dialog>そんな感じって？</Dialog>
-          <Dialog>あんまり興味がないのかなって。自分の生まれた日に。</Dialog>
-          <Dialog>どうだろう。▲高嶺＊＊▲はあんの？</Dialog>
-          <Dialog>うん。そわそわしちゃうよ？</Dialog>
-          <Dialog>年齢を重ねるのって、経験を重ねるってことでしょう？</Dialog>
-          <Dialog>次の一年はどう過ごそう、どういう出会いがあるのかな、って思ったら余計に。</Dialog>
-          <Dialog>なるほどなー。深いな、誕生日……。</Dialog>
-          <Dialog>ねぇ、どうしてわたしの話になっちゃったの？　あなたのお誕生日の話をしてたのに！</Dialog>
+          <Dialog>Ah, it's coming up soon.</Dialog>
+          <Dialog>Yes, it is. Geez... Are guys
+always like this？</Dialog>
+          <Dialog>What do you mean？</Dialog>
+          <Dialog>Do guys usually not pay
+attention to their own
+birthday？</Dialog>
+          <Dialog>I wonder.
+▲高嶺＊＊▲
+How about you？</Dialog>
+          <Dialog>Yeah. I always get excited
+about my birthday.</Dialog>
+          <Dialog>It's another year for me to
+grow older and experience new
+things.</Dialog>
+          <Dialog>I can't help but think about
+what will be coming next and
+whether I'll meet new people.</Dialog>
+          <Dialog>I see. You really think a lot
+about your birthday...</Dialog>
+          <Dialog>Hey, how come the topic was
+changed to my birthday？ We
+were talking about your
+birthday to begin with！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -644,19 +717,29 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ね、あなたのお誕生日のことだけど……。</Dialog>
+          <Dialog>Hey, about your birthday...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……あ。</Dialog>
-          <Dialog>……もう。忘れてたんだ。</Dialog>
-          <Dialog>ハハハ……ほら、そのさ。●としては、▲高嶺＊＊▲の誕生日のほうが気になるっていうか……。</Dialog>
-          <Dialog>そうなの？</Dialog>
-          <Dialog>そりゃあ、もちろん。今からいろいろ考えてるんだよ、これでも。</Dialog>
-          <Dialog>……ふぅん。</Dialog>
-          <Dialog>ふぅん、って……それだけ？</Dialog>
-          <Dialog>そ、それだけって？</Dialog>
-          <Dialog>あ、照れてる。</Dialog>
-          <Dialog>……照れてません。今はわたしのことじゃなくて、あなたの話でしょう？　もう！</Dialog>
-          <Dialog>（ひょっとして、何か考えてくれてるのかな？）</Dialog>
+          <Dialog>...Ah.</Dialog>
+          <Dialog>...Geez. You forgot about it.</Dialog>
+          <Dialog>Hahaha... Personally, I'm more
+concerned about
+▲高嶺＊＊▲'s
+birthday...</Dialog>
+          <Dialog>Really？</Dialog>
+          <Dialog>Of course. I've been thinking
+about it a lot. Even now.</Dialog>
+          <Dialog>...Hmm.</Dialog>
+          <Dialog>That's your response？ Just
+that？</Dialog>
+          <Dialog>What do you mean by "just
+that"？</Dialog>
+          <Dialog>Ah, you're getting
+embarrassed.</Dialog>
+          <Dialog>...I am not. It's not about my
+birthday. I was talking about
+yours. Geez！</Dialog>
+          <Dialog>(I wonder what she's planning
+for my birthday.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -760,19 +843,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ハァ……。</Dialog>
+          <Dialog>Huh...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なに？　●の誕生日のこと？</Dialog>
-          <Dialog>ふぅん？　覚えてたんだ？</Dialog>
-          <Dialog>お、覚えてたとも。</Dialog>
-          <Dialog>……ふふっ、もう。そのまま忘れてていいよ？　わたしだけが知ってればいいことだもん。</Dialog>
-          <Dialog>それもそっか。</Dialog>
-          <Dialog>納得しちゃうんだ。もう、あなたって……ふふふ！</Dialog>
-          <Dialog>ところでさ、ずっと気にしてくれてるけど何かあるの？</Dialog>
-          <Dialog>あるといいね？</Dialog>
-          <Dialog>ないの!?</Dialog>
-          <Dialog>あら？　興味ないんじゃなかった？　ふふふ。</Dialog>
-          <Dialog>（う、なんか意地悪されてる？）</Dialog>
+          <Dialog>What？ Is it about my
+birthday？</Dialog>
+          <Dialog>Hmm？ You remember it？</Dialog>
+          <Dialog>Y-Yeah, I remember.</Dialog>
+          <Dialog>...Hehe, geez. I wish you just
+forgot about it.</Dialog>
+          <Dialog>Shall I？</Dialog>
+          <Dialog>You just try to play along,
+huh？ Geez, someone like
+you... Hehehe！</Dialog>
+          <Dialog>By the way, you seem to think
+about it a lot. Did you get
+anything for me yet？</Dialog>
+          <Dialog>I wish I did.</Dialog>
+          <Dialog>You didn't！？</Dialog>
+          <Dialog>Huh？ I thought you didn't
+care about it. Hehehe.</Dialog>
+          <Dialog>(Urgh, why is she the one
+teasing me now？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -865,17 +956,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……なあ、●の誕生日のことだけど。</Dialog>
+          <Dialog>Hey, for my birthday...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふむ。とうとう興味を持ちましたな？</Dialog>
-          <Dialog>持ってなかったわけじゃないぞ？</Dialog>
-          <Dialog>はい、はい。うん、何かあると思っててくれていいよ？　ただし、期待はしないように。</Dialog>
-          <Dialog>いいえ、期待します。</Dialog>
-          <Dialog>ふふ、どうして？</Dialog>
-          <Dialog>だって、ずっと考えててくれただろ？　●以上にさ。</Dialog>
-          <Dialog>……だって、あなたが生まれてくれた日だもん。ありがとうって、言いたいじゃない？</Dialog>
-          <Dialog>▲高嶺＊＊▲……。</Dialog>
-          <Dialog>なんて。おめでとうは、当日にちゃんと言うから、待っててね？</Dialog>
+          <Dialog>Hmm？ Now, you've started to
+care about it, huh？</Dialog>
+          <Dialog>I've never said that I didn't
+care about it.</Dialog>
+          <Dialog>Okay, okay. Hmm, I can tell
+you that I already got
+something for you. Just don't
+expect too much.</Dialog>
+          <Dialog>No, I'm really expecting
+something nice.</Dialog>
+          <Dialog>Hehe, why？</Dialog>
+          <Dialog>Because you've been thinking
+about it for a long time. Even
+longer than I have.</Dialog>
+          <Dialog>....Because it's the day you
+were born. Isn't it something
+I should feel thankful for？</Dialog>
+          <Dialog>▲高嶺＊＊▲...</Dialog>
+          <Dialog>Oh well. I'll have to wait
+until your birthday to wish
+you a happy birthday,
+right？！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -979,19 +1083,40 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲、もう少しで誕生日だな？</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+it's almost your birthday,
+huh？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>あっ、覚えててくれたんだ？</Dialog>
-          <Dialog>そりゃあな。▲高嶺＊＊▲の家でも何かしたりする？</Dialog>
-          <Dialog>うん。家族の誕生日は必ずお祝いするよ？</Dialog>
-          <Dialog>ひょっとして、ケーキも手作り？</Dialog>
-          <Dialog>そう。お誕生日以外の家族で作るのが、高嶺家の決まりなの。</Dialog>
-          <Dialog>……ってことは、親父さんも参加？</Dialog>
-          <Dialog>もちろん。とっても気合いが入るみたいでね？　毎年、お仕事はお休みにするの。</Dialog>
-          <Dialog>そこまで!?</Dialog>
-          <Dialog>ふふ。パパはとっても凝り性だから。</Dialog>
-          <Dialog>今年はどんなケーキを作ってくれるのかな……楽しみ▼</Dialog>
-          <Dialog>（●も頑張らないと、●のお祝いが霞みそうだ……！）</Dialog>
+          <Dialog>Ah, you remembered.</Dialog>
+          <Dialog>Of course.
+▲高嶺＊＊▲,
+does your family have any
+plans for your birthday？</Dialog>
+          <Dialog>Yeah. We always celebrate a
+family member's birthday
+together.</Dialog>
+          <Dialog>Like, do you bake a cake
+together？</Dialog>
+          <Dialog>Right. It's a Takane tradition
+to bake a cake for a family
+member whose birthday is
+coming up.</Dialog>
+          <Dialog>...You mean your dad also
+bakes a cake？</Dialog>
+          <Dialog>Of course. He's always in high
+spirits, and he takes a day
+off from work every year for
+the occasion.</Dialog>
+          <Dialog>He does！？</Dialog>
+          <Dialog>Hehe, Papa is very obsessed
+with stuff like this.</Dialog>
+          <Dialog>I wonder what kind of cake
+he'll make this year... I
+can't wait▼</Dialog>
+          <Dialog>(If I don't try my best, maybe
+she won't appreciate it when
+we celebrate her birthday
+together！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1089,17 +1214,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そういえば、今年はね？　今までに味わったことのないようなものを作ってくれるって、パパが。</Dialog>
+          <Dialog>By the way, Papa told me that
+the cake he planned to bake
+for me this year would be
+something I've never tasted
+before.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>へ、へぇ……どんなケーキ？</Dialog>
-          <Dialog>それがね、教えてくれないの。</Dialog>
-          <Dialog>フランスのお友だちから、レシピをわざわざ送ってもらったってことだけは、わかったんだけど。</Dialog>
-          <Dialog>フランス!?</Dialog>
-          <Dialog>うん。嬉しいけど、そこまで頑張らなくてもいいよって言ったら、負けられないんだって。</Dialog>
-          <Dialog>……負けられないって、何に？</Dialog>
-          <Dialog>それも教えてもらえなかったの。ママは、しかたないなぁって感じで笑ってたけど。</Dialog>
-          <Dialog>でも、どんなケーキが出来上がるのかな……今から楽しみ▼</Dialog>
-          <Dialog>（負けられない相手って、ひょっとして……）</Dialog>
+          <Dialog>E-Eh？ ...What kind of cake is
+that？</Dialog>
+          <Dialog>He wouldn't tell me.</Dialog>
+          <Dialog>I only know that he asked his
+friend in France to send him a
+secret recipe.</Dialog>
+          <Dialog>France！？</Dialog>
+          <Dialog>Yeah. I'm very happy but I
+think he overdid it. Anyway,
+he told me that he didn't want
+to lose.</Dialog>
+          <Dialog>...Lose to who？</Dialog>
+          <Dialog>For that, he didn't tell me
+and Mama only smiled as if it
+were something that couldn't
+be helped.</Dialog>
+          <Dialog>But I'm so curious what kind
+of cake it'll be... I really
+can't wait▼</Dialog>
+          <Dialog>(The one her dad doesn't want
+to lose to... Could it be...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1188,17 +1329,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>その後、親父さんはどう？</Dialog>
+          <Dialog>How was your dad after that？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>一度、練習したみたい。でも、なかなか難しいみたいで苦戦してたって、ママが。</Dialog>
-          <Dialog>なるほど……。</Dialog>
-          <Dialog>それでね、あなたのこと、聞かれたの。</Dialog>
-          <Dialog>え……●？</Dialog>
-          <Dialog>うん。誕生日の話をしてるのか、とか、何か言ってたか、とか……。</Dialog>
-          <Dialog>そんなこと聞いてどうするの？　って言ったら、情報収集だって。</Dialog>
-          <Dialog>!!</Dialog>
-          <Dialog>どういう意味か、よくわからなかったんだけど……あなたならわかる？</Dialog>
-          <Dialog>（やっぱり、ライバルは●か！）</Dialog>
+          <Dialog>Seems like he practiced baking
+it once, but it didn't come
+out well. Mama said that he
+was quite disappointed.</Dialog>
+          <Dialog>I see...</Dialog>
+          <Dialog>And then he asked about you.</Dialog>
+          <Dialog>Eh...？ About me？</Dialog>
+          <Dialog>Yeah, like whether you knew my
+birthday, and whether you had
+said something about it...</Dialog>
+          <Dialog>When I asked him why he was
+concerned about that, he said
+he was just collecting
+information.</Dialog>
+          <Dialog>...！！</Dialog>
+          <Dialog>I don't really understand...
+Do you know why he said that？</Dialog>
+          <Dialog>(As I thought, his rival is
+me！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1298,19 +1449,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>目前だな？　誕生日。</Dialog>
+          <Dialog>Your birthday is coming up..</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。今年は特別になりそう。</Dialog>
-          <Dialog>特別に？</Dialog>
-          <Dialog>うん。こんなに前からお誕生日の話をするなんて、そうそうないでしょう？</Dialog>
-          <Dialog>あなたにもこんなに気にかけてもらって。それだけでお腹いっぱい。</Dialog>
-          <Dialog>それは困る。</Dialog>
-          <Dialog>えっ？</Dialog>
-          <Dialog>少しはさ、期待してくれないと。そのほうが、●も気合いが入るし。</Dialog>
-          <Dialog>ふぅん？　していいんだ。</Dialog>
-          <Dialog>お、おう。</Dialog>
-          <Dialog>ふふ！　じゃあ、お言葉に甘えて。がんばってね？</Dialog>
-          <Dialog>（親父さんに負けられないしな！）</Dialog>
+          <Dialog>Yeah, I hope it'll be a
+special one this year.</Dialog>
+          <Dialog>A special one？</Dialog>
+          <Dialog>Yeah, we've been talking about
+my birthday all this time
+until now, right？</Dialog>
+          <Dialog>And you've been very concerned
+about it for so long.
+Actually, that's already more
+than enough for me.</Dialog>
+          <Dialog>Now I'm in trouble.</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>At least, I want you to
+anticipate something from me.
+That way I can keep trying my
+best for you.</Dialog>
+          <Dialog>Hmm？ So I can anticipate
+something nice？</Dialog>
+          <Dialog>Y-Yeah.</Dialog>
+          <Dialog>Hehe！ Okay, I'll do as you
+wish. You have to try very
+hard, all right？</Dialog>
+          <Dialog>(I won't lose to your dad！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1400,17 +1563,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もうすぐ、一年だね？</Dialog>
+          <Dialog>It's been almost a year, huh？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そっか。もうそんなか。</Dialog>
-          <Dialog>……ふぅん、すぐわかったんだ？</Dialog>
-          <Dialog>あ。試したな？</Dialog>
-          <Dialog>ふふ、ごめんなさい。イジワルのつもりじゃなかったんだけど。</Dialog>
-          <Dialog>あっと言う間だったね？　お付き合い、始めてから……。</Dialog>
-          <Dialog>告白のときのこと、思い出すと……恥ずかしくなっちゃう。</Dialog>
-          <Dialog>●は、嬉しくなるかな。あのときさ、▲高嶺＊＊▲……。</Dialog>
-          <Dialog>もう、言わないで。……お願いだから、こっちも見ないで。</Dialog>
-          <Dialog>（こういうところ変わらないよな、▲高嶺＊＊▲は）</Dialog>
+          <Dialog>Really？ It's been a year
+already？</Dialog>
+          <Dialog>...Hmm？ You realized it at
+once, huh？</Dialog>
+          <Dialog>Well, I should, right？</Dialog>
+          <Dialog>Hehe, sorry. I didn't mean to
+tease you.</Dialog>
+          <Dialog>It feels like just a blink of
+an eye, right？ Since the time
+we started dating...</Dialog>
+          <Dialog>When I recall the moment I
+confessed to you, I still feel
+so embarrassed.</Dialog>
+          <Dialog>I was really happy when you
+confessed to me,
+▲高嶺＊＊▲...</Dialog>
+          <Dialog>Hey, don't say it... Please, I
+beg you. Don't look at me now.</Dialog>
+          <Dialog>(You've never changed,
+▲高嶺＊＊▲.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1495,17 +1669,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ね、フツウ、こういう区切りのいいときには何かするもの？</Dialog>
+          <Dialog>Hey, usually, what do people
+do when it's time for an
+important occasion？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、記念日に？</Dialog>
-          <Dialog>うん。初めてだから、よくわからなくて……。</Dialog>
-          <Dialog>うーん……どうなんだろうな？</Dialog>
-          <Dialog>こうしてお話してることが、何かしてるってことになるのかな？</Dialog>
-          <Dialog>ハハハ、確かに。</Dialog>
-          <Dialog>まあ、そんなに深く考えなくてもいいんじゃないか？　そればっかりになっても、きっと窮屈だと思うぞ？</Dialog>
-          <Dialog>ふふ、毎日が記念日になっちゃって？</Dialog>
-          <Dialog>そうそう。でも、一年目は特別だよな？</Dialog>
-          <Dialog>うん。きっと、何年経ってもあの日のこと、思い出すのね……。</Dialog>
+          <Dialog>Ah, you mean for our
+anniversary？</Dialog>
+          <Dialog>Yeah, this is my first time to
+be in a relationship, so I
+don't really know...</Dialog>
+          <Dialog>Hmm... What shall we do？</Dialog>
+          <Dialog>When you speak that way, I
+kind of wonder if you've
+already had plans in your
+mind.</Dialog>
+          <Dialog>Hahaha. Exactly.</Dialog>
+          <Dialog>Well, we don't really have to
+think about it too seriously,
+right？ Let's not pressure
+ourselves.</Dialog>
+          <Dialog>Hehe, we can treat everyday
+like our anniversary, huh？</Dialog>
+          <Dialog>Right. But the first
+anniversary should be special.</Dialog>
+          <Dialog>Yeah, I hope it would be
+something that we still think
+about no matter how many years
+have passed...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1585,16 +1775,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ね、この機会に、お互いに直して欲しいところがあったら言い合うとか、どうかな？</Dialog>
+          <Dialog>Hey, how about we use this
+chance to tell each other if
+there's anything we want each
+other to improve？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>直して欲しいところか……。</Dialog>
-          <Dialog>……ない？</Dialog>
-          <Dialog>んー。▲高嶺＊＊▲は？</Dialog>
-          <Dialog>わたし？　うん、特にはない、かな？</Dialog>
-          <Dialog>●も、特には。</Dialog>
-          <Dialog>……ふふっ。お話、終わっちゃったね？</Dialog>
-          <Dialog>ハハ、まあ、これからもよろしくってことかな？</Dialog>
-          <Dialog>うん▼</Dialog>
+          <Dialog>To improve...？</Dialog>
+          <Dialog>...Nothing？</Dialog>
+          <Dialog>Hmm... How about you,
+▲高嶺＊＊▲？</Dialog>
+          <Dialog>Hmm, I don't have anything in
+particular, I think.</Dialog>
+          <Dialog>I don't have any either.</Dialog>
+          <Dialog>...Hehe. So, our conversation
+ends here.</Dialog>
+          <Dialog>Haha, we'll just keep being
+nice to each other, okay？</Dialog>
+          <Dialog>Okay▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1699,19 +1896,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふ、直前だね？</Dialog>
+          <Dialog>Hehe, our anniversary is
+coming up.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>だな。１年間、ありがとうございました。</Dialog>
-          <Dialog>いえいえ、こちらこそ。</Dialog>
-          <Dialog>……ふふっ。</Dialog>
-          <Dialog>ハハハ……。</Dialog>
-          <Dialog>……ずぅっと、こんな会話が続くといいね？</Dialog>
-          <Dialog>当面の目標は３年かな？</Dialog>
-          <Dialog>ううん、５年！</Dialog>
-          <Dialog>いいや、１０年！</Dialog>
-          <Dialog>ふふっ、もっと！</Dialog>
-          <Dialog>ハハッ、だな！　よろしくな？</Dialog>
-          <Dialog>はい▼</Dialog>
+          <Dialog>Yeah. Thanks for being nice to
+me this whole year.</Dialog>
+          <Dialog>Don't mention it. I have to
+thank you, too.</Dialog>
+          <Dialog>...Hehe.</Dialog>
+          <Dialog>Hahaha...</Dialog>
+          <Dialog>...I wish we could continue
+having a conversation like
+this forever.</Dialog>
+          <Dialog>Our next milestone is the next
+3 years, okay？</Dialog>
+          <Dialog>No, 5 years！</Dialog>
+          <Dialog>Nah, 10 years！</Dialog>
+          <Dialog>Hehe, I want more！</Dialog>
+          <Dialog>Haha, right！ Let's try our
+best.</Dialog>
+          <Dialog>Okay▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1811,18 +2015,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……聞いても、いい？</Dialog>
+          <Dialog>...Can I ask you a question？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、なに？</Dialog>
-          <Dialog>あのね？　……あなたの隣にいるのは、わたしでいいのかな。</Dialog>
-          <Dialog>え!?</Dialog>
-          <Dialog>ごめんなさい！</Dialog>
-          <Dialog>幸せだなって思うの。でも……。</Dialog>
-          <Dialog>わたしばっかり、いいのかなって不安に思う気持ちも、あって……。</Dialog>
-          <Dialog>こんなこと、初めてだからどうしていいか、わからなくて……。</Dialog>
-          <Dialog>▲高嶺＊＊▲……。</Dialog>
-          <Dialog>……ごめんなさい。もう、これ以上はよすね？</Dialog>
-          <Dialog>（どうすれば、ちゃんと●の気持ちが伝わるんだろう……）</Dialog>
+          <Dialog>Yes, what？</Dialog>
+          <Dialog>Well... Is it really okay for
+you to have me by your side？</Dialog>
+          <Dialog>Eh！？</Dialog>
+          <Dialog>I'm sorry！</Dialog>
+          <Dialog>I think we're happy like this,
+but...</Dialog>
+          <Dialog>I don't if I'm the only one
+feeling happy. I'm so
+worried...</Dialog>
+          <Dialog>This is my first time to be in
+a relationship, so I don't
+really know anything...</Dialog>
+          <Dialog>▲高嶺＊＊▲...</Dialog>
+          <Dialog>...Sorry. I shouldn't say
+something like this anymore.</Dialog>
+          <Dialog>(How can I let you know how I
+feel...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1926,19 +2138,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲。この前の質問のことだけどさ。</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+About the question you asked
+me earlier...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>▲高嶺＊＊▲の隣にいるのは、●で本当に大丈夫か？</Dialog>
-          <Dialog>ダメなわけ、ない！</Dialog>
-          <Dialog>わたしの隣は、あなたでいいの……ううん、あなたじゃないと、わたし……！</Dialog>
-          <Dialog>そっか。●と一緒みたいで安心した！</Dialog>
-          <Dialog>えっ……。</Dialog>
-          <Dialog>いいの？　わたしで。</Dialog>
-          <Dialog>▲高嶺＊＊▲がいいの。</Dialog>
-          <Dialog>……わたし……。</Dialog>
-          <Dialog>ほら、こっちきて。</Dialog>
-          <Dialog>……うん！</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>▲高嶺＊＊▲
+is it really okay for you to
+have me by your side？</Dialog>
+          <Dialog>How can it not be okay！？</Dialog>
+          <Dialog>I'm okay to have you by my
+side... No, I mean if it's not
+you, I can't...</Dialog>
+          <Dialog>I see. We both can rest
+assured then！</Dialog>
+          <Dialog>I see. We both can rest
+assured then！</Dialog>
+          <Dialog>Am I really good for you？</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+it has to be you.</Dialog>
+          <Dialog>...I...</Dialog>
+          <Dialog>Hey, come here.</Dialog>
+          <Dialog>...Okay！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2032,16 +2253,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>どうして人は、一人の人をこんなに好きになれるのかな？</Dialog>
+          <Dialog>How can people love someone so
+much？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>最近ね、よく思うの。特別って何なのかな？　って。</Dialog>
-          <Dialog>人に対して好きとか嫌いとか、考えたことなんてなかった。みんな好きで、みんな大切で……。</Dialog>
-          <Dialog>ずっとそんな風に思ってたのに、今は……。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>わからないね？　自分に何が起こるか、なんて。</Dialog>
-          <Dialog>でも本当に、どうしてこんな気持ちになるのかな……不思議。</Dialog>
-          <Dialog>（うん、どうしてなんだろうな……）</Dialog>
+          <Dialog>Huh？</Dialog>
+          <Dialog>I've been thinking about this
+lately. There's probably
+something special.</Dialog>
+          <Dialog>In the past, I didn't have any
+particular feelings for
+anyone. I just loved everyone
+and cared about everyone...</Dialog>
+          <Dialog>I used to be like that, but
+now...</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>I really don't know. Something
+must have changed inside me.</Dialog>
+          <Dialog>I wonder why I have this kind
+of feeling... This is
+mysterious.</Dialog>
+          <Dialog>(Um, I also wonder why...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2144,17 +2375,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>この前、どうして人は、一人の人をとても好きになれるんだろうってお話、したでしょう？</Dialog>
+          <Dialog>Earlier, we talked about how
+people can love someone so
+much, right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、なにかわかった？</Dialog>
-          <Dialog>うん。それはね、あなただからなんだろうなって。</Dialog>
-          <Dialog>●？</Dialog>
-          <Dialog>……そう。あなた以外の人だったら、ここまで……好きになんて、ならなかった。きっと。</Dialog>
-          <Dialog>初めて恋をして、好きになって……。</Dialog>
-          <Dialog>初めて恋人になってくれたのがあなたでよかった。ありがとう、そばにいてくれて。</Dialog>
-          <Dialog>……やだ。告白のし直しみたいになっちゃった。</Dialog>
-          <Dialog>でも、本当の気持ちだから。これからもあなたのこと、ずっと好きでいさせてね？</Dialog>
-          <Dialog>（▲高嶺＊＊▲……）</Dialog>
+          <Dialog>Yeah, did you find out the
+reason？</Dialog>
+          <Dialog>Yeah. For me, the answer is...
+because it's you.</Dialog>
+          <Dialog>Me？</Dialog>
+          <Dialog>...Right. If it wasn't you...
+I wouldn't have been able to
+love someone this much, for
+sure.</Dialog>
+          <Dialog>You are my first love, and the
+first person who made me feel
+this way...</Dialog>
+          <Dialog>I'm so glad that my first love
+is you. Thank you for always
+being by my side.</Dialog>
+          <Dialog>...No. This is like I'm
+confessing my love to you all
+over again.</Dialog>
+          <Dialog>But, this is really how I
+feel. Please let me love you
+like this forever, okay？</Dialog>
+          <Dialog>(▲高嶺＊＊▲...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2249,18 +2495,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ね。もうすぐお誕生日だよね？</Dialog>
+          <Dialog>Hey, it's almost your
+birthday, right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、言われてみれば……。</Dialog>
-          <Dialog>何か、欲しいものとかある？</Dialog>
-          <Dialog>欲しいもの？　うーん……。</Dialog>
-          <Dialog>また聞くから、考えておいてね？　……あ。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>こういうときって内容をナイショにしておいたほうが、お楽しみだったりするのかな？</Dialog>
-          <Dialog>それもあるかもな。</Dialog>
-          <Dialog>やっぱり？　でも、あなたには喜んで欲しいし……。</Dialog>
-          <Dialog>んー、どうしよう。えぇと、えぇと……。</Dialog>
-          <Dialog>（……なんかカワイイから、このまましばらく見てよう）</Dialog>
+          <Dialog>Ah, now that you mentioned
+it...</Dialog>
+          <Dialog>Is there anything you want？</Dialog>
+          <Dialog>What I want？ Hmm...</Dialog>
+          <Dialog>I'll ask you again later, so
+think about it, okay？ ...Ah.</Dialog>
+          <Dialog>Huh？</Dialog>
+          <Dialog>For something like this, is it
+better that I keep it a
+secret？ You might want a
+surprise.</Dialog>
+          <Dialog>Hmm, a surprise is nice, too.</Dialog>
+          <Dialog>Really？ But I want you to be
+happy to get what you want...</Dialog>
+          <Dialog>Hmm, what should I do？ Hmm...
+Hmm...</Dialog>
+          <Dialog>(...She's just so cute like
+this. I'll keep watching her
+for a while.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2354,17 +2610,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どっちにするか決まった？　リクエストを聞くか否か。</Dialog>
+          <Dialog>Have you decided whether you
+want to hear my request or
+not？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ううん、まだ……もう少し、時間もらっていもいい？</Dialog>
-          <Dialog>いいよ。その分、●もじっくり考える。</Dialog>
-          <Dialog>ね、ヒントだけもらってもいい？　その、好みとか。</Dialog>
-          <Dialog>んー……何となくもらえる物の想像がついて、●に取っては楽しみが減っちゃう気がする。</Dialog>
-          <Dialog>……うん、そうかも。</Dialog>
-          <Dialog>やっぱり、ヒントはどっちにするか決めてからにするね？</Dialog>
-          <Dialog>……えぇと……。</Dialog>
-          <Dialog>例えば箸置きとか、そういうものはどう？　あと、お人形とかはきっとダメ……だよね？　ね、当たってる？</Dialog>
-          <Dialog>（それって、もうヒントじゃないような……）</Dialog>
+          <Dialog>Not yet... Can you give me
+some more time to think？</Dialog>
+          <Dialog>That's fine. For the meantime,
+I'll think about it more
+seriously too.</Dialog>
+          <Dialog>Hey, is it okay that you just
+give me some hints？</Dialog>
+          <Dialog>Hmm... But if I know
+beforehand what kind of thing
+I'll get, it won't be a
+surprise when I see it.</Dialog>
+          <Dialog>...Hmm, that's true.</Dialog>
+          <Dialog>But just some vague hints
+would be okay, right？</Dialog>
+          <Dialog>...Hmm...</Dialog>
+          <Dialog>How about a chopstick rest？
+Will you like it？ Or a doll？
+That's not good, right？ Hey,
+which one do you like？</Dialog>
+          <Dialog>(I wouldn't call them vague
+hints...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2463,18 +2733,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて。どんどん日にちが近づいてきているな……。</Dialog>
+          <Dialog>Well, my birthday's getting
+very close, huh...？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>えぇと……。</Dialog>
-          <Dialog>ハハハ。いいよ、●は急がないからさ。</Dialog>
-          <Dialog>ていうか、そんなに気を遣わなくってもいいのに。</Dialog>
-          <Dialog>それはダメ。</Dialog>
-          <Dialog>だって、あなたがこの世界に生まれてきてくれた大切な日なんだもん。</Dialog>
-          <Dialog>少しでも喜んで欲しいから……こんなの、迷惑かな？</Dialog>
-          <Dialog>いや、全然。ありがとな。</Dialog>
-          <Dialog>……ううん。わたしの自己満足みたいで、良くないかなって思ってたから……そう言ってもらえると安心する。</Dialog>
-          <Dialog>ちゃんと考えるから、もう少しだけ待っててね？</Dialog>
-          <Dialog>ああ、了解！</Dialog>
+          <Dialog>Hmm...</Dialog>
+          <Dialog>Hahaha, it's okay. There's no
+need to rush.</Dialog>
+          <Dialog>I don't think you have to pay
+attention to it this much.</Dialog>
+          <Dialog>No, I have to.</Dialog>
+          <Dialog>It represents the day you were
+born into this world. It's a
+very important day.</Dialog>
+          <Dialog>Is it troublesome for you that
+I'm getting this happy about
+it？</Dialog>
+          <Dialog>No, not at all. I'm very
+thankful.</Dialog>
+          <Dialog>...Okay. I was quite worried
+that I might cause you
+trouble. Now I'm a bit
+relieved.</Dialog>
+          <Dialog>I'll think about it carefully,
+so please just wait, okay？</Dialog>
+          <Dialog>Okay, roger that！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2573,18 +2855,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>決めました。</Dialog>
+          <Dialog>I've decided.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>おっ。結果発表だな？</Dialog>
-          <Dialog>ふふっ。やっぱり、ナイショの方向で。</Dialog>
-          <Dialog>そっか。うん、楽しみだな。</Dialog>
-          <Dialog>でも、あまり期待しないでね？</Dialog>
-          <Dialog>えー？</Dialog>
-          <Dialog>えっ……えぇと、頑張るつもりではいるけど……。</Dialog>
-          <Dialog>ハハハ、冗談だって。●は▲高嶺＊＊▲といられれば、それでいいからさ。</Dialog>
-          <Dialog>……あ、ありがとう……。</Dialog>
-          <Dialog>あっ。今みたいに、わたしのことは喜ばせなくていいんだからね？　嬉しいんだけど、ダメだよ？</Dialog>
-          <Dialog>（この状況だけでも充分なんだけどな、●としては！）</Dialog>
+          <Dialog>Oh, so this is an official
+announcement, huh？</Dialog>
+          <Dialog>Hehe, I've decided to keep it
+a secret.</Dialog>
+          <Dialog>I see. Okay, I'll be looking
+forward to it then.</Dialog>
+          <Dialog>But, please don't expect too
+much, okay？</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>Um... Um... I've really tried
+my best, but...</Dialog>
+          <Dialog>Hahaha, I was just kidding.
+When I have
+▲高嶺＊＊▲
+with me, I don't need anything
+else.</Dialog>
+          <Dialog>is this right？ ...T-Thank
+you...</Dialog>
+          <Dialog>Ah, I shouldn't be easily
+overjoyed like this, right？
+Is it okay that I'm happy
+about it？</Dialog>
+          <Dialog>(For me, something like this
+is more than enough！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2674,18 +2970,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲の誕生日まで、もうそろそろか。</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+it's almost your birthday,
+right？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。ありがとう、覚えててくれて。</Dialog>
-          <Dialog>家でもそろそろ話が出てる？</Dialog>
-          <Dialog>まだ。ふふっ、さすがに早いよ。</Dialog>
-          <Dialog>ハハハ、そっか。</Dialog>
-          <Dialog>でも、毎年ケーキは作るから、その話はしてるんじゃないかな？</Dialog>
-          <Dialog>▲高嶺＊＊▲、まさか誕生日に自作？</Dialog>
-          <Dialog>ううん。その日はね、パパが作ってくれるの。</Dialog>
-          <Dialog>へぇ、そういう分担になるんだ。</Dialog>
-          <Dialog>そう。毎回ドキドキなの、ふふっ。</Dialog>
-          <Dialog>（ん？　あまり上手じゃないのか？）</Dialog>
+          <Dialog>Yeah. Thank you for
+remembering it.</Dialog>
+          <Dialog>Has your family started
+talking about this？</Dialog>
+          <Dialog>Not yet. Hehe, you're pretty
+fast.</Dialog>
+          <Dialog>Hahaha, I see.</Dialog>
+          <Dialog>We bake some cake at home
+every year, but we don't
+really talk about it like
+this.</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+don't tell me you bake your
+own birthday cake.</Dialog>
+          <Dialog>No, Papa is always the one
+baking it for me.</Dialog>
+          <Dialog>Hmm？ So it's like that in
+your family, huh？</Dialog>
+          <Dialog>Yeah, it's quite thrilling
+every year. Hehe.</Dialog>
+          <Dialog>(Huh？ That means he's not
+very good at it, eh？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2790,19 +3100,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲の家は、誕生日って盛大にお祝いすんの？</Dialog>
+          <Dialog>▲高嶺＊＊▲
+do you have a big birthday
+party at home？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>盛大ってほどではないけど、ちゃんとするよ？</Dialog>
-          <Dialog>この間言ったみたいに、ケーキを作って、ハッピーバースデイの歌を歌って、プレゼントの交換をして。</Dialog>
-          <Dialog>それで、普段よりちょっとだけ凝ったお料理を食べながら、思い出話をしたり。</Dialog>
-          <Dialog>思い出？</Dialog>
-          <Dialog>うん。わたしが小学生の頃のお話だとか、あとはパパたちが若かった頃の話だとか。</Dialog>
-          <Dialog>へぇ……なんか楽しそうだなー。</Dialog>
-          <Dialog>ふふ。お誕生日だけは、わたしも少しだけ夜更かしなんだ。</Dialog>
-          <Dialog>今年は去年より起きていられるといいなあ。</Dialog>
-          <Dialog>９時半とか？</Dialog>
-          <Dialog>……もうちょっと起きていられるもん。……たぶん。</Dialog>
-          <Dialog>（でもそれくらいが限度だろうな、これは……）</Dialog>
+          <Dialog>Not a big one, but there's
+always a party.</Dialog>
+          <Dialog>We eat cake, sing "Happy
+Birthday," and then I open the
+presents, something like that.</Dialog>
+          <Dialog>Our dinner will be a little
+bit more special. We reminisce
+about the old days while we're
+eating.</Dialog>
+          <Dialog>Reminisce about the old days？</Dialog>
+          <Dialog>Yeah, something about when I
+was in grade school or when
+Papa and Mama were young.</Dialog>
+          <Dialog>Hmm... That sounds fun.</Dialog>
+          <Dialog>Hehe, I usually stay up late
+on my birthday.</Dialog>
+          <Dialog>I'm hoping I can stay up even
+later this year.</Dialog>
+          <Dialog>Like, until 9:30 PM？</Dialog>
+          <Dialog>...I can stay longer than
+that... I think.</Dialog>
+          <Dialog>(But that's about your limit,
+isn't it...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2881,16 +3205,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ、▲高嶺＊＊▲。●、聞こうと思ってたことがあったんだ。</Dialog>
+          <Dialog>Hey,
+▲高嶺＊＊▲,
+do you have anything you want
+to ask from me？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん、なぁに？</Dialog>
-          <Dialog>何かリクエスト、ある？　欲しいものとか、行きたいところとか。</Dialog>
-          <Dialog>うーん……ないかな。</Dialog>
-          <Dialog>うっ。ないのか。</Dialog>
-          <Dialog>うん。おめでとうって言ってくれれば、それで。</Dialog>
-          <Dialog>それはもちろん言うけどさ。</Dialog>
-          <Dialog>ふふっ。お祝いしてもらえるだけで嬉しいから、本当に気にしないで？　気にかけてくれて、ありがとう。</Dialog>
-          <Dialog>（うーん……どうしようかな……）</Dialog>
+          <Dialog>Hmm？ What do you mean？</Dialog>
+          <Dialog>Do you have any requests？
+Like something you want or
+somewhere you want to visit？</Dialog>
+          <Dialog>Hmm... I don't have any.</Dialog>
+          <Dialog>Huh？ None at all？</Dialog>
+          <Dialog>Yes, just hearing you say
+"Happy Birthday" to me is
+enough.</Dialog>
+          <Dialog>Of course, I'll be saying
+that.</Dialog>
+          <Dialog>Hehe. Just that is more than
+enough. You don't have to
+concern yourself about it too
+much. Thank you.</Dialog>
+          <Dialog>(Hmm... What should I get for
+her then...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3003,19 +3339,36 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>このまえ言ってた、お誕生日のリクエストのお話なんだけど……。</Dialog>
+          <Dialog>About what you asked me
+earlier, whether I had a
+request for my birthday
+present or not...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>お！　なんかあった？</Dialog>
-          <Dialog>うん。……あなた。</Dialog>
-          <Dialog>ああ、それなら……え!?</Dialog>
-          <Dialog>向こう一年間、あなたの隣にいられる権利。それでね、一年ごとに更新していくの。ダメ、かな。</Dialog>
-          <Dialog>……びっくりした。ダメじゃないけど……そんなのでいいの？</Dialog>
-          <Dialog>そんなのって？</Dialog>
-          <Dialog>だってさ、▲高嶺＊＊▲の指定席だから。●の隣。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>わたし、その言葉だけで充分。ありがとう、お誕生日前にこんなに幸せな気持ちにさせてくれて。</Dialog>
-          <Dialog>毎年、楽しみにしてるね？</Dialog>
-          <Dialog>（▲高嶺＊＊▲……）</Dialog>
+          <Dialog>Oh！ You've got something you
+want？</Dialog>
+          <Dialog>Yes....I want you.</Dialog>
+          <Dialog>Okay, that's good... What！？</Dialog>
+          <Dialog>One year from now, I want you
+to always be with me. And on
+my next birthday, I'll request
+the same thing. Is this not
+okay？</Dialog>
+          <Dialog>...I was just surprised. Of
+course, it's okay... But you
+want just this？</Dialog>
+          <Dialog>What do you mean by "just"
+this？</Dialog>
+          <Dialog>Because I'll always be with
+you no matter what,
+▲高嶺＊＊▲.</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>That's all I want to hear.
+Thank you. You've made me feel
+very happy even before my
+birthday has arrived.</Dialog>
+          <Dialog>You can look forward to my
+request every year, okay？</Dialog>
+          <Dialog>(▲高嶺＊＊▲...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3105,18 +3458,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そろそろ１年か……。</Dialog>
+          <Dialog>It's been a year, huh...？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ん？　なぁに？</Dialog>
-          <Dialog>ほら、●らが付き合い始めてからさ。</Dialog>
-          <Dialog>……うん。すごく早かった気がする。</Dialog>
-          <Dialog>最初の頃、１年経ったらどうなってるのかなって思ってたけど……。</Dialog>
-          <Dialog>あんまり変わってない？</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>ううん。あなたが隣にいて。こうしてお話してる……。</Dialog>
-          <Dialog>それってすごいことだなって思って。うん。</Dialog>
-          <Dialog>（さっきの間、ちょっと気になるな……）</Dialog>
+          <Dialog>Hmm？ What？</Dialog>
+          <Dialog>Come on, it's almost a year
+since we started dating.</Dialog>
+          <Dialog>...Yeah. It went by very fast.</Dialog>
+          <Dialog>In the beginning, I kept
+thinking what it would feel
+like after a year has
+passed...</Dialog>
+          <Dialog>Nothing has changed, right？</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Hmm？</Dialog>
+          <Dialog>No... To have you by my side,
+and to talk about this with
+you...</Dialog>
+          <Dialog>A lot of wonderful things have
+happened. Yeah.</Dialog>
+          <Dialog>(What was with that quiet
+moment？ I'm a bit
+concerned...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3220,18 +3582,36 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なあ、この間、１年経ったらどうなるのかなって思ってた、って言ってただろ？</Dialog>
+          <Dialog>Hey, earlier, we talked about
+what would happen after we've
+been together for a year,
+right？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>……うん。</Dialog>
-          <Dialog>そのあと、何か考えてなかったか？</Dialog>
-          <Dialog>……ふふっ。あなたには、隠し事できないな……。</Dialog>
-          <Dialog>本当のこと、言うとね……あの頃は、１年後、わたしはあなたの隣にいないかも、って思ってた。</Dialog>
-          <Dialog>え!?</Dialog>
-          <Dialog>自分に自信が持てなくて。……こんなに幸せで本当にいいのかなって……。</Dialog>
-          <Dialog>……そんなことを考えちゃったから……。</Dialog>
-          <Dialog>あっ、でもね、今は大丈夫だよ？　あなたに、いろんな言葉をもらったから……少し、自信が持てた。</Dialog>
-          <Dialog>だから、安心してね？　……ごめんなさい、ヘンな事言って。</Dialog>
-          <Dialog>（少しか……）</Dialog>
+          <Dialog>...Yeah.</Dialog>
+          <Dialog>At that time, was there
+something in your mind？</Dialog>
+          <Dialog>...Hehehe. I really can't hide
+anything from you...</Dialog>
+          <Dialog>To tell you the truth... I was
+about to tell you that I
+couldn't believe that you
+would still be with me after a
+year.</Dialog>
+          <Dialog>Eh！？</Dialog>
+          <Dialog>I don't have the
+confidence....I don't know if
+it's okay to be happy about
+what we are now...</Dialog>
+          <Dialog>...That was what I thought
+about back then...</Dialog>
+          <Dialog>Ah, but I'm okay now. After
+you said so many things to me,
+I've gained a little more
+confidence.</Dialog>
+          <Dialog>So, don't worry. ...Sorry for
+saying something weird.</Dialog>
+          <Dialog>(Just "a little" more
+confidence...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3331,19 +3711,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲はさ、●に直して欲しいところとか、ある？</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+is there anything about me
+that you want me to improve？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふ、なぁに、突然。</Dialog>
-          <Dialog>ほら。一周年だから、この際ハッキリと。</Dialog>
-          <Dialog>うーん……ないかな？</Dialog>
-          <Dialog>本当に？</Dialog>
-          <Dialog>……うん。</Dialog>
-          <Dialog>いや、あるな！</Dialog>
-          <Dialog>え！　……ね、この前もそうだったけど……どうしてわかるの？</Dialog>
-          <Dialog>そりゃあ、カレシですから。</Dialog>
-          <Dialog>……うん、そっか……。</Dialog>
-          <Dialog>すごく自信、持てちゃいそう……。</Dialog>
-          <Dialog>（うんうん、いい傾向！）</Dialog>
+          <Dialog>Hehe, why ask this all of a
+sudden？</Dialog>
+          <Dialog>Come on. We've been together
+for so long. Just tell me the
+truth.</Dialog>
+          <Dialog>Hmm... Maybe nothing？</Dialog>
+          <Dialog>Really？</Dialog>
+          <Dialog>...Yup.</Dialog>
+          <Dialog>No, there's something！</Dialog>
+          <Dialog>Eh？...Hey, this has happened
+before... How did you know
+what I was thinking？</Dialog>
+          <Dialog>That's because I'm your
+boyfriend.</Dialog>
+          <Dialog>...Hmm, is that so？</Dialog>
+          <Dialog>Now I have a lot more
+confidence...</Dialog>
+          <Dialog>(Yeah, this is going great！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3413,15 +3802,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>一周年、直前だな？</Dialog>
+          <Dialog>A year's passed, hasn't it？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。一年間、ありがとう。あのね、わたし……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>来年も、こうしてあなたの隣にいてもいい？　……あっ。</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>ううん、その先もあなたの隣にいたい。だから……よろしくね？</Dialog>
-          <Dialog>おう。こちらこそ、よろしくな？</Dialog>
-          <Dialog>はい▼</Dialog>
+          <Dialog>Yeah. Thank you for the past
+year. Um, I...</Dialog>
+          <Dialog>Huh？</Dialog>
+          <Dialog>Is it OK if I stay by your
+side like this for the next
+year, too？</Dialog>
+          <Dialog>...Ah.？</Dialog>
+          <Dialog>Well, I want to continue being
+with you like this. So...
+please treat me kindly, okay？</Dialog>
+          <Dialog>Oh, same here. Please treat me
+well.</Dialog>
+          <Dialog>Okay▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3515,17 +3910,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ね、質問。</Dialog>
+          <Dialog>Hey, I have a question.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん？　なに？</Dialog>
-          <Dialog>……わたしをカノジョにしたこと、後悔してない？</Dialog>
-          <Dialog>なんでそんなこと急に……●、なんかしたか？</Dialog>
-          <Dialog>ううん、そうじゃないの。ただ……。</Dialog>
-          <Dialog>ただ、わたしに自信がないだけだと思う……。</Dialog>
-          <Dialog>▲高嶺＊＊▲……。</Dialog>
-          <Dialog>……自分のふがいなさを、あなたに補って欲しいだなんて……わたしもまだまだ、努力が足りないな。</Dialog>
-          <Dialog>ごめんなさい。今の、聞かなかったことにして？</Dialog>
-          <Dialog>（▲高嶺＊＊▲……もっと自信持ってもいいのに……）</Dialog>
+          <Dialog>Hmm？？ What is it？</Dialog>
+          <Dialog>...Do you regret that I became
+your girlfriend？</Dialog>
+          <Dialog>Why are you saying this all of
+a sudden...？ Did I do
+something bad？</Dialog>
+          <Dialog>No, it's not like that. It's
+just...</Dialog>
+          <Dialog>It's just, I don't think I
+have confidence in myself...</Dialog>
+          <Dialog>▲高嶺＊＊▲...</Dialog>
+          <Dialog>..It's like I want to
+compensate for my own
+worthlessness... I feel like I
+still don't put enough effort.</Dialog>
+          <Dialog>I'm sorry. Just now, can you
+pretend you didn't hear that？</Dialog>
+          <Dialog>(▲高嶺＊＊▲...
+You can have all the
+confidence in yourself...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3610,17 +4016,35 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲。●は、▲高嶺＊＊▲がカノジョになってくれたこと、後悔したことなんてないよ。</Dialog>
+          <Dialog>well,
+▲高嶺＊＊▲
+I've never had any regrets to
+have you as my girlfriend.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>な、なに？　急に……。</Dialog>
-          <Dialog>むしろ、●でいいのか？　カレシに選んだのがさ。</Dialog>
-          <Dialog>あ、あなた以外の人なんて、わたし……考えたこともない。</Dialog>
-          <Dialog>うん、●も。だからさ、お互いに自信持ってやって行こうぜ。こうやって、気持ちを確かめ合ってさ。</Dialog>
-          <Dialog>……わたし、自信持っていいんだ？</Dialog>
-          <Dialog>もちろん！　その代わり、●にも自信つけさせてな？</Dialog>
-          <Dialog>ふふっ……もう……あなたは自信満々でいいのよ？</Dialog>
-          <Dialog>じゃあ▲高嶺＊＊▲もそうしてよ。じゃないと不公平だ。</Dialog>
-          <Dialog>ふふふ！　わかりました。……これからも、よろしくね？</Dialog>
+          <Dialog>W-What is this all of a
+sudden...？</Dialog>
+          <Dialog>Rather,I've been wondering if
+I'm good enough for you...</Dialog>
+          <Dialog>Hey, besides you... I've never
+even thought about anyone
+else.</Dialog>
+          <Dialog>yeah, It's the same for me,
+too. So, we should both have
+confidence in ourselves. We're
+equal now.</Dialog>
+          <Dialog>..Can I really be confident？</Dialog>
+          <Dialog>of course！ But... Is it okay
+that your spirit might rub off
+on me？</Dialog>
+          <Dialog>Hehe... It's okay if you're
+brimming with confidence.</Dialog>
+          <Dialog>Well then
+▲高嶺＊＊▲
+I should do the same.
+Otherwise, it'll be unfair.</Dialog>
+          <Dialog>Hehehe！ I understand. ...From
+now on, let's do our best
+together, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3719,18 +4143,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>人を好きになる仕組みって知ってる？</Dialog>
+          <Dialog>Do you know the mechanisms of
+falling in love？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>仕組み？</Dialog>
-          <Dialog>そう。全部ね、脳内物質のせいなんだって。胸がドキドキするのも、幸せを感じたりするのも。</Dialog>
-          <Dialog>それって、ミもフタもないような……。</Dialog>
-          <Dialog>ね。あまりにも科学的すぎて、ちょっとがっかりしちゃった。</Dialog>
-          <Dialog>わたしたちがこうしてるのも、アドレナリンとか、エンドルフィンのおかげなのかな、って思ったら余計に。</Dialog>
-          <Dialog>うーん……。でもさ、本当にそうなのかな？</Dialog>
-          <Dialog>本当に、って？</Dialog>
-          <Dialog>それだけで人を好きになるかな？　ってこと。</Dialog>
-          <Dialog>……どうなのかな。わたしは、そうじゃないといいなって思うけど……。</Dialog>
-          <Dialog>（▲高嶺＊＊▲……）</Dialog>
+          <Dialog>Mechanisms？</Dialog>
+          <Dialog>Yes. Everything we feel,
+including heart throbbing or
+the feelings of happiness, is
+because of substances in our
+brain.</Dialog>
+          <Dialog>mm, that's rather blunt...</Dialog>
+          <Dialog>Isn't it？ It's so scientific
+that I'm a little
+disappointed.</Dialog>
+          <Dialog>It's too much if you think
+that the way we are is thanks
+to adrenaline, endorphins and
+the like.</Dialog>
+          <Dialog>Hmmm... But, is that really
+how it is？</Dialog>
+          <Dialog>What do you mean？</Dialog>
+          <Dialog>I mean, do people just fall in
+love because of that？</Dialog>
+          <Dialog>...I wonder. But somehow, I
+hope there's something more to
+it than that...</Dialog>
+          <Dialog>(▲高嶺＊＊▲......)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3836,17 +4274,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>わたしね？　もう考えないことにしたの。</Dialog>
+          <Dialog>I've decided to stop thinking
+about it, you know？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん？　……あ、人を好きになる仕組み？</Dialog>
-          <Dialog>そう。脳内物質のきまぐれだとしても……きっとあなたの前でしか起こらなかったと思うから。</Dialog>
-          <Dialog>……わたしはあなたと会って、あなたを好きになった。それだけで、いいかなって。</Dialog>
-          <Dialog>▲高嶺＊＊▲……。</Dialog>
-          <Dialog>それに、悔しいじゃない？　科学的に、なんて言って欲しくないもの、こんなにあなたを好きな気持ち。</Dialog>
-          <Dialog>うん、それは言えるかもな。</Dialog>
-          <Dialog>ふふ、でしょう？</Dialog>
-          <Dialog>きっと、これからもどんどん、あなたのこと……好きになっていくと思う。……受け止めてね？</Dialog>
-          <Dialog>おう、任せとけ！</Dialog>
+          <Dialog>...Ah, about the mechanisms of
+falling in love？</Dialog>
+          <Dialog>Yeah. Assuming that brain
+substances are capricious... I
+have that kind of feeling only
+when I'm with you.</Dialog>
+          <Dialog>...Because I met you, I fell
+in love with you. With just
+that, I'm fine.</Dialog>
+          <Dialog>▲高嶺＊＊▲...</Dialog>
+          <Dialog>Besides, isn't it annoying？ I
+don't need scientific talk. I
+can tell that I love you just
+like this.</Dialog>
+          <Dialog>Yeah, you could say that.</Dialog>
+          <Dialog>Hehe, right？</Dialog>
+          <Dialog>I think, definitely, from now
+on... I'll grow to love you
+more and more. ...You accept
+that, right？</Dialog>
+          <Dialog>Yeah, trust me！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3946,19 +4397,35 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ね、ちょっと気が早いけど……もうすぐ誕生日だね？</Dialog>
+          <Dialog>Oh, you're a bit hasty.
+...Your birthday is coming up
+soon, isn't it？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ！　●の？</Dialog>
-          <Dialog>ふふ、そうです。他の誰でもない、あなたの。</Dialog>
-          <Dialog>そっかー、またひとつ大人に近づくわけだな。</Dialog>
-          <Dialog>そのしるしに、何か欲しいものとか、リクエストはない？</Dialog>
-          <Dialog>▲高嶺＊＊▲から●に？　そうだな……。</Dialog>
-          <Dialog>今すぐじゃなくていいから、考えておいてくれる？</Dialog>
-          <Dialog>うん、わかった。けど、何でそんなに嬉しそうなんだ？</Dialog>
-          <Dialog>だって、あなたが生まれてきてくれた日なんだよ？　それをお祝いできるのに、どうして嬉しくないの？</Dialog>
-          <Dialog>……あ、あのな……。</Dialog>
-          <Dialog>あっ、照れてるんだ？　カワイイ▼</Dialog>
-          <Dialog>（面と向かってそんなこと言われたら、仕方ないと思う……）</Dialog>
+          <Dialog>Ah！...My birthday？</Dialog>
+          <Dialog>Hehe, yes. Not anyone else's,
+it's yours.</Dialog>
+          <Dialog>Is that so？ Looks like my
+adulthood is approaching.</Dialog>
+          <Dialog>To mark the occasion, do you
+have any requests, like
+something you want？</Dialog>
+          <Dialog>▲高嶺＊＊▲
+is going to give me a
+present？ Let me see...</Dialog>
+          <Dialog>It's okay if it's not right
+now. So, will you think about
+it for me？</Dialog>
+          <Dialog>Sure, I will. But, why do you
+look so happy？</Dialog>
+          <Dialog>Well, it's the day my darling
+was born and I can celebrate
+it. Why shouldn't I be happy？</Dialog>
+          <Dialog>...Uh, um...</Dialog>
+          <Dialog>Ah, are you embarrassed？ How
+cute▼</Dialog>
+          <Dialog>(When it's said right to my
+face like that, I guess it
+can't be helped...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4043,17 +4510,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ね、考えついた？　リクエスト。</Dialog>
+          <Dialog>Hey, have you thought about
+your request？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>まだ。いろいろ悩んじゃってさ。</Dialog>
-          <Dialog>うむ、悩みたまえ。それが若者の特権だ。</Dialog>
-          <Dialog>ハハハ。なあ、逆に▲高嶺＊＊▲が●に渡したいものとか、ないの？</Dialog>
-          <Dialog>んー？</Dialog>
-          <Dialog>お。ありそう。</Dialog>
-          <Dialog>ないとは言わないけど。でもやっぱり、あなたが欲しいと思うもの、渡したいから。</Dialog>
-          <Dialog>そっかー……。</Dialog>
-          <Dialog>あなたが何を選ぶのかも興味があるし。ふふ、楽しみ▼</Dialog>
-          <Dialog>（な、なんか微妙にハードルが上がったような……気のせいか？）</Dialog>
+          <Dialog>Not yet. I really can't decide
+yet.</Dialog>
+          <Dialog>Being a young man, you
+shouldn't keep thinking about
+it for too long.</Dialog>
+          <Dialog>Hahaha. On the other hand, Do
+you have anything you want to
+give me
+▲高嶺＊＊▲？
+I wonder.</Dialog>
+          <Dialog>Hmm？</Dialog>
+          <Dialog>Oh, seems like you do.</Dialog>
+          <Dialog>It's not like I don't have
+any, but I prefer to give you
+something you want.</Dialog>
+          <Dialog>I see...</Dialog>
+          <Dialog>Because I'm interested in what
+you'll request. Hehe, I'm
+looking forward to it–OK▼</Dialog>
+          <Dialog>(It seems like a difficult
+hurdle has arisen... Is it
+just my imagination？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4146,17 +4627,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（そういえば誕生日のリクエスト、まだ考えてなかった……）</Dialog>
+          <Dialog>(I haven't given any thought
+about my birthday present
+request yet...)</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>こ・ら。</Dialog>
-          <Dialog>え!?</Dialog>
-          <Dialog>ふふっ、バレバレだよ？　その様子から察するに、まだ決めてないな？</Dialog>
-          <Dialog>はい……。</Dialog>
-          <Dialog>もう。こんなに悩ませるつもりはなかったんだけどな……ね、ここからはわたしに任せてもらっていい？</Dialog>
-          <Dialog>その代わり……ひとりでそんなに考え込まないで。</Dialog>
-          <Dialog>あ……そうだな。</Dialog>
-          <Dialog>ううん、わたしもよくなかったから。お祝いするつもりなのに、悩ませちゃって。</Dialog>
-          <Dialog>（かえって気を遣わせちゃったな……気をつけよう）</Dialog>
+          <Dialog>Hey！</Dialog>
+          <Dialog>Eh！？</Dialog>
+          <Dialog>Hehe, I can see through you.
+With that look, you haven't
+decided what you want yet,
+right？</Dialog>
+          <Dialog>Yeah...</Dialog>
+          <Dialog>Geez, I didn't mean to make
+you feel troubled like this.
+Hey, how about you let me pick
+a present for you？</Dialog>
+          <Dialog>That way... you don't have to
+worry about it so much.</Dialog>
+          <Dialog>Ah... right.</Dialog>
+          <Dialog>Hmm, it's not good that you
+have to worry about your own
+birthday present.</Dialog>
+          <Dialog>(But, now I have to make sure
+you don't worry about it too
+much...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4266,20 +4760,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲、どう？　その後、●の誕生日計画は進んでる？</Dialog>
+          <Dialog>▲高嶺＊＊▲
+how is it？ Have you decided
+what you'd do for my
+birthday？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>……もう。この間と全然、違う。</Dialog>
-          <Dialog>ハハハ。だってさ。</Dialog>
-          <Dialog>ふふっ、はい、はい。進んでるよ？　楽しみにしてて？</Dialog>
-          <Dialog>おっ、自信あり？</Dialog>
-          <Dialog>……うん。だって、あなたのお誕生日を一番嬉しいと思ってるのは、きっとわたしだもん。</Dialog>
-          <Dialog>●よりも？</Dialog>
-          <Dialog>うん。だから、あなたに笑顔を浮かべてもらう自信があるの。……なんて。</Dialog>
-          <Dialog>あっ、おめでとうはわたしが一番に言うから、言われそうになったら逃げてね？　全速力で！</Dialog>
-          <Dialog>……善処します。</Dialog>
-          <Dialog>いいえ、完遂してください。</Dialog>
-          <Dialog>ハハッ、了解！</Dialog>
-          <Dialog>よろしい。なんて！　ふふふ！</Dialog>
+          <Dialog>...Hey, now you're totally
+different.</Dialog>
+          <Dialog>Hahaha. Of course.</Dialog>
+          <Dialog>Hehe. Okay, okay. There's some
+progress. You can look forward
+to it.</Dialog>
+          <Dialog>Oh, very confident, huh？</Dialog>
+          <Dialog>...Yeah. Because I'm the
+happiest person when it comes
+to your birthday.</Dialog>
+          <Dialog>Even more than I am？</Dialog>
+          <Dialog>Yeah, that's why I'm confident
+that I can make you happy...
+Yeah.</Dialog>
+          <Dialog>Ah, I must be the first one to
+say Happy Birthday to you. If
+someone else is about to say
+it before me, you've got to
+run away ！</Dialog>
+          <Dialog>...I'll try.</Dialog>
+          <Dialog>No, you must run away.</Dialog>
+          <Dialog>Haha, roger that！</Dialog>
+          <Dialog>Very well. Yeah！ Teeheehee！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4378,18 +4886,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲の誕生日まで、もうすぐか……。</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+it's getting close to your
+birthday...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふぅん、覚えててくれたんだ？</Dialog>
-          <Dialog>もちろん。</Dialog>
-          <Dialog>ふふっ、ありがとう。ひょっとして、何か考えてくれてる？</Dialog>
-          <Dialog>うん、まあ。そう言えば、家では何かするの？</Dialog>
-          <Dialog>うん。きっちり年間スケジュールに組み込まれてるから。</Dialog>
-          <Dialog>そっか。▲高嶺＊＊▲の家は、そういうのシッカリしてそうだもんな。</Dialog>
-          <Dialog>忘れようものなら、大変だよ？</Dialog>
-          <Dialog>だから、あなたも……あっ、でもこんなに前から言ってくれるくらいだから、平気かな？</Dialog>
-          <Dialog>うーん……一応そのつもりだけど……。</Dialog>
-          <Dialog>ふふふ！</Dialog>
+          <Dialog>Hmm？ You remembered？</Dialog>
+          <Dialog>Of course.</Dialog>
+          <Dialog>Hehe. Thanks. Are you planning
+something for me？</Dialog>
+          <Dialog>Um, yeah. Speaking of which,
+will you have anything special
+at home？</Dialog>
+          <Dialog>Yeah, it's marked on the
+schedule of everyone in my
+family.</Dialog>
+          <Dialog>I see.
+▲高嶺＊＊▲'s
+family always celebrates
+birthdays and such, hmm？</Dialog>
+          <Dialog>It'll be a big issue if anyone
+forgets.</Dialog>
+          <Dialog>So, you mustn't... Ah, but
+since you mentioned it as
+early as now, I can rest
+assured, can't I？</Dialog>
+          <Dialog>Hmm... I don't think I'll
+forget...</Dialog>
+          <Dialog>Teeheehee！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4498,19 +5021,40 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なあ、▲高嶺＊＊▲。今までで、もらって一番嬉しかったものって、なに？</Dialog>
+          <Dialog>Hey,
+▲高嶺＊＊▲.
+Up until now, what has been
+the present that you got that
+you liked most？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>一番は、万年筆かな？　中学生になったときの、パパとママからの贈り物。</Dialog>
-          <Dialog>へぇ……なんで万年筆？</Dialog>
-          <Dialog>ママがずっと使っててね？　その姿がとってもステキに見えて、こっそり使ってみたの。</Dialog>
-          <Dialog>それがすごく書き心地が良くて。毎日使ってたら、すぐに見つかっちゃった。</Dialog>
-          <Dialog>……ペン先を潰すまで書いちゃ、ダメだよね。</Dialog>
-          <Dialog>ハハハ、▲高嶺＊＊▲らしいな。</Dialog>
-          <Dialog>それで、入学式のときにプレゼントしてくれて。でもね、もったいなくて使ってないの。</Dialog>
-          <Dialog>そっちのほうがもったいない気が……。</Dialog>
-          <Dialog>うん、そうなんだけどね。どう？　参考になったかな？</Dialog>
-          <Dialog>……えーと？</Dialog>
-          <Dialog>ふふっ！　頑張ってね？</Dialog>
+          <Dialog>What I liked most is the
+fountain pen that Papa and
+Mama gave me when I entered
+junior high.</Dialog>
+          <Dialog>Hmm... A fountain pen？</Dialog>
+          <Dialog>Mama always uses fountain
+pens. She looks very cool when
+she writes. I used to imitate
+her when I was a child.</Dialog>
+          <Dialog>It felt great when I wrote
+with a fountain pen, so I used
+it every day until she found
+out.</Dialog>
+          <Dialog>...It wasn't a nice idea to
+write until the pen nib broke.</Dialog>
+          <Dialog>Hahaha,
+▲高嶺＊＊▲
+that's what I can expect from
+you.</Dialog>
+          <Dialog>Then my parents gave one to me
+as a present on the entrance
+ceremony. But I didn't want to
+ruin it, so I didn't use it.</Dialog>
+          <Dialog>That's kind of wasteful...</Dialog>
+          <Dialog>Yeah, probably. Anyway, is
+this useful as a reference？</Dialog>
+          <Dialog>...Who knows？</Dialog>
+          <Dialog>Hehe ！ Do your best, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4599,17 +5143,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲って、誕生日はイヤだなーって思ったりする？</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+do you ever hate your
+birthday？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>どうして？</Dialog>
-          <Dialog>たまに、聞こえるからさ。ユウウツそうな顔してる女子の話し声が。</Dialog>
-          <Dialog>ふふ、うん、いるかもしれないね？　わたしは楽しいし、嬉しいけど……。</Dialog>
-          <Dialog>あ、あと、気持ちが引き締まるかな。</Dialog>
-          <Dialog>気持ちが？</Dialog>
-          <Dialog>うん。年を重ねるだけが、大人になることじゃないでしょう？　１年１年、ちゃんと成長したいじゃない？</Dialog>
-          <Dialog>なるほどな。</Dialog>
-          <Dialog>ちょっと真面目なお話になっちゃった。うん、でもそんな感じ、かな？</Dialog>
-          <Dialog>（やっぱりちゃんと考えてるんだな、▲高嶺＊＊▲は……）</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>Sometimes when I mentioned
+about birthdays to girls, some
+of them looked depressed.</Dialog>
+          <Dialog>Hehe. Yeah, I think that
+happens. But for me, I'm
+really looking forward to my
+birthday...</Dialog>
+          <Dialog>Ah, I can say that it's time
+to contemplate on different
+things.</Dialog>
+          <Dialog>Contemplate？</Dialog>
+          <Dialog>Yeah, when your birthday
+arrives, you grow up for
+another year. It's like you're
+getting close to becoming an
+adult, right？</Dialog>
+          <Dialog>That's true.</Dialog>
+          <Dialog>This has turned to be such a
+serious conversation, but I
+think that's how I feel.</Dialog>
+          <Dialog>(You really think about things
+seriously,
+▲高嶺＊＊▲...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4694,17 +5255,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なんだかんだで、▲高嶺＊＊▲の誕生日まであと少しか……。</Dialog>
+          <Dialog>It's getting very close to
+▲高嶺＊＊▲'s
+birthday...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。ね、この間、気持ちが引き締まるってお話、したでしょう？</Dialog>
-          <Dialog>ああ、うん。</Dialog>
-          <Dialog>でも今年はね……あまりそのことは考えてないの。</Dialog>
-          <Dialog>え……なんで？</Dialog>
-          <Dialog>だって、あなたがいてくれるんだもん。それだけで、ドキドキしてる。</Dialog>
-          <Dialog>きっと、何年経っても忘れないような……特別な日になるんじゃないかなって。</Dialog>
-          <Dialog>▲高嶺＊＊▲……。</Dialog>
-          <Dialog>……ふふ！　だから、おめでとうって一番に言いに来てね？　わたし、待ってるから。</Dialog>
-          <Dialog>おう！</Dialog>
+          <Dialog>Yeah. Hey, last time, I told
+you that I usually contemplate
+on different things on my
+birthday, right？</Dialog>
+          <Dialog>Ah, right.</Dialog>
+          <Dialog>But this year... I don't
+really think much about it.</Dialog>
+          <Dialog>Eh...？ Why？</Dialog>
+          <Dialog>Because you're with me. Just
+this already makes my heart
+throb.</Dialog>
+          <Dialog>I'm sure my birthday this year
+will turn out to be a great
+one that I'll never forget.</Dialog>
+          <Dialog>▲高嶺＊＊▲...</Dialog>
+          <Dialog>...Hehe！ That's why you
+should be the first one to say
+Happy Birthday to me this
+year. I'll be waiting.</Dialog>
+          <Dialog>Okay ！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4792,16 +5366,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あれから……わたしがあなたに告白した日から、あと少しで、１年だね。</Dialog>
+          <Dialog>From that time... Since I
+confessed my love to you, it's
+almost been a year.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そっか……うん、この時期だったな。</Dialog>
-          <Dialog>もう、っていう感じもするし、まだ、っていう感じもする……時間の流れって、不思議。</Dialog>
-          <Dialog>だな。</Dialog>
-          <Dialog>ふふ。この１年で、いろいろあったよね？</Dialog>
-          <Dialog>ああ、両手じゃ足りないくらいだ。</Dialog>
-          <Dialog>ね、最初の年でこうなら、２年め、３年めになったらどうなっちゃうのかな？</Dialog>
-          <Dialog>そりゃもう、大変なことになるな。準備はいいか？</Dialog>
-          <Dialog>ふふっ、もちろん。これからも、どんどん思い出作っちゃおうね？</Dialog>
+          <Dialog>Really？... Yeah, it was
+around this time.</Dialog>
+          <Dialog>It's "already" been a year or
+"just" a year... I'm not sure
+how I feel. It's funny how
+time plays tricks like that.</Dialog>
+          <Dialog>Yeah.</Dialog>
+          <Dialog>Hehe. Many things have
+happened during this one year,
+huh？</Dialog>
+          <Dialog>Yeah, so many that I can't
+possibly count them.</Dialog>
+          <Dialog>Hey, if the first year has
+been like this, then how do
+you think the later years will
+turn out？</Dialog>
+          <Dialog>I'm sure much more crazy stuff
+will happen. Are you ready for
+it？</Dialog>
+          <Dialog>Hehe, of course. Let's
+continue making memories
+together.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4886,17 +5476,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ね、わたし……ちゃんとあなたのカノジョとして、成長できてる？</Dialog>
+          <Dialog>Hey, have I... become a proper
+girlfriend for you？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>バッチリではないでしょうか。</Dialog>
-          <Dialog>……即答なさいましたが、本当でしょうか。</Dialog>
-          <Dialog>本当です。例えば、あんなことやこんなことなど、カノジョでなければ出来ないことを……。</Dialog>
-          <Dialog>えっ!?　な、何の話？　ちょっともう、こんなところで……。</Dialog>
-          <Dialog>デートしたり、手を繋いで歩いたりしたろ？</Dialog>
-          <Dialog>あ……！</Dialog>
+          <Dialog>You're perfect as a
+girlfriend.</Dialog>
+          <Dialog>...You answered pretty
+quickly. Are you sure？</Dialog>
+          <Dialog>I'm positive. We've done all
+sorts of things... There are
+things I couldn't have done if
+you weren't my girlfriend.</Dialog>
+          <Dialog>Eh ！？ What are you talking
+about？ Y-You shouldn't be
+talking about that kind of
+stuff here...</Dialog>
+          <Dialog>Stuff like going out on dates
+and holding hands while we
+walk...</Dialog>
+          <Dialog>Ah...！</Dialog>
           <Dialog>▲高嶺＊＊▲？</Dialog>
-          <Dialog>もう……知らない！</Dialog>
-          <Dialog>（……なんで怒ってるんだ？）</Dialog>
+          <Dialog>Hmph... forget it！</Dialog>
+          <Dialog>(...Why is she so angry？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4985,17 +5586,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>この間の話の続きだけどさ。</Dialog>
+          <Dialog>Let's continue what we were
+talking about before...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>あっ。またおかしなこと、言おうとしてるでしょう？</Dialog>
-          <Dialog>い、言わないって。●は、▲高嶺＊＊▲のカレシとして、成長できてるのかなって思ってさ。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>……どうしてそこで黙っちゃう？</Dialog>
-          <Dialog>ふふっ、冗談。わたしには、過ぎたカレシだなって思ってるよ？</Dialog>
-          <Dialog>▲高嶺＊＊▲……。</Dialog>
-          <Dialog>この前みたいな発言をやめてくれたら、もっとステキなんだけど……でも、それも含めてのあなただもんね？</Dialog>
-          <Dialog>これからも、そのままでいてください▼</Dialog>
-          <Dialog>（素直に喜んでいい……んだよな？）</Dialog>
+          <Dialog>Oh. So, you want to say more
+weird stuff？</Dialog>
+          <Dialog>I wasn't going to！ I'm
+▲高嶺＊＊▲'s
+boyfriend. I wonder if I'm
+good enough.</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>...Why are you so quiet now？</Dialog>
+          <Dialog>Hehe, just teasing you. To be
+honest, I think you're almost
+too good to be my boyfriend.</Dialog>
+          <Dialog>▲高嶺＊＊▲...</Dialog>
+          <Dialog>It'd be great if you didn't
+say weird things... But that's
+what makes you who you are, I
+suppose？</Dialog>
+          <Dialog>Please don't ever change▼</Dialog>
+          <Dialog>(I should be feeling happy to
+hear this... right？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5085,17 +5697,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>一周年のカウントダウンが始まりました▼</Dialog>
+          <Dialog>The countdown to our one-year
+anniversary has started▼</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>始まったな。</Dialog>
-          <Dialog>ふふっ。ねぇ、来年の話をすると鬼が笑うって言うけど……。</Dialog>
-          <Dialog>来年も、その先も、こんな風に過ごせるといいね？</Dialog>
-          <Dialog>だな。お互いに成長しつつ。</Dialog>
-          <Dialog>うん。ひとつひとつ、いろんなものを積み重ねて……目指すは、仲良しのおじいちゃん、おばあちゃん？</Dialog>
-          <Dialog>果てしないなー。</Dialog>
-          <Dialog>果てしないねー。</Dialog>
-          <Dialog>ハハハ……。</Dialog>
-          <Dialog>ふふふ……。</Dialog>
+          <Dialog>So it has.</Dialog>
+          <Dialog>Hehe. I know there's a saying
+"Don't count your chickens
+before they hatch" but...</Dialog>
+          <Dialog>Next year, and the years after
+that, wouldn't it be nice to
+stay like this？</Dialog>
+          <Dialog>Yeah, and we'll keep growing
+together.</Dialog>
+          <Dialog>Yeah, bit by bit, we're
+getting there.... Until we
+finally grow old together.</Dialog>
+          <Dialog>Forever and ever.</Dialog>
+          <Dialog>Forever and ever.</Dialog>
+          <Dialog>Hahaha...</Dialog>
+          <Dialog>Hehehe...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

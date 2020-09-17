@@ -22,9 +22,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ここがとわの市か……。</Dialog>
-          <Dialog>家の都合で引っ越すことになっちゃったけど、</Dialog>
-          <Dialog>今日からはこの街で暮らして、学校に通うんだな。</Dialog>
+          <Dialog>So this is Towano City, huh...</Dialog>
+          <Dialog>I just moved here due to
+family circumstances...</Dialog>
+          <Dialog>I'll be living and attending
+school in this city from now
+on.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -44,8 +47,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>駅のすぐ近くに公園があるのか、いい街だな。</Dialog>
-          <Dialog>春の並木道……いかにも新生活って感じだな。</Dialog>
+          <Dialog>It seems like a nice city, and
+there's a public park close to
+the station.</Dialog>
+          <Dialog>Walking down these springtime
+streets... This is definitely
+the feeling of a new life.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -65,8 +72,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>駅のすぐ近くに公園があるのか、いい街だな。</Dialog>
-          <Dialog>暑いな……夏真っ盛りって感じだ。</Dialog>
+          <Dialog>It seems like a nice city, and
+there's a public park close to
+the station.</Dialog>
+          <Dialog>It's hot... It sure does feel
+like the middle of summer.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -86,8 +96,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>駅のすぐ近くに公園があるのか、いい街だな。</Dialog>
-          <Dialog>秋の並木道って雰囲気あるよな……そろそろ行くか。</Dialog>
+          <Dialog>It seems like a nice city, and
+there's a public park close to
+the station.</Dialog>
+          <Dialog>The ambiance of the tree-lined
+streets in the fall is great,
+but I should get going.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -107,8 +121,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>駅のすぐ近くに公園があるのか、いい街だな。</Dialog>
-          <Dialog>さすがに今の季節、散歩には寒いな……もう行こう。</Dialog>
+          <Dialog>It seems like a nice city, and
+there's a public park close to
+the station.</Dialog>
+          <Dialog>As expected, it sure is cold
+walking around this time of
+year. I should go.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -228,27 +246,53 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>これから住むことになる部屋は、たしかこの辺だったはず……。</Dialog>
-          <Dialog>そうそう。新しい部屋は……。</Dialog>
-          <Dialog>学生らしいシンプルな部屋だ</Dialog>
-          <Dialog>大人っぽいオシャレな部屋だ</Dialog>
-          <Dialog>落ち着いた和風の部屋だ</Dialog>
-          <Dialog>学生は学生らしく、シンプルな部屋にしたんだ。</Dialog>
-          <Dialog>せっかくの新生活だし、オシャレな部屋にしたんだ。</Dialog>
-          <Dialog>やっぱり畳が一番！　和風な部屋にしたんだ。</Dialog>
-          <Dialog>あっ、あそこだな……まずは荷物を整理しないと。</Dialog>
-          <Dialog>よし、こんなもんかな……。</Dialog>
-          <Dialog>今日からここが俺の部屋だ！</Dialog>
-          <Dialog>今日からここが僕の部屋だな</Dialog>
-          <Dialog>今日からここが僕の部屋だな。</Dialog>
-          <Dialog>そうだ、今日は転入の手続きをしに学校まで行かないと。</Dialog>
-          <Dialog>そろそろ出たほうがいいな……。</Dialog>
-          <Dialog>●は２年からの編入だけど、編入試験、結構難しかったな……。</Dialog>
-          <Dialog>ちゃんとやっていけるといいけど。</Dialog>
-          <Dialog>よし、着いた。</Dialog>
-          <Dialog>私立『十羽野高校』。ここが●が通うことになる学校だ……。</Dialog>
-          <Dialog>歴史は古いのに、自由な校風が特徴ってところに惹かれたんだよな。</Dialog>
-          <Dialog>これからの高校生活も、楽しまないとな！</Dialog>
+          <Dialog>The place where I'll be
+staying should be somewhere
+around here...</Dialog>
+          <Dialog>Let's see. My new room was...</Dialog>
+          <Dialog>A simple student-like
+room</Dialog>
+          <Dialog>A fashionable adult-like
+room</Dialog>
+          <Dialog>A quiet Japanese style
+room</Dialog>
+          <Dialog>I am a student after all, so I
+went with a simple room.</Dialog>
+          <Dialog>It's my long awaited new life
+after all, so I went with a
+fashionable room.</Dialog>
+          <Dialog>Tatami mats are definitely the
+best！ So I went with the
+Japanese style room.</Dialog>
+          <Dialog>Ah, it's over there... First,
+I need to unpack my things.</Dialog>
+          <Dialog>All right, that should do
+it...</Dialog>
+          <Dialog>This is my room from now
+on！</Dialog>
+          <Dialog>So this will be my room
+from now on, huh？</Dialog>
+          <Dialog>So this will be my room from
+now on, huh？</Dialog>
+          <Dialog>That's right. I need to go to
+the school today and take care
+of the transfer procedures.</Dialog>
+          <Dialog>I guess I should head out
+soon...</Dialog>
+          <Dialog>I'm transferring in as a
+second year, and the admission
+exam was pretty difficult...</Dialog>
+          <Dialog>I managed to pass it though. I
+wonder if I did well...</Dialog>
+          <Dialog>All right, I've arrived.</Dialog>
+          <Dialog>Towano Private High School.
+This is the school I'll be
+attending.</Dialog>
+          <Dialog>Even though it's quite an old
+school, I found its tradition
+of student freedom attractive.</Dialog>
+          <Dialog>I'm looking forward to my
+future high school life！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -288,12 +332,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>転入の手続きはすんなり終わったけど。</Dialog>
-          <Dialog>たまたま職員室に来てたテニス部の部長にしつこく勧誘されて、押し切られてしまった。</Dialog>
-          <Dialog>何か部活には入ろうと思ってたし、まぁいいか。</Dialog>
-          <Dialog>この学校、そんなに運動部強くないらしいし、楽しくやれるかも。</Dialog>
-          <Dialog>女の子にもモテるかもしれないし、なんてな。</Dialog>
-          <Dialog>よし、さっそく入部届出しにいくか！</Dialog>
+          <Dialog>The transfer procedures went
+smoothly.</Dialog>
+          <Dialog>The tennis coach who happened
+to be in the staff room
+overpowered me by persistently
+asking me to join his club.</Dialog>
+          <Dialog>I planned on entering a club
+anyway, so why not？</Dialog>
+          <Dialog>This school's athletics
+department doesn't seem to be
+overly strict, so it might
+actually be fun.</Dialog>
+          <Dialog>It might make me popular with
+the girls too, hmm...</Dialog>
+          <Dialog>All right, I'll go and tell
+them that I'll join！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -333,12 +387,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>新しい学校での生活が始まったけど、やっぱ部活入った方がいいかもな。</Dialog>
-          <Dialog>そういや、この学校のテニス部、仲が良くていい雰囲気だって聞いたな……。</Dialog>
-          <Dialog>よし、テニス部に入部してみるか！</Dialog>
-          <Dialog>さっそく顧問に話を聞いてみよう。</Dialog>
-          <Dialog>……よし、書けた。あとはこの入部届を出すだけだな。</Dialog>
-          <Dialog>テニス部に入ったら女の子にもモテるかも!?　なんてな。</Dialog>
+          <Dialog>My new school life has already
+started. It might be a good
+idea to join a club.</Dialog>
+          <Dialog>That reminds me, I hear that
+the members of the school
+tennis club get along well...</Dialog>
+          <Dialog>Alright, I'll try joining the
+tennis club！</Dialog>
+          <Dialog>I'll go and talk with the
+advisor.</Dialog>
+          <Dialog>...Okay, I filled out the club
+enrollment form. Now I just
+need to submit it.</Dialog>
+          <Dialog>Maybe I'll become popular with
+girls if I join the tennis
+club. Yeah right...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -378,12 +442,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>失礼しましたー。</Dialog>
-          <Dialog>転入の手続きがすんなり終わったのはいいけど……。</Dialog>
-          <Dialog>“ちょうど今、図書委員が足りないから”って。</Dialog>
-          <Dialog>何もわからない転入生に委員なんてやらせていいのか？</Dialog>
-          <Dialog>でも委員をやれば友達もできるだろうし……。</Dialog>
-          <Dialog>少し面倒だけど、やってみるか。</Dialog>
+          <Dialog>Excuse me.</Dialog>
+          <Dialog>It's nice that there were no
+problems with the transfer
+procedures, but...</Dialog>
+          <Dialog>I was told that they're short
+on library committee members
+at the moment.</Dialog>
+          <Dialog>Was it really okay to ask a
+transfer student who doesn't
+know anything here at the
+school yet to join？</Dialog>
+          <Dialog>But if I become a member, I
+can probably make more
+friends...</Dialog>
+          <Dialog>It's a bit of a hassle, but I
+should try it out.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -433,14 +507,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>急に先生に呼び出されたけど、何の用だろ。</Dialog>
-          <Dialog>とりあえず職員室に行くか……。</Dialog>
-          <Dialog>失礼しましたー。</Dialog>
-          <Dialog>図書委員に任命されてしまった。</Dialog>
-          <Dialog>“ちょうど今、図書委員が足りないから”って。</Dialog>
-          <Dialog>●、まだ転入してきたばっかりなんだけどな。</Dialog>
-          <Dialog>でも委員をやれば友達も増えるかもしれないし……。</Dialog>
-          <Dialog>少しめんどうだけど、やってみるか。</Dialog>
+          <Dialog>I wonder why the teacher
+suddenly called for me.</Dialog>
+          <Dialog>Guess I'll head to the staff
+room...</Dialog>
+          <Dialog>I'll be leaving now.</Dialog>
+          <Dialog>I've just been appointed to
+the library committee.</Dialog>
+          <Dialog>I was told they're short on
+library committee members at
+the moment.</Dialog>
+          <Dialog>I've only just transferred,
+though...</Dialog>
+          <Dialog>But if I become a member, I
+can probably make some more
+friends...</Dialog>
+          <Dialog>It's a bit of a hassle, but I
+should try it out.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -490,14 +573,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>転入の手続き、あっさり終わったな。</Dialog>
-          <Dialog>となると、次はやっぱり……。</Dialog>
-          <Dialog>バイトだな。</Dialog>
-          <Dialog>駅前に行けば、何か募集してるだろ……。</Dialog>
-          <Dialog>あったあった、求人広告。</Dialog>
-          <Dialog>ファミレス『デキシーズ』か。</Dialog>
-          <Dialog>高校生可で、待遇も良さそうだし。ここに決めた！</Dialog>
-          <Dialog>さっそく電話しよう……。</Dialog>
+          <Dialog>Well, that's it for the
+transfer procedures.</Dialog>
+          <Dialog>Which means, next I need to...</Dialog>
+          <Dialog>...Find a part-time job.</Dialog>
+          <Dialog>If I go to the station, there
+should be some hiring
+notices...</Dialog>
+          <Dialog>There they are; the help
+wanted ads.</Dialog>
+          <Dialog>A family restaurant...
+"Dixie's," huh？</Dialog>
+          <Dialog>They accept high school
+students, and apparently they
+treat employees with respect.
+I've decided on this one！</Dialog>
+          <Dialog>I'll call right away...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -547,14 +638,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば。</Dialog>
-          <Dialog>バイト、した方がいいかな。</Dialog>
-          <Dialog>新生活が始まって、色々必要だしな。</Dialog>
-          <Dialog>駅前に行けば、何か募集してるだろ……。</Dialog>
-          <Dialog>あったあった、求人広告。</Dialog>
-          <Dialog>ファミレス『デキシーズ』か。</Dialog>
-          <Dialog>高校生可で、待遇も良さそうだし。ここに決めた！</Dialog>
-          <Dialog>さっそく電話しよう……。</Dialog>
+          <Dialog>That reminds me...</Dialog>
+          <Dialog>It wouldn't be a bad idea to
+get a part-time job.</Dialog>
+          <Dialog>My new life just started, so
+I'm going to have to cover
+various expenses.</Dialog>
+          <Dialog>If I go to the station, there
+should be some hiring
+notices...</Dialog>
+          <Dialog>There they are; the help
+wanted ads.</Dialog>
+          <Dialog>A family restaurant...
+"Dixie's," huh？</Dialog>
+          <Dialog>They accept high school
+students, and apparently they
+treat employees with respect.
+I've decided on this one！</Dialog>
+          <Dialog>I'll call right away...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -579,15 +680,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>新生活が始まって早速
-女の子と知り合えるなんて、
-ラッキーだな。</Dialog>
-          <Dialog>しかも可愛かったし、
-あんな子がカノジョだったら
-楽しいだろうな……。</Dialog>
-          <Dialog>よし、
-カノジョが出来るように
-明日から頑張るか！</Dialog>
+          <Dialog>My new life has only just
+begun, and I already got to
+know some interesting girls.
+I'm pretty lucky.</Dialog>
+          <Dialog>She was so cute. I would be
+happy to have a girlfriend
+like her.</Dialog>
+          <Dialog>All right！ From now on, I'll
+work hard to get a
+girlfriend！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -607,8 +709,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今日会った女の子も可愛かったな……。</Dialog>
-          <Dialog>なんかやる気出てきたぞ！</Dialog>
+          <Dialog>The girl I met today was
+cute...</Dialog>
+          <Dialog>Somehow, it makes me feel
+energetic！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -628,8 +732,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>立て続けに３人も女の子と知り合えるなんて、●って結構ツイてる？</Dialog>
-          <Dialog>新生活、ますます楽しくなりそうだな！</Dialog>
+          <Dialog>I was fortunate enough to meet
+three great girls. Isn't it
+wonderful？</Dialog>
+          <Dialog>I have a feeling that my new
+life will be full of
+excitement！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

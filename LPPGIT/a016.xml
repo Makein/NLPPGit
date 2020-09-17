@@ -57,11 +57,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ、どうしたの？　黙り込んじゃって……。</Dialog>
-          <Dialog>ねぇったら。</Dialog>
-          <Dialog>もぅ、ねぇったら。なにか言ってよ。</Dialog>
-          <Dialog>私、怒るよ？　……いいの？</Dialog>
-          <Dialog>そう……。私、帰るね……。</Dialog>
+          <Dialog>Hey, what's the matter？
+You've been so quiet...</Dialog>
+          <Dialog>I'm asking you.</Dialog>
+          <Dialog>Geez, at least say something
+to me.</Dialog>
+          <Dialog>I'm getting angry. Are you
+okay with that？</Dialog>
+          <Dialog>Okay... I'm going home...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -121,11 +124,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ、どうしたの？　だまりこんじゃって……。</Dialog>
-          <Dialog>もぅ、いつまでそうしてるつもり？　つまらないから、もう帰る？</Dialog>
-          <Dialog>ふーん、そう……。そうやって無視するんだ、私のこと……。</Dialog>
-          <Dialog>おイタが過ぎる、……わよ？</Dialog>
-          <Dialog>帰るわ……、じゃあね。</Dialog>
+          <Dialog>Hehe, what's wrong？ You've
+become so quiet.</Dialog>
+          <Dialog>Geez, how long are you going
+to be like this？</Dialog>
+          <Dialog>Hmph, I see... You're ignoring
+me then.</Dialog>
+          <Dialog>This is too much for a joke,
+you know？</Dialog>
+          <Dialog>I'm going home... Bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -189,11 +196,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ん？　どうしたのかな？</Dialog>
-          <Dialog>本当にどうしちゃったの？　なにか考え事？　悩んでることがあるなら、聞くよ？</Dialog>
-          <Dialog>もぅ、なにか言ってよ。言ってくれないとわからないんだから。</Dialog>
-          <Dialog>わかった。今日はそういう気分なんだ。うん、わかった。</Dialog>
-          <Dialog>……帰る。</Dialog>
+          <Dialog>Hmm？ What's wrong？</Dialog>
+          <Dialog>There must be something. Can
+you tell me？ Is there
+something that worries you？
+I'll listen.</Dialog>
+          <Dialog>Geez, say something. If you
+don't tell me, how can I
+know？</Dialog>
+          <Dialog>Okay, so you want to be like
+this all day, huh？ I
+understand now.</Dialog>
+          <Dialog>...I'm going home.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -253,11 +267,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ、さっきから黙ったままだけど、どうかしたの？</Dialog>
-          <Dialog>……なんだか私も眠くなってきちゃった……ねぇ、本当は起きてるよね？</Dialog>
-          <Dialog>ふふ。お姉さんが膝枕、貸してあげよっかなー？</Dialog>
-          <Dialog>ヒツジが１匹ぃ、ヒツジが２匹ぃ……たぬきが……たぬきは何匹だっけ……。</Dialog>
-          <Dialog>はぁ……私も眠くなっちゃった……かーえろっと。</Dialog>
+          <Dialog>Hehe, you've been quiet for a
+while. What's wrong？</Dialog>
+          <Dialog>...Now, I feel like I'm
+getting sleepy. Hey, are you
+still awake？</Dialog>
+          <Dialog>Hehe, maybe I'll let you sleep
+on my lap. Shall I？</Dialog>
+          <Dialog>One sheep... Two sheep... One
+raccoon dog... Two raccoon
+dogs...</Dialog>
+          <Dialog>Hah, I'm so sleepy. I'm going
+home.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -317,11 +338,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう、どうしちゃったの？　さっきから黙り込んでるけど……。</Dialog>
-          <Dialog>おーい、もしもーし。起きてますかー？</Dialog>
-          <Dialog>あ、そ。たぬき寝入りって、ワケなんだ？</Dialog>
-          <Dialog>たぬき寝入りする子は、たぬき汁にしちゃうぞー。</Dialog>
-          <Dialog>じゃあもう、一生そこでそうしてなさい。お母さん、帰るからね？</Dialog>
+          <Dialog>Hey, what's wrong？ You've
+been quiet for quite a while.</Dialog>
+          <Dialog>Hey, hello！？ Are you awake？</Dialog>
+          <Dialog>Ah, you're feigning sleep,
+huh？</Dialog>
+          <Dialog>A kid who feigns sleep must be
+punished.</Dialog>
+          <Dialog>Enough. You can keep being
+like this your whole life.
+Mommy is going home now.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -389,11 +415,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どうしたの？　さっきから静かだけど……。</Dialog>
-          <Dialog>おーい、姉ヶ崎寧々のカレシさーん。なにか答えてくださーい。カノジョが泣いてますよー。</Dialog>
-          <Dialog>おーい、ほんとに泣いちゃうよー。かわいく謝ってくれたら許してあげるよー。</Dialog>
-          <Dialog>なんか、たぬきにつままれたみたいね……あれ、キツネだっけ？</Dialog>
-          <Dialog>ぽんぽこぽんぽこぽんぽこ……はぁ、帰るね。</Dialog>
+          <Dialog>What's wrong？ You've been
+quiet for a while...</Dialog>
+          <Dialog>Hey, Anegasaki Nene's
+boyfriend. Can you answer me？
+Your girlfriend is going to
+cry.</Dialog>
+          <Dialog>Hey, I'm really going to cry,
+but I'll forgive you if you
+apologize.</Dialog>
+          <Dialog>What？ You look as baffled as
+a raccoon dog... Or should it
+be a fox...？</Dialog>
+          <Dialog>Raccoon dog, raccoon dog,
+raccoon dog... ...Hah, I'm
+going home.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -465,11 +501,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ……さっきから黙ってるけど……私、なにかしたかな？</Dialog>
-          <Dialog>ごめん。なにか気に障ることしたなら、謝るね。だから……ね？</Dialog>
-          <Dialog>ごめんなさい。私の悪いところ、全部直すから……。</Dialog>
-          <Dialog>うん……私が全部悪いんだよね？　だから……なにも言ってくれないんだよね？</Dialog>
-          <Dialog>ごめんね。今日は、帰ったほうがいいんだよね。うん。そうする。今日は、ごめんね。</Dialog>
+          <Dialog>Hey, you've been so quiet. Did
+I do something bad？</Dialog>
+          <Dialog>I'm sorry if I did something
+that hurt your feelings. I've
+apologized, so...</Dialog>
+          <Dialog>I'm so sorry. I'll fix
+whatever I've done wrong.</Dialog>
+          <Dialog>Okay, this means everything is
+all my fault, then. Otherwise,
+you would have said something.</Dialog>
+          <Dialog>I'm sorry. I think I'd better
+go home for today. Yeah, I
+should. I'm sorry about today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -537,11 +581,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……どうしたの？　さっきから黙り込んでるけど……私、なにかしたかな？</Dialog>
-          <Dialog>それならそうと、言ってくれないと。</Dialog>
-          <Dialog>黙ってちゃわかんないよ、ちゃんと言ってよ。</Dialog>
-          <Dialog>……そっか。今日は、そういう気分なんだね。うん、わかった。ごめんね、いろいろと。</Dialog>
-          <Dialog>今日は帰るね。じゃあ……また、ね。</Dialog>
+          <Dialog>...What's wrong？ You've been
+so quiet. ...Did I do
+something bad？</Dialog>
+          <Dialog>If I did, just tell me.</Dialog>
+          <Dialog>If you don't tell me, I don't
+know what I did. Just tell me.</Dialog>
+          <Dialog>Okay, so you want to be like
+this all day, huh？ I
+understand now. Sorry about
+everything.</Dialog>
+          <Dialog>I'm going home. Bye... See
+you, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -609,11 +660,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ……私、なにかしたかな？　あ、うん。ごめんね、急にへんなこと聞いて。</Dialog>
-          <Dialog>……機嫌、悪い？</Dialog>
-          <Dialog>そんな日も、あるよね。何かあったなら、私に甘えてもいいからね？</Dialog>
-          <Dialog>……そう、今日は甘えてもくれないんだね。</Dialog>
-          <Dialog>今日はこれで帰るね。えっと……じゃあ、また。ね？</Dialog>
+          <Dialog>Hey, did I do something bad？
+Um, I'm sorry to say this all
+of a sudden.</Dialog>
+          <Dialog>...Are you in a bad mood？</Dialog>
+          <Dialog>There are days like this,
+huh？ If something happened,
+tell me and I'll comfort you.</Dialog>
+          <Dialog>...So, you don't even need me
+to comfort you, huh？</Dialog>
+          <Dialog>I'm going home. Well... See
+you later, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -667,12 +724,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……ごめん。今日はもう、帰る。</Dialog>
+          <Dialog>...Sorry, I'm going home now.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうしたの、急に。</Dialog>
-          <Dialog>うん、あなたが嫌いになったわけじゃなくて……デートって、ムードも大切でしょ？</Dialog>
-          <Dialog>……ごめん。●、無神経だったかな。</Dialog>
-          <Dialog>……じゃあ、また。</Dialog>
+          <Dialog>Why did you say that all of a
+sudden？</Dialog>
+          <Dialog>Well, it's not that I hate
+you, but for a date, the mood
+is very important, right？</Dialog>
+          <Dialog>...Sorry. I'm probably too
+insensitive.</Dialog>
+          <Dialog>...Bye. See you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -726,12 +787,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はあ……今日はもう、これで終わりにしない？</Dialog>
+          <Dialog>Hah... Can we call it a day
+for today？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうしたの、急に。</Dialog>
-          <Dialog>せっかくのデートなのに……もう少しカノジョのこと考えてもいいと思わない？</Dialog>
-          <Dialog>……ごめん。●、無神経だったかな。</Dialog>
-          <Dialog>少し反省すること。いい？　じゃあね。</Dialog>
+          <Dialog>Why did you say that all of a
+sudden？</Dialog>
+          <Dialog>It's the long awaited date,
+but... Don't you think you
+should be more concerned about
+your girlfriend？</Dialog>
+          <Dialog>...Sorry. I'm probably too
+insensitive.</Dialog>
+          <Dialog>You should reflect on this,
+okay？ Bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -785,12 +853,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう……せっかくのデートなのに。</Dialog>
+          <Dialog>Geez... This is the long
+awaited date, but...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうしたの、急に。</Dialog>
-          <Dialog>ムードって、大切なんだよ？　お姉さんだって、女の子なんだから。</Dialog>
-          <Dialog>……ごめん。●、無神経だったかな。</Dialog>
-          <Dialog>うん。ちょっと無神経すぎた。だから今日はこれで終わり。次のデートまで反省してね？</Dialog>
+          <Dialog>Why did you say that all of a
+sudden？</Dialog>
+          <Dialog>The mood is very important,
+you know？ I'm a girl, after
+all.</Dialog>
+          <Dialog>...Sorry. I'm probably too
+insensitive.</Dialog>
+          <Dialog>Yeah, a little too
+insensitive. So, let's call it
+a day for today. Reflect on
+this until our next date,
+okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -848,12 +925,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう……せっかくのデートなのに、これじゃ台無しだよ？</Dialog>
+          <Dialog>Geez... This is the long
+awaited date, but it turns out
+to be such a waste of time.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうしたの、急に。</Dialog>
-          <Dialog>私がダメだったのかな。年上なんだから、あなたのこと、リードしなきゃ。そうよね、私が、私が……。</Dialog>
-          <Dialog>そんなに▲姉ヶ崎＊▲が気にしなくても……。</Dialog>
-          <Dialog>……帰る。帰って反省する……。</Dialog>
+          <Dialog>Why did you say that all of a
+sudden？</Dialog>
+          <Dialog>Maybe it's my fault. I am
+older than you, so I should
+take the lead... I just... I
+just...</Dialog>
+          <Dialog>You shouldn't worry too much,
+▲姉ヶ崎＊▲...</Dialog>
+          <Dialog>...I'm going home. I'm going
+to reflect on this.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -912,13 +997,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>お花見に行ったのに、桜が全然咲いてない時って、どう思う？</Dialog>
+          <Dialog>How would you feel if you went
+to view cherry blossoms and
+there weren't any of them
+blooming？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうしたの、急に。</Dialog>
-          <Dialog>海水浴に行ったのに遊泳禁止だったり、栗拾いに行ったのにぜーんぶ拾われたあとだったり、スキーにいったのに全然雪が積もってなかったり。どう思う？</Dialog>
-          <Dialog>どうって……。</Dialog>
-          <Dialog>答え。今の私の気分。次に期待……かな？　じゃあ、今日は帰るね。</Dialog>
-          <Dialog>ちょっと待っ……。</Dialog>
+          <Dialog>Why did you say that all of a
+sudden？</Dialog>
+          <Dialog>Or if you went to the beach
+and were forbidden from
+swimming, or went skiing but
+there was no snow. How would
+you feel？</Dialog>
+          <Dialog>Why...？</Dialog>
+          <Dialog>The answer is this is exactly
+how I feel right now. I don't
+know if I still have any hope.
+I'm going home now.</Dialog>
+          <Dialog>Wait...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -976,12 +1072,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>んー、こういう時って、どうすればいいのかな……やっぱりスパルタ式？</Dialog>
+          <Dialog>Hmm, at a time like this, what
+shall I do？ This is such a
+difficult situation.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうしたの、急に。</Dialog>
-          <Dialog>ふふ。私、ちょっと甘やかしすぎたみたい。女の子って、もう少し雰囲気というか、ムードというか……そういう感じのもの、大切にする生き物なんだよ？</Dialog>
-          <Dialog>ごめん、無神経だったかな。</Dialog>
-          <Dialog>うん。だから今日のデートはここまで。今度はお姉さんのこと、ちゃんと満足させてね。</Dialog>
+          <Dialog>Why did you say that all of a
+sudden？</Dialog>
+          <Dialog>Hehe, I think I spoiled you
+too much. For girls,
+atmosphere and mood and stuff
+like that are very important,
+you know？</Dialog>
+          <Dialog>Sorry, I must be very
+insensitive.</Dialog>
+          <Dialog>Yes, that's why I'm calling it
+a day. Next time, you must
+make this old woman feel
+satisfied, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1035,12 +1142,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ……やっぱり私が年上だから、そういう気持ちになれない？</Dialog>
+          <Dialog>Hey, is it because I'm older
+than you that you still can't
+get used to this？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうしたの、急に。</Dialog>
-          <Dialog>……ごめんね。今日のデート、ここまでにして……いいかな？</Dialog>
-          <Dialog>もしかして●、無神経だったかな。</Dialog>
-          <Dialog>ううん、いいの。……やっぱり私が年上だから、いけないんだよね。</Dialog>
+          <Dialog>Why did you say that all of a
+sudden？</Dialog>
+          <Dialog>...Sorry, let's call it a
+day... I guess it's okay,
+right？</Dialog>
+          <Dialog>Could it be that I'm being
+insensitive？</Dialog>
+          <Dialog>No, don't worry... Since I'm
+older than you, things like
+this can't be helped.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1094,12 +1209,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ、今日のデート、これで終わりにしない？</Dialog>
+          <Dialog>Hey, can we call it a day？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうしたの、急に。</Dialog>
-          <Dialog>デートって感じがしないし……あなたもつまらないんじゃない？</Dialog>
-          <Dialog>そんなことは……。</Dialog>
-          <Dialog>いいのよ。私の気がのらないことに変わりはないんだもの……じゃあね。</Dialog>
+          <Dialog>Why did you say that all of a
+sudden？</Dialog>
+          <Dialog>I'm not in the mood for a
+date... Don't you feel bored
+too？</Dialog>
+          <Dialog>That's...</Dialog>
+          <Dialog>It's okay. I'm really not in
+the mood... Bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1153,12 +1272,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ……つまらない、かな？</Dialog>
+          <Dialog>Hey, do you feel bored？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっ？　どうしたの、急に。</Dialog>
-          <Dialog>私のリードが足りないのかなぁ、年下の男の子も満足させてあげられないか……。</Dialog>
-          <Dialog>そんなつもりじゃ……。</Dialog>
-          <Dialog>いいの。ごめんね、冷めるようなこと言って。今日はもう帰るから、じゃあ。</Dialog>
+          <Dialog>Eh？ Why did you ask this all
+of a sudden？</Dialog>
+          <Dialog>Maybe I'm not good enough to
+make a younger guy feel
+satisfied, huh...？</Dialog>
+          <Dialog>That's not it...</Dialog>
+          <Dialog>It's okay. Sorry to say
+something like that. I'm going
+home for today. Bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

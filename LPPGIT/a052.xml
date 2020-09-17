@@ -72,15 +72,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えっと……もしもし。</Dialog>
+          <Dialog>Um... Hello.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●だけど。今から会える？</Dialog>
-          <Dialog>もちろん。私も会いたい……。</Dialog>
-          <Dialog>じゃ、今から▲デート場所▲で。</Dialog>
-          <Dialog>うん。すぐに行くから。</Dialog>
-          <Dialog>ごめんなさい。今からは無理なの、残念だけど。</Dialog>
-          <Dialog>そっか、わかった。じゃあ、また今度。</Dialog>
-          <Dialog>うん、ごめんね。</Dialog>
+          <Dialog>It's me. Do you want to meet
+somewhere right now？</Dialog>
+          <Dialog>Of course. I also wanted to
+see you.</Dialog>
+          <Dialog>Then let's meet at the
+▲デート場所▲.</Dialog>
+          <Dialog>Okay. I'll be there.</Dialog>
+          <Dialog>I'm sorry. I can't meet you
+now. So unfortunate.</Dialog>
+          <Dialog>Is that so？ I see. Then talk
+to you later.</Dialog>
+          <Dialog>Okay. Sorry...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -170,17 +175,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もしもし。</Dialog>
+          <Dialog>Hello.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もしもし、●。あのさ、今から会えないかな？</Dialog>
-          <Dialog>どうしよっかなぁ？</Dialog>
-          <Dialog>え、ダメ？</Dialog>
-          <Dialog>冗談。ふふ、だまされちゃって。</Dialog>
-          <Dialog>はは。じゃ、今から▲デート場所▲で。</Dialog>
-          <Dialog>了解。すぐ来なさいね？</Dialog>
-          <Dialog>んー、タイミング悪いな。今はダメ。</Dialog>
-          <Dialog>そっか、わかった。じゃあ、また今度。</Dialog>
-          <Dialog>ごめん。</Dialog>
+          <Dialog>Hello. It's me. I was
+wondering if you wanted to
+meet me somewhere.</Dialog>
+          <Dialog>What should I say...？</Dialog>
+          <Dialog>Eh？ You can't？</Dialog>
+          <Dialog>Just kidding. Hehe. You fell
+for it again.</Dialog>
+          <Dialog>Haha. Then let's meet at the
+▲デート場所▲.</Dialog>
+          <Dialog>Roger that. You must hurry
+there, okay？</Dialog>
+          <Dialog>Hmm. Bad timing. I can't go
+now.</Dialog>
+          <Dialog>Is that so？ I see. Then talk
+to you later.</Dialog>
+          <Dialog>Sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -255,15 +267,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もしもし、どうかした？</Dialog>
+          <Dialog>Hello. What's up？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あのさ。今から会えないかな、大丈夫？</Dialog>
-          <Dialog>当然、ＯＫだよ。</Dialog>
-          <Dialog>じゃ、今から▲デート場所▲で。</Dialog>
-          <Dialog>はぁい、すぐ行くからね？</Dialog>
-          <Dialog>今はちょっとダメだなぁ。</Dialog>
-          <Dialog>そっか、わかった。じゃあ、また今度。</Dialog>
-          <Dialog>残念。またにしてね？</Dialog>
+          <Dialog>Well, I was thinking about
+meeting you somewhere now. Is
+it okay？</Dialog>
+          <Dialog>Of course, it's okay.</Dialog>
+          <Dialog>Then let's meet at the
+▲デート場所▲.</Dialog>
+          <Dialog>Yes~！ You must hurry there,
+okay？</Dialog>
+          <Dialog>I think I can't go now.</Dialog>
+          <Dialog>Is that so？ I see. Then talk
+to you later.</Dialog>
+          <Dialog>Too bad. Let's meet some time
+later, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -338,15 +356,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えっと……もしもし？</Dialog>
+          <Dialog>Um... Hello？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●だけど。今から会える？</Dialog>
-          <Dialog>ちょっと待って……うん、いいよ。</Dialog>
-          <Dialog>じゃ、▲デート場所▲で。</Dialog>
-          <Dialog>うん。またあとでね？</Dialog>
-          <Dialog>あ、今からはちょっと……。</Dialog>
-          <Dialog>そっか。じゃあ、しょうがないね。</Dialog>
-          <Dialog>ごめんね。また今度お願い。</Dialog>
+          <Dialog>It's me. Do you want to meet
+somewhere right now？</Dialog>
+          <Dialog>Of course. I also wanted to
+see you.</Dialog>
+          <Dialog>Then let's meet at
+▲デート場所▲.</Dialog>
+          <Dialog>Okay, see you then.</Dialog>
+          <Dialog>Ah, I can't go now...</Dialog>
+          <Dialog>I see. Then it can't be
+helped.</Dialog>
+          <Dialog>Sorry. Please ask me again
+next time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -421,15 +444,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もしもし？</Dialog>
+          <Dialog>Hello？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もしもし、●。あのさ、今から会えないかな？</Dialog>
-          <Dialog>今から？　うん、オッケーだよ。</Dialog>
-          <Dialog>じゃ、▲デート場所▲で。</Dialog>
-          <Dialog>うん。遅れちゃダメよ？</Dialog>
-          <Dialog>ちょっと急かな、今手が離せないから。</Dialog>
-          <Dialog>そっか。じゃあ、しょうがないね。</Dialog>
-          <Dialog>うん、またね。</Dialog>
+          <Dialog>Hello. It's me. Do you want to
+meet somewhere right now？</Dialog>
+          <Dialog>Now？ Yeah, it's okay.</Dialog>
+          <Dialog>Then let's meet at
+▲デート場所▲.</Dialog>
+          <Dialog>Okay. Don't be late, all
+right？</Dialog>
+          <Dialog>t's too sudden. I'm in the
+middle of some work and I
+can't go.</Dialog>
+          <Dialog>I see. Then it can't be
+helped.</Dialog>
+          <Dialog>Yeah, later then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -504,16 +533,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もしもし？　どうしたの？</Dialog>
+          <Dialog>Hello？ What's up？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あのさ。今から会えないかな、大丈夫？</Dialog>
-          <Dialog>えっと……大丈夫。よかったね？
-ふふ▼</Dialog>
-          <Dialog>じゃ、▲デート場所▲で。</Dialog>
-          <Dialog>うん。早くおいで？</Dialog>
-          <Dialog>ちょっと用があるから……また今度だね。</Dialog>
-          <Dialog>そっか。じゃあ、しょうがないね。</Dialog>
-          <Dialog>うん、ごめんね？</Dialog>
+          <Dialog>Well, I was thinking about
+meeting you somewhere now. Is
+it okay？</Dialog>
+          <Dialog>Well... Okay. This is great,
+isn't it？ Hehe▼</Dialog>
+          <Dialog>Then let's meet at
+▲デート場所▲.</Dialog>
+          <Dialog>Okay. Hurry there, all right？</Dialog>
+          <Dialog>I got something to do... Maybe
+next time, okay？</Dialog>
+          <Dialog>I see. Then it can't be
+helped.</Dialog>
+          <Dialog>Yeah, sorry, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -568,13 +602,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もしもし……えっと、何？</Dialog>
+          <Dialog>Hello... Well, what is it？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●だけど。今から会える？</Dialog>
-          <Dialog>会いたくない。</Dialog>
-          <Dialog>そうなの!?</Dialog>
-          <Dialog>うん。どうしてかは、自分で考えて。</Dialog>
-          <Dialog>（機嫌悪そうだったな……）</Dialog>
+          <Dialog>It's me. Do you want to meet
+somewhere right now？</Dialog>
+          <Dialog>I don't want to.</Dialog>
+          <Dialog>Really！？</Dialog>
+          <Dialog>Yes. Do you know why？ Think
+about it.</Dialog>
+          <Dialog>(She seemed to be in a very
+bad mood...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -629,13 +666,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>何？</Dialog>
+          <Dialog>What？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もしもし、●。あのさ、今から会えないかな？</Dialog>
-          <Dialog>へぇ、会いたいんだ？</Dialog>
-          <Dialog>うん。▲姉ヶ崎＊▲は……。</Dialog>
-          <Dialog>会いたくない。切るね。</Dialog>
-          <Dialog>（機嫌悪そうだったな……）</Dialog>
+          <Dialog>Hello. It's me. Do you want to
+meet somewhere right now？</Dialog>
+          <Dialog>Hmm？ Do you want to meet me？</Dialog>
+          <Dialog>Yes, and how about
+▲姉ヶ崎＊▲...</Dialog>
+          <Dialog>I don't want to meet you. I'll
+hang up now.</Dialog>
+          <Dialog>(She seemed to be in a very
+bad mood...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -690,13 +731,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>何かな。</Dialog>
+          <Dialog>What is it？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あのさ。今から会えないかな、大丈夫？</Dialog>
-          <Dialog>会ってあげたいとは思うんだけどね……。</Dialog>
+          <Dialog>Well, I was thinking about
+meeting you somewhere now. Is
+it okay？</Dialog>
+          <Dialog>I guess you're thinking that I
+want to meet you, huh？</Dialog>
           <Dialog>？</Dialog>
-          <Dialog>でもやっぱり会いたくないの。じゃあね。</Dialog>
-          <Dialog>（機嫌悪そうだったな……）</Dialog>
+          <Dialog>But, I really don't want to.
+Bye.</Dialog>
+          <Dialog>(She seemed to be in a very
+bad mood...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -811,21 +857,29 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もしもし。</Dialog>
+          <Dialog>Hello.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もしもし。えっと、寧々だけど。今から会えない？</Dialog>
-          <Dialog>今からか……。</Dialog>
-          <Dialog>うん、いいよ</Dialog>
-          <Dialog>時間指定する</Dialog>
-          <Dialog>ごめん、今はちょっと……</Dialog>
-          <Dialog>いいよ。じゃあ……▲デート場所▲で。</Dialog>
-          <Dialog>ごめんなさい。どうしても、会いたくなっちゃって。</Dialog>
-          <Dialog>●も会いたいな。じゃ、またあとで。</Dialog>
-          <Dialog>うん、その時間なら大丈夫。</Dialog>
-          <Dialog>じゃあ、待ち合わせは▲時刻▲に▲デート場所▲で決まりかな。</Dialog>
-          <Dialog>ごめん、今はダメなんだ……。</Dialog>
-          <Dialog>そっか、急過ぎたね。ごめんなさい。</Dialog>
-          <Dialog>うん、また今度。</Dialog>
+          <Dialog>Hello. Um, Nene speaking. Do
+you want to meet somewhere
+right now？</Dialog>
+          <Dialog>Now, huh...？</Dialog>
+          <Dialog>Okay, that sounds good</Dialog>
+          <Dialog>Let's schedule a time</Dialog>
+          <Dialog>I'm sorry...</Dialog>
+          <Dialog>All right. I'll see you at the
+▲デート場所▲ then.</Dialog>
+          <Dialog>I'm so sorry. I just really
+wanted to meet you.</Dialog>
+          <Dialog>I wanted to meet you, too. See
+you then.</Dialog>
+          <Dialog>Yeah, that time's fine.</Dialog>
+          <Dialog>Then on ▲時刻▲,
+I'll see you at the
+▲デート場所▲.</Dialog>
+          <Dialog>Sorry, I can't go now...</Dialog>
+          <Dialog>I see. I know it was sudden.
+Sorry.</Dialog>
+          <Dialog>Well, maybe next time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -940,21 +994,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もしもし。</Dialog>
+          <Dialog>Hello.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もしもし、私。今から会える？</Dialog>
-          <Dialog>今からか……。</Dialog>
-          <Dialog>うん、いいよ</Dialog>
-          <Dialog>時間指定する</Dialog>
-          <Dialog>ごめん、今はちょっと……</Dialog>
-          <Dialog>いいよ。じゃあ……▲デート場所▲で。</Dialog>
-          <Dialog>私、早く会いたいな？</Dialog>
-          <Dialog>了解。急いで行くよ。</Dialog>
-          <Dialog>うん、その時間なら大丈夫。</Dialog>
-          <Dialog>じゃあ、待ち合わせは▲時刻▲に▲デート場所▲で決まりかな。</Dialog>
-          <Dialog>ごめん、今はダメなんだ……。</Dialog>
-          <Dialog>そうなの？　しょうがないか。</Dialog>
-          <Dialog>うん、また今度。</Dialog>
+          <Dialog>Hello, it's me. Can we meet
+now？</Dialog>
+          <Dialog>Now, huh...？</Dialog>
+          <Dialog>Okay, that sounds good</Dialog>
+          <Dialog>Let's schedule a time</Dialog>
+          <Dialog>I'm sorry...</Dialog>
+          <Dialog>All right. I'll see you at the
+▲デート場所▲ then.</Dialog>
+          <Dialog>I really want to meet you as
+soon as possible.</Dialog>
+          <Dialog>Roger that. I'll hurry there.</Dialog>
+          <Dialog>Yeah, that time's fine.</Dialog>
+          <Dialog>Then on ▲時刻▲,
+I'll see you at the
+▲デート場所▲.</Dialog>
+          <Dialog>Sorry, I can't go now...</Dialog>
+          <Dialog>Really？ It can't be helped
+then, huh？</Dialog>
+          <Dialog>Well, maybe next time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1069,21 +1129,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もしもし。</Dialog>
+          <Dialog>Hello.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私、寧々だよ。今から会お？</Dialog>
-          <Dialog>今からか……。</Dialog>
-          <Dialog>うん、いいよ</Dialog>
-          <Dialog>時間指定する</Dialog>
-          <Dialog>ごめん、今はちょっと……</Dialog>
-          <Dialog>いいよ。じゃあ……▲デート場所▲で。</Dialog>
-          <Dialog>ふふ、いい子いい子。またあとでね。</Dialog>
-          <Dialog>うん、じゃあ。</Dialog>
-          <Dialog>うん、その時間なら大丈夫。</Dialog>
-          <Dialog>じゃあ、待ち合わせは▲時刻▲に▲デート場所▲で決まりかな。</Dialog>
-          <Dialog>ごめん、今はダメなんだ……。</Dialog>
-          <Dialog>そう、いきなりだもんね。</Dialog>
-          <Dialog>うん、また今度。</Dialog>
+          <Dialog>This is Nene speaking. Can we
+meet now？</Dialog>
+          <Dialog>Now, huh...？</Dialog>
+          <Dialog>Okay, that sounds good</Dialog>
+          <Dialog>Let's schedule a time</Dialog>
+          <Dialog>I'm sorry...</Dialog>
+          <Dialog>All right. I'll see you at the
+▲デート場所▲.</Dialog>
+          <Dialog>Hehe. Nice kid, nice kid. See
+you then.</Dialog>
+          <Dialog>Okay, see you.</Dialog>
+          <Dialog>Yeah, that time's fine.</Dialog>
+          <Dialog>Then on ▲時刻▲,
+I'll see you at the
+▲デート場所▲.</Dialog>
+          <Dialog>Sorry, I can't go now...</Dialog>
+          <Dialog>I see. It was sudden, huh？</Dialog>
+          <Dialog>Well, maybe next time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

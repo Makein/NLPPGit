@@ -22,8 +22,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店員</Dialog>
-          <Dialog>いらっしゃいませー。</Dialog>
+          <Dialog>Clerk</Dialog>
+          <Dialog>Welcome.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -42,8 +42,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店員</Dialog>
-          <Dialog>ありがとうございましたー。</Dialog>
+          <Dialog>Clerk</Dialog>
+          <Dialog>Thank you very much.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -79,8 +79,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>いらっしゃいませー。</Dialog>
-          <Dialog>店員</Dialog>
+          <Dialog>Welcome.</Dialog>
+          <Dialog>Clerk</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -130,12 +130,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ありがとうございましたー。</Dialog>
-          <Dialog>店員</Dialog>
-          <Dialog>小毬</Dialog>
-          <Dialog>あ、ありがとうございました！</Dialog>
-          <Dialog>尾鳥</Dialog>
-          <Dialog>ありがとうございました～。</Dialog>
+          <Dialog>Thank you very much.</Dialog>
+          <Dialog>Clerk</Dialog>
+          <Dialog>Komari</Dialog>
+          <Dialog>T-thank you very much！</Dialog>
+          <Dialog>Otori</Dialog>
+          <Dialog>Thank you very much~.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -160,7 +160,7 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店員</Dialog>
+          <Dialog>Clerk</Dialog>
           <Dialog>いらっしゃいませ。</Dialog>
         </Dialogs>
       </SDL2>
@@ -180,8 +180,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店員</Dialog>
-          <Dialog>ありがとうございました。</Dialog>
+          <Dialog>Clerk</Dialog>
+          <Dialog>Thank you very much.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -206,8 +206,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店主</Dialog>
-          <Dialog>へい、いらっしゃい！</Dialog>
+          <Dialog>Shopkeeper</Dialog>
+          <Dialog>Hey, Welcome！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -226,8 +226,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店主</Dialog>
-          <Dialog>はい、ありがとねー。</Dialog>
+          <Dialog>Shopkeeper</Dialog>
+          <Dialog>Yes, Thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -252,8 +252,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店員</Dialog>
-          <Dialog>いらっしゃいませー。</Dialog>
+          <Dialog>Clerk</Dialog>
+          <Dialog>Welcome.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -272,8 +272,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店員</Dialog>
-          <Dialog>ありがとうございましたー。</Dialog>
+          <Dialog>Clerk</Dialog>
+          <Dialog>Thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -298,8 +298,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店員</Dialog>
-          <Dialog>いらっしゃいませ。</Dialog>
+          <Dialog>Clerk</Dialog>
+          <Dialog>Welcome.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -318,8 +318,9 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店員</Dialog>
-          <Dialog>ありがとうございました、またのお越しをお待ちしております。</Dialog>
+          <Dialog>Clerk</Dialog>
+          <Dialog>Thank you very much. We look
+forward to your next visit.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -344,8 +345,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店長</Dialog>
-          <Dialog>いらっしゃいませ。</Dialog>
+          <Dialog>Manager</Dialog>
+          <Dialog>Welcome.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -364,8 +365,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店長</Dialog>
-          <Dialog>ありがとうございました。</Dialog>
+          <Dialog>Manager</Dialog>
+          <Dialog>Thank you very much.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -400,8 +401,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>メイド</Dialog>
-          <Dialog>お帰りなさいませ、ご主人様。</Dialog>
+          <Dialog>Maid</Dialog>
+          <Dialog>Welcome back, Master.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -430,8 +431,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>メイド</Dialog>
-          <Dialog>いってらっしゃいませ、ご主人様。</Dialog>
+          <Dialog>Maid</Dialog>
+          <Dialog>Have a safe trip, Master.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -466,8 +467,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店員</Dialog>
-          <Dialog>いらっしゃいませー。</Dialog>
+          <Dialog>Clerk</Dialog>
+          <Dialog>Welcome.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -496,8 +497,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店員</Dialog>
-          <Dialog>ありがとうございましたー。</Dialog>
+          <Dialog>Clerk</Dialog>
+          <Dialog>Thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -532,8 +533,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店員</Dialog>
-          <Dialog>いらっしゃいませー。</Dialog>
+          <Dialog>Clerk</Dialog>
+          <Dialog>Welcome.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -562,8 +563,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店員</Dialog>
-          <Dialog>ありがとうございましたー。</Dialog>
+          <Dialog>Clerk</Dialog>
+          <Dialog>Thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -598,8 +599,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店員</Dialog>
-          <Dialog>いらっしゃいませー。</Dialog>
+          <Dialog>Clerk</Dialog>
+          <Dialog>Welcome.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -628,8 +629,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店員</Dialog>
-          <Dialog>ありがとうございましたー。</Dialog>
+          <Dialog>Clerk</Dialog>
+          <Dialog>thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

@@ -17,8 +17,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今の●じゃ、デートに誘うのはちょっとな……。</Dialog>
-          <Dialog>もっと自分を磨いてからにしよう。</Dialog>
+          <Dialog>Right now, I shouldn't invite
+her on a date.</Dialog>
+          <Dialog>Let me fix myself up more
+before doing that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -38,8 +40,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なんかだるいな……。</Dialog>
-          <Dialog>誘うのはもっと余裕があるときにしよう。</Dialog>
+          <Dialog>I'm in pretty bad shape...</Dialog>
+          <Dialog>I should wait until I'm in a
+better condition before asking
+her out.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -54,7 +58,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、後で会う約束してたな。今はやめとくか……。</Dialog>
+          <Dialog>Come to think of it, we
+already promised to meet up
+later. There's no need to call
+her...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

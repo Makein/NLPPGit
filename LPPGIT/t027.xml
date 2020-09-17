@@ -86,17 +86,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>正月は、どうやって過ごすの？</Dialog>
+          <Dialog>What do you plan to do on New
+Year's？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>元旦はゆっくりして、あとはお年始回りで忙しくなりそう。</Dialog>
-          <Dialog>そっか。かなり回るの？</Dialog>
-          <Dialog>数はそうでもないけど、ちょっと大変。</Dialog>
-          <Dialog>どうして？</Dialog>
-          <Dialog>お年賀が、わたしの手作りのお菓子なの。毎年、それで悩んじゃって……。</Dialog>
-          <Dialog>毎年じゃなぁ。やめるわけにはいかないの？</Dialog>
-          <Dialog>両親はもういいよって言ってくれるんだけどね？　それはわたしがイヤなの。</Dialog>
-          <Dialog>だって、何だか、負けるみたいじゃない……？</Dialog>
-          <Dialog>（こういうのも、負けず嫌いのうちに入るんだろうか……）</Dialog>
+          <Dialog>I'll rest on New Year's Day.
+But after that, I'll be busy
+going around and greeting
+people.</Dialog>
+          <Dialog>I see. Do you have to visit
+many people？</Dialog>
+          <Dialog>Not that many, but it's still
+very tiresome.</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>I have to make desserts for
+New Year's gifts every year.
+I'm quite worried about
+that...</Dialog>
+          <Dialog>Every year？ Can't you just
+stop doing that？</Dialog>
+          <Dialog>My parents said I didn't have
+to do it, but I just don't
+want to quit.</Dialog>
+          <Dialog>It would be like losing if I
+quit, right...？</Dialog>
+          <Dialog>(Even in a situation like
+this, she's still
+competitive...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -180,16 +195,29 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>２月と言えばさ、節分だな。▲高嶺＊＊▲の家は何かするの？</Dialog>
+          <Dialog>Setsubun is in February. What
+do you do at home,
+▲高嶺＊＊▲？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>魔よけを玄関先に飾って、あとは豆まき、かな？</Dialog>
-          <Dialog>魔よけ？</Dialog>
-          <Dialog>知らない？　ヒイラギといわしの頭で作るの。</Dialog>
-          <Dialog>豆まきは、パパだけがするからわたしとママはお掃除係りなんだけど。</Dialog>
-          <Dialog>オニ役は？</Dialog>
-          <Dialog>いないよ？　見えない厄を、一家の主が祓う行事だもん。</Dialog>
-          <Dialog>終わったあとに飲む福茶も美味しいよね？　ふふ、楽しみ。</Dialog>
-          <Dialog>（何だか節分まで上品な感じだ……）</Dialog>
+          <Dialog>We decorate our home with the
+evil buster charm and scatter
+beans to drive evil away.</Dialog>
+          <Dialog>The evil buster charm？</Dialog>
+          <Dialog>You don't know what it is？
+It's made with holly olive and
+pilchard's head.</Dialog>
+          <Dialog>Papa always takes care of
+scattering the beans. Mama and
+I just do the cleaning later.</Dialog>
+          <Dialog>Who takes the demon role
+then？</Dialog>
+          <Dialog>No one. It's like we exorcise
+the invisible evil spirits.</Dialog>
+          <Dialog>After it's done, we just have
+some good luck tea. It's
+delicious. Hehe, I can't wait.</Dialog>
+          <Dialog>(They have such an elegant
+Setsubun tradition...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -267,15 +295,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そろそろさ、例の時期だな？　バレンタイン！</Dialog>
+          <Dialog>It's almost that time of year
+again. Valentine's Day！</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>……気になる？</Dialog>
-          <Dialog>そりゃあ、お料理上手なカノジョを持つカレシとしては！</Dialog>
-          <Dialog>もう……でも、あまり期待しないでね？</Dialog>
-          <Dialog>あれ？　珍しいじゃん、得意な分野なのに。</Dialog>
-          <Dialog>うん……トッピングに考えてた材料、どこかのお店が買い占めちゃったみたいで手に入らなかったの。</Dialog>
-          <Dialog>ふぅ……代わりのもの、探さなくちゃ。</Dialog>
-          <Dialog>（お料理上手な人は、その人なりに悩みはあるんだな……）</Dialog>
+          <Dialog>...Are you concerned about
+it？</Dialog>
+          <Dialog>Well yeah, because I have a
+girlfriend who's very good at
+cooking！</Dialog>
+          <Dialog>Come on... But, don't expect
+too much, okay？</Dialog>
+          <Dialog>Eh？ This is rare. Cooking is
+your specialty, isn't it？</Dialog>
+          <Dialog>Yeah... But I couldn't find
+the topping I intended to use.
+It's sold out everywhere.</Dialog>
+          <Dialog>Ah... I'll have to find a
+substitute for it.</Dialog>
+          <Dialog>(Even good cooks encounter
+such tough situations,
+huh...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -348,14 +387,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あのさ、そろそろ、例の時期だよな？　バレンタイン。</Dialog>
+          <Dialog>Hey, it's almost that time of
+year again, right？
+Valentine's Day！</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。今ね、いろいろ候補があって悩んでるの。</Dialog>
-          <Dialog>だから、リクエストがあれば聞きたいかな……なんて。</Dialog>
-          <Dialog>▲高嶺＊＊▲が作るものなら何でもＯＫ！　任せるよ。</Dialog>
-          <Dialog>ふふ！　何となく、そう言ってくれるんじゃないかなって思ってた。</Dialog>
-          <Dialog>あなたに喜んでもらえるようにがんばるね？</Dialog>
-          <Dialog>（あー、楽しみ！）</Dialog>
+          <Dialog>Yes. Right now, I have so many
+choices that I really can't
+decide.</Dialog>
+          <Dialog>So, if you have any requests,
+maybe you should tell me... I
+guess.</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+you can make whatever you
+want. Anything is okay for
+me！ I'll leave it to you.</Dialog>
+          <Dialog>Hehe！ Somehow, that's what I
+expected you to say.</Dialog>
+          <Dialog>I'll try my best to make
+something that will make you
+happy.</Dialog>
+          <Dialog>(Ah, I can't wait！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -429,15 +480,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そろそろさ、例の時期だな？　バレンタイン！</Dialog>
+          <Dialog>Hey, it's almost that time of
+year again, right？
+Valentine's Day！</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>期待、してくれてるの？</Dialog>
-          <Dialog>もっちろん！</Dialog>
-          <Dialog>……先に、謝らせて？　ごめんなさい。</Dialog>
-          <Dialog>え！　ど、どうして？</Dialog>
-          <Dialog>……上手に出来すぎて、ほっぺたが落ちちゃうかも知れないから▼</Dialog>
-          <Dialog>ふふっ！</Dialog>
-          <Dialog>（ああ、びっくりした……。けど、楽しみだ！）</Dialog>
+          <Dialog>Are you expecting something？</Dialog>
+          <Dialog>Of course！</Dialog>
+          <Dialog>...I have to apologize first.
+I'm sorry.</Dialog>
+          <Dialog>Eh！？ W-Why？</Dialog>
+          <Dialog>...It might be so delicious
+that your jaw will drop▼</Dialog>
+          <Dialog>Hehe！</Dialog>
+          <Dialog>(Hah. What a surprise... But
+now I can't wait！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -524,16 +580,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そろそろひな祭りだな。▲高嶺＊＊▲の家は、雛飾りとかやる？</Dialog>
+          <Dialog>Hinamatsuri is coming up soon.
+Do you have doll decorations
+at your house,
+▲高嶺＊＊▲？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん、もちろん。２月中には出したよ？</Dialog>
-          <Dialog>そんなに早く出すもんなの？</Dialog>
-          <Dialog>うん。早く出して、雛祭りが終わったらすぐにしまうのが慣わしみたい。</Dialog>
-          <Dialog>そうなんだ。でも、なんで？　綺麗なんだからしばらく飾っといても良さそうなのに。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>わたしは、少しくらいしまう日が遅くなっても大丈夫……かな？　ふふっ。</Dialog>
-          <Dialog>（……？）</Dialog>
+          <Dialog>Yes, of course. We have them
+up for the whole month of
+February.</Dialog>
+          <Dialog>You put them up that early？</Dialog>
+          <Dialog>Yeah. We put them up early and
+then put them away as soon as
+the festival ends. It's our
+tradition.</Dialog>
+          <Dialog>I see. But why？ They are so
+pretty. It would be better to
+display them longer.</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Hmm？</Dialog>
+          <Dialog>Maybe I should leave them on a
+little longer... Hehe.</Dialog>
+          <Dialog>(...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -612,15 +679,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そう言えば、もうすぐホワイトデーだけど……。</Dialog>
+          <Dialog>By the way, it's almost White
+Day...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。</Dialog>
-          <Dialog>あれ……ひょっとして、あんまり期待してない？</Dialog>
-          <Dialog>期待って。３倍返し、なんて言わないから安心して？</Dialog>
-          <Dialog>でも、あえて言うなら……。</Dialog>
-          <Dialog>気持ちだけはすっごくこめたから、あなたにも、そういうお返しを期待してる。</Dialog>
-          <Dialog>ふふっ、がんばって考えてね！</Dialog>
-          <Dialog>（よし、がんばろう！）</Dialog>
+          <Dialog>Yeah.</Dialog>
+          <Dialog>Eh？ Don't tell me you don't
+expect anything at all.</Dialog>
+          <Dialog>I'm expecting something. But
+it's not like I want anything
+luxurious in return, so don't
+worry.</Dialog>
+          <Dialog>But, if I had to say...</Dialog>
+          <Dialog>I'm expecting something packed
+with your feelings.</Dialog>
+          <Dialog>Hehe. Do your best and think
+about it, okay？</Dialog>
+          <Dialog>(All right. I'll do my best！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -684,14 +758,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そう言えばそろそろ、バレンタインから一ヶ月だな。</Dialog>
+          <Dialog>To think of it... It's almost
+a month after Valentine's Day.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ホワイトデー、だね？</Dialog>
-          <Dialog>何か、欲しいものとか希望はある？</Dialog>
-          <Dialog>ううん。気持ちだけで嬉しい。すごく。</Dialog>
-          <Dialog>▲高嶺＊＊▲……。</Dialog>
-          <Dialog>本当に何でもいいよ？　あなたから貰うものは全部、わたしにとって宝物だから。</Dialog>
-          <Dialog>（ああもう！　そんなカワイイこと言われたらがんばらざるを得ない！）</Dialog>
+          <Dialog>White Day's coming, right？</Dialog>
+          <Dialog>Do you have anything you want
+in particular？</Dialog>
+          <Dialog>No. Just your feelings are
+more than enough.</Dialog>
+          <Dialog>▲高嶺＊＊▲...</Dialog>
+          <Dialog>WReally. Anything is fine. For
+me, everything you give me is
+always a precious treasure.</Dialog>
+          <Dialog>(Ah！ She's saying it in such
+a cute way. It makes me want
+to do my best for her！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -785,17 +866,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そろそろ、バレンタインから一ヶ月、か。</Dialog>
+          <Dialog>It's been almost a month since
+Valentine's Day, huh？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>だね▼</Dialog>
-          <Dialog>あれ……●、すごく期待されてる？</Dialog>
-          <Dialog>ふふっ。</Dialog>
-          <Dialog>期待って言うより……今、お返しのことで頭がいっぱい？</Dialog>
-          <Dialog>うん。</Dialog>
-          <Dialog>と、いうことは、ずっとわたしのことを考えてくれてるってことでしょう？　幸せだなぁって。</Dialog>
-          <Dialog>そんなあなたが選んでくれるお返し、っていう意味では、すごく期待してるよ？</Dialog>
-          <Dialog>楽しみにしてます▼</Dialog>
-          <Dialog>（よし、気合い入れて選ぶぞ！）</Dialog>
+          <Dialog>Yeah▼</Dialog>
+          <Dialog>Eh...？ Are you anticipating
+something big because of me？</Dialog>
+          <Dialog>Hehe.</Dialog>
+          <Dialog>More than anticipation...
+Right now, you must be
+thinking a lot about the
+return gift, right？</Dialog>
+          <Dialog>Yeah.</Dialog>
+          <Dialog>T-That means you're thinking
+about me all the time, right？
+I'm so happy.</Dialog>
+          <Dialog>I wonder what kind of gift
+you'll choose for me. I'm
+anticipating that.</Dialog>
+          <Dialog>I can't wait▼</Dialog>
+          <Dialog>(All right. I'll do my best
+choosing a gift for her！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -881,15 +972,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>桜の季節だな。</Dialog>
+          <Dialog>It's the cherry blossom
+season.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。まだ小さい頃にね？　しだれ桜を見に行ったことがあるの。</Dialog>
-          <Dialog>どうだった？</Dialog>
-          <Dialog>すっごく大きくて、すっごく綺麗だった。桜の雨のなかにいるみたいな感じで……。</Dialog>
-          <Dialog>へぇー……見てみたいな。</Dialog>
-          <Dialog>でも、その桜、ちょっと遠いところにあるから日帰りじゃムリ。</Dialog>
-          <Dialog>そっかー……。</Dialog>
-          <Dialog>だから、そのうち行こう？　その……もう少し、大人になったら。約束。</Dialog>
+          <Dialog>Yeah. When I was a kid, I
+often went to see weeping
+cherry blossom trees.</Dialog>
+          <Dialog>How were they？</Dialog>
+          <Dialog>They were so big and pretty. I
+felt like I was walking under
+raining petals.</Dialog>
+          <Dialog>Hmm... I want to see them too.</Dialog>
+          <Dialog>But those trees are located
+very far from here. We can't
+go there in a one-day trip.</Dialog>
+          <Dialog>I see...</Dialog>
+          <Dialog>But we'll go to see them
+together, okay？ Maybe when we
+grow up. Let's promise.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -957,14 +1057,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もうすぐゴールデンウィークだな。▲高嶺＊＊▲は、行きたいところとか、ある？</Dialog>
+          <Dialog>It's almost Golden Week.
+▲高嶺＊＊▲,
+do you want to go somewhere？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>どこに行っても混んでそうじゃない？　それだったらわたし、家であなたと……。</Dialog>
-          <Dialog>疲れたサラリーマンか！</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>どう？　いいツッコミだったろ？</Dialog>
-          <Dialog>……もうどこにも行ってあげない。家にも入れてあげないんだから。</Dialog>
-          <Dialog>（えぇ!?　なんで？）</Dialog>
+          <Dialog>It's going to be crowded
+everywhere, isn't it？ It's
+okay if I can just hang out
+with you at home...</Dialog>
+          <Dialog>You're like a worn-out
+salaryman！</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>How's my joke？</Dialog>
+          <Dialog>...I won't go anywhere with
+you. I won't even let you in
+my house！</Dialog>
+          <Dialog>(Eh！？ Why？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1028,14 +1136,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そろそろ体育祭だな。▲高嶺＊＊▲は、なんか出る？</Dialog>
+          <Dialog>It's almost the sports
+festival. Are you going to
+participate in any events,
+▲高嶺＊＊▲？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。たくさん。</Dialog>
-          <Dialog>だよな……。▲高嶺＊＊▲、何でもできちゃうしなぁ。</Dialog>
-          <Dialog>ね、１位いっぱい取ったら何かご褒美、くれる？</Dialog>
-          <Dialog>おう、いいともさ。どんとこい！</Dialog>
-          <Dialog>わぁい▼がんばって、総ナメにしちゃおうっと。</Dialog>
-          <Dialog>（●も少しはいいトコ見せないとな！）</Dialog>
+          <Dialog>Yes, many of them.</Dialog>
+          <Dialog>As I thought...
+▲高嶺＊＊▲
+is good at everything.</Dialog>
+          <Dialog>Hey, if I win in a lot of
+events, will you give me a
+reward？</Dialog>
+          <Dialog>Oh, of course I will！</Dialog>
+          <Dialog>Yay▼ I'll do my best. Maybe I
+can win all of them.</Dialog>
+          <Dialog>(Then I'll have to do my best,
+too！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1114,16 +1231,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえばさ、衣替えしたんだな。</Dialog>
+          <Dialog>By the way, it's time to
+change uniforms again.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>わたしは冬服のほうが好き。</Dialog>
-          <Dialog>そうなの？　どして？　いいじゃん、夏服！</Dialog>
-          <Dialog>あんまり日に焼けたくないから。</Dialog>
-          <Dialog>ああ、そういう面で……。</Dialog>
-          <Dialog>女子が薄着になるのが嬉しい一部の男子には、なかなか解らない理由だよね？</Dialog>
-          <Dialog>う……まあ……えーと？</Dialog>
-          <Dialog>……もう。他の子に、そんな視線向けちゃダメなんだからね？</Dialog>
-          <Dialog>（気をつけます……）</Dialog>
+          <Dialog>I prefer the winter uniform.</Dialog>
+          <Dialog>Really？ Why？ Isn't the
+summer uniform nice？</Dialog>
+          <Dialog>I don't want to get sunburnt.</Dialog>
+          <Dialog>Ah, that's the reason...</Dialog>
+          <Dialog>I can never understand why
+guys are so happy when girls
+dress so lightly.</Dialog>
+          <Dialog>Um... That's... Well...</Dialog>
+          <Dialog>...Geez. Never ever look at
+other girls like that with
+those eyes, okay？</Dialog>
+          <Dialog>(I'll be careful...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1211,16 +1334,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もう七月か……七夕は、何か願いごとする？</Dialog>
+          <Dialog>It's July now... What do you
+plan to wish for on Tanabata？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>家で笹飾りをするから、そのときに短冊も飾るよ。</Dialog>
-          <Dialog>本格的だ。▲高嶺＊＊▲の家ってこういうイベント、結構ちゃんとやるよな？</Dialog>
-          <Dialog>うん、割とね？　そういうの好きなの、家。</Dialog>
-          <Dialog>元々、そうでもなかったらしいんだけど、わたしが産まれてから気にするようになったって。</Dialog>
-          <Dialog>女の子なのに鯉のぼりも飾ったりするし……次はお月見かな？</Dialog>
-          <Dialog>へぇ、ホントにいろいろやってるんだな。……で、肝心の願い事は？</Dialog>
-          <Dialog>それは、あなたと……ううん、やっぱりナイショ。</Dialog>
-          <Dialog>（ちぇーっ）</Dialog>
+          <Dialog>My family set up a bamboo
+decoration at home, so I'll
+hang my wish card there.</Dialog>
+          <Dialog>Wow.
+▲高嶺＊＊▲'s
+family celebrates almost every
+festival, eh？</Dialog>
+          <Dialog>Yeah, pretty much. My family
+just likes things like this.</Dialog>
+          <Dialog>I heard that they didn't do
+this much to begin with, but
+started to after I was born.</Dialog>
+          <Dialog>I'm a girl, but they celebrate
+Boys' Festival by hanging carp
+streamers too. Next is the
+Moon Festival, I think...</Dialog>
+          <Dialog>Wow, they really celebrate
+them all. ...Oh, about your
+wish, what will you wish for？</Dialog>
+          <Dialog>That's... To be with you...
+Never mind. It's my secret.</Dialog>
+          <Dialog>(Eh...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1318,18 +1456,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あぁー！　早く夏休みになんないかな！</Dialog>
+          <Dialog>Ah！ Can't summer break come
+any faster！？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>そう？</Dialog>
-          <Dialog>あれ、楽しみじゃないの？</Dialog>
-          <Dialog>うん、あまり……。だって、お休みに入っちゃったら毎日会うのは難しいし。</Dialog>
-          <Dialog>うん、まあ確かに……。でもさ、その分、遠出もできたりするわけで。</Dialog>
-          <Dialog>……それもそうだね。うん、前向き、前向き。</Dialog>
-          <Dialog>そうそう！　季節行事への参加もよろしくお願いします。水着や浴衣着用のイベントも盛りだくさんです。</Dialog>
-          <Dialog>さては、それが見たいだけだな？</Dialog>
-          <Dialog>ブブー。それ“も”見たい！　今年の夏は忙しいから覚悟しといてよ、▲高嶺＊＊▲。</Dialog>
-          <Dialog>はぁい▼</Dialog>
-          <Dialog>（遊ぶぞー！）</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>Eh？ Aren't you looking
+forward to it？</Dialog>
+          <Dialog>Well, not really. During the
+holidays, it's more difficult
+for us to meet every day.</Dialog>
+          <Dialog>Yeah, that's true... But we
+can always hang out together
+outside, too.</Dialog>
+          <Dialog>...That's right. Yeah, I'm
+also looking forward to it
+then.</Dialog>
+          <Dialog>Good！ I can't wait to go to
+lots of seasonal events with
+you. I want to see you in a
+swimsuit and in a yukata too.</Dialog>
+          <Dialog>So those are all you're
+looking forward to？</Dialog>
+          <Dialog>Boo, not just those. A lot
+more！ We're gonna have a busy
+summer, so be prepared,
+▲高嶺＊＊▲.</Dialog>
+          <Dialog>Yes~▼</Dialog>
+          <Dialog>(Let's have fun！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1397,14 +1550,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そろそろ、海水浴のシーズンだな？</Dialog>
+          <Dialog>It's almost sea bathing
+season, right？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん……。水着、かぁ……。</Dialog>
-          <Dialog>自信ないとか？　ビキニもタンキニも、ていうか何でも絶対似合うから、そんな心配、必要ナシ！</Dialog>
-          <Dialog>どんなのがいいのかわからなくて……。相談に乗ってくれる？</Dialog>
-          <Dialog>もちろん！</Dialog>
-          <Dialog>良かった。よろしくね？</Dialog>
-          <Dialog>（スクール水着は、さすがに怒るかな……？）</Dialog>
+          <Dialog>Yeah... Swimsuits, huh...</Dialog>
+          <Dialog>iYou aren't confident？ I'm
+sure you'll look good in any
+swimsuit, bikini or tankini.
+Don't worry about it！</Dialog>
+          <Dialog>I don't know which one I
+should wear... Can I consult
+you？</Dialog>
+          <Dialog>Of course！</Dialog>
+          <Dialog>Great. I'll trouble you for
+that.</Dialog>
+          <Dialog>(But if you wear a school
+swimsuit, I'll be angry, you
+know...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1501,17 +1663,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もうじき、花火の季節だな……浴衣はもう買った？</Dialog>
+          <Dialog>It's almost fireworks
+season... Have you bought your
+yukata？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふっ、バッチリ。楽しみにしててね？</Dialog>
-          <Dialog>おう！　そういや、▲高嶺＊＊▲って浴衣ひとりで着られるの？</Dialog>
-          <Dialog>うん。覚えちゃえばカンタンだよ？</Dialog>
-          <Dialog>ただ、浴衣って暑いの。帯のところなんか、特に。だから、長い時間着てるのはツライかも。</Dialog>
-          <Dialog>へー……じゃ、我慢できなくなったら解くの手伝うよ。そしたら涼しく……。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>……ん？　ち、違う！　そういう意味じゃなくて、●は純粋に、善意で……！</Dialog>
-          <Dialog>知りません。</Dialog>
-          <Dialog>（あああー）</Dialog>
+          <Dialog>Hehe, I did. You can look
+forward to it, okay？</Dialog>
+          <Dialog>Oh！ By the way, can you put
+on a yukata by yourself,
+▲高嶺＊＊▲？</Dialog>
+          <Dialog>Yes. If you remember the
+order, it's quite simple.</Dialog>
+          <Dialog>It's just that having to wear
+a yukata with a tight sash is
+quite irritating in the
+summer.</Dialog>
+          <Dialog>Hmm？ Then if you can't stand
+it, I can help you untie the
+sash. It'll make you feel
+better...</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>...Huh？ N-No！ I didn't mean
+it that way！ I said it with
+innocent intentions...！</Dialog>
+          <Dialog>I don't know.</Dialog>
+          <Dialog>(Ahhhhh~)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1593,15 +1769,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ハァ……夏が終わっていく。</Dialog>
+          <Dialog>Ah... Summer is ending soon.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>なぁに？　ため息なんかついちゃって。</Dialog>
-          <Dialog>学校、好きだけどな？　わたし。お休み中よりもあなたと会えるし……。</Dialog>
-          <Dialog>うん……。そうなんだけどさー……。</Dialog>
-          <Dialog>あ、わかった。宿題が終わってないんでしょう？</Dialog>
-          <Dialog>それも、なきにしもあらず……。</Dialog>
-          <Dialog>もう、しかたのない人。ほら、手伝ってあげるから、元気出して？</Dialog>
-          <Dialog>（やった！　……でもやっぱり終わって欲しくないな、夏休み……）</Dialog>
+          <Dialog>What？ Why are you sighing？</Dialog>
+          <Dialog>I like school days more. I can
+see you more often than during
+the break...</Dialog>
+          <Dialog>Yeah... But, still...</Dialog>
+          <Dialog>Ah, I know. You haven't
+finished your homework,
+right？</Dialog>
+          <Dialog>Yeah, that's one reason,
+too...</Dialog>
+          <Dialog>Geez, what a helpless guy.
+Come on. I'll help you, so
+cheer up, okay？</Dialog>
+          <Dialog>(Yay！ ...But I still don't
+want summer break to end...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1702,17 +1886,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>中秋の名月ってさ、もうそろそろ？</Dialog>
+          <Dialog>It's almost the Harvest Moon.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。ススキはもう用意したからあとはお供え物の準備しなきゃ。</Dialog>
-          <Dialog>やっぱりその辺りは▲高嶺＊＊▲の役目なんだ？</Dialog>
-          <Dialog>ううん、ママと一緒。お団子は毎年、家族で作るよ。</Dialog>
-          <Dialog>親父さんも？</Dialog>
-          <Dialog>うん。泥遊びみたいで楽しいみたい。子どもみたいでしょ。</Dialog>
-          <Dialog>ハハッ。いいな、●もやってみたい。</Dialog>
-          <Dialog>いつか、仲間入りできるといいね？</Dialog>
-          <Dialog>だな！　……ん？</Dialog>
-          <Dialog>ふふ！</Dialog>
+          <Dialog>Yeah, I already prepared some
+pampas grass. Later, I'll only
+have to prepare the offerings.</Dialog>
+          <Dialog>So you're the one in charge of
+the offerings,
+▲高嶺＊＊▲？</Dialog>
+          <Dialog>Well, every year, Mama and I
+make sweet dumplings together.</Dialog>
+          <Dialog>How about your father？</Dialog>
+          <Dialog>He joins us too. I think he
+kind of likes it. He's like a
+kid sometimes.</Dialog>
+          <Dialog>Hahaha. That's good. I want to
+join in, too.</Dialog>
+          <Dialog>It'd be nice if you become a
+part of my family...</Dialog>
+          <Dialog>Right！ ...What！？</Dialog>
+          <Dialog>Hehe！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1795,16 +1988,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえばさ、衣替えしたんだな。</Dialog>
+          <Dialog>It's time to change our
+uniforms again.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。やっぱりいいな、冬服。</Dialog>
-          <Dialog>うん、似合うよな。</Dialog>
-          <Dialog>……お世辞を頂戴しても何も出ませんよ？</Dialog>
-          <Dialog>お世辞じゃないから何もいりません♪</Dialog>
-          <Dialog>……もう！　そうやって、すぐ人のことからかって。</Dialog>
-          <Dialog>▲高嶺＊＊▲、真っ赤。カワイイ。</Dialog>
-          <Dialog>……知らないっ。</Dialog>
-          <Dialog>（ホント、▲高嶺＊＊▲は反応が素直でいいなあ）</Dialog>
+          <Dialog>Yeah. I really like the winter
+uniform.</Dialog>
+          <Dialog>Um, you look good in it.</Dialog>
+          <Dialog>...Even if you try to flatter
+me, I don't have anything for
+you.</Dialog>
+          <Dialog>It's not flattery and I don't
+want anything♪</Dialog>
+          <Dialog>...Hey. You're just making fun
+of me.</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+Your face is all red. So cute.</Dialog>
+          <Dialog>...I don't care！</Dialog>
+          <Dialog>(Really. It's nice that
+▲高嶺＊＊▲
+gets shy easily like this.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1906,18 +2108,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そろそろ文化祭だな。</Dialog>
+          <Dialog>It's almost the culture
+festival.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。みんな、テンション上がっててなかなか作業が進まないんだけど本当に、準備終わるのかな……。</Dialog>
-          <Dialog>それは神のみぞ知る。</Dialog>
-          <Dialog>ふふっ、そうかも。ねぇ、時間って取れそうかな。</Dialog>
-          <Dialog>取れる、つーか取る！　一緒にいろいろ見て回ろうな。オバケ屋敷とか。オバケ屋敷とか。</Dialog>
-          <Dialog>いいけど……どうして２回言ったの？</Dialog>
-          <Dialog>あー、いや。いいなぁと思って、オバケ屋敷。</Dialog>
-          <Dialog>……残念でした。</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>わたし、そっち方面は平気のへっちゃらなの。ヘンなこと期待してもムダなんだから。</Dialog>
-          <Dialog>（……これは素なのか？　それとも強がり？）</Dialog>
+          <Dialog>Yeah. Everyone is so excited
+about it. I wonder if we can
+get all the preparation done
+in time.</Dialog>
+          <Dialog>Who knows.</Dialog>
+          <Dialog>Hehe. I guess so. Hey, you'll
+have some free time, right？</Dialog>
+          <Dialog>Of course！ Let's go around
+the festival together. We can
+go to the haunted house, and
+then the haunted house.</Dialog>
+          <Dialog>Fine... But why did you
+mention it twice？</Dialog>
+          <Dialog>Ah, no... I just thought that
+it would be good to go to the
+haunted house...</Dialog>
+          <Dialog>...Too bad.</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>I'm quite cool with it. I
+won't get scared. If you've
+planned something, it's
+probably useless.</Dialog>
+          <Dialog>(...Is it true or is she just
+bluffing？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2018,17 +2235,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そろそろスキーのシーズンだな。</Dialog>
+          <Dialog>It's almost skiing season.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>スキー……。</Dialog>
-          <Dialog>ひょっとして、苦手？</Dialog>
-          <Dialog>うん、実は……。あんまり。どうしても腰が引けちゃって。</Dialog>
-          <Dialog>▲高嶺＊＊▲にも不得手なものがあるんだな……。</Dialog>
-          <Dialog>当たり前でしょう？　……カンペキな人なんて、いないよ。</Dialog>
-          <Dialog>あーっ、カンペキなほうがいいとかじゃなくてさ！　そういう弱点とか、見せてもらったほうが●としてはうれしいって言うか。</Dialog>
-          <Dialog>あっ……。</Dialog>
-          <Dialog>……ごめんなさい。もし行ったら、コツとか教えてくれる？</Dialog>
-          <Dialog>もちろん！</Dialog>
+          <Dialog>Ski...</Dialog>
+          <Dialog>Are you bad at skiing？</Dialog>
+          <Dialog>Yeah... I'm not good. I keep
+falling down all the time.</Dialog>
+          <Dialog>▲高嶺＊＊▲
+also has some weak points too,
+huh？</Dialog>
+          <Dialog>Of course. No one is flawless.</Dialog>
+          <Dialog>No, I didn't mean I want you
+to be flawless. It's just that
+I'm happy to learn more about
+you.</Dialog>
+          <Dialog>Ah...</Dialog>
+          <Dialog>...I'm sorry. If we go skiing,
+will you teach me then？</Dialog>
+          <Dialog>Of course！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2100,14 +2324,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もうすぐクリスマスだな……。</Dialog>
+          <Dialog>It's almost Christmas...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。わたし、この時期の町の雰囲気、好きなの。キラキラしてて、みんなが幸せそうで……。</Dialog>
-          <Dialog>だな、確かに。</Dialog>
-          <Dialog>あなたと二人ならもっと好きになれそう。</Dialog>
-          <Dialog>うん、●も。</Dialog>
-          <Dialog>ふふっ。早く来ないかな、クリスマス。</Dialog>
-          <Dialog>（今年は、いいクリスマスにしないとな）</Dialog>
+          <Dialog>Yes. I like the atmosphere
+like this. Every place looks
+sparkling and everyone is so
+happy...</Dialog>
+          <Dialog>Yeah, you're right.</Dialog>
+          <Dialog>And being able to be with you
+makes me like it even more.</Dialog>
+          <Dialog>Yeah, me too.</Dialog>
+          <Dialog>Hehe. I can't wait for
+Christmas.</Dialog>
+          <Dialog>(I'll try to make Christmas
+this year a nice one for her.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2171,14 +2401,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もうすぐクリスマスだな。▲高嶺＊＊▲の家はパーティやるんだっけ……。</Dialog>
+          <Dialog>It's almost Christmas. You
+said before that you'd have a
+party at your house, right,
+▲高嶺＊＊▲？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。でも、今年は始まりが遅いから大丈夫。</Dialog>
-          <Dialog>どうして？</Dialog>
-          <Dialog>……ちょっと、がんばっちゃった。</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>ううん！　楽しみだね、クリスマス。</Dialog>
-          <Dialog>（今年は、いいクリスマスにしないとな）</Dialog>
+          <Dialog>Yeah. But the party will start
+very late this year, so it's
+fine.</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>...I just tried my best,
+that's why.</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>Never mind！ I can't wait for
+Christmas.</Dialog>
+          <Dialog>(I'll try to make Christmas
+this year a nice one for her.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2245,13 +2483,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もうすぐクリスマスだな……。</Dialog>
+          <Dialog>It's almost Christmas...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。前から、雰囲気は好きだったんだけどどこか、人ごとだったのに……不思議だね？</Dialog>
-          <Dialog>あなたが隣にいるだけで、主人公になった気分。</Dialog>
-          <Dialog>さしずめ、●が王子様で▲高嶺＊＊▲がお姫様ってとこ？</Dialog>
-          <Dialog>ふふっ。白馬の馬車で、パーティに連れ出してね？</Dialog>
-          <Dialog>（今年は、いいクリスマスにしないとな）</Dialog>
+          <Dialog>Yes. Last time, I said that I
+loved the atmosphere, right？
+This is just so amazing.</Dialog>
+          <Dialog>When I have you by my side, I
+feel like I'm a heroine.</Dialog>
+          <Dialog>So now, I'm your prince, and
+▲高嶺＊＊▲
+is my princess, okay？</Dialog>
+          <Dialog>Hehe. Will you take me to the
+party by a carriage with white
+horses？</Dialog>
+          <Dialog>(I'll try to make Christmas
+this year a nice one for her.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2455,31 +2701,56 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もう年末か……今年は色々あったな。</Dialog>
+          <Dialog>KIt's almost the end of the
+year... A lot of things
+happened this year, huh？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん……そうだね。</Dialog>
-          <Dialog>▲高嶺＊＊▲はさ、何が一番思い出に残ってる？</Dialog>
-          <Dialog>それは、やっぱりあのことだと思うけど？</Dialog>
-          <Dialog>付き合い始めたこと？</Dialog>
-          <Dialog>初めてキスしたこと？</Dialog>
-          <Dialog>なんだっけ？</Dialog>
-          <Dialog>やっぱり、付き合い始めたことだよな、●らの今年の重大ニュースは。</Dialog>
-          <Dialog>うん。今でもちょっと信じられない気がするもの。</Dialog>
-          <Dialog>ん？　何が？</Dialog>
-          <Dialog>あなたと並んで、こんな話をしてるってこと。少し前まで、友だちですらなかったのに……。</Dialog>
-          <Dialog>今は、偶然の神様に感謝してる。……これからも、よろしくね？</Dialog>
-          <Dialog>こちらこそ！</Dialog>
-          <Dialog>やっぱり……初めてキスしたこと、とか？</Dialog>
-          <Dialog>……うん。ファーストキスって特別って言うけど、本当にそうなりそう。</Dialog>
-          <Dialog>うん、●も……。ん？　どした？</Dialog>
-          <Dialog>……見ないで。思い出すと、やっぱり恥ずかしい……。</Dialog>
-          <Dialog>（何か、一生こんな感じになりそうだ。ていうか、こっちまで照れる……）</Dialog>
-          <Dialog>ん？　なんだっけ？</Dialog>
-          <Dialog>それは、ほら……。</Dialog>
-          <Dialog>……その顔、わかってるでしょう？</Dialog>
-          <Dialog>本当にわかんないんだって。</Dialog>
-          <Dialog>もう、いいです。……鈍感なんだから。</Dialog>
-          <Dialog>（そんなこと言われても……）</Dialog>
+          <Dialog>Yeah... Right.</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+What was the most memorable
+thing for you？</Dialog>
+          <Dialog>That's... Of course, it's that
+thing...</Dialog>
+          <Dialog>Our first date？</Dialog>
+          <Dialog>Our first kiss？</Dialog>
+          <Dialog>What is it？</Dialog>
+          <Dialog>It must be our first date,
+right？ It became the big news
+of the year.</Dialog>
+          <Dialog>Yes. I still can't believe it
+even now.</Dialog>
+          <Dialog>Huh？ What？</Dialog>
+          <Dialog>That you and I are talking to
+each other like this. Just a
+while ago, we were still just
+friends...</Dialog>
+          <Dialog>I'm very grateful to God for
+giving me this chance.
+...Please continue to treat me
+well.</Dialog>
+          <Dialog>Likewise！</Dialog>
+          <Dialog>It must be... our first kiss,
+right？</Dialog>
+          <Dialog>...Yeah. People say that first
+kiss is something special. And
+it really is.</Dialog>
+          <Dialog>For me too... Huh？ What's
+wrong？</Dialog>
+          <Dialog>...Don't look. When I think of
+it, I feel really
+embarrassed...</Dialog>
+          <Dialog>(It only happens once in our
+lifetime. Now even I feel
+embarrassed...)</Dialog>
+          <Dialog>Huh？ What is it？</Dialog>
+          <Dialog>It's... Hey...</Dialog>
+          <Dialog>...Look at you. You knew it,
+right？</Dialog>
+          <Dialog>I really don't know.</Dialog>
+          <Dialog>Enough already. ...You're just
+so stupid.</Dialog>
+          <Dialog>(You don't have to say
+that...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2562,16 +2833,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もう年末か……今年も色々あったな。</Dialog>
+          <Dialog>It's the end of the year. Many
+things have happened, eh？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。来年もよろしくね？</Dialog>
-          <Dialog>こちらこそ！</Dialog>
-          <Dialog>……ふふっ。</Dialog>
-          <Dialog>ん？　なに？</Dialog>
-          <Dialog>何となくなんだけどね？　来年も同じ会話をしてそうだなって。</Dialog>
-          <Dialog>ハハッ、そうかもな。来年の抱負を語っちゃったりしてな？</Dialog>
-          <Dialog>それ、賛成。じゃあ、このあとそうしよう？</Dialog>
-          <Dialog>（うん、こういうのっていいな）</Dialog>
+          <Dialog>Yeah. Please be nice to me
+next year too, okay？</Dialog>
+          <Dialog>Likewise！</Dialog>
+          <Dialog>...Hehe.</Dialog>
+          <Dialog>Huh？ What？</Dialog>
+          <Dialog>Somehow, I feel like we might
+just repeat this conversation
+next year too.</Dialog>
+          <Dialog>Haha. I guess so. Maybe we
+should talk about our plans
+for the next New Year's.</Dialog>
+          <Dialog>I agree. So, let's think about
+it.</Dialog>
+          <Dialog>(Um, it's very nice like
+this.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2640,14 +2919,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もうすぐ春だなー。</Dialog>
+          <Dialog>It's almost spring.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>梅の花が香ってきたりすると、そんな風に思うよね？</Dialog>
-          <Dialog>あとは八百屋さんでタケノコとか、菜の花を見かけたり。</Dialog>
-          <Dialog>なるほどな。そういう季節の感じ方もいいな。</Dialog>
-          <Dialog>でしょう？　季節に合ったお料理を考えるのも楽しいし。</Dialog>
-          <Dialog>今度、土佐煮作ろうかな。</Dialog>
-          <Dialog>（いいなあ。あー、何か腹減ってきた）</Dialog>
+          <Dialog>We'll start to smell the
+flower's fragrances in the
+wind, right？</Dialog>
+          <Dialog>And then the grocers will go
+out to find bamboo shoots and
+stuff.</Dialog>
+          <Dialog>Yeah, it's this time of year.
+Such a nice season.</Dialog>
+          <Dialog>Right. It's also fun to think
+about menus to match the
+seasons.</Dialog>
+          <Dialog>Maybe I'll try cooking a
+bamboo shoot dish later.</Dialog>
+          <Dialog>(Sounds nice. Ah, now I'm
+getting hungry...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2720,14 +3008,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ずいぶんあったかくなったよなあ。</Dialog>
+          <Dialog>It's getting warmer now.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふっ、春って感じだよね？</Dialog>
-          <Dialog>あっ、そうだ。帰りに、イチゴ買わなくちゃ。</Dialog>
-          <Dialog>▲高嶺＊＊▲はイチゴ好きなんだっけ？</Dialog>
-          <Dialog>大好き▼ジャムにしたり、ふわふわのムースを作ったり、とにかくたくさん食べちゃう。</Dialog>
-          <Dialog>この時期、高嶺家はイチゴ地獄なの。ふふ▼</Dialog>
-          <Dialog>（普通は天国なんじゃ……それだけ凄いってことか？）</Dialog>
+          <Dialog>Hehe. The feeling of spring,
+eh？</Dialog>
+          <Dialog>Ah, right. I have to buy some
+strawberries on the way home.</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+do you like strawberries？</Dialog>
+          <Dialog>Love them▼ I can make jam, or
+fluffy mousse, or a lot more.
+I can eat them all.</Dialog>
+          <Dialog>It's called "strawberry hell"
+at the Takanes during this
+season. Hehe▼</Dialog>
+          <Dialog>(Isn't it supposed to be
+"heaven"？ Somehow, this
+sounds scary...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2819,16 +3116,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>だんだん日が延びて来たなー。夏はすぐそこだ。</Dialog>
+          <Dialog>The days seems to be longer
+now. Summer is coming soon, I
+guess.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ハァ……。</Dialog>
-          <Dialog>あれ？　夏、嫌いなんだっけ？</Dialog>
-          <Dialog>ううん、そういうワケじゃないんだけど……日焼け対策が、ね？</Dialog>
-          <Dialog>わたし、日焼けすると真っ赤になっちゃうから。</Dialog>
-          <Dialog>そっか。大変だな、女の子は。</Dialog>
-          <Dialog>そうよ？　本当は、もっと早くからやらなきゃダメなくらい。</Dialog>
-          <Dialog>でもちょっとだけ羨ましい。一度でいいからこんがり焼いてみたいな。</Dialog>
-          <Dialog>（確かに、ちょっと見てみたいかも）</Dialog>
+          <Dialog>Ah...</Dialog>
+          <Dialog>Eh？ You don't like summer？</Dialog>
+          <Dialog>No, that's not the case,
+but... I have to deal with
+sunburns.</Dialog>
+          <Dialog>When I get sunburnt, my whole
+body becomes red.</Dialog>
+          <Dialog>I see. It's not easy to be a
+girl.</Dialog>
+          <Dialog>That's right. I have to plan
+ahead on how to avoid getting
+burned.</Dialog>
+          <Dialog>But I'm a bit jealous of
+others. I want to get tanned
+skin, too.</Dialog>
+          <Dialog>(And somehow, I want to see
+that.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2910,15 +3218,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もう、すっかり夏だな……。暑い。暑すぎる。</Dialog>
+          <Dialog>It's summer already... It's
+hot. Too hot.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>その調子じゃ、クーラー手放せない感じだね？　体調、悪くしちゃうよ？</Dialog>
-          <Dialog>ん？　▲高嶺＊＊▲、クーラーつけない派？</Dialog>
-          <Dialog>つけるのは、寝苦しいとき、くらいかな？　あまり好きじゃないの。</Dialog>
-          <Dialog>扇風機は？</Dialog>
-          <Dialog>好き。あーってするのも好き。</Dialog>
-          <Dialog>わーれーわーれーはーって毎年やっちゃうの。ふふ。</Dialog>
-          <Dialog>（こういうオチャメな面を知ってるのって●くらいだよな、きっと！）</Dialog>
+          <Dialog>Do you want to be in an
+air-conditioned room all day？
+That's not good for your
+health.</Dialog>
+          <Dialog>Huh？ So, you don't have air
+conditioning at home,
+▲高嶺＊＊▲？</Dialog>
+          <Dialog>I do, but I only use it at
+night. I don't quite like it.</Dialog>
+          <Dialog>How about an electric fan？</Dialog>
+          <Dialog>I like it. I like to say
+"Aaaaa" in front of it.</Dialog>
+          <Dialog>"Waa ree waa ree waaaa" like
+this. I do this every year.</Dialog>
+          <Dialog>(I bet I'm the only one who
+knows she does something like
+that！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3005,16 +3324,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>最近さ、ずいぶん空が高くなってきたな。</Dialog>
+          <Dialog>Lately, the sky has become
+higher.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>雲の形も変わってきたし秋はすぐそこ、だね？</Dialog>
-          <Dialog>だなー。ところで▲高嶺＊＊▲的、秋のオススメはズバリ何？</Dialog>
-          <Dialog>ふふっ、ズバリ？　ズバリ、音楽かな。聴くのも、ピアノを弾くのも……わたしは好きよ、この時期。</Dialog>
-          <Dialog>芸術方面か。食欲方面じゃないんだ。</Dialog>
-          <Dialog>もう、人を食いしん坊みたいに……。</Dialog>
-          <Dialog>あれ？　違ったっけ？</Dialog>
-          <Dialog>……どうせ、わたしは地味で食いしん坊です。</Dialog>
-          <Dialog>（地味はどっから!?）</Dialog>
+          <Dialog>The clouds are also changing
+their shapes. It's almost
+fall, right？</Dialog>
+          <Dialog>Yeah. By the way, what do you
+like most in fall,
+▲高嶺＊＊▲？</Dialog>
+          <Dialog>Hehe. What I like most？ I
+like music, I guess. Fall is
+the best time to listen or to
+play the piano.</Dialog>
+          <Dialog>You chose music, not food,
+eh？</Dialog>
+          <Dialog>Hey, don't make me look like a
+glutton...</Dialog>
+          <Dialog>Eh？ You aren't？</Dialog>
+          <Dialog>...Anyway, I'm just a moderate
+glutton.</Dialog>
+          <Dialog>(Which part is moderate！？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3078,14 +3408,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>日が暮れるのが早くなったよな……すっかり秋だ。</Dialog>
+          <Dialog>It's getting dark quite early.
+It's fall already, eh？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>過ごしやすいし、美味しいものも多いし。いいよね、今の時期って。</Dialog>
-          <Dialog>秋と言えば、ナスにキノコにサンマにお芋……。</Dialog>
-          <Dialog>梨とブドウ、あと銀杏！　柿と栗も忘れずに▼</Dialog>
-          <Dialog>食欲の秋、バンザイ！</Dialog>
-          <Dialog>ふふっ。あなたも食いしん坊の仲間入り、だね？</Dialog>
-          <Dialog>（食いしん坊、バンザ……ん？）</Dialog>
+          <Dialog>It's a peaceful season. Food
+is delicious during this
+season too. So nice.</Dialog>
+          <Dialog>Fall makes me think of
+eggplants, mushrooms, pikes,
+potatoes...</Dialog>
+          <Dialog>Don't forget pears, grapes,
+ginkgos, persimmons, and
+chestnuts▼</Dialog>
+          <Dialog>Fall, the season for eating.
+Hooray！</Dialog>
+          <Dialog>Hehe. So you've become a
+glutton now, right？</Dialog>
+          <Dialog>(I'm a glutton, eh？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3162,14 +3501,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ずいぶん寒くなってきたなー。</Dialog>
+          <Dialog>It's getting cold.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>もっと寒くならないかな。コートが着られるくらい。</Dialog>
-          <Dialog>▲高嶺＊＊▲、寒いの平気なんだっけ。</Dialog>
-          <Dialog>うん、割と平気よ？</Dialog>
-          <Dialog>暑いときと違って、厚着すればするほど暖かくなるから。</Dialog>
-          <Dialog>たまに、家の中でコート着たりして怒られちゃうの。暖房つけなさいって。ふふ！</Dialog>
-          <Dialog>（割と省エネ派だよな、▲高嶺＊＊▲って）</Dialog>
+          <Dialog>Will it get colder？ If it
+does, I'll have to wear my
+coat.</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+are you okay with cold
+weather？</Dialog>
+          <Dialog>Yeah, relatively okay.</Dialog>
+          <Dialog>It's different from hot
+weather. As long as I'm
+wearing enough clothes, I can
+stay warm.</Dialog>
+          <Dialog>Sometimes I keep wearing coat
+in the house and my parents
+are like "Just turn on the
+heat！" Hehe！</Dialog>
+          <Dialog>(So,
+▲高嶺＊＊▲
+is quite concerned about
+energy conservation, eh？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3233,14 +3585,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うー、寒……さすが、真冬だ。</Dialog>
+          <Dialog>Urgh, so cold... As expected
+of winter.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>毎日、お鍋でもいいなあ。体が暖まって。</Dialog>
-          <Dialog>いいねぇ。そのあとはコタツでミカン食べたりして。</Dialog>
-          <Dialog>おこたの定番はアイスクリームだと思うな。</Dialog>
-          <Dialog>まあ、ウマいけどさ。旬のものって考えたらやっぱミカンでしょ。</Dialog>
-          <Dialog>!!　うー……。</Dialog>
-          <Dialog>（いま気がついたのか……）</Dialog>
+          <Dialog>It'd be good if we could eat
+hot pot every day to keep
+ourselves warm.</Dialog>
+          <Dialog>Yeah. And then get under a
+kotatsu table and eat some
+oranges.</Dialog>
+          <Dialog>Or you can have some ice cream
+too.</Dialog>
+          <Dialog>Nah, thinking about the
+season, oranges are way
+better.</Dialog>
+          <Dialog>！！　Urgh...</Dialog>
+          <Dialog>(What was that just now...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

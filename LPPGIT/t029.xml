@@ -133,24 +133,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲って、いつもどんなテレビ観てる？</Dialog>
-          <Dialog>テレビ？　どうして？</Dialog>
-          <Dialog>▲高嶺＊＊▲って、フツーの子が観る番組は見ないような気がして。</Dialog>
-          <Dialog>……普通です。</Dialog>
-          <Dialog>そうだよな、ゴメン。
-じゃあやっぱ、バラエティとか
-ドラマとか？</Dialog>
-          <Dialog>そういうのは、うちは、禁止だけど……。</Dialog>
-          <Dialog>禁止っ!?</Dialog>
-          <Dialog>父が嫌いだから。おかしい、かな？</Dialog>
-          <Dialog>いや、まあ……どうだろ？　じゃあさ、ニュースとかドキュメントとかだけ？</Dialog>
-          <Dialog>他にも、いろいろ観るよ？　クイズとか、お相撲とか。</Dialog>
-          <Dialog>（相撲……）</Dialog>
-          <Dialog>あの……おかしい、かな？</Dialog>
-          <Dialog>（局が偏ってるような気も……）</Dialog>
+          <Dialog>Hmm？ What？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+What kinds of TV programs do
+you usually watch？</Dialog>
+          <Dialog>TV？ Why？</Dialog>
+          <Dialog>▲高嶺＊＊▲
+might not watch what other
+girls like to watch... That's
+what I think.</Dialog>
+          <Dialog>...I watch what others watch.</Dialog>
+          <Dialog>I see. I'm sorry. Then you
+watch variety shows or drama,
+something like that？</Dialog>
+          <Dialog>Those things are banned at my
+house...</Dialog>
+          <Dialog>Banned！？</Dialog>
+          <Dialog>My dad doesn't like them. Is
+this weird？</Dialog>
+          <Dialog>No... But then do you only
+watch the news and
+documentaries？</Dialog>
+          <Dialog>I also watch other programs
+like quiz shows and sumo.</Dialog>
+          <Dialog>(Sumo...？)</Dialog>
+          <Dialog>Um... Is that weird？</Dialog>
+          <Dialog>(It's just unexpected...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -277,21 +287,38 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>どんな食べ物が好き？　好き嫌いとかさ？</Dialog>
-          <Dialog>好き嫌い？　特に、無いけど。</Dialog>
-          <Dialog>そうか。でも、子供の頃はあったろ？　シイタケ嫌いとかさ？</Dialog>
-          <Dialog>あったかな……あ、バニラのアイス！</Dialog>
-          <Dialog>バニラアイス？　なんで？</Dialog>
-          <Dialog>大きなカップがあるでしょ？　あれが大好きだったの。小学生の頃……。</Dialog>
-          <Dialog>いくらとめられても、我慢できなくて、お留守番してるとき、こっそり独りで全部食べちゃったの。</Dialog>
-          <Dialog>独りで全部!?</Dialog>
-          <Dialog>そうなの。それで、お腹こわして、ママからもすごく叱られて。しばらく大っ嫌いになって。</Dialog>
-          <Dialog>なるほどね……。</Dialog>
-          <Dialog>今は、平気よ？</Dialog>
-          <Dialog>（▲高嶺＊＊▲って、結構、溺れやすいタイプなのかも……）</Dialog>
+          <Dialog>Hmm？ What？</Dialog>
+          <Dialog>For food, do you have anything
+you like or dislike in
+particular？</Dialog>
+          <Dialog>What I like or dislike in
+particular？ I don't think
+there's anything.</Dialog>
+          <Dialog>I see. But you must've had
+some when you were a kid,
+right？ Like how some kids
+hate mushrooms.</Dialog>
+          <Dialog>Did I have one...？ Ah,
+vanilla ice cream！</Dialog>
+          <Dialog>Vanilla ice cream？ Why？</Dialog>
+          <Dialog>It came in a large cup,
+right？ I really loved it. But
+during grade school...</Dialog>
+          <Dialog>When I was home alone one day,
+I just couldn't resist it and
+ate it all by myself.</Dialog>
+          <Dialog>You ate the whole cup！？</Dialog>
+          <Dialog>Yes. And then I got a bad
+stomach ache and got scolded
+by Mama. I hated it for a
+while after that.</Dialog>
+          <Dialog>I see...</Dialog>
+          <Dialog>But, it's okay now.</Dialog>
+          <Dialog>(▲高嶺＊＊▲
+is the type that can't control
+herself, huh？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -401,18 +428,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲ってさ、テニス以外にも、スポーツとかやんの？</Dialog>
-          <Dialog>スポーツ？　うぅん……小学生の頃なら、お稽古事で、水泳教室に通ってたけど。</Dialog>
-          <Dialog>あぁ、多いよな。水泳教室行ってたやつ。どれくらい泳げる？</Dialog>
-          <Dialog>平泳ぎなら、いくらでも。遠泳もやってたから。</Dialog>
-          <Dialog>へぇ！　じゃあ、泳ぎに行ったらさ、見せてよ、平泳ぎ。</Dialog>
-          <Dialog>え？　うぅん……イヤ。</Dialog>
-          <Dialog>なんで？</Dialog>
-          <Dialog>だって、恥ずかしいもの、平泳ぎのカッコって。ちょっとカエルみたいで……。</Dialog>
-          <Dialog>そんなもんかね？</Dialog>
+          <Dialog>Hmm？ What？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+Besides tennis, what other
+sports do you play？</Dialog>
+          <Dialog>Sports？ Um, during grade
+school, I attended swimming
+class.</Dialog>
+          <Dialog>Ah, many kids go to swimming
+class. How well can you swim？</Dialog>
+          <Dialog>If it's breaststroke, I can
+keep on swimming forever.</Dialog>
+          <Dialog>Hah！？ Then I want to watch
+you swim next time.</Dialog>
+          <Dialog>Eh？ No... You can't.</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>Because it's too embarrassing.
+When I do breaststroke, I look
+like a frog...</Dialog>
+          <Dialog>Is that so...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -552,22 +588,35 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲ってさ、どんな音楽が好き？</Dialog>
-          <Dialog>音楽？　ピアノコンツェルトかな。</Dialog>
-          <Dialog>こんちぇる……へ、へぇ……。</Dialog>
-          <Dialog>えぇと、ピアノ曲が好きよ。習ってるから。</Dialog>
-          <Dialog>あぁ、なるほど、そっか。</Dialog>
-          <Dialog>……ヘン？</Dialog>
-          <Dialog>いや、ヘンじゃないけどさ。Ｊ-ＰＯＰとか、そういうのは？</Dialog>
-          <Dialog>聴くわよ、もちろん！</Dialog>
-          <Dialog>だよな！　どんなの？</Dialog>
-          <Dialog>え？　ほら、あの……テレビでよくやってる。おヒゲの男の人の、えぇと、ロックの人。</Dialog>
-          <Dialog>ヒゲ？　ん？　誰だ？</Dialog>
-          <Dialog>おヒゲは、もう剃っちゃったかな！　ほら、あの人よ。知ってるんだから。</Dialog>
-          <Dialog>（もしかして……知ったかぶり？）</Dialog>
+          <Dialog>Hmm？ What？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+What kind of music do you
+like？</Dialog>
+          <Dialog>Music？ Piano concerto, I
+guess.</Dialog>
+          <Dialog>Concer... What？</Dialog>
+          <Dialog>Um, I love piano tunes. I'm
+learning piano, too.</Dialog>
+          <Dialog>Ah, I see. I got it.</Dialog>
+          <Dialog>...Is it weird？</Dialog>
+          <Dialog>No, not weird at all. Then how
+about J-Pop？ Do you listen to
+such thing？</Dialog>
+          <Dialog>Of course, I do！</Dialog>
+          <Dialog>Right！ Which artist do you
+like？</Dialog>
+          <Dialog>Eh？ Hmm, that one you see
+often on TV. That guy with a
+mustache. The rock guy.</Dialog>
+          <Dialog>Mustache？ Who's that？</Dialog>
+          <Dialog>Maybe he already shaved his
+mustache. It's that guy. You
+know, right？</Dialog>
+          <Dialog>(Could it be that she's
+pretending to know this
+guy...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -707,19 +756,39 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲ってさ、なんか趣味もってる？　部活とか、以外でさ。</Dialog>
-          <Dialog>うん。なんだと思う？</Dialog>
-          <Dialog>えぇと……料理とかお菓子作りとか、そんな感じ？</Dialog>
-          <Dialog>……どうしてわかるの？　やっぱり、月並みかな？</Dialog>
-          <Dialog>いや、料理が趣味って女の子は多そうだけど、▲高嶺＊＊▲のは、本格的な気がする。</Dialog>
-          <Dialog>本当に？　ふふ……わたしね、子供の頃から何を習っても、中途半端で。勉強もスポーツも。</Dialog>
-          <Dialog>えぇっ!?</Dialog>
-          <Dialog>だけど、お菓子作りだけは、自信あるの。今度、味見してね？</Dialog>
-          <Dialog>なにかリクエスト、ある？　ケーキでも、生菓子でも焼き菓子でもどうぞ？　ふふっ▼</Dialog>
-          <Dialog>（中途半端。▲高嶺＊＊▲の評価基準って……だ、大丈夫か●？）</Dialog>
+          <Dialog>Hmm？ What？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+Do you have hobbies？
+Something besides tennis.</Dialog>
+          <Dialog>Yes. What do you think my
+hobby is？</Dialog>
+          <Dialog>Um... Cooking or baking,
+something like that...</Dialog>
+          <Dialog>...How did you know？ Is it
+too common？</Dialog>
+          <Dialog>No. Many girls like cooking,
+but I think
+▲高嶺＊＊▲
+would especially like it.</Dialog>
+          <Dialog>Really？ Hehe... Since I was a
+kid, I always quit things
+halfway, like for classes or
+sports.</Dialog>
+          <Dialog>Eh！？</Dialog>
+          <Dialog>But baking is the only thing
+I'm really confident with.
+Next time, I'll let you try
+it.</Dialog>
+          <Dialog>Do you have any requests？
+Cakes, Japanese sweets, or
+baked foods？ Anything's fine.
+Hehe▼</Dialog>
+          <Dialog>(But
+▲高嶺＊＊▲
+said that she always quits
+halfway... Will I be okay？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -863,21 +932,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲ってさ、好きな動物とかいる？</Dialog>
-          <Dialog>好きな動物？　うーん……ウサギかな。</Dialog>
-          <Dialog>ウサギか。どういうところが好き？</Dialog>
-          <Dialog>シッポ。
-フワフワしてるでしょ？
-それから……。</Dialog>
-          <Dialog>犬やネコと違って、呼んでもそっぽ向いてるくせに、気がつくと、すり寄って来たり。そういうところかな。</Dialog>
-          <Dialog>へぇ……それがいいんだ？</Dialog>
-          <Dialog>そうなの。もう、コイツメ！　って感じ。ふふっ▼</Dialog>
-          <Dialog>そっか。じゃあさ……。</Dialog>
-          <Dialog>それから、お口がいつもモグモグ動いてるところも。食いしん坊なの。ふふっ▼</Dialog>
-          <Dialog>（▲高嶺＊＊▲の好きな動物は、ウサギ、と……）</Dialog>
+          <Dialog>Hmm？ What？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+What are your favorite
+animals？</Dialog>
+          <Dialog>My favorite animals？ I guess
+rabbits are.</Dialog>
+          <Dialog>Rabbits？ What do you like
+about them？</Dialog>
+          <Dialog>Their tails. They're fluffy,
+right？ And...</Dialog>
+          <Dialog>Rabbits are different from
+dogs or cats. They don't come
+when I call, but they just
+appear in front of me and I
+don't notice.</Dialog>
+          <Dialog>Hmm？ That's nice, huh？</Dialog>
+          <Dialog>Yes. They're just so cute.
+Hehe▼</Dialog>
+          <Dialog>I see. Then...</Dialog>
+          <Dialog>And then their mouths look
+like they're munching
+something all the time. Such a
+glutton. Hehe▼</Dialog>
+          <Dialog>(▲高嶺＊＊▲'s
+favorite animals are the
+rabbits then...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1061,24 +1143,52 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>前に聞いたかもしれないけどさ、▲高嶺＊＊▲は、病院の跡を継ぐんだっけ？</Dialog>
-          <Dialog>たぶん……。</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>子供の頃はね？　ケーキ屋さんになりたかった。</Dialog>
-          <Dialog>ケーキ屋さん？</Dialog>
-          <Dialog>病院には、みんな辛そうな顔をしてくるでしょ？　でも、ケーキ屋さんのお客は、みんなニコニコして、楽しそう。</Dialog>
-          <Dialog>だから、子供の頃は、いいな、お医者よりケーキ屋さんになりたいなって、いつも思ってた。</Dialog>
-          <Dialog>そっか……でも、医者だってさ、大事な仕事だろ？　●に言われなくても知ってるだろうけど。</Dialog>
-          <Dialog>もちろん。生命を守る一番大切な仕事だって最近まで、ずっと思ってた。</Dialog>
-          <Dialog>でも、今は……大切な人から、愛花がいて、幸せだよって思ってもらえれば、いい。その人を幸せにしたい。</Dialog>
-          <Dialog>▲高嶺＊＊▲……。</Dialog>
-          <Dialog>わたしね、きっと、ダメな娘なの。自分のことばっかりなの。</Dialog>
-          <Dialog>そんな風に考えられる▲高嶺＊＊▲は、やっぱり、すごいよ。●は、そう思う。</Dialog>
-          <Dialog>ううん……でも、ありがとう。あなたがそう言ってくれるなら、わたし……ううん、いいの。</Dialog>
-          <Dialog>（大切な人を幸せに……か。●も、ちゃんと将来のこと、考えなきゃな）</Dialog>
+          <Dialog>Hmm？ What？</Dialog>
+          <Dialog>I might have asked you this
+before, but
+▲高嶺＊＊▲
+has to be the successor to a
+hospital, right？</Dialog>
+          <Dialog>I guess...</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>When I was a child, I wanted
+to own a bakery shop.</Dialog>
+          <Dialog>Bakery？</Dialog>
+          <Dialog>Everyone in a hospital looks
+so sad, right？ But everyone
+in a bakery shop looks so
+happy.</Dialog>
+          <Dialog>As a child, I always thought
+that it would be better to be
+a baker rather than a doctor.</Dialog>
+          <Dialog>I see... But doctors have such
+a valuable occupation. I don't
+think you need me to remind
+you that.</Dialog>
+          <Dialog>Of course. Doctors save lives.
+I know that it's a valuable
+occupation.</Dialog>
+          <Dialog>But now... I only want to make
+someone I love think that he's
+happy to have me by his side.
+I just want to make him happy.</Dialog>
+          <Dialog>▲高嶺＊＊▲...</Dialog>
+          <Dialog>I'm such a terrible daughter.
+I only think about myself.</Dialog>
+          <Dialog>No, I really admire you for
+your thoughts.
+▲高嶺＊＊▲
+is such a nice person. That's
+what I think.</Dialog>
+          <Dialog>No, I'm not... But thank you.
+If you said that, I... No,
+never mind.</Dialog>
+          <Dialog>(She wants to make someone she
+loves happy... I'll also have
+to be more serious about my
+future.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1207,19 +1317,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲の将来の夢ってどんなの？</Dialog>
-          <Dialog>将来の夢……夢とは違うかもしれないけど。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>親が開業医でしょ？　だから、やっぱり跡を継がないと。ひとり娘だもん。</Dialog>
-          <Dialog>医者か……▲高嶺＊＊▲なら、なれそうだな、うん。</Dialog>
-          <Dialog>そうかな。どうして？</Dialog>
-          <Dialog>だってさ、アタマいいし、真面目だし、誰にでも優しいしさ。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>わたし、そんなにいい子じゃない。本当は……本当はね、ずるい事ばっかり考えてる。</Dialog>
-          <Dialog>▲高嶺＊＊▲……。</Dialog>
+          <Dialog>Hmm？ What？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+What are your dreams for your
+future？</Dialog>
+          <Dialog>My dreams and my future are
+probably totally different.</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>My parents run a hospital,
+right？ So, I'll have to take
+care of it. I'm their only
+child.</Dialog>
+          <Dialog>So, you'll be a doctor？ I
+know you can do it,
+▲高嶺＊＊▲.</Dialog>
+          <Dialog>Really？ Why？</Dialog>
+          <Dialog>Because you're smart,
+diligent, and gentle to
+everyone.</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>I'm not that great of a
+person. Actually... Actually,
+I've also been thinking about
+many bad things.</Dialog>
+          <Dialog>▲高嶺＊＊▲...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1333,18 +1456,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲には、憧れる女の人っている？</Dialog>
-          <Dialog>憧れるのは……やっぱり、ナイチンゲールかな。</Dialog>
-          <Dialog>ナイチンゲールって、“白衣の天使”の母、みたいな人だよな？</Dialog>
-          <Dialog>そう。でもね、博愛精神だけじゃなくて、すごく合理的で、理知的で、鉄の信念を持った厳しい人。</Dialog>
-          <Dialog>そうか……▲高嶺＊＊▲は、そういう人になりたいんだ？</Dialog>
-          <Dialog>少し前までは……でも、最近、ちょっとわからなくなっちゃった。</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>わたしね、自分がそんな特別な人じゃないって、気づいたから。普通の、女の子なんだって。</Dialog>
-          <Dialog>（▲高嶺＊＊▲……）</Dialog>
+          <Dialog>Hmm？ What？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+Do you have a role model？</Dialog>
+          <Dialog>A role model...？ Yeah,
+Nightingale, I think.</Dialog>
+          <Dialog>Nightingale... You mean like,
+"the angel in the white
+robe"？</Dialog>
+          <Dialog>Yeah. Not only does she have a
+kind heart, she is also
+reasonable and knowledgeable.
+And she has faith too.</Dialog>
+          <Dialog>I see...
+▲高嶺＊＊▲,
+you want to be like her, huh？</Dialog>
+          <Dialog>I used to... But now, I don't
+know anymore.</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>I've just realized that I'm
+not that special. I'm just an
+ordinary girl.</Dialog>
+          <Dialog>(▲高嶺＊＊▲...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1483,20 +1618,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲にも、女の人で憧れる人っている？</Dialog>
-          <Dialog>うん、たくさん。</Dialog>
-          <Dialog>そっか、例えばどんな人？</Dialog>
-          <Dialog>うーん……一番身近なのは、やっぱりママかな。</Dialog>
-          <Dialog>へぇ……女の子ってさ、みんなそういうもんかな？</Dialog>
-          <Dialog>そうかも。でもね、うちのママは本当に凄いんだから。</Dialog>
-          <Dialog>お料理も美味しいし。疲れてるときでも、いつもニコニコして。ときどき、叱られるけど。</Dialog>
-          <Dialog>ママが風邪をひいて、寝てたりすると、家の中が暗くなっちゃうみたい。</Dialog>
-          <Dialog>ママみたいなお母さんに、わたしもなりたいな、なんて……。</Dialog>
-          <Dialog>やだ、なんだかわたし、小さい子みたいね？　恥ずかしい。</Dialog>
-          <Dialog>（そっか。きっと、▲高嶺＊＊▲みたいな人なんだろうな）</Dialog>
+          <Dialog>Hmm？ What？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+Do you have any role models？</Dialog>
+          <Dialog>Yes, many.</Dialog>
+          <Dialog>I see. Like who？</Dialog>
+          <Dialog>Um... The closest one to me is
+my Mama.</Dialog>
+          <Dialog>Hmm... It's pretty common for
+all girls, I guess.</Dialog>
+          <Dialog>Perhaps. But, my Mama is
+really amazing.</Dialog>
+          <Dialog>She can cook delicious meals
+and keep smiling no matter how
+tired she is. Though
+sometimes, she would scold me.</Dialog>
+          <Dialog>Whenever Mama catches a cold
+and has to rest, my house
+becomes all gloomy.</Dialog>
+          <Dialog>I want to become a mother just
+like my Mama... I guess.</Dialog>
+          <Dialog>No, what am I saying？ I sound
+like a little kid now. This is
+embarrassing.</Dialog>
+          <Dialog>(Hmm, I'm sure
+▲高嶺＊＊▲
+can become like her mother...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1656,21 +1805,40 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲にも、女の人で憧れる人っている？</Dialog>
-          <Dialog>もちろん。</Dialog>
-          <Dialog>そっか、どんな人？</Dialog>
-          <Dialog>昔からうちでお世話になってるケーキ屋さんが近所にあるの。そのお店の、店長さん。</Dialog>
-          <Dialog>その人はね、わたし達くらいの頃、独りでフランスに行って、修行をしてきたんだって。</Dialog>
-          <Dialog>そりゃ、すごいな……。</Dialog>
-          <Dialog>でしょ？　自分と比べると、どうしてそんなこと出来るんだろうって。勇気あるな、って。</Dialog>
-          <Dialog>きっとね、家族の反対とか、言葉の不安が……。</Dialog>
-          <Dialog>それでも、どうしてもやりたいことがあるなんて、素敵だと思う。</Dialog>
-          <Dialog>なるほど、▲高嶺＊＊▲の理想像なんだな？</Dialog>
-          <Dialog>うん。わたしがお菓子作りをはじめたのもね、その人のマネ。……バレちゃった。</Dialog>
-          <Dialog>（フランス修行……●にも出来るだろうか？　……いや、出来ないな）</Dialog>
+          <Dialog>Hmm？ What？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+Do you have any role models？</Dialog>
+          <Dialog>Of course.</Dialog>
+          <Dialog>I see. Like who？</Dialog>
+          <Dialog>Long ago, my neighbor opened a
+bakery. It's that bakery's
+manager.</Dialog>
+          <Dialog>That manager went alone to
+France when she was about our
+age to pursue her dream.</Dialog>
+          <Dialog>Wow, that's amazing...</Dialog>
+          <Dialog>Right？ When I compare myself
+to her, I don't know if I
+could do that, or if I even
+have the courage to do so.</Dialog>
+          <Dialog>My family would object. And I
+would have to deal with a
+language barrier...</Dialog>
+          <Dialog>It's just so amazing that she
+knew what she wanted and that
+she went for it.</Dialog>
+          <Dialog>I see. She's like the ideal
+person for
+▲高嶺＊＊▲,
+right？</Dialog>
+          <Dialog>Yeah, when I baked my first
+cake, I just imitated her...
+Now you know my secret...</Dialog>
+          <Dialog>(Going to France alone？ Could
+I also do that？ ...Nah, I
+don't think so.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1825,24 +1993,35 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲ってどんな映画が好き？</Dialog>
-          <Dialog>映画？　そう、ね……。</Dialog>
-          <Dialog>もしかして、歴史の記録映画とか？</Dialog>
-          <Dialog>……いけない？</Dialog>
-          <Dialog>えっ……当り!?</Dialog>
-          <Dialog>違います。わたしが好きなのは……いい。言わない。</Dialog>
-          <Dialog>なになに？</Dialog>
-          <Dialog>笑わない？</Dialog>
-          <Dialog>もちろん！</Dialog>
-          <Dialog>好きなのは、シンデレラとか、白雪姫とか、そういう……。</Dialog>
-          <Dialog>お姫様と王子様……みたいな？</Dialog>
-          <Dialog>うん、だって、やっぱり素敵だし、ちゃんとハッピーエンドで……。</Dialog>
-          <Dialog>……？</Dialog>
-          <Dialog>いま笑った……もう、だからイヤだったの！　嘘つき！</Dialog>
-          <Dialog>（ごめん……）</Dialog>
+          <Dialog>Hmm？ What？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+What kinds of movies do you
+like？</Dialog>
+          <Dialog>Movies？ Well... Um...</Dialog>
+          <Dialog>Do you like historical
+documentaries or something
+like that？</Dialog>
+          <Dialog>...Is that no good？</Dialog>
+          <Dialog>So I was right, huh？</Dialog>
+          <Dialog>You're wrong. What I like...
+No, I can't tell you.</Dialog>
+          <Dialog>What is it？</Dialog>
+          <Dialog>Don't laugh, okay？</Dialog>
+          <Dialog>I won't！</Dialog>
+          <Dialog>I like Cinderella and Snow
+White... Those kinds of
+movies...</Dialog>
+          <Dialog>With a prince and a princess？</Dialog>
+          <Dialog>Yeah, because it's really
+wonderful to see a happy
+ending...</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>You're laughing... Geez, I
+shouldn't have told you！ You
+liar！</Dialog>
+          <Dialog>(Sorry...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1948,18 +2127,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ところでさ……。</Dialog>
+          <Dialog>By the way...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。なに？</Dialog>
-          <Dialog>▲高嶺＊＊▲ってさ、本は読むほう？</Dialog>
-          <Dialog>本？　うん……最近は、あんまり読んでないかな。</Dialog>
-          <Dialog>そっか、前はどんなの読んでた？</Dialog>
-          <Dialog>シャーロック・ホームズが大好きで、他にも、少年探偵ものとか……お稽古事の行き帰りに、よく読んでたな。</Dialog>
-          <Dialog>推理小説か、ハマるよな。</Dialog>
-          <Dialog>ワトソン君、最後に残ったものが、常に真実なのだ。</Dialog>
-          <Dialog>なに、●、ワトソン君？</Dialog>
-          <Dialog>ふふっ！　楽しかったな、また読んでみようかな。</Dialog>
-          <Dialog>（▲高嶺＊＊▲、よっぽど好きだったんだろうな）</Dialog>
+          <Dialog>Hmm？ What？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+What kinds of novels do you
+like？</Dialog>
+          <Dialog>Novels？ Um... I haven't read
+much lately.</Dialog>
+          <Dialog>I see. Then how about what you
+used to read？</Dialog>
+          <Dialog>I love Sherlock Holmes, and
+then the Junior Detective
+League... I used to read a lot
+of series like that.</Dialog>
+          <Dialog>You're into mystery and
+detective novels, huh？</Dialog>
+          <Dialog>Watson, whatever remains,
+however improbable, must be
+the truth.</Dialog>
+          <Dialog>What？ So, I'm Watson now？</Dialog>
+          <Dialog>Hehe！ They were really fun.
+Maybe I'll start reading them
+again.</Dialog>
+          <Dialog>(▲高嶺＊＊▲'
+really enjoys reading
+mysteries, huh？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

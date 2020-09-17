@@ -190,11 +190,15 @@
 　　　　　　 ・
 　　　　　　 ・</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（カノジョと手を繋いで歩くのって、いいよな！）</Dialog>
-          <Dialog>別の映画を観よう</Dialog>
-          <Dialog>もうちょっと回ろう</Dialog>
-          <Dialog>どこか他の場所へ行こう</Dialog>
-          <Dialog>怒らせちゃったか。どうしよう……。</Dialog>
+          <Dialog>(It’s nice that I can hold
+hands with her！)</Dialog>
+          <Dialog>Let’s watch another
+movie</Dialog>
+          <Dialog>Let’s walk around a bit
+more</Dialog>
+          <Dialog>Lets go somewhere else</Dialog>
+          <Dialog>I made her angry. What should
+I do？...</Dialog>
           <Dialog>▲CINEMA1▲</Dialog>
           <Dialog>▲CINEMA2▲</Dialog>
           <Dialog>▲生成選択肢１▲</Dialog>
@@ -204,24 +208,26 @@
           <Dialog>▲生成選択肢５▲</Dialog>
           <Dialog>▲ライブハウス▲</Dialog>
           <Dialog>▲イベントホール▲</Dialog>
-          <Dialog>どうしたんだろ、なんか悪いことしたかな？</Dialog>
-          <Dialog>パス</Dialog>
-          <Dialog>もちろん！</Dialog>
-          <Dialog>もう１回！</Dialog>
-          <Dialog>もういいや</Dialog>
-          <Dialog>プレゼントを渡そう</Dialog>
-          <Dialog>今はいいや</Dialog>
+          <Dialog>What’s up with her？ Did I
+do something wrong？</Dialog>
+          <Dialog>Pass</Dialog>
+          <Dialog>Of course！</Dialog>
+          <Dialog>One more time！</Dialog>
+          <Dialog>Never Mind</Dialog>
+          <Dialog>Let’s give her the
+present</Dialog>
+          <Dialog>Not now</Dialog>
           <Dialog>▲生成選択肢６▲</Dialog>
-          <Dialog>キススキンシップ</Dialog>
-          <Dialog>移動</Dialog>
-          <Dialog>食事お誘い</Dialog>
-          <Dialog>カノジョの服が気になる</Dialog>
-          <Dialog>カノジョのアクセが気になる</Dialog>
-          <Dialog>カノジョの髪が気になる</Dialog>
-          <Dialog>なんでもない</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>すごく褒める</Dialog>
-          <Dialog>それとなく褒める</Dialog>
+          <Dialog>Kiss ＆ Skinship</Dialog>
+          <Dialog>Move</Dialog>
+          <Dialog>Invite to a meal</Dialog>
+          <Dialog>Ask about her clothes</Dialog>
+          <Dialog>Ask about her accessories</Dialog>
+          <Dialog>Ask about her hair</Dialog>
+          <Dialog>Nothing</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Compliment Heavily</Dialog>
+          <Dialog>Compliment subtly</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

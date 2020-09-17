@@ -180,32 +180,54 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（いけね、遅くなった！　今日は確か、女子部の練習試合だったはず……）</Dialog>
-          <Dialog>お、▲高嶺＊＊▲の試合だ！</Dialog>
-          <Dialog>なぁ、今どんな感じ？</Dialog>
+          <Dialog>(Oh no, I'm late！ The girls'
+practice match was definitely
+today...)</Dialog>
+          <Dialog>Oh, it's
+▲高嶺＊＊▲'s
+match！</Dialog>
+          <Dialog>Hey, how's the match going？</Dialog>
           <Dialog>部員Ａ</Dialog>
-          <Dialog>決まってんだろ？　高嶺の圧勝だよ。</Dialog>
-          <Dialog>決まってんのか？</Dialog>
-          <Dialog>女子部の一番手だぞ？　おまけにあの美少女キャラで、成績も常にトップクラス。</Dialog>
-          <Dialog>で、家が医者のお嬢様なんだよなぁ……。</Dialog>
-          <Dialog>へぇ、そうだったのか……やっぱり、モテるんだろうな。</Dialog>
-          <Dialog>モテるっていうか……あまりにも住む世界が違うだろ。それに、ちょっと、ほら、な？</Dialog>
-          <Dialog>なんだよ？</Dialog>
-          <Dialog>なんか固いだろ、高嶺って。言葉づかいとかさ。“近寄らないで！”ってオーラが出てるみたいな？</Dialog>
-          <Dialog>……そうか？</Dialog>
+          <Dialog>Isn't it obvious？ Takane will
+win for sure.</Dialog>
+          <Dialog>For sure？</Dialog>
+          <Dialog>She's the best in the girls'
+tennis, you know？ On top of
+that, her looks and grades are
+top of the class.</Dialog>
+          <Dialog>She's also the daughter of a
+doctor...</Dialog>
+          <Dialog>Wow, is that so...？ She's
+definitely popular.</Dialog>
+          <Dialog>Rather than popular... It's
+more like we live in separate
+worlds. I mean, you know？</Dialog>
+          <Dialog>What do you mean？</Dialog>
+          <Dialog>Takane's a bit stiff. Like,
+the way she talks. She gives
+off an aura of "Don't get
+close to me！."</Dialog>
+          <Dialog>...Is that so？</Dialog>
           <Dialog>女子部長</Dialog>
-          <Dialog>ゲームセット！　カウント３－０マッチ・ウォン・バイ高嶺！</Dialog>
-          <Dialog>お疲れ！</Dialog>
+          <Dialog>Game set！ Count 3-0. Match
+won by Takane！</Dialog>
+          <Dialog>Good work！</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>▲高嶺＊＊▲、すごいな！　圧勝だったな？</Dialog>
-          <Dialog>あの……ありがとう。でも、たまたまだから。</Dialog>
-          <Dialog>たまたまってことないだろー？　すごいよ！</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>あの……もう、行くから。</Dialog>
-          <Dialog>ああ、ゴメン……。</Dialog>
-          <Dialog>（なんか、勝った選手とは思えない浮かない顔だな……）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+you were amazing！ It was a
+complete victory, huh？</Dialog>
+          <Dialog>Um... Thank you. But, it was
+just by chance.</Dialog>
+          <Dialog>No way that was chance！ You
+were amazing！</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>Um... I'll be going.</Dialog>
+          <Dialog>Okay, sorry...</Dialog>
+          <Dialog>(You wouldn't think she's the
+winner from the look on her
+face...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -329,23 +351,39 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（部活は終了。帰るか）</Dialog>
+          <Dialog>(Club activities are over.
+Guess I'll go home.)</Dialog>
           <Dialog>部員Ａ</Dialog>
-          <Dialog>おい、お前も寄ってくだろ？　ウイニングバーガー。</Dialog>
-          <Dialog>ウイニングバーガー？　なんかあんの？</Dialog>
-          <Dialog>部活の後、ときどきみんなであそこに集まんだよ。……女子部も来るぞ？</Dialog>
-          <Dialog>よし行こう。……あ、▲高嶺＊＊▲だ。</Dialog>
+          <Dialog>Hey, you're coming too,
+right？ To Winning Burger.</Dialog>
+          <Dialog>Winning Burger？ Is there
+something going on？</Dialog>
+          <Dialog>We go there sometimes after
+practice. The girls are
+joining us too！</Dialog>
+          <Dialog>All right, let's go. Ah, it's
+▲高嶺＊＊▲.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>お先に……。</Dialog>
-          <Dialog>あれ？　▲高嶺＊＊▲、帰っちゃうぞ？</Dialog>
-          <Dialog>あぁ、彼女はいいんだよ。</Dialog>
-          <Dialog>なんでだよ、みんな集まるんだろ？　おーい、▲高嶺＊＊▲！</Dialog>
-          <Dialog>▲主人公＊▲。なに？</Dialog>
-          <Dialog>みんなで、ウイニングバーガー行くってさ。▲高嶺＊＊▲も行こう？</Dialog>
-          <Dialog>わたしは……遠慮しておこうかなみんなで楽しんで来て？</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>な？　俺らとは住む世界が違うんだよ。行こうぜ！</Dialog>
-          <Dialog>（……そうなのか？）</Dialog>
+          <Dialog>Then excuse me...</Dialog>
+          <Dialog>Huh？
+▲高嶺＊＊▲,
+is she going home？</Dialog>
+          <Dialog>Oh, she's okay. let her be...</Dialog>
+          <Dialog>Why？ We're all getting
+together, right？ Hey,
+▲高嶺＊＊▲！</Dialog>
+          <Dialog>▲主人公＊▲,
+What is it？</Dialog>
+          <Dialog>We're all going to Winning
+Burger.
+▲高嶺＊＊▲,
+won't you join us？</Dialog>
+          <Dialog>...I think I'll pass. Have fun
+with everyone.</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>See？ We live in different
+worlds. Let's go！</Dialog>
+          <Dialog>(...Is that right？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -550,31 +588,54 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（部活は終了！　さて、帰るか……あ！）</Dialog>
-          <Dialog>オッス、▲高嶺＊＊▲！</Dialog>
+          <Dialog>(Practice is over！ Well, I'll
+head home... Ah！)</Dialog>
+          <Dialog>Yo,
+▲高嶺＊＊▲！</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>今帰りか？　一緒に帰ろう？</Dialog>
-          <Dialog>あの、一緒に？</Dialog>
-          <Dialog>そう。……ダメ？</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>（なんか、間がもたないな……）</Dialog>
-          <Dialog>ちょっと質問。</Dialog>
-          <Dialog>……え？　あ、はい。</Dialog>
-          <Dialog>▲高嶺＊＊▲ってさ、部活の後、いつもさっさと帰っちゃうのなんで？</Dialog>
-          <Dialog>言いたくないなら、いいけど。</Dialog>
-          <Dialog>……部活が終わったらまっすぐ家に帰るのって、おかしい？</Dialog>
-          <Dialog>まあ、おかしくはない……な。うん。</Dialog>
-          <Dialog>校則にも、下校時は速やかに帰宅って書いてあるでしょ？</Dialog>
-          <Dialog>校則に？　へぇ……でも、そんなのいちいち守る奴いないだろ！</Dialog>
-          <Dialog>あれ？</Dialog>
-          <Dialog>それじゃわたし、ここで。</Dialog>
-          <Dialog>▲高嶺＊＊▲。良かったらさ、また一緒に帰ろうな？</Dialog>
-          <Dialog>あの、でも、わたし寄り道とか……。</Dialog>
-          <Dialog>じゃあ、寄り道無し。それなら校則違反じゃないよな？</Dialog>
-          <Dialog>そう、なのかな……あの、さようなら。</Dialog>
-          <Dialog>じゃあな！</Dialog>
-          <Dialog>（▲高嶺＊＊▲、いやだとは、言わなかったよな？）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Heading home？ Let's go
+together.</Dialog>
+          <Dialog>Um, together？</Dialog>
+          <Dialog>Yeah... No good？</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>(Seems like a waste of the
+moment...)</Dialog>
+          <Dialog>Can I ask you a question？</Dialog>
+          <Dialog>...Eh？ Ah, yes.</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+why do you always head
+straight home after practice？</Dialog>
+          <Dialog>It's fine if you don't want to
+answer that.</Dialog>
+          <Dialog>...Is it strange to go
+straight home after club
+activities are over？</Dialog>
+          <Dialog>Well, it's not strange... I
+guess.</Dialog>
+          <Dialog>According to school rules,
+we're supposed to return home
+immediately after leaving
+school, right？</Dialog>
+          <Dialog>School rules？ Hmm... But, you
+don't need to follow every
+single one！</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>Well, I'll take my leave here.</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+If you're okay, how about we
+walk home together again？</Dialog>
+          <Dialog>Ah, but, I can't stop
+anywhere...</Dialog>
+          <Dialog>We'll just go straight home.
+That way, you won't be
+violating the school rules,
+right？</Dialog>
+          <Dialog>If... that's the case... Um,
+goodbye.</Dialog>
+          <Dialog>See you later！</Dialog>
+          <Dialog>(▲高嶺＊＊▲,
+didn't say no, did she？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -679,21 +740,36 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（あれ……あそこにいるの、▲高嶺＊＊▲だよな……）</Dialog>
-          <Dialog>（なんだか人目を気にしてるようにも見える……声かけづらいな……）</Dialog>
-          <Dialog>（店に入っては出ること３度……▲高嶺＊＊▲、いったい何やってんだ？）</Dialog>
-          <Dialog>（つーか、●こそ何やってんだよ……よし！）</Dialog>
-          <Dialog>オッス！　▲高嶺＊＊▲！</Dialog>
+          <Dialog>(Eh...？ That's
+▲高嶺＊＊▲...)</Dialog>
+          <Dialog>(With all of these people
+around, it's hard to call out
+to her...)</Dialog>
+          <Dialog>(She went in and out of that
+store three times already...
+What is
+▲高嶺＊＊▲
+doing？)</Dialog>
+          <Dialog>(Rather, what am I doing？
+...All right！)</Dialog>
+          <Dialog>Yo！
+▲高嶺＊＊▲！</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>あのさ……。</Dialog>
-          <Dialog>ちがっ、これは違うの！</Dialog>
-          <Dialog>違うって……なにが？</Dialog>
-          <Dialog>え？　だから、それは、その……。</Dialog>
-          <Dialog>寄ってこうぜ、ウイニングバーガー。この間のお礼ってことでおごるよ。</Dialog>
-          <Dialog>でも、寄り道は……。</Dialog>
-          <Dialog>じゃあさ、速やかに食べよう。で、速やかに下校する。な？</Dialog>
-          <Dialog>ふふ……うん、それじゃ、少しだけ。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Well...</Dialog>
+          <Dialog>It's not. That's not it！</Dialog>
+          <Dialog>What's not it？</Dialog>
+          <Dialog>Eh？ I mean, you see...
+Well...</Dialog>
+          <Dialog>Let's stop by Winning Burger.
+I'll treat you for helping me
+before.</Dialog>
+          <Dialog>But, stopping on the way
+home...</Dialog>
+          <Dialog>Then how about we'll eat
+quickly and then hurry home？</Dialog>
+          <Dialog>Well, Hehe... Yeah. In that
+case, I guess it's okay.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1071,54 +1147,88 @@
         </Unknown>
         <Dialogs>
           <Dialog>店員</Dialog>
-          <Dialog>ウイニングバーガーへようこそ！
-ご注文は何になさいますか？</Dialog>
+          <Dialog>Welcome to Winning Burger！
+What would you like to order？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>……。</Dialog>
+          <Dialog>......</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲高嶺＊＊▲？</Dialog>
-          <Dialog>はい！</Dialog>
-          <Dialog>なんか、注文しないの？</Dialog>
-          <Dialog>注文、あ、うん。あの、ハンバーガーをください。</Dialog>
-          <Dialog>ウイニングバーガー単品でよろしいですか？</Dialog>
-          <Dialog>あの……ええ。</Dialog>
-          <Dialog>ご一緒にウイニングナゲットとお得なＭサイズのウイニングシェイクはいかがでしょうか？　今ならスクラッチカードで来店ポイント２倍のラッキーチャレンジがございますが？</Dialog>
-          <Dialog>あの、わたし……ごめんなさい、もう一度、最初から……。</Dialog>
-          <Dialog>（まさか、▲高嶺＊＊▲……ファーストフードに来たことない、とか？）</Dialog>
-          <Dialog>じゃあ！　バリューセット２つと……飲み物は何がいい？</Dialog>
-          <Dialog>飲み物、えと、お紅茶……。</Dialog>
-          <Dialog>じゃあ、アイスティーとコーラ。</Dialog>
-          <Dialog>ご注文繰り返します。バリューセット・ツー、お飲み物が……。</Dialog>
-          <Dialog>▲高嶺＊＊▲ってさ……こういうとこあんまり来ないの？</Dialog>
-          <Dialog>そんなこと、ない。ときどき、来るよ？</Dialog>
-          <Dialog>ふぅん……。　じゃあ、“メガテリ焼きうどんバーガー”食った？</Dialog>
-          <Dialog>……メガ？</Dialog>
-          <Dialog>先月のバーガー。</Dialog>
-          <Dialog>もちろん……。</Dialog>
-          <Dialog>へぇ！　●、食いそびれちゃった。美味かった？　どんな味？</Dialog>
-          <Dialog>それは、もう……甘からず苦からず、その、メガで……。</Dialog>
-          <Dialog>それじゃ、よくわかんないな</Dialog>
-          <Dialog>……本当に食ったの？</Dialog>
-          <Dialog>つまり美味かったってこと？</Dialog>
-          <Dialog>だから……おうどんをテリ焼きにしたような、しないような……。</Dialog>
-          <Dialog>なんか、ビミョーな表現だなぁ……。</Dialog>
-          <Dialog>微妙なお味だったんだもん……。</Dialog>
-          <Dialog>……どうして？</Dialog>
-          <Dialog>だって、いかにも知ったかぶりみたいな……。</Dialog>
-          <Dialog>食べました。</Dialog>
-          <Dialog>ええ、すごく美味しかった。</Dialog>
-          <Dialog>▲高嶺＊＊▲ってさ、変わった好みなんだな？</Dialog>
-          <Dialog>食べた奴はみんな、ビミョーって言ってたから。</Dialog>
-          <Dialog>（ちょっと、意地悪だったか？）</Dialog>
-          <Dialog>美味しかった。　ふふ！</Dialog>
-          <Dialog>よかったな？</Dialog>
-          <Dialog>でもね、脂肪分と塩分が多すぎるからポテトを半分にして、飲み物はミルク、それから……トマト、かな。それで、もう少しバランスが取れると思う。</Dialog>
-          <Dialog>（そんなこと考えながら食ってたのか……）</Dialog>
-          <Dialog>じゃあ、またな？</Dialog>
-          <Dialog>うん……あの、もしまた……。</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>……ううん。今日はありがとう。さようなら。</Dialog>
-          <Dialog>（……なんだ？）</Dialog>
+          <Dialog>Yes！</Dialog>
+          <Dialog>Aren't you going to order？</Dialog>
+          <Dialog>Order？ Ah, yeah. Um, I'd like
+a hamburger, please.</Dialog>
+          <Dialog>Do you just want one Winning
+Burger by itself？</Dialog>
+          <Dialog>Umm... Yes...</Dialog>
+          <Dialog>How about Winning Nuggets and
+a medium Winning Shake with
+it？ We're having the scratch
+ticket double lucky challenge,
+okay？</Dialog>
+          <Dialog>Um, I... Sorry, could you
+repeat that from the
+beginning？</Dialog>
+          <Dialog>(Has
+▲高嶺＊＊▲
+not been to a fast food
+restaurant before？)</Dialog>
+          <Dialog>Okay！ We'll have 2 value
+meals, and... What would you
+like to drink？</Dialog>
+          <Dialog>Drink？ Er, tea...</Dialog>
+          <Dialog>Then iced tea and a cola...</Dialog>
+          <Dialog>I'll repeat your order. Two
+value meals and for drinks...</Dialog>
+          <Dialog>▲高嶺＊＊▲...
+You don't come to these places
+often, do you？</Dialog>
+          <Dialog>That's not the case. I come
+every once in a while.</Dialog>
+          <Dialog>Hmm... Then have you eaten the
+Mega Teriyaki Noodle Burger？</Dialog>
+          <Dialog>Mega...？</Dialog>
+          <Dialog>Last month's special burger.</Dialog>
+          <Dialog>Of course...</Dialog>
+          <Dialog>Oh！ I missed out on it. Was
+it good？ What did it taste
+like？</Dialog>
+          <Dialog>Well it was... not sweet or
+bitter, but very... mega...</Dialog>
+          <Dialog>I don't really understand.</Dialog>
+          <Dialog>...Did you really try it？</Dialog>
+          <Dialog>So anyway, was it good？</Dialog>
+          <Dialog>Well... it's like noodles with
+teriyaki, but it's not really
+like that...</Dialog>
+          <Dialog>Sounds a bit weird...</Dialog>
+          <Dialog>Well, the taste was
+complicated...</Dialog>
+          <Dialog>...Why？</Dialog>
+          <Dialog>Well, it looks like you're
+just pretending to know...</Dialog>
+          <Dialog>I ate it.</Dialog>
+          <Dialog>Yes, it was very delicious.</Dialog>
+          <Dialog>▲高嶺＊＊▲
+you have such unusual taste.</Dialog>
+          <Dialog>Everyone who I talked to said
+it tasted unpleasant.</Dialog>
+          <Dialog>(Am I being a bit mean to
+her？)</Dialog>
+          <Dialog>It was delicious. Hehe！</Dialog>
+          <Dialog>Well, isn't that great？</Dialog>
+          <Dialog>But, it had too much fat and
+salt. It would be better with
+half a potato and some milk.
+Um, adding tomatoes would make
+it more balanced.</Dialog>
+          <Dialog>(She was thinking about that
+while she ate...？)</Dialog>
+          <Dialog>Then see you later...</Dialog>
+          <Dialog>Yeah... Um, maybe next time...</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>Never mind. Thanks for today.
+Goodbye.</Dialog>
+          <Dialog>(...Huh？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1296,30 +1406,54 @@
         </Unknown>
         <Dialogs>
           <Dialog>手塚</Dialog>
-          <Dialog>はい、集合ーっ！</Dialog>
-          <Dialog>みんなお待ちかね、テニス部恒例、親睦混合ダブルスやります！</Dialog>
+          <Dialog>Okay, everybody in！</Dialog>
+          <Dialog>It's that time you have all
+been waiting for. The tennis
+club's annual social mixed
+doubles！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（なんか大学のサークルみたいだな……うちの部、弱いわけだ……）</Dialog>
-          <Dialog>というわけで、各自任意でぺアを決めたら掲示板に記入してください。じゃあ、今日は解散！</Dialog>
+          <Dialog>(Our club is like a casual
+college club. No wonder we're
+weak...)</Dialog>
+          <Dialog>So those who decided on a
+pair, please write it on the
+bulletin board. All right,
+you're dismissed for today！</Dialog>
           <Dialog>男女部員</Dialog>
-          <Dialog>お疲れさまでしたーっ！</Dialog>
-          <Dialog>ダブルスか、どうするかな……。</Dialog>
+          <Dialog>Good work！</Dialog>
+          <Dialog>Doubles, huh？ What should I
+do...</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>▲高嶺＊＊▲は……さすがにパートナー決まってるよな、一番手だもんな。</Dialog>
-          <Dialog>……ううん。</Dialog>
-          <Dialog>えっ!?　一番手なのに？　でもさ、前回のパートナーとかと組むんじゃないの？</Dialog>
-          <Dialog>前回はね、女子部の方が一人多かったから、出場出来なくて……わたし、いつも最後まで余っちゃうから。</Dialog>
-          <Dialog>男子がみんな敬遠しちゃうのかな……じゃあさ、●と組んでよ？</Dialog>
-          <Dialog>無理……しないで？　わたし、そういうの慣れてるから、平気。</Dialog>
-          <Dialog>無理なんて……。</Dialog>
-          <Dialog>いいの。……授業なんかでもね、そういう時はいつも余っちゃうの。だから、本当に。</Dialog>
-          <Dialog>（▲高嶺＊＊▲……）</Dialog>
-          <Dialog>じゃあ、わたし、ここで。</Dialog>
-          <Dialog>ああ、またな？</Dialog>
-          <Dialog>あの……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>ううん……またね？　さようなら。</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+you already have a partner,
+right？ You're the best, after
+all.</Dialog>
+          <Dialog>...No.</Dialog>
+          <Dialog>Eh！？ Even though you're the
+ace？ What about pairing up
+with your previous partner？</Dialog>
+          <Dialog>Last time, the girls' had one
+extra, so I couldn't play...
+I'm always the last one
+remaining.</Dialog>
+          <Dialog>I guess the boys all keep
+their distance...  Well then,
+is it okay if you pair up with
+me？</Dialog>
+          <Dialog>Don't force yourself... I'm
+used to it, so I'll be fine.</Dialog>
+          <Dialog>I'm hardly forcing myself...</Dialog>
+          <Dialog>It's okay. It's the same in
+class. I'm always the one left
+out. So really, it's okay.</Dialog>
+          <Dialog>(▲高嶺＊＊▲...)</Dialog>
+          <Dialog>Then I'll take my leave here.</Dialog>
+          <Dialog>Okay, see you later...</Dialog>
+          <Dialog>Um...</Dialog>
+          <Dialog>Hm？</Dialog>
+          <Dialog>Never mind. See you later.
+Goodbye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1543,32 +1677,54 @@
         </Unknown>
         <Dialogs>
           <Dialog>女子部長</Dialog>
-          <Dialog>はい、集合ーっ！</Dialog>
-          <Dialog>混合ダブルスのペア登録は今日で締切です。まだの人いる？　もういないですね？</Dialog>
+          <Dialog>Okay, everybody in！</Dialog>
+          <Dialog>Today is the deadline for
+signing up for the mixed
+doubles tournament. Has anyone
+not signed up yet？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はい！　●、まだです！</Dialog>
-          <Dialog>どうするの？　登録する？</Dialog>
-          <Dialog>はい、高嶺さんと出ます。</Dialog>
-          <Dialog>高嶺さんも、それでいいのね？</Dialog>
+          <Dialog>Yes！ I haven't signed up
+yet！</Dialog>
+          <Dialog>What are you going to do？ Are
+you going to sign up？</Dialog>
+          <Dialog>Yes, I will enter with
+Takane-san.</Dialog>
+          <Dialog>Takane-san, are you okay with
+that？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>あの、わたし……はい……。</Dialog>
-          <Dialog>はい、じゃあ、今日はこれで解散！</Dialog>
+          <Dialog>Um, I... Yes...</Dialog>
+          <Dialog>All right, then you're
+dismissed for today！</Dialog>
           <Dialog>男女部員</Dialog>
-          <Dialog>お疲れさまでしたーっ！</Dialog>
-          <Dialog>▲高嶺＊＊▲!!</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>待てよ。一緒に、帰ろう？</Dialog>
-          <Dialog>勝手に決めちゃって、ごめんな？</Dialog>
-          <Dialog>でも、混合ダブルス、ホントは出たかったんだろ？</Dialog>
-          <Dialog>出たいにきまってるよな。あんなに上手いってことは、子供のころから続けてるんだろうし、それに……。</Dialog>
-          <Dialog>昼休み、ときどき一人で部室やコートの掃除したりさ……▲高嶺＊＊▲はテニス部、大好きなんだよな？</Dialog>
-          <Dialog>（怒らせちゃったか……）</Dialog>
-          <Dialog>あのさ、どうしてもいやなら、●から部長に取り消してもらうから。</Dialog>
-          <Dialog>違うの……わたし、嬉しくて。</Dialog>
-          <Dialog>▲高嶺＊＊▲……。</Dialog>
-          <Dialog>ありがとう……すごく、楽しみ。</Dialog>
-          <Dialog>ああ。そうだな。じゃあ、またな？</Dialog>
-          <Dialog>うん……またね？</Dialog>
+          <Dialog>...Good work！</Dialog>
+          <Dialog>▲高嶺＊＊▲！！</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Wait for me. Let's head home
+together.</Dialog>
+          <Dialog>Sorry for deciding on my own.</Dialog>
+          <Dialog>But, you want to play in the
+mixed doubles matches, right？</Dialog>
+          <Dialog>Of course, you wanted to play.
+You're really good and you've
+been playing since you were
+little. And besides...</Dialog>
+          <Dialog>At lunchtime, you clean the
+clubroom and the courts by
+yourself...
+▲高嶺＊＊▲
+really likes the tennis club,
+right？</Dialog>
+          <Dialog>(Did I upset her？)</Dialog>
+          <Dialog>You know, if you really don't
+want to, I can go and cancel
+our pairing.</Dialog>
+          <Dialog>That's not it... I'm... happy.</Dialog>
+          <Dialog>▲高嶺＊＊▲...</Dialog>
+          <Dialog>Thanks... I'm really looking
+forward to it...</Dialog>
+          <Dialog>Yeah, that's good to hear.
+Then see you later...</Dialog>
+          <Dialog>Yeah... see you later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1778,34 +1934,64 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（あれ？　あそこにいるの、▲高嶺＊＊▲じゃ……）</Dialog>
+          <Dialog>(Huh？ That's
+▲高嶺＊＊▲...)</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>オッス、▲高嶺＊＊▲、寄り道？</Dialog>
-          <Dialog>違うの！　ちょっと、本屋さんでお買い物しただけでこれは……。</Dialog>
-          <Dialog>冗談だから、落ち着いて……で、なに買ったの？</Dialog>
-          <Dialog>“とわのウォッチャー”っていう、雑誌を。</Dialog>
-          <Dialog>あぁ、レジャー情報誌だろ？　どっか行くの？</Dialog>
-          <Dialog>わたし、お隣の小学生のお勉強、ときどき見てあげてるんだけど、その子の成績が上がったご褒美に、どこかに連れて行ってあげようと思って、それで。</Dialog>
-          <Dialog>へぇ……で、どこ行くの？</Dialog>
-          <Dialog>それを雑誌で……だって、下見に行っておくべきだと思うの。</Dialog>
-          <Dialog>よそ様の子を預かるでしょ？　だから、今度の日曜に。</Dialog>
-          <Dialog>（▲高嶺＊＊▲って、本当に真面目だな……ん？　もしかして……）</Dialog>
-          <Dialog>その下見ってさ、一人で行ったりする？</Dialog>
-          <Dialog>……ええ、そのつもり。</Dialog>
-          <Dialog>●も一緒に行っちゃだめ？</Dialog>
-          <Dialog>どうして？</Dialog>
-          <Dialog>ちょうど日曜、ヒマだなぁって思ってたから。ダメ？</Dialog>
-          <Dialog>でも、それじゃまるで、その、人から見たら……。</Dialog>
-          <Dialog>デートみたいってこと？</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>●、レジャースポットくわしいよ？　そんな雑誌なんかよりさ。　ダメ？</Dialog>
-          <Dialog>本当？</Dialog>
-          <Dialog>うん。</Dialog>
-          <Dialog>じゃあ……お願いします。</Dialog>
-          <Dialog>よし、じゃあまた、日曜な？</Dialog>
-          <Dialog>うん……日曜。</Dialog>
-          <Dialog>（ちょっと強引だったか……スポット、ちゃんと調べとこう）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>What's up,
+▲高嶺＊＊▲？
+Stopping on the way home？</Dialog>
+          <Dialog>That's not it！ I just had
+something I needed to buy at
+the bookstore...</Dialog>
+          <Dialog>I was just joking, Calm
+down... So, what did you buy？</Dialog>
+          <Dialog>A magazine called "Towano
+Watcher."</Dialog>
+          <Dialog>I see. A leisure magazine,
+right？ Are you going
+somewhere？</Dialog>
+          <Dialog>Sometimes I tutor the next
+door grade-schooler. As a
+reward for getting her grades
+up, I thought I'd take her
+somewhere.</Dialog>
+          <Dialog>Is that so...？ So, where are
+you going to go？</Dialog>
+          <Dialog>That's why I bought the
+magazine... I thought I should
+check out some places before
+deciding.</Dialog>
+          <Dialog>I'm looking after someone's
+child, after all. So I'll go
+this Sunday.</Dialog>
+          <Dialog>(▲高嶺＊＊▲
+is so serious about this...
+Hm... I wonder...)</Dialog>
+          <Dialog>Are you going by yourself？</Dialog>
+          <Dialog>...Yes, that's the plan.</Dialog>
+          <Dialog>I can come along with you,
+can't I？</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>I just happen to be free this
+Sunday. Is it okay？</Dialog>
+          <Dialog>But, in that case, from other
+people's perspectives...</Dialog>
+          <Dialog>It will look like a date？</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>I'm pretty knowledgeable when
+it comes to leisure spots.
+Maybe even more so than that
+magazine. So how about it？</Dialog>
+          <Dialog>Really？</Dialog>
+          <Dialog>Yeah...</Dialog>
+          <Dialog>Then... if you would.</Dialog>
+          <Dialog>All right. Then I'll see you
+Sunday？</Dialog>
+          <Dialog>Yeah... Sunday.</Dialog>
+          <Dialog>(I was a bit aggressive
+there... I should go and check
+out some spots.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2210,55 +2396,105 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さ、着いたぞ！</Dialog>
+          <Dialog>Well, we've arrived！</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ええ。お天気で良かった。</Dialog>
-          <Dialog>まずは……何から見る？</Dialog>
-          <Dialog>わたし、ウサギ！</Dialog>
-          <Dialog>えぇ……動物園まで来て？</Dialog>
-          <Dialog>あの……連れてくる子、ユミちゃんがウサギ好きって言ってたから。</Dialog>
-          <Dialog>そっか……よし、じゃあ、ウサギ！</Dialog>
-          <Dialog>あんなに長時間ウサギ見たの初めてだ……。</Dialog>
-          <Dialog>でも、可愛かったでしょ？　ね？</Dialog>
-          <Dialog>まあな。楽しかったな？</Dialog>
-          <Dialog>うん、ちょっと後ろめたいみたい。</Dialog>
-          <Dialog>なんで？</Dialog>
-          <Dialog>だって、今日はユミちゃんのための下見に来たのに、ダメね？</Dialog>
-          <Dialog>いいだろ、楽しいってわかったんだし。▲高嶺＊＊▲って、ほんっとに真面目だな？</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>……ごめんなさい。</Dialog>
-          <Dialog>……どうして？</Dialog>
-          <Dialog>自分でもね、あぁ、わたしってずれてるなって思う、本当よ？</Dialog>
-          <Dialog>いけないことはいけないこと。でも、それだけじゃ窮屈って、わかってる。</Dialog>
-          <Dialog>わたし、そういうの、みんなみたいに上手くコントロール出来なくて……。</Dialog>
-          <Dialog>だから、ごめんなさい。わたしと一緒だと、窮屈だって、わかってるから。</Dialog>
-          <Dialog>窮屈なんて、思わないよ</Dialog>
-          <Dialog>やっぱり、固いな</Dialog>
-          <Dialog>それが▲高嶺＊＊▲のいいところだろ？</Dialog>
-          <Dialog>●は、そんな風に感じないけどな？</Dialog>
-          <Dialog>いいの、わかってるから。</Dialog>
-          <Dialog>頑固だな……●は、そんな風に感じない！</Dialog>
-          <Dialog>▲高嶺＊＊▲はさ、考え過ぎだよ。</Dialog>
-          <Dialog>コントロールなんてみんな出来てないって。</Dialog>
-          <Dialog>真面目で悪いなんて、そんなのおかしいだろ。</Dialog>
-          <Dialog>でも……。</Dialog>
-          <Dialog>●は、それでいいと思う。</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>わたしね、今、やっと気がついちゃった。</Dialog>
-          <Dialog>もし今日わたし一人だったら、きっと、この帰り道も、すごく寂しかったろうなって。</Dialog>
-          <Dialog>だから、一緒に来てくれたんだよね？</Dialog>
-          <Dialog>どうだったっけな？</Dialog>
-          <Dialog>……優しいね。</Dialog>
-          <Dialog>困った時はお互い様、だろ？</Dialog>
-          <Dialog>うん……ありがとう。</Dialog>
-          <Dialog>じゃあ、またな？</Dialog>
-          <Dialog>うん……あの、ダブルスも、がんばろうね？</Dialog>
-          <Dialog>そうだな。</Dialog>
-          <Dialog>練習、がんばらなくちゃ……。</Dialog>
-          <Dialog>ああ。じゃあ、もう遅いから……。</Dialog>
-          <Dialog>あの……もし良かったら……ううん。またね？</Dialog>
-          <Dialog>（……？　●も、練習がんばらなきゃな……）</Dialog>
+          <Dialog>Yes, the weather is so nice.</Dialog>
+          <Dialog>What do you want to see
+first？</Dialog>
+          <Dialog>I want to see the rabbits！</Dialog>
+          <Dialog>Eh？ Even though we came all
+the way to the zoo？</Dialog>
+          <Dialog>Well... Yumi-chan, the girl
+that I'm planning to bring
+here, said she liked rabbits.</Dialog>
+          <Dialog>Is that so...？ Then rabbits
+it is！</Dialog>
+          <Dialog>I've never spent such a long
+period of time looking at
+rabbits before. That was the
+first...</Dialog>
+          <Dialog>But they were really cute,
+right？</Dialog>
+          <Dialog>Kind of... Well, did you have
+fun？</Dialog>
+          <Dialog>Yeah... But now I'm feeling a
+bit guilty.</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>Because I was just supposed to
+come today for Yumi-chan's
+sake. So this is not good,
+right？</Dialog>
+          <Dialog>It's fine because now you know
+how much fun it is. Hmm... You
+are really serious about
+everything,
+▲高嶺＊＊▲...</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>...Hmm？</Dialog>
+          <Dialog>...I'm sorry.</Dialog>
+          <Dialog>...For what？</Dialog>
+          <Dialog>You know, I also think to
+myself "Ah, I'm just so odd."
+It's true.</Dialog>
+          <Dialog>I don't do things that I'm not
+allowed to. But I'm still well
+aware of how withdrawn I am.</Dialog>
+          <Dialog>Unlike everyone else, I'm just
+not good at expressing
+myself...</Dialog>
+          <Dialog>So, I'm sorry. I know that
+being together with me must be
+tiring for you.</Dialog>
+          <Dialog>You are not like
+that at all</Dialog>
+          <Dialog>Yeah, you're a
+bit withdrawn</Dialog>
+          <Dialog>But that's your
+good point</Dialog>
+          <Dialog>Hm, yet how come I don't think
+of you that way？</Dialog>
+          <Dialog>It's okay, because I know it's
+true.</Dialog>
+          <Dialog>So stubborn... Like I said, I
+don't think you are like that
+at all！</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+you're just over-thinking
+things.</Dialog>
+          <Dialog>There is no one capable of
+having that much control.</Dialog>
+          <Dialog>And how can being diligent be
+a bad thing？ I just don't
+agree.</Dialog>
+          <Dialog>But...</Dialog>
+          <Dialog>Personally, I think you're
+fine as you are..</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>I've realized just now...</Dialog>
+          <Dialog>If I had gone alone today, I
+would've felt very lonely on
+my way home...</Dialog>
+          <Dialog>You knew that, so that's why
+you offered to come with me,
+right？</Dialog>
+          <Dialog>I wonder if that's the case...</Dialog>
+          <Dialog>...You are so kind.</Dialog>
+          <Dialog>Always help out one another
+when in trouble, right？</Dialog>
+          <Dialog>Yeah... Thank you.</Dialog>
+          <Dialog>Then see you later.</Dialog>
+          <Dialog>Um, well... For the mixed
+doubles match, let's do our
+best, okay？</Dialog>
+          <Dialog>Okay.</Dialog>
+          <Dialog>We really have to practice
+hard...</Dialog>
+          <Dialog>Right. Oh, it's getting dark
+now...</Dialog>
+          <Dialog>Um... If you want to, maybe...
+Never mind, Bye.</Dialog>
+          <Dialog>(...？ Well... I have to
+practice extra hard...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2668,55 +2904,104 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>着いたぞ！　つーか暑いな……さっさと入るか。</Dialog>
+          <Dialog>We've arrived！ It's pretty
+hot today, so let's hurry
+inside.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふ、そうね。</Dialog>
-          <Dialog>何から見る？</Dialog>
-          <Dialog>わたし、ミツクリザメ！</Dialog>
-          <Dialog>ミツクリ……イルカとかじゃなくて？</Dialog>
-          <Dialog>……おかしい、かな？</Dialog>
-          <Dialog>まあよし！　じゃあ、ミツクリザメだ！</Dialog>
-          <Dialog>ミツクリザメか……なんかもう、怪獣みたいだったな……。</Dialog>
-          <Dialog>でも、すごく不思議なサメだったでしょ？　ね？</Dialog>
-          <Dialog>まあな。楽しかったな？</Dialog>
-          <Dialog>うん、ちょっと後ろめたいみたい。</Dialog>
-          <Dialog>なんで？</Dialog>
-          <Dialog>だって、今日はユミちゃんのための下見に来たのに、ダメね？</Dialog>
-          <Dialog>いいだろ、楽しいってわかったんだし。▲高嶺＊＊▲って、ほんっとに真面目だな？</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>……ごめんなさい。</Dialog>
-          <Dialog>……どうして？</Dialog>
-          <Dialog>自分でもね、あぁ、わたしってずれてるなって思う、本当よ？</Dialog>
-          <Dialog>いけないことはいけないこと。でも、それだけじゃ窮屈って、わかってる。</Dialog>
-          <Dialog>わたし、そういうの、みんなみたいに上手くコントロール出来なくて……。</Dialog>
-          <Dialog>だから、ごめんなさい。わたしと一緒だと、窮屈だって、わかってるから。</Dialog>
-          <Dialog>窮屈なんて、思わないよ</Dialog>
-          <Dialog>やっぱり、固いな</Dialog>
-          <Dialog>それが▲高嶺＊＊▲のいいところだろ？</Dialog>
-          <Dialog>●は、そんな風に感じないけどな？</Dialog>
-          <Dialog>いいの、わかってるから。</Dialog>
-          <Dialog>頑固だな……●は、そんな風に感じない！</Dialog>
-          <Dialog>▲高嶺＊＊▲はさ、考え過ぎだよ。</Dialog>
-          <Dialog>コントロールなんてみんな出来てないって。</Dialog>
-          <Dialog>真面目で悪いなんて、そんなのおかしいだろ。</Dialog>
-          <Dialog>でも……。</Dialog>
-          <Dialog>●は、それでいいと思う。</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>わたしね、今、やっと気がついちゃった。</Dialog>
-          <Dialog>もし今日わたし一人だったら、きっと、この帰り道も、すごく寂しかったろうなって。</Dialog>
-          <Dialog>だから、一緒に来てくれたんだよね？</Dialog>
-          <Dialog>どうだったっけな？</Dialog>
-          <Dialog>……優しいね。</Dialog>
-          <Dialog>困った時はお互い様、だろ？</Dialog>
-          <Dialog>うん……ありがとう。</Dialog>
-          <Dialog>じゃあ、またな？</Dialog>
-          <Dialog>うん……あの、ダブルスも、がんばろうね？</Dialog>
-          <Dialog>そうだな。</Dialog>
-          <Dialog>練習、がんばらなくちゃ……。</Dialog>
-          <Dialog>ああ。じゃあ、もう遅いから……。</Dialog>
-          <Dialog>あの……もし良かったら……ううん。またね？</Dialog>
-          <Dialog>（……？　●も、練習がんばらなきゃな……）</Dialog>
+          <Dialog>Hehe, you're right.</Dialog>
+          <Dialog>What do you want to see？</Dialog>
+          <Dialog>I want to see the goblin
+sharks！</Dialog>
+          <Dialog>Sharks...？ Not dolphins or
+something like that？</Dialog>
+          <Dialog>...It's strange, right？</Dialog>
+          <Dialog>Oh well！ Let's go to see the
+goblin sharks！</Dialog>
+          <Dialog>Goblin shark... It looks kind
+of like a monster, don't you
+think？</Dialog>
+          <Dialog>But, it is a very mysterious
+shark, isn't it？</Dialog>
+          <Dialog>Kind of... Well, did you have
+fun？</Dialog>
+          <Dialog>Yeah... But now I'm feeling a
+bit guilty.</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>Because I was just supposed to
+come today for Yumi-chan's
+sake. So this is not good,
+right？</Dialog>
+          <Dialog>It's fine because now you know
+how much fun it is. Hmm... You
+are really serious about
+everything,
+▲高嶺＊＊▲.</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Hm？</Dialog>
+          <Dialog>...I'm sorry.</Dialog>
+          <Dialog>...For what？</Dialog>
+          <Dialog>You know, I also think to
+myself "Ah, I'm just so odd."
+It's true.</Dialog>
+          <Dialog>I don't do things that I'm not
+allowed to. But I'm still well
+aware of how withdrawn I am.</Dialog>
+          <Dialog>Unlike everyone else, I'm just
+not good at expressing
+myself...</Dialog>
+          <Dialog>So, I'm sorry. I know that
+being together with me must be
+tiring for you.</Dialog>
+          <Dialog>You are not like
+that at all</Dialog>
+          <Dialog>Yeah, you're a
+bit withdrawn</Dialog>
+          <Dialog>But that's your
+good point</Dialog>
+          <Dialog>Hm, yet how come I don't think
+of you that way？</Dialog>
+          <Dialog>It's okay, because I know it's
+true.</Dialog>
+          <Dialog>So stubborn... Like I said, I
+don't think you are like that
+at all！</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+you're just over-thinking
+things.</Dialog>
+          <Dialog>There is no one capable of
+having that much control.</Dialog>
+          <Dialog>And how can being diligent be
+a bad thing？ I just don't
+agree.</Dialog>
+          <Dialog>But...</Dialog>
+          <Dialog>Personally, I think you're
+fine as you are..</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>I've realized just now...</Dialog>
+          <Dialog>If I had gone alone today, I
+would've felt very lonely on
+my way home.</Dialog>
+          <Dialog>You knew that, so that's why
+you offered to come with me,
+right？</Dialog>
+          <Dialog>I wonder if that's the case...</Dialog>
+          <Dialog>...You are so kind.</Dialog>
+          <Dialog>Always help out one another
+when in trouble, right？</Dialog>
+          <Dialog>Yeah... Thank you.</Dialog>
+          <Dialog>Then see you later.</Dialog>
+          <Dialog>Um, well... For the mixed
+doubles match, let's do our
+best, okay？</Dialog>
+          <Dialog>Okay.</Dialog>
+          <Dialog>We really have to practice
+hard...</Dialog>
+          <Dialog>Right. Oh, it's getting dark
+now...</Dialog>
+          <Dialog>Um... If you want to, maybe...
+Never mind, Bye.</Dialog>
+          <Dialog>(...？ Well... I have to
+practice extra hard...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3126,55 +3411,108 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さ、着いたぞ！</Dialog>
+          <Dialog>All right, we've arrived！</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>空が高くて気持ちいい……紅葉もきれい……。</Dialog>
-          <Dialog>まあな。きれいだけど……歩くと腹減りそうだな？</Dialog>
-          <Dialog>ふふ……わたし、お弁当作ってきたから、良かったらどうぞ？</Dialog>
-          <Dialog>やった！　なんかデートみたいだな？</Dialog>
-          <Dialog>うん、だから少し、離れて歩きましょう？</Dialog>
-          <Dialog>（そこは違うんだ……）</Dialog>
-          <Dialog>▲高嶺＊＊▲って、料理得意なんだな？　ごちそうさま。</Dialog>
-          <Dialog>いいえ。お粗末さまでした、ふふ！</Dialog>
-          <Dialog>紅葉もきれいだったし、楽しかったな？</Dialog>
-          <Dialog>うん、ちょっと後ろめたいみたい。</Dialog>
-          <Dialog>なんで？</Dialog>
-          <Dialog>だって、今日はユミちゃんのための下見に来たのに、ダメね？</Dialog>
-          <Dialog>いいだろ、楽しいってわかったんだし。▲高嶺＊＊▲って、ほんっとに真面目だな？</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>……ごめんなさい。</Dialog>
-          <Dialog>……どうして？</Dialog>
-          <Dialog>自分でもね、あぁ、わたしってずれてるなって思う、本当よ？</Dialog>
-          <Dialog>いけないことはいけないこと。でも、それだけじゃ窮屈って、わかってる。</Dialog>
-          <Dialog>わたし、そういうの、みんなみたいに上手くコントロール出来なくて……。</Dialog>
-          <Dialog>だから、ごめんなさい。わたしと一緒だと、窮屈だって、わかってるから。</Dialog>
-          <Dialog>窮屈なんて、思わないよ</Dialog>
-          <Dialog>やっぱり、固いな</Dialog>
-          <Dialog>それが▲高嶺＊＊▲のいいところだろ？</Dialog>
-          <Dialog>●は、そんな風に感じないけどな？</Dialog>
-          <Dialog>いいの、わかってるから。</Dialog>
-          <Dialog>頑固だな……●は、そんな風に感じない！</Dialog>
-          <Dialog>▲高嶺＊＊▲はさ、考え過ぎだよ。</Dialog>
-          <Dialog>コントロールなんてみんな出来てないって。</Dialog>
-          <Dialog>真面目で悪いなんて、そんなのおかしいだろ。</Dialog>
-          <Dialog>でも……。</Dialog>
-          <Dialog>●は、それでいいと思う。</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>わたしね、今、やっと気がついちゃった。</Dialog>
-          <Dialog>もし今日わたし一人だったら、きっと、この帰り道も、すごく寂しかったろうなって。</Dialog>
-          <Dialog>だから、一緒に来てくれたんだよね？</Dialog>
-          <Dialog>どうだったっけな？</Dialog>
-          <Dialog>……優しいね。</Dialog>
-          <Dialog>困った時はお互い様、だろ？</Dialog>
-          <Dialog>うん……ありがとう。</Dialog>
-          <Dialog>じゃあ、またな？</Dialog>
-          <Dialog>うん……あの、ダブルスも、がんばろうね？</Dialog>
-          <Dialog>そうだな。</Dialog>
-          <Dialog>練習、がんばらなくちゃ……。</Dialog>
-          <Dialog>ああ。じゃあ、もう遅いから……。</Dialog>
-          <Dialog>あの……もし良かったら……ううん。またね？</Dialog>
-          <Dialog>（……？　●も、練習がんばらなきゃな……）</Dialog>
+          <Dialog>It feels nice looking up at
+the sky... The leaves are also
+beautiful...</Dialog>
+          <Dialog>Yeah, it's beautiful, but...
+all that walking has made me a
+bit hungry.</Dialog>
+          <Dialog>Hehe... I made a lunch box.
+Would you like some？</Dialog>
+          <Dialog>Hooray！ Somehow, doesn't this
+seem like a date？</Dialog>
+          <Dialog>Well, in that case, we'd
+better walk away from the
+crowds.</Dialog>
+          <Dialog>(That's not what I meant...)</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+I've never known that you were
+this good at cooking. Thanks
+for the meal.</Dialog>
+          <Dialog>Don't mention it. It was my
+pleasure, hehe！</Dialog>
+          <Dialog>The maple leaves were
+beautiful. It was fun, right？</Dialog>
+          <Dialog>Yeah, but I feel a bit guilty
+now.</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>Because I was just supposed to
+come today for Yumi-chan's
+sake. So this is not good,
+right？</Dialog>
+          <Dialog>It's fine because now you know
+how much fun it is. Hmm... You
+are really serious about
+everything,
+▲高嶺＊＊▲.</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Hmm？</Dialog>
+          <Dialog>...I'm sorry.</Dialog>
+          <Dialog>...For what？</Dialog>
+          <Dialog>You know, I also think to
+myself "Ah, I'm just so odd."
+It's true.</Dialog>
+          <Dialog>I don't do things that I'm not
+allowed to. But I'm still well
+aware of how withdrawn I am.</Dialog>
+          <Dialog>Unlike everyone else, I'm just
+not good at expressing
+myself...</Dialog>
+          <Dialog>So, I'm sorry. I know that
+being together with me must be
+tiring for you.</Dialog>
+          <Dialog>You are not like
+that at all</Dialog>
+          <Dialog>Yeah, you're a
+bit withdrawn</Dialog>
+          <Dialog>But that's your
+good point</Dialog>
+          <Dialog>Hm, yet how come I don't think
+of you that way？</Dialog>
+          <Dialog>It's okay, because I know it's
+true.</Dialog>
+          <Dialog>So stubborn... Like I said, I
+don't think you are like that
+at all！</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+you're just over-thinking
+things.</Dialog>
+          <Dialog>There is no one capable of
+having that much control.</Dialog>
+          <Dialog>And how can being diligent be
+a bad thing？ I just don't
+agree.</Dialog>
+          <Dialog>But...</Dialog>
+          <Dialog>Personally, I think you're
+fine as you are..</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>I've realized just now...</Dialog>
+          <Dialog>If I had gone alone today, I
+would've felt very lonely on
+my way home.</Dialog>
+          <Dialog>You knew that, so that's why
+you offered to come with me,
+right？</Dialog>
+          <Dialog>I wonder if that's the case...</Dialog>
+          <Dialog>...You are so kind.</Dialog>
+          <Dialog>Always help out one another
+when in trouble, right？</Dialog>
+          <Dialog>Yeah... Thank you.</Dialog>
+          <Dialog>Then see you later.</Dialog>
+          <Dialog>Um, well... For the mixed
+doubles match, let's do our
+best, okay？</Dialog>
+          <Dialog>Okay.</Dialog>
+          <Dialog>We really have to practice
+hard...</Dialog>
+          <Dialog>Right. Oh, it's getting dark
+now...</Dialog>
+          <Dialog>Um... If you want to, maybe...
+Never mind, Bye.</Dialog>
+          <Dialog>(...？ Well... I have to
+practice extra hard...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3594,57 +3932,107 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さ、とりあえず滑るか！</Dialog>
+          <Dialog>Well, shall we get started？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>わたし、スケート初めて……。</Dialog>
-          <Dialog>そっか……他のところにすれば良かったな……。</Dialog>
-          <Dialog>いいの。　ユミちゃんもスケートしたいって言ってたから、丁度いいかも。</Dialog>
-          <Dialog>よし。じゃあ、●の腕につかまれよ？　教えるよ。</Dialog>
-          <Dialog>でも、それじゃまるで……。</Dialog>
-          <Dialog>ちょっとデートみたいだけどさ。ほら？</Dialog>
-          <Dialog>自力で、なんとかしてみる。</Dialog>
-          <Dialog>（あくまでデートじゃないと……）</Dialog>
-          <Dialog>大丈夫か？　結構、転んじゃったけど。</Dialog>
-          <Dialog>平気。でも、あんなに転んだの生まれて初めてかも、ふふ！</Dialog>
-          <Dialog>まあな。楽しかったな？</Dialog>
-          <Dialog>うん、ちょっと後ろめたいみたい。</Dialog>
-          <Dialog>なんで？</Dialog>
-          <Dialog>だって、今日はユミちゃんのための下見に来たのに、ダメね？</Dialog>
-          <Dialog>いいだろ、楽しいってわかったんだし。▲高嶺＊＊▲って、ほんっとに真面目だな？</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>……ごめんなさい。</Dialog>
-          <Dialog>……どうして？</Dialog>
-          <Dialog>自分でもね、あぁ、わたしってずれてるなって思う、本当よ？</Dialog>
-          <Dialog>いけないことはいけないこと。でも、それだけじゃ窮屈って、わかってる。</Dialog>
-          <Dialog>わたし、そういうの、みんなみたいに上手くコントロール出来なくて……。</Dialog>
-          <Dialog>だから、ごめんなさい。わたしと一緒だと、窮屈だって、わかってるから。</Dialog>
-          <Dialog>窮屈なんて、思わないよ</Dialog>
-          <Dialog>やっぱり、固いな</Dialog>
-          <Dialog>それが▲高嶺＊＊▲のいいところだろ？</Dialog>
-          <Dialog>●は、そんな風に感じないけどな？</Dialog>
-          <Dialog>いいの、わかってるから。</Dialog>
-          <Dialog>頑固だな……●は、そんな風に感じない！</Dialog>
-          <Dialog>▲高嶺＊＊▲はさ、考え過ぎだよ。</Dialog>
-          <Dialog>コントロールなんてみんな出来てないって。</Dialog>
-          <Dialog>真面目で悪いなんて、そんなのおかしいだろ。</Dialog>
-          <Dialog>でも……。</Dialog>
-          <Dialog>●は、それでいいと思う。</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>わたしね、今、やっと気がついちゃった。</Dialog>
-          <Dialog>もし今日わたし一人だったら、きっと、この帰り道も、すごく寂しかったろうなって。</Dialog>
-          <Dialog>だから、一緒に来てくれたんだよね？</Dialog>
-          <Dialog>どうだったっけな？</Dialog>
-          <Dialog>……優しいね。</Dialog>
-          <Dialog>困った時はお互い様、だろ？</Dialog>
-          <Dialog>うん……ありがとう。</Dialog>
-          <Dialog>じゃあ、またな？</Dialog>
-          <Dialog>うん……あの、ダブルスも、がんばろうね？</Dialog>
-          <Dialog>そうだな。</Dialog>
-          <Dialog>練習、がんばらなくちゃ……。</Dialog>
-          <Dialog>ああ。じゃあ、もう遅いから……。</Dialog>
-          <Dialog>あの……もし良かったら……ううん。またね？</Dialog>
-          <Dialog>（……？　●も、練習がんばらなきゃな……）</Dialog>
+          <Dialog>It's my first time skating...</Dialog>
+          <Dialog>Really？ We should have gone
+somewhere else then...</Dialog>
+          <Dialog>It's fine. Yumi-chan had said
+that she wanted to go skating.
+So, this is perfect.</Dialog>
+          <Dialog>Okay, then how about you hold
+onto my arms？ I can teach you
+how to skate.</Dialog>
+          <Dialog>But, if I do that...</Dialog>
+          <Dialog>It will look like we're on a
+date. Right？</Dialog>
+          <Dialog>I'll try by myself first.</Dialog>
+          <Dialog>(So she doesn't want this to
+be a date...)</Dialog>
+          <Dialog>Are you okay？ That was quite
+a fall.</Dialog>
+          <Dialog>I'm fine. But it was the first
+time I've ever fallen down
+like that. Hehe！</Dialog>
+          <Dialog>Well, did you have fun？</Dialog>
+          <Dialog>Yeah... But now I'm feeling a
+bit guilty.</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>Because I was just supposed to
+come today for Yumi-chan's
+sake. So this is not good,
+right？</Dialog>
+          <Dialog>It's fine, because now you
+know how much fun it is.
+Hmm... You are always serious
+with everything,
+▲高嶺＊＊▲...</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Hmm？</Dialog>
+          <Dialog>...I'm sorry.</Dialog>
+          <Dialog>...For what？</Dialog>
+          <Dialog>You know, I also think to
+myself "Ah, I'm just so odd."
+It's true.</Dialog>
+          <Dialog>I don't do things that I'm not
+allowed to. But I'm still well
+aware of how withdrawn I am.</Dialog>
+          <Dialog>Unlike everyone else, I'm just
+not good at expressing
+myself...</Dialog>
+          <Dialog>So, I'm sorry. I know that
+being together with me must be
+tiring for you.</Dialog>
+          <Dialog>You are not like
+that at all</Dialog>
+          <Dialog>Yeah, you're a
+bit withdrawn</Dialog>
+          <Dialog>But that's your
+good point</Dialog>
+          <Dialog>Hm, yet how come I don't think
+of you that way？</Dialog>
+          <Dialog>It's okay, because I know it's
+true.</Dialog>
+          <Dialog>So stubborn... Like I said, I
+don't think you are like that
+at all！</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+you're just over-thinking
+things.</Dialog>
+          <Dialog>There is no one capable of
+having that much control.</Dialog>
+          <Dialog>And how can being diligent be
+a bad thing？ I just don't
+agree.</Dialog>
+          <Dialog>But...</Dialog>
+          <Dialog>Personally, I think you're
+fine as you are..</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>I've realized just now...</Dialog>
+          <Dialog>If I had gone alone today, I
+would've felt very lonely on
+my way home.</Dialog>
+          <Dialog>You knew that, so that's why
+you offered to come with me,
+right？</Dialog>
+          <Dialog>I wonder if that's the case...</Dialog>
+          <Dialog>...You are so kind.</Dialog>
+          <Dialog>Always help out one another
+when in trouble, right？</Dialog>
+          <Dialog>Yeah... Thank you.</Dialog>
+          <Dialog>Then see you later.</Dialog>
+          <Dialog>Um, well... For the mixed
+doubles match, let's do our
+best, okay？</Dialog>
+          <Dialog>Okay.</Dialog>
+          <Dialog>We really have to practice
+hard...</Dialog>
+          <Dialog>Right. Oh, it's getting dark
+now...</Dialog>
+          <Dialog>Um... If you want to, maybe...
+Never mind. Bye.</Dialog>
+          <Dialog>(...？ Well... I have to
+practice extra hard...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3843,30 +4231,53 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（いよいよ混合ダブルス当日……）</Dialog>
-          <Dialog>▲高嶺＊＊▲……勝ちに行くぞ。</Dialog>
+          <Dialog>(It's finally the day for the
+mixed doubles...)</Dialog>
+          <Dialog>▲高嶺＊＊▲...
+Let's win this！</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>はい！</Dialog>
+          <Dialog>Yes！</Dialog>
           <Dialog>女子部員</Dialog>
-          <Dialog>ゲームセット！　カウント３－２、マッチ・ウォン・バイ手塚ペア！</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>面目ない……。</Dialog>
-          <Dialog>惜しかったよ。</Dialog>
-          <Dialog>そう、でもない気が……●の取りこぼしとダブルフォルトで……。</Dialog>
-          <Dialog>２回戦目で部長ペアと当たっちゃったんだもん、仕方ないよ。</Dialog>
-          <Dialog>部長って、何番手だっけ？</Dialog>
-          <Dialog>３番手。</Dialog>
-          <Dialog>▲高嶺＊＊▲は？</Dialog>
-          <Dialog>……えぇと、１番手、かな？</Dialog>
-          <Dialog>ふふ……わたし、すごく楽しかったの。本当に久しぶりに。</Dialog>
-          <Dialog>最近ね、ゲームに勝っても嬉しくなくなってたの。</Dialog>
-          <Dialog>嫌われ者になるだけみたいな気がして……でも、全力を出さずにプレイするのは、相手に失礼だし……。</Dialog>
-          <Dialog>（そうだったのか……じゃあ、まあ良しとするか？）</Dialog>
-          <Dialog>ハァ！　今日は、全力で負けちゃった……あ。</Dialog>
-          <Dialog>もう……元気出そう？　ね？</Dialog>
-          <Dialog>がんばって、次は勝とうね？　またね……。</Dialog>
-          <Dialog>ああ、またな。</Dialog>
-          <Dialog>（ん？　次もペア組んでくれるのか……▲高嶺＊＊▲、いいヤツ……）</Dialog>
+          <Dialog>Game set！ Count 3-2. Match
+won by Tezuka pair！</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>I'm so ashamed...</Dialog>
+          <Dialog>It was a close match.</Dialog>
+          <Dialog>Yet, I feel like it wasn't...
+I lost an easy chance with
+that double fault...</Dialog>
+          <Dialog>It couldn't be helped. After
+all, we met the Captain's pair
+in the second round.</Dialog>
+          <Dialog>What rank is our captain？</Dialog>
+          <Dialog>Third.</Dialog>
+          <Dialog>And how about you
+▲高嶺＊＊▲？</Dialog>
+          <Dialog>...Um, first rank, I guess.</Dialog>
+          <Dialog>Hehe... I really had a lot of
+fun, for the first time in a
+long while.</Dialog>
+          <Dialog>Lately, even though I won my
+matches, I was just unhappy
+about it.</Dialog>
+          <Dialog>I felt that people would
+dislike me... But, I also felt
+it would be rude to my
+opponent to not play my
+best...</Dialog>
+          <Dialog>(So that's what happened...
+Then I guess it's okay like
+this？)</Dialog>
+          <Dialog>Hah！ Today I went all out and
+lost... Ah！</Dialog>
+          <Dialog>Hey... Cheer up, okay？</Dialog>
+          <Dialog>Let's work hard and win next
+time, okay？ See you later...</Dialog>
+          <Dialog>Yeah, see you later.</Dialog>
+          <Dialog>(So she's still willing to
+pair up with me？
+▲高嶺＊＊▲
+really is nice...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4091,38 +4502,62 @@
         </Unknown>
         <Dialogs>
           <Dialog>手塚</Dialog>
-          <Dialog>今日はこれで解散！</Dialog>
+          <Dialog>You're dismissed for today！</Dialog>
           <Dialog>男女部員</Dialog>
-          <Dialog>お疲れさまでしたーっ！</Dialog>
+          <Dialog>Good work！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（……？）</Dialog>
+          <Dialog>(...？)</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>オッス、▲高嶺＊＊▲。</Dialog>
-          <Dialog>あの……わたし……。</Dialog>
-          <Dialog>もしかして、待っててくれた？</Dialog>
-          <Dialog>（なんか、緊張してるみたいだな……）</Dialog>
-          <Dialog>そう言えばさ、ユミちゃんだっけ？　どうだった？</Dialog>
-          <Dialog>うん……すごく喜んでくれた。</Dialog>
-          <Dialog>そっか。よかったよかった、うん。</Dialog>
-          <Dialog>今度は、隣のクラスの男の子を誘ってデートに行くから、また、一緒に来てって。</Dialog>
-          <Dialog>デートの付き添い？</Dialog>
-          <Dialog>うん、だってまだ、３年生だもん。</Dialog>
-          <Dialog>３年生!?　……やるな、ユミちゃん。</Dialog>
-          <Dialog>それでね？　あの……また、お願いできないかなって。</Dialog>
-          <Dialog>またどっか、下見に行くの？</Dialog>
-          <Dialog>それも、そうだけど……わたし、その……。</Dialog>
-          <Dialog>……？</Dialog>
-          <Dialog>デートって、したことないから、教えてもらえないかなって……。</Dialog>
-          <Dialog>えぇと……●、デートに誘われてる、のかな？</Dialog>
-          <Dialog>ちがっ、違うの！　デートの付き添いのための、練習……。</Dialog>
-          <Dialog>ちょっと待って、じゃあ、つまり……。</Dialog>
-          <Dialog>それ以上考えちゃ、ダメ……。</Dialog>
-          <Dialog>そ、そうか。</Dialog>
-          <Dialog>じゃあ、行き先決めたら、連絡する。</Dialog>
-          <Dialog>はい、待ってます。じゃあ、またね？</Dialog>
-          <Dialog>またな！</Dialog>
-          <Dialog>（日曜はデートの付き添いの練習か！　……あくまでデートじゃ無いんだな）</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Yo,
+▲高嶺＊＊▲.</Dialog>
+          <Dialog>Umm... I...</Dialog>
+          <Dialog>Could it be that you were
+waiting for me？</Dialog>
+          <Dialog>(She seems a bit nervous...)</Dialog>
+          <Dialog>That reminds me... How did it
+go with Yumi-chan？</Dialog>
+          <Dialog>Oh... she was very happy.</Dialog>
+          <Dialog>I see. I'm glad to hear that.</Dialog>
+          <Dialog>Next time, she wants to invite
+a boy from another class on a
+date, and she asked me to come
+along again.</Dialog>
+          <Dialog>To chaperone the date？</Dialog>
+          <Dialog>Yeah, I mean they are only
+third graders.</Dialog>
+          <Dialog>Third grade！？ ...Not bad,
+Yumi-chan.</Dialog>
+          <Dialog>So then... Um... I was
+wondering if I could count on
+you again.</Dialog>
+          <Dialog>You mean to help you check out
+places？</Dialog>
+          <Dialog>Well, there is that... I,
+um...</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>I haven't been on a date
+before, so I was wondering if
+you could teach me...</Dialog>
+          <Dialog>Umm... So you're asking me out
+on a date？</Dialog>
+          <Dialog>No！ That's not it！ It's just
+for practice on overseeing a
+date...</Dialog>
+          <Dialog>Wait a second. In other
+words...</Dialog>
+          <Dialog>Don't think about it any
+further than that...</Dialog>
+          <Dialog>I-I see...</Dialog>
+          <Dialog>Then when I decide on a place,
+I'll let you know.</Dialog>
+          <Dialog>Yes, I'll be waiting. See you
+later.</Dialog>
+          <Dialog>See you later！</Dialog>
+          <Dialog>(I'm accompanying her this
+Sunday to practice dating！
+...It's not a real date,
+though.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4466,51 +4901,84 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>潮風が気持ちいい……。</Dialog>
+          <Dialog>The sea breeze feels nice...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ここ、いいだろ？　近いし危ないこともないし、なんかデートっぽいしさ？</Dialog>
-          <Dialog>うん。初めてのデートには、素敵だと思う……。</Dialog>
-          <Dialog>良かった。</Dialog>
-          <Dialog>次は、どうすればいいの？　あの、デートとしては。</Dialog>
-          <Dialog>そうだな……じゃあとりあえず、歩く！</Dialog>
-          <Dialog>はい！　ふふ！</Dialog>
-          <Dialog>ちょっと、疲れたな。</Dialog>
-          <Dialog>うん、良く歩いたもんね？</Dialog>
-          <Dialog>まあ、デートってそんなもんだろ？</Dialog>
-          <Dialog>ふふ……あ、はい、先生。</Dialog>
-          <Dialog>先生？　あ、●か。じゃあ、はい、▲高嶺＊＊▲。</Dialog>
-          <Dialog>先生は、こういう……そのデートって、したことありますか？</Dialog>
-          <Dialog>●？　●は、その……。</Dialog>
-          <Dialog>じつは、●も初めてなんだ</Dialog>
-          <Dialog>まあ、そこそこかな</Dialog>
-          <Dialog>無いに決まってるだろっ！</Dialog>
-          <Dialog>だからあんまり頼りにならなくて、ごめんな？</Dialog>
-          <Dialog>ううん、そんなことない。</Dialog>
-          <Dialog>それに……ちょっと、嬉しいかも。</Dialog>
-          <Dialog>ふぅん……。</Dialog>
-          <Dialog>なんだよ？</Dialog>
-          <Dialog>ううん、頼りになるなって。</Dialog>
-          <Dialog>そ、そうだったの……。</Dialog>
-          <Dialog>だからさ、初めて同士だな？</Dialog>
-          <Dialog>うん。あ、でもこれはデートじゃ……。</Dialog>
-          <Dialog>そろそろ日が落ちるからさ、海の方、行ってみようか？</Dialog>
-          <Dialog>はい、先生。ふふ！</Dialog>
-          <Dialog>不思議……海なんて何度も来てるのに、こうしてると、初めて来る場所みたい。</Dialog>
-          <Dialog>こうしてると？</Dialog>
-          <Dialog>うん……こうやって二人で並んで、日が沈むのを眺めて……。</Dialog>
-          <Dialog>じゃあ、少しは役に立ちそうだな。　えぇと、デートの付き添いの。</Dialog>
-          <Dialog>……ふふ、うん。</Dialog>
-          <Dialog>はぁ、到着。なんかたくさん歩いたな……。</Dialog>
-          <Dialog>うん。デートって、思ったよりいい運動になるね？</Dialog>
-          <Dialog>だな。</Dialog>
-          <Dialog>ありがとう。すごく楽しかった。</Dialog>
-          <Dialog>ああ、良かったな。</Dialog>
-          <Dialog>あの……▲主人公＊▲。</Dialog>
-          <Dialog>？</Dialog>
-          <Dialog>あのね、やっぱり今日は……デートだったのかな、なんて。</Dialog>
-          <Dialog>▲高嶺＊＊▲……。</Dialog>
-          <Dialog>またね？</Dialog>
-          <Dialog>（▲高嶺＊＊▲と……デートしちゃった）</Dialog>
+          <Dialog>It's a good spot, right？ It's
+close and it's not dangerous.
+It's very suitable for dates.</Dialog>
+          <Dialog>Yeah. I think it's a wonderful
+spot for a first date...</Dialog>
+          <Dialog>I'm glad.</Dialog>
+          <Dialog>What should we do next？ Like,
+if we were on a date...</Dialog>
+          <Dialog>Let's see... For the moment,
+let's take a stroll！</Dialog>
+          <Dialog>Okay！ Hehe！</Dialog>
+          <Dialog>I'm a bit tired.</Dialog>
+          <Dialog>Yeah, we've walked quite a
+distance.</Dialog>
+          <Dialog>So, a date is something like
+this.</Dialog>
+          <Dialog>Hehe... Ah, Teacher...</Dialog>
+          <Dialog>Teacher？ Me？ Was there
+something you want to know？
+Go ahead,
+▲高嶺＊＊▲.</Dialog>
+          <Dialog>Teacher, have you... been on a
+date before？</Dialog>
+          <Dialog>Me？ Well...</Dialog>
+          <Dialog>Actually, this is also my
+first date</Dialog>
+          <Dialog>Well, I've been around</Dialog>
+          <Dialog>Of course not！</Dialog>
+          <Dialog>That's why I'm sorry if I'm
+not quite reliable.</Dialog>
+          <Dialog>No, that's not the case.</Dialog>
+          <Dialog>Besides... That makes me a bit
+happy.</Dialog>
+          <Dialog>Huh...</Dialog>
+          <Dialog>What is it？</Dialog>
+          <Dialog>Nothing, I was just thinking
+that you're really reliable.</Dialog>
+          <Dialog>I-I see...</Dialog>
+          <Dialog>So then we're both
+first-timers, right？</Dialog>
+          <Dialog>Yeah. Ah, but this isn't a
+date...</Dialog>
+          <Dialog>The sun is going to be setting
+soon. How about we head
+towards the sea？</Dialog>
+          <Dialog>Yes, Teacher！ Hehe！</Dialog>
+          <Dialog>It's so mysterious... I've
+been to the sea many times,
+but when I'm here like this,
+it feels like it's the first
+time.</Dialog>
+          <Dialog>You mean like this？</Dialog>
+          <Dialog>Yeah... The two of us standing
+here, watching the sunset...</Dialog>
+          <Dialog>Then I guess I was of some
+help. Er, for the practice
+date.</Dialog>
+          <Dialog>...Hehe, yeah.</Dialog>
+          <Dialog>Hah, we're finally back. We
+sure walked a lot today...</Dialog>
+          <Dialog>Yeah. I've never imagined that
+dating would be such great
+exercise.</Dialog>
+          <Dialog>It sure was.</Dialog>
+          <Dialog>Thank you. I had a lot of fun.</Dialog>
+          <Dialog>Yeah, I'm glad.</Dialog>
+          <Dialog>Um...
+▲主人公＊▲.</Dialog>
+          <Dialog>...？</Dialog>
+          <Dialog>You know, maybe today...
+really was a date, right？</Dialog>
+          <Dialog>▲高嶺＊＊▲...</Dialog>
+          <Dialog>See you later.</Dialog>
+          <Dialog>(I just had a date with
+▲高嶺＊＊▲
+then...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4700,31 +5168,50 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（あ、▲高嶺＊＊▲だ！）</Dialog>
-          <Dialog>オッス、▲高嶺＊＊▲。一緒に、帰ろうか？</Dialog>
+          <Dialog>(Ah, it's
+▲高嶺＊＊▲！)</Dialog>
+          <Dialog>Yo,
+▲高嶺＊＊▲.
+Want to go home together？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>……うん。</Dialog>
-          <Dialog>なあ、聞いた？</Dialog>
-          <Dialog>なに？</Dialog>
-          <Dialog>部のやつら、またウイニングバーガーの集い、やるみたいだぞ？</Dialog>
-          <Dialog>……そう。</Dialog>
-          <Dialog>▲高嶺＊＊▲もさ、来てみろよ。な？</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>難しいかもしれないけど、▲高嶺＊＊▲から声かけたら、きっと、みんな喜ぶぞ？</Dialog>
-          <Dialog>わたし、なんて言えばいいか……。</Dialog>
-          <Dialog>そうだな、ここは一つイメチェンも含めて……。</Dialog>
-          <Dialog>行くぞ？</Dialog>
-          <Dialog>オッス、愛花だよ♪一緒に帰ろ？</Dialog>
-          <Dialog>…………。</Dialog>
-          <Dialog>テヘ▼</Dialog>
-          <Dialog>……無理。</Dialog>
-          <Dialog>ちがうちがう、不気味なのは●だからで、▲高嶺＊＊▲がやればゼッタイ、ヤバいって！</Dialog>
-          <Dialog>ヤバい……。</Dialog>
-          <Dialog>いい意味でさ！　大丈夫、ゼッタイいける！</Dialog>
-          <Dialog>オッス、愛花だよ♪一緒に帰ろ？　……なんて。</Dialog>
-          <Dialog>……ヤバいかも。</Dialog>
-          <Dialog>だって、やれって言うからっ！</Dialog>
-          <Dialog>ちがうちがう！　ゼッタイいける！</Dialog>
+          <Dialog>...Okay.</Dialog>
+          <Dialog>Hey, did you know？</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>It looks like everyone from
+the club will be going to
+Winning Burger again.</Dialog>
+          <Dialog>...I see.</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+You should come, too. Okay？</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>It might be hard, but if
+▲高嶺＊＊▲
+calls out to them, I think
+it'll make everyone happy.</Dialog>
+          <Dialog>I don't know what to say...</Dialog>
+          <Dialog>I see. So, let's do some image
+training...</Dialog>
+          <Dialog>...Ready？</Dialog>
+          <Dialog>"Yo, Manaka's here♪ Wanna go
+home together？."</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>"Teehee▼."</Dialog>
+          <Dialog>...I can't do it.</Dialog>
+          <Dialog>No, no. It only seems weird
+because I'm doing it. If
+▲高嶺＊＊▲
+does it, it'll definitely be
+wicked！</Dialog>
+          <Dialog>...Wicked？</Dialog>
+          <Dialog>In a good way！ Don't worry,
+it'll definitely be great！</Dialog>
+          <Dialog>"Yo, Manaka's here♪ Wanna go
+home together？" ...Just
+kidding.</Dialog>
+          <Dialog>...That might be wicked.</Dialog>
+          <Dialog>But you told me to say it！</Dialog>
+          <Dialog>No, no！ It'll definitely be
+great！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4899,31 +5386,48 @@
         </Unknown>
         <Dialogs>
           <Dialog>部員Ａ</Dialog>
-          <Dialog>おい、行くだろ？　ウイニングバーガー！</Dialog>
+          <Dialog>Hey, you're coming, right？ To
+Winning Burger.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、そうだな……えぇと、▲高嶺＊＊▲、見なかった？</Dialog>
-          <Dialog>高嶺？　さぁ……。いつも通り帰ったんだろ？</Dialog>
-          <Dialog>（そうか、帰っちゃったか……）</Dialog>
-          <Dialog>（あれ？　あそこにいるの……）</Dialog>
-          <Dialog>▲高嶺＊＊▲!!</Dialog>
+          <Dialog>Yeah, I am... Er, have you
+seen
+▲高嶺＊＊▲？</Dialog>
+          <Dialog>Takane？ No... She usually
+goes straight home, right？</Dialog>
+          <Dialog>(I see. She already went
+home...)</Dialog>
+          <Dialog>(Hm？ Who is that over
+there...)</Dialog>
+          <Dialog>▲高嶺＊＊▲！！</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>あ、あの……。</Dialog>
-          <Dialog>わたし、あの……。</Dialog>
-          <Dialog>（▲高嶺＊＊▲。がんばれ……）</Dialog>
-          <Dialog>オッス、愛花だよ♪一緒に帰ろ？</Dialog>
+          <Dialog>Ah, um...</Dialog>
+          <Dialog>I, um...</Dialog>
+          <Dialog>(▲高嶺＊＊▲
+Do your best...)</Dialog>
+          <Dialog>Yo, Manaka's here♪ Wanna go
+home together？</Dialog>
           <Dialog>部員たち</Dialog>
-          <Dialog>…………。</Dialog>
-          <Dialog>あの、えと……テヘ▼</Dialog>
-          <Dialog>（やった、大成功！）</Dialog>
-          <Dialog>今日は大モテだったな？</Dialog>
-          <Dialog>そんなこと……。</Dialog>
-          <Dialog>ホントはさ、みんな▲高嶺＊＊▲と話したかったってことだろ。</Dialog>
-          <Dialog>本当？　そう思った？</Dialog>
-          <Dialog>思った。ちょっとジェラシーだった。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>冗談だよ。またな？</Dialog>
-          <Dialog>冗談……だよね、うん。……またね？</Dialog>
-          <Dialog>（ハァ～、これからは競争率上がりそうだな……）</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>Um, er... Teehee▼</Dialog>
+          <Dialog>(She did it. It's a big
+success！)</Dialog>
+          <Dialog>You were really popular today,
+huh？</Dialog>
+          <Dialog>That's not the case....</Dialog>
+          <Dialog>The truth is, everyone wanted
+to talk to you,
+▲高嶺＊＊▲.</Dialog>
+          <Dialog>Really？ You think so？</Dialog>
+          <Dialog>I do. I'm actually a bit
+jealous...</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>I'm joking. See you later,
+okay？</Dialog>
+          <Dialog>A joke... Is it... Yeah.
+...See you later.</Dialog>
+          <Dialog>(*sigh* After today, there's
+going to be more
+competition...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5123,34 +5627,50 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（あ、▲高嶺＊＊▲だ！）</Dialog>
-          <Dialog>オッス、▲高嶺＊＊▲。……もしかして、待ってくれてた？</Dialog>
+          <Dialog>(Ah, it's
+▲高嶺＊＊▲！)</Dialog>
+          <Dialog>Yo,
+▲高嶺＊＊▲...
+Could it be that you were
+waiting for me？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん……迷惑じゃなかった？</Dialog>
-          <Dialog>ぜんぜん？</Dialog>
-          <Dialog>よかった。じゃあ、行こ？</Dialog>
-          <Dialog>ねぇ、ウイニングバーガーの新作、食べていこう？</Dialog>
-          <Dialog>いいけど……寄り道は？</Dialog>
-          <Dialog>速やかに食べればいいんだもん。ね？</Dialog>
-          <Dialog>だよな？　よし、じゃあ……ん？</Dialog>
+          <Dialog>Yeah... Am I a bother？</Dialog>
+          <Dialog>Not at all.</Dialog>
+          <Dialog>I'm glad. Then shall we go？</Dialog>
+          <Dialog>Hey, want to try Winning
+Burger's new item？</Dialog>
+          <Dialog>Sure... But, is it okay to
+stop by on the way home？</Dialog>
+          <Dialog>It's fine if we eat fast.
+Right？</Dialog>
+          <Dialog>Right. Okay, then... Hm？</Dialog>
           <Dialog>三好</Dialog>
-          <Dialog>あっ！　高嶺、見っけ！</Dialog>
+          <Dialog>Ah, Takane！ Found you！</Dialog>
           <Dialog>女子Ｂ</Dialog>
-          <Dialog>ねぇねぇ、デキシーズ寄ってこう？</Dialog>
-          <Dialog>あの……でも、わたし……。</Dialog>
-          <Dialog>あれ？　もしかして……ツーショットだった？</Dialog>
-          <Dialog>ウソ……そうなの？</Dialog>
-          <Dialog>違うの！　そういうのじゃ、ないから……。</Dialog>
-          <Dialog>でも、なんかいい感じに見えるけど……。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>気のせいだろ？　じゃあな、▲高嶺＊＊▲！</Dialog>
-          <Dialog>うん。じゃあ、ね？</Dialog>
-          <Dialog>じゃあ、高嶺かりてくね？</Dialog>
-          <Dialog>ごめんね？　バイバーイ！</Dialog>
+          <Dialog>Hey, hey, want to come to
+Dixie's with us？</Dialog>
+          <Dialog>Um... But, I...</Dialog>
+          <Dialog>Eh？ Don't tell me that you
+two are... dating？</Dialog>
+          <Dialog>No way！ Really？！</Dialog>
+          <Dialog>No！ We're not like that...</Dialog>
+          <Dialog>But somehow, you two look good
+together...</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>...Isn't that just your
+imagination？ See you later,
+▲高嶺＊＊▲！</Dialog>
+          <Dialog>Okay, bye.</Dialog>
+          <Dialog>Then we'll be taking Takane
+with us.</Dialog>
+          <Dialog>Sorry, Bye-bye！</Dialog>
           <Dialog>２人</Dialog>
-          <Dialog>ちょっと、高嶺どうなってんの？
-話はゆっくり聞くからね？</Dialog>
-          <Dialog>（そういうのじゃない、か……まあ、実際、そうなんだろうな）</Dialog>
+          <Dialog>Hey, Takane. What do you want
+to talk about？ Let's talk
+about this, okay？</Dialog>
+          <Dialog>("We are not like that" she
+said... Well, it's true, isn't
+it？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5350,36 +5870,58 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（あ、▲高嶺＊＊▲だ！）</Dialog>
-          <Dialog>オッス、▲高嶺＊＊▲。待っててくれたのか？</Dialog>
+          <Dialog>(Ah, it's
+▲高嶺＊＊▲！)</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+Were you waiting for me？</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん、少しだけど。……あ。</Dialog>
+          <Dialog>Yeah, that's right. ...Ah！</Dialog>
           <Dialog>男子Ａ</Dialog>
-          <Dialog>おい、メンラー行くぞ、メンラー！</Dialog>
-          <Dialog>ああ、悪い、今日はちょっと……。</Dialog>
+          <Dialog>Hey, let's go eat noodles!
+Noodles!</Dialog>
+          <Dialog>Ah, sorry. I can't today...</Dialog>
           <Dialog>男子Ｂ</Dialog>
-          <Dialog>おまえ、まさか、高嶺ちゃんと……。</Dialog>
-          <Dialog>あの、行って来て？　わたしも、用を思い出したから。</Dialog>
-          <Dialog>▲高嶺＊＊▲、でも……。</Dialog>
-          <Dialog>じゃあ、決まり！　高嶺ちゃんとツーショットとか許されねーから！</Dialog>
-          <Dialog>なんでだよ！　おい、引っ張んなっ！</Dialog>
-          <Dialog>（やっと解放された……男だけだとアレな話で遅くなるんだよな……）</Dialog>
+          <Dialog>You... Don't tell me you and
+Takane-chan are...</Dialog>
+          <Dialog>Um, you should go. I have some
+errands to do today.</Dialog>
+          <Dialog>▲高嶺＊＊▲,
+but...</Dialog>
+          <Dialog>Okay, you're coming！ I can't
+allow you to be alone with
+Takane-chan！</Dialog>
+          <Dialog>What is this！？ Hey, stop
+pulling me！</Dialog>
+          <Dialog>(I can finally go home... I
+can't believe I hung out with
+those guys until this late...)</Dialog>
           <Dialog>？？？</Dialog>
-          <Dialog>オッス！</Dialog>
-          <Dialog>!?</Dialog>
-          <Dialog>愛花だよ♪　一緒に帰ろ？</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>なんて……。</Dialog>
-          <Dialog>なにやってんだよ、こんな時間に……。</Dialog>
-          <Dialog>わたし、一緒に帰ろうと思って……ごめんなさい。</Dialog>
-          <Dialog>ずっと、待ってたのか……行こう、家まで送るから。</Dialog>
-          <Dialog>（噂には聞いてたけど……すごい家だな……）</Dialog>
-          <Dialog>ごめんなさい、遠くまで送らせちゃって。</Dialog>
-          <Dialog>待ってくれるのは嬉しいけどさ、あんまり無茶すんなよ、な？</Dialog>
-          <Dialog>うん、気をつける。</Dialog>
-          <Dialog>よし。……じゃあな？</Dialog>
-          <Dialog>優しいから、好き……お休みなさい。</Dialog>
-          <Dialog>（▲高嶺＊＊▲……）</Dialog>
+          <Dialog>Yo！</Dialog>
+          <Dialog>...！？</Dialog>
+          <Dialog>Manaka's here♪ Wanna go home
+together？</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>...Just kidding.</Dialog>
+          <Dialog>What are you doing here this
+late...</Dialog>
+          <Dialog>I really wanted to go home
+with you... I'm sorry.</Dialog>
+          <Dialog>You kept waiting for me？
+...Let's go. I'll walk you
+home.</Dialog>
+          <Dialog>(I've heard the rumors, but
+her house really is huge...)</Dialog>
+          <Dialog>Sorry for having you walk me
+home.</Dialog>
+          <Dialog>Although I'm happy that you
+waited for me, please don't
+overdo it, okay？</Dialog>
+          <Dialog>Okay. Be careful on your way
+home.</Dialog>
+          <Dialog>Yeah... See you later.</Dialog>
+          <Dialog>I like that you're kind...
+Good night.</Dialog>
+          <Dialog>(▲高嶺＊＊▲...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5614,38 +6156,58 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（あ、▲高嶺＊＊▲だ！）</Dialog>
+          <Dialog>(Oh, it's
+▲高嶺＊＊▲！)</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>オッス、一緒に帰ろ？</Dialog>
-          <Dialog>オッス、▲高嶺＊＊▲。それ、板についてきたな？</Dialog>
-          <Dialog>ふふ、うん。……あ。</Dialog>
+          <Dialog>Yo！ Wanna go home together？</Dialog>
+          <Dialog>▲高嶺＊＊▲.
+You're getting good at this.</Dialog>
+          <Dialog>Hehe, yup. ...Ah！</Dialog>
           <Dialog>女子Ａ</Dialog>
-          <Dialog>あっ！　高嶺、見っけ！</Dialog>
+          <Dialog>Ah, Takane！ Found you！</Dialog>
           <Dialog>女子Ｂ</Dialog>
-          <Dialog>ねぇねぇ、デキシーズ寄ってこう？</Dialog>
-          <Dialog>あの……でも、わたし……。</Dialog>
-          <Dialog>いいよ、▲高嶺＊＊▲、行って来いよ。</Dialog>
-          <Dialog>ううん。</Dialog>
-          <Dialog>……ごめんなさい、わたし達これから一緒に帰るところだから。</Dialog>
-          <Dialog>ウソ……高嶺ってもしかして……。</Dialog>
-          <Dialog>大丈夫！　ぜんっぜん、気にしないで？　ほら、行くよ！</Dialog>
+          <Dialog>Hey, hey, want to come to
+Dixie's？</Dialog>
+          <Dialog>Um... But, I...</Dialog>
+          <Dialog>It's fine. You should go with
+them,
+▲高嶺＊＊▲.</Dialog>
+          <Dialog>No...</Dialog>
+          <Dialog>...Sorry. We already agreed to
+walk home together.</Dialog>
+          <Dialog>No way... Is Takane perhaps...</Dialog>
+          <Dialog>It's okay！ There's no way
+that can happen, right？ Hey,
+let's go.</Dialog>
           <Dialog>女子ＡＢ</Dialog>
-          <Dialog>ウソー、あの二人！　聞こえるって！</Dialog>
-          <Dialog>▲高嶺＊＊▲……。</Dialog>
-          <Dialog>（噂には聞いてたけど……すごい家だな……）</Dialog>
-          <Dialog>表は閉まってるから、こっち。</Dialog>
-          <Dialog>ごめんなさい、遠くまで送らせちゃって。</Dialog>
-          <Dialog>いいよ、べつに。……それより、よかったのか、みんなの誘い断って？</Dialog>
-          <Dialog>大丈夫。みんなには、ちゃんと言おうと思ってるから……。</Dialog>
-          <Dialog>なにを？</Dialog>
-          <Dialog>それは……わたしが……。</Dialog>
+          <Dialog>No way. Those two！ Did you
+hear that？</Dialog>
+          <Dialog>▲高嶺＊＊▲...</Dialog>
+          <Dialog>(I've heard the rumors, but
+her house really is huge...)</Dialog>
+          <Dialog>The front door is locked, so
+come over here.</Dialog>
+          <Dialog>Sorry for having you walk me
+home.</Dialog>
+          <Dialog>Don't worry about it. ...More
+importantly, was it really
+okay to turn everyone down？</Dialog>
+          <Dialog>It's fine. I was thinking of
+telling everyone anyway...</Dialog>
+          <Dialog>Tell them what？</Dialog>
+          <Dialog>That is... That I...</Dialog>
           <Dialog>高嶺父</Dialog>
-          <Dialog>愛花、帰ったのか？　早く入りなさい。</Dialog>
-          <Dialog>はい！　ただいま！</Dialog>
-          <Dialog>ごめんなさい、じゃあ、これで……静かに、ね？</Dialog>
-          <Dialog>あ、ああ……べつに、やましいところは無いけどな？</Dialog>
-          <Dialog>家のお父さん、剣道と柔道、合わせて八段だから……。</Dialog>
-          <Dialog>（よし、静かに帰ろう……）</Dialog>
+          <Dialog>Manaka, are you home？ Hurry
+up and come inside.</Dialog>
+          <Dialog>Yes！ I'm home！</Dialog>
+          <Dialog>Sorry, I have to go... Leave
+quietly, okay？</Dialog>
+          <Dialog>Yeah... But, I didn't do
+anything wrong, right？</Dialog>
+          <Dialog>My father is a black belt in
+kendo and judo...</Dialog>
+          <Dialog>(All right, I'll leave
+quietly...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

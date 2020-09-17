@@ -61,15 +61,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>担任</Dialog>
-          <Dialog>じゃあ次の問題は……。</Dialog>
+          <Dialog>Teacher</Dialog>
+          <Dialog>Now, the next question...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（う、目が合った……）</Dialog>
-          <Dialog>はい、やってくれる？</Dialog>
-          <Dialog>はい、よくできました。</Dialog>
-          <Dialog>（勉強しておいてよかった……）</Dialog>
-          <Dialog>もっとちゃんと勉強しておくこと。</Dialog>
-          <Dialog>（もう少し勉強しておいた方がいいかな……）</Dialog>
+          <Dialog>(Urgh... Our eyes met.)</Dialog>
+          <Dialog>Right, can you try it？</Dialog>
+          <Dialog>Good. Well done.</Dialog>
+          <Dialog>(I'm glad I studied
+beforehand...)</Dialog>
+          <Dialog>You should have studied
+properly beforehand.</Dialog>
+          <Dialog>(Maybe it's a good idea to
+study harder...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -103,12 +106,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>担任</Dialog>
-          <Dialog>はい、今日は小テストをやります。</Dialog>
+          <Dialog>Teacher</Dialog>
+          <Dialog>Okay, today we'll be having a
+quiz.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（抜き打ちか、大丈夫かな……）</Dialog>
-          <Dialog>（いいできだ。勉強しておいてよかった……）</Dialog>
-          <Dialog>（だめだった、もっと勉強した方がいいかな……）</Dialog>
+          <Dialog>(This is a bit sudden... Will
+I be okay？)</Dialog>
+          <Dialog>(I did well. I'm glad I
+studied beforehand...)</Dialog>
+          <Dialog>(That was awful. I should have
+studied more...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -163,14 +170,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（今日の体育は試合形式か……）</Dialog>
-          <Dialog>体育教師</Dialog>
-          <Dialog>ようし、はじめー！</Dialog>
-          <Dialog>男子Ａ</Dialog>
-          <Dialog>やるじゃん、大活躍だな。</Dialog>
-          <Dialog>（普段から体を鍛えてるおかげかな……）</Dialog>
-          <Dialog>おーい、もっとしっかりしてくれよ～。</Dialog>
-          <Dialog>（もう少し普段から体を動かした方がいいかな……）</Dialog>
+          <Dialog>(We'll be having a match
+during P.E. class today.)</Dialog>
+          <Dialog>P.E. Teacher</Dialog>
+          <Dialog>Ready？ Set. Go！</Dialog>
+          <Dialog>Guy A</Dialog>
+          <Dialog>That was great. You did very
+well.</Dialog>
+          <Dialog>(I'm glad I've exercised
+regularly...)</Dialog>
+          <Dialog>Hey！ Can't you be a bit more
+serious！？</Dialog>
+          <Dialog>(I should exercise more
+regularly...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -224,14 +236,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>体育教師</Dialog>
-          <Dialog>今日は体力テストを行う！</Dialog>
+          <Dialog>P.E. teacher</Dialog>
+          <Dialog>Today, we will have a physical
+strength test！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（いきなりだな、大丈夫かな……）</Dialog>
-          <Dialog>ようし、合格！</Dialog>
-          <Dialog>（普段から体を鍛えておいてよかった……）</Dialog>
-          <Dialog>おい、どうした。体動いてないぞ!?</Dialog>
-          <Dialog>（もっと運動した方がいいかも……）</Dialog>
+          <Dialog>(It's sudden... Will I be
+okay？)</Dialog>
+          <Dialog>Good. You passed！</Dialog>
+          <Dialog>(I'm glad I've been exercising
+regularly...)</Dialog>
+          <Dialog>Hey, what's wrong？ Can't you
+even move your body！？</Dialog>
+          <Dialog>(I should've exercised
+more...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -285,14 +302,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>音楽教師</Dialog>
-          <Dialog>はい、今日は実技のテストをしますよ。</Dialog>
+          <Dialog>Music teacher</Dialog>
+          <Dialog>Okay, today I'll test
+everyone's practical skill.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（実技……大丈夫かな……）</Dialog>
-          <Dialog>うん、素晴らしいですね。</Dialog>
-          <Dialog>（普段から感性を磨いてるからかな……）</Dialog>
-          <Dialog>う～ん、もっと頑張りましょうね。</Dialog>
-          <Dialog>（もっと感性を磨いた方がいいのかも……）</Dialog>
+          <Dialog>(Skill？ Will I be okay？)</Dialog>
+          <Dialog>Yes. Wonderfully done.</Dialog>
+          <Dialog>(It's good that I've been
+working on my sense.)</Dialog>
+          <Dialog>Hmm... You'll have to try
+harder next time, okay？</Dialog>
+          <Dialog>(I should've worked on my
+sense a bit more...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -346,14 +367,22 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>美術教師</Dialog>
-          <Dialog>えー、今日は前に出した課題を提出してもらいます。</Dialog>
+          <Dialog>Art teacher</Dialog>
+          <Dialog>Okay, everyone. You will have
+to present your work in front
+of the class today.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（一応やってきたけど、どうかな……）</Dialog>
-          <Dialog>素晴らしい！　いいセンスを持ってますね。</Dialog>
-          <Dialog>（普段から感性を磨いてるからかな……）</Dialog>
-          <Dialog>これは……ある意味芸術的とも、言えなくもない……。</Dialog>
-          <Dialog>（もっと感性を磨いた方がいいのかも……）</Dialog>
+          <Dialog>(I wonder if this will be
+okay...)</Dialog>
+          <Dialog>Wonderful！ You possess such
+great sense.</Dialog>
+          <Dialog>(It's good that I've been
+working on my sense.)</Dialog>
+          <Dialog>This is... I'm trying to
+figure out its artistic merit,
+but...</Dialog>
+          <Dialog>(I should've worked on my
+sense a bit more...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -442,19 +471,30 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>男子Ａ</Dialog>
-          <Dialog>なぁお前、最近評判いいみたいだな。</Dialog>
+          <Dialog>Guy A</Dialog>
+          <Dialog>Hey, you. You've been quite
+popular lately.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうなのか？</Dialog>
-          <Dialog>男子Ｂ</Dialog>
-          <Dialog>そうそう、前に別のクラスの女子からお前のこと聞かれちゃったよ。</Dialog>
-          <Dialog>くっそー、羨ましいな。</Dialog>
-          <Dialog>（格好や行動に気を付けてるからかな……）</Dialog>
-          <Dialog>なぁお前……最近あんま評判よくないみたいだぞ。</Dialog>
-          <Dialog>そうなのか!?</Dialog>
-          <Dialog>らしいな、女子がたまに噂してるっぽい。</Dialog>
-          <Dialog>早くなんとかした方がいいぜ。</Dialog>
-          <Dialog>（そうだったのか、少し格好や行動に注意してみるか……）</Dialog>
+          <Dialog>Is that so？</Dialog>
+          <Dialog>Guy B</Dialog>
+          <Dialog>Yeah, yeah. Earlier, a girl
+from another class asked me
+about you.</Dialog>
+          <Dialog>Geez. I'm so jealous.</Dialog>
+          <Dialog>(Maybe it's because I've been
+paying attention to my
+appearance and behavior,
+huh？)</Dialog>
+          <Dialog>Hey, you... You don't seem to
+be very popular lately.</Dialog>
+          <Dialog>Really！？</Dialog>
+          <Dialog>I guess. The girls are
+gossiping about you.</Dialog>
+          <Dialog>I think it's better if you try
+to do something with yourself.</Dialog>
+          <Dialog>(Is that so？ I think I should
+pay more attention to my
+appearance and behavior...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -543,19 +583,28 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>女子Ａ</Dialog>
-          <Dialog>ねぇねぇ、あなた最近評判いいよ。</Dialog>
+          <Dialog>Girl A</Dialog>
+          <Dialog>Hey, hey. You're quite
+popular, you know？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうなのか？</Dialog>
-          <Dialog>女子Ｂ</Dialog>
-          <Dialog>だね、女子の間でたまに話題になるよ？</Dialog>
-          <Dialog>やるね～。</Dialog>
-          <Dialog>（格好や行動に気を付けてるからかな……）</Dialog>
-          <Dialog>あなた……最近評判よくないよ。</Dialog>
-          <Dialog>そうなのか!?</Dialog>
-          <Dialog>うん、ちょっとね……よくない話も聞くかも。</Dialog>
-          <Dialog>もうちょっと気を付けてみたら？</Dialog>
-          <Dialog>（そうだったのか、少し格好や行動に注意してみるか……）</Dialog>
+          <Dialog>Is that so？</Dialog>
+          <Dialog>Girl B</Dialog>
+          <Dialog>Yeah, us girls talk about you
+a lot.</Dialog>
+          <Dialog>That's great, isn't it？</Dialog>
+          <Dialog>(Maybe it's because I've been
+paying attention to my
+appearance and behavior,
+huh？)</Dialog>
+          <Dialog>You... Lately, you've been so
+unpopular.</Dialog>
+          <Dialog>Is this true！？</Dialog>
+          <Dialog>Yeah, there are bad rumors
+about you as well...</Dialog>
+          <Dialog>You'd better watch out, okay？</Dialog>
+          <Dialog>(Is that so？ I think I should
+pay more attention to my
+appearance and behavior...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -624,16 +673,26 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>担任</Dialog>
-          <Dialog>あなた最近、頑張ってるみたいね。</Dialog>
+          <Dialog>Teacher</Dialog>
+          <Dialog>You've been working hard
+lately, eh？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうですか？</Dialog>
-          <Dialog>えぇ、他の先生方からも、態度が真面目で好感がもてるって評判よ？　その調子でね。</Dialog>
-          <Dialog>（そっか、行動に気を付けてるからかな……）</Dialog>
-          <Dialog>ねぇあなた……もう少し、しっかりしてくれないと……。</Dialog>
-          <Dialog>え!?</Dialog>
-          <Dialog>他の先生方からも、よくない話を聞くわ。もっと、きちんとね。</Dialog>
-          <Dialog>（そうだったのか、少し行動に注意してみるか……）</Dialog>
+          <Dialog>Do you really think so？</Dialog>
+          <Dialog>Yes, even other teachers have
+mentioned you and said that
+you're diligent. Keep it up,
+okay？</Dialog>
+          <Dialog>(I see. It's good to be
+careful with my behavior.)</Dialog>
+          <Dialog>Hey, you... Can you take
+things more seriously？</Dialog>
+          <Dialog>Eh！？</Dialog>
+          <Dialog>I've heard bad things about
+you from other teachers as
+well. You'd better clean up
+your act.</Dialog>
+          <Dialog>(Really？ I should be careful
+from now on...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -692,15 +751,24 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>男子部員</Dialog>
-          <Dialog>なぁ、ちょっと勉強でわからないところあるんだけど、聞いていいか？</Dialog>
+          <Dialog>Member</Dialog>
+          <Dialog>Hey, there's something I
+didn't understand when I was
+studying. Mind if I ask you？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>お、おう……。</Dialog>
-          <Dialog>（大丈夫かな……）</Dialog>
-          <Dialog>サンキュ！　助かったよ、お前けっこう勉強してんだな。</Dialog>
-          <Dialog>（普段から勉強しておいてよかった……）</Dialog>
-          <Dialog>なんだよ、頼りにならないな。他を当たるわ。</Dialog>
-          <Dialog>（……もう少し勉強した方がいいかも……）</Dialog>
+          <Dialog>No problem...</Dialog>
+          <Dialog>(I hope it'll be okay...)</Dialog>
+          <Dialog>Thank you！ You really saved
+me. You know your stuff pretty
+well, huh？</Dialog>
+          <Dialog>(Good thing I studied
+regularly...)</Dialog>
+          <Dialog>What is this...？ You're
+unreliable, you know？ I'll go
+ask someone else.</Dialog>
+          <Dialog>(...Maybe it would have been a
+good idea to study a little
+more...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -754,14 +822,22 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>男子部員</Dialog>
-          <Dialog>なぁなぁ。見たか、あの試合？　すごかったよな。</Dialog>
+          <Dialog>Member</Dialog>
+          <Dialog>Hey, hey. Did you watch that
+match？ It was awesome.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっと……。</Dialog>
-          <Dialog>だよなー、あそこであれは返せないよなー。</Dialog>
-          <Dialog>（話が合ってよかった、勉強しておいてよかったな……）</Dialog>
-          <Dialog>なんだ見てないのか、じゃあいいや。……あっ、お前はあの試合見た？</Dialog>
-          <Dialog>（もう少し勉強しておくべきかな……）</Dialog>
+          <Dialog>Um...</Dialog>
+          <Dialog>I know, right？ No way he
+could've returned it from
+there.</Dialog>
+          <Dialog>(I'm glad we could chat like
+this. Good thing I was well
+prepared...)</Dialog>
+          <Dialog>What？ You didn't watch it？
+Well, that's okay... Ah！ Did
+you watch that match？</Dialog>
+          <Dialog>(I guess I should've paid
+closer attention...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -815,15 +891,22 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>部長</Dialog>
-          <Dialog>今日の練習はここまで！</Dialog>
+          <Dialog>Captain</Dialog>
+          <Dialog>That's the end of today's
+practice！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はぁ、今日も疲れた……。</Dialog>
-          <Dialog>男子部員</Dialog>
-          <Dialog>お疲れ！　今日は大活躍だったな、やるじゃん。</Dialog>
-          <Dialog>（練習の成果かな……）</Dialog>
-          <Dialog>お疲れ、今日は調子悪かったのか？</Dialog>
-          <Dialog>（もう少し練習するか……）</Dialog>
+          <Dialog>Hah, today was tiring...</Dialog>
+          <Dialog>Member</Dialog>
+          <Dialog>Good work！ You were really
+active out there today. Keep
+it up.</Dialog>
+          <Dialog>(I guess that's the fruit of
+my labor...)</Dialog>
+          <Dialog>Thanks for trying out there
+today, but were you feeling
+sick or something？</Dialog>
+          <Dialog>(I should've practiced a bit
+more, huh...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -877,15 +960,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>部長</Dialog>
-          <Dialog>今日は部内で練習試合を行う！</Dialog>
+          <Dialog>Manager</Dialog>
+          <Dialog>Today, we have practice
+matches within the club！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（部内とはいえ試合だ、気合い入れるか）</Dialog>
-          <Dialog>（よーし、勝ったぞ！）</Dialog>
-          <Dialog>男子部員</Dialog>
-          <Dialog>あー、負けちまった。今度は勝つからな！</Dialog>
-          <Dialog>（負けてしまった……）</Dialog>
-          <Dialog>よし、今日は俺の勝ちだな！</Dialog>
+          <Dialog>(It's only a practice match
+among members, but I should
+still do my best.)</Dialog>
+          <Dialog>(All right！ I won！)</Dialog>
+          <Dialog>Member</Dialog>
+          <Dialog>Ah, I lost. Next time, the
+victory's mine！</Dialog>
+          <Dialog>(I lost...)</Dialog>
+          <Dialog>All right. Today, the
+victory's mine！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -940,13 +1028,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>顧問</Dialog>
-          <Dialog>どうだ、調子は？</Dialog>
+          <Dialog>How's everything going？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>先生……。</Dialog>
-          <Dialog>うん、ちゃんと基礎を練習してるみたいだな。</Dialog>
-          <Dialog>（日頃の練習の成果かな……）</Dialog>
-          <Dialog>……もっと基礎から固め直した方がいいみたいだな。</Dialog>
-          <Dialog>（練習するか……）</Dialog>
+          <Dialog>Well...</Dialog>
+          <Dialog>Yeah, it looks like you're
+practicing the basics
+properly.</Dialog>
+          <Dialog>(I guess it's the result of
+regular practice...)</Dialog>
+          <Dialog>...Looks like you'd better
+start from the basics.</Dialog>
+          <Dialog>(I guess I'll have to practice
+more, huh...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1021,16 +1114,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（さて、練習だ……）</Dialog>
-          <Dialog>男子部員</Dialog>
-          <Dialog>あ、お前が付けてるそれって……。</Dialog>
-          <Dialog>これか？</Dialog>
-          <Dialog>最近出たやつだよな。もう手に入れたのか、いいなぁ。</Dialog>
-          <Dialog>（流行を気にしてるおかげかな……）</Dialog>
-          <Dialog>なぁ、お前が付けてるそれ……。</Dialog>
-          <Dialog>これ？</Dialog>
-          <Dialog>ちょっとダサくないか？　いやいいんだけどさ……。</Dialog>
-          <Dialog>（もう少し流行を気にした方がいいかな……）</Dialog>
+          <Dialog>(Well then, it's practice
+time...)</Dialog>
+          <Dialog>Member</Dialog>
+          <Dialog>Ah, that thing you're
+wearing...</Dialog>
+          <Dialog>This？</Dialog>
+          <Dialog>It's only just come out and
+you already got one？ You're
+so lucky....</Dialog>
+          <Dialog>(It's good that I follow the
+latest trends...)</Dialog>
+          <Dialog>Hey, that thing you're
+wearing...</Dialog>
+          <Dialog>You mean this？</Dialog>
+          <Dialog>Isn't that kind of out of
+style？ I guess it's okay,
+but...</Dialog>
+          <Dialog>(Maybe I should pay more
+attention to fashion...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1123,17 +1225,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>顧問</Dialog>
-          <Dialog>お、やってるな。</Dialog>
+          <Dialog>Oh, working hard, eh？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>先生……。</Dialog>
-          <Dialog>うん、お前はセンスがいいみたいだな。</Dialog>
-          <Dialog>センス、ですか……。</Dialog>
-          <Dialog>基礎体力と練習も大事だが、いざ試合となるとセンスも重要だからな。そっちを磨くのも悪くないぞ。</Dialog>
-          <Dialog>（なるほど……）</Dialog>
-          <Dialog>う～ん、お前はセンスがいまいちかもな。</Dialog>
-          <Dialog>センス、というと……。</Dialog>
-          <Dialog>基礎体力や練習も大事だが、センスが試合を左右することもある。それがないと勝つのは難しいぞ。</Dialog>
-          <Dialog>（センスか……）</Dialog>
+          <Dialog>Teacher...</Dialog>
+          <Dialog>Yeah, you seem to have good
+senses.</Dialog>
+          <Dialog>Sense？ Meaning...</Dialog>
+          <Dialog>The basics are physical
+strength and practice. But in
+a match, sense is also
+essential. You've done pretty
+well.</Dialog>
+          <Dialog>(I see...)</Dialog>
+          <Dialog>Hmm, your senses might be
+lacking.</Dialog>
+          <Dialog>Sense...？</Dialog>
+          <Dialog>The basics are physical
+strength and practice. But
+sense can influence a match
+too. It's difficult to win
+without sense.</Dialog>
+          <Dialog>(Sense, huh...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1202,16 +1314,24 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>男子部員</Dialog>
-          <Dialog>お前、最近評判いいな。</Dialog>
+          <Dialog>Member</Dialog>
+          <Dialog>You've gotten popular lately.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうなのか？</Dialog>
-          <Dialog>あぁ。目立つし、頼れるやつだってな。</Dialog>
-          <Dialog>（格好や行動に気を付けてるからかな……）</Dialog>
-          <Dialog>なぁ……最近評判よくないみたいだぞ、お前。</Dialog>
-          <Dialog>そうなのか!?</Dialog>
-          <Dialog>頼りなくて、パッとしないって。俺はそうは思ってないけど……。</Dialog>
-          <Dialog>（そうだったのか、少し格好や行動に注意してみるか……）</Dialog>
+          <Dialog>You really think so？</Dialog>
+          <Dialog>Yeah. You stand out as a
+reliable guy.</Dialog>
+          <Dialog>(I wonder if it's because I'm
+being careful about my looks
+and behavior...)</Dialog>
+          <Dialog>Hey... I've heard a lot of bad
+things about you lately.</Dialog>
+          <Dialog>Really！？</Dialog>
+          <Dialog>People say you're not reliable
+and you don't stand out. I
+don't agree, but...</Dialog>
+          <Dialog>(Really？ I should've paid
+more attention to my looks and
+behavior...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1281,15 +1401,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>顧問</Dialog>
-          <Dialog>最近真面目に練習してるみたいだな。</Dialog>
+          <Dialog>Lately, it seems like you've
+been taking practice more
+seriously.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうですか？</Dialog>
-          <Dialog>あぁ、おかげで他の部員もいい刺激を受けてるみたいだ。</Dialog>
-          <Dialog>（そっか、行動に気を付けてるからかな……）</Dialog>
-          <Dialog>なぁお前……もうちょっと真面目に練習する気にはならないか？</Dialog>
-          <Dialog>え!?</Dialog>
-          <Dialog>他の部員にも迷惑がかかるからな、頑張ってくれよ。</Dialog>
-          <Dialog>（そうだったのか、少し行動に注意してみるか……）</Dialog>
+          <Dialog>You think so？</Dialog>
+          <Dialog>Yeah. It seems your enthusiasm
+has inspired the other
+members, too.</Dialog>
+          <Dialog>(Really？ I wonder if it's
+because I've been careful
+about my behavior...)</Dialog>
+          <Dialog>Hey, you... Can't you take
+practice a little more
+seriously？</Dialog>
+          <Dialog>Eh！？</Dialog>
+          <Dialog>You're being a burden to the
+other members. At least try
+harder, okay？</Dialog>
+          <Dialog>(Really... I guess I should've
+tried to pay more attention to
+my behavior...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1353,16 +1485,21 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>女子</Dialog>
-          <Dialog>あの、探してる本があるんですけど……。</Dialog>
+          <Dialog>Girl</Dialog>
+          <Dialog>Um, there's a book that I'm
+looking for...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はい……。</Dialog>
-          <Dialog>はい、これですね。</Dialog>
-          <Dialog>ありがとう、助かりました。</Dialog>
-          <Dialog>（普段から勉強しておいてよかった……）</Dialog>
-          <Dialog>えっと……これは……どこだっけ……？</Dialog>
-          <Dialog>もう、いいです。自分で探しますから……。</Dialog>
-          <Dialog>（……もう少し勉強した方がいいかも……）</Dialog>
+          <Dialog>Okay...</Dialog>
+          <Dialog>It's this one, right？</Dialog>
+          <Dialog>Thanks for helping me out.</Dialog>
+          <Dialog>(Good thing I've studied this
+stuff regularly...)</Dialog>
+          <Dialog>Let's see... Where was it
+again...？</Dialog>
+          <Dialog>Enough. I'll look for it
+myself...</Dialog>
+          <Dialog>(...Maybe I should've studied
+a bit more...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1387,9 +1524,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今日は書架の一斉整理をすることになった……。</Dialog>
-          <Dialog>結構早く終わったな。分類を覚えておいてよかった。</Dialog>
-          <Dialog>本の分類がよくわからなくて、苦労してしまった……。</Dialog>
+          <Dialog>Today I have to organize the
+bookshelves...</Dialog>
+          <Dialog>That was quick, Memorizing the
+library's classification
+system beforehand paid off.</Dialog>
+          <Dialog>I didn't really understand how
+to classify the books, so I
+had a hard time...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1424,11 +1566,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ここの本は、向こうに置くんだな。</Dialog>
-          <Dialog>少し量が多いけど……一気に運ぶか。</Dialog>
-          <Dialog>ふぅ、こんなもんだな。</Dialog>
-          <Dialog>うわ！</Dialog>
-          <Dialog>無理せずわけて運べばよかった……。</Dialog>
+          <Dialog>These books have to be placed
+on the other side.</Dialog>
+          <Dialog>There are quite a few. Can I
+carry all of them in one go？</Dialog>
+          <Dialog>Whew, just like this.</Dialog>
+          <Dialog>Whoa！</Dialog>
+          <Dialog>Good thing I was able to carry
+them all without hurting
+myself...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1463,11 +1609,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、今日は書架の掃除だ……。</Dialog>
-          <Dialog>よし、だいぶキレイになったな。</Dialog>
-          <Dialog>うわ！</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>はぁ、また整理しないと……。</Dialog>
+          <Dialog>Now then, today's agenda is
+cleaning the shelves...</Dialog>
+          <Dialog>All right, it's a lot cleaner
+now.</Dialog>
+          <Dialog>Whoa！</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>*sigh* If I don't sort them
+out again...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1492,9 +1641,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば前に●が推薦図書に挙げた本、評判はどうだろう……。</Dialog>
-          <Dialog>結構借りられてる。なんか嬉しいな。</Dialog>
-          <Dialog>……ぜんぜん借りられてない、失敗したかな。</Dialog>
+          <Dialog>That reminds me. Earlier, I
+recommended some books... I
+wonder what they thought of
+them.</Dialog>
+          <Dialog>People borrowed them...
+Somehow, that makes me happy.</Dialog>
+          <Dialog>No one borrowed them. What a
+failed attempt.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1534,12 +1688,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえばこの前の図書室だよりに載せた●の書評、何か反応あったかな。</Dialog>
-          <Dialog>アンケートＢＯＸをのぞいてみよう……。</Dialog>
-          <Dialog>“書評を見て気になり実際に読んでみたら、期待通りの内容だった。また参考にしたい”</Dialog>
-          <Dialog>自分の感性が認められたみたいで嬉しいな。</Dialog>
-          <Dialog>“書評を見て気になったから実際に読んでみたけど、期待していた内容と違った。見当違いの書評は載せないでくれ”</Dialog>
-          <Dialog>●の感性がおかしいのかな……。</Dialog>
+          <Dialog>That reminds me. Earlier, I
+wrote a book review. I wonder
+how it was received...</Dialog>
+          <Dialog>I'll just take a peek in the
+survey box...</Dialog>
+          <Dialog>"I tried reading the book. The
+contents lived up to my
+expectations. Eagerly awaiting
+the next recommendation."</Dialog>
+          <Dialog>Looks like my sense has been
+recognized. I'm glad.</Dialog>
+          <Dialog>"I tried reading the book, but
+it didn't live up to my
+expectations. Please don't
+post misleading book reviews."</Dialog>
+          <Dialog>I wonder if my sense is
+strange...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1609,15 +1774,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>顧問</Dialog>
-          <Dialog>この間君が選んでくれた入荷図書、評判がいいみたいだぞ。</Dialog>
+          <Dialog>The books you helped us order
+seem to be very popular.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうですか？</Dialog>
-          <Dialog>あぁ、学校の図書室に相応しいし、内容も面白いらしいな。</Dialog>
-          <Dialog>（自分のセンスが認められたのかな……）</Dialog>
-          <Dialog>あぁ……この間君が選んでくれた入荷図書、あれはちょっと……。</Dialog>
-          <Dialog>え!?</Dialog>
-          <Dialog>学校の図書室には相応しくないというか、見送らせてもらうよ……。</Dialog>
-          <Dialog>（そうだったのか、自分の感覚がおかしいのかな……）</Dialog>
+          <Dialog>Is that so？</Dialog>
+          <Dialog>Yes, they're appropriate for a
+school library, and the
+contents appear to be very
+interesting.</Dialog>
+          <Dialog>(Guess that means my sense has
+been recognized...)</Dialog>
+          <Dialog>Ah, the books you helped us
+order last time... They're a
+bit...</Dialog>
+          <Dialog>Eh！？</Dialog>
+          <Dialog>They're not appropriate for a
+school library. We'll have to
+send them back...</Dialog>
+          <Dialog>(Really？ I guess my sense is
+a bit off...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1676,15 +1851,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>女子</Dialog>
-          <Dialog>あの、この本借りたいんですけど……。</Dialog>
+          <Dialog>Girl</Dialog>
+          <Dialog>Um, I'd like to borrow this
+book...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はい……。</Dialog>
-          <Dialog>はい、どうぞ。</Dialog>
-          <Dialog>ありがとうございます、丁寧に教えてくれて……。</Dialog>
-          <Dialog>はい、これ。</Dialog>
-          <Dialog>……なんか、感じ悪い……。</Dialog>
-          <Dialog>（あ……もっと気を付けた方がいいか……）</Dialog>
+          <Dialog>Okay...</Dialog>
+          <Dialog>Okay, here you go.</Dialog>
+          <Dialog>Thank you very much, for
+patiently helping me...</Dialog>
+          <Dialog>No problem. Here you go.</Dialog>
+          <Dialog>...Somehow, I don't enjoy
+being here...</Dialog>
+          <Dialog>(Ah... Should I have been more
+careful...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1729,12 +1908,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（さて、今日も委員会だ……）</Dialog>
+          <Dialog>(Now then, there's a committee
+meeting today.)</Dialog>
           <Dialog>顧問</Dialog>
-          <Dialog>図書委員、真面目に取り組んでくれて助かってるよ。</Dialog>
-          <Dialog>（普段の行動のおかげかな……）</Dialog>
-          <Dialog>学校の委員会とはいえ、もうちょっとなんとかならんかな、その態度は……。</Dialog>
-          <Dialog>（もっと気をつけよう……）</Dialog>
+          <Dialog>The library committee has been
+very helpful by working
+diligently.</Dialog>
+          <Dialog>(I wonder if it's thanks to my
+usual actions...)</Dialog>
+          <Dialog>Although this is only a school
+committee, I hope that you can
+all be a bit more diligent.</Dialog>
+          <Dialog>(I'll have to be more
+careful...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1803,18 +1989,25 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>客</Dialog>
-          <Dialog>レジお願いしま～す。</Dialog>
+          <Dialog>Guest</Dialog>
+          <Dialog>Check, please.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はい、ただいま……。</Dialog>
-          <Dialog>（追加オーダー多いな……これはキャンセルか、面倒そうだな）</Dialog>
-          <Dialog>ありがとうございましたー。</Dialog>
-          <Dialog>はーい、また来るよ～。</Dialog>
-          <Dialog>（勉強しておいてよかった……）</Dialog>
-          <Dialog>えっと……これはどうするんだっけ……？</Dialog>
-          <Dialog>女子</Dialog>
-          <Dialog>もう、早くしてよー。いいから別の人呼んで。</Dialog>
-          <Dialog>（もう少し勉強した方がいいな、これは……）</Dialog>
+          <Dialog>Yes, one moment please.</Dialog>
+          <Dialog>(They ordered so many extra
+dishes... and they canceled
+this one... What a pain.)</Dialog>
+          <Dialog>Thank you very much.</Dialog>
+          <Dialog>I'll come back later.</Dialog>
+          <Dialog>(I'm glad I'm well
+prepared...)</Dialog>
+          <Dialog>Hm... What do I do with
+this...？</Dialog>
+          <Dialog>Girl</Dialog>
+          <Dialog>Hey, hurry up. If you can't,
+then just ask someone else to
+do it.</Dialog>
+          <Dialog>(I should've learned to do
+this in advance.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1844,10 +2037,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、そういえば今日からメニューが入れ替わるんだった。</Dialog>
-          <Dialog>仕事が始まる前に、ちゃんと頭に入ってるか確認しておくか。</Dialog>
-          <Dialog>よし、バッチリ覚えたぞ。</Dialog>
-          <Dialog>だめだ、ぜんぜん覚えてないのに、もう仕事が始まる時間だ……。</Dialog>
+          <Dialog>Ah, today we started using a
+new menu.</Dialog>
+          <Dialog>Before work starts, I should
+make sure to go over the new
+menu items.</Dialog>
+          <Dialog>All right, I remember all of
+them.</Dialog>
+          <Dialog>This isn't good. I can't
+remember any of them and my
+shift is about to start...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1877,10 +2076,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ちょっと皿の数が多いけど、一度に運べるだろ……。</Dialog>
-          <Dialog>よし、あれぐらいなら心配することなかったな。</Dialog>
-          <Dialog>あっ！</Dialog>
-          <Dialog>しまった、やっぱ無理だったか……。</Dialog>
+          <Dialog>There are a lot of dishes. I
+have to carry them all at
+once...</Dialog>
+          <Dialog>Handling this much is no
+problem for me.</Dialog>
+          <Dialog>Ah！</Dialog>
+          <Dialog>Geez, I guess it was
+impossible...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1910,10 +2113,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、今日は店内の掃除だ……。</Dialog>
-          <Dialog>よし、こんなもんだな。</Dialog>
-          <Dialog>あっ。</Dialog>
-          <Dialog>あーぁ……片付けないと……。</Dialog>
+          <Dialog>Well, it's my turn to sweep
+the floor today.</Dialog>
+          <Dialog>Okay, I guess that's it.</Dialog>
+          <Dialog>Ah！</Dialog>
+          <Dialog>Ah... I've got to tidy up...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1977,16 +2181,25 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店長</Dialog>
-          <Dialog>ねぇ君、これ新メニューなんだけど、味見してくれないかな。</Dialog>
+          <Dialog>Manager</Dialog>
+          <Dialog>Hey, you. This is from our new
+menu. Can you try it and give
+me your opinion？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はい……。</Dialog>
-          <Dialog>……という風にした方がいいと思います。</Dialog>
-          <Dialog>なるほど、参考になったよ。ありがとう。</Dialog>
-          <Dialog>（センスを磨いておいたおかげかな……）</Dialog>
-          <Dialog>……という感じで、こう、なんというか……。</Dialog>
-          <Dialog>よくわからないな。他のスタッフに聞くことにするよ……。</Dialog>
-          <Dialog>（もっとセンスを磨かないとな……）</Dialog>
+          <Dialog>Sure...</Dialog>
+          <Dialog>If you cook it that way, I
+think it will taste better.</Dialog>
+          <Dialog>I see. You're really helpful.
+Thanks.</Dialog>
+          <Dialog>(I'm glad I've been
+heightening my senses lately.)</Dialog>
+          <Dialog>....That's what I think.
+Something like that...</Dialog>
+          <Dialog>I don't quite get it. I'll ask
+some of the other staff to
+taste it then.</Dialog>
+          <Dialog>(I should've polished my
+sense...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2040,14 +2253,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店長</Dialog>
-          <Dialog>あ、君。今度やるフェアに向けて、店内のディスプレイをお願いしたいんだけど……。</Dialog>
+          <Dialog>Manager</Dialog>
+          <Dialog>Ah, you. For the coming fair,
+could you take care of the
+display？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>わかりました。</Dialog>
-          <Dialog>おぉ、見事だな。君に頼んでよかったよ。</Dialog>
-          <Dialog>（センスを磨いておいたおかげかな……）</Dialog>
-          <Dialog>これは……やり直さないとダメだな……。</Dialog>
-          <Dialog>（もっとセンスを磨かないとな……）</Dialog>
+          <Dialog>Okay. I got it.</Dialog>
+          <Dialog>Oh, wonderful. I'm glad I
+asked you to do this.</Dialog>
+          <Dialog>(I'm glad I've been
+heightening my senses lately.)</Dialog>
+          <Dialog>This is... You must do
+something with it, or...</Dialog>
+          <Dialog>(I should've polished my
+sense...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2101,14 +2320,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>客</Dialog>
-          <Dialog>あ、店員さ～ん！</Dialog>
+          <Dialog>Customer</Dialog>
+          <Dialog>Ah, waiter！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はい、ただいまー。</Dialog>
-          <Dialog>ありがと～、店員さん優しいね。</Dialog>
-          <Dialog>（普段から気を付けてるおかげかな……）</Dialog>
-          <Dialog>ねー、感じ悪くない？</Dialog>
-          <Dialog>（しまった、もっと気を付けよう……）</Dialog>
+          <Dialog>Yes. I'll be right there.</Dialog>
+          <Dialog>Thank you. You're so helpful.</Dialog>
+          <Dialog>(I think it's good to be
+attentive...)</Dialog>
+          <Dialog>Hey, the service here is
+pretty bad.</Dialog>
+          <Dialog>(Argh... I must be more
+attentive...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2177,16 +2399,24 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>店長</Dialog>
-          <Dialog>あ、君。最近お客様から、接客態度がいいとの声をいただいてるよ。</Dialog>
+          <Dialog>Manager</Dialog>
+          <Dialog>Ah, you. Our customers have
+praised you for your good
+service, you know？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ほんとうですか？</Dialog>
-          <Dialog>うん、これからもよろしく頼むよ。</Dialog>
-          <Dialog>（普段の行いのおかげかな……）</Dialog>
-          <Dialog>君……お客様から接客態度が悪いとクレームが来てるよ。</Dialog>
-          <Dialog>すいません……。</Dialog>
-          <Dialog>これからは気を付けるように。</Dialog>
-          <Dialog>（ダメだ、もっと気をつけよう……）</Dialog>
+          <Dialog>Really？</Dialog>
+          <Dialog>Yeah. Please keep up the good
+work.</Dialog>
+          <Dialog>(I'm glad everything's going
+well...)</Dialog>
+          <Dialog>You... You know, we've had
+some complaints about your
+service.</Dialog>
+          <Dialog>I'm very sorry...</Dialog>
+          <Dialog>You must be more careful from
+now on.</Dialog>
+          <Dialog>(Oh no. I'll have to be really
+careful.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2231,12 +2461,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（さて、今日もバイトだ……）</Dialog>
-          <Dialog>店長</Dialog>
-          <Dialog>お、君はいつも身なりが清潔だな、その調子で頼むよ。</Dialog>
-          <Dialog>（見た目に気を配ってるおかげかな……）</Dialog>
-          <Dialog>君……身だしなみにはもっと気を付けるように。清潔感が大事だよ。</Dialog>
-          <Dialog>（もっと見た目に気を配ろう……）</Dialog>
+          <Dialog>(All right. Time to work...)</Dialog>
+          <Dialog>Manager</Dialog>
+          <Dialog>Oh, you always look clean and
+tidy. Keep it up.</Dialog>
+          <Dialog>(I'm glad I dressed myself
+well...)</Dialog>
+          <Dialog>You... Be more mindful of your
+appearance. Cleanliness is
+very important.</Dialog>
+          <Dialog>(I'll have to be careful about
+how I look.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2256,8 +2491,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、もうすぐ中間テストか。</Dialog>
-          <Dialog>勉強しておいた方がいいよな……。</Dialog>
+          <Dialog>Come to think of it...
+midterms are coming soon.</Dialog>
+          <Dialog>I'd better study in advance...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2282,9 +2518,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、今日は中間テストだ。がんばってみるか……。</Dialog>
-          <Dialog>なんとか終わった……。</Dialog>
-          <Dialog>あとは結果を待つだけだな。</Dialog>
+          <Dialog>Okay, today's the midterm
+exam. I'll try to do my
+best...</Dialog>
+          <Dialog>It's finally over...</Dialog>
+          <Dialog>All that's left to do is to
+wait for the results.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2304,8 +2543,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、もうすぐ期末テストか。</Dialog>
-          <Dialog>勉強しておいた方がいいよな……。</Dialog>
+          <Dialog>Come to think of it... the
+final exams are coming up.</Dialog>
+          <Dialog>I'd better study in advance...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2330,9 +2570,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、今日は期末テストだ。がんばってみるか……。</Dialog>
-          <Dialog>なんとか終わった……。</Dialog>
-          <Dialog>あとは結果を待つだけだな。</Dialog>
+          <Dialog>Now then, today's the final
+exam. I'll have to do my best.</Dialog>
+          <Dialog>It's finally over...</Dialog>
+          <Dialog>All that's left to do is to
+wait for the results.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2352,8 +2594,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、もうすぐ体育祭だな……。</Dialog>
-          <Dialog>いまさらだけど、体を鍛えておいたほうがいいかな？</Dialog>
+          <Dialog>Come to think of it... the
+sports festival is coming up
+soon.</Dialog>
+          <Dialog>It might be a bit late, but
+I'd better start training...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2373,8 +2618,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、もうすぐ音楽コンクールがあるな……。</Dialog>
-          <Dialog>今からでも、感性を磨いておいたほうがいいかな？</Dialog>
+          <Dialog>Come to think of it... the
+music contest is coming up
+soon.</Dialog>
+          <Dialog>It might be a bit late, but
+I'd better start refining my
+music sense...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2409,11 +2658,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今日は音楽コンクールだ。</Dialog>
-          <Dialog>とりあえず、やれるところまでやってみよう……。</Dialog>
-          <Dialog>やった、入賞だ！</Dialog>
-          <Dialog>普段から感性を磨いておいたおかげかな。</Dialog>
-          <Dialog>入賞できなかった、まぁこんなものかな……。</Dialog>
+          <Dialog>The music contest is today.</Dialog>
+          <Dialog>I'll just try to do whatever I
+can...</Dialog>
+          <Dialog>Yes！ I won a prize！</Dialog>
+          <Dialog>It's probably because I've
+been working hard to improve
+recently.</Dialog>
+          <Dialog>I couldn't win a prize. Well,
+whatever...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2433,8 +2686,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、美術の授業で描いた絵をコンクールに出すらしい……。</Dialog>
-          <Dialog>結果が出るのはまだ先だけど、どうなるかな？</Dialog>
+          <Dialog>Come to think of it, a picture
+I drew in art class was
+submitted to a contest...</Dialog>
+          <Dialog>The results will be out soon.
+I wonder how it will turn out.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2469,11 +2725,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>美術コンクールの結果が発表されてるらしい。</Dialog>
-          <Dialog>自分の作品はあったりするかな……？</Dialog>
-          <Dialog>あった！　入賞してる！</Dialog>
-          <Dialog>普段から感性を磨いておいたおかげかな。</Dialog>
-          <Dialog>なかった……そりゃそうだよな……。</Dialog>
+          <Dialog>Seems like the art contest
+results are out.</Dialog>
+          <Dialog>Will my work be there...？</Dialog>
+          <Dialog>There it is！ I won a prize！</Dialog>
+          <Dialog>It's probably because I've
+been working hard to improve
+recently.</Dialog>
+          <Dialog>No, it's not. Well,
+whatever...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2498,9 +2758,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もうすぐ文化祭だな。</Dialog>
-          <Dialog>そういえば、文化祭で美男子コンテストやるらしいけど。</Dialog>
-          <Dialog>●には関係ない……かな？</Dialog>
+          <Dialog>he culture festival is coming
+up soon.</Dialog>
+          <Dialog>Come to think of it... There's
+a "Handsome Man" contest
+during the culture festival.</Dialog>
+          <Dialog>I don't really care about
+it... Or do I？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2520,8 +2784,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、もうすぐ体育祭だな。</Dialog>
-          <Dialog>応援合戦に参加しないといけないんだけど、ちゃんとできるかな……。</Dialog>
+          <Dialog>Come to think of it... the
+sports festival is coming up
+soon.</Dialog>
+          <Dialog>I have to participate in the
+school support battle. I
+wonder if I can do that
+well...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2546,9 +2815,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さぁ、次は応援合戦だ。がんばるぞ！</Dialog>
-          <Dialog>よし、●のチームが一番だな！</Dialog>
-          <Dialog>盛り上がらなかった……。</Dialog>
+          <Dialog>Well, next up is the support
+battle. I'll do my best！</Dialog>
+          <Dialog>Yes！ In the end, our team won
+the first prize！</Dialog>
+          <Dialog>It's not my day...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2568,8 +2839,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、もうすぐ他校と練習試合をするって言ってたな……。</Dialog>
-          <Dialog>集中的に練習したほうがいいかな？</Dialog>
+          <Dialog>Come to think of it... We will
+have practice matches with
+other schools soon.</Dialog>
+          <Dialog>Should I start to focus on
+more intense training？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2604,11 +2878,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>よし、今日は他校との練習試合だ。がんばるぞ。</Dialog>
-          <Dialog>よーし勝ったぞ！</Dialog>
-          <Dialog>この調子で、次もがんばるか。</Dialog>
-          <Dialog>負けてしまった……。</Dialog>
-          <Dialog>もっと練習しよう……。</Dialog>
+          <Dialog>Okay. We will have a practice
+match with another school
+today. I'll do my best.</Dialog>
+          <Dialog>Yeah！ I won！</Dialog>
+          <Dialog>I'll keep it up and do better
+next time.</Dialog>
+          <Dialog>I lost...</Dialog>
+          <Dialog>I have to practice harder...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2628,8 +2905,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、公式戦が近いな……。</Dialog>
-          <Dialog>集中的に練習したほうがいいよな？</Dialog>
+          <Dialog>Speaking of which, an official
+match is coming up soon...</Dialog>
+          <Dialog>I should spend more time
+practicing.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2649,8 +2928,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば今日は評論コンクールの提出日だ。</Dialog>
-          <Dialog>やれるだけやってみたけど、結果はどうなるかな？</Dialog>
+          <Dialog>Today is the deadline for
+submitting an essay for the
+criticism contest.</Dialog>
+          <Dialog>I believe I did the best I
+could. Now I just have to wait
+for the results.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2685,11 +2968,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>前に出した評論コンクールの結果が出てるはずだな……。</Dialog>
-          <Dialog>あ、やった！　入賞してるぞ！</Dialog>
-          <Dialog>がんばって書いた甲斐があったな。</Dialog>
-          <Dialog>だめだ、名前が載ってない……。</Dialog>
-          <Dialog>もっと頑張ったほうがいいかな……。</Dialog>
+          <Dialog>I think the results from the
+criticism contest should be
+out...</Dialog>
+          <Dialog>Ah, yes！ I won an award！</Dialog>
+          <Dialog>I'm glad I worked hard on
+writing the essay.</Dialog>
+          <Dialog>Nope, my name wasn't even
+listed...</Dialog>
+          <Dialog>I'll have to do better than
+this...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2714,9 +3002,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、今日は本部から人が来てるって言ってたな。</Dialog>
-          <Dialog>なんでも全国の店舗から模範従業員を選出して表彰するとか……。</Dialog>
-          <Dialog>●も選ばれたりするかな……？</Dialog>
+          <Dialog>By the way, people from
+headquarters will come to
+check on us today.</Dialog>
+          <Dialog>They will be evaluating us for
+the national model employee
+award as well....</Dialog>
+          <Dialog>Is it possible that I might be
+nominated, too？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2746,10 +3039,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、前に調査してた模範従業員の表彰結果、出てるはずだな……。</Dialog>
-          <Dialog>あ！　●の名前がある！</Dialog>
-          <Dialog>普段から真面目に働いてたおかげかな。</Dialog>
-          <Dialog>……選ばれてないな、そりゃそうか……。</Dialog>
+          <Dialog>That reminds me, the results
+from the model employee award
+are out...</Dialog>
+          <Dialog>Ah！ It's my name！</Dialog>
+          <Dialog>I'm glad I've been serious at
+work.</Dialog>
+          <Dialog>I wasn't chosen. No surprise
+there...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

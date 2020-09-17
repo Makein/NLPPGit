@@ -47,12 +47,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい、もしもし……。</Dialog>
+          <Dialog>Yes, hello？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●、▲苗字▲だけど。</Dialog>
-          <Dialog>あ……。なにか用？</Dialog>
-          <Dialog>実は約束してたデートの日に他の予定が入ってさ。キャンセルしていいかな？</Dialog>
-          <Dialog>そっか。うん、いいよ。リンコも別の予定いれるから。じゃあね。</Dialog>
+          <Dialog>It's
+▲苗字▲
+speaking.</Dialog>
+          <Dialog>Ah... What's the matter？</Dialog>
+          <Dialog>The truth is, I have some
+other promise on the day we
+scheduled our date. Can we
+cancel it？</Dialog>
+          <Dialog>Is that so？ All right, it's
+okay. Rinko also has other
+appointment too. See you
+later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -102,12 +110,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい、もしもし……。</Dialog>
+          <Dialog>Yes, hello？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、▲苗字▲だけど。実は、約束してたデート、行けなくなっちゃったんだ。</Dialog>
-          <Dialog>えっ!?　……そう。リンコとのデートより大事な用事があるんだ？　へぇー。</Dialog>
-          <Dialog>ごめん！　埋め合わせは必ずするからさ！</Dialog>
-          <Dialog>冗談だよ。リンコ、ひとりで遊ぶの慣れてるし。じゃあ、また今度ね。</Dialog>
+          <Dialog>Ah,
+▲苗字▲
+speaking. I don't think I'll
+be able to go on our planned
+date.</Dialog>
+          <Dialog>Eh！？ There's something more
+important than going on a date
+with Rinko？ Hmm...</Dialog>
+          <Dialog>I'm so sorry！ I'll make up
+for it next time！</Dialog>
+          <Dialog>Just kidding. Rinko is used to
+being alone, so it doesn't
+matter. Later, then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -157,12 +174,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>もしもし……。</Dialog>
+          <Dialog>Hello...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲苗字▲だけど。悪いんだけどさ、約束してたデート、行けなくなりそうなんだ。</Dialog>
-          <Dialog>えー、そんなぁ。せっかく楽しみにしてたのに。どうしてもだめなの？</Dialog>
-          <Dialog>ごめんな。近いうちに埋め合わせするからさ。</Dialog>
-          <Dialog>……うーん。わかった。今回は大目に見てあげる。次はちゃんと約束守ってよね。</Dialog>
+          <Dialog>▲苗字▲
+speaking. I know this is bad,
+but I can't go with you on our
+planned date.</Dialog>
+          <Dialog>Eh？ How could you？ I've been
+looking forward to it. Can you
+do something about it？</Dialog>
+          <Dialog>I'm really sorry. I'll make up
+for it, okay？</Dialog>
+          <Dialog>...Hmm. I understand. I'll let
+it go this time. Next time, be
+sure to keep your promise,
+okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -212,12 +238,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい、もしもし……。</Dialog>
+          <Dialog>Yes, hello？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっと、▲苗字▲だけど。</Dialog>
-          <Dialog>あれ？　どうしたの？</Dialog>
-          <Dialog>それが今日のデート、急な用事で行けなくなっちゃったんだ。……ごめん。</Dialog>
-          <Dialog>……そう。だったらいいよ。今日は家で本でも読んでるから。じゃあね。</Dialog>
+          <Dialog>Um, this is
+▲苗字▲
+speaking.</Dialog>
+          <Dialog>Hmm？ What's the matter？</Dialog>
+          <Dialog>It's about today's date. I've
+got some sudden appointment,
+so I can't go with you.
+...Sorry.</Dialog>
+          <Dialog>...I see. It's okay, I guess.
+I'll stay home reading books
+then. Bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -267,12 +300,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい、もしもし……。</Dialog>
+          <Dialog>Yes, hello？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、▲苗字▲だけど。今日のデートさ、急な用事で行けなくなっちゃったんだ。</Dialog>
-          <Dialog>えーっ!?　なんで今日になってそんなこというの!?</Dialog>
-          <Dialog>ごめん！　緊急の用事でさ！</Dialog>
-          <Dialog>……もういい。リンコ、ひとりで遊びに行くから。じゃあね！</Dialog>
+          <Dialog>This is
+▲苗字▲
+speaking. I have to cancel
+today's date. I've got a
+sudden appointment.</Dialog>
+          <Dialog>Eh！？ Why do you have to wait
+until today to say it？</Dialog>
+          <Dialog>I'm so sorry！ It's an urgent
+matter！</Dialog>
+          <Dialog>All right, I'll go play by
+myself then. Bye！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -322,12 +362,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>もしもし……。</Dialog>
+          <Dialog>Hello...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、▲苗字▲だけど。実は今日のデート、急に行けなくなったんだ。</Dialog>
-          <Dialog>えーっ!?　楽しみにしてたのに！</Dialog>
-          <Dialog>悪い。別の形で埋め合わせするからさ。</Dialog>
-          <Dialog>ドタキャンなんてひどいよ。もう……知らない。</Dialog>
+          <Dialog>This is
+▲苗字▲
+speaking. The truth is, I
+can't go to today's date.</Dialog>
+          <Dialog>Eh！？ I was really looking
+forward to it！</Dialog>
+          <Dialog>My bad. I'll make up for it,
+okay？</Dialog>
+          <Dialog>You're such a cruel
+fun-crusher. I don't care
+anymore！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -377,12 +424,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい、もしもし……。</Dialog>
+          <Dialog>Yes, hello？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、●。▲苗字▲だけど。実はさ、今日のデート、行けなくなっちゃって。</Dialog>
-          <Dialog>は!?　なんで今になってそんなこと言うの？</Dialog>
-          <Dialog>……ごめん！</Dialog>
-          <Dialog>あー、そう。なんだか待ってたリンコが馬鹿みたい。……バイバイ！</Dialog>
+          <Dialog>This is
+▲苗字▲
+speaking. I really can't go on
+today's date.</Dialog>
+          <Dialog>Hah！？ Why do you have to say
+it now？</Dialog>
+          <Dialog>...Sorry！</Dialog>
+          <Dialog>Ah, really. Suddenly Rinko
+feels so stupid to have been
+waiting for this. Bye-bye！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -432,12 +485,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>はい、どちらさまでしょう？</Dialog>
+          <Dialog>Yes, who is this？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、▲苗字▲だけど。実はさ……今日のデート、キャンセルできないかな？</Dialog>
-          <Dialog>……リンコ、もう待ち合わせ場所にいるんだけど？</Dialog>
-          <Dialog>ごめん！　必ず埋め合わせるから、今日は許してくれないか？</Dialog>
-          <Dialog>もういいよ！　リンコ、ひとりで遊びに行くから！　じゃあね！</Dialog>
+          <Dialog>This is
+▲苗字▲
+speaking. Well... Can we
+cancel today's date？</Dialog>
+          <Dialog>...Rinko is already at the
+promised meeting place, you
+know？</Dialog>
+          <Dialog>Sorry！ I'll surely make up
+for it, so can you forgive me
+just for today？</Dialog>
+          <Dialog>I don't care anymore！ I'll go
+play by myself then！ Bye！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -487,12 +548,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>もしもし……。</Dialog>
+          <Dialog>Hello...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、●。言いにくいんだけどさ、実は、今日のデート、行けなくなっちゃったんだ。</Dialog>
-          <Dialog>えっ？　なんで？　何かあったの？</Dialog>
-          <Dialog>本当にごめん！　ちょっと緊急の用事で……。今回の埋め合わせはするから！</Dialog>
-          <Dialog>……うん。じゃあリンコ、家に帰るね……。じゃあね。</Dialog>
+          <Dialog>Ah, it's me. Even if it's hard
+to say... The truth is, I
+really can't go for today's
+date.</Dialog>
+          <Dialog>Eh？ Why？ What happened？</Dialog>
+          <Dialog>I'm very sorry！ There's this
+urgent appointment... I'll
+make up for it later！</Dialog>
+          <Dialog>...Yeah. Well, Rinko will just
+go home. Bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

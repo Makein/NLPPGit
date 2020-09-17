@@ -82,17 +82,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、あの出向店員の人、最近元気ないよね。</Dialog>
+          <Dialog>By the way, the store
+assistant who was just
+transferred to our restaurant
+didn't look happy lately.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>え、あのモミアゲが長い人？</Dialog>
-          <Dialog>そうそう、妙にモミアゲが長い人。何かあったのかな。</Dialog>
-          <Dialog>どうもね、付き合ってた彼女に振られたみたいなの。</Dialog>
-          <Dialog>そうなんだ。</Dialog>
-          <Dialog>それがね、ずいぶんひどい振られ方したみたいで、ショックから立ち直れないみたいなの。</Dialog>
-          <Dialog>それで、仕事の方にも、あんまり身が入らないみたい。</Dialog>
-          <Dialog>そっか……。</Dialog>
-          <Dialog>だから、今度シフトが同じになった時、フォローしてあげた方がいいかなって。</Dialog>
-          <Dialog>なるほど……うん、注意してみる。</Dialog>
+          <Dialog>Eh？ You mean the one with
+long sideburns？</Dialog>
+          <Dialog>Yeah, the one with those weird
+sideburns. I wonder what
+happened to him.</Dialog>
+          <Dialog>I heard that he was dumped by
+his girlfriend.</Dialog>
+          <Dialog>Is that so？</Dialog>
+          <Dialog>And I heard it was a cruel
+break up and he took it pretty
+badly. He still can't gain his
+footing.</Dialog>
+          <Dialog>That's why he's been
+absent-minded during work.</Dialog>
+          <Dialog>I see...</Dialog>
+          <Dialog>So, next time you have to work
+with him, you must watch out
+for him too.</Dialog>
+          <Dialog>I see... Okay, I'll keep that
+in mind.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -199,18 +213,38 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そういえば出向社員のモミアゲさん、見た？</Dialog>
+          <Dialog>By the way, did you see that
+assistant with sideburns？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>見た。びっくりしたよ。</Dialog>
-          <Dialog>あんなに長かったモミアゲを、きれいに剃ってきちゃうなんてね……。</Dialog>
-          <Dialog>●なんか、最初誰だかわからなくて、新人さんかと思っちゃったよ。</Dialog>
-          <Dialog>そこまで変わってないと思うけど……。</Dialog>
-          <Dialog>でも、どういう心境の変化なんだろ？</Dialog>
-          <Dialog>話してるところ、偶然聞いちゃったんだけど、傷心から立ち直るためにバッサリやってみたんだって。</Dialog>
-          <Dialog>へぇ。</Dialog>
-          <Dialog>モミアゲを剃って新しい自分に生まれ変わった気分ですよ……なんて言ってたけど、ちょっと投げやり気味かも。</Dialog>
-          <Dialog>それで店長がね、モミアゲが生え替わった頃には、傷ついた心も癒えているだろうって励ましてて。モミアゲさんも、そうっすね、って。</Dialog>
-          <Dialog>結局、また伸ばすんだね、モミアゲ……。</Dialog>
+          <Dialog>I did and I was surprised.</Dialog>
+          <Dialog>He used to have long
+sideburns, but now he shaved
+them off...</Dialog>
+          <Dialog>At first, I couldn't recognize
+him. I thought he was a new
+employee.</Dialog>
+          <Dialog>I don't think he had changed
+that much...</Dialog>
+          <Dialog>But why did he decide to do
+that？</Dialog>
+          <Dialog>I accidentally heard it while
+he was chatting with others.
+He was heartbroken so he
+wanted to give himself a fresh
+start.</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>He felt like he was reborn as
+a new person after he shaved
+his sideburns. ...That sounded
+like a reckless decision to
+me.</Dialog>
+          <Dialog>The manager tried to cheer him
+up by saying that when his
+sideburn grew again, the wound
+in his heart would slowly be
+cured.</Dialog>
+          <Dialog>So, he'll grow his sideburns
+again, huh...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -308,17 +342,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そういえば最近、お店で“ナポリさん”見ないね。</Dialog>
+          <Dialog>By the way, I haven't seen
+"Mr. Napoli" at our restaurant
+lately.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ナポリさん？</Dialog>
-          <Dialog>あ、知らない？　お店の常連で、毎日必ずナポリタンを頼むお客様、いるでしょ？</Dialog>
-          <Dialog>ああ、あの人。そういえば最近、見てないような……。</Dialog>
-          <Dialog>そうなの。やっぱり、他のお店に行っちゃったのかな？</Dialog>
-          <Dialog>単にナポリタンに飽きただけなんじゃないかな？</Dialog>
-          <Dialog>ううん、それは絶対無い。彼のナポリタンに対する情熱は本物よ。</Dialog>
-          <Dialog>だって１年以上、ずーっとうちのナポリタン、食べ続けてたのよ？　いまさら飽きたりすると思う？</Dialog>
-          <Dialog>１年以上って……それは確かに飽きるとかいうレベルの問題じゃないよね……。</Dialog>
-          <Dialog>でしょう？　うーん、どうしちゃったのかな……？</Dialog>
+          <Dialog>Mr. Napoli？</Dialog>
+          <Dialog>Ah, you don't know him？
+There's a regular customer who
+always orders Napolitan every
+time, right？</Dialog>
+          <Dialog>Ah, that guy. Yeah, I haven't
+seen him lately...</Dialog>
+          <Dialog>Is that so？ Maybe he goes to
+a different restaurant now.</Dialog>
+          <Dialog>He might get bored of eating
+Napolitan, right？</Dialog>
+          <Dialog>No, that can't be the reason.
+His passion for Napolitan is
+real.</Dialog>
+          <Dialog>He's been eating our Napolitan
+for over a year now. He can't
+just get bored of it suddenly,
+right？</Dialog>
+          <Dialog>Over a year...？ I think that
+has passed the point where he
+could get bored of it,
+huh...？</Dialog>
+          <Dialog>You think so, too？ Yeah, I
+wonder what happened to him...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -411,17 +462,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうだ、ねぇ聞いて。この前ね、あのナポリさんがやっとデキシーズに帰ってきたの。</Dialog>
+          <Dialog>Ah, yeah. Did you know？
+Earlier, Mr. Napoli has
+returned to Dixie's.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ。ナポリタンばかり食べ続けてたお客様……。</Dialog>
-          <Dialog>うん、それでなにを頼んだと思う？</Dialog>
-          <Dialog>ナポリタンじゃないの？</Dialog>
-          <Dialog>それがね……カルボナーラだったの。</Dialog>
-          <Dialog>じゃあ、人違いだったんじゃない？</Dialog>
-          <Dialog>ううん。みんな、顔はよく覚えてたから、間違いないって。</Dialog>
-          <Dialog>へぇ……じゃあ、好みが変わったんだね。人間だから、そういうこともあるよね。</Dialog>
-          <Dialog>……あなたにそういうこと言われれると、すごく不安になるんだけど……やっぱり飽きちゃうの？</Dialog>
-          <Dialog>た、食べ物の話ね……。</Dialog>
+          <Dialog>Ah, the customer who always
+orders Napolitan, right？</Dialog>
+          <Dialog>Yeah. And guess what he
+ordered this time.</Dialog>
+          <Dialog>Not Napolitan？</Dialog>
+          <Dialog>Well... He ordered carbonara.</Dialog>
+          <Dialog>Hey, could it be that you got
+the wrong person？</Dialog>
+          <Dialog>No, everyone remembered him.
+It couldn't be the wrong
+person.</Dialog>
+          <Dialog>Eh...？ Then his favorite dish
+has changed. I think it's just
+common that people change
+their mind, huh？</Dialog>
+          <Dialog>...To hear you say that, I'm
+feeling very insecure now...
+Are you going to get bored of
+me？</Dialog>
+          <Dialog>B-But we were talking about
+food...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -514,17 +579,35 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そういえば新しいメニュー、ちゃんと覚えた？</Dialog>
+          <Dialog>By the way, have you
+remembered the new menus？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>メニューって……デキシーズの？</Dialog>
-          <Dialog>もぅ……覚えないとダメって教えたこと、忘れちゃった？</Dialog>
-          <Dialog>そういえば……。</Dialog>
-          <Dialog>少なくとも消えたメニューは大急ぎで覚えること。そうじゃないと、お客様が注文してきた時、対応が遅れちゃうでしょ？</Dialog>
-          <Dialog>でも、機械に入力する時、無いこと、わかるわけだし……。</Dialog>
-          <Dialog>だーめ。そういう時って、使い方、間違ったかもって何度もやりなおしちゃうでしょ？</Dialog>
-          <Dialog>無駄にお客様を待たせちゃうってこと？</Dialog>
-          <Dialog>よくできました。もたもたしちゃうとお店の評判に関わるから、ね？</Dialog>
-          <Dialog>うん……まずいな、急いで覚えないと……。</Dialog>
+          <Dialog>Menus...？ At Dixie's？</Dialog>
+          <Dialog>Geez... You must remember
+them, okay？ Did you forget
+what I taught you？</Dialog>
+          <Dialog>Now that you mention it...</Dialog>
+          <Dialog>At least you must remember
+what dishes were taken off.
+It'd cause problems if you
+took those orders from the
+customers.</Dialog>
+          <Dialog>But, when we key those items
+into the machine, we'll know
+that they are no longer
+available...</Dialog>
+          <Dialog>No. If you wait until then,
+you'd have to go back to take
+the orders again, right？</Dialog>
+          <Dialog>You mean the customers will
+have to wait longer？</Dialog>
+          <Dialog>It's very good that you
+remembered. If the service is
+slow, it'll affect customer
+satisfaction, okay？</Dialog>
+          <Dialog>Yeah... That'd be bad. I'll
+have to try to remember the
+new menus...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -618,18 +701,35 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>デキシーズのメニュー、新しいのに変わってから少し経ったけど……もう覚えたよね？</Dialog>
+          <Dialog>The menus at Dixie's have been
+changed for quite a while.
+Have you remembered them？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、さすがにね。</Dialog>
-          <Dialog>ふふ。そうこなくちゃ。元指導係としては成長が気になっちゃうから。</Dialog>
-          <Dialog>でも覚えることが次々と出てきて……デキシーズって、バイトに期待しすぎてない？</Dialog>
-          <Dialog>んー、そうかな？　私はそう思わないけど……。</Dialog>
-          <Dialog>他のバイトでも同じような感じなのかな？</Dialog>
-          <Dialog>どうかな？　でも、働いてお金をもらうのって、そういうことなんじゃないかな？</Dialog>
-          <Dialog>バイトでこれだと、社会人になったらどうなるんだろ……。</Dialog>
-          <Dialog>ふふ。私、しばらくは共働きするつもりだから、お給料の安い仕事でも平気よ？</Dialog>
-          <Dialog>それならいいけど……。</Dialog>
-          <Dialog>ん？　……共働き？</Dialog>
+          <Dialog>Yeah. I have.</Dialog>
+          <Dialog>Hehe. That's good. As your
+former supervisor, I feel like
+you've grown up.</Dialog>
+          <Dialog>But the list of things to
+remember keeps piling up.
+...We're only working
+part-time. Does Dixie's expect
+too much from us？</Dialog>
+          <Dialog>Hmm？ Really？ I don't think
+so...</Dialog>
+          <Dialog>I wonder if it's the same if I
+work at a different place.</Dialog>
+          <Dialog>I don't know. But if they pay
+you to work, at least you have
+to work hard for them, right？</Dialog>
+          <Dialog>If this is how I feel when I
+work part-time, I wonder how
+it'll be for my real job...</Dialog>
+          <Dialog>Hehe. I don't mind working to
+earn more money for our
+family. You don't have to
+worry much about your salary.</Dialog>
+          <Dialog>That would be nice...</Dialog>
+          <Dialog>Eh？ ...For our family？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -714,17 +814,29 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうだ。店長がね、今度入る新人、あなたに任せたいって言ってたわよ？</Dialog>
+          <Dialog>Ah, right. The manager
+mentioned that he'd have you
+take care of the new employee.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>それって、●が指導係に!?</Dialog>
-          <Dialog>ふふ。私としては、ちょっと心配かな？</Dialog>
-          <Dialog>●だってそうだよ……。</Dialog>
-          <Dialog>やっぱり心配？</Dialog>
-          <Dialog>そりゃあ……▲姉ヶ崎＊▲が●にしたみたいに、うまく教える自信は……。</Dialog>
-          <Dialog>大丈夫だって。私だって、最初は不安だったんだから。</Dialog>
-          <Dialog>▲姉ヶ崎＊▲も？</Dialog>
-          <Dialog>うん。だから……そうだ。指導係の指導係、してあげよっか。</Dialog>
-          <Dialog>よろしくお願いします。</Dialog>
+          <Dialog>So, I'll have to give the new
+employee guidance！？</Dialog>
+          <Dialog>Hehe, I'm a bit worried about
+that.</Dialog>
+          <Dialog>I'm even more worried...</Dialog>
+          <Dialog>Really？</Dialog>
+          <Dialog>Well...
+▲姉ヶ崎＊▲,
+do you think I can
+guide anyone...？</Dialog>
+          <Dialog>You'll be fine. When I had to
+guide you, I was also nervous
+at first.</Dialog>
+          <Dialog>▲姉ヶ崎＊▲
+was nervous, too？</Dialog>
+          <Dialog>Yeah. So... Right！ Should I
+guide you how to guide
+others？</Dialog>
+          <Dialog>If you please.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -819,18 +931,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>新人くんの指導、けっこううまくいってるみたいだね。</Dialog>
+          <Dialog>It seems like everything is
+going well with you and the
+new employee.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>やっぱり▲姉ヶ崎＊▲のお陰……かな？</Dialog>
-          <Dialog>そう？　私、大したことしてないと思うけど……。</Dialog>
-          <Dialog>●が教わってた時のこと、いろいろと思い出しながらやってるから……さ。</Dialog>
-          <Dialog>ふふ。それってつまり……手取り足取り教えてるってことかな？</Dialog>
-          <Dialog>そ、そうだった？</Dialog>
-          <Dialog>覚えてない？　食器洗浄機の使い方、教えた時とか……。</Dialog>
-          <Dialog>新人は男だし、近づいて手取り足取りってのは……。</Dialog>
-          <Dialog>……もし女の子だったら、やってた？</Dialog>
-          <Dialog>やらないし、やれないよ。●には、もう▲姉ヶ崎＊▲がいるんだから……。</Dialog>
-          <Dialog>うん、よろしい。</Dialog>
+          <Dialog>That's thanks to
+▲姉ヶ崎＊▲,
+I think.</Dialog>
+          <Dialog>Really？ I didn't do anything
+much for you...</Dialog>
+          <Dialog>When I teach the new guy, I'm
+trying to recall how you
+taught me...</Dialog>
+          <Dialog>Hehe... Which means you're
+teaching him attentively,
+right？</Dialog>
+          <Dialog>Y-Yeah？</Dialog>
+          <Dialog>Do you remember when I taught
+you how to wash the
+tableware...</Dialog>
+          <Dialog>The new employee is a guy.
+It's not good for me to teach
+him closely like that...</Dialog>
+          <Dialog>...If he were a girl, you'd do
+that？</Dialog>
+          <Dialog>I wouldn't. No, I mean I
+couldn't. I already have
+▲姉ヶ崎＊▲...</Dialog>
+          <Dialog>Yeah, very well.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -919,17 +1047,37 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだ。この前、外国人のお客様が来たことあったけど、覚えてる？</Dialog>
+          <Dialog>Ah, yeah. Earlier, there was a
+foreign customer at our
+restaurant. Do you remember
+him？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>んー、いつのこと？　うちのお店って、外国人の常連さんもいるし……。</Dialog>
-          <Dialog>そうなの？</Dialog>
-          <Dialog>うん。あんまり目立たないけど、月に何度か家族連れでくるお客様がいるの。</Dialog>
-          <Dialog>へぇ、意外と国際的なんだ。デキシーズって。</Dialog>
-          <Dialog>ふふ。それで、なにがあったの？</Dialog>
-          <Dialog>うん。そういう時、できれば英語で対応するべきなのかなって。“いらっしゃいませ”とか。</Dialog>
-          <Dialog>どうかな？　必ず英語を使う国の人だとは限らないし……。</Dialog>
-          <Dialog>そっか……んー、あのお客様って、日本語、すごく上手かったからな……。</Dialog>
-          <Dialog>そういうところに気を配れるようになってきたんだ……。ふふ、ちょっと嬉しいかな。</Dialog>
+          <Dialog>Hmm... When was it？ There are
+many foreign customers at our
+restaurant...</Dialog>
+          <Dialog>Really？</Dialog>
+          <Dialog>Yeah. They aren't very
+conspicuous. But there are
+customers who take their
+family to our restaurant many
+times a month.</Dialog>
+          <Dialog>Eh？ Dixie's is like an
+international restaurant then.</Dialog>
+          <Dialog>Hehe. Anyway, why did you
+bring this up？</Dialog>
+          <Dialog>Right. At that time, I was
+hesitating if I should greet
+him in English instead of
+Japanese.</Dialog>
+          <Dialog>Well, not all foreigners speak
+English...</Dialog>
+          <Dialog>That's true... Hmm, but that
+customer could speak Japanese
+fluently...</Dialog>
+          <Dialog>You even paid that much
+attention to the customer？
+Hehe. I think I should be
+happy about this.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1038,20 +1186,40 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、そうだ。レストランなんかでは“ハロー”だけでいいみたい。</Dialog>
+          <Dialog>Ah, right. I think it might be
+okay to greet customers with
+"Hello" at our restaurant.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なにそれ。</Dialog>
-          <Dialog>“いらっしゃいませ”を英語で言うとどうなるか。</Dialog>
-          <Dialog>あ……前に話した外国人のお客様の話？　調べてくれたんだ。</Dialog>
-          <Dialog>でも普通は“メイ・アイ・ヘルプ・ユゥ？”じゃなかったっけ。</Dialog>
-          <Dialog>うん、飲食店ではもっと軽く、挨拶だけなんだって“グッド・アフタヌーン”みたいに。</Dialog>
-          <Dialog>へぇ。</Dialog>
-          <Dialog>でもね、やっぱり日本語で“いらっしゃいませ”が一番じゃないかな。</Dialog>
-          <Dialog>そうなの？</Dialog>
-          <Dialog>“あなたは日本語わからないでしょ？”って感じで失礼かも、日本語わかる人も多いんだし。</Dialog>
-          <Dialog>なるほど。</Dialog>
-          <Dialog>それに中途半端に英語で対応して、英語話せる店員だって思われても、困るでしょ？</Dialog>
-          <Dialog>たしかに……。</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>We say "Irasshaimase" to
+customers, right？ How can we
+translate it to English then？</Dialog>
+          <Dialog>Ah... We talked about foreign
+customers earlier. So you've
+been thinking about it.</Dialog>
+          <Dialog>But I think it's more common
+to greet them with "May I help
+you？"</Dialog>
+          <Dialog>Yeah. But at a restaurant,
+maybe we should greet them
+less formally. Like, "Good
+afternoon."</Dialog>
+          <Dialog>Hmm？</Dialog>
+          <Dialog>But I think I like to greet
+customers with "Irasshaimase"
+best.</Dialog>
+          <Dialog>Really？</Dialog>
+          <Dialog>If we use English, it's like
+we're thinking that they don't
+understand Japanese. Many
+foreigners can speak Japanese
+well.</Dialog>
+          <Dialog>I see.</Dialog>
+          <Dialog>And if we speak to them in
+English, it'd cause troubles
+to other employees who can't
+speak English, right？</Dialog>
+          <Dialog>That's right...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1140,17 +1308,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……ふふ。</Dialog>
+          <Dialog>...Hehe.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうしたの？</Dialog>
-          <Dialog>ううん。バイト中のこと思い出しただけ。ほら、前に子供連れのお客様が来た時……。</Dialog>
-          <Dialog>あれは、なんというか。</Dialog>
-          <Dialog>あの子たち、あなたの後について真似てばっかりいたよね。</Dialog>
-          <Dialog>よっぽど●の動きが面白かったんだろうね……はぁ。</Dialog>
-          <Dialog>ふふ。落ち込まないの。子供に好かれたってことでしょ？</Dialog>
-          <Dialog>そうかな？</Dialog>
-          <Dialog>私は子供に好かれる人のほうが、嫌われる人よりずっと素敵だと思うけどなぁ。</Dialog>
-          <Dialog>そういわれると……うーん、悪くなかったのかな？</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>Nothing. I'm just thinking
+about work. There was that
+time when the parents brought
+their kids...</Dialog>
+          <Dialog>What happened then？</Dialog>
+          <Dialog>Those kids were following you
+and imitating your moves.</Dialog>
+          <Dialog>They must think that I was
+funny... Hah...</Dialog>
+          <Dialog>Hehe. Don't feel down. At
+least the kids liked you,
+okay？</Dialog>
+          <Dialog>Really？</Dialog>
+          <Dialog>I think it's a wonderful thing
+that kids like you.</Dialog>
+          <Dialog>If you say so... Hmm... I
+think it's not bad then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1230,17 +1407,35 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……ぷっ。</Dialog>
+          <Dialog>...Haha.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なに？　急に笑いだしたりして……。</Dialog>
-          <Dialog>ごめん。バイト中のこと思い出して、ほら前に▲姉ヶ崎＊▲から離れなかった男の子。</Dialog>
-          <Dialog>あぁ……あの男の子、可愛かったなぁ。</Dialog>
-          <Dialog>うん。お母さんはトイレで赤ん坊のおむつ、かえてたんだよね。</Dialog>
-          <Dialog>でも、あの男の子、なんで▲姉ヶ崎＊▲のスカート掴んで離れなかったのかな？</Dialog>
-          <Dialog>ふふ。男の子って、お母さんに甘えたいものでしょ？</Dialog>
-          <Dialog>それって……▲姉ヶ崎＊▲がお母さんに見えたってこと？</Dialog>
-          <Dialog>もぅ……お姉さんならともかく、お母さんはないでしょ。</Dialog>
-          <Dialog>はは、ごめん。</Dialog>
+          <Dialog>What？ Why do you laugh all of
+a sudden...？</Dialog>
+          <Dialog>Sorry. I'm thinking about
+what happened at work.
+There was that kid who
+didn't want to leave
+▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>Ah... That boy. He was so
+cute.</Dialog>
+          <Dialog>Yeah, his mother went to the
+restroom to change her baby's
+diaper.</Dialog>
+          <Dialog>And then that boy
+somehow grabbed
+▲姉ヶ崎＊▲'s
+skirt and wouldn't
+let go of it.</Dialog>
+          <Dialog>Hehe. Boys always like to
+behave like a spoiled kid in
+front of their mothers.</Dialog>
+          <Dialog>But... Does
+▲姉ヶ崎＊▲
+look like his mother？</Dialog>
+          <Dialog>Geez... I think he thought of
+me as his older sister, not
+his mother.</Dialog>
+          <Dialog>Haha, sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1329,17 +1524,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、デキシーズが新しいお店出すって話、聞いてる？</Dialog>
+          <Dialog>Ah, have you heard about
+Dixie's new branch？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ううん、初耳。どこに？</Dialog>
-          <Dialog>それがね、私たちのお店のすぐ近くになるみたい。</Dialog>
-          <Dialog>それって……下手したらうちと競合しない？</Dialog>
-          <Dialog>ほら、うちって売り上げもいいし、シフトも自由に変えられるぐらい人も多いでしょ？</Dialog>
-          <Dialog>でも、もう１店舗増やすほどの人は余裕は……新規で募集もするんだろうけど……。</Dialog>
-          <Dialog>私もそう思うんだけど、本社が乗り気みたいで……店長も困ってるみたい。</Dialog>
-          <Dialog>そうなんだ……店長、あんなに頑張ってるのに……。</Dialog>
-          <Dialog>会社的には問題かもしれないけど……新店舗の話、なくなるといいよね……。</Dialog>
-          <Dialog>ほんと、そうだよね……。</Dialog>
+          <Dialog>No, this is the first time I
+hear that. Where will it be？</Dialog>
+          <Dialog>Well, it's gonna be right next
+to the one we're working at.</Dialog>
+          <Dialog>That means... It's going to be
+our rival？</Dialog>
+          <Dialog>Come on. Our branch sells well
+and us employees have freedom
+to choose our work shifts,
+right？</Dialog>
+          <Dialog>But if there's a new branch,
+they'll be hiring new people,
+too...</Dialog>
+          <Dialog>Yeah, I'm worried about that,
+too. But the headquarters seem
+to want to expand the
+business... Our manager is in
+trouble.</Dialog>
+          <Dialog>Yeah... Our manager has really
+been working hard...</Dialog>
+          <Dialog>If it's going to impact us, I
+wish they would cancel this
+new branch...</Dialog>
+          <Dialog>Yeah, me too...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1438,18 +1649,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今のお店の近くに新店舗ができるかもしれないって話があったでしょ？</Dialog>
+          <Dialog>We were talking about the new
+branch, whether they'd build
+it or not, right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もしかして……。</Dialog>
-          <Dialog>正式に、中止が決まりました。</Dialog>
-          <Dialog>よしっ！　店長もこれで一安心だね。</Dialog>
-          <Dialog>何より私たちも安心だね。</Dialog>
-          <Dialog>どうして？</Dialog>
-          <Dialog>え、ひょっとしたら、２つの店舗で離ればなれになっちゃうかもしれないじゃない。……気づいてなかったの？</Dialog>
-          <Dialog>うん……。</Dialog>
-          <Dialog>もぉ、私はすっごく心配してたのに……。</Dialog>
-          <Dialog>ごめん……▲姉ヶ崎＊▲と一緒にいられないなんて、想像もつかなかった。</Dialog>
-          <Dialog>あ……もぅ、カワイイ……。</Dialog>
+          <Dialog>Don't tell me...</Dialog>
+          <Dialog>They officially canceled the
+plan.</Dialog>
+          <Dialog>Yeah！ Now, our manager can
+feel relieved.</Dialog>
+          <Dialog>Rather, it's us who should
+feel relieved.</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>Eh？ If they built a new
+branch, we might have to work
+at different places. You
+didn't think about that？</Dialog>
+          <Dialog>Right...</Dialog>
+          <Dialog>Geez, I've been worried all
+this time...</Dialog>
+          <Dialog>Sorry... I've never thought
+about not being together with
+▲姉ヶ崎＊▲
+at all.</Dialog>
+          <Dialog>Ah... Geez. You're cute...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1552,18 +1775,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そういえば……最近ね、デキシーズに中学生の女の子、よく来ると思わない？</Dialog>
+          <Dialog>By the way... Lately, there
+are those junior high school
+girls who often come to
+Dixie's, right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>言われてみれば……塾の帰りみたいだよね、なんとなくだけど。</Dialog>
-          <Dialog>……うーっ。</Dialog>
-          <Dialog>どうしたの？</Dialog>
-          <Dialog>あの子たちのお目当て、あなただって気づいてる？</Dialog>
-          <Dialog>……まさか……。</Dialog>
-          <Dialog>仕方ないよねぇ。あなたってカッコいいし、可愛いし、ちょっと抜けてるけど、いざという時はなんとかしてくれそうな感じがするし……。</Dialog>
-          <Dialog>えっと……。</Dialog>
-          <Dialog>私、すごく不安なんだから……信じてるけど、やっぱり……ね？</Dialog>
-          <Dialog>大丈夫だって。●、▲姉ヶ崎＊▲一筋だからさ。</Dialog>
-          <Dialog>……うん。わかってる。でもちょっとだけ不安なんだってこと、覚えておいてね？</Dialog>
+          <Dialog>I think they just stop by
+after their prep school.</Dialog>
+          <Dialog>...Urgh.</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>They come because of you.
+Didn't you realize that？</Dialog>
+          <Dialog>...No way...</Dialog>
+          <Dialog>It can't be helped. You're so
+cool and so cute. You get
+clumsy at times, but you're
+usually reliable at a crucial
+moment.</Dialog>
+          <Dialog>Umm...</Dialog>
+          <Dialog>I feel very uneasy about
+this... I trust you, but I
+don't feel good about it...
+okay？</Dialog>
+          <Dialog>It'll be okay. I have only
+▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>...Yeah, I know. But I still
+feel uneasy about it. So you
+should keep that in mind,
+okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1668,19 +1907,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ところで……告白された？</Dialog>
+          <Dialog>By the way... Someone
+confessed to you, right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>告白？</Dialog>
-          <Dialog>だから……ほら、お店に来るようになった中学生の女の子たち。</Dialog>
-          <Dialog>ああ、あの子たち……でも最近、来てないでしょ？</Dialog>
-          <Dialog>そうだけど……どうして？</Dialog>
-          <Dialog>●が▲姉ヶ崎＊▲と付き合ってるって、言っておいたから……かな？</Dialog>
-          <Dialog>……言っちゃったんだ。</Dialog>
-          <Dialog>だって、付き合ってる人、いますかって聞かれたから……迷惑だった？</Dialog>
-          <Dialog>ううん。ただ……えっと……ちゃんと、カノジョだって、言ってくれた？</Dialog>
-          <Dialog>もちろん。</Dialog>
-          <Dialog>……うん。だったら許す。</Dialog>
-          <Dialog>ふふ、そういうことなら、どんなことでも許しちゃう。ふふ。</Dialog>
+          <Dialog>Confessed？</Dialog>
+          <Dialog>Come on... There were those
+junior high school girls who
+often came to our restaurant.</Dialog>
+          <Dialog>Ah, those girls... But they
+didn't come anymore, right？</Dialog>
+          <Dialog>Yeah... But why？</Dialog>
+          <Dialog>I told them that I'm dating
+▲姉ヶ崎＊▲.
+That's probably why...</Dialog>
+          <Dialog>...You told them.</Dialog>
+          <Dialog>Because they asked me if I was
+already dating someone... Does
+this cause you trouble？</Dialog>
+          <Dialog>No, it's just... Well... Did
+you tell them that I'm your
+girlfriend？</Dialog>
+          <Dialog>Of course I did.</Dialog>
+          <Dialog>...Okay. Then I can forgive
+you.</Dialog>
+          <Dialog>Hehe. If you're like this, no
+matter what you did, I can
+always forgive you. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1765,17 +2017,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば店長がデキシーズの制服、変わるかも知れないって言ってたけど……。</Dialog>
+          <Dialog>By the way, the manager said
+that the uniforms at Dixie's
+might be changed...</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、そうみたいだけど……多分、変わらないんじゃないかな？</Dialog>
-          <Dialog>そうなの？</Dialog>
-          <Dialog>もしかして新コスチュームのデザイン画、まだ見てない？</Dialog>
-          <Dialog>店長から話を聞いただけだから……へぇ、デザイン画もできてるんだ。</Dialog>
-          <Dialog>男性用はいいのよ。今とそんなに変わってないから。</Dialog>
-          <Dialog>……もしかして女性用がすごい？</Dialog>
-          <Dialog>うーん……見せる相手があなただけなら考えてもいいんだけどなぁ……。</Dialog>
-          <Dialog>それってつまり……。</Dialog>
-          <Dialog>ふふ。あなたがどうしてもっていうなら、私も賛成しちゃおっかな？</Dialog>
+          <Dialog>Yeah, I heard that, too.
+...But I'm not sure about the
+change.</Dialog>
+          <Dialog>Huh？</Dialog>
+          <Dialog>So you haven't seen the
+designs for the new uniforms？</Dialog>
+          <Dialog>I only heard about it from the
+manager... Eh？ They even have
+the designs ready？</Dialog>
+          <Dialog>It's okay for male uniforms.
+Nothing has changed much.</Dialog>
+          <Dialog>...Which means there's a big
+change for female uniforms？</Dialog>
+          <Dialog>Hmm... If I only have to wear
+it in front of you, I might
+think about it...</Dialog>
+          <Dialog>Do you mean...</Dialog>
+          <Dialog>Hehe. If you insist that I
+should wear it, I might try to
+approve the new designs.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1860,17 +2125,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、そうそう。デキシーズの新しい制服、没になったって話、聞いてる？</Dialog>
+          <Dialog>Ah, right. Did you know that
+the designs for Dixie's new
+uniforms were rejected？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もちろん。●、反対したから。</Dialog>
-          <Dialog>ふふ……じゃあ、あのデザイン画、見せてもらったんだ。</Dialog>
-          <Dialog>いくらなんでも、あんなに布が少ない制服……もうファミレスじゃないよ、あれだと。</Dialog>
-          <Dialog>実は私、サンプルを預かっています。今なら家で見せてあげられるよ？</Dialog>
-          <Dialog>えっ……！</Dialog>
-          <Dialog>うっそでーす。ふふ。そんなに本気にされると、自作しちゃうぞ？</Dialog>
-          <Dialog>やっぱりカレシとしては、他の人に見られないなら……。</Dialog>
-          <Dialog>もぅ……本当に冗談なんだから、ね？</Dialog>
-          <Dialog>ご、ごめん……ははは……。</Dialog>
+          <Dialog>Yeah. I also voted "No" for
+those designs.</Dialog>
+          <Dialog>Hehe... So you've already seen
+the designs, huh？</Dialog>
+          <Dialog>If you have to wear a uniform
+that short, our restaurant
+won't be called family
+restaurant anymore.</Dialog>
+          <Dialog>Actually, I have a sample of
+those uniforms. I'm thinking
+about trying it on and showing
+it to you at my house.</Dialog>
+          <Dialog>Eh...！？</Dialog>
+          <Dialog>Just kidding. Hehe. If you're
+serious about it like that, I
+should really get a sample,
+huh？</Dialog>
+          <Dialog>As your boyfriend, I don't
+want anyone else to see you
+wearing it...</Dialog>
+          <Dialog>Geez... I told you I was just
+kidding, okay？</Dialog>
+          <Dialog>S-Sorry... Hahaha...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1959,17 +2240,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう、デキシーズでのバイトも当たり前になってきた？</Dialog>
+          <Dialog>Have you got used to working
+at Dixie's yet？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん。でも、緊張感は忘れないようにしてるから。何度も▲姉ヶ崎＊▲に注意されたからね。</Dialog>
-          <Dialog>ふふ、さすがはうちで一番の有望株、だね。</Dialog>
-          <Dialog>有望株って……。</Dialog>
-          <Dialog>店長もそう言ってるよ？　もし就職活動中の大学生なら、間違いなく正社員にするって。</Dialog>
-          <Dialog>お世辞だよ、それ。●なんてまだまだ……。</Dialog>
-          <Dialog>ううん、私から見てもしっかりしてるよ？　ほら、もっと自信持たなきゃ。</Dialog>
-          <Dialog>……そうかな？</Dialog>
-          <Dialog>ふふ。そういう謙虚なところも、ポイントが高い理由なんだよ？</Dialog>
-          <Dialog>教えてくれた▲姉ヶ崎＊▲のおかげだけ思うけど……。</Dialog>
+          <Dialog>Yeah. I always keep
+▲姉ヶ崎＊▲'s
+words in mind that I
+shouldn't be so nervous.</Dialog>
+          <Dialog>Hehe. As expected from our
+restaurant's most promising
+employee.</Dialog>
+          <Dialog>Most promising employee...</Dialog>
+          <Dialog>The manager said that, you
+know？ He even said that if
+you need a job after you
+graduate, he'd hire you
+full-time.</Dialog>
+          <Dialog>That was flattery. I'm still
+not that good...</Dialog>
+          <Dialog>No, I can see that you're very
+reliable at work. Come on.
+Have confidence in yourself.</Dialog>
+          <Dialog>...Should I？</Dialog>
+          <Dialog>Hehe. Modesty is one of your
+good points.</Dialog>
+          <Dialog>It's all thanks to
+▲姉ヶ崎＊▲
+for training me well...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2063,18 +2360,36 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえばさ……ほら、前に店長が●のこと高く評価してくれているって言ったよね。</Dialog>
+          <Dialog>By the way... Earlier, you
+mentioned that the manager
+gave me high evaluation for my
+work, right？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん。なにか言われた？</Dialog>
-          <Dialog>店長、▲姉ヶ崎＊▲のことも褒めてたよ。すごく頼りになるって。</Dialog>
-          <Dialog>そんなこと言って……無理矢理、そう言わせたんでしょ？</Dialog>
-          <Dialog>そんなことないよ。▲姉ヶ崎＊▲、バイトの面倒、一手に引き受けてくれるから助かるって言ってたよ？</Dialog>
-          <Dialog>そっか……でも私としては、店長の評価よりあなたの評価が気になる……かな？</Dialog>
-          <Dialog>なに？</Dialog>
-          <Dialog>ううん。うちの店長は口がうまいって。そう思わない？</Dialog>
-          <Dialog>うん。でも●としては▲姉ヶ崎＊▲が褒められて嬉しかったかな。</Dialog>
-          <Dialog>やっぱり、●の先生だしさ。</Dialog>
-          <Dialog>……もぅ。</Dialog>
+          <Dialog>Yeah, did he say something to
+you？</Dialog>
+          <Dialog>The manager also praised
+▲姉ヶ崎＊▲
+for being very reliable.</Dialog>
+          <Dialog>For him to say that... Did you
+force him to say it somehow？</Dialog>
+          <Dialog>I didn't. He trusted you,
+▲姉ヶ崎＊▲,
+that you can handle
+everything. He mentioned that
+you've been very helpful to
+him.</Dialog>
+          <Dialog>I see... But I'm more
+concerned about what he thinks
+about you more than what he
+thinks about me... somehow.</Dialog>
+          <Dialog>Huh？</Dialog>
+          <Dialog>Nothing. I think our manager
+is honey-tongued.</Dialog>
+          <Dialog>Yeah, but I'm really happy
+to hear him praise
+▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>Because you're like my mentor.</Dialog>
+          <Dialog>...Geez.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2158,16 +2473,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、クロちゃん……なはずないか。そうだよね。</Dialog>
+          <Dialog>Ah, that's Kuro-chan... isn't
+it？ I think it is.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あれ？　▲姉ヶ崎＊▲、猫飼ってたっけ？</Dialog>
-          <Dialog>ううん。デキシーズの裏口によく野良猫が来るの。見たことない？</Dialog>
-          <Dialog>そういえばゴミ捨ての時、時々見かけるな。</Dialog>
-          <Dialog>裏口の近くって、あんまり人目に付かないし、日溜まりもあるからだと思うんだけど。</Dialog>
-          <Dialog>ああ、そういえば季節に関係なく猫がいるよね。</Dialog>
-          <Dialog>クロちゃんはね、野良猫のボスなの。体は小さいのに、みんな遠慮するのよ？</Dialog>
-          <Dialog>へぇ……それだけ喧嘩に強いのかな？</Dialog>
-          <Dialog>喧嘩してるところ、見たことないけど……ふふ、今度クロちゃんに聞いてみようかな。</Dialog>
+          <Dialog>Eh？
+▲姉ヶ崎＊▲,
+do you have a cat？</Dialog>
+          <Dialog>No. It's the stray cat that's
+usually around the back
+entrance of Dixie's. Haven't
+you seen it？</Dialog>
+          <Dialog>I think I've seen it sometimes
+when I took the trash out.</Dialog>
+          <Dialog>There usually aren't any
+people at the back entrance
+and there are some sunny spots
+for the cats.</Dialog>
+          <Dialog>Ah, that's why there are
+always some cats around that
+area.</Dialog>
+          <Dialog>Kuro-chan is the stray cats'
+boss. It's so small but other
+cats are afraid of it.</Dialog>
+          <Dialog>Huh...？ Maybe it's very
+strong when it fights.</Dialog>
+          <Dialog>I've never seen it fights
+though... Hehe. I'd better ask
+Kuro-chan next time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2276,19 +2608,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうだ。クロちゃんのこと、覚えてる？</Dialog>
+          <Dialog>Right. Do you remember
+Kuro-chan？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>デキシーズ周辺の野良猫のボスだよね。●も前、見たよ。</Dialog>
-          <Dialog>あの子、飼い猫だったの。</Dialog>
-          <Dialog>野良猫のボスなのに？</Dialog>
-          <Dialog>意外でしょ？　お店の近くにある家におばあさんと一緒に入っていくところ、偶然見かけたの。</Dialog>
-          <Dialog>すごく可愛かったんだから。仔猫みたいにじゃれついてて。</Dialog>
-          <Dialog>へぇ……ボスも飼い主には甘えるんだ。</Dialog>
-          <Dialog>私もそうしたいなぁ。</Dialog>
+          <Dialog>The stray cats' boss at
+Dixie's？ I also saw him
+earlier.</Dialog>
+          <Dialog>It's actually someone's pet
+cat.</Dialog>
+          <Dialog>But it's the stray cats' boss.</Dialog>
+          <Dialog>Surprising, right？ I
+accidentally saw it with an
+old lady who lives at the
+house near Dixie's.</Dialog>
+          <Dialog>It was acting very cute, like
+a little kitten, in front of
+her.</Dialog>
+          <Dialog>Huh...？ Even the boss also
+behaves itself in front of its
+owner.</Dialog>
+          <Dialog>I want to do that too.</Dialog>
           <Dialog>？</Dialog>
-          <Dialog>たまにはね、思う存分、誰かに甘えてみたいなぁ……って。</Dialog>
-          <Dialog>えっと……うん。●でよければ……。</Dialog>
-          <Dialog>……ふふ。ちょっとだけ考えてみるね？</Dialog>
+          <Dialog>Sometimes, I want someone to
+act cute like that to me
+too...</Dialog>
+          <Dialog>Umm... Well, if I'm good
+enough for you...</Dialog>
+          <Dialog>...Hehe. I'll think about it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2383,18 +2729,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ、カエルのお財布って、最近、流行ってるのかな？</Dialog>
+          <Dialog>Hey, the frog purses are quite
+popular lately, right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっ？　カエルって……がま口のこと？</Dialog>
-          <Dialog>うん。ほら、最近、忘れ物に多いでしょ？　小銭しか入らない小さいがま口。</Dialog>
-          <Dialog>そういえば……でも、流行ってるのかな？　聞いたことないけど。</Dialog>
-          <Dialog>そっちの学年でも流行ってないの？</Dialog>
-          <Dialog>男子では特に。女子は……どうかな？　あんまり親しい女の子もいないし。</Dialog>
-          <Dialog>……いないの？</Dialog>
-          <Dialog>授業で同じグループになった時に話す程度……かな？</Dialog>
-          <Dialog>ふーん……ちょっと意外かな。</Dialog>
-          <Dialog>そうかな、▲姉ヶ崎＊▲がいたら、自然にそうなるよ。</Dialog>
-          <Dialog>そっか……うん、わかってる。</Dialog>
+          <Dialog>Eh？ You mean purses that look
+like a frog...？</Dialog>
+          <Dialog>Yeah. They are very small so
+people often lose them. They
+can only hold coins.</Dialog>
+          <Dialog>I think I've seen them... But,
+I don't know if they're
+popular or not. I've never
+heard of them though.</Dialog>
+          <Dialog>So, they are not popular among
+people in your grade, huh？</Dialog>
+          <Dialog>Not among the guys, but I
+don't know about the girls. I
+don't have any girls I'm close
+to.</Dialog>
+          <Dialog>...You don't？</Dialog>
+          <Dialog>I only talk to them if we work
+in the same group during
+classes... That's all.</Dialog>
+          <Dialog>Hmm...？ That's quite
+unexpected.</Dialog>
+          <Dialog>Really？ Since I already have
+▲姉ヶ崎＊▲,
+I think that's natural.</Dialog>
+          <Dialog>I see... Okay, I got it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2497,18 +2859,35 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>年下のカレシって、周りの女の子から羨ましがられるんだけど……。</Dialog>
+          <Dialog>Many girls envy me for having
+a younger boyfriend, but...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうしたの急に。</Dialog>
-          <Dialog>……正直に言うけど、やっぱり不安なの。あなたに誰かが迫るんじゃないかって。</Dialog>
-          <Dialog>ないない。全然ないから。バイト中も……あ、カエルの財布のこと、覚えてる？</Dialog>
-          <Dialog>忘れ物のこと？</Dialog>
-          <Dialog>うん、それ。あれの持ち主、ほとんどが主婦だったって聞いてる？</Dialog>
-          <Dialog>あ……うん。そういえばあなた、おばさまからも大人気だよね。</Dialog>
-          <Dialog>あれは遊ばれてるというか……●って迫られるってより遊ばれるほうが多くない？</Dialog>
-          <Dialog>……うん。ちょっと、わかるかも。</Dialog>
-          <Dialog>それに●は、▲姉ヶ崎＊▲のことが好きなんだから、誰に迫られても関係ないよ。</Dialog>
-          <Dialog>……ふふ。そこまで言われちゃったら、納得するしかないよ。ずるいなぁ、もぅ。</Dialog>
+          <Dialog>Why do you mention this all of
+a sudden？</Dialog>
+          <Dialog>...To tell you the truth, I'm
+quite worried. When some girls
+got close to you...</Dialog>
+          <Dialog>No, no. Nothing will ever
+happen. Even at work... Ah, do
+you remember the frog purse？</Dialog>
+          <Dialog>The one that the customer
+forgot？</Dialog>
+          <Dialog>Yeah. And did you know that
+its owner is a housewife？</Dialog>
+          <Dialog>Ah, right... Speaking of
+which, you're quite popular
+among old women, huh？</Dialog>
+          <Dialog>They get close to me because
+they just enjoy teasing me, I
+think.</Dialog>
+          <Dialog>...Yeah. I know that.</Dialog>
+          <Dialog>But I already have
+▲姉ヶ崎＊▲,
+so it doesn't matter who
+gets close to me, right？</Dialog>
+          <Dialog>...Hehe. If you say that, I
+have no choice but to trust
+you. You're so crafty. Geez.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

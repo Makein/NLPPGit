@@ -32,11 +32,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ……よかったら、うちで勉強しない？　ほら、テスト近いじゃない。</Dialog>
+          <Dialog>Hey... If it's okay with you,
+how about you come to study at
+my house？ We have tests
+coming up, right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうか、テストか……。</Dialog>
-          <Dialog>うん。お願いしようかな</Dialog>
-          <Dialog>ひとりでがんばってみるよ</Dialog>
+          <Dialog>Right, the tests...</Dialog>
+          <Dialog>Okay, I'd love to</Dialog>
+          <Dialog>I'll study by myself</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -71,11 +74,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うちで勉強しない？　テスト勉強。どうせまだやってないんでしょ。</Dialog>
+          <Dialog>Wanna come to study at my
+house？ You haven't studied
+for the coming tests, right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>テスト勉強か……。</Dialog>
-          <Dialog>うん。お願いしようかな</Dialog>
-          <Dialog>ひとりでがんばってみるよ</Dialog>
+          <Dialog>The coming tests...？</Dialog>
+          <Dialog>Okay, I'd love to</Dialog>
+          <Dialog>I'll study by myself</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -110,11 +115,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>テスト勉強、ちゃんとやってる？　よかったらうちに来てしない？</Dialog>
+          <Dialog>Have you studied for the
+coming tests？ Wanna come to
+study at my house？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うーん、そうだな……。</Dialog>
-          <Dialog>うん。お願いしようかな</Dialog>
-          <Dialog>ひとりでがんばってみるよ</Dialog>
+          <Dialog>Well...</Dialog>
+          <Dialog>Okay, I'd love to</Dialog>
+          <Dialog>I'll study by myself</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -134,7 +141,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ……放課後ね。</Dialog>
+          <Dialog>Then I'll see you after
+school.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -154,7 +162,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、放課後。うちに来てね？</Dialog>
+          <Dialog>Then come to my house after
+school.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -174,7 +183,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん。じゃあ、放課後、うちまで、ね？</Dialog>
+          <Dialog>Um, then let's meet at my
+house after school.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -194,7 +204,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっか……うん、頑張ってね。</Dialog>
+          <Dialog>I see... Okay, do your best
+then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -214,7 +225,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうなんだ。あとで後悔しても、しらないぞ？</Dialog>
+          <Dialog>Really？ Don't regret it later
+then...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -234,7 +246,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっか、ひとりでがんばるんだ。えらいえらい。</Dialog>
+          <Dialog>I see. You want to study by
+yourself. Good student, huh？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -273,11 +286,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あれ、こんな所で……。そうだ、もし時間があるなら、これからうちでテスト勉強やらない？</Dialog>
+          <Dialog>Eh？ You're here... Right, if
+you have time, how about
+coming to my house to study
+for the tests？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>テスト勉強か。確かにそんな時期だけど……。</Dialog>
-          <Dialog>うん。お願いしようかな</Dialog>
-          <Dialog>ごめん、今日は予定が……</Dialog>
+          <Dialog>Study for the tests？ Right,
+we have tests coming up...</Dialog>
+          <Dialog>Okay, I'd love to</Dialog>
+          <Dialog>Sorry, I can't go today</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -312,11 +329,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あれ、こんな所で……あ、テストの準備は？　うちで勉強しない？</Dialog>
+          <Dialog>Eh？ You're here... Ah, have
+you studied for the tests？
+How about you come to study at
+my house？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば、そろそろテスト勉強の時期か……。</Dialog>
-          <Dialog>うん。お願いしようかな</Dialog>
-          <Dialog>ごめん、今日は予定が……</Dialog>
+          <Dialog>Right, it's almost exam time
+again...</Dialog>
+          <Dialog>Okay, I'd love to</Dialog>
+          <Dialog>Sorry, I can't go today</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -355,11 +376,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あれ？　奇遇だね。……そうだ、いいこと思いついちゃった。これからうちで勉強会やろうよ。だめかな？</Dialog>
+          <Dialog>Eh？ I didn't expect to meet
+you here. Right, I got a nice
+idea. Let's study for the
+exams together. How's that？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうか、そういえばテストが近いんだった……。</Dialog>
-          <Dialog>うん。お願いしようかな</Dialog>
-          <Dialog>ごめん、今日は予定が……</Dialog>
+          <Dialog>Right, the exams are coming
+up...</Dialog>
+          <Dialog>Okay, I'd love to</Dialog>
+          <Dialog>Sorry, I can't go today</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -379,7 +404,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん……じゃあ、あとでうちに来てね。待ってるから。</Dialog>
+          <Dialog>Well... Then come to my house
+after this. I'll be waiting.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -399,7 +425,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、準備して、うちに集合。あまり遅くならないようにね。</Dialog>
+          <Dialog>Then let's meet at my house
+later today. Don't be late,
+okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -419,7 +447,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、またあとでね。今日はじっくりお勉強しましょ。</Dialog>
+          <Dialog>Then we'll meet after this. We
+have to study hard, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -439,7 +468,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっか。突然だったもんね。ごめんね……。</Dialog>
+          <Dialog>I see. It's sudden, huh？
+Sorry...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -459,7 +489,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>断っちゃうんだ。ふーん……なんてね。突然、無理言ってごめんね。</Dialog>
+          <Dialog>You turned me down... Well,
+it's probably so sudden.
+Sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -479,7 +511,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あらら。振られちゃったか。残念。じゃあ、また今度ね。</Dialog>
+          <Dialog>A-ha... You rejected me. What
+a pity. Maybe next time then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -504,9 +537,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>勉強でわからないとこがあるんだけど、一緒に勉強しない？</Dialog>
+          <Dialog>I don't quite understand. How
+about we study together？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>いいよ、教えてあげられるか自信はないけど。私の部屋でね。</Dialog>
+          <Dialog>That's fine. Although I'm not
+confident that I can teach
+you, you can come to study at
+my house.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -531,9 +568,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>勉強でわからないとこがあるんだけど、一緒に勉強しない？</Dialog>
+          <Dialog>I don't quite understand. How
+about we study together？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ、じゃあ私の部屋に来なさい。教えてあげるから。</Dialog>
+          <Dialog>Hehe, come to study at my
+house. I'll teach you then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -558,9 +597,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>勉強でわからないとこがあるんだけど、一緒に勉強しない？</Dialog>
+          <Dialog>I don't quite understand. How
+about we study together？</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、私のお部屋で。家庭教師みたいね。</Dialog>
+          <Dialog>Then come to study at my
+house. This is like I'm your
+tutor, huh？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -585,9 +627,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>中は初めてだよね、ちょっと恥ずかしいかな……。</Dialog>
+          <Dialog>It's your first time here,
+right？ This is a little
+embarrassing...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん……じゃあ、お邪魔します……。</Dialog>
+          <Dialog>Yes... Well, I'll have to
+bother you today...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -612,9 +657,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そういえば入るのは初めてだね、いたずらしちゃ、ダメよ？</Dialog>
+          <Dialog>This is your first time to be
+here, right？ Don't do
+anything mischievous, okay？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>しないよ、そんなこと……。</Dialog>
+          <Dialog>I won't...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -639,9 +686,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ……初めてね、入るのは。なんか緊張しちゃう。</Dialog>
+          <Dialog>Hehe. It's the first time that
+you're here. I feel a little
+nervous.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●もちょっと緊張してるよ。</Dialog>
+          <Dialog>I'm nervous, too.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -666,9 +715,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>いらっしゃい。じゃあ、入って。</Dialog>
+          <Dialog>Welcome to my home. Now, let's
+get inside.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん。お邪魔しまーす。</Dialog>
+          <Dialog>Okay, I have to bother you
+today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -693,9 +744,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>この前みたいに、部屋の中じろじろ見たりしないでよ？</Dialog>
+          <Dialog>Don't keep staring at things
+in my room like you did last
+time, okay？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>してないって……じゃあ、お邪魔しまーす。</Dialog>
+          <Dialog>I won't... Then I have to
+bother you today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -720,9 +774,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい、いらっしゃいませ。首をながくして、待ってたんだから。ふふ。</Dialog>
+          <Dialog>Okay, welcome to my home. I've
+always been waiting for you to
+come here. Hehe.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>また大げさに……じゃあ、お邪魔しまーす。</Dialog>
+          <Dialog>You're exaggerating again...
+Then I have to bother you
+today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -742,7 +800,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>普通の部屋でしょ？　特に面白い物なんてないから、あんまり見ないでね？</Dialog>
+          <Dialog>It's just a normal room,
+right？ There's nothing
+particularly interesting, so
+don't stare.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -762,7 +823,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>部屋の中では、座ってじっとしてること。これ、決まりだからね。</Dialog>
+          <Dialog>The only thing you can do in
+here is to sit down and stay
+still, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -782,7 +845,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ……緊張してる？　もっと楽にしていいよ。</Dialog>
+          <Dialog>Hehe... Are you nervous？ You
+can make yourself more
+comfortable.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -802,7 +867,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やっぱり、ちょっと落ち着かないね……ふふ。</Dialog>
+          <Dialog>You really can't calm down,
+can you...？ Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -822,7 +888,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そこ。そうやって部屋の中を見ない。けっこう恥ずかしいんだから……。</Dialog>
+          <Dialog>Let's sit there. That way you
+can't look around my room.
+It's embarrassing...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -842,7 +910,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>まだ緊張してる？　実は私も。なかなか慣れないよね。</Dialog>
+          <Dialog>Are you still nervous？
+Actually, I'm not used to
+something like this either.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -862,7 +932,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そこ、座っていいよ。始めよ。</Dialog>
+          <Dialog>Shall we sit over there？
+Let's get started.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -882,7 +953,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ほらほら早く座って。……何から始める？</Dialog>
+          <Dialog>Hey, hey. Hurry up and take a
+seat....Where shall we start？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -902,7 +974,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、そろそろ勉強会、始めよっか？</Dialog>
+          <Dialog>Now, shall we start our lesson
+reviews？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -922,7 +995,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>さてと、いくよ？</Dialog>
+          <Dialog>Okay, here we go.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -942,7 +1015,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>さーて、どんどんいくからね？</Dialog>
+          <Dialog>Okay, we should get started.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -962,7 +1035,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>いくよ？　大丈夫？</Dialog>
+          <Dialog>Shall we start？ Are you
+ready？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -992,8 +1066,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>問題は３問。全問正解だったら、ご褒美……あげちゃおうかな？</Dialog>
-          <Dialog>じゃあ、スタート。</Dialog>
+          <Dialog>There will be a set of 3
+questions. If you answer them
+all correctly, I'll give you a
+reward... Do you feel
+motivated now？</Dialog>
+          <Dialog>Okay, start！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1013,7 +1091,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、正解っ。</Dialog>
+          <Dialog>Yes, correct！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1033,7 +1111,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あーあ、当たっちゃったぁ。</Dialog>
+          <Dialog>Ah, that's correct.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1053,7 +1131,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ピンポーン！</Dialog>
+          <Dialog>Correct！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1073,7 +1151,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うーん。落ち着いて……ね？</Dialog>
+          <Dialog>No... Calm down, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1093,7 +1171,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい、不正解。ふふ……。</Dialog>
+          <Dialog>Um, incorrect. Hehe...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1113,7 +1191,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ブッブ～。</Dialog>
+          <Dialog>Boo-boo~</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1133,7 +1211,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、パス？　うん、わかった。</Dialog>
+          <Dialog>Ah, pass？ Okay, I got it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1153,7 +1231,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>難しくないのに……ふふ。</Dialog>
+          <Dialog>It wasn't a difficult one,
+though. Hehe...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1173,7 +1252,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>しょうがないなぁ。じゃあ、これはパス……と。</Dialog>
+          <Dialog>It can't be helped. So, we'll
+skip this one.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1193,7 +1273,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、次の問題。</Dialog>
+          <Dialog>To the next question.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1213,7 +1293,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい、じゃあ、次ね。</Dialog>
+          <Dialog>Okay, then the next one.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1233,7 +1313,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい。それじゃあ、次の問題です。</Dialog>
+          <Dialog>Okay, then the next question.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1253,7 +1333,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、すごい。全問正解だよ。ご褒美……あげるね。</Dialog>
+          <Dialog>Ah, amazing. You got them all
+correct. I'll give you a
+reward.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1273,7 +1355,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>全問正解。やればできるんじゃない。じゃあ、ご褒美、あげないと……ね。</Dialog>
+          <Dialog>You got them all correct. You
+really can do it. Then I'll
+have to give you a reward,
+right...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1293,7 +1378,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>全部当たったね。ふふ……それじゃあ、ご褒美は……。</Dialog>
+          <Dialog>You got them all. Hehe... Then
+my reward for this is...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1313,7 +1399,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ。今回のご褒美は、これだよ……。</Dialog>
+          <Dialog>Hehe. Your reward this time is
+this...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1333,7 +1420,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>待ってて、すぐ戻るから。</Dialog>
+          <Dialog>Wait a second. I'll be right
+back.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1353,7 +1441,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>残念……惜しかったね。あと１問だったのに……。</Dialog>
+          <Dialog>Too bad... It's regrettable,
+but you missed one question...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1373,7 +1462,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>１問不正解、ご褒美はあげられません。</Dialog>
+          <Dialog>You made one wrong answer. I
+can't give you a reward.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1393,7 +1483,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>１問間違えちゃったね。ご褒美……あげられないよ？</Dialog>
+          <Dialog>You missed one question. I
+can't give you a reward,
+okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1413,7 +1505,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どうする？　もう一回？</Dialog>
+          <Dialog>What's next？ Wanna try
+again？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1433,7 +1526,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう、やめちゃうんだ……。</Dialog>
+          <Dialog>Hmm, you want to quit,
+huh...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1453,7 +1547,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、もう一回ね？</Dialog>
+          <Dialog>Okay, once more, right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1473,7 +1567,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ちょっと、調子がよくなかったみたいだね……。</Dialog>
+          <Dialog>Wait, this doesn't seem
+good...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1493,7 +1588,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ。この調子だと、本格的に教え込まないとダメかな？</Dialog>
+          <Dialog>Hehe... If it's like this,
+I'll have to tutor you very
+hard, huh？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1513,7 +1610,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どんまい、どんまい。このくらいでへこたれてちゃダメだよ？</Dialog>
+          <Dialog>Don't mind, don't mind. Don't
+lose your heart with just
+something like this.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1533,7 +1632,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん。あきらめないことが大事だよね。</Dialog>
+          <Dialog>Yes, the most important thing
+is not to give up.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1553,7 +1653,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もぅ……もう諦めるんだ。</Dialog>
+          <Dialog>Geez... You gave up already.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1573,7 +1673,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これじゃあ、あんまり勉強になってないんじゃない？</Dialog>
+          <Dialog>You still haven't learned
+anything much, right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1593,7 +1694,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>しょうがないなぁ。じゃあ、もうちょっとやる気が出るようにしてあげるね。</Dialog>
+          <Dialog>It can't be helped. Well, I'll
+try to cheer you up a little
+bit.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1613,7 +1716,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……もっとそっちに行ってもいい、かな？</Dialog>
+          <Dialog>...It'd be better if you come
+a little closer.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1633,7 +1737,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ……ねぇ。わかるよね？</Dialog>
+          <Dialog>Hehe... Hey, you know what to
+do, right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1653,7 +1758,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ、ちょっと……ね？</Dialog>
+          <Dialog>Hey, just a little bit...
+Okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1673,7 +1779,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こんな感じで……どうかな？</Dialog>
+          <Dialog>How about this...？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1693,7 +1799,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これ、あなたにもらった服なんだけど……どうかな？　似合ってる？</Dialog>
+          <Dialog>This is what you gave me. How
+is it？ Does it suit me？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1713,7 +1820,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>この服、見覚え無い？　じゃあ、ご感想、聞かせてもらおうかな？</Dialog>
+          <Dialog>Do you remember this outfit？
+Now, may I ask your opinion
+about it？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1733,7 +1842,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい。ご褒美に、もらった服を着てみました。どうかな？</Dialog>
+          <Dialog>Okay, as a reward, I'm wearing
+the outfit you gave me. How is
+it？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1753,7 +1864,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>たまには、こんな感じで……どうかな？</Dialog>
+          <Dialog>Occasionally, I wear something
+like this... How is it？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1773,7 +1885,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ほら、どう？　いつもと違う私……なーんてね。</Dialog>
+          <Dialog>Hey, how is it？ I look
+different, right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1793,7 +1906,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こんな服着てみちゃいました。ふふふ……うれしい？</Dialog>
+          <Dialog>I ended up wearing this.
+Hehehe... Are you happy？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1813,7 +1927,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もういいでしょ……ね？　これ、すごく恥ずかしいんだから……ね？</Dialog>
+          <Dialog>It's enough, right？ This is
+really embarrassing, you
+know？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1833,7 +1949,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい、サービスはここまで。ふふ、そんな未練がましい目で見てもダメ。</Dialog>
+          <Dialog>Okay, enough for the service.
+Hehe. Looking at me like that
+won't help.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1853,7 +1971,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい、もう終わり。ずっと着てたら、ありがたみがないでしょ？</Dialog>
+          <Dialog>Okay, this is it. If I keep
+this on for too long, it won't
+be called a special anymore.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1873,7 +1993,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どうする？　次も全問正解なら、もしかしたら……ふふ。</Dialog>
+          <Dialog>How about this？ If you get
+more questions correct, I'll
+wear something else. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1893,7 +2015,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん。やっぱり、そうこなくっちゃね。</Dialog>
+          <Dialog>Okay, I knew this would be
+your answer.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1913,7 +2036,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そう……ちょっと残念。</Dialog>
+          <Dialog>I see... That's too bad.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1933,7 +2056,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これは……特別、ね？</Dialog>
+          <Dialog>This is... special, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1953,7 +2076,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう、こんなの特別だよ？</Dialog>
+          <Dialog>Hey, this is very special,
+okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1973,7 +2097,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これは特別だからね？　ふふ。</Dialog>
+          <Dialog>This is the special. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1993,7 +2117,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これで……少しはやる気出る？</Dialog>
+          <Dialog>Do you feel motivated now？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2013,7 +2137,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ほら、ここまでさせたんだから、やる気出さないと許さないよ？</Dialog>
+          <Dialog>Hey, I've done this much for
+you. If you still don't feel
+motivated, I have nothing to
+say.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2033,7 +2160,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふふ、これで……やる気出た？</Dialog>
+          <Dialog>Hehehe... Do you feel
+motivated？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2053,7 +2181,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あんまり、見ないでね。</Dialog>
+          <Dialog>Don't stare...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2073,7 +2201,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ああ、もう、恥ずかしい……。</Dialog>
+          <Dialog>Ah, hey. It's embarrassing...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2093,7 +2221,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なによ、もう……。</Dialog>
+          <Dialog>What is this？ Hey...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2113,7 +2241,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>似合ってると思う？</Dialog>
+          <Dialog>Does this suit me？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2133,7 +2261,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>何か言ってよ……。</Dialog>
+          <Dialog>Say something...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2153,7 +2281,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もぅ……そんな目でみないの。</Dialog>
+          <Dialog>Hey... Don't look at me like
+that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2173,7 +2302,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>特別サービスだからね？</Dialog>
+          <Dialog>It's a special service for
+you, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2193,7 +2323,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……ほんとに恥ずかしいんだから、ね？</Dialog>
+          <Dialog>...This is really
+embarrassing, you know？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2213,7 +2344,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……まだ、見る？</Dialog>
+          <Dialog>...Not done looking yet？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2233,7 +2364,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ああ、もう……。</Dialog>
+          <Dialog>Ah, hey...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2253,7 +2384,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>いつまで見てるの？</Dialog>
+          <Dialog>How long are you going to keep
+looking？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2273,7 +2405,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうそろそろ、やめるからね。</Dialog>
+          <Dialog>It's about time we should stop
+this.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2293,7 +2426,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うー……すごく恥ずかしいんだよ？</Dialog>
+          <Dialog>Urgh... This is very
+embarrassing.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2313,7 +2447,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……変なところ、見てないよね？</Dialog>
+          <Dialog>...You aren't looking at
+places where you shouldn't
+look, right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2333,7 +2469,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうっ！</Dialog>
+          <Dialog>Hey！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2353,7 +2489,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もぅ……いつまでも見過ぎっ。</Dialog>
+          <Dialog>Hey... You're staring too
+much.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2373,7 +2510,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やだ、どこ見てるの？</Dialog>
+          <Dialog>No, where are you looking at？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2393,7 +2530,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なに？　あんまり変なとこ見ないでよ……ね？</Dialog>
+          <Dialog>What？ Don't stare at places
+where you shouldn't look,
+okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2413,7 +2552,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もー、まだやめないの？</Dialog>
+          <Dialog>Hey, not done yet？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2433,7 +2572,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そんな熱心に見なくていいの。</Dialog>
+          <Dialog>You don't have to stare so
+enthusiastically like that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2453,7 +2593,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こんな服着てるからかな。いつもよりドキドキする……。</Dialog>
+          <Dialog>Maybe it's because of this
+outfit that my heart is
+pounding so hard...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2473,7 +2615,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こんな格好で……ちょっと恥ずかしいけど……。</Dialog>
+          <Dialog>Wearing this outfit is just
+too embarrassing...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2493,7 +2636,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こういう服……好き？</Dialog>
+          <Dialog>Do you like this outfit？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2513,7 +2656,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、今日の所はこれぐらいでおしまい。</Dialog>
+          <Dialog>Then this is it for today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2533,7 +2676,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ、すごくがんばったね。</Dialog>
+          <Dialog>Hehe, you really tried your
+best.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2553,7 +2697,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>結構、いい勉強になったんじゃない？</Dialog>
+          <Dialog>We've studied a lot today,
+right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2573,7 +2718,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>がんばったから、花マルあげちゃう。</Dialog>
+          <Dialog>You did your best. I'll give
+you a "good job" stamp.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2593,7 +2739,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ。とりあえず、お疲れ様でした。</Dialog>
+          <Dialog>Hehe. You've done very well.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2613,7 +2759,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうちょっと、がんばらないとね？</Dialog>
+          <Dialog>You'll have to try a little
+harder, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2633,7 +2780,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>テスト、このままだとちょっと心配かな……。</Dialog>
+          <Dialog>I'm quite worried about the
+coming exams...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2653,7 +2801,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今日は調子が悪かったみたいだけど……うん、きっとなんとかなる。ね？</Dialog>
+          <Dialog>Things didn't go well today
+but I guess we can manage it
+somehow, right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2673,7 +2823,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ダメダメだったね……。</Dialog>
+          <Dialog>Things went all wrong...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2693,7 +2843,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もぉ、これじゃ心配。家でもちゃんと勉強してね？</Dialog>
+          <Dialog>Geez. You made me worried. You
+must study after you get home,
+all right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2713,7 +2865,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、テストがんばってね。私もだけど……ふふ。</Dialog>
+          <Dialog>Then do your best for the
+tests. I'll do my best, too.
+Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2743,10 +2897,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>テスト勉強は、この辺で切り上げるとして……もう帰る？</Dialog>
-          <Dialog>疲れたし、もう帰るよ</Dialog>
-          <Dialog>できれば、
-もうちょっと一緒にいたいな</Dialog>
+          <Dialog>I think we have covered
+everything for the tests.
+...You wanna go home now？</Dialog>
+          <Dialog>I'm tired. I'll go home.</Dialog>
+          <Dialog>Can I stay for a while？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2766,7 +2921,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そう……じゃあ、またね。</Dialog>
+          <Dialog>Okay... See you later then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2786,7 +2941,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>それじゃあ、ちょっと待ってて。いいもの見せてあげる。</Dialog>
+          <Dialog>Then wait a moment. I have
+something to show you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2811,9 +2967,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>結構、充実した時間だったね。</Dialog>
+          <Dialog>We have spent our time
+productively.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん。いい勉強になったよ。</Dialog>
+          <Dialog>Yeah. I learned a lot.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2838,9 +2995,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こんなので勉強になったのかわからないけど……機会があったら、また来てね。</Dialog>
+          <Dialog>I don't know why things turned
+out to be like that... But if
+there's a chance, let's do
+this again.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん。そうする。</Dialog>
+          <Dialog>Yeah, okay.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2865,9 +3025,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今日は……なんか、途中から変なことになっちゃったね。</Dialog>
+          <Dialog>In the middle of our study, we
+did some strange things...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん……でも楽しかった。</Dialog>
+          <Dialog>Yeah... But it was fun.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

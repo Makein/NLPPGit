@@ -187,43 +187,74 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……ん、ここはどこだ？　目の前が真っ白だ。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>　　　　　　　・
-　　　　　　　・
-　　　　　　　・</Dialog>
-          <Dialog>……少しずつ晴れてきたな。</Dialog>
-          <Dialog>えっ!!　▲姉ヶ崎＊▲!?</Dialog>
-          <Dialog>なんでこんなところに……。そうか、これは夢か。</Dialog>
-          <Dialog>……夢なら、触っても怒られないかな？</Dialog>
-          <Dialog>よし、試しにタッチしてみよう。</Dialog>
-          <Dialog>!?</Dialog>
-          <Dialog>……びっくりした。夢の中でも反応はするんだな。</Dialog>
-          <Dialog>……もう少し触れるかな？</Dialog>
-          <Dialog>なんか喜んでるみたいだ。</Dialog>
-          <Dialog>……嫌がってる。ダメなときもあるんだな。</Dialog>
-          <Dialog>すごく喜んでるみたいだ。</Dialog>
+          <Dialog>Huh, where am I？ It's all
+white.</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>　　　　　　　・ 　　　　　　　・ 　　　　　　　・</Dialog>
+          <Dialog>...It's starting to become a
+little clearer.</Dialog>
+          <Dialog>Eh ！？
+▲姉ヶ崎＊▲！？</Dialog>
+          <Dialog>hy am I here...？ So, this is
+just a dream.</Dialog>
+          <Dialog>Since it's a dream, maybe she
+won't get angry if I touch
+her.</Dialog>
+          <Dialog>All right. I'll try touching
+her.</Dialog>
+          <Dialog>？！</Dialog>
+          <Dialog>...I was surprised. Even in
+the middle of a dream, she
+gave a reaction.</Dialog>
+          <Dialog>...I wonder if I could touch
+her a little more.</Dialog>
+          <Dialog>Seems like she's happy.</Dialog>
+          <Dialog>...But there are times when
+it's not good to touch her.</Dialog>
+          <Dialog>It looks like she's really
+enjoying it.</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>人に見られるよ……？</Dialog>
-          <Dialog>触る場所によって反応が違うな。</Dialog>
-          <Dialog>相手の気分によって、触っていいところとダメなところがあるのか。</Dialog>
-          <Dialog>あと、触れる回数も相手の気分で変わるみたいだな。</Dialog>
-          <Dialog>触っていい場所ってどこだろう、試してみるか。</Dialog>
-          <Dialog>髪……恋人ならではだな。</Dialog>
-          <Dialog>おでこ……なんか可愛いな。</Dialog>
-          <Dialog>耳……くすぐったくないのかな。</Dialog>
-          <Dialog>体……ここは慎重にいかないとな。</Dialog>
-          <Dialog>腕……くんだりできたらいいよな。</Dialog>
-          <Dialog>手……つないだりもしたいよな。</Dialog>
-          <Dialog>これはダメみたいだ。</Dialog>
-          <Dialog>髪、おでこ、耳、体、腕、手……こんなもんかな。</Dialog>
-          <Dialog>……ん？</Dialog>
-          <Dialog>あれ、世界がまた白く……。もう終わり？</Dialog>
-          <Dialog>まだもう少し……▲姉ヶ崎＊▲、待ってくれー！</Dialog>
-          <Dialog>ん？　ここは？</Dialog>
-          <Dialog>そっか、夢か。それにしても生々しい夢だったな。</Dialog>
-          <Dialog>でも夢で満足してちゃダメだよな。</Dialog>
-          <Dialog>よし、デートのときはしっかりやるぞ！</Dialog>
+          <Dialog>Someone might see us...</Dialog>
+          <Dialog>Her responses are different
+depending on where I touch
+her.</Dialog>
+          <Dialog>Depending on her mood, some
+places will be good to touch,
+and some bad.</Dialog>
+          <Dialog>Looks like the number of times
+I can touch her depends on her
+mood, too.</Dialog>
+          <Dialog>Where can I touch her？ I
+guess I'll give it a go.</Dialog>
+          <Dialog>Her hair... It's okay I guess,
+because I'm her boyfriend.</Dialog>
+          <Dialog>Her forehead... She looks so
+cute.</Dialog>
+          <Dialog>Her ear... I wonder if she's
+ticklish.</Dialog>
+          <Dialog>Her body... I have to be
+careful with this.</Dialog>
+          <Dialog>Her arm... It would be good if
+we could walk arm in arm.</Dialog>
+          <Dialog>Her hand.... I want to hold
+her hand.</Dialog>
+          <Dialog>Apparently, this won't do.</Dialog>
+          <Dialog>Her hair, forehead, ear, body,
+arm, and hand. That's about
+all.</Dialog>
+          <Dialog>...Hmm？</Dialog>
+          <Dialog>Ah, the world is turning white
+again... Is it over already？</Dialog>
+          <Dialog>Just a bit more...
+▲姉ヶ崎＊▲,
+WAIT！</Dialog>
+          <Dialog>Huh？ Where am I？</Dialog>
+          <Dialog>I see. A dream, huh？ What a
+vivid and lively dream.</Dialog>
+          <Dialog>But I won't be satisfied with
+just a dream.</Dialog>
+          <Dialog>All right. I'll do it right on
+a date！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -252,11 +283,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>スキンシップの練習をする</Dialog>
-          <Dialog>スキンシップの練習をしない</Dialog>
+          <Dialog>Practice skinship</Dialog>
+          <Dialog>Don't practice skinship</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……なんだか眠いな。</Dialog>
-          <Dialog>……だめだ、ほんとに眠い……。</Dialog>
+          <Dialog>...I'm getting sleepy.</Dialog>
+          <Dialog>...This isn't good. I'm really
+sleepy...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -551,61 +583,118 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どこだ、ここは。誰もいない……。</Dialog>
-          <Dialog>……なんだ、急に目の前が白く。</Dialog>
-          <Dialog>そういえば前にもこんな夢を見たことがあったような……。</Dialog>
-          <Dialog>うわっ！</Dialog>
-          <Dialog>▲姉ヶ崎＊▲がこんな近くに……。</Dialog>
-          <Dialog>それになんか良い雰囲気だな。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>キス、できるかな？</Dialog>
-          <Dialog>前はタッチしかできなかったけど、今度はなでてみよう。</Dialog>
-          <Dialog>触り方で反応が少し違うな。</Dialog>
-          <Dialog>よし、今度はほっぺだけ触ってみよう。</Dialog>
-          <Dialog>っと、ここは触って欲しくないのか。</Dialog>
-          <Dialog>これはやめておいた方がいいな。</Dialog>
-          <Dialog>もう少し長く触ってみるか。</Dialog>
-          <Dialog>長く触ってあげると、喜んでくれるのか。</Dialog>
-          <Dialog>触る場所によって、表情がときどき変わるんだな。</Dialog>
-          <Dialog>どこが触れるんだろう、とりあえず試してみるか。</Dialog>
-          <Dialog>頭……なでられるみたいだな。</Dialog>
-          <Dialog>おでこ……さわれるみたいだな。</Dialog>
-          <Dialog>ほっぺ……ここもさわれるな。</Dialog>
-          <Dialog>肩まわり……ここも大丈夫みたいだ。</Dialog>
-          <Dialog>ここじゃないよな……。</Dialog>
-          <Dialog>っと、これはやめておいた方がいいな。</Dialog>
-          <Dialog>頭、おでこ、ほっぺ、肩まわり……大体わかってきたぞ。</Dialog>
-          <Dialog>……ん？</Dialog>
-          <Dialog>なんか様子が……。</Dialog>
-          <Dialog>うわっ!?</Dialog>
-          <Dialog>これは一体……。</Dialog>
-          <Dialog>やっぱり、キスしてもいいってことなのか？</Dialog>
-          <Dialog>夢とはいえ、いいのかな……。</Dialog>
-          <Dialog>でも予行演習と思えば、いいよな。</Dialog>
-          <Dialog>さてどうしよう。キスなんだから、基本は唇だよな。</Dialog>
-          <Dialog>でも、おでことかほっぺとか口の周りとかに軽くキスするのもありかな？</Dialog>
-          <Dialog>よし、とりあえず試してみよう。</Dialog>
-          <Dialog>ほっぺには軽く触れるのがいいみたいだ。</Dialog>
-          <Dialog>おでこにキス……こういうのもいいかもな。</Dialog>
-          <Dialog>口の周り……軽く触れるぐらいがいいのかな。</Dialog>
-          <Dialog>こうやって唇に軽く触れるのもありか。</Dialog>
-          <Dialog>唇以外は、あまり長くはキスできないみたいだ。</Dialog>
-          <Dialog>……これはダメだな。</Dialog>
-          <Dialog>つい、色々やってしまった……。</Dialog>
-          <Dialog>じゃあ、気を取り直して、もう一度。</Dialog>
-          <Dialog>唇に触り続ければいいんだよな……。</Dialog>
-          <Dialog>夢なのに、ヘンな気分になってきた……。</Dialog>
-          <Dialog>もっと長くしないと……。</Dialog>
-          <Dialog>違う違う、唇にキスしないと。</Dialog>
-          <Dialog>これはダメだって。</Dialog>
-          <Dialog>ふぅ……。</Dialog>
-          <Dialog>こんな夢見るなんて、欲求不満なのかな。</Dialog>
-          <Dialog>恥ずかしくて、▲姉ヶ崎＊▲には言えないな。</Dialog>
-          <Dialog>あ、また目の前が白くなってく……これで終わりか。</Dialog>
-          <Dialog>少し名残惜しいけど、しょせんは夢だしな……。</Dialog>
-          <Dialog>こんな夢見るなんて、▲姉ヶ崎＊▲に合わせる顔がない……。</Dialog>
-          <Dialog>いや、夢じゃなくて実際にできるようになればいいか。</Dialog>
-          <Dialog>よし、次のデートではがんばるぞ！</Dialog>
+          <Dialog>What is this place？ There's
+no one here...</Dialog>
+          <Dialog>...What？ It's all suddenly
+turning white.</Dialog>
+          <Dialog>That's right. I feel like I've
+had this dream before...</Dialog>
+          <Dialog>Whoa ！</Dialog>
+          <Dialog>▲姉ヶ崎＊▲
+is this close...</Dialog>
+          <Dialog>The atmosphere now is nice,
+too.</Dialog>
+          <Dialog>....</Dialog>
+          <Dialog>Maybe I can kiss her？</Dialog>
+          <Dialog>Before, I could only touch
+her. But I should try
+something different now.</Dialog>
+          <Dialog>Her reactions to being touched
+change slightly.</Dialog>
+          <Dialog>All right, this time I will
+try her cheek.</Dialog>
+          <Dialog>Hmm... You didn't want me to
+touch there？</Dialog>
+          <Dialog>I think it would be best not
+to do that.</Dialog>
+          <Dialog>I'll try touching her a little
+longer.</Dialog>
+          <Dialog>If I touch her longer, will
+she like it？</Dialog>
+          <Dialog>Depending on where I touch
+her, her expression will
+change from time to time.</Dialog>
+          <Dialog>I wonder where I should touch.
+I guess I'll try different
+spots for now.</Dialog>
+          <Dialog>Her head.... I can gently pat
+her.</Dialog>
+          <Dialog>Her forehead.... I can touch
+here, too.</Dialog>
+          <Dialog>Her cheek... I can touch here
+as well.</Dialog>
+          <Dialog>Her shoulder. Looks like it's
+all right to touch her here as
+well.</Dialog>
+          <Dialog>Not the right place...</Dialog>
+          <Dialog>Apparently, this won't do.</Dialog>
+          <Dialog>Her head, forehead, cheek, and
+shoulder... I think I've got
+it.</Dialog>
+          <Dialog>...Hm？</Dialog>
+          <Dialog>In this situation...</Dialog>
+          <Dialog>Whoa！ ？</Dialog>
+          <Dialog>This is...</Dialog>
+          <Dialog>Am I allowed to kiss her after
+all？</Dialog>
+          <Dialog>Because this is a dream, I
+guess it's okay.</Dialog>
+          <Dialog>Think of it as practice, this
+should be good.</Dialog>
+          <Dialog>Well, what now？ Lips are the
+first thing you think of when
+kissing, right？</Dialog>
+          <Dialog>I think I can kiss her
+forehead, cheek, or near her
+mouth.</Dialog>
+          <Dialog>All right. For now, I'll try
+to test it out.</Dialog>
+          <Dialog>Lightly touching her cheek
+seems to be okay.</Dialog>
+          <Dialog>Kissing her forehead... This
+looks okay.</Dialog>
+          <Dialog>Near her mouth... Seems it's
+okay to lightly touch around
+here.</Dialog>
+          <Dialog>Now, maybe I can try touching
+her lips lightly.</Dialog>
+          <Dialog>Just for the lips, I guess I
+can try a long kiss.</Dialog>
+          <Dialog>...This is no good.</Dialog>
+          <Dialog>Whoa... I just wound up doing
+various things...</Dialog>
+          <Dialog>Well, let me pull myself
+together.</Dialog>
+          <Dialog>It's okay to continue touching
+her lips.</Dialog>
+          <Dialog>Even though it's a dream, this
+turned out to be quite a
+strange feeling...</Dialog>
+          <Dialog>It has to be longer...</Dialog>
+          <Dialog>Wrong ！ I have to kiss her
+lips.</Dialog>
+          <Dialog>This is no good.</Dialog>
+          <Dialog>Phew...</Dialog>
+          <Dialog>It's really frustrating to
+think that this is only a
+dream.</Dialog>
+          <Dialog>I'm so embarrassed. I
+definitely can't tell
+▲姉ヶ崎＊▲
+about this.</Dialog>
+          <Dialog>Ah, everything is going white
+again... Is it over？</Dialog>
+          <Dialog>I wish I could stay, but I
+guess it's just a dream, after
+all...</Dialog>
+          <Dialog>After a dream like this, it
+will be tough seeing
+▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>I hope that I can do this in
+real life, not just in my
+dreams...</Dialog>
+          <Dialog>All right！ I'll try my best
+on my next date.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -634,11 +723,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>キスの練習をする</Dialog>
-          <Dialog>キスの練習をしない</Dialog>
+          <Dialog>Practice kissing</Dialog>
+          <Dialog>Don't practice kissing</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……眠い。</Dialog>
-          <Dialog>むちゃくちゃ眠いぞ……だめだ……。</Dialog>
+          <Dialog>So sleepy...</Dialog>
+          <Dialog>I'm really sleepy... I'm...
+going to...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -663,7 +753,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>なんか上手くいかないな……。</Dialog>
+          <Dialog>なんか上手くいかないな......。</Dialog>
           <Dialog>まだまだ！</Dialog>
           <Dialog>これはもういいや</Dialog>
         </Dialogs>

@@ -47,12 +47,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もしもし。</Dialog>
+          <Dialog>Hello.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●だけど、今度のデート、行けなくなって。</Dialog>
-          <Dialog>それって、キャンセルってこと？</Dialog>
-          <Dialog>うん。ごめん、今度埋め合わせするから。</Dialog>
-          <Dialog>そう、わかった。いいよ。じゃあ、また。</Dialog>
+          <Dialog>It's me. I'm afraid I can't
+make it to our date.</Dialog>
+          <Dialog>So, do you want to cancel it？</Dialog>
+          <Dialog>Yeah, sorry. I'll make up for
+it next time.</Dialog>
+          <Dialog>Okay, I got it. Then see you
+later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -106,12 +109,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もしもし。</Dialog>
+          <Dialog>Hello.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●だけど、今度のデート、行けなくなって。</Dialog>
-          <Dialog>あ、そうなんだ。何か急用？</Dialog>
-          <Dialog>まあ、そんなとこ。ごめん。</Dialog>
-          <Dialog>わかった。ワガママ言って困らせたくないし、都合が良くなったらまた声かけてね。</Dialog>
+          <Dialog>It's me. I'm afraid I can't
+make it to our date.</Dialog>
+          <Dialog>Ah, really？ Did something
+come up？</Dialog>
+          <Dialog>Yeah, something like that.
+Sorry.</Dialog>
+          <Dialog>I got it. I don't want to
+cause you trouble. You can ask
+me out again when you are free
+then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -161,12 +170,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もしもし。</Dialog>
+          <Dialog>Hello.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●だけど、今度のデート、行けなくなって。</Dialog>
-          <Dialog>え、ほんと？　残念、楽しみにしてたのに。</Dialog>
-          <Dialog>ごめん。今度ちゃんと埋め合わせするから。</Dialog>
-          <Dialog>埋め合わせなんていいけど……でも、もうキャンセルはナシで！　ね？</Dialog>
+          <Dialog>It's me. I'm afraid I can't
+make it to our date.</Dialog>
+          <Dialog>Eh？ Really？ That's too bad.
+I was really looking forward
+to it.</Dialog>
+          <Dialog>Sorry. I'll definitely make up
+for it next time.</Dialog>
+          <Dialog>I'm glad you're going to make
+up for it. But next time,
+don't cancel it again, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -216,12 +231,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>はい、もしもし。</Dialog>
+          <Dialog>Yes, hello？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今日のデートだけど、行けなくなって。</Dialog>
-          <Dialog>え、そうなの？</Dialog>
-          <Dialog>うん……ごめん。</Dialog>
-          <Dialog>仕方ないね。無理を言っても悪いし、わかった。じゃあね。</Dialog>
+          <Dialog>About our upcoming date, I
+can't go...</Dialog>
+          <Dialog>Eh？ Really？</Dialog>
+          <Dialog>Yeah... Sorry.</Dialog>
+          <Dialog>It can't be helped. I won't be
+unreasonable. See you later
+then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -271,12 +289,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>はい、もしもし。</Dialog>
+          <Dialog>Yes, hello？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今日のデートだけど、行けなくなって。</Dialog>
-          <Dialog>え、今日になって？　どうしたの、急に？</Dialog>
-          <Dialog>ちょっと……ごめん、埋め合わせはするから。</Dialog>
-          <Dialog>別にそういうのはいいけど。でも、ちょっとショックかな……。</Dialog>
+          <Dialog>About our upcoming date, I
+can't go...</Dialog>
+          <Dialog>Eh？ It's today, right？ Why？
+This is too sudden.</Dialog>
+          <Dialog>It's just... I'm sorry. I'll
+make up for it.</Dialog>
+          <Dialog>You don't have to say that.
+I'm just a bit shocked...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -326,12 +348,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>はい、もしもし。</Dialog>
+          <Dialog>Yes, hello？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今日のデートだけど、行けなくなって。</Dialog>
-          <Dialog>ええっ！　楽しみにしてたのに……。</Dialog>
-          <Dialog>本当にごめん。急なこと言っちゃって。</Dialog>
-          <Dialog>あ、ううん、いいの。でも今度またお願いね？</Dialog>
+          <Dialog>About our upcoming date, I
+can't go...</Dialog>
+          <Dialog>Eh！？ But I was really
+looking forward to it...</Dialog>
+          <Dialog>I'm truly sorry that I didn't
+tell you earlier.</Dialog>
+          <Dialog>Ah, no. It's okay. But please
+invite me again, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -389,12 +415,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あ、もしもし？</Dialog>
+          <Dialog>Ah, hello？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今日のデート、急に行けなくなったんだ、ごめん！</Dialog>
-          <Dialog>今になって？　ねえ、そういうことは、事前に言ってくれなきゃ。</Dialog>
-          <Dialog>謝る。今度埋め合わせするからさ。</Dialog>
-          <Dialog>もう、仕方ないな。今日は適当に時間を潰すから。でも、二度としないでね。</Dialog>
+          <Dialog>It's sudden, but I can't go to
+our date. Sorry！</Dialog>
+          <Dialog>You're telling me now？ Hey,
+you should have told me
+earlier.</Dialog>
+          <Dialog>I apologize. I'll surely make
+up for it next time.</Dialog>
+          <Dialog>Hah, it can't be helped if you
+can't make it. But please
+don't do this again, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -448,12 +480,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あ、もしもし？</Dialog>
+          <Dialog>Ah, hello？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今日のデート、急に行けなくなったんだ、ごめん！</Dialog>
-          <Dialog>わたし、もう待ち合わせ場所にいるのに。</Dialog>
-          <Dialog>本当にごめん。今度ちゃんと埋め合わせするから。</Dialog>
-          <Dialog>なにか理由があるんだよね……でも、やっぱりこういうのは嫌。もうしないで。</Dialog>
+          <Dialog>It's sudden, but I can't go to
+our date. Sorry！</Dialog>
+          <Dialog>But I'm already at the meeting
+place.</Dialog>
+          <Dialog>I am really sorry. I'll surely
+make up for it next time.</Dialog>
+          <Dialog>I guess you have your
+reasons... But I really don't
+like this. Don't do it again.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -503,12 +540,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あ、もしもし？</Dialog>
+          <Dialog>Ah, hello？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今日のデート、急に行けなくなったんだ、ごめん！</Dialog>
-          <Dialog>え、そんな。突然、どうしたの？</Dialog>
-          <Dialog>ちょっと……本当にごめん。謝る。</Dialog>
-          <Dialog>すごく楽しみだったのに……じゃあね。</Dialog>
+          <Dialog>It's sudden, but I can't go to
+our date. Sorry！</Dialog>
+          <Dialog>Eh？ This is too sudden. Why？</Dialog>
+          <Dialog>It's... I'm really sorry. I
+apologize.</Dialog>
+          <Dialog>I was really looking forward
+to it and all... Bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

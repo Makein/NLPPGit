@@ -92,20 +92,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、帰るか。</Dialog>
-          <Dialog>（あ、▲小早川＊▲……）</Dialog>
-          <Dialog>一緒に帰ろうと誘う</Dialog>
-          <Dialog>一人で帰る</Dialog>
-          <Dialog>▲小早川＊▲。</Dialog>
+          <Dialog>Well, time to go home.</Dialog>
+          <Dialog>(Ah,
+▲小早川＊▲...)</Dialog>
+          <Dialog>Ask her to go home
+together</Dialog>
+          <Dialog>Go home alone</Dialog>
+          <Dialog>▲小早川＊▲.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>オッス、一緒に帰ろう？</Dialog>
-          <Dialog>なんで？</Dialog>
-          <Dialog>えぇと、一緒に帰りたいから。</Dialog>
-          <Dialog>ふぅん……いいけど。</Dialog>
-          <Dialog>ヤダ。</Dialog>
-          <Dialog>（残念……）</Dialog>
-          <Dialog>（今日は一人で帰ろう……）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Yo！ How about walking home
+together？</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>Hmm... I want to walk home
+with you. That's why.</Dialog>
+          <Dialog>Hmm... Fine then.</Dialog>
+          <Dialog>No.</Dialog>
+          <Dialog>(What a pity...)</Dialog>
+          <Dialog>(I'll go home alone today...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -200,20 +204,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、帰るか。</Dialog>
-          <Dialog>（あ、▲小早川＊▲……）</Dialog>
-          <Dialog>一緒に帰ろうと誘う</Dialog>
-          <Dialog>一人で帰る</Dialog>
-          <Dialog>▲小早川＊▲。</Dialog>
+          <Dialog>Well, time to go home.</Dialog>
+          <Dialog>(Ah,
+▲小早川＊▲...)</Dialog>
+          <Dialog>Ask her to go home
+together</Dialog>
+          <Dialog>Go home alone</Dialog>
+          <Dialog>▲小早川＊▲.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>オッス、一緒に帰ろう？</Dialog>
-          <Dialog>ヤダ。</Dialog>
-          <Dialog>そっか……。</Dialog>
-          <Dialog>勝手について来るなら、止めないけど。</Dialog>
-          <Dialog>そんな落ち込まなくてもいいじゃん。じゃ、用事あるから。</Dialog>
-          <Dialog>（残念……）</Dialog>
-          <Dialog>（今日は一人で帰ろう……）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Yo！ How about walking home
+together？</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>I see...</Dialog>
+          <Dialog>But if you insist on following
+me, I won't stop you.</Dialog>
+          <Dialog>You don't have to look that
+disappointed. I just got
+something to do.</Dialog>
+          <Dialog>(What a pity...)</Dialog>
+          <Dialog>(I'll go home alone today...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -308,20 +318,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、帰るか。</Dialog>
-          <Dialog>（あ、▲小早川＊▲……）</Dialog>
-          <Dialog>一緒に帰ろうと誘う</Dialog>
-          <Dialog>一人で帰る</Dialog>
-          <Dialog>▲小早川＊▲。</Dialog>
+          <Dialog>Well, time to go home.</Dialog>
+          <Dialog>(Ah,
+▲小早川＊▲...)</Dialog>
+          <Dialog>Ask her to go home
+together</Dialog>
+          <Dialog>Go home alone</Dialog>
+          <Dialog>▲小早川＊▲.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>オッス、一緒に帰ろう？</Dialog>
-          <Dialog>遅い。</Dialog>
-          <Dialog>あれ？　待っててくれた？</Dialog>
-          <Dialog>え？　そんなワケ、ないじゃん……。</Dialog>
-          <Dialog>今日はダメ……今日は、だから。</Dialog>
-          <Dialog>（残念……）</Dialog>
-          <Dialog>（今日は一人で帰ろう……）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Yo！ How about walking home
+together？</Dialog>
+          <Dialog>So late！</Dialog>
+          <Dialog>Huh？ Are you waiting for me？</Dialog>
+          <Dialog>Eh？ How could that be...？</Dialog>
+          <Dialog>Today, I can't... I really
+can't...</Dialog>
+          <Dialog>(What a pity...)</Dialog>
+          <Dialog>(I'll go home alone today...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -401,18 +415,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、帰るか。</Dialog>
-          <Dialog>（あ、▲小早川＊▲……）</Dialog>
-          <Dialog>一緒に帰ろうと誘う</Dialog>
-          <Dialog>一人で帰る</Dialog>
-          <Dialog>オッス！</Dialog>
+          <Dialog>Well, time to go home.</Dialog>
+          <Dialog>(Ah,
+▲小早川＊▲...)</Dialog>
+          <Dialog>Ask her to go home
+together</Dialog>
+          <Dialog>Go home alone</Dialog>
+          <Dialog>Yo！</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>一緒に帰ろう？</Dialog>
-          <Dialog>それはこっちが言おうと思ってたんだけど。</Dialog>
-          <Dialog>今日はダメ。なんで今日誘うかな。</Dialog>
-          <Dialog>（残念……）</Dialog>
-          <Dialog>（今日は一人で帰ろう……）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Wanna go home together？</Dialog>
+          <Dialog>I was about to ask you that.</Dialog>
+          <Dialog>Today, I can't. Why did you
+have to ask me today？</Dialog>
+          <Dialog>(What a pity...)</Dialog>
+          <Dialog>(I'll go home alone today...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -492,18 +509,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、帰るか。</Dialog>
-          <Dialog>（あ、▲小早川＊▲……）</Dialog>
-          <Dialog>一緒に帰ろうと誘う</Dialog>
-          <Dialog>一人で帰る</Dialog>
-          <Dialog>オッス。</Dialog>
+          <Dialog>Well, time to go home.</Dialog>
+          <Dialog>(Ah,
+▲小早川＊▲...)</Dialog>
+          <Dialog>Ask her to go home
+together</Dialog>
+          <Dialog>Go home alone</Dialog>
+          <Dialog>Yo.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>一緒に帰ろう？</Dialog>
-          <Dialog>へへ、待ち伏せしちゃった。ねぇ、嬉しい？</Dialog>
-          <Dialog>今日はダメだよ。</Dialog>
-          <Dialog>（残念……）</Dialog>
-          <Dialog>（今日は一人で帰ろう……）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Wanna go home together？</Dialog>
+          <Dialog>Hehe. I'm waiting for you.
+Hey, are you happy？</Dialog>
+          <Dialog>I can't go today.</Dialog>
+          <Dialog>(What a pity...)</Dialog>
+          <Dialog>(I'll go home alone today...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -598,20 +618,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、帰るか。</Dialog>
-          <Dialog>（あ、▲小早川＊▲……）</Dialog>
-          <Dialog>一緒に帰ろうと誘う</Dialog>
-          <Dialog>一人で帰る</Dialog>
-          <Dialog>▲小早川＊▲。</Dialog>
+          <Dialog>Well, time to go home.</Dialog>
+          <Dialog>(Ah,
+▲小早川＊▲...)</Dialog>
+          <Dialog>Ask her to go home
+together</Dialog>
+          <Dialog>Go home alone</Dialog>
+          <Dialog>▲小早川＊▲.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>オッス、一緒に帰ろう？</Dialog>
-          <Dialog>遅いよ。</Dialog>
-          <Dialog>あれ？　待っててくれた？</Dialog>
-          <Dialog>リンコ、カノジョだもん。しょうがないじゃん……。</Dialog>
-          <Dialog>今日はちょっと……。だから、また今度。一応、カノジョだし。</Dialog>
-          <Dialog>（残念……）</Dialog>
-          <Dialog>（今日は一人で帰ろう……）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Yo！ How about walking home
+together？</Dialog>
+          <Dialog>You're late.</Dialog>
+          <Dialog>Huh？ Are you waiting for me？</Dialog>
+          <Dialog>Rinko is your girlfriend. It
+can't be helped...</Dialog>
+          <Dialog>I can't today. Maybe next time
+okay？ I'm your girlfriend,
+after all.</Dialog>
+          <Dialog>(What a pity...)</Dialog>
+          <Dialog>(I'll go home alone today...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -695,18 +721,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、帰るか。</Dialog>
-          <Dialog>（あ、▲小早川＊▲……）</Dialog>
-          <Dialog>一緒に帰ろうと誘う</Dialog>
-          <Dialog>一人で帰る</Dialog>
-          <Dialog>▲小早川＊▲。</Dialog>
+          <Dialog>Well, time to go home.</Dialog>
+          <Dialog>(Ah,
+▲小早川＊▲...)</Dialog>
+          <Dialog>Ask her to go home
+together</Dialog>
+          <Dialog>Go home alone</Dialog>
+          <Dialog>▲小早川＊▲.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>オッス、一緒に帰ろう？</Dialog>
-          <Dialog>付き合ってるんだから、当たり前じゃん。リンコなんか、早く来て待ってたんだから。</Dialog>
-          <Dialog>今日はダメ。なんで用事がある日に誘うかな。</Dialog>
-          <Dialog>（残念……）</Dialog>
-          <Dialog>（今日は一人で帰ろう……）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Yo！ How about walking home
+together？</Dialog>
+          <Dialog>We're dating, so this is
+normal, right？ Rinko's been
+waiting for you anyway.</Dialog>
+          <Dialog>I can't today. Why did you
+have to ask me today, huh？</Dialog>
+          <Dialog>(What a pity...)</Dialog>
+          <Dialog>(I'll go home alone today...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -786,18 +818,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、帰るか。</Dialog>
-          <Dialog>（あ、▲小早川＊▲……）</Dialog>
-          <Dialog>一緒に帰ろうと誘う</Dialog>
-          <Dialog>一人で帰る</Dialog>
-          <Dialog>▲小早川＊▲。</Dialog>
+          <Dialog>Well, time to go home.</Dialog>
+          <Dialog>(Ah,
+▲小早川＊▲...)</Dialog>
+          <Dialog>Ask her to go home
+together</Dialog>
+          <Dialog>Go home alone</Dialog>
+          <Dialog>▲小早川＊▲.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>オッス！　一緒に帰ろうよ。</Dialog>
-          <Dialog>うん、リンコ待ってたんだよ？　優しいカノジョで良かったね？</Dialog>
-          <Dialog>今日は早く帰らなきゃ。ごめんね。</Dialog>
-          <Dialog>（残念……）</Dialog>
-          <Dialog>（今日は一人で帰ろう……）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Yo！ Let's go home together.</Dialog>
+          <Dialog>Yeah, Rinko has been waiting,
+you know？ It's good to have
+such a nice girlfriend,
+right？</Dialog>
+          <Dialog>I have to hurry home today.
+Sorry.</Dialog>
+          <Dialog>(What a pity...)</Dialog>
+          <Dialog>(I'll go home alone today...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -862,16 +900,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、帰るか。</Dialog>
-          <Dialog>（あ、▲小早川＊▲……）</Dialog>
-          <Dialog>一緒に帰ろうと誘う</Dialog>
-          <Dialog>一人で帰る</Dialog>
-          <Dialog>オッス！　一緒に帰ろうか？</Dialog>
+          <Dialog>Well, time to go home.</Dialog>
+          <Dialog>(Ah,
+▲小早川＊▲...)</Dialog>
+          <Dialog>Ask her to go home
+together</Dialog>
+          <Dialog>Go home alone</Dialog>
+          <Dialog>Yo！ How about walking home
+together？</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>うん、一応カノジョだし。一応。</Dialog>
-          <Dialog>今日は用事。だから……じゃあ。</Dialog>
-          <Dialog>（残念……）</Dialog>
-          <Dialog>（今日は一人で帰ろう……）</Dialog>
+          <Dialog>Yeah, okay. Because I'm your
+girlfriend, so okay.</Dialog>
+          <Dialog>I've got something to do.
+...Bye.</Dialog>
+          <Dialog>(What a pity...)</Dialog>
+          <Dialog>(I'll go home alone today...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -951,18 +994,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、帰るか。</Dialog>
-          <Dialog>（あ、▲小早川＊▲……）</Dialog>
-          <Dialog>一緒に帰ろうと誘う</Dialog>
-          <Dialog>一人で帰る</Dialog>
-          <Dialog>▲小早川＊▲。</Dialog>
+          <Dialog>Well, time to go home.</Dialog>
+          <Dialog>(Ah,
+▲小早川＊▲...)</Dialog>
+          <Dialog>Ask her to go home
+together</Dialog>
+          <Dialog>Go home alone</Dialog>
+          <Dialog>▲小早川＊▲.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>一緒に帰ろうか？</Dialog>
-          <Dialog>いいよ、一緒に帰ってあげる。</Dialog>
-          <Dialog>今日はパス。用事あるもん。</Dialog>
-          <Dialog>（残念……）</Dialog>
-          <Dialog>（今日は一人で帰ろう……）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>How about going home
+together？</Dialog>
+          <Dialog>Fine. I allow you to walk with
+me.</Dialog>
+          <Dialog>Today I have to pass. I got
+things to do.</Dialog>
+          <Dialog>(What a pity...)</Dialog>
+          <Dialog>(I'll go home alone today...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1042,18 +1090,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、帰るか。</Dialog>
-          <Dialog>（あ、▲小早川＊▲……）</Dialog>
-          <Dialog>一緒に帰ろうと誘う</Dialog>
-          <Dialog>一人で帰る</Dialog>
-          <Dialog>▲小早川＊▲。</Dialog>
+          <Dialog>Well, time to go home.</Dialog>
+          <Dialog>(Ah,
+▲小早川＊▲...)</Dialog>
+          <Dialog>Ask her to go home
+together</Dialog>
+          <Dialog>Go home alone</Dialog>
+          <Dialog>▲小早川＊▲.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>オッス！　一緒に帰ろうよ。</Dialog>
-          <Dialog>うん、一緒に帰る。</Dialog>
-          <Dialog>今日は無理だよ。</Dialog>
-          <Dialog>（残念……）</Dialog>
-          <Dialog>（今日は一人で帰ろう……）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Yo！ Let's go home together.</Dialog>
+          <Dialog>Yeah. Let's go together.</Dialog>
+          <Dialog>I can't today.</Dialog>
+          <Dialog>(What a pity...)</Dialog>
+          <Dialog>(I'll go home alone today...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1113,17 +1163,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、帰るか。</Dialog>
-          <Dialog>（あ、▲小早川＊▲……）</Dialog>
-          <Dialog>一緒に帰ろうと誘う</Dialog>
-          <Dialog>一人で帰る</Dialog>
-          <Dialog>オッス！　一緒に帰ろうか？</Dialog>
+          <Dialog>Well, time to go home.</Dialog>
+          <Dialog>(Ah,
+▲小早川＊▲...)</Dialog>
+          <Dialog>Ask her to go home
+together</Dialog>
+          <Dialog>Go home alone</Dialog>
+          <Dialog>Yo！ How about walking home
+together？</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>なんか用事？</Dialog>
+          <Dialog>......</Dialog>
+          <Dialog>You got something to do？</Dialog>
           <Dialog>▲小早川＊▲？</Dialog>
-          <Dialog>（機嫌悪いな……）</Dialog>
-          <Dialog>（今日は一人で帰ろう……）</Dialog>
+          <Dialog>(She's in a bad mood...)</Dialog>
+          <Dialog>(I'll go home alone today...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1208,19 +1261,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、帰るか。</Dialog>
-          <Dialog>（あ、▲小早川＊▲……）</Dialog>
-          <Dialog>一緒に帰ろうと誘う</Dialog>
-          <Dialog>一人で帰る</Dialog>
-          <Dialog>▲小早川＊▲。</Dialog>
+          <Dialog>Well, time to go home.</Dialog>
+          <Dialog>(Ah,
+▲小早川＊▲...)</Dialog>
+          <Dialog>Ask her to go home
+together</Dialog>
+          <Dialog>Go home alone</Dialog>
+          <Dialog>▲小早川＊▲.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>オッス、一緒に帰ろう？</Dialog>
-          <Dialog>ヤダ。</Dialog>
-          <Dialog>なんか用事？</Dialog>
-          <Dialog>用事はないけど、ヤダ。</Dialog>
-          <Dialog>（機嫌悪いな……）</Dialog>
-          <Dialog>（今日は一人で帰ろう……）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Yo！ How about walking home
+together？</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>You got something to do？</Dialog>
+          <Dialog>No. I don't have any reason,
+but no.</Dialog>
+          <Dialog>(She's in a bad mood...)</Dialog>
+          <Dialog>(I'll go home alone today...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1305,19 +1362,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さて、帰るか。</Dialog>
-          <Dialog>（あ、▲小早川＊▲……）</Dialog>
-          <Dialog>一緒に帰ろうと誘う</Dialog>
-          <Dialog>一人で帰る</Dialog>
-          <Dialog>▲小早川＊▲。</Dialog>
+          <Dialog>Well, time to go home.</Dialog>
+          <Dialog>(Ah,
+▲小早川＊▲...)</Dialog>
+          <Dialog>Ask her to go home
+together</Dialog>
+          <Dialog>Go home alone</Dialog>
+          <Dialog>▲小早川＊▲.</Dialog>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>オッス！　一緒に帰ろうよ。</Dialog>
-          <Dialog>……イヤ。</Dialog>
-          <Dialog>なんか用事？</Dialog>
-          <Dialog>そうじゃないけど……イヤなんだもん。</Dialog>
-          <Dialog>（機嫌悪いな……）</Dialog>
-          <Dialog>（今日は一人で帰ろう……）</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
+          <Dialog>Yo！ Let's go home together.</Dialog>
+          <Dialog>...No.</Dialog>
+          <Dialog>You got something to do？</Dialog>
+          <Dialog>No reason. I just don't want
+to...</Dialog>
+          <Dialog>(She's in a bad mood...)</Dialog>
+          <Dialog>(I'll go home alone today...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1412,19 +1472,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、▲小早川＊▲。</Dialog>
-          <Dialog>待ってたんだけど。</Dialog>
-          <Dialog>そうなんだ。何か用？</Dialog>
-          <Dialog>一緒に帰るってこと。わかれっつーの。</Dialog>
-          <Dialog>いいよ、一緒に帰ろう</Dialog>
-          <Dialog>ごめん、今日はちょっと……</Dialog>
-          <Dialog>いいよ。じゃあ、一緒に帰ろう。</Dialog>
-          <Dialog>へへ。</Dialog>
-          <Dialog>ごめん、今日はちょっとダメなんだ。</Dialog>
-          <Dialog>じゃあ、いい。忙しぶっちゃってさ。</Dialog>
-          <Dialog>ごめんな。</Dialog>
+          <Dialog>Ah,
+▲小早川＊▲.</Dialog>
+          <Dialog>I've been waiting.</Dialog>
+          <Dialog>I see. Do you need anything？</Dialog>
+          <Dialog>Can't you understand that I
+want to go home with you？</Dialog>
+          <Dialog>Fine. Let's walk home
+together</Dialog>
+          <Dialog>Sorry, I can't go with you</Dialog>
+          <Dialog>Fine. Let's walk home together
+then.</Dialog>
+          <Dialog>Hehe.</Dialog>
+          <Dialog>Sorry. Today, I really can't
+go with you.</Dialog>
+          <Dialog>Fine then. If you are that
+busy！</Dialog>
+          <Dialog>Sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1504,17 +1570,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ……▲小早川＊▲。</Dialog>
-          <Dialog>一緒に帰ってあげようと思って、たまにはさ。</Dialog>
-          <Dialog>いいよ、一緒に帰ろう</Dialog>
-          <Dialog>ごめん、今日はちょっと……</Dialog>
-          <Dialog>あぁ、一緒に帰ろう。</Dialog>
-          <Dialog>偉そうに。</Dialog>
-          <Dialog>ごめん、今日はちょっとダメなんだ。</Dialog>
-          <Dialog>じゃあ一人で寂しく帰ればいいじゃん。</Dialog>
-          <Dialog>ごめんな。</Dialog>
+          <Dialog>Ah...
+▲小早川＊▲.</Dialog>
+          <Dialog>I think I should go home with
+you sometimes.</Dialog>
+          <Dialog>Fine. Let's walk home
+together</Dialog>
+          <Dialog>Sorry, I can't go with you</Dialog>
+          <Dialog>Ah, let's go together then.</Dialog>
+          <Dialog>Whatever you want.</Dialog>
+          <Dialog>Sorry. Today, I really can't
+go with you.</Dialog>
+          <Dialog>I'll just be a lonely girl who
+walks home alone then.</Dialog>
+          <Dialog>Sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1594,17 +1665,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あっ、▲小早川＊▲。</Dialog>
-          <Dialog>今から帰るよね。リンコも一緒でいいでしょ。</Dialog>
-          <Dialog>いいよ、一緒に帰ろう</Dialog>
-          <Dialog>ごめん、今日はちょっと……</Dialog>
-          <Dialog>いいよ。じゃあ、一緒に帰ろう。</Dialog>
-          <Dialog>へへ、よかった。</Dialog>
-          <Dialog>ごめん、今日はちょっとダメなんだ。</Dialog>
-          <Dialog>じゃあいい、一人で帰るもん。</Dialog>
-          <Dialog>ごめんな。</Dialog>
+          <Dialog>Ah！
+▲小早川＊▲.</Dialog>
+          <Dialog>You're about to go home？
+Rinko can walk along with you,
+right？</Dialog>
+          <Dialog>Fine. Let's walk home
+together</Dialog>
+          <Dialog>Sorry, I can't go with you</Dialog>
+          <Dialog>Fine. Let's walk home together
+then.</Dialog>
+          <Dialog>Hehe. I'm glad.</Dialog>
+          <Dialog>Sorry. Today, I really can't
+go with you.</Dialog>
+          <Dialog>Then fine. I'll just go home
+alone.</Dialog>
+          <Dialog>Sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1699,19 +1777,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、▲小早川＊▲。</Dialog>
-          <Dialog>待ってたんだけど。</Dialog>
-          <Dialog>そうなんだ。何か用？</Dialog>
-          <Dialog>一緒に帰るってこと。わかれっつーの。</Dialog>
-          <Dialog>いいよ、一緒に帰ろう</Dialog>
-          <Dialog>ごめん、今日はちょっと……</Dialog>
-          <Dialog>いいよ。じゃあ、一緒に帰ろう。</Dialog>
-          <Dialog>へへ。</Dialog>
-          <Dialog>ごめん、今日はちょっとダメなんだ。</Dialog>
-          <Dialog>じゃあ、いい。忙しぶっちゃってさ。</Dialog>
-          <Dialog>ごめんな。</Dialog>
+          <Dialog>Ah,
+▲小早川＊▲.</Dialog>
+          <Dialog>I've been waiting.</Dialog>
+          <Dialog>I see. Do you need anything？</Dialog>
+          <Dialog>Can't you understand that I
+want to go home with you？</Dialog>
+          <Dialog>Fine. Let's walk home
+together</Dialog>
+          <Dialog>Sorry, I can't go with you</Dialog>
+          <Dialog>Fine. Let's walk home together
+then.</Dialog>
+          <Dialog>Hehe.</Dialog>
+          <Dialog>Sorry. Today, I really can't
+go with you.</Dialog>
+          <Dialog>Fine then. If you are that
+busy！</Dialog>
+          <Dialog>Sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1791,17 +1875,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ……▲小早川＊▲。</Dialog>
-          <Dialog>一緒に帰ってあげようと思って、たまにはさ。</Dialog>
-          <Dialog>いいよ、一緒に帰ろう</Dialog>
-          <Dialog>ごめん、今日はちょっと……</Dialog>
-          <Dialog>あぁ、一緒に帰ろう。</Dialog>
-          <Dialog>偉そうに。</Dialog>
-          <Dialog>ごめん、今日はちょっとダメなんだ。</Dialog>
-          <Dialog>じゃあ一人で寂しく帰ればいいじゃん。</Dialog>
-          <Dialog>ごめんな。</Dialog>
+          <Dialog>Ah...
+▲小早川＊▲.</Dialog>
+          <Dialog>I think I should go home with
+you sometimes.</Dialog>
+          <Dialog>Fine. Let's walk home
+together</Dialog>
+          <Dialog>Sorry, I can't go with you</Dialog>
+          <Dialog>Ah, let's go together then.</Dialog>
+          <Dialog>Whatever you want.</Dialog>
+          <Dialog>Sorry. Today, I really can't
+go with you.</Dialog>
+          <Dialog>I'll just be a lonely girl who
+walks home alone then.</Dialog>
+          <Dialog>Sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1881,17 +1970,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あっ、▲小早川＊▲。</Dialog>
-          <Dialog>今から帰るよね。リンコも一緒でいいでしょ。</Dialog>
-          <Dialog>いいよ、一緒に帰ろう</Dialog>
-          <Dialog>ごめん、今日はちょっと……</Dialog>
-          <Dialog>いいよ。じゃあ、一緒に帰ろう。</Dialog>
-          <Dialog>へへ、よかった。</Dialog>
-          <Dialog>ごめん、今日はちょっとダメなんだ。</Dialog>
-          <Dialog>じゃあいい、一人で帰るもん。</Dialog>
-          <Dialog>ごめんな。</Dialog>
+          <Dialog>Ah！
+▲小早川＊▲.</Dialog>
+          <Dialog>You're about to go home？
+Rinko can walk along with you,
+right？</Dialog>
+          <Dialog>Fine. Let's walk home
+together</Dialog>
+          <Dialog>Sorry, I can't go with you</Dialog>
+          <Dialog>Fine. Let's walk home together
+then.</Dialog>
+          <Dialog>Hehe. I'm glad.</Dialog>
+          <Dialog>Sorry. Today, I really can't
+go with you.</Dialog>
+          <Dialog>Then fine. I'll just go home
+alone.</Dialog>
+          <Dialog>Sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1971,16 +2067,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、▲小早川＊▲。</Dialog>
-          <Dialog>遅い。</Dialog>
-          <Dialog>一緒に帰るか？</Dialog>
-          <Dialog>ごめん、今日はちょっと……</Dialog>
-          <Dialog>帰るに決まってんじゃん。カノジョだもん。</Dialog>
-          <Dialog>ごめん、今日はちょっとダメなんだ。</Dialog>
-          <Dialog>じゃあいい、バーカ。</Dialog>
-          <Dialog>ごめんな。</Dialog>
+          <Dialog>Ah,
+▲小早川＊▲.</Dialog>
+          <Dialog>So late！</Dialog>
+          <Dialog>Wanna walk home together？</Dialog>
+          <Dialog>Sorry, I can't go with you</Dialog>
+          <Dialog>That's a sure thing. I'm your
+girlfriend.</Dialog>
+          <Dialog>Sorry. Today, I really can't
+go with you.</Dialog>
+          <Dialog>Then fine, you idiot！</Dialog>
+          <Dialog>Sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2060,17 +2159,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ……▲小早川＊▲。</Dialog>
-          <Dialog>待ちくたびれた。早く帰ろ。</Dialog>
-          <Dialog>いいよ、一緒に帰ろう</Dialog>
-          <Dialog>ごめん、今日はちょっと……</Dialog>
-          <Dialog>あぁ、一緒に帰ろう。</Dialog>
-          <Dialog>やった。</Dialog>
-          <Dialog>ごめん、今日はちょっとダメなんだ。</Dialog>
-          <Dialog>もう一生誘わない！</Dialog>
-          <Dialog>ごめんな。</Dialog>
+          <Dialog>Ah...
+▲小早川＊▲.</Dialog>
+          <Dialog>I'm tired of waiting. Let's
+hurry home.</Dialog>
+          <Dialog>Fine. Let's walk home
+together</Dialog>
+          <Dialog>Sorry, I can't go with you</Dialog>
+          <Dialog>Ah, let's go together then.</Dialog>
+          <Dialog>Yay！</Dialog>
+          <Dialog>Sorry. Today, I really can't
+go with you.</Dialog>
+          <Dialog>I'll never ask you again！</Dialog>
+          <Dialog>Sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2150,17 +2253,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あっ、▲小早川＊▲。</Dialog>
-          <Dialog>リンコまた待ち伏せしちゃった。</Dialog>
-          <Dialog>いいよ、一緒に帰ろう</Dialog>
-          <Dialog>ごめん、今日はちょっと……</Dialog>
-          <Dialog>もちろん、一緒に帰ろう。</Dialog>
-          <Dialog>ちょっとだけくっついて歩いてもいいよ。</Dialog>
-          <Dialog>ごめん、今日はちょっとダメなんだ。</Dialog>
-          <Dialog>もう、待ってたのにな。</Dialog>
-          <Dialog>ごめんな。</Dialog>
+          <Dialog>Ah,
+▲小早川＊▲.</Dialog>
+          <Dialog>Rinko is waiting for you
+again...</Dialog>
+          <Dialog>Fine. Let's walk home
+together</Dialog>
+          <Dialog>Sorry, I can't go with you</Dialog>
+          <Dialog>Of course. Let's go together.</Dialog>
+          <Dialog>You can walk close to me. I
+don't mind.</Dialog>
+          <Dialog>Sorry. Today, I really can't
+go with you.</Dialog>
+          <Dialog>Geez. I've been waiting and
+all.</Dialog>
+          <Dialog>Sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2244,17 +2353,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。おはよう。</Dialog>
+          <Dialog>▲主人公＊▲.
+'Morning.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>おはよう、▲小早川＊▲。</Dialog>
-          <Dialog>一応待ってたんだけどさ。一緒に行こ。</Dialog>
-          <Dialog>いいよ、一緒に行こう</Dialog>
-          <Dialog>ごめん、今日は急ぐから……</Dialog>
-          <Dialog>あぁ、いいよ。一緒に行こう。</Dialog>
-          <Dialog>うん、行こ。</Dialog>
-          <Dialog>ごめん。今日は急ぐから、一緒には……。</Dialog>
-          <Dialog>じゃあ、いい。</Dialog>
-          <Dialog>ごめん……。</Dialog>
+          <Dialog>'Morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>I'm kind of waiting for you.
+Let's walk together.</Dialog>
+          <Dialog>Okay, let's go together</Dialog>
+          <Dialog>Sorry. I'm in a hurry...</Dialog>
+          <Dialog>Ah, okay. Let's go together.</Dialog>
+          <Dialog>Okay. Let's go.</Dialog>
+          <Dialog>Sorry. I'm in a hurry today. I
+can't...</Dialog>
+          <Dialog>Then fine！</Dialog>
+          <Dialog>Sorry...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2338,17 +2451,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。おはよ。</Dialog>
+          <Dialog>▲主人公＊▲.
+'Morning.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>おはよう、▲小早川＊▲。</Dialog>
-          <Dialog>待ってたってわけでもないんだけどさ、一緒に行く？</Dialog>
-          <Dialog>いいよ、一緒に行こう</Dialog>
-          <Dialog>ごめん、今日は急ぐから……</Dialog>
-          <Dialog>あぁ、いいよ。一緒に行こう。</Dialog>
-          <Dialog>うん。じゃあ、行きますか。</Dialog>
-          <Dialog>ごめん。今日は急ぐから、一緒には……。</Dialog>
-          <Dialog>ふぅん。ま、いいけど、待ってたわけじゃないし。</Dialog>
-          <Dialog>ごめん……。</Dialog>
+          <Dialog>'Morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>It's not like I'm waiting or
+anything. But shall we walk
+together？</Dialog>
+          <Dialog>Okay, let's go together</Dialog>
+          <Dialog>Sorry. I'm in a hurry...</Dialog>
+          <Dialog>Ah, okay. Let's go together.</Dialog>
+          <Dialog>Okay. Then shall we go？</Dialog>
+          <Dialog>Sorry. I'm in a hurry today. I
+can't...</Dialog>
+          <Dialog>Hmm. Well, fine. I wasn't
+waiting anyway.</Dialog>
+          <Dialog>Sorry...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2432,17 +2551,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。おはよっ。</Dialog>
+          <Dialog>▲主人公＊▲.
+'Morning.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>おはよう、▲小早川＊▲。</Dialog>
-          <Dialog>あのね、一緒に行かない？　学校。</Dialog>
-          <Dialog>いいよ、一緒に行こう</Dialog>
-          <Dialog>ごめん、今日は急ぐから……</Dialog>
-          <Dialog>あぁ、いいよ。一緒に行こう。</Dialog>
-          <Dialog>へへ、ゆっくり行こ。</Dialog>
-          <Dialog>ごめん。今日は急ぐから、一緒には……。</Dialog>
-          <Dialog>そうなの？　わかった。</Dialog>
-          <Dialog>ごめん……。</Dialog>
+          <Dialog>'Morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Say... Shall we walk to school
+together？</Dialog>
+          <Dialog>Okay, let's go together</Dialog>
+          <Dialog>Sorry. I'm in a hurry...</Dialog>
+          <Dialog>Ah, okay. Let's go together.</Dialog>
+          <Dialog>Hehe. Let's go then.</Dialog>
+          <Dialog>Sorry. I'm in a hurry today. I
+can't...</Dialog>
+          <Dialog>Really？ I got it.</Dialog>
+          <Dialog>Sorry...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2496,12 +2619,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。おはよう。</Dialog>
+          <Dialog>▲主人公＊▲.
+'Morning.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>おはよう、▲小早川＊▲。</Dialog>
-          <Dialog>へへ。じゃ、行こ。</Dialog>
-          <Dialog>あぁ、そうだな。</Dialog>
-          <Dialog>んー、今日も１日めんどくさいな。</Dialog>
+          <Dialog>'Morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Hehe. Shall we go？</Dialog>
+          <Dialog>Ah, okay.</Dialog>
+          <Dialog>Hmm, it's going to be another
+troublesome day.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2555,12 +2681,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。おはよ。</Dialog>
+          <Dialog>▲主人公＊▲.
+'Morning.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>おはよう、▲小早川＊▲。</Dialog>
-          <Dialog>また待たせた。</Dialog>
-          <Dialog>悪い悪い。</Dialog>
-          <Dialog>早く行くよ。</Dialog>
+          <Dialog>'Morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>You made me wait again.</Dialog>
+          <Dialog>Sorry, sorry.</Dialog>
+          <Dialog>Let's hurry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2614,12 +2742,15 @@
         </Unknown>
         <Dialogs>
           <Dialog>小早川</Dialog>
-          <Dialog>▲主人公＊▲。おはよっ。</Dialog>
+          <Dialog>▲主人公＊▲.
+'Morning.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>オッス、▲小早川＊▲。</Dialog>
-          <Dialog>待ってたから、偉い？</Dialog>
-          <Dialog>偉い。行くか。</Dialog>
-          <Dialog>うん！</Dialog>
+          <Dialog>Yo,
+▲小早川＊▲.</Dialog>
+          <Dialog>I'm waiting for you. Isn't
+that great？</Dialog>
+          <Dialog>It's great. Shall we go？</Dialog>
+          <Dialog>Okay！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
