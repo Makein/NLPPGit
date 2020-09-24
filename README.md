@@ -1,5 +1,5 @@
 # NLPPGit
-NLPPTranslation
+newLovePlus+ translation
 
 This is git for clean translation, for patch with machine translation check discord:
 https://discord.gg/G8RjAXM
