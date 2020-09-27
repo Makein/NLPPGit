@@ -794,7 +794,7 @@
 なんかワクワクするじゃん。</Dialog>
           <Dialog>もう。</Dialog>
           <Dialog>店員</Dialog>
-          <Dialog>いらっしゃいませー。</Dialog>
+          <Dialog>Welcome~. </Dialog>
           <Dialog>なんか賑やかな店だな。</Dialog>
           <Dialog>活気はあるけど……
 ちょっとうるさいね。
@@ -1561,7 +1561,8 @@
           <Dialog>さっきは丁寧にありがとう。お嬢さん。</Dialog>
           <Dialog>いえ、お騒がせして申し訳ございませんでした。</Dialog>
           <Dialog>いやいや。それじゃあ、ごちそうさま。</Dialog>
-          <Dialog>ありがとうございました。またのご来店をお待ちしております。</Dialog>
+          <Dialog>Thank you very much.
+We look forward to seeing you again. </Dialog>
           <Dialog>お疲れ。</Dialog>
           <Dialog>どうした？</Dialog>
           <Dialog>うん……気のせいかもしれないけど。あのおじいさん、店内のことを観察してなかった？</Dialog>
@@ -2440,7 +2441,7 @@
           <Dialog>…………。</Dialog>
           <Dialog>（今日もお客さん、少ないな……）</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>いらっしゃいませー。</Dialog>
+          <Dialog>Welcome~. </Dialog>
           <Dialog>あっ……。</Dialog>
           <Dialog>ん？</Dialog>
           <Dialog>槍沢マネージャー……。</Dialog>
@@ -4089,7 +4090,7 @@
           <Dialog>（さて、買い物して帰るか……）</Dialog>
           <Dialog>（カップ麺とパンと……牛乳まだあったっけ）</Dialog>
           <Dialog>店員</Dialog>
-          <Dialog>いらっしゃいませー。お惣菜いかがですかー。</Dialog>
+          <Dialog>Welcome~. お惣菜いかがですかー。</Dialog>
           <Dialog>（へぇ、手作りのお惣菜か……）</Dialog>
           <Dialog>どうぞ、いかがですか？</Dialog>
           <Dialog>（たまにはこういうのもいいかな……）</Dialog>
@@ -6494,7 +6495,8 @@
           <Dialog>え？</Dialog>
           <Dialog>大変失礼いたしました。こちらクーポン分の返金でございます、お確かめくださいませ。</Dialog>
           <Dialog>はい。どうも。</Dialog>
-          <Dialog>ありがとうございました。またのご来店をお待ちしております。</Dialog>
+          <Dialog>Thank you very much.
+We look forward to seeing you again. </Dialog>
           <Dialog>あ、ありがとうございました！</Dialog>
           <Dialog>ありがとうございました～。</Dialog>
           <Dialog>すご～い……どうやったの？</Dialog>
@@ -7194,11 +7196,11 @@
           <Dialog>……そっか、そうね……うん、行ってみよ？</Dialog>
           <Dialog>よし。</Dialog>
           <Dialog>店員</Dialog>
-          <Dialog>いらっしゃいませー！　アイーシャダイニングへようこそ！</Dialog>
+          <Dialog>Welcome~!　アイーシャダイニングへようこそ！</Dialog>
           <Dialog>やっぱり繁盛してんなあ……。ウチとは大違いだ。</Dialog>
           <Dialog>ホント、結構待つみたい……。</Dialog>
           <Dialog>槍沢</Dialog>
-          <Dialog>あら？　いらっしゃいませ。</Dialog>
+          <Dialog>あら？　Welcome.</Dialog>
           <Dialog>あ！　あの私たちべつに……。</Dialog>
           <Dialog>そう、スパイとかそういうんじゃ――</Dialog>
           <Dialog>姉ヶ崎さんと、えぇとあなたは――</Dialog>
@@ -8148,7 +8150,7 @@
           <Dialog>なるほど……うちのお客は、
 手間をかけたスイーツが好きで
 来てくれてるわけだよな？　
-じゃあ……。</Dialog>
+Then...</Dialog>
           <Dialog>そう。種類は少なくても、
 もっと手間をかけて美味しく、
 その代わり全スタッフで
@@ -8424,7 +8426,7 @@
           <Dialog>▲主人公＊▲。</Dialog>
           <Dialog>▲姉ヶ崎＊▲。</Dialog>
           <Dialog>今日は、忙しくなるね。</Dialog>
-          <Dialog>いらっしゃいませー！</Dialog>
+          <Dialog>Welcome~!</Dialog>
           <Dialog>槍沢</Dialog>
           <Dialog>…………。</Dialog>
           <Dialog>あ、槍沢マネージャー。</Dialog>
@@ -8454,7 +8456,7 @@
 じゃあね、せいぜい真心で
 頑張ってちょうだい。
 そっちの……なんとか君も。</Dialog>
-          <Dialog>ありがとうございました。</Dialog>
+          <Dialog>Thank you very much.</Dialog>
           <Dialog>やったな、▲姉ヶ崎＊▲。</Dialog>
           <Dialog>うん……。</Dialog>
         </Dialogs>
@@ -10767,7 +10769,7 @@
           <Dialog>ほら、店開けるよ！</Dialog>
           <Dialog>行こう、▲姉ヶ崎＊▲！</Dialog>
           <Dialog>あ、うん！</Dialog>
-          <Dialog>いらっしゃいませ、デキシーズへようこそ！</Dialog>
+          <Dialog>Welcome, デキシーズへようこそ！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -11179,12 +11181,12 @@
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>（やべえ、むちゃくちゃ忙しい……リニューアルセールだからって、太っ腹過ぎたんじゃないか？）</Dialog>
           <Dialog>姉ヶ崎</Dialog>
-          <Dialog>いらっしゃいませー！</Dialog>
+          <Dialog>Welcome~!</Dialog>
           <Dialog>槍沢</Dialog>
           <Dialog>ごきげんよう。</Dialog>
           <Dialog>あ……。</Dialog>
           <Dialog>槍沢マネージャー……。</Dialog>
-          <Dialog>いらっしゃいませ。ただ今、店長を呼びますので。</Dialog>
+          <Dialog>Welcome.ただ今、店長を呼びますので。</Dialog>
           <Dialog>あなたに用があるの、姉ヶ崎さん。</Dialog>
           <Dialog>……はい。</Dialog>
           <Dialog>単刀直入に言うわ。うちの店が、あなたを今の倍のお給料で雇いたいって言ったら、どうする？</Dialog>
@@ -11200,7 +11202,7 @@
           <Dialog>姉ヶ崎母</Dialog>
           <Dialog>あ、新しい制服、カワイイ！</Dialog>
           <Dialog>お母さん！</Dialog>
-          <Dialog>あ、どうも！　いらっしゃいませ！</Dialog>
+          <Dialog>あ、どうも！　Welcome! </Dialog>
           <Dialog>リニューアルだっていうから、見に来ちゃった。仲良くやってる？</Dialog>
           <Dialog>そりゃ、もう！</Dialog>
           <Dialog>余計なこと言わないの、もう！</Dialog>
@@ -11381,7 +11383,7 @@
           <Dialog>▲主人公＊▲。</Dialog>
           <Dialog>▲姉ヶ崎＊▲。リニューアル効果もそろそろおしまいみたいだな。アイーシャが出来る前みたいだな？</Dialog>
           <Dialog>うん、それもそうなんだけど、私が気になるのはみんなの働きぶりが――いけない。</Dialog>
-          <Dialog>いらっしゃいませー！</Dialog>
+          <Dialog>Welcome~!</Dialog>
           <Dialog>ねえ……今入ってきたおじいさん。</Dialog>
           <Dialog>ん？　あ、本部の！</Dialog>
           <Dialog>小毬</Dialog>
