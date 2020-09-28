@@ -489,9 +489,11 @@ love you...</Dialog>
           <Dialog>Huh...？ ...It was a dream？
 Getting married isn't too
 bad... Maybe？</Dialog>
-          <Dialog>(“愛してる！”を、１００万回か……)</Dialog>
+          <Dialog>(“I love you！” 
+1,000,000th time...)</Dialog>
           <Dialog>ＨＩＮＴ</Dialog>
-          <Dialog>マイクに向かって“愛してる！”と声を出そう</Dialog>
+          <Dialog>Say to the microphone 
+“Itoshi teru!”</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1089,17 +1091,22 @@ spot...</Dialog>
           <Dialog>Rinko the kitten was so
 cute...</Dialog>
           <Dialog>......</Dialog>
-          <Dialog>(あの肉球……触ってみようかな？)</Dialog>
-          <Dialog>(耳は本物なのか？　気になる……)</Dialog>
-          <Dialog>(猫だから尻尾を触ると警戒されるかな？)</Dialog>
-          <Dialog>(猫といえばアゴでゴロゴロ……だよな。)</Dialog>
-          <Dialog>(このヒゲ、触ったら怒るかな？)</Dialog>
+          <Dialog>(That ball...
+Shall I touch it？)</Dialog>
+          <Dialog>(Are the ears real？　
+I'm curious...)</Dialog>
+          <Dialog>(Since she is a cat, will she 
+be wary if I touch her tail？)</Dialog>
+          <Dialog>(Speaking of cats, the chin 
+causes... rumbling.)</Dialog>
+          <Dialog>(Will this beard get angry if 
+I touch it？)</Dialog>
           <Dialog>ＨＩＮＴ</Dialog>
-          <Dialog>肉球をタッチしろ</Dialog>
-          <Dialog>耳をタッチしろ</Dialog>
-          <Dialog>尻尾をタッチしろ</Dialog>
-          <Dialog>アゴをタッチしろ</Dialog>
-          <Dialog>ヒゲをひっぱれ</Dialog>
+          <Dialog>Touch the paws</Dialog>
+          <Dialog>Touch ears</Dialog>
+          <Dialog>Touch the tail</Dialog>
+          <Dialog>Touch the chin</Dialog>
+          <Dialog>Pull the beard</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1637,13 +1644,15 @@ was just a dream...</Dialog>
           <Dialog>But a show like that would
 definitely be cancelled in no
 time.</Dialog>
-          <Dialog>(いかにも魔法少女！　って感じの衣装だな)</Dialog>
-          <Dialog>(首元の鈴、光ってるぞ……)</Dialog>
-          <Dialog>(ハート型のあれは一体何に使うんだ？)</Dialog>
+          <Dialog>(A Magical Girl！　That's the 
+costume she was wearing)</Dialog>
+          <Dialog>(The bell on the neck is shining...)</Dialog>
+          <Dialog>(What are you going to use 
+that heart-shaped thing for？)</Dialog>
           <Dialog>ＨＩＮＴ</Dialog>
-          <Dialog>衣装をタッチしろ</Dialog>
-          <Dialog>鈴をタッチしろ</Dialog>
-          <Dialog>キューティー小判をタッチしろ</Dialog>
+          <Dialog>Touch the costume</Dialog>
+          <Dialog>Touch the bell</Dialog>
+          <Dialog>Touch the cutie oval</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2183,9 +2192,10 @@ Rinko-chan as a bride.</Dialog>
 ▲小早川＊▲...？</Dialog>
           <Dialog>I wonder if she had grown up
 with such lonely memories...</Dialog>
-          <Dialog>(あの人形、大事そうにしてるな……)</Dialog>
+          <Dialog>(That doll looks very 
+important...)</Dialog>
           <Dialog>ＨＩＮＴ</Dialog>
-          <Dialog>人形をタッチしろ</Dialog>
+          <Dialog>Touch the doll</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3825,9 +3835,10 @@ Goodbye...</Dialog>
           <Dialog>*sniff* ...Eh？ What's with
 these tears！？</Dialog>
           <Dialog>Lately, I've felt so weak...</Dialog>
-          <Dialog>(泣いてる……涙を拭いてあげなきゃ)</Dialog>
+          <Dialog>(Crying... 
+I have to wipe tears)</Dialog>
           <Dialog>ＨＩＮＴ</Dialog>
-          <Dialog>涙を拭け</Dialog>
+          <Dialog>Wipe the tears</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
