@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="3920148772" Unknown="36">
+  <Entries>
+    <Entry Unknown0="1379245871" Unknown1="511842311">
+      <SDL2 Key="1266792236">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5835</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>遅れないようにしたつもりだけど、待たせちゃった？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>大丈夫、ぴったり。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3592927659" Unknown1="279418105">
+      <SDL2 Key="1266792236">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5836</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>あ、もう来てたんだ。わたし、遅刻した？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>大丈夫、ぴったり。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2689154461" Unknown1="841123355">
+      <SDL2 Key="4115872499">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5837</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>ひょっとして、待たせちゃったのかな？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ううん、今来たところ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3267702719" Unknown1="2937235607">
+      <SDL2 Key="4115872499">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5838</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>待たせちゃった？　暑い中、ごめんね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ううん、待ってないって。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1186416955" Unknown1="2704745609">
+      <SDL2 Key="4115872499">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5839</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>今日は暑いね。わたし、待たせちゃったのかな？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>時間ぴったりだって。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1356451117" Unknown1="3283228331">
+      <SDL2 Key="4115872499">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5840</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>ふふ、お待たせ。今日は暑いね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだね。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1918222159" Unknown1="1017264167">
+      <SDL2 Key="4115872499">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5841</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>待たせたかな？　寒いのにごめんね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ぴったりだって。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4131903947" Unknown1="851948569">
+      <SDL2 Key="897737310">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5842</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>ごめんね、待たせて。寒くなかった？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>待ってないよ。大丈夫。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3228130749" Unknown1="1346545211">
+      <SDL2 Key="897737310">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5843</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>今日は寒いね。こんな日に待たせて怒ってる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>待ってないって。時間ぴったりだから。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3806679007" Unknown1="2855454903">
+      <SDL2 Key="897737310">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5844</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>時間ぴったりだね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>まあね。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1725393243" Unknown1="2757182633">
+      <SDL2 Key="897737310">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5845</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>うん、ぴったり。時間に正確だね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>まあね。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1895427405" Unknown1="2261923531">
+      <SDL2 Key="3981759797">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5846</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>うん、ジャスト。時間に正確な人って好きだな。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ありがと。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2457198447" Unknown1="1002592327">
+      <SDL2 Key="3981759797">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5847</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>ふう、今日は暑いね。待たずにすんで、よかった。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだな。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="375912939" Unknown1="904385593">
+      <SDL2 Key="3981759797">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5848</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>今日は立ってるだけで汗かいちゃうね。時間ぴったりに来てくれてよかった。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだな。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3767107037" Unknown1="392349275">
+      <SDL2 Key="3981759797">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5849</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>もう、今日は暑すぎるね。すぐ来てくれてよかった。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだな。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="33910783" Unknown1="2287134935">
+      <SDL2 Key="3981759797">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5850</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>よかった。時間通り来てくれて。寒いの苦手だから。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ほんと、寒いな。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2264369531" Unknown1="2255971529">
+      <SDL2 Key="495197071">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5851</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>時間通り来てくれてよかった。もう今日は凍りついちゃいそう。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ほんと、寒いよな。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2417560941" Unknown1="1693603563">
+      <SDL2 Key="495197071">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5852</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>時間通り来てくれてよかった。今日、寒いから。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだね。寒いな。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2996174735" Unknown1="434272359">
+      <SDL2 Key="495197071">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5853</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>いいけど、もう少し早く来てくれると嬉しいな。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん。今度から気を付けるよ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="914823435" Unknown1="386397273">
+      <SDL2 Key="495197071">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5854</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>えっと、できるだけ時間は守ってほしいかな。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん。次から気を付けるから。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="11116029" Unknown1="4118996603">
+      <SDL2 Key="1303589595">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5855</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>もう、遅刻だよ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん。待たせちゃって。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="572886815" Unknown1="1718749431">
+      <SDL2 Key="1303589595">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5856</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>もう……暑さで溶けちゃうかと思った。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだよね、ごめん。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2786568603" Unknown1="1754760425">
+      <SDL2 Key="1303589595">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5857</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>少しの遅刻だけど、今日は暑いし。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん。次から気を付けるから。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2956537229" Unknown1="1242723851">
+      <SDL2 Key="1303589595">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5858</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>待ってる間のドキドキって好きだけど、こういう暑い日は……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん、謝るよ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3535085487" Unknown1="4144142471">
+      <SDL2 Key="4152735154">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5859</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>5860</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>時間は守ってくれると嬉しいな。こんな寒い日は特に。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだよね、ごめん。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1453799723" Unknown1="4180087929">
+      <SDL2 Key="4152735154">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5861</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>できればこういう寒い日は待たせないでほしいな。風邪引いちゃいそう。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだよな、ごめん。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="550092061" Unknown1="3684828827">
+      <SDL2 Key="4152735154">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5862</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>もう、こんな寒い日に待たせちゃダメだからね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1111863103" Unknown1="1150429207">
+      <SDL2 Key="4152735154">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5863</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>5864</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>そろそろ帰ろうかなって思ってたところ。来てくれたからいいんだけど。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>本当にごめん！　謝るよ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3325544891" Unknown1="1253549065">
+      <SDL2 Key="666229532">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5865</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>5866</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>なんかいろいろ考えちゃった。嫌われたのかな、とか、事故に遭ったかも、とか……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>本当にごめん！　二度としないから。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3495513517" Unknown1="674403883">
+      <SDL2 Key="666229532">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5867</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>来てくれてよかった。ずいぶん待ったけど、会えてホッとした……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>心配させてごめん！　謝る！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4074061775" Unknown1="3575822503">
+      <SDL2 Key="666229532">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5868</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>すごい汗かいちゃった。もう帰りたい気分なんだけど。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん！　謝るから許して。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1992776011" Unknown1="3678876825">
+      <SDL2 Key="666229532">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5869</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>5870</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>わたし、なにか怒らせるようなことした？　もうフラフラ……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>こんな暑い日に待たせてごめん。謝る！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1089068349" Unknown1="3116508859">
+      <SDL2 Key="666229532">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5871</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>ひょっとして熱中症とか日射病とかで倒れたのかと思った。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん。ただの遅刻なんだ。謝る！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1650839391" Unknown1="582109239">
+      <SDL2 Key="1475613559">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5872</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>来てくれたのはいいんだけど……今日の気温、何度か知ってる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん、悪かった。謝るから許して！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3864521179" Unknown1="752337961">
+      <SDL2 Key="1475613559">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5873</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>あんまりうるさいこと言いたくないんだけど、こういう寒い日は……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん！　次からちゃんと時間守るから。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4034489805" Unknown1="240301643">
+      <SDL2 Key="1475613559">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>5874</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147458</Value0>
+            <Value1>196608</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>やっと来てくれたんだ。……くしゅん！　あれ、風邪引いちゃったかな……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん、こんな寒い日に。二度としないから！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+  </Entries>
+</DBIN2>

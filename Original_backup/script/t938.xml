@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="4220385970" Unknown="2">
+  <Entries>
+    <Entry Unknown0="4118232796" Unknown1="1871697770">
+      <SDL2 Key="596425244">
+        <Unknown />
+        <Dialogs />
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1333291350" Unknown1="2008961393">
+      <SDL2 Key="596425244">
+        <Unknown>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+          <Entry>
+            <Values />
+            <Value0>147456</Value0>
+            <Value1>131072</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>今日は
+▲高嶺＊＊▲の家に呼ばれてるんだよな。</Dialog>
+          <Dialog>そういや●、
+▲高嶺＊＊▲になんて呼ばれてたっけ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+  </Entries>
+</DBIN2>

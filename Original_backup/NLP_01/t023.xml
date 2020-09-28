@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="2275680077" Unknown="48">
+  <Entries>
+    <Entry Unknown0="3595001929" Unknown1="3472805973">
+      <SDL2 Key="1467723593">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7872</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>ふふっ、頑張ろう？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4263181169" Unknown1="2876438568">
+      <SDL2 Key="1467723593">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7873</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>居眠りしちゃだめよ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2844721988" Unknown1="43633565">
+      <SDL2 Key="1467723593">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7874</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>頑張ってね。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="649588921" Unknown1="544030917">
+      <SDL2 Key="1467723593">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7875</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>楽しみながら、やろうね？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1317686241" Unknown1="971466904">
+      <SDL2 Key="1467723593">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7876</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>手を抜かないで、がんばろう？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="973050804" Unknown1="3691133709">
+      <SDL2 Key="2041300645">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7877</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>最近のあなた、ステキかも？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3056025641" Unknown1="3403591733">
+      <SDL2 Key="2041300645">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7878</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>スラスラ解けるんだね。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3740982097" Unknown1="4015183880">
+      <SDL2 Key="2041300645">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7879</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>わからなかったら、聞いてね？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2305811236" Unknown1="2390338429">
+      <SDL2 Key="2041300645">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7880</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>コツコツやれば大丈夫。がんばろ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="110612633" Unknown1="2622300325">
+      <SDL2 Key="2849701119">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7881</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>ほら、ここテストに出るって。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="778709953" Unknown1="2110212216">
+      <SDL2 Key="2849701119">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7882</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>わからないところは放っておかないことが、コツかな？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="434074516" Unknown1="3638696941">
+      <SDL2 Key="2849701119">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7883</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>ひとつひとつ、確実にね？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2517049353" Unknown1="1186893845">
+      <SDL2 Key="2849701119">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7884</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>今日は当てられる日だよね、頑張って。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3202005809" Unknown1="3006445800">
+      <SDL2 Key="2849701119">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7885</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>予習は万全？　ふふ、だよね？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1766834948" Unknown1="173640541">
+      <SDL2 Key="1370259398">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7886</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>あとで、ノート見せあおうね？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3866603641" Unknown1="405602437">
+      <SDL2 Key="1370259398">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7887</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>教科書には落書き禁止！　ふふ！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="239733665" Unknown1="564602968">
+      <SDL2 Key="1370259398">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7888</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>先生の話、聞き逃さないようにね。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4190065525" Unknown1="1690500045">
+      <SDL2 Key="1370259398">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7889</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>勉強、楽しそうだね？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1994850536" Unknown1="1117679861">
+      <SDL2 Key="1370259398">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7890</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>ホラ、集中する。ふふ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2663029520" Unknown1="1997707464">
+      <SDL2 Key="2178721586">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7891</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>全力出さなかったら、許さないんだから。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1227858917" Unknown1="4130958141">
+      <SDL2 Key="2178721586">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7892</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>ケガしないように気をつけてね？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3327627352" Unknown1="2483937381">
+      <SDL2 Key="2178721586">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7893</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>ステキなところ、見たいな▼</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3995790208" Unknown1="3850831928">
+      <SDL2 Key="2178721586">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7894</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>準備運動はしっかりと、ね？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3651089237" Unknown1="2695027629">
+      <SDL2 Key="2178721586">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7895</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>運動前のストレッチは、大事だよ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1455939784" Unknown1="3732820181">
+      <SDL2 Key="1236085496">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7896</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>気合い、入れちゃおっか？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2124053488" Unknown1="3153229992">
+      <SDL2 Key="1236085496">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7897</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>ボール運び、一緒にやろう？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="688882629" Unknown1="840518429">
+      <SDL2 Key="1236085496">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7898</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>今日も、わたしと一緒に組んでね？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2788651064" Unknown1="284016709">
+      <SDL2 Key="1236085496">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7899</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>ほら、よそ見しないの▼</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3456813920" Unknown1="694675480">
+      <SDL2 Key="1236085496">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7900</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>早くしないと置いてっちゃうんだから。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3112112949" Unknown1="3967990669">
+      <SDL2 Key="1809666403">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7901</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>ほら、ファイト！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="916963496" Unknown1="3663605941">
+      <SDL2 Key="1809666403">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7902</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>ナイス球拾い、なんて。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1585077200" Unknown1="4291975304">
+      <SDL2 Key="1809666403">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7903</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>ほら、ダッシュ！　ふふ！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="166683558" Unknown1="2130258941">
+      <SDL2 Key="1809666403">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7904</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>ボール、踏まないように気をつけてね？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2249674779" Unknown1="2362286117">
+      <SDL2 Key="1809666403">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7905</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>声、出していこうね！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2934614851" Unknown1="1833421048">
+      <SDL2 Key="2603452349">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7906</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>コートのプレー、良く見ておこう？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2573202198" Unknown1="2825034605">
+      <SDL2 Key="2603452349">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7907</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>球拾いも練習の一環だし、頑張ろう？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="377987211" Unknown1="1446908053">
+      <SDL2 Key="2603452349">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7908</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>いっしょに勝とうね▼</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1046100915" Unknown1="2209495144">
+      <SDL2 Key="2603452349">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7909</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>勝利をわたしに捧げてね？　なんて。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3922674566" Unknown1="987302877">
+      <SDL2 Key="2603452349">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7910</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>応援してる、頑張って！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1727475963" Unknown1="145588229">
+      <SDL2 Key="1407122068">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7911</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>カッコイイところ、見せてね▼</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2395638563" Unknown1="3509037272">
+      <SDL2 Key="1407122068">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7912</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>勝ちに行こうね！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2034226166" Unknown1="1950513997">
+      <SDL2 Key="1407122068">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7913</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>リラックス、リラックス。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4133978219" Unknown1="1377759349">
+      <SDL2 Key="1407122068">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7914</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>見ててあげる、頑張って！</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="507124627" Unknown1="127014984">
+      <SDL2 Key="1407122068">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7915</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>今度、わたしのフォームも見てね？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3383698278" Unknown1="3870944189">
+      <SDL2 Key="1931358703">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7916</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>余計な力を入れずにね？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1188499675" Unknown1="2223857893">
+      <SDL2 Key="1931358703">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7917</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>あなたのフォームって、キレイだと思うな？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1856662275" Unknown1="3574040760">
+      <SDL2 Key="1931358703">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7918</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>イメージトレーニングも大切、だよね？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1495249879" Unknown1="2955041581">
+      <SDL2 Key="1931358703">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>7919</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>フォームに気をつけてね？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+  </Entries>
+</DBIN2>

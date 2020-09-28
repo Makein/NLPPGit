@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="2444398207" Unknown="5">
+  <Entries>
+    <Entry Unknown0="1753720820" Unknown1="410420649">
+      <SDL2 Key="3881618553">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>41757</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>このゲームはＤＳ本体の時計に連動してるからさ、時間が合ってるか確認してからはじめて。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1471843309" Unknown1="1247444700">
+      <SDL2 Key="2669567823">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>41758</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>もし時間がずれてたら一度電源をＯＦＦにして、ＤＳ本体の時計を合わせてきて。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2224980000" Unknown1="760459712">
+      <SDL2 Key="2669567823">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>41759</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>84863</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>41760</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ゲームの時間をアンタの生活に合わせて決定して。でも、ど～してもって人だけだから。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2023208708" Unknown1="730240441">
+      <SDL2 Key="2669567823">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>41761</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>41762</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>ほんとにこれでいい？　あとから文句言わないこと。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1741331453" Unknown1="1600818924">
+      <SDL2 Key="2669567823">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>41763</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>41764</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>じゃあ、これでおしまい。お疲れ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+  </Entries>
+</DBIN2>

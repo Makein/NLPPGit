@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="1004933506" Unknown="5">
+  <Entries>
+    <Entry Unknown0="739092083" Unknown1="1210035843">
+      <SDL2 Key="666532745">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>13628</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>84863</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>13629</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>このゲームは、ＤＳ本体の時計に連動して進むの。だから、ちゃんと時間が合ってるか確認してからはじめてね。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="537647215" Unknown1="1205185153">
+      <SDL2 Key="666532745">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>13630</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>もし時間がずれてたら一度電源をＯＦＦにして、ＤＳ本体の時計を合わせてね。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="650237037" Unknown1="4275152951">
+      <SDL2 Key="1206555365">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>13631</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>13632</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>84863</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>13633</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>うん。じゃあ、ゲームの時間をあなたの生活に合わせて決定して。ふざけて設定しちゃ、ダメだよ。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4240299555" Unknown1="4224671283">
+      <SDL2 Key="1206555365">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>13634</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>本当に、これでいい？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4038789151" Unknown1="4068825649">
+      <SDL2 Key="1206555365">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>13635</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>84863</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>13636</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>高嶺</Dialog>
+          <Dialog>はい、これで設定はおしまい。お疲れさまでした。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+  </Entries>
+</DBIN2>

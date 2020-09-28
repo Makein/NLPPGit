@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="2874953301" Unknown="5">
+  <Entries>
+    <Entry Unknown0="2763199824" Unknown1="1577253641">
+      <SDL2 Key="3618068260">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>70034</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>84863</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>70035</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>このゲームは、ＤＳ本体の時計に連動して進むんだよ。だから、時計をちゃんと合わせてからはじめないといけないの。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="196011445" Unknown1="1481793540">
+      <SDL2 Key="3618068260">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>70036</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>もし時間がずれてたら一度電源をＯＦＦにして、ＤＳ本体の時計を合わせてきてね？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="83775152" Unknown1="2880920404">
+      <SDL2 Key="3618068260">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>70037</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>84863</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>70038</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>84863</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>70039</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そっか。じゃあ、ゲームの時間をあなたの生活に合わせて決定して。嘘ついちゃヤだよ？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1415791872" Unknown1="229813177">
+      <SDL2 Key="2674449130">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>70040</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>本当に、これで大丈夫？</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3143505253" Unknown1="218239156">
+      <SDL2 Key="2674449130">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>70041</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>70042</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うん、これで終わりだよ。お疲れさま。</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+  </Entries>
+</DBIN2>
