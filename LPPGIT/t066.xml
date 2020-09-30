@@ -25,7 +25,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>このゲームは、ＤＳ本体の時計に連動して進むの。だから、ちゃんと時間が合ってるか確認してからはじめてね。</Dialog>
+          <Dialog>This game syncs in parallel 
+with the internal DS clock. 
+So, make sure the time is 
+correct.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -45,7 +48,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もし時間がずれてたら一度電源をＯＦＦにして、ＤＳ本体の時計を合わせてね。</Dialog>
+          <Dialog>If the time is wrong, turn 
+off the power and then set 
+the clock manually in the 
+DS settings.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -77,7 +83,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。じゃあ、ゲームの時間をあなたの生活に合わせて決定して。ふざけて設定しちゃ、ダメだよ。</Dialog>
+          <Dialog>Okay. Then, decide the game 
+time that suits your 
+lifestyle. Don't set it up 
+playfully, okay?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -97,7 +106,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>本当に、これでいい？</Dialog>
+          <Dialog>Is this really okay?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -125,7 +134,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>はい、これで設定はおしまい。お疲れさまでした。</Dialog>
+          <Dialog>Okay, this are all the game 
+settings. Thank you for 
+your hard work.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

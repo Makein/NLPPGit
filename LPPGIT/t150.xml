@@ -215,49 +215,45 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>着いたね。</Dialog>
+          <Dialog>You've arrived.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん……。</Dialog>
-          <Dialog>どうしたの？</Dialog>
-          <Dialog>ここに２人で
-泊まるんだよな。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>い、行こっか。</Dialog>
-          <Dialog>あ、ああ。</Dialog>
-          <Dialog>（緊張してきた……）</Dialog>
-          <Dialog>何度も２人で
-泊まったりしたら、
-変に思われないかな？</Dialog>
-          <Dialog>変って……なにが？</Dialog>
-          <Dialog>それは……
-だってわたしたち
-高校生だし。</Dialog>
-          <Dialog>関係ないって。
-別にやましいこと
-なんてないだろ？</Dialog>
-          <Dialog>うん……。
-うん、そうだね。</Dialog>
-          <Dialog>ああ、行こう。</Dialog>
+          <Dialog>Yup...</Dialog>
+          <Dialog>What's wrong?</Dialog>
+          <Dialog>We're staying here together.</Dialog>
+          <Dialog>....</Dialog>
+          <Dialog>Yes, right here.</Dialog>
+          <Dialog>Ah, yes.</Dialog>
+          <Dialog>（I'm nervous...）</Dialog>
+          <Dialog>Wouldn't it be strange if 
+we stayed together many 
+times?</Dialog>
+          <Dialog>Weird... Why would that be?</Dialog>
+          <Dialog>It's because... We're high 
+school students.</Dialog>
+          <Dialog>I don't think that matters. 
+Is there anything wrong 
+with that?</Dialog>
+          <Dialog>Yes... Yes, that's right.</Dialog>
+          <Dialog>Okay, let's go.</Dialog>
           <Dialog>フロント</Dialog>
-          <Dialog>Welcome.
-ホテル大野屋へようこそ。</Dialog>
-          <Dialog>予約してる
-▲苗字▲ですけど……。</Dialog>
-          <Dialog>行こう、▲高嶺＊＊▲。</Dialog>
-          <Dialog>うん。</Dialog>
-          <Dialog>奥様、お荷物をどうぞ。</Dialog>
-          <Dialog>えっ……わ、わたし!?
-は、はい……
-ありがとうございます。</Dialog>
-          <Dialog>あ、あれ、▲高嶺＊＊▲
-どうしたの？</Dialog>
-          <Dialog>急に奥様って言うから……。</Dialog>
-          <Dialog>はは。
-夫婦に見えるかな～って。
-●たち。</Dialog>
-          <Dialog>（▲高嶺＊＊▲、真っ赤だ。
-●も恥ずかしいけど、
-悪い気分じゃないなあ）</Dialog>
+          <Dialog>Welcome to Hotel Ohnoya, 
+honored guests.</Dialog>
+          <Dialog>I have a reservation under 
+this name: ▲苗字▲...</Dialog>
+          <Dialog>Let's go, ▲高嶺＊＊▲.</Dialog>
+          <Dialog>Yup.</Dialog>
+          <Dialog>Wife, please take your 
+luggage.</Dialog>
+          <Dialog>Eh... Whoa, me? Yes... 
+Thank you.</Dialog>
+          <Dialog>Oh, huh, what's wrong, 
+▲高嶺＊＊▲?</Dialog>
+          <Dialog>Suddenly calling me your 
+wife...</Dialog>
+          <Dialog>Haha. I think it's normal 
+if they see us as a couple.</Dialog>
+          <Dialog>（▲高嶺＊＊▲ is bright red. I'm 
+embarrassed too）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -391,32 +387,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あれ？</Dialog>
+          <Dialog>Huh?</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>あの、お部屋って……。</Dialog>
-          <Dialog>別でとったはず
-なんだけど……。</Dialog>
-          <Dialog>どうだった？</Dialog>
-          <Dialog>ダメだ、空いてないって。
-手違いか、まいったな。
-どうしよ。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>……いいよ。</Dialog>
-          <Dialog>え？</Dialog>
-          <Dialog>だって、ホテルの人、
-困らせちゃうし。
-わたしは同じ部屋でも。</Dialog>
-          <Dialog>▲高嶺＊＊▲……。</Dialog>
-          <Dialog>ずっと一緒に、いたいもん。</Dialog>
-          <Dialog>やっぱりこの瞬間は
-緊張するよな。</Dialog>
-          <Dialog>うん、
-そのうち慣れるのかな？</Dialog>
-          <Dialog>どうだろう……
-でも慣れちゃったら
-損した気にならないか？
-楽しみがなくなるじゃん。</Dialog>
-          <Dialog>もう、何それ。</Dialog>
+          <Dialog>Um, that room...</Dialog>
+          <Dialog>We should have have them 
+separately...</Dialog>
+          <Dialog>How was it?</Dialog>
+          <Dialog>No, it's not available. It's
+a mistake, I'm sorry. What 
+should I do?</Dialog>
+          <Dialog>....</Dialog>
+          <Dialog>...It's okay.</Dialog>
+          <Dialog>Eh?</Dialog>
+          <Dialog>Because it would be annoying
+for the hotel staff, if we 
+told I want other room.</Dialog>
+          <Dialog>▲高嶺＊＊▲...</Dialog>
+          <Dialog>I want to be with you 
+forever.</Dialog>
+          <Dialog>I'm getting nervous with 
+this.</Dialog>
+          <Dialog>Yes, will we get used to 
+this soon?</Dialog>
+          <Dialog>I wonder... But, if you get 
+used to it, don't you feel 
+like you've lost something? 
+We won't have as much fun.</Dialog>
+          <Dialog>Geez, what's with that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -681,73 +678,68 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>おっ、そろそろバイキングが
-はじまっている時間だな。</Dialog>
+          <Dialog>Oops, it's time for the 
+Vikings to start eating.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>ふふ、おいしい料理だといいね。</Dialog>
-          <Dialog>そうだな！</Dialog>
-          <Dialog>よし、エビ食うぞ！
-エビ！</Dialog>
-          <Dialog>もう、慌てちゃ
-お行儀悪いよ。</Dialog>
-          <Dialog>はは。
-じゃあ食堂に行こうか。</Dialog>
-          <Dialog>うん、行こう。</Dialog>
-          <Dialog>いや～腹いっぱいだ。</Dialog>
-          <Dialog>もう、まわりに聞こえちゃうよ。</Dialog>
+          <Dialog>Fufu, I hope it's a 
+delicious dish.</Dialog>
+          <Dialog>Me too!</Dialog>
+          <Dialog>Alright, I'll eat the 
+shrimp! Shrimp!</Dialog>
+          <Dialog>Geez, don't be in such a 
+hurry.</Dialog>
+          <Dialog>Haha. Then, let's go to the 
+cafeteria.</Dialog>
+          <Dialog>Yeah, let's go.</Dialog>
+          <Dialog>No~ I'm so full.</Dialog>
+          <Dialog>Geez, I can hear you well.</Dialog>
           <Dialog>フロント</Dialog>
-          <Dialog>お食事、
-いかがでしたでしょうか。</Dialog>
-          <Dialog>とっても美味しかったです。
-ごちそうさまでした。</Dialog>
-          <Dialog>ありがとうございます。
-明日の朝食も同じ場所ですので
-お時間になったら
-お越しください。</Dialog>
-          <Dialog>そうだお客様。
-伝説のビーチの話は、
-お聞きになったこと
-ございますか？</Dialog>
-          <Dialog>伝説のビーチ？</Dialog>
-          <Dialog>ええ、熱海港から出てます
-船で行ける、初島という
-島がありまして。</Dialog>
-          <Dialog>そこには誰も
-辿り着いたことがない
-ビーチがあるんです。</Dialog>
-          <Dialog>そして、そこで愛を誓い
-合ったカップルは永遠に幸せ
-でいられるという伝説が。</Dialog>
-          <Dialog>（どこかで
-聞いたような話だな……）</Dialog>
-          <Dialog>お客様たちのような
-お似合いのご夫婦なら、
-見つけられるかも
-しれませんね。</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>すっかりお邪魔して
-しまいましたね。
-ごゆっくり。</Dialog>
-          <Dialog>はは、
-伝説のビーチだってさ。
-▲高嶺＊＊▲。</Dialog>
-          <Dialog>ステキ……。</Dialog>
-          <Dialog>え？</Dialog>
-          <Dialog>明日は絶対、
-探しに行こうね。</Dialog>
-          <Dialog>あ、ああ。
-そうだな。</Dialog>
-          <Dialog>（まあ▲高嶺＊＊▲が
-喜ぶなら、
-それでいいか）</Dialog>
-          <Dialog>明日はどうしよっか。</Dialog>
-          <Dialog>また、あそこに行きたいな。</Dialog>
-          <Dialog>あそこって……
-例のビーチ？</Dialog>
-          <Dialog>うん、わたしたちの
-思い出の場所だもん。</Dialog>
-          <Dialog>そうだな、
-また探してみるか……。</Dialog>
+          <Dialog>Dear guests, how was your 
+meal?</Dialog>
+          <Dialog>It was delicious, a feast.</Dialog>
+          <Dialog>Thank you very much. 
+Tomorrow's breakfast will 
+be at the same place, so 
+please come when it's time.</Dialog>
+          <Dialog>That's right. Dear guests, 
+have you heard of the 
+legendary beach story?</Dialog>
+          <Dialog>Legendary beach?</Dialog>
+          <Dialog>Yes, there is an island 
+called Hatsushima, which 
+can be reached by boat 
+from Atami Port.</Dialog>
+          <Dialog>In that place, there is a 
+beach there that no one has 
+ever reached.</Dialog>
+          <Dialog>And legend says that couples
+that vow love to each other,
+can be happy forever.</Dialog>
+          <Dialog>（I think I heard that 
+somewhere...）</Dialog>
+          <Dialog>A married couple like you 
+should have no trouble 
+finding it.</Dialog>
+          <Dialog>....</Dialog>
+          <Dialog>Sorry for taking up your 
+time. Enjoy while you're 
+here.</Dialog>
+          <Dialog>Haha, a legendary beach, 
+▲高嶺＊＊▲.</Dialog>
+          <Dialog>Nice...</Dialog>
+          <Dialog>Eh?</Dialog>
+          <Dialog>Let's definitely go find it 
+tomorrow.</Dialog>
+          <Dialog>Ah, yes. You're right.</Dialog>
+          <Dialog>（Well, if ▲高嶺＊＊▲ is happy, 
+then it's okay）</Dialog>
+          <Dialog>What should we do tomorrow?</Dialog>
+          <Dialog>I want to go there again.</Dialog>
+          <Dialog>Go there... to the beach?</Dialog>
+          <Dialog>Yes, it's a place were we 
+made memories.</Dialog>
+          <Dialog>You're right, I would like 
+to find it again...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -776,13 +768,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>よし、行こう！</Dialog>
-          <Dialog>貸切風呂よりも、
-露天風呂にいかない？</Dialog>
-          <Dialog>……やめておこう</Dialog>
+          <Dialog>Alright, let's go!</Dialog>
+          <Dialog>Open-bath or private bath?</Dialog>
+          <Dialog>...Let's stop</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>貸切風呂よりも、
-露天風呂にいってみない？</Dialog>
+          <Dialog>Why don't you go to the 
+open-air bath rather than 
+the private bath?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -882,34 +874,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲、
-そろそろ部屋に戻ろう。</Dialog>
+          <Dialog>▲高嶺＊＊▲, it's time to go 
+back to our room.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>うん。</Dialog>
-          <Dialog>（そう言えば、このベッド……
-やっぱり、
-一つずつ使うわけだよな？）</Dialog>
-          <Dialog>（これが、布団だったら、
-くっつけちゃったりして……）</Dialog>
+          <Dialog>Yup.</Dialog>
+          <Dialog>（Come to think of it, this 
+bed ... it's for one person 
+only, right?）</Dialog>
+          <Dialog>（If this was a futon, I 
+could put them close...）</Dialog>
           <Dialog>▲高嶺＊＊▲!?</Dialog>
-          <Dialog>お布団でも、良かったよね？</Dialog>
-          <Dialog>あ、
-▲高嶺＊＊▲も、そう思う？</Dialog>
-          <Dialog>うん。
-お布団だから、
-色いろ、楽しい事もあるでしょ？</Dialog>
-          <Dialog>だよな！</Dialog>
-          <Dialog>ね？
-家は、みんなベッドだから。
-敷いたり、畳んだり、ふふ！</Dialog>
-          <Dialog>敷いたり畳んだり……
-楽しいか？</Dialog>
-          <Dialog>うん。
-え？
-……違うの？</Dialog>
-          <Dialog>いや……
-まあ、楽しみ方は
-人それぞれだよな……。</Dialog>
+          <Dialog>Wouldn't it good to have a 
+futon?</Dialog>
+          <Dialog>Ah, ▲高嶺＊＊▲, do you think so?</Dialog>
+          <Dialog>Yes. Because if we had a 
+futon, we could do funny 
+things, right?</Dialog>
+          <Dialog>That's right!</Dialog>
+          <Dialog>Right? In my house, everyone
+has a bed. You can lay it 
+down, fold it up, fufu!</Dialog>
+          <Dialog>Laying and folding... is 
+that fun?</Dialog>
+          <Dialog>Yes. Huh?... Am I wrong?</Dialog>
+          <Dialog>No, that's not it... Each 
+person has their own way of 
+enjoying.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

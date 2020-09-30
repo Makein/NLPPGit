@@ -17,7 +17,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あなたのこと、もう一度きちんと知りたいの。</Dialog>
+          <Dialog>I want to know more about 
+you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -37,7 +38,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あなたの苗字……わたし、好きよ。</Dialog>
+          <Dialog>Your last name... I like it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -57,7 +58,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あなたのお名前って、どんな意味が込められてるのかな？</Dialog>
+          <Dialog>What does your name mean?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -77,7 +78,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あなたのお誕生日、忘れたりしないから。わたしのも覚えておいてね？</Dialog>
+          <Dialog>I won't forget your 
+birthday. Don't forget about
+mine, okay?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -97,7 +100,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>わたしの血液型がＡ型だから、相性は……ふふ？</Dialog>
+          <Dialog>My blood type is A, so we're
+compatible... Fufu?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -117,7 +121,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>読み方も確認させてね。</Dialog>
+          <Dialog>Let me check on how to read 
+it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -137,7 +142,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あなたの出身地って、どんなところなの？　いつか……連れて行ってほしいな。</Dialog>
+          <Dialog>What kind of place is your 
+hometown? Someday... I want 
+you to take me.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -157,7 +164,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ハンドルネームを教えて。あだ名みたいなものよ。</Dialog>
+          <Dialog>Please, tell me your handle 
+name. It's like a nickname.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -177,7 +185,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>わたしはあなたのこと、なんて呼べばいいかな？</Dialog>
+          <Dialog>How should I call you?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -197,7 +205,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>はい。それじゃあ、この呼び方にするね。</Dialog>
+          <Dialog>Okay. Well then, I'll call 
+you that way.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -217,7 +226,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>わたしのことはどう呼んでくれるの？</Dialog>
+          <Dialog>How do you want to call me?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -237,7 +246,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……はい。あなたに呼ばれると、それだけでうれしい。</Dialog>
+          <Dialog>...Okay. I'm just happy you 
+will be calling me.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -257,7 +267,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>全部、間違いない？　確認はしっかりね。</Dialog>
+          <Dialog>Are you sure? Confirm it 
+until you're sure.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -277,7 +288,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>はい、バッチリね。これからあなたのこと、もっと深く知っていきたいな。</Dialog>
+          <Dialog>Yes, that's perfect. I want 
+to know more about you from 
+now on.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -317,9 +330,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>えっと、このゲームは、ニンテンドー３ＤＳ本体の時計に連動して進むんです。なので、時間がずれていないか確認してから、ゲームを開始しするようにしてください。</Dialog>
-          <Dialog>もしも時間がずれている場合は、一度電源をＯＦＦにして、ニンテンドー３ＤＳ本体の時計を正しく設定してください。</Dialog>
-          <Dialog>ゲームを始めてしまうと、そのあとゲームの中の時間はできません。慎重にお願いします。</Dialog>
+          <Dialog>Um, this games syncs with 
+the clock inside the 3DS. 
+Make sure you have it set 
+correctly.</Dialog>
+          <Dialog>If the time is wrong, turn 
+off the power once and set 
+the clock of the 3DS system.</Dialog>
+          <Dialog>Once you start the game, 
+you can't change it 
+afterwards. Please, be 
+careful.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -339,7 +360,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>では、このゲームの時間を、あなたの生活に合わせて設定してください。どうしても生活時間が合わない場合は、ずらして設定しても結構です。</Dialog>
+          <Dialog>Now, set the time that 
+suits your lifestyle. If 
+you aren't sure, you can 
+shift between them.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -359,7 +383,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>本当に、これで大丈夫ですか？</Dialog>
+          <Dialog>Is this really okay?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -379,7 +403,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>お疲れさまでした。これで時計の設定は完了です。</Dialog>
+          <Dialog>Thank you for your hard 
+work. This completes the 
+settings for the clock.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

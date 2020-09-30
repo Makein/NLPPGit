@@ -27,8 +27,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>メッセージ番号が違います。</Dialog>
+          <Dialog>...</Dialog>
+          <Dialog>The message number is 
+different.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -178,33 +179,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>普通</Dialog>
-          <Dialog>笑う</Dialog>
-          <Dialog>怒り</Dialog>
-          <Dialog>悲しい</Dialog>
-          <Dialog>楽しい</Dialog>
-          <Dialog>驚き</Dialog>
-          <Dialog>困る</Dialog>
-          <Dialog>ときめき</Dialog>
-          <Dialog>笑う照</Dialog>
-          <Dialog>怒り照</Dialog>
-          <Dialog>恥ずかしい</Dialog>
-          <Dialog>驚き照</Dialog>
-          <Dialog>楽しい照</Dialog>
-          <Dialog>そわそわ照</Dialog>
-          <Dialog>困り笑い</Dialog>
-          <Dialog>にっこり顔固定</Dialog>
-          <Dialog>キス顔</Dialog>
-          <Dialog>キス顔・半分</Dialog>
-          <Dialog>キス顔（目閉じ</Dialog>
-          <Dialog>普通閉じ</Dialog>
-          <Dialog>困り閉じ</Dialog>
-          <Dialog>怒り閉じ</Dialog>
-          <Dialog>ときめき閉じ</Dialog>
-          <Dialog>はずかしい閉じ</Dialog>
-          <Dialog>にっこり照</Dialog>
-          <Dialog>にっこり顔固定頬染</Dialog>
-          <Dialog>にっこり顔固定こまり</Dialog>
+          <Dialog>Normal</Dialog>
+          <Dialog>Laughing</Dialog>
+          <Dialog>Angry</Dialog>
+          <Dialog>Sad</Dialog>
+          <Dialog>Funny</Dialog>
+          <Dialog>Surprised</Dialog>
+          <Dialog>Troubled</Dialog>
+          <Dialog>Thrilled</Dialog>
+          <Dialog>Light laugh</Dialog>
+          <Dialog>Lightly angry</Dialog>
+          <Dialog>Embarrased</Dialog>
+          <Dialog>Surprise</Dialog>
+          <Dialog>Entertained</Dialog>
+          <Dialog>Fidgety</Dialog>
+          <Dialog>Embarrassed laugh</Dialog>
+          <Dialog>Smiling face</Dialog>
+          <Dialog>Kissing face</Dialog>
+          <Dialog>Half kissing face</Dialog>
+          <Dialog>Closed eyes kissing face</Dialog>
+          <Dialog>Normal</Dialog>
+          <Dialog>Embarrased</Dialog>
+          <Dialog>Angry</Dialog>
+          <Dialog>Thrilled</Dialog>
+          <Dialog>Awkward</Dialog>
+          <Dialog>Smile</Dialog>
+          <Dialog>Smile with blush</Dialog>
+          <Dialog>Troubled smile</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

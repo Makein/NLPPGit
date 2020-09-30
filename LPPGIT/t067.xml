@@ -41,11 +41,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>はい、もしもし。</Dialog>
+          <Dialog>Yes, hello.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲、●だけど。</Dialog>
-          <Dialog>うん、わたし。どうしたの？</Dialog>
-          <Dialog>えっと……。</Dialog>
+          <Dialog>▲高嶺＊＊▲, it's me.</Dialog>
+          <Dialog>Yes, it's me. What's wrong?</Dialog>
+          <Dialog>Um...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -89,11 +89,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>もしもし？</Dialog>
+          <Dialog>Hello?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲、●だけど。</Dialog>
-          <Dialog>うん、あなたの声。どうしたの？</Dialog>
-          <Dialog>えっと……。</Dialog>
+          <Dialog>▲高嶺＊＊▲, it's me.</Dialog>
+          <Dialog>Yeah, I know your voice. 
+What's wrong?</Dialog>
+          <Dialog>Um...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -133,11 +134,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>はい、愛花です。</Dialog>
+          <Dialog>Yes, this is Aika.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲、●だけど。</Dialog>
-          <Dialog>ふふ、どうしたの？</Dialog>
-          <Dialog>えっと……。</Dialog>
+          <Dialog>▲高嶺＊＊▲, it's me.</Dialog>
+          <Dialog>Fufu, what's wrong?</Dialog>
+          <Dialog>Um...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -192,14 +193,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>デートの約束をずらしたいんだけど……。</Dialog>
-          <Dialog>▲月▲▲日▲の▲時刻▲で、どう？</Dialog>
+          <Dialog>I want to change our date...</Dialog>
+          <Dialog>How does ▲月▲▲日▲ at ▲時刻▲ 
+sound?</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>うん、大丈夫。よかった、デートが中止にならなくて。</Dialog>
-          <Dialog>こっちもほっとした。じゃあ、また。</Dialog>
-          <Dialog>ごめんなさい。ダメみたい……。</Dialog>
-          <Dialog>そっか、じゃあ……。</Dialog>
+          <Dialog>....</Dialog>
+          <Dialog>Yes, sounds fine. I'm glad 
+we didn't cancel our date.</Dialog>
+          <Dialog>I was relieved too. See you 
+soon.</Dialog>
+          <Dialog>I'm sorry. It seems like I 
+can't...</Dialog>
+          <Dialog>I see, well then...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -258,14 +263,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>デートの約束をずらしたいんだけど……。</Dialog>
-          <Dialog>▲月▲▲日▲の▲時刻▲で、どう？</Dialog>
+          <Dialog>I want to change our date 
+day...</Dialog>
+          <Dialog>How does ▲月▲▲日▲ at ▲時刻▲ 
+sound?</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>よかった……。えっと、大丈夫だよ。</Dialog>
-          <Dialog>そっか、ありがと。じゃあ、また。</Dialog>
-          <Dialog>ごめんね、ちょっと……。</Dialog>
-          <Dialog>そっか、じゃあ……。</Dialog>
+          <Dialog>....</Dialog>
+          <Dialog>I'm glad... Emm, it's okay.</Dialog>
+          <Dialog>I see, thank you. See you 
+soon.</Dialog>
+          <Dialog>Sorry, it's a little...</Dialog>
+          <Dialog>I see, well then...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -324,14 +332,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>デートの約束をずらしたいんだけど……。</Dialog>
-          <Dialog>▲月▲▲日▲の▲時刻▲で、どう？</Dialog>
+          <Dialog>I want to change the date 
+for our date...</Dialog>
+          <Dialog>How does ▲月▲▲日▲ at ▲時刻▲ 
+sound?</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>いいよ。ふふ、わがまま聞いてあげます。</Dialog>
-          <Dialog>ごめんごめん。じゃあ、そういうことで。またな。</Dialog>
-          <Dialog>うーん、ダメ。</Dialog>
-          <Dialog>そっか、じゃあ……。</Dialog>
+          <Dialog>....</Dialog>
+          <Dialog>Okay. Fufu, I'll indulge 
+your selfish desire.</Dialog>
+          <Dialog>Sorry, sorry. Then, I'll 
+see you soon.</Dialog>
+          <Dialog>Hmm, nop.</Dialog>
+          <Dialog>I see, well then...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -364,9 +376,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっと……ごめん。やっぱなんでもないや。</Dialog>
+          <Dialog>Um... I'm sorry. It's 
+nothing after all.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>もう、なにそれ？　でもデートのキャンセルじゃなくてよかった。じゃあ。</Dialog>
+          <Dialog>Geez, what's with that? 
+But, I'm glad we didn't 
+cancel our date. See ya.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -399,9 +414,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あー……わりぃ！　やっぱいいや。</Dialog>
+          <Dialog>Ah... sorry. It's nothing.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>いいの？　声が聞きたかったとか……なんて！　じゃあね。</Dialog>
+          <Dialog>You sure? I wanted to hear 
+your voice... I'm kidding. 
+See ya.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -434,9 +451,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……実は声が聞きたくて電話しただけ。なんつって。</Dialog>
+          <Dialog>...Actually, I just called 
+because I wanted to hear 
+your voice. I'm kidding.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>もう、嘘ばっかり。でもいいよ、ありがと。じゃあ、またね。</Dialog>
+          <Dialog>Geez, that's a lie. But 
+it's okay, thank you. See 
+you later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -451,7 +472,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（これでよし。忘れないようにしないと）</Dialog>
+          <Dialog>（This is fine. I have to 
+remember it）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -466,7 +488,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（これでよし。何度も変更するのは悪いし、今回はこれで最後にしよう）</Dialog>
+          <Dialog>（This is fine. It's bad to 
+change it too many times so 
+let's finish it）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -529,14 +553,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>旅行の日程をずらしたいんだけど……。</Dialog>
-          <Dialog>▲月▲▲日▲でどう？</Dialog>
+          <Dialog>I'd like to change our 
+travel schedule...</Dialog>
+          <Dialog>How does this date sound: 
+▲月▲▲日▲?</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>よかった、大丈夫。気にしないで。</Dialog>
-          <Dialog>そっか、よかった。ごめんな、それじゃあ。</Dialog>
-          <Dialog>ごめんね。その日は都合が悪くて……。</Dialog>
-          <Dialog>そっか、じゃあ……。</Dialog>
+          <Dialog>....</Dialog>
+          <Dialog>It's okay, I'm glad. Don't 
+worry about it.</Dialog>
+          <Dialog>I see, I'm glad. I'm sorry, 
+see ya.</Dialog>
+          <Dialog>I'm sorry. It's not 
+convenient that day...</Dialog>
+          <Dialog>I see, see ya...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

@@ -40,7 +40,7 @@
           <Dialog>Family</Dialog>
           <Dialog>Others</Dialog>
           <Dialog>Select from list</Dialog>
-          <Dialog>【DEBUG】Registered face of BF</Dialog>
+          <Dialog>【DEBUG】カレシの顔として登録</Dialog>
           <Dialog>▲紹介友達名▲</Dialog>
         </Dialogs>
       </SDL2>
@@ -211,34 +211,34 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Pal</Dialog>
+          <Dialog>Friend</Dialog>
           <Dialog>Family</Dialog>
           <Dialog>Other</Dialog>
           <Dialog>Select from list</Dialog>
-          <Dialog>【DEBUG】Registered face of BF</Dialog>
+          <Dialog>【DEBUG】Registered as a boyfriend's face </Dialog>
           <Dialog>▲紹介友達名▲</Dialog>
           <Dialog>Celebrity</Dialog>
           <Dialog>Father</Dialog>
           <Dialog>Mother</Dialog>
-          <Dialog>Big brother</Dialog>
-          <Dialog>Big sister</Dialog>
-          <Dialog>Lil' brother</Dialog>
-          <Dialog>Lil' sister</Dialog>
+          <Dialog>Elder brother</Dialog>
+          <Dialog>Elder sister</Dialog>
+          <Dialog>Brother</Dialog>
+          <Dialog>Sister</Dialog>
           <Dialog>Son</Dialog>
           <Dialog>Daughter</Dialog>
-          <Dialog>A Type</Dialog>
-          <Dialog>B Type</Dialog>
-          <Dialog>AB Type</Dialog>
-          <Dialog>O Type</Dialog>
-          <Dialog>Kind</Dialog>
+          <Dialog>Type A</Dialog>
+          <Dialog>Type Ｂ</Dialog>
+          <Dialog>Type ＡＢ</Dialog>
+          <Dialog>Type Ｏ</Dialog>
+          <Dialog>Gentle</Dialog>
           <Dialog>Cold</Dialog>
           <Dialog>Quiet</Dialog>
           <Dialog>Noisy</Dialog>
           <Dialog>Serious</Dialog>
-          <Dialog>Interesting</Dialog>
+          <Dialog>Amusing</Dialog>
           <Dialog>Nasty</Dialog>
-          <Dialog>Sign Up</Dialog>
-          <Dialog>Start Over</Dialog>
+          <Dialog>Register</Dialog>
+          <Dialog>Redo</Dialog>
           <Dialog>○</Dialog>
           <Dialog>×</Dialog>
         </Dialogs>
@@ -296,15 +296,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>How long have you been 
-dating?</Dialog>
-          <Dialog>What's your BF favorite 
-place?</Dialog>
-          <Dialog>What has made you happy?</Dialog>
-          <Dialog>What worries you?</Dialog>
-          <Dialog>What are your hobbies?</Dialog>
-          <Dialog>What is your favorite dish?</Dialog>
-          <Dialog>How old are you?</Dialog>
+          <Dialog>How long have you been together?</Dialog>
+          <Dialog>What do you like about your boyfriend?</Dialog>
+          <Dialog>What's made you happy recently?</Dialog>
+          <Dialog>What's bothering you?</Dialog>
+          <Dialog>What's your hobby?</Dialog>
+          <Dialog>What is your favorite dish? </Dialog>
+          <Dialog>How old are you? </Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -494,20 +492,20 @@ place?</Dialog>
         <Dialogs>
           <Dialog>○</Dialog>
           <Dialog>×</Dialog>
-          <Dialog>Nice to meet you</Dialog>
+          <Dialog>Goodく</Dialog>
           <Dialog>Wrong</Dialog>
-          <Dialog>A Type</Dialog>
-          <Dialog>B Type</Dialog>
-          <Dialog>O Type</Dialog>
-          <Dialog>AB Type</Dialog>
+          <Dialog>Type A</Dialog>
+          <Dialog>Type B</Dialog>
+          <Dialog>Type O</Dialog>
+          <Dialog>Type AB</Dialog>
           <Dialog>Passionate</Dialog>
-          <Dialog>Rough</Dialog>
+          <Dialog>Careless</Dialog>
           <Dialog>Natural</Dialog>
           <Dialog>Careful</Dialog>
-          <Dialog>Out</Dialog>
+          <Dialog>Crazy</Dialog>
           <Dialog>Selfish</Dialog>
           <Dialog>Introduce to others</Dialog>
-          <Dialog>End</Dialog>
+          <Dialog>End it</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

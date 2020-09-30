@@ -32,11 +32,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そうそう、お洋服を買おうと思ってたの。付き合ってもらってもいいかな？</Dialog>
+          <Dialog>That's right, I was thinking
+about buying clothes. Can I 
+have you go out with me?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>服か……。</Dialog>
-          <Dialog>付き合うよ</Dialog>
-          <Dialog>今日はやめとこう</Dialog>
+          <Dialog>Clothes, huh...</Dialog>
+          <Dialog>Let's go</Dialog>
+          <Dialog>Not today</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -71,11 +73,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>あ、ねえ。お洋服を買いたいんだけど……付き合ってくれたらうれしいな。</Dialog>
+          <Dialog>Ah, hey, I'd like to buy 
+clothes... I'd be happy if 
+you could go with me.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>服か……。</Dialog>
-          <Dialog>付き合うよ</Dialog>
-          <Dialog>他のことしない？</Dialog>
+          <Dialog>Clothes, huh...</Dialog>
+          <Dialog>Let's go</Dialog>
+          <Dialog>Something else?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -110,11 +114,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>ねえ、デートの途中だけど、ショッピングしない？　お洋服見たいの。</Dialog>
+          <Dialog>Hey, since we're on a date, 
+why don't we go shopping? I 
+want to see clothes.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>いいな、それ</Dialog>
-          <Dialog>気が乗らないな</Dialog>
+          <Dialog>That's right...</Dialog>
+          <Dialog>Sounds good</Dialog>
+          <Dialog>I don't feel like it</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -134,7 +140,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>よかった、ありがとう。</Dialog>
+          <Dialog>Thank you very much.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -169,10 +175,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そう……じゃあ、どこに行く？</Dialog>
-          <Dialog>ブティックに行こう</Dialog>
-          <Dialog>アクセサリーショップに行こう</Dialog>
-          <Dialog>コスメショップに行こう</Dialog>
+          <Dialog>That so... where are we 
+going?</Dialog>
+          <Dialog>Boutique</Dialog>
+          <Dialog>Accessory shop</Dialog>
+          <Dialog>Cosmetics shop</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -217,13 +224,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>迷うっちゃう……。どういうのがいいと思う？</Dialog>
+          <Dialog>I get lost... what do you 
+think is good?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>んー。だったら……。</Dialog>
-          <Dialog>かわいい系だな</Dialog>
-          <Dialog>清楚な感じのやつ</Dialog>
-          <Dialog>ここはカジュアルで</Dialog>
-          <Dialog>セクシーに挑戦だ</Dialog>
+          <Dialog>Hmm, then...</Dialog>
+          <Dialog>Something cute</Dialog>
+          <Dialog>Something neat</Dialog>
+          <Dialog>Something casual</Dialog>
+          <Dialog>Something sexy</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -243,7 +251,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>……わかった、じゃあ選んでくるね。</Dialog>
+          <Dialog>...I get it, then I'll 
+choose...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -263,7 +272,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>どうかな……わたしはいいと思うんだけど。</Dialog>
+          <Dialog>How about this... I think 
+it's good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -283,7 +293,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>これはどう？　自分では似合ってると思うんだけど……。</Dialog>
+          <Dialog>How about this? I think 
+this suits me...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -303,7 +314,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>わたしはいいなって思うんだけど、あなたは？</Dialog>
+          <Dialog>I like this, but what about 
+you?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -323,7 +335,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>これは？　自信ないけど、あなたが喜んでくれるかなって……。</Dialog>
+          <Dialog>And this? I'm not confident 
+about it, but I wonder if 
+it will make you happy...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -343,7 +357,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>うーん……ちょっと違うかな……そうでもない？</Dialog>
+          <Dialog>Hmm... this is a little 
+different... right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -363,7 +378,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>いつもの感じじゃないけど、どう思う？</Dialog>
+          <Dialog>It's not the usual feeling 
+but, what do you think?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -388,9 +404,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うーん……。</Dialog>
-          <Dialog>すごく似合ってるよ</Dialog>
-          <Dialog>他のも見よう</Dialog>
+          <Dialog>Hmm...</Dialog>
+          <Dialog>It suits you</Dialog>
+          <Dialog>Another one</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -415,9 +431,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだなあ……。</Dialog>
-          <Dialog>バッチリだな</Dialog>
-          <Dialog>他には？</Dialog>
+          <Dialog>That's right...</Dialog>
+          <Dialog>It's perfect</Dialog>
+          <Dialog>Isn't there another?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -452,11 +468,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（そろそろ決めないとな……）</Dialog>
-          <Dialog>●の見た感じだと……。</Dialog>
-          <Dialog>最初のが一番良かった</Dialog>
-          <Dialog>一つ前の服が良かった</Dialog>
-          <Dialog>その服がベスト</Dialog>
+          <Dialog>（I have to decide soon...）</Dialog>
+          <Dialog>I feel...</Dialog>
+          <Dialog>The first was the best</Dialog>
+          <Dialog>Previous clothes were good</Dialog>
+          <Dialog>Those clothes are the best</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -476,7 +492,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>じゃあ決まりね。わたしもこれがいいと思ってたの♪　ありがとう。</Dialog>
+          <Dialog>Then, it's decided. I also 
+thought this was good♪　
+Thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -496,7 +514,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>そう？　あなたがそう言うなら、思いきって買ってみるね。</Dialog>
+          <Dialog>Is that so? If you say so, 
+I'll take the plunge and 
+buy it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
