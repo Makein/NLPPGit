@@ -84,24 +84,26 @@
           <Dialog>高嶺</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hmm?</Dialog>
-          <Dialog>Hey, are there any first 
-graders you are getting 
-along with in the library 
-committe these days?</Dialog>
-          <Dialog>Huh, it may be ▲小早川＊▲.</Dialog>
+          <Dialog>Hmm? What's wrong?</Dialog>
+          <Dialog>Hey, is there anyone from 
+the first year you are 
+getting along with? 
+Someone from the library 
+committee?</Dialog>
+          <Dialog>Huh, that might be ▲小早川＊▲.</Dialog>
           <Dialog>Hey, do you have a senior 
-who you're getting along 
-with at a part-time job 
-lately?</Dialog>
-          <Dialog>Huh, it may be ▲姉ヶ崎＊▲.</Dialog>
-          <Dialog>Ah, really. Amazing...</Dialog>
+in your part-time job? 
+Someone who you're 
+getting along lately?</Dialog>
+          <Dialog>Huh, that might be ▲姉ヶ崎＊▲.</Dialog>
+          <Dialog>Ah, really? 
+That's amazing...</Dialog>
           <Dialog>What's amazing?</Dialog>
           <Dialog>I mean... I guess that's 
-youth for you... That's how 
-I feel. But in moderation, 
-right?</Dialog>
-          <Dialog>（Moderately...）</Dialog>
+how youth works... That's 
+how I feel, but do it in 
+moderation, okay?</Dialog>
+          <Dialog>（Moderation? What?...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -188,22 +190,25 @@ right?</Dialog>
           <Dialog>高嶺</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hmm? What?</Dialog>
-          <Dialog>Are you on good terms with 
-the first year of the 
-library committee?</Dialog>
-          <Dialog>Ah, ▲小早川＊▲...</Dialog>
-          <Dialog>Are you on good terms with 
-your senior at your part-
-time job? </Dialog>
-          <Dialog>Ah, ▲姉ヶ崎＊▲...</Dialog>
-          <Dialog>It may not be something I 
-care about...</Dialog>
-          <Dialog>Hmm?</Dialog>
-          <Dialog>If you don't have a mnodest 
-relationship like a high 
-school student, it's no 
-good!</Dialog>
+          <Dialog>Hmm? What's wrong?</Dialog>
+          <Dialog>Are you on good terms 
+with the first year 
+student of the library 
+committee?</Dialog>
+          <Dialog>Ah, yes. 
+That's ▲小早川＊▲...</Dialog>
+          <Dialog>Are you on good terms 
+with your senior at your 
+part-time job?</Dialog>
+          <Dialog>Yes, she's ▲姉ヶ崎＊▲...</Dialog>
+          <Dialog>Well, it's not something 
+I care about, but...</Dialog>
+          <Dialog>Hmm? What's the matter?</Dialog>
+          <Dialog>If you don't have 
+modest relationships like 
+a high school student, 
+then you're doing bad 
+things!</Dialog>
           <Dialog>...</Dialog>
         </Dialogs>
       </SDL2>
@@ -394,43 +399,51 @@ good!</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>手塚</Dialog>
-          <Dialog>We finish with this today!</Dialog>
+          <Dialog>And with this, we end for 
+today! Dismissed!</Dialog>
           <Dialog>男女部員</Dialog>
-          <Dialog>Thank you for you hard work!</Dialog>
+          <Dialog>Thank you for you hard 
+work!</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（It's ▲高嶺＊＊▲...）</Dialog>
-          <Dialog>（Don't you see me... What 
-am I doing...）</Dialog>
+          <Dialog>（Ah, it's ▲高嶺＊＊▲...）</Dialog>
+          <Dialog>（Can't she see me? What 
+should I do to get her 
+attention?）</Dialog>
           <Dialog>...</Dialog>
           <Dialog>▲高嶺＊＊▲.</Dialog>
           <Dialog>高嶺</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>What's wrong? You're here 
+          <Dialog>What's wrong? You're 
+getting distracted here 
 of all places.</Dialog>
-          <Dialog>I remembered a lot of 
-things...</Dialog>
-          <Dialog>A lot of things?</Dialog>
+          <Dialog>I was remembering a lot 
+of things...</Dialog>
+          <Dialog>A lot of things? Such as?</Dialog>
           <Dialog>The first time I met you 
-here...</Dialog>
-          <Dialog>And there were a lot of 
-things you did for me...</Dialog>
+was here...</Dialog>
+          <Dialog>And from there, you did a 
+lot of things for me...</Dialog>
           <Dialog>Did I do something like 
 that?</Dialog>
-          <Dialog>You did a lot.</Dialog>
-          <Dialog>A lot... Did I truly?</Dialog>
-          <Dialog>Well, if it wasn't 
-annoying, then I'm glad...</Dialog>
-          <Dialog>No way! That's not true...</Dialog>
-          <Dialog>You changed me... Thank you.</Dialog>
+          <Dialog>Yes, you did a lot.</Dialog>
+          <Dialog>Did I truly do that much?</Dialog>
+          <Dialog>Well, if I wasn't too 
+annoying for, then that 
+makes me glad...</Dialog>
+          <Dialog>No way! I never considered 
+you to be like that...</Dialog>
+          <Dialog>You changed me... 
+Thank you.</Dialog>
           <Dialog>▲高嶺＊＊▲...</Dialog>
           <Dialog>You don't have to be with 
-me all the time... I want 
-you to teach me new worlds 
-from now on.</Dialog>
-          <Dialog>Oh, I don't mind.</Dialog>
-          <Dialog>Thank you. From now on... 
-let's continue to do our 
-best.</Dialog>
+me all the time, but... 
+I want you to teach me 
+new worlds from now on.</Dialog>
+          <Dialog>Sure, I don't mind if 
+it's you.</Dialog>
+          <Dialog>Thank you. We should do 
+our best from now on, 
+together.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -561,36 +574,41 @@ best.</Dialog>
         <Dialogs>
           <Dialog>手塚</Dialog>
           <Dialog>And with this we end for 
-the day...</Dialog>
+today...</Dialog>
           <Dialog>男女部員</Dialog>
           <Dialog>Thank you for your hard 
 work!</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（It's ▲高嶺＊＊▲...）</Dialog>
-          <Dialog>（Don't you see me... What 
-am I doing...）</Dialog>
+          <Dialog>（Ah, it's ▲高嶺＊＊▲...）</Dialog>
+          <Dialog>（Can't she see me? What 
+should I do?）</Dialog>
           <Dialog>三好</Dialog>
-          <Dialog>Hey Takane, did you go to 
-the court alone?</Dialog>
-          <Dialog>!?</Dialog>
-          <Dialog>Umm, I was sure it was the 
+          <Dialog>Hey Takane, why did you 
+go to the tennis court 
+alone?</Dialog>
+          <Dialog>Huh!?</Dialog>
+          <Dialog>Huh, well. I'm sure I saw 
+something similar the 
 other day...</Dialog>
-          <Dialog>Yup. A friend of Takane.</Dialog>
+          <Dialog>Ah, I see. One of ▲高嶺＊＊▲'s friends.</Dialog>
           <Dialog>I see...</Dialog>
-          <Dialog>It may be unnecessary, but 
-were you crying in Dixies, 
+          <Dialog>I might be overstepping 
+it, but you were crying 
+at Dixies, don't you 
 Takane?</Dialog>
-          <Dialog>▲高嶺＊＊▲ did...</Dialog>
-          <Dialog>You're on the court, right? 
-Thank you!</Dialog>
+          <Dialog>So ▲高嶺＊＊▲ cried there...</Dialog>
+          <Dialog>She's at the tennis 
+courts, right? I get it, 
+thank you!</Dialog>
           <Dialog>▲高嶺＊＊▲!</Dialog>
           <Dialog>高嶺</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>▲高嶺＊＊▲...</Dialog>
           <Dialog>...</Dialog>
-          <Dialog>It is a dream...</Dialog>
-          <Dialog>（▲高嶺＊＊▲ remember when you 
-were confessed...）</Dialog>
+          <Dialog>Is this a dream...?</Dialog>
+          <Dialog>（I remember when you 
+confessed your feelings 
+for me ▲高嶺＊＊▲...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -775,41 +793,46 @@ were confessed...）</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>手塚</Dialog>
-          <Dialog>And with this we end for 
-today!</Dialog>
+          <Dialog>With this we end our 
+activities for today!</Dialog>
           <Dialog>男女部員</Dialog>
           <Dialog>Good work today!</Dialog>
           <Dialog>高嶺</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Wassup... Would you like to 
-go home together?</Dialog>
-          <Dialog>Yup.</Dialog>
+          <Dialog>Whassup... Would you like 
+to go home together?</Dialog>
+          <Dialog>Okay.</Dialog>
           <Dialog>Wait a minute... This turn 
-of events...</Dialog>
+of events reminds me...</Dialog>
           <Dialog>成戸</Dialog>
-          <Dialog>Hey, Menler come one, 
+          <Dialog>Hey, let's go to Menler! 
+Come on, let's go to 
 Menler!</Dialog>
-          <Dialog>I knew it... this is bad...</Dialog>
-          <Dialog>No good!</Dialog>
-          <Dialog>!?</Dialog>
+          <Dialog>I knew it... 
+This isn't going to end 
+well...</Dialog>
+          <Dialog>Now's no good!</Dialog>
+          <Dialog>Huh!?</Dialog>
           <Dialog>男子部員</Dialog>
-          <Dialog>Takane-chan... W-why...</Dialog>
-          <Dialog>I am sorry... But I want 
-just to be the two of us.</Dialog>
+          <Dialog>Takane-chan... W-why...?</Dialog>
+          <Dialog>I'm sorry... But I really 
+want it to be just the 
+two of us.</Dialog>
           <Dialog>▲高嶺＊＊▲...</Dialog>
           <Dialog>男子Ｂ</Dialog>
           <Dialog>Eh!? I knew it...</Dialog>
-          <Dialog>Ah,... Well, let's go over 
+          <Dialog>Er, well... Let's go over 
 there!</Dialog>
-          <Dialog>Really? It can't be, that's 
-Takane-chan!</Dialog>
+          <Dialog>Really? It can't be, 
+that's Takane-chan!</Dialog>
           <Dialog>What's going on, all of a 
 sudden...</Dialog>
           <Dialog>...</Dialog>
-          <Dialog>A dream...</Dialog>
-          <Dialog>（▲高嶺＊＊▲ remember when you 
-were confessed...）</Dialog>
+          <Dialog>It was just a dream...</Dialog>
+          <Dialog>（I remember when you 
+confessed your feeling 
+for me ▲高嶺＊＊▲...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -961,30 +984,35 @@ were confessed...）</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>...?</Dialog>
           <Dialog>三好</Dialog>
-          <Dialog>Ah, you're here!</Dialog>
-          <Dialog>W-what is it?</Dialog>
+          <Dialog>Ah, you were still here!</Dialog>
+          <Dialog>W-what is that?</Dialog>
           <Dialog>成戸</Dialog>
-          <Dialog>Yo, colorful man!</Dialog>
+          <Dialog>Yo, what's up, colorful 
+man!</Dialog>
           <Dialog>男子Ｂ</Dialog>
-          <Dialog>I don't know why this is...</Dialog>
-          <Dialog>So, what is it?</Dialog>
+          <Dialog>I don't know why you're 
+saying that...</Dialog>
+          <Dialog>So, what do yo need of 
+me?</Dialog>
           <Dialog>女子Ｂ</Dialog>
           <Dialog>Takane, pay attention, 
-hurry up!</Dialog>
+come here! hurry up!</Dialog>
           <Dialog>高嶺</Dialog>
           <Dialog>Y-yes...</Dialog>
           <Dialog>▲高嶺＊＊▲...</Dialog>
-          <Dialog>Wassup...</Dialog>
-          <Dialog>Wassup.</Dialog>
+          <Dialog>Whassup...</Dialog>
+          <Dialog>Whassup.</Dialog>
           <Dialog>Hey, why don't we go 
-together to the court?</Dialog>
-          <Dialog>Ah, it's fine...</Dialog>
-          <Dialog>Shall we go?</Dialog>
+together to the courts?</Dialog>
+          <Dialog>Ah, sure. It's fine...</Dialog>
+          <Dialog>Do you want to go there 
+together?</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>...</Dialog>
-          <Dialog>A dream...</Dialog>
-          <Dialog>（▲高嶺＊＊▲ remember when you 
-were confessed...）</Dialog>
+          <Dialog>Ah, it was a dream...</Dialog>
+          <Dialog>（I was remembering when 
+you confessed your 
+feelings for me ▲高嶺＊＊▲...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1134,27 +1162,32 @@ were confessed...）</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>部長</Dialog>
-          <Dialog>And with this we end for 
-today!</Dialog>
+          <Dialog>And with this we end 
+today's activities!</Dialog>
           <Dialog>男女部員</Dialog>
           <Dialog>Good work today!</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（It's ▲高嶺＊＊▲）</Dialog>
-          <Dialog>（Don't you see me... What 
-are you doing?）</Dialog>
+          <Dialog>（Ah, it's ▲高嶺＊＊▲）</Dialog>
+          <Dialog>（Can't you see me? 
+What are you doing?）</Dialog>
           <Dialog>三好</Dialog>
           <Dialog>Tanake, did you go to the 
-court alone?</Dialog>
-          <Dialog>!?</Dialog>
-          <Dialog>Um, I was sure it was the 
-other day...</Dialog>
-          <Dialog>Yes. A friend of Takane.</Dialog>
+tennis court alone?</Dialog>
+          <Dialog>Huh!?</Dialog>
+          <Dialog>Well, Umm... 
+I was sure something like 
+this happened the other 
+day...</Dialog>
+          <Dialog>Ah, yes. 
+It was one of Takane's 
+friend.</Dialog>
           <Dialog>I see...</Dialog>
-          <Dialog>Maybe it's unnecessary, but 
-were you crying in Dixies, 
-Takane?</Dialog>
-          <Dialog>▲高嶺＊＊▲ was...</Dialog>
-          <Dialog>You are on the court, 
+          <Dialog>Maybe I'm overdoing it, 
+but were you crying at 
+Dixies, Takane?</Dialog>
+          <Dialog>So ▲高嶺＊＊▲ was crying 
+that time...</Dialog>
+          <Dialog>She's at the tennis court, 
 right? Thank you!</Dialog>
           <Dialog>▲高嶺＊＊▲!</Dialog>
           <Dialog>高嶺</Dialog>
@@ -1163,10 +1196,12 @@ right? Thank you!</Dialog>
           <Dialog>Yes, up here. Don't do it, 
 you have a girlfriend.</Dialog>
           <Dialog>Huh!?</Dialog>
-          <Dialog>Uh... What a dream...</Dialog>
+          <Dialog>Uh... What a weird 
+dream...</Dialog>
           <Dialog>（I can't believe I'm 
-dreaming like this... I'm 
-sorry girlfriend）</Dialog>
+dreaming with something 
+like this... I'm sorry 
+girlfriend of me）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1253,21 +1288,28 @@ sorry girlfriend）</Dialog>
           <Dialog>高嶺</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hmm?</Dialog>
-          <Dialog>I've changed a little.</Dialog>
-          <Dialog>Emm... umm... I see?</Dialog>
-          <Dialog>I think so... But take a 
-closer look, okay? Not my 
-appearance, but inside me.</Dialog>
-          <Dialog>...Inside...</Dialog>
-          <Dialog>I'm thinking of being more 
-serious than before.</Dialog>
-          <Dialog>▲高嶺＊＊▲ is always serious... 
-But well, sure. But why?</Dialog>
-          <Dialog>That is... I thought you'd 
-rather do that.</Dialog>
-          <Dialog>（Serious, huh. After all, 
-it's ▲高嶺＊＊▲...）</Dialog>
+          <Dialog>Hmm? What's wrong?</Dialog>
+          <Dialog>I've feel like I've 
+changed a little.</Dialog>
+          <Dialog>Emm... Well, mmm... 
+I see...?</Dialog>
+          <Dialog>I really think so... 
+But take a closer look at 
+me, okay? Not my external 
+appearance, but inside of 
+me.</Dialog>
+          <Dialog>...Inside of you...</Dialog>
+          <Dialog>I'm thinking of being an 
+even more serious person.</Dialog>
+          <Dialog>You're always so serious, 
+▲高嶺＊＊▲... But well, sure. 
+But why?</Dialog>
+          <Dialog>I mean, I think that's 
+something you'll like to 
+do...</Dialog>
+          <Dialog>（Even more serious, huh. 
+I mean, it's ▲高嶺＊＊▲ 
+we're talking about...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1354,22 +1396,31 @@ it's ▲高嶺＊＊▲...）</Dialog>
           <Dialog>高嶺</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hmm?</Dialog>
-          <Dialog>You know, I... I'm a little 
-strange, don't you think?</Dialog>
-          <Dialog>Emm... Umm... Which side?</Dialog>
-          <Dialog>It's not my looks, it's 
-about... I'm talking about 
-what's inside.</Dialog>
-          <Dialog>What's inside... I know, 
-how mature are you?</Dialog>
-          <Dialog>Yes. I thought I'd try to 
-act calm for the time being.</Dialog>
-          <Dialog>Oh, so suddenly again.</Dialog>
-          <Dialog>Somehow. I wonder if you 
-should do that.</Dialog>
-          <Dialog>（A calmer ▲高嶺＊＊▲... I 
-think that would be good）</Dialog>
+          <Dialog>Hmm? What's wrong?</Dialog>
+          <Dialog>You know, I... I'm a 
+little strange, don't 
+you think?</Dialog>
+          <Dialog>Emm... But, mmm... 
+What do you mean? Your 
+looks or...?</Dialog>
+          <Dialog>It's not my looks, 
+it's about... I'm talking 
+about what's inside me.</Dialog>
+          <Dialog>What's inside you...? 
+I know, it's how mature 
+you are, right?</Dialog>
+          <Dialog>Yes, that's right. 
+I thought I'd try to act 
+a little calmer for the 
+time being.</Dialog>
+          <Dialog>Ah, one of you sudden 
+changes.</Dialog>
+          <Dialog>Somehow I was wondering 
+if I should try that.</Dialog>
+          <Dialog>（A calmer version of 
+▲高嶺＊＊▲... I think that 
+would be a good thing to 
+see）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1456,26 +1507,30 @@ think that would be good）</Dialog>
           <Dialog>高嶺</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hmm?</Dialog>
-          <Dialog>Hey, I've changed the 
-atmosphere somehow, haven't 
-I?</Dialog>
-          <Dialog>Emm... That's right... Is 
-that so?</Dialog>
-          <Dialog>... You don't understand. 
+          <Dialog>Hmm? What's wrong?</Dialog>
+          <Dialog>I've changed the 
+atmosphere between us, 
+do you feel anything 
+different?</Dialog>
+          <Dialog>Emm... Ah yes, that's 
+right, sure... Really?</Dialog>
+          <Dialog>...You don't get it. 
 Geez!</Dialog>
-          <Dialog>... Is the tension high 
-somehow?</Dialog>
-          <Dialog>Oh, Fufu. I thought I'd try 
-to behave more cheerfully 
-than before. Do you hate it?</Dialog>
-          <Dialog>I don't hate it. But, why?</Dialog>
+          <Dialog>...Aren't you getting too 
+excited right now?</Dialog>
+          <Dialog>Yes, fufu. I thought I'd 
+try to behave a little 
+more cheerfully. Do you 
+dislike it?</Dialog>
+          <Dialog>I don't hate it. 
+But, why did you do it?</Dialog>
           <Dialog>There's no particular 
-reason. It's just that I 
-wonder how you would react.</Dialog>
+reason. I was wondering 
+how you would react if 
+you saw me like that.</Dialog>
           <Dialog>（A more cheerful version 
-of ▲高嶺＊＊▲... I think it's 
-good.）</Dialog>
+of ▲高嶺＊＊▲... I like what 
+I see so far）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1535,20 +1590,26 @@ good.）</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hey,▲高嶺＊＊▲. ▲高嶺＊＊▲do you go 
-to downtown at night?</Dialog>
+          <Dialog>Hey, ▲高嶺＊＊▲, do you go 
+out at night? Did you try 
+going near downtown?</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>Huh? That's not natural. 
-Are you not a high school 
-student?</Dialog>
-          <Dialog>Well, that's right.</Dialog>
-          <Dialog>Why do you ask me that?</Dialog>
-          <Dialog>I saw my kouhai, so I was a 
+          <Dialog>Huh? That's not a good 
+thing to do. Don't you 
+remember you're still a 
+high school student?</Dialog>
+          <Dialog>Well, you're right about 
+that.</Dialog>
+          <Dialog>Why are you asking me 
+about that?</Dialog>
+          <Dialog>I saw my one of my kouhais 
+near there, so I was a 
 little worried.</Dialog>
-          <Dialog>That so. Isn't it 
+          <Dialog>I see. Isn't that 
 dangerous...</Dialog>
-          <Dialog>（It's dangerous after 
-all...▲小早川＊▲）</Dialog>
+          <Dialog>（Yeah, that's dangerous 
+indeed. I have to tell 
+▲小早川＊▲ about it）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1608,24 +1669,29 @@ all...▲小早川＊▲）</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>You know,▲高嶺＊＊▲. Do you 
-know what it means to come 
-to school in plain clothes 
-after school?</Dialog>
+          <Dialog>▲高嶺＊＊▲, did you know what 
+it means to come to school 
+in plain clothes?</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>Eh, isn't it a violation of 
-school rules?</Dialog>
-          <Dialog>Of course that's the case, 
+          <Dialog>Huh, isn't that a 
+violation of the school 
+rules?</Dialog>
+          <Dialog>Of course that'll be it, 
 but there are some 
-circumstances...</Dialog>
-          <Dialog>Circumstances... Well. Did 
-that happen to you? To one 
-of your friends?</Dialog>
-          <Dialog>Well, that's how it is.</Dialog>
-          <Dialog>Something happened at 
-home... I think it's better 
-to talk to me.</Dialog>
-          <Dialog>（That's right...▲小早川＊▲...）</Dialog>
+external circumstances...</Dialog>
+          <Dialog>Circumstances...? 
+Well, did that happen to 
+you? To one of your 
+friends?</Dialog>
+          <Dialog>Well, I was just wandering 
+about it.</Dialog>
+          <Dialog>Something happened at your 
+home...? I think it's 
+better to talk to me if 
+you need something.</Dialog>
+          <Dialog>（Yeah, it's against 
+rules... I have to tell 
+▲小早川＊▲...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1685,21 +1751,29 @@ to talk to me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hey,▲高嶺＊＊▲. ▲高嶺＊＊▲ is there 
-any convenience store open 
-at midnight...</Dialog>
+          <Dialog>Hey, ▲高嶺＊＊▲, do you know 
+of any convenience store 
+open at midnight...?</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>Do not go.</Dialog>
-          <Dialog>That's right. Um...</Dialog>
-          <Dialog>What happened?</Dialog>
-          <Dialog>It seems that many kouhais 
-were seen at that hour, so 
-I'm worried...</Dialog>
-          <Dialog>It's dangerous, after all. 
-maybe there's a reason, 
-but... I don't think it's 
-good.</Dialog>
-          <Dialog>（That's right...▲小早川＊▲...）</Dialog>
+          <Dialog>Don't go near any of 
+those stores, at that 
+time...</Dialog>
+          <Dialog>Well, I know that but... 
+Um...</Dialog>
+          <Dialog>Did something happened?</Dialog>
+          <Dialog>It seems that many of my 
+kouhais were seen at that 
+hour, so I'm a little 
+worried...</Dialog>
+          <Dialog>Well, it's dangerous to 
+do that. Maybe there's a 
+reason for it, but... 
+I don't think it's a good 
+idea.</Dialog>
+          <Dialog>（Yeah, you don't have to 
+go out that late... I have 
+to tell ▲小早川＊▲ about 
+it...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1759,22 +1833,26 @@ good.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hey,▲高嶺＊＊▲. What would you 
-do if your senior from your 
-part-time job invited you 
-to eat?</Dialog>
+          <Dialog>Hey, ▲高嶺＊＊▲, what would 
+you do if your senpai 
+from your part-time job 
+invited you to eat?</Dialog>
           <Dialog>高嶺</Dialog>
           <Dialog>Well, I don't know about 
-part-time jobs, but... I 
-think it's a good thing.</Dialog>
-          <Dialog>Is that so?</Dialog>
-          <Dialog>Maybe my senior wants to 
-get along with me.</Dialog>
+part-time jobs, but... 
+I think it’ll be a good 
+idea to do it.</Dialog>
+          <Dialog>Really? Why do you think 
+that?</Dialog>
+          <Dialog>Because, maybe my senpai 
+wants to get along with 
+me.</Dialog>
           <Dialog>I see, I understand.</Dialog>
-          <Dialog>If your work together, 
-trust is important.</Dialog>
-          <Dialog>（▲姉ヶ崎＊▲... I wonder if they 
-trust me a little）</Dialog>
+          <Dialog>If your work together with 
+someone, trust is 
+important.</Dialog>
+          <Dialog>（I wonder if ▲姉ヶ崎＊▲ 
+trusts me at all）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1834,22 +1912,26 @@ trust me a little）</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hey,▲高嶺＊＊▲.</Dialog>
+          <Dialog>Hey, ▲高嶺＊＊▲.</Dialog>
           <Dialog>高嶺</Dialog>
-          <Dialog>What?</Dialog>
-          <Dialog>I was asked to come up with 
-an idea for a new menu in 
-the part-time job.</Dialog>
-          <Dialog>Eh, that's amazing. Part-
-time jobs do that, too...</Dialog>
+          <Dialog>What's wrong?</Dialog>
+          <Dialog>I was asked by the manager 
+of my part-time job to 
+come up with an idea for 
+a new menu.</Dialog>
+          <Dialog>Oh, I see, that's amazing. 
+Part-time jobs do that, 
+too...</Dialog>
           <Dialog>I knew you would you think 
-that. I don't think that's 
-usually the case.</Dialog>
-          <Dialog>It means that the store 
-trust you that much. It's 
+that. But I don't think 
+that's usually the case.</Dialog>
+          <Dialog>It only means that the 
+store trust you that 
+much. It's an thing 
 amazing after all.</Dialog>
-          <Dialog>（▲姉ヶ崎＊▲ I don't think if 
-I'll leave it to you...）</Dialog>
+          <Dialog>（Then I can't possibly 
+consider leaving this 
+to ▲姉ヶ崎＊▲...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1912,17 +1994,19 @@ I'll leave it to you...）</Dialog>
           <Dialog>Hey, ▲高嶺＊＊▲.</Dialog>
           <Dialog>高嶺</Dialog>
           <Dialog>What's wrong?</Dialog>
-          <Dialog>If you promise to go out 
-with me, you'll have to do 
-it.</Dialog>
-          <Dialog>Of course. You have to keep 
-your promises.</Dialog>
-          <Dialog>That's right.</Dialog>
-          <Dialog>I think it's irresponsible 
-to break an appointment.</Dialog>
-          <Dialog>（Well, that's right... What 
-should I do with my promise 
-with▲姉ヶ崎＊▲）</Dialog>
+          <Dialog>If you promise someone to 
+go out, you have to keep 
+your promises, right?</Dialog>
+          <Dialog>Of course. You have to 
+keep your promises.</Dialog>
+          <Dialog>I see, you're right.</Dialog>
+          <Dialog>And I really think it's 
+irresponsible to break 
+an appointment.</Dialog>
+          <Dialog>（Well, she's right about 
+that... What should I do 
+with my promise with 
+▲姉ヶ崎＊▲?）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2135,41 +2219,46 @@ with▲姉ヶ崎＊▲）</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲高嶺＊＊▲...</Dialog>
-          <Dialog>... What's the matter with 
-you?</Dialog>
+          <Dialog>...What's the matter?</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>Uh... I'm in the way.</Dialog>
-          <Dialog>I'm sorry, that's not it... 
-You know.</Dialog>
-          <Dialog>?</Dialog>
-          <Dialog>▲高嶺＊＊▲ you are my girlfriend.</Dialog>
+          <Dialog>Uh... Was I on your way?</Dialog>
+          <Dialog>I'm sorry, that's not 
+it. You know, I've been 
+doing some thinking.</Dialog>
+          <Dialog>Huh?</Dialog>
+          <Dialog>▲高嶺＊＊▲, you are my 
+girlfriend...</Dialog>
           <Dialog>...▲高嶺＊＊▲?</Dialog>
-          <Dialog>Of course... That's right...</Dialog>
-          <Dialog>Why do you ask me that?</Dialog>
-          <Dialog>I remembered a lot of 
-things, from a long time 
-ago.</Dialog>
-          <Dialog>What happened before?</Dialog>
-          <Dialog>Oh, when we met, there were 
-a lot of things and we 
-started dating.</Dialog>
-          <Dialog>I see... I thought it was 
-just me...</Dialog>
+          <Dialog>Oh, of course... 
+That's exactly right...</Dialog>
+          <Dialog>Why are you asking me 
+that?</Dialog>
+          <Dialog>I was remembering a lot 
+of things, from a long 
+time ago.</Dialog>
+          <Dialog>From what happened before?</Dialog>
+          <Dialog>Oh, you know, when we 
+met, and after that a 
+lot of things happened. 
+Then we started dating.</Dialog>
+          <Dialog>I see... 
+I thought it was just 
+happened to me...</Dialog>
           <Dialog>I wondered if you hated 
-me...</Dialog>
+me at the time...</Dialog>
           <Dialog>That's not true!</Dialog>
           <Dialog>But...</Dialog>
-          <Dialog>I remebered that and I 
-thought that, after all, I 
-really liked▲高嶺＊＊▲.</Dialog>
+          <Dialog>I was remembering that 
+and I thought that I 
+really liked ▲高嶺＊＊▲.</Dialog>
           <Dialog>Ah...</Dialog>
-          <Dialog>▲高嶺＊＊▲ I'm really glad I 
-can go out with you.</Dialog>
+          <Dialog>▲高嶺＊＊▲, I'm really glad 
+I can go out with you.</Dialog>
           <Dialog>Thank you...</Dialog>
           <Dialog>So do I. I'm glad to be 
 your girlfriend.</Dialog>
-          <Dialog>（▲高嶺＊＊▲ I'm glad I got you 
-as my girlfriend...）</Dialog>
+          <Dialog>（▲高嶺＊＊▲, you don't know 
+how happy you make me...）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

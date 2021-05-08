@@ -17,7 +17,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>People is looking...</Dialog>
+          <Dialog>People is looking at 
+us...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -37,7 +38,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>People is looking...</Dialog>
+          <Dialog>People is looking at 
+us...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -57,7 +59,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>People is looking...</Dialog>
+          <Dialog>People is looking at 
+us...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -83,8 +86,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（よし、やさしくスキンシップしよう）</Dialog>
-          <Dialog>（よし、ちょっといたずらしてみよう）</Dialog>
+          <Dialog>（Alright, I'll gently do 
+skinship）</Dialog>
+          <Dialog>（Alright, let's play a 
+prank）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -104,8 +109,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（よし、やさしくスキンシップしよう）</Dialog>
-          <Dialog>（よし、ちょっといたずらしてみよう）</Dialog>
+          <Dialog>（Alright, I'll gently do 
+skinship）</Dialog>
+          <Dialog>（Alright, let's play a 
+prank）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -125,8 +132,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（よし、やさしくスキンシップしよう）</Dialog>
-          <Dialog>（よし、ちょっといたずらしてみよう）</Dialog>
+          <Dialog>（Alright, I'll gently do 
+skinship）</Dialog>
+          <Dialog>（Alright, let's play a 
+prank）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1607,7 +1616,7 @@ different.</Dialog>
           <Dialog>Skinship at any time</Dialog>
           <Dialog>Face-to-face （date,normal）</Dialog>
           <Dialog>Sitting （face-to-face）</Dialog>
-          <Dialog>Side by side （moving around）</Dialog>
+          <Dialog>Side by side （moving）</Dialog>
           <Dialog>Side by side （sitting）</Dialog>
           <Dialog>One more time</Dialog>
           <Dialog>Stop</Dialog>

@@ -40,7 +40,8 @@
           <Dialog>Family</Dialog>
           <Dialog>Others</Dialog>
           <Dialog>Select from list</Dialog>
-          <Dialog>【DEBUG】Registered face of BF</Dialog>
+          <Dialog>【DEBUG】Registered face of 
+boyfriend</Dialog>
           <Dialog>▲紹介友達名▲</Dialog>
         </Dialogs>
       </SDL2>
@@ -215,7 +216,8 @@
           <Dialog>Family</Dialog>
           <Dialog>Other</Dialog>
           <Dialog>Select from list</Dialog>
-          <Dialog>【DEBUG】Registered face of BF</Dialog>
+          <Dialog>【DEBUG】Registered face of 
+boyfriend</Dialog>
           <Dialog>▲紹介友達名▲</Dialog>
           <Dialog>Celebrity</Dialog>
           <Dialog>Father</Dialog>
@@ -296,14 +298,15 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>How long have you been 
-dating?</Dialog>
-          <Dialog>What's your BF favorite 
-place?</Dialog>
+          <Dialog>For how long have you 
+been dating?</Dialog>
+          <Dialog>What's your boyfriend's 
+favorite place?</Dialog>
           <Dialog>What has made you happy?</Dialog>
           <Dialog>What worries you?</Dialog>
           <Dialog>What are your hobbies?</Dialog>
-          <Dialog>What is your favorite dish?</Dialog>
+          <Dialog>What is your favorite 
+dish?</Dialog>
           <Dialog>How old are you?</Dialog>
         </Dialogs>
       </SDL2>
