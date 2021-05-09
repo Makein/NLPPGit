@@ -99,24 +99,27 @@
           <Dialog>高嶺</Dialog>
           <Dialog>Hey, are you thirsty?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Yeah, a little.</Dialog>
-          <Dialog>Well then, I think I'll buy 
-it. Can you wait for me?</Dialog>
-          <Dialog>Ah, of course!</Dialog>
+          <Dialog>Yeah, I'm feeling a little 
+parched.</Dialog>
+          <Dialog>Okay, then I'll go buy 
+something to drink. 
+Can you wait me a little?</Dialog>
+          <Dialog>Sure, of course!</Dialog>
           <Dialog>Wait! I'll do it!</Dialog>
-          <Dialog>Yes. Wait there like a good 
-boy, I'm kidding.</Dialog>
-          <Dialog>I'm sorry to have kept you 
-waiting. You know, it was 
-alright?</Dialog>
-          <Dialog>Okay, thank you.</Dialog>
-          <Dialog>Trully?</Dialog>
+          <Dialog>That's the spirit. 
+Wait for me like a good 
+boy. I'm kidding.</Dialog>
+          <Dialog>I'm sorry to keep you 
+waiting. Here, do you like 
+this one?</Dialog>
+          <Dialog>Yeah, thank you.</Dialog>
+          <Dialog>Really?</Dialog>
           <Dialog>Of course. I'll be back 
-soon, so wait.</Dialog>
-          <Dialog>Sorry to keep you waiting, 
-were you glad?</Dialog>
-          <Dialog>Welcome back. You don't 
-have to hurry so much, but 
+soon, so wait for me.</Dialog>
+          <Dialog>Sorry to keep you waiting. 
+Did I took too long?</Dialog>
+          <Dialog>Welcome back. You didn't 
+have to hurry back, but 
 thank you.</Dialog>
         </Dialogs>
       </SDL2>
@@ -212,26 +215,31 @@ thank you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>Hey, why don't we take a 
-break on that bench?</Dialog>
+          <Dialog>Why don't we take a break 
+on that bench?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Okay, let's go.</Dialog>
-          <Dialog>Whew.</Dialog>
-          <Dialog>I'm a little tired, so I'll 
-take it easy.</Dialog>
-          <Dialog>Let's move after we rest a 
-little.</Dialog>
+          <Dialog>Sure, sounds good.</Dialog>
+          <Dialog>Whew. I was getting 
+tired.</Dialog>
+          <Dialog>I was getting a little 
+tired, so I'll take it 
+easy for a while.</Dialog>
+          <Dialog>After we rest a little, 
+we should continue our 
+way.</Dialog>
           <Dialog>I don't mind staying here 
 like this today...</Dialog>
           <Dialog>Forever?</Dialog>
           <Dialog>If it's you and me, 
-everywhere, forever... I'm 
-kidding.</Dialog>
-          <Dialog>Yes. Hey, where do you want 
+anywhere, everywhere, 
+forever... I'm kidding.</Dialog>
+          <Dialog>Of course. 
+Hey, where do you want 
 to go next?</Dialog>
-          <Dialog>▲高嶺＊＊▲, where you wanna go!</Dialog>
-          <Dialog>Then, I want to go to you▼　
-I'm kidding.</Dialog>
+          <Dialog>▲高嶺＊＊▲, I'll go anywhere 
+you want to go!</Dialog>
+          <Dialog>Then, I want to go to 
+your heart▼　I'm kidding.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -311,23 +319,27 @@ I'm kidding.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>It's a bit hot today. Maybe 
-I should take off my 
-jacket...</Dialog>
-          <Dialog>Yes, isn't it good?</Dialog>
-          <Dialog>Hmm. Would you like to get 
-a sunburn?</Dialog>
-          <Dialog>Is that so? Well then, I'm 
-sorry?</Dialog>
-          <Dialog>Whew, Hmm, it's so cool.</Dialog>
+          <Dialog>It's a bit hot today. 
+Maybe I should take off 
+my jacket...</Dialog>
+          <Dialog>Sure, won't that make you 
+feel a little refreshed?</Dialog>
+          <Dialog>I'm not sure, do you want 
+to get a sunburn?</Dialog>
+          <Dialog>Really? I'm so sorry, 
+I didn't know.</Dialog>
+          <Dialog>Whew. Hmm, now it's so 
+cool.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Haha, it looks so 
+          <Dialog>Haha, you look so 
 comfortable.</Dialog>
-          <Dialog>Ah... yes. The sun is 
-strong, isn't it?</Dialog>
-          <Dialog>Yup. All right. I'll fan 
-you with my hands!</Dialog>
-          <Dialog>Fufu! Then, please▼</Dialog>
+          <Dialog>Ah... Sure, the sun is a 
+little strong today, 
+isn't it?</Dialog>
+          <Dialog>Okay, I'll fan you with 
+my hands!</Dialog>
+          <Dialog>Fufu! 
+Okay, please▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -393,17 +405,18 @@ you with my hands!</Dialog>
         <Dialogs>
           <Dialog>高嶺</Dialog>
           <Dialog>It's a bit cold today...</Dialog>
-          <Dialog>▲高嶺＊＊▲, over here.</Dialog>
+          <Dialog>Come closer ▲高嶺＊＊▲</Dialog>
           <Dialog>Should we move to another 
 place?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I'm also cold, let's warm 
-up▼</Dialog>
-          <Dialog>...Okay. I understand.</Dialog>
-          <Dialog>Do you want to go elsewhere?</Dialog>
-          <Dialog>Hmm... But it's okay, it's 
-not cold if I stick with 
-you.</Dialog>
+          <Dialog>I'm feeling a bit cold 
+too, let's warm up▼</Dialog>
+          <Dialog>...Oh, okay. 
+I understand.</Dialog>
+          <Dialog>Do you want to go 
+elsewhere?</Dialog>
+          <Dialog>Hmm... I think it's okay 
+if I stick with you.</Dialog>
           <Dialog>I see...</Dialog>
         </Dialogs>
       </SDL2>
@@ -494,26 +507,30 @@ you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>Hey. Don't you smell 
-something good from that 
+          <Dialog>Don't you smell something 
+good coming from that 
 shop?</Dialog>
-          <Dialog>Why don't you buy it if 
-you're curious?</Dialog>
-          <Dialog>All right, then I'll buy it!</Dialog>
-          <Dialog>Well then, let's go.</Dialog>
+          <Dialog>Why don't we go buy 
+something if you're that 
+curious?</Dialog>
+          <Dialog>Okay, check it out!</Dialog>
+          <Dialog>We should go together</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Welcome back. What was that?</Dialog>
-          <Dialog>...I have your share here, 
+          <Dialog>Welcome back. 
+Was it delicious?</Dialog>
+          <Dialog>...I bought your share, 
 too. Take it.</Dialog>
           <Dialog>Oh, thank you!</Dialog>
-          <Dialog>I'm going to see. Wait a 
+          <Dialog>I'm curious, so I'll 
+take a look. Wait a 
 minute.</Dialog>
-          <Dialog>Then why don't we go 
-together?</Dialog>
-          <Dialog>Ah, it was pretty good!</Dialog>
-          <Dialog>It does seem to be the shop 
-that always comes around. 
-We're lucky right?</Dialog>
+          <Dialog>In that case, why don't 
+we go together?</Dialog>
+          <Dialog>Ah, it was delicious!</Dialog>
+          <Dialog>That shop seems to be 
+moving around a lot, 
+so we got lucky to come 
+across it, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -613,26 +630,32 @@ We're lucky right?</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>Oh, a kitten. I wonder if I 
-can pet it...</Dialog>
-          <Dialog>It does seem impossible, 
-why not me?</Dialog>
-          <Dialog>It's an atmosphere that 
-seems possible, but...</Dialog>
-          <Dialog>Emm, do you want me to pat 
-your head?</Dialog>
+          <Dialog>Ah, a kitten. 
+I wonder if it'll let me 
+pet it...</Dialog>
+          <Dialog>Looks a little difficult, 
+why not me instead?</Dialog>
+          <Dialog>It seems like you can, 
+but...</Dialog>
+          <Dialog>Huh, do you want me to 
+pat your head?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Yes yes. Here!</Dialog>
-          <Dialog>...Eh!</Dialog>
-          <Dialog>Ah, hey, you've stroked too 
-much!</Dialog>
-          <Dialog>Fufu! No running away now♪</Dialog>
-          <Dialog>I wonder?</Dialog>
-          <Dialog>Yes. Let's go. Don't scare 
-it, let's go in quiet okay?</Dialog>
-          <Dialog>It was cute right? But, you 
-were cute too...</Dialog>
-          <Dialog>Haha, I wonder why?</Dialog>
+          <Dialog>Yes, just like that!</Dialog>
+          <Dialog>...Huh!</Dialog>
+          <Dialog>Ah, hey you've patted me 
+too much!</Dialog>
+          <Dialog>Fufu! No running away 
+now♪</Dialog>
+          <Dialog>I don't know about it, 
+maybe?</Dialog>
+          <Dialog>Yeah, we should try. 
+Don't scare it, let's go 
+in quiet okay?</Dialog>
+          <Dialog>It was cute right? 
+But, I think you're a lot 
+cuter...</Dialog>
+          <Dialog>Haha, I wonder about 
+that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -722,25 +745,29 @@ were cute too...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>The sun is strong... it 
-seems to burn.</Dialog>
-          <Dialog>To make your skin look 
-beautiful, apply sun oil!</Dialog>
-          <Dialog>It's fine to keep it as it 
-is now!</Dialog>
-          <Dialog>Whew, is it okay for me to 
-get a sunburn?</Dialog>
+          <Dialog>The sun is strong so 
+strong today... It almost 
+feels like its burning 
+my skin.</Dialog>
+          <Dialog>You have to apply some 
+sun oil to make your skin 
+prettier!</Dialog>
+          <Dialog>It's fine to leave as it 
+is!</Dialog>
+          <Dialog>Huh, is it okay to get 
+a sunburn?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Yes, well.</Dialog>
-          <Dialog>Well then, I think I'll do 
+          <Dialog>Okay then.</Dialog>
+          <Dialog>Alright, I think I'll do 
 it. Buy you have to apply 
 it yourself.</Dialog>
-          <Dialog>（Boo...）</Dialog>
-          <Dialog>...Then I shouldn't burn?</Dialog>
-          <Dialog>Yes, of course.</Dialog>
-          <Dialog>Well then, do it. But 
-you're going to apply it 
-yourself, righ?</Dialog>
+          <Dialog>（Tsk...）</Dialog>
+          <Dialog>...Then do you think I 
+should get a tan?</Dialog>
+          <Dialog>Well yes, I think.</Dialog>
+          <Dialog>Alright, I'll do it. 
+But you're going to apply 
+it yourself, okay?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -820,21 +847,25 @@ yourself, righ?</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>It's a beautiful scenery... 
-Hey, take a picture.</Dialog>
-          <Dialog>I want ▲高嶺＊＊▲ to appear 
-alongside the scenery.</Dialog>
-          <Dialog>Yes, let's take the picture 
-of us together.</Dialog>
-          <Dialog>...I don't need such 
-compliments.</Dialog>
+          <Dialog>Today we have such a 
+beautiful scenery here... 
+Hey, want to take a photo?</Dialog>
+          <Dialog>I want you to be in the 
+photo with this view, 
+▲高嶺＊＊▲.</Dialog>
+          <Dialog>Okay, let's take our photo 
+together</Dialog>
+          <Dialog>...I just need you on the 
+photo</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Yes, pose!</Dialog>
-          <Dialog>...Oh you.</Dialog>
-          <Dialog>Oh, that might be good. 
-Please ask someone.</Dialog>
-          <Dialog>All right, it's decided. 
-How about there?</Dialog>
+          <Dialog>Okay, strike a pose!</Dialog>
+          <Dialog>...Oh, dear.</Dialog>
+          <Dialog>Oh, that sounds also 
+good. Ask someone to take 
+it for us, please.</Dialog>
+          <Dialog>Okay, now that that's 
+decided, how about taking 
+it there?</Dialog>
           <Dialog>Yes▼　Shall we go?</Dialog>
         </Dialogs>
       </SDL2>
@@ -905,19 +936,25 @@ How about there?</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>There are a lot of people. 
-Is it popular?</Dialog>
-          <Dialog>Maybe it's a little noisy, 
+          <Dialog>There are a lot of people 
+over there. Is that a 
+popular spot?</Dialog>
+          <Dialog>I think so, but that 
+makes it somewhat noisy, 
 isn't it?</Dialog>
-          <Dialog>It's a lively and nive 
-feeling!</Dialog>
-          <Dialog>Well, just a little bit.</Dialog>
-          <Dialog>But it's fun to be with 
-you. It's strange, isn't it?</Dialog>
-          <Dialog>There are many couples who 
-look happy, and one of them 
-is us.</Dialog>
-          <Dialog>Fufu! Are you happy?</Dialog>
+          <Dialog>I think it's lively and 
+that makes it feel nice!</Dialog>
+          <Dialog>Well, yeah. Just a little 
+bit.</Dialog>
+          <Dialog>But it's so fun being 
+with you. It's strange 
+how that can be, isn't it?</Dialog>
+          <Dialog>There are many couples 
+around here, happily 
+looking at the sights. And 
+we are one of those 
+couples.</Dialog>
+          <Dialog>Fufu! Are you happy too?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -997,23 +1034,28 @@ is us.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>There aren't many people... 
-Isn't it popular?</Dialog>
-          <Dialog>Even so, it's too quiet?</Dialog>
-          <Dialog>Don't you think it's okay 
-to have a calm atmosphere?</Dialog>
-          <Dialog>But it may be a little fun 
-to enjoy the private 
-feeling.</Dialog>
+          <Dialog>There aren't that many 
+people around here... 
+Isn't this a popular 
+date spot?</Dialog>
+          <Dialog>I think so, but isn't it 
+a bit too quiet?</Dialog>
+          <Dialog>Don't you feel better with 
+this kind of atmosphere?</Dialog>
+          <Dialog>It may be better to enjoy 
+the private feeling we 
+have here</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I see. Well then, let's 
-have fun.</Dialog>
-          <Dialog>Fufu, I did it!</Dialog>
-          <Dialog>Is it easy to be alone...?</Dialog>
-          <Dialog>Well, that's what you say, 
-too?</Dialog>
-          <Dialog>Fufu, oh you. But I think 
-so too... I'm kidding.</Dialog>
+          <Dialog>I see. Well you're right, 
+we should have fun.</Dialog>
+          <Dialog>Fufu, yay!</Dialog>
+          <Dialog>Is it easier to be alone 
+here...?</Dialog>
+          <Dialog>Well, isn't that something 
+we seek too?</Dialog>
+          <Dialog>Fufu, oh you. 
+But I think so too... 
+I'm kidding.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1073,16 +1115,19 @@ so too... I'm kidding.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>The rain won't stop...</Dialog>
-          <Dialog>It may be too much... it's 
-a shame.</Dialog>
-          <Dialog>Do you think it will be 
-okay if it rains like this?</Dialog>
+          <Dialog>This rain won't stop...</Dialog>
+          <Dialog>You're right, this is too 
+much rain... 
+What a shame.</Dialog>
+          <Dialog>Do you think it's okay 
+if it's rains like this?</Dialog>
           <Dialog>Yup...</Dialog>
-          <Dialog>...But it doesn't matter 
-what the weather is when 
-I'm with you, right?</Dialog>
-          <Dialog>...Yeah, rain may be nice.</Dialog>
+          <Dialog>...It doesn't matter what 
+kind of weather we're 
+in, if I'm with you, 
+right?</Dialog>
+          <Dialog>...Yeah, you're right, 
+rain may be nice.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1142,17 +1187,18 @@ I'm with you, right?</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>Hey. Can I go to your house 
-on my way home today?</Dialog>
+          <Dialog>Can I go to your house on 
+our way back home today?</Dialog>
           <Dialog>Of course!</Dialog>
           <Dialog>...Sorry! Maybe next time!</Dialog>
-          <Dialog>I did it▼　I was nervous 
-about what to do if you 
-said no.</Dialog>
+          <Dialog>Yay▼　I was somewhat 
+nervous about what I'll 
+do if you said no.</Dialog>
           <Dialog>...Why?</Dialog>
-          <Dialog>...I was kidding. I'm sorry 
-to bother you. Next time, 
-tell me it's ok, please?</Dialog>
+          <Dialog>...I was kidding. 
+I'm sorry to bother you. 
+Next time, tell me it's 
+okay, please?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1307,38 +1353,43 @@ tell me it's ok, please?</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>Hey, are there people who 
-are fortune telling? Can 
-you see compatibilities?</Dialog>
-          <Dialog>Even if you don't see it, 
-you can see the results.</Dialog>
-          <Dialog>Sounds good, let's go</Dialog>
-          <Dialog>...Is that so？　Fufu♪</Dialog>
-          <Dialog>...Is it exciting?</Dialog>
+          <Dialog>Do you know there are 
+people who can do fortune 
+telling? Want to see our 
+compatibility?</Dialog>
+          <Dialog>Even if you can't see it 
+right away, you can know 
+what the future holds.</Dialog>
+          <Dialog>Oh, that sounds 
+interesting. Let's go.</Dialog>
+          <Dialog>...Really?　Fufu♪</Dialog>
+          <Dialog>...Is it that exciting?</Dialog>
           <Dialog>占い師</Dialog>
-          <Dialog>The compatibility for you 
-two is the best, and a 
-bright future is certain!</Dialog>
-          <Dialog>A bright future is certain! 
-How?</Dialog>
+          <Dialog>Your compatibility is the 
+best, and a bright future 
+is ahead of you!</Dialog>
+          <Dialog>You hear it, a bright 
+future! How did they know?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>That person must be a 
-well-known future teller.</Dialog>
-          <Dialog>Fufu. The future, eh...▼</Dialog>
-          <Dialog>The two of you are a good 
-match, and it will surely 
-go well.</Dialog>
+well-versed future 
+teller.</Dialog>
+          <Dialog>Fufu. The future, huh...▼</Dialog>
+          <Dialog>You two are a good match, 
+and your future will go 
+unhindered.</Dialog>
           <Dialog>Is it going to go well?</Dialog>
-          <Dialog>Even if you don't tell me! 
-That's what it's like, 
-isn't it?</Dialog>
+          <Dialog>That'll be true even if 
+you didn't predict it! 
+That's how we are, isn't 
+it?</Dialog>
           <Dialog>Yup▼</Dialog>
-          <Dialog>Your compatibility is.... 
+          <Dialog>Your compatibility is... 
 gohogoho!</Dialog>
-          <Dialog>Well, you didn't 
-understand, did you?</Dialog>
-          <Dialog>No matter what happens! I'm 
-confident that I can get 
+          <Dialog>Well, I certainly didn't 
+get that, did you?</Dialog>
+          <Dialog>No matter what happens, 
+I'm confident we can get 
 over it!</Dialog>
           <Dialog>Me too▼　I'm kidding.</Dialog>
         </Dialogs>
@@ -1415,21 +1466,27 @@ over it!</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>Look, over there. Cute 
-flowers are blooming.</Dialog>
-          <Dialog>It's true. It's beautiful</Dialog>
-          <Dialog>▲高嶺＊＊▲ your loosing cuteness</Dialog>
-          <Dialog>I'm sure I wouldn't notice 
-if I was alone.</Dialog>
+          <Dialog>Look, over there. 
+Some cute flowers are 
+in full bloom.</Dialog>
+          <Dialog>Oh, it's true. 
+They are beautiful</Dialog>
+          <Dialog>But you are a lot cuter, 
+▲高嶺＊＊▲</Dialog>
+          <Dialog>I'm sure I wouldn't 
+notice if I was alone</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>That's right. Me too.</Dialog>
-          <Dialog>From now on, let's notice a 
-lot of things like this, 
-shall we? Just the two of 
-us.</Dialog>
+          <Dialog>You're right, I would 
+find it difficult too.</Dialog>
+          <Dialog>We should pay attention 
+to thing like this from 
+now on, shouldn't we? 
+Just the two of us.</Dialog>
           <Dialog>Oh you. Don't say such 
-things with a serious face.</Dialog>
-          <Dialog>...But I'm happy. Thank you.</Dialog>
+things with a serious 
+face.</Dialog>
+          <Dialog>...But that makes me 
+happy. Thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1504,22 +1561,28 @@ things with a serious face.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>Ah. There's someone from my 
-class over there...</Dialog>
-          <Dialog>...You want to hide?</Dialog>
-          <Dialog>The person next to you, you 
-boyfriend?</Dialog>
-          <Dialog>It's okay. As it is, I want 
-to brag about my date with 
-you.</Dialog>
-          <Dialog>...I'm kidding, why not? 
+          <Dialog>Ah! There's someone from 
+my class over there...</Dialog>
+          <Dialog>...Do you want to hide 
+from them?</Dialog>
+          <Dialog>Don't you want them to 
+ask who the person beside 
+you is?</Dialog>
+          <Dialog>No, it's okay. 
+I want to brag about my 
+date with you.</Dialog>
+          <Dialog>...I'm kidding though. 
+Why do you think I'll do 
+something like that? 
 Fufu.</Dialog>
-          <Dialog>Hmm... what about it?</Dialog>
+          <Dialog>Hmm...? 
+What's with that?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I see. It means no one can 
-match the perfect lovers!</Dialog>
+          <Dialog>I see. That only means no 
+one can match the perfect 
+lovers!</Dialog>
           <Dialog>Oh you, don't say such 
-things... Even if it's 
+things... Even if they're 
 true. I'm kidding▼</Dialog>
         </Dialogs>
       </SDL2>
@@ -1590,19 +1653,21 @@ true. I'm kidding▼</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>Hey. What would you do if I 
-say I wouldn't go home 
+          <Dialog>Hey... What would you do 
+if I suddenly said I 
+don't want to go home 
 today?</Dialog>
-          <Dialog>I won't go back! What would 
-you do if I say that?</Dialog>
-          <Dialog>You're worried I won't 
-return?</Dialog>
-          <Dialog>!!</Dialog>
+          <Dialog>What would I do if you'd 
+say that?</Dialog>
+          <Dialog>You're worried I won't go 
+back?</Dialog>
+          <Dialog>What!!</Dialog>
           <Dialog>...I thought my heart was 
 going to pop out.</Dialog>
-          <Dialog>Yes, that's right?... But, 
-someday...</Dialog>
-          <Dialog>I want to grow up soon...</Dialog>
+          <Dialog>Yes, isn't that right?... 
+But, someday...</Dialog>
+          <Dialog>I really wanna grow up 
+soon...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1657,16 +1722,19 @@ someday...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>You know, I was hungry a 
-while ago...</Dialog>
-          <Dialog>▲高嶺＊＊▲ let's go eat!</Dialog>
-          <Dialog>It's just my imagination!</Dialog>
-          <Dialog>Me? Well, I'm training, so 
-I wonder if it's delicious?</Dialog>
-          <Dialog>Oh you, I'm not strong 
-anymore.</Dialog>
+          <Dialog>I was getting a little 
+hungry a while ago...</Dialog>
+          <Dialog>Okay, let's go eat ▲高嶺＊＊▲!</Dialog>
+          <Dialog>Maybe it's just your 
+imagination!</Dialog>
+          <Dialog>Me? Well, I'm currently 
+doing some training. 
+Do you know some delicious 
+food nearby?</Dialog>
+          <Dialog>Oh you, I don't think 
+that's really the case.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Haha, it's okay.</Dialog>
+          <Dialog>Haha, it's okay then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1736,20 +1804,25 @@ anymore.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>Hey. Your room, is as usual?</Dialog>
-          <Dialog>No, just by having ▲高嶺＊＊▲ 
-in it, the air becomes rosy!</Dialog>
-          <Dialog>I thought ▲高嶺＊＊▲ would 
+          <Dialog>Hey. Is your room clean as 
+usual?</Dialog>
+          <Dialog>I don't know. Just by 
+having you in it, the air 
+becomes fresh and pink, 
+▲高嶺＊＊▲!</Dialog>
+          <Dialog>I was thinking you would 
 come, so I cleaned a 
-little...</Dialog>
+little before, ▲高嶺＊＊▲...</Dialog>
           <Dialog>Really? Fufufu!</Dialog>
-          <Dialog>Then, let's dye it to 
-Manaka colors that last a 
-long time. I'm kidding.</Dialog>
+          <Dialog>Then, let's dye it in 
+more Manaka colors, so it 
+lasts for a long time. 
+I'm kidding.</Dialog>
           <Dialog>You cleaned it up for me. 
 Thank you.</Dialog>
-          <Dialog>...But, can leave it as it 
-is next time? I'll do it, 
+          <Dialog>...But, can you leave it 
+as it is next time? 
+I'll do it for you, 
 okay?</Dialog>
         </Dialogs>
       </SDL2>
@@ -1830,22 +1903,24 @@ okay?</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>Hey, if you were to change 
+          <Dialog>If you were to renovate 
 the room, what would you 
-like me to do?</Dialog>
+like me to do first?</Dialog>
           <Dialog>Just leave it as it is!</Dialog>
-          <Dialog>That's right... When that 
-time comes, let's think 
-together.</Dialog>
-          <Dialog>Is that so?</Dialog>
+          <Dialog>When that time comes, 
+it's better to decide 
+together!</Dialog>
+          <Dialog>Really?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Yes. This gives a "▲高嶺＊＊▲ 
-room feeling!" that is cute.</Dialog>
-          <Dialog>...Hmm. Then, you're going 
-to leave it as it is, won't 
-you?</Dialog>
-          <Dialog>Together... Are we going to 
-think about it?</Dialog>
+          <Dialog>Of course, that gives it a 
+"▲高嶺＊＊▲ feeling!" to the 
+room, and that's cute.</Dialog>
+          <Dialog>...I see. Then, you're 
+going to leave it as it 
+is, won't you?</Dialog>
+          <Dialog>Us, Together... 
+Are we going to think 
+about it?</Dialog>
           <Dialog>Of course. I'll help you.</Dialog>
           <Dialog>I'm so happy, thank you. 
 When that time comes, 
@@ -1909,19 +1984,21 @@ please help me▼</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>Ah. You brought some sweets 
-for the tea, right?</Dialog>
-          <Dialog>No good. Stay here.</Dialog>
-          <Dialog>It's okay, just for a 
-little bit, it's around 
+          <Dialog>Ah. Did you brought the 
+sweets for the tea?</Dialog>
+          <Dialog>I forgot, stay here while 
+I bring them.</Dialog>
+          <Dialog>It's okay, just wait here 
+a little. I have them 
 here.</Dialog>
-          <Dialog>...Already. I can't help 
-it, so I'll give it to you.</Dialog>
+          <Dialog>...Geez. I can't do 
+anything about it, so 
+I'll give some to you.</Dialog>
           <Dialog>Instead, don't go home 
-until I say it's okay, 
-understand? I'm kidding.</Dialog>
-          <Dialog>Is that so? Tell me when 
-you want it.</Dialog>
+until I say so, okay? 
+I'm kidding.</Dialog>
+          <Dialog>Really? In that case tell 
+any time you want.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1991,19 +2068,25 @@ you want it.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>...Is it funny that you're 
-not used to being alone in 
-your room just us?</Dialog>
-          <Dialog>Me too. We like each other</Dialog>
-          <Dialog>No, is it strange?</Dialog>
-          <Dialog>I'm happy, I'm having fun, 
-I'm so excited and anxious.</Dialog>
-          <Dialog>You too. Somehow, I felt a 
-bit relieved.</Dialog>
-          <Dialog>You know, you don't mean 
-you don't like it, do you?</Dialog>
-          <Dialog>I don't know how to explain 
-it...</Dialog>
+          <Dialog>...Isn't it funny how 
+we're still not used to 
+being alone together in 
+the same room?</Dialog>
+          <Dialog>Yeah, it's funny. 
+We like each other a lot</Dialog>
+          <Dialog>I don't think it's that 
+strange, do you?</Dialog>
+          <Dialog>I'm so happy. I'm having 
+fun but I'm also excited 
+and anxious.</Dialog>
+          <Dialog>You too, huh? 
+Somehow, I felt a bit 
+relieved.</Dialog>
+          <Dialog>That doesn't mean you 
+dislike that feeling, 
+do you?</Dialog>
+          <Dialog>I don't know how to 
+explain it...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

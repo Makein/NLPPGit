@@ -32,11 +32,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>That's right, I was thinking
-about buying clothes. Can I 
-have you go out with me?</Dialog>
+          <Dialog>That reminds, I was 
+thinking about buying 
+clothes. Can you tag along 
+with me?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Clothes, huh...</Dialog>
+          <Dialog>Clothes, huh...?</Dialog>
           <Dialog>Let's go</Dialog>
           <Dialog>Not today</Dialog>
         </Dialogs>
@@ -73,13 +74,14 @@ have you go out with me?</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>Ah, hey, I'd like to buy 
-clothes... I'd be happy if 
-you could go with me.</Dialog>
+          <Dialog>Ah, you know, I'd like to 
+buy clothes... I'd be 
+happy if you could go 
+with me.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Clothes, huh...</Dialog>
           <Dialog>Let's go</Dialog>
-          <Dialog>Something else?</Dialog>
+          <Dialog>Do something else?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -114,13 +116,14 @@ you could go with me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>Hey, since we're on a date, 
-why don't we go shopping? I 
-want to see clothes.</Dialog>
+          <Dialog>Hey, since we're on a 
+date, why don't we go 
+shopping? I want to go 
+see clothes.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right...</Dialog>
           <Dialog>Sounds good</Dialog>
-          <Dialog>I don't feel like it</Dialog>
+          <Dialog>I don't feel like going</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -175,7 +178,7 @@ want to see clothes.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>That so... where are we 
+          <Dialog>Really? Where are we 
 going?</Dialog>
           <Dialog>Boutique</Dialog>
           <Dialog>Accessory shop</Dialog>
@@ -224,10 +227,11 @@ going?</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>I get lost... what do you 
-think is good?</Dialog>
+          <Dialog>I get lost among all the 
+options... What do you 
+think will look good?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hmm, then...</Dialog>
+          <Dialog>Hmm, since you're asking...</Dialog>
           <Dialog>Something cute</Dialog>
           <Dialog>Something neat</Dialog>
           <Dialog>Something casual</Dialog>
@@ -272,8 +276,8 @@ choose...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>How about this... I think 
-it's good.</Dialog>
+          <Dialog>How about this...? 
+I think it's good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -293,8 +297,8 @@ it's good.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>How about this? I think 
-this suits me...</Dialog>
+          <Dialog>How about this? 
+I think this suits me...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -314,8 +318,8 @@ this suits me...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>I like this, but what about 
-you?</Dialog>
+          <Dialog>I like this, but what do 
+you think?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -335,7 +339,7 @@ you?</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>And this? I'm not confident 
+          <Dialog>And this? I'm not too sure 
 about it, but I wonder if 
 it will make you happy...</Dialog>
         </Dialogs>
@@ -357,8 +361,8 @@ it will make you happy...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>Hmm... this is a little 
-different... right?</Dialog>
+          <Dialog>Hmm... This is a little 
+different... isn't it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -378,8 +382,9 @@ different... right?</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>It's not the usual feeling 
-but, what do you think?</Dialog>
+          <Dialog>I'm not feeling like 
+usual, but what do you 
+think?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -404,7 +409,7 @@ but, what do you think?</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hmm...</Dialog>
+          <Dialog>Hmm, lemme see...</Dialog>
           <Dialog>It suits you</Dialog>
           <Dialog>Another one</Dialog>
         </Dialogs>
@@ -431,7 +436,7 @@ but, what do you think?</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>That's right...</Dialog>
+          <Dialog>Let's see...</Dialog>
           <Dialog>It's perfect</Dialog>
           <Dialog>Isn't there another?</Dialog>
         </Dialogs>
@@ -471,7 +476,8 @@ but, what do you think?</Dialog>
           <Dialog>（I have to decide soon...）</Dialog>
           <Dialog>I feel...</Dialog>
           <Dialog>The first was the best</Dialog>
-          <Dialog>Previous clothes were good</Dialog>
+          <Dialog>The previous clothes 
+were good</Dialog>
           <Dialog>Those clothes are the best</Dialog>
         </Dialogs>
       </SDL2>
@@ -492,9 +498,9 @@ but, what do you think?</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>Then, it's decided. I also 
-thought this was good♪　
-Thank you.</Dialog>
+          <Dialog>Then, it's decided. 
+I also thought this was 
+good♪　Thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -514,9 +520,9 @@ Thank you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>高嶺</Dialog>
-          <Dialog>Is that so? If you say so, 
-I'll take the plunge and 
-buy it.</Dialog>
+          <Dialog>Do you think so? 
+If you say so, I'll take 
+the plunge and buy it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
