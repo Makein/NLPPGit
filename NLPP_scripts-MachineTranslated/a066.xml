@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="1606903316" Unknown="5">
+  <Entries>
+    <Entry Unknown0="1084361888" Unknown1="28180320">
+      <SDL2 Key="1873692247">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>70034</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>84863</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>70035</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>This game moves in tandem 
+		  with the clock on the 
+		  Dconsole. So you have 
+		  to set the clock properly 
+		  before you start.</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2083076572" Unknown1="2312780775">
+      <SDL2 Key="1873692247">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>70036</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>If the time is off, 
+		  turn it on and go 
+		  set the clock on the 
+		  DS unit, okay?</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="89584995" Unknown1="3071722004">
+      <SDL2 Key="2682158242">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>70037</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>84863</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>70038</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>84863</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>70039</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>I see. So, you decide how 
+		  much time you want to 
+		  spend in the game and 
+		  how much time you want 
+		  to live. Don't lie to me.</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="814906512" Unknown1="4070436688">
+      <SDL2 Key="2682158242">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>70040</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>Are you sure this is
+going to work?</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1813588428" Unknown1="2093624279">
+      <SDL2 Key="2682158242">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>70041</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>70042</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>Yeah, that's it. 
+You're done.</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+  </Entries>
+</DBIN2>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="964926026" Unknown="5">
+  <Entries>
+    <Entry Unknown0="3164660464" Unknown1="3654887698">
+      <SDL2 Key="3080239829">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>41757</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>Game use DS console clock,
+so make sure you're
+time is right.</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3065860086" Unknown1="4148571951">
+      <SDL2 Key="3080239829">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>41758</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>If the time is off,
+turn it off and set
+tight time.</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3509211411" Unknown1="1632390300">
+      <SDL2 Key="3080239829">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>41759</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>84863</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>41760</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>Decide the time of the game
+to suit your life.</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1278243456" Unknown1="1785313698">
+      <SDL2 Key="3080239829">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>41761</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>41762</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>Are you sure about this?
+Don't complain about
+it later.</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="1179508614" Unknown1="2195111871">
+      <SDL2 Key="3620266289">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>41763</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>41764</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>小早川</Dialog>
+          <Dialog>Well, I'm done.
+Good night.</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+  </Entries>
+</DBIN2>
