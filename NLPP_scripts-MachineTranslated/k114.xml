@@ -31,12 +31,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
+          <Dialog>Rinko</Dialog>
           <Dialog>Hey, can I have a look at your clothes?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Clothes?</Dialog>
-          <Dialog>OK.</Dialog>
-          <Dialog>Let's save that for next time.</Dialog>
+          <Dialog>Okay.</Dialog>
+          <Dialog>Let's do it another time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -70,12 +70,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>You know, I need to find some clothes, so come with me.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>You know, I want to look for clothes, so come with me.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Clothes.</Dialog>
-          <Dialog>Okay.</Dialog>
-          <Dialog>I'd like to see something else.</Dialog>
+          <Dialog>Clothes or...</Dialog>
+          <Dialog>Okay</Dialog>
+          <Dialog>I'd like to see something different</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -109,12 +109,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>Listen, Rinko, I need to pick out some clothes. Will you help me find some clothes?</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Rinko, I want to choose some clothes. Can you look for them with me?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I guess so.</Dialog>
-          <Dialog>Well, let's go.</Dialog>
-          <Dialog>You know, today is a little.</Dialog>
+          <Dialog>Yes, I guess so.</Dialog>
+          <Dialog>Let's go then</Dialog>
+          <Dialog>You know, today is a little...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -133,8 +133,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>Oh, yeah. Let's get out of here then.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Yay. Then, let's go quickly.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -168,11 +168,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>Oh, I see. Then where do you look?</Dialog>
-          <Dialog>Let's go to the boutiques.</Dialog>
-          <Dialog>Let's go to the jewelry store.</Dialog>
-          <Dialog>Let's go to the cosmetic shop.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>I see... So where do we look?</Dialog>
+          <Dialog>Let's go to a boutique.</Dialog>
+          <Dialog>Let's go to an accessory shop.</Dialog>
+          <Dialog>Let's go to a cosmetic shop.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -216,14 +216,14 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>Hey, what do you think I should look like?</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Hey, what kind of clothes do you think I should wear?</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hmmm.</Dialog>
+          <Dialog>Hmmm...</Dialog>
           <Dialog>Cute is best.</Dialog>
           <Dialog>I like the neat look.</Dialog>
-          <Dialog>I like casual.</Dialog>
-          <Dialog>How about the sexy ones?</Dialog>
+          <Dialog>I prefer casual.</Dialog>
+          <Dialog>How about a sexy type?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -242,8 +242,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>Hmmm, okay. I'll go pick one then.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Hmm, okay. I'll go pick it out then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -262,8 +262,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>That's pretty good, don't you think?</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Isn't that pretty good?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -282,8 +282,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>Rinko loves it. What about you?</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Rinko likes this. What about you?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -302,8 +302,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>Heh, what do you think?</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Hehe... what do you think?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -322,8 +322,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>What do you think?　Isn't that weird?</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>What do you think? Isn't it weird?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -342,8 +342,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>Does this look good on Rinko?</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Does this look good on a Rinko?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -362,8 +362,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>This is, how does it fit?</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Is this... good?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -388,9 +388,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Well.</Dialog>
-          <Dialog>You look great.</Dialog>
-          <Dialog>I'd like to see something else.</Dialog>
+          <Dialog>I guess so...</Dialog>
+          <Dialog>It looks good on you.</Dialog>
+          <Dialog>I'd like to see a different one.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -415,9 +415,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Yeah.</Dialog>
-          <Dialog>Okay.</Dialog>
-          <Dialog>You should try the other ones on.</Dialog>
+          <Dialog>Yes...</Dialog>
+          <Dialog>I like it.</Dialog>
+          <Dialog>You should try the other one on too.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -452,10 +452,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（I'm going to be in a very bad mood if I don't come to a decision）</Dialog>
-          <Dialog>Well.</Dialog>
+          <Dialog>(I might be in a bad mood if I don't make up my mind...)</Dialog>
+          <Dialog>Let's see....</Dialog>
           <Dialog>I like the first one.</Dialog>
-          <Dialog>Let's go in the front one.</Dialog>
+          <Dialog>I'll take the one before.</Dialog>
           <Dialog>I like this dress.</Dialog>
         </Dialogs>
       </SDL2>
@@ -475,8 +475,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>It's settled. I'm glad you chose for me.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>It's settled. I'm glad you chose me.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -495,8 +495,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>Heh... it's refreshing to see something different, even for me. Thank you for choosing for me.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Hehe.... It's refreshing to feel different, even for me. Thanks for choosing me. </Dialogs>
         </Dialogs>
       </SDL2>
     </Entry>

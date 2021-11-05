@@ -12,7 +12,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Oh, speaking of which, I was going to give ▲小早川＊▲ a present.</Dialog>
+          <Dialog>Oh, ...., by the way, I had a present I was going to give to ▲小早川＊▲.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -42,9 +42,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I gound some seasoning the other day, and I thought ▲小早川＊▲ might like it.</Dialog>
-          <Dialog>小早川</Dialog>
-          <Dialog>Seasoning?　Hmm. Can I open it?</Dialog>
+          <Dialog>You know, I found some seasoning the other day, so I thought I'd give it to ▲小早川＊▲ at ....</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Seasoning? Hmm, can I open it?</Dialog>
           <Dialog>Of course.</Dialog>
         </Dialogs>
       </SDL2>
@@ -69,10 +69,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>Wow it smells great!　I'm sure this will make for a great meal, thanks.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Wow... smells good! I think I can use this to make some good food, thanks.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Right?　Good.</Dialog>
+          <Dialog>Isn't that right? Good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -96,10 +96,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>It smells great. It's going to be handy, thank you.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Oh, that smells nice. Looks like it's easy to use, thanks.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Really?　Good.</Dialog>
+          <Dialog>Really? Good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -123,10 +123,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>What's that, that's a subtle smell. I don't know if I'll be able to handle this but thanks.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>What's this .... smell so subtle. I don't know if Linko can use it, but thanks for the ....</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Sorry if this is too much to handle.</Dialog>
+          <Dialog>Sorry if this is hard to handle...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -150,10 +150,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>I'll try to cook with it next time. Until then, you can look forward to it.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>I'll try cooking with this next time. Until then, you can look forward to it.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Oh!　Nice to see you.</Dialog>
+          <Dialog>Oh! Nice to meet you.</Dialog> <Dialog>Oh!
         </Dialogs>
       </SDL2>
     </Entry>
@@ -173,8 +173,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Actually I bought the book because I thought ▲小早川＊▲ might like it.</Dialog>
-          <Dialog>▲本の名前＊＊＊＊＊＊▲ I mean.</Dialog>
+          <Dialog>Actually, I bought the book because I thought ▲小早川＊▲ might like it.</Dialog>
+          <Dialog>The name of the book is ▲本の名前＊＊＊＊＊＊▲.</Dialog> <Dialog>The name of the book is ▲.
         </Dialogs>
       </SDL2>
     </Entry>
@@ -198,10 +198,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>Oh, I've always wanted this book, how did you know?　Heh, thanks.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Oh, I wanted this book, how did you know? Hehe... thanks.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Somehow, I thought ▲小早川＊▲ would like it.</Dialog>
+          <Dialog>I kind of thought ▲小早川＊▲ might like it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -225,8 +225,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>Wow, this book will add to my cooking repertoire. Thanks.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Hey, this book will increase my cooking repertoire. Thanks.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yeah. I'm glad I could help.</Dialog>
         </Dialogs>
@@ -252,10 +252,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>Oh I'm not good at this genre. I hope I can get over it by watching this.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Ah..., I'm not good at this genre. I hope I can overcome it by watching this.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Well, that would be nice, wouldn't it?</Dialog>
+          <Dialog>I see, that's good then, isn't it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -279,10 +279,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>One of these days I'm going to look at it and try a new dish. Stay tuned.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>One of these days, I'm going to look at this and try a new dish. Stay tuned.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Yay, nice to see you!</Dialog>
+          <Dialog>Yay, nice to meet you!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -328,11 +328,11 @@
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, this. A gift.</Dialog>
-          <Dialog>小早川</Dialog>
-          <Dialog>What? Why?</Dialog>
-          <Dialog>Not that there isn't a reason, when we went outbefore, I thought ▲小早川＊▲ would look good in this.</Dialog>
-          <Dialog>Are you sure?　Thanks, I'll open it up.</Dialog>
-          <Dialog>Oh.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>What, why?</Dialog>
+          <Dialog>Not that there isn't a reason. When we went out before, I thought ▲小早川＊▲ would look good in this.</Dialog>
+          <Dialog>You sure? Thanks, I'll open it.</Dialog>
+          <Dialog>Oh.</Dialog> <Dialog>Yeah.
         </Dialogs>
       </SDL2>
     </Entry>
@@ -356,10 +356,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>Oh, great!　You know what Rinko likes, heh.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Hey, that's nice! You know what Rinco likes, hehe.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I'm so relieved you liked it.</Dialog>
+          <Dialog>I'm relieved that you like it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -383,8 +383,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>Oh, I think I might like this a lot. Thanks.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Oh, I think I like this kind of thing a lot. Thanks.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Good.</Dialog>
         </Dialogs>
@@ -410,10 +410,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
-          <Dialog>Huh, this?　Well thank you.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Eh... this? Well, thanks you...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（She didn't like it.）</Dialog>
+          <Dialog>(Wasn't your favorite...?)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -432,7 +432,7 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>小早川</Dialog>
+          <Dialog>Rinko</Dialog>
           <Dialog>It's not like today is a special day or anything, hehe.</Dialog>
         </Dialogs>
       </SDL2>
@@ -478,11 +478,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I have a present for you, I was wondering if I could go to ▲小早川＊▲'s room.</Dialog>
-          <Dialog>小早川</Dialog>
-          <Dialog>A gift? Are you up to something?</Dialog>
-          <Dialog>It's not like that. It's just that I found one that works.</Dialog>
-          <Dialog>Well thank you. Can I open it?</Dialog>
+          <Dialog>I actually have a present for you. I was wondering if you would like it in your room.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>A present? .... Are you up to something?</Dialog>
+          <Dialog>It's nothing like that. It's just that I found something that looks good.</Dialog>
+          <Dialog>Well, thank you... Can I open it?</Dialog>
           <Dialog>Go ahead.</Dialog>
         </Dialogs>
       </SDL2>
@@ -544,13 +544,13 @@
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, this. I bought it when I found it.</Dialog>
-          <Dialog>小早川</Dialog>
-          <Dialog>What are you giving me?</Dialog>
-          <Dialog>Diary. I thought you said you were keeping a diary.</Dialog>
-          <Dialog>Oh, you remembered. Thank you.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>What, you're giving it to me?</Dialog>
+          <Dialog>A diary. I thought you said you were keeping one.</Dialog>
+          <Dialog>Oh, you remembered. Thanks.</Dialog>
           <Dialog>I don't know what it is either, but it seems to be some kind of special diary.</Dialog>
-          <Dialog>Well, you're special, you do seem to have some kind of power, though.</Dialog>
-          <Dialog>（Well, I hope she was pleased.）</Dialog>
+          <Dialog>Wow, that's special... Sure looks like it's got some power, though...</Dialog>
+          <Dialog>(Well, I hope she was pleased.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
