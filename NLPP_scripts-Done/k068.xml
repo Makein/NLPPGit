@@ -112,18 +112,39 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Recently, are there many books in the library, people who forget to return them?</Dialog>
+          <Dialog>Recently, many people have
+been forgetting to return
+their books to the
+library. Have you noticed？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>That's right...?</Dialog>
-          <Dialog>Have you not noticed? 　Are you seriously working on the committee?</Dialog>
-          <Dialog>I'm doing it.  You're showing your face properly?</Dialog>
-          <Dialog>You can't just show your face.</Dialog>
-          <Dialog>Is it so good that many people forget to return it?</Dialog>
-          <Dialog>Yup.  For people who often appear in the library, Rinko also pays close attention...</Dialog>
-          <Dialog>Really.  If this is left, the number of books will decrease.</Dialog>
-          <Dialog>so! 　I was disappointed when I went to rent but didn't have the book I was looking for.</Dialog>
-          <Dialog>Alright ● I'll think about some measures.</Dialog>
-          <Dialog>Yeah.  nice to meet you.</Dialog>
+          <Dialog>Is that so…？</Dialog>
+          <Dialog>You haven't noticed？ Are
+you not taking your job on
+the library committee
+seriously？</Dialog>
+          <Dialog>I'm trying. I'm showing
+up, right？</Dialog>
+          <Dialog>It's not enough to just
+show up. Come on.</Dialog>
+          <Dialog>Alright, alright. But how
+many people are forgetting
+to return them？</Dialog>
+          <Dialog>Glad we got that clear.
+So, for those who often
+show up there, I'll give
+you a heads up…</Dialog>
+          <Dialog>Often showing up, huh？ At
+this rate, the number of
+books we have will
+decrease drastically.</Dialog>
+          <Dialog>Right！ It's such a
+disappointment when you go
+to borrow a book and the
+book you want isn't there.</Dialog>
+          <Dialog>Okay. I'll think of
+something to do.</Dialog>
+          <Dialog>That would be very helpful
+if you could.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -252,19 +273,36 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>▲主人公＊▲.  Yesterday, I went to a classroom where people didn't return books.</Dialog>
+          <Dialog>▲主人公＊▲. I went
+to a class yesterday of
+people who don't return
+books.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I'm enthusiastic about my work.</Dialog>
-          <Dialog>Because I don't know when you need it.</Dialog>
-          <Dialog>……sorry.  So what happened?  Replying to @Mr.</Dialog>
-          <Dialog>Yup.  I got it back.  But the other person was a really bad guy.</Dialog>
-          <Dialog>What happened?</Dialog>
-          <Dialog>Hmm.  Are you worried?</Dialog>
-          <Dialog>……of course.</Dialog>
-          <Dialog>Thank you.  but it's okay.  I was just disliked.</Dialog>
-          <Dialog>I was going to give it back today, but... I'm lying.</Dialog>
-          <Dialog>Isn't it better to think of ways to change the consciousness of borrowers?</Dialog>
-          <Dialog>I guess so</Dialog>
+          <Dialog>You're a hard worker.</Dialog>
+          <Dialog>That's because you're not
+there when I need you.</Dialog>
+          <Dialog>Sorry… So, what happened？
+I'm assuming you got them
+back, right？</Dialog>
+          <Dialog>Yeah. I got them back. But
+the guy I had to coerce
+them from was a total
+jerk.</Dialog>
+          <Dialog>Seriously？ What did he do
+to you？</Dialog>
+          <Dialog>Hmm. You're worried about
+me, huh？</Dialog>
+          <Dialog>… That's a given.</Dialog>
+          <Dialog>Thanks. But I'm fine. I
+was just being facetious.</Dialog>
+          <Dialog>I was going to return them
+today, but I figured I'd
+better not lie to…</Dialog>
+          <Dialog>Wouldn't it be better to
+find a way to change the
+mindset of the people
+borrowing the books？</Dialog>
+          <Dialog>I guess so.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -357,17 +395,36 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Well, it's about a person who has forgotten to return the borrowed book.</Dialog>
+          <Dialog>Remember the people who
+aren't returning their
+books？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Did you go to get it back alone?</Dialog>
-          <Dialog>Yup.  But I'm not sharp.</Dialog>
-          <Dialog>I'm sure many people have forgotten what they borrowed.</Dialog>
-          <Dialog>I don't realize that books in the library are for everyone.</Dialog>
-          <Dialog>Well, I have forgotten such a ● long time ago...</Dialog>
-          <Dialog>Stay</Dialog>
-          <Dialog>It is disqualified from the library committee.</Dialog>
-          <Dialog>Then why not call out with a poster or something? 　If you call to the whole school, some people will remember that you borrowed it, right?</Dialog>
-          <Dialog>……I see.  That might be good.  I will consult with seniors once.</Dialog>
+          <Dialog>Did you go try to get them
+back alone again？</Dialog>
+          <Dialog>Yeah. But there's no end
+in sight.</Dialog>
+          <Dialog>I bet there's a lot of
+people who forget they
+even borrowed books in the
+first place.</Dialog>
+          <Dialog>They aren't considering
+that the books in the
+library belong to
+everyone.</Dialog>
+          <Dialog>Well, I borrowed one a
+long time ago and totally
+forgot about it for quite
+a while…</Dialog>
+          <Dialog>Ouch！</Dialog>
+          <Dialog>I should fire you from the
+library committee.</Dialog>
+          <Dialog>How about we put posters
+up in the school？ If we
+call out the whole school,
+some people will remember.</Dialog>
+          <Dialog>... I see. That's not a
+bad idea. I'll talk to our
+superiors about it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -489,19 +546,40 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Well, last time I told you why you should make a poster.</Dialog>
-          <Dialog>After consulting with my seniors, I tried to stick it out in a simple corridor for the time being.</Dialog>
+          <Dialog>You know how we talked
+about putting posters up
+the other day？</Dialog>
+          <Dialog>After discussing it with
+the seniors, I put a
+simple one in the hallway
+for now.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Oh, I also saw ●.  The one on the entrance of the library, right?</Dialog>
-          <Dialog>so.</Dialog>
-          <Dialog>So the effect is...?</Dialog>
-          <Dialog>That seems to be quite effective.</Dialog>
-          <Dialog>I was able to line up at the return counter after school.</Dialog>
-          <Dialog>Really.  That was good.  This solves the problem?</Dialog>
-          <Dialog>It’s not that easy.  It may only be effective now.</Dialog>
-          <Dialog>I see.  I am enthusiastic about my work.  ▲小早川＊▲</Dialog>
-          <Dialog>You're stupid.  Rinko is just doing what is normal.  But...</Dialog>
-          <Dialog>I want you to do your best and praise it.</Dialog>
+          <Dialog>Yeah, I saw that. It's the
+one up at the entrance to
+the library, right？</Dialog>
+          <Dialog>Yeah.</Dialog>
+          <Dialog>So, did it have any
+effect…？</Dialog>
+          <Dialog>That seemed to work pretty
+well on its own.</Dialog>
+          <Dialog>After school, there was a
+line at the return
+counter.</Dialog>
+          <Dialog>Great！ That's good to
+know. So the problem's
+solved, eh？</Dialog>
+          <Dialog>It's not that easy. It
+might only be effective
+for now.</Dialog>
+          <Dialog>I see. You're a hard
+worker, ▲小早川＊▲.</Dialog>
+          <Dialog>You're an idiot. Rinko is
+just doing what should
+have been done when it
+was first noticed. But…</Dialog>
+          <Dialog>I want to work harder and
+get more recognition.
+Maybe… Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -611,17 +689,38 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>The child of the previous class brought homemade cookies.</Dialog>
+          <Dialog>The other day, a girl in
+my class brought me some
+homemade cookies.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Making sweets is a girlish hobby.</Dialog>
-          <Dialog>However, all the boys were so tired that they didn't watch.</Dialog>
-          <Dialog>Even my homeroom teacher is willing to eat, so the world is over.</Dialog>
-          <Dialog>Is the teacher a male teacher? 　A man is such a thing, so please forgive me.</Dialog>
-          <Dialog>Is it just a cookie?  Anyone can make it.</Dialog>
-          <Dialog>Handmade is more important than taste.</Dialog>
-          <Dialog>Hmm.  Do you also like that type of child?</Dialog>
-          <Dialog>Even if I can't do it, I'll make it so hard.</Dialog>
-          <Dialog>......Why do you see this?  I can make as much as a cookie. </Dialog>
+          <Dialog>Making sweets is a girly
+hobby.</Dialog>
+          <Dialog>But you know, all the boys
+were all delirious as they
+are. I couldn't watch
+them.</Dialog>
+          <Dialog>Even the homeroom teacher
+was happy to eat them, so
+it's the end of the world.</Dialog>
+          <Dialog>Your homeroom teacher is a
+guy, right？ You've got to
+forgive him. That's just
+how us men are wired.</Dialog>
+          <Dialog>They're just cookies.
+Anyone can make them.</Dialog>
+          <Dialog>The fact that they're
+homemade is more important
+than the taste.</Dialog>
+          <Dialog>Yeah. So you like the type
+of girl who can bake
+sweets？</Dialog>
+          <Dialog>Sure. Especially when they
+do their best to make them
+despite whether or not
+they're any good at it.</Dialog>
+          <Dialog>… Why are you looking at
+me like that？ I can at
+least make cookies.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -728,18 +827,39 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>That's the story of a child who baked cookies.</Dialog>
+          <Dialog>You know how we were
+talking about the girl who
+was baking cookies the
+other day？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Ah, it's definitely popular with boys.</Dialog>
-          <Dialog>No.  Rather popular with girls.</Dialog>
-          <Dialog>why?</Dialog>
-          <Dialog>I want all girls to tell me how to make sweets.  It was delicious.</Dialog>
-          <Dialog>Hmm.  That's a surprising development.</Dialog>
-          <Dialog>right?  Next time, they will make sweets after school.</Dialog>
-          <Dialog>Apparently  ▲I don't go to ▲小早川＊▲</Dialog>
-          <Dialog>……Yup.  Rinko is not that kind of character, isn't it?</Dialog>
-          <Dialog>It's a waste.  ● is a cookie made by ▲小早川＊▲, I wanted to try it.</Dialog>
-          <Dialog>……So.</Dialog>
+          <Dialog>Yeah. I'm sure she's
+gained some popularity
+with the guys since then,
+huh？</Dialog>
+          <Dialog>No, not really. Rather,
+she's gotten really
+popular amongst the girls.</Dialog>
+          <Dialog>Why's that？</Dialog>
+          <Dialog>All the girls suddenly
+wanted her to teach them
+how to bake. And they're
+all delicious.</Dialog>
+          <Dialog>Hmm. That's a surprising
+turn of events.</Dialog>
+          <Dialog>Right？ I heard that she's
+going to have a baking
+party at her house after
+school.</Dialog>
+          <Dialog>And ▲小早川＊▲'s
+not going？</Dialog>
+          <Dialog>… You're correct. That's
+not in Rinko's character,
+right？</Dialog>
+          <Dialog>What a waste. I wish I
+could have tried some
+cookies you would have
+made.</Dialog>
+          <Dialog>… Oh, yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -838,18 +958,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Now, I'm going to participate in a study group on making sweets.</Dialog>
+          <Dialog>To humor myself, I'm going
+to participate in a baking
+workshop.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>that?  Didn't you say that you won't participate last time?</Dialog>
-          <Dialog>It's weird that only Rinko doesn't participate in the class.</Dialog>
-          <Dialog>(In the case of ▲小早川＊▲before, I would never have participated……)</Dialog>
-          <Dialog>What?</Dialog>
-          <Dialog>I thought it was fun to make cookies made by ▲小早川＊▲</Dialog>
-          <Dialog>Nobody said you would feed me.</Dialog>
-          <Dialog>Is that so!?</Dialog>
-          <Dialog>……I guess we have no choice.  If you make a mistake, I'll bring it.</Dialog>
-          <Dialog>I hope you have succeeded.</Dialog>
-          <Dialog>Think hard.</Dialog>
+          <Dialog>Really？ Didn't you say you
+weren't going to
+participate the other day？</Dialog>
+          <Dialog>It's weird that Rinko is
+the only one in the class
+who's not joining in.</Dialog>
+          <Dialog>（Wow. The ▲小早川＊▲
+I first met would never
+have participated in
+something like this…）</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>Nothing. I was just
+thinking to myself how
+much I'm looking forward
+to your cookies.</Dialog>
+          <Dialog>No one said anything about
+me feeding you.</Dialog>
+          <Dialog>Unfair！</Dialog>
+          <Dialog>… I can't help it. If I
+screw some up, I'll give
+them to you.</Dialog>
+          <Dialog>What？ No samples of
+successful batches？</Dialog>
+          <Dialog>I'll try to consider it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -955,18 +1091,35 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>this.  I went to a study group on making sweets.</Dialog>
+          <Dialog>Here you go. I spent a
+study session making
+cookies.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>From that look, you did well.  Oh, wrapping properly, it looks good.</Dialog>
-          <Dialog>......You haven't opened it.  It's a naive thing to say.</Dialog>
-          <Dialog>That's right.  Well then, the taste...</Dialog>
-          <Dialog>…….</Dialog>
-          <Dialog>……good.</Dialog>
-          <Dialog>Why do you look so unexpected?</Dialog>
-          <Dialog>Because this isn't strange even if you sell it in stores normally.</Dialog>
-          <Dialog>Heh!  Then what kind of cookie should I make next?</Dialog>
-          <Dialog>…Eh, cookies again?  Except for cookies?</Dialog>
-          <Dialog>None.  Because I only know how to make cookies. </Dialog>
+          <Dialog>You look proud of your
+work. Oh, neat！ You even
+wrapped them up all nice
+and tidy！ They look good.</Dialog>
+          <Dialog>But you haven't even
+opened… Eh, I'm not going
+into all the details.</Dialog>
+          <Dialog>Is that right？ Well, let
+me get a taste of one…</Dialog>
+          <Dialog>…</Dialog>
+          <Dialog>… Aww, yes！</Dialog>
+          <Dialog>Why do you look so
+shocked？</Dialog>
+          <Dialog>Because, you know, these
+taste like something you'd
+pay high dollar for in a
+store.</Dialog>
+          <Dialog>Hehe. So what kind of
+cookies should I make
+next？</Dialog>
+          <Dialog>… Oh, another type？ Hmm.
+Do you think you can make
+more than cookies？</Dialog>
+          <Dialog>Nope. I only know how to
+make cookies.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1089,21 +1242,41 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Isn't there a vacant lot behind the school?</Dialog>
+          <Dialog>You know that vacant lot
+behind the school？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Ah.  Is it a place full of bushes of that grass?</Dialog>
-          <Dialog>so.  The kitten was abandoned there.</Dialog>
-          <Dialog>Abandoned cats, a lot of these days but it's a horrible story.</Dialog>
-          <Dialog>right?  I can't understand the nerve to throw away such a cute girl.</Dialog>
-          <Dialog>There may be circumstances for the owner, but I don't throw it away.</Dialog>
-          <Dialog>That's why Rinko secretly keeps her in the school.</Dialog>
-          <Dialog>Are you okay?  The teacher will find it.</Dialog>
-          <Dialog>I have already found it.</Dialog>
-          <Dialog>After all.  What happened to that?</Dialog>
-          <Dialog>Having a kitten, I ran around during school...</Dialog>
-          <Dialog>…….</Dialog>
-          <Dialog>Finally, the surrendered teacher decided to cooperate with the search for the owner.</Dialog>
-          <Dialog>That's not right...</Dialog>
+          <Dialog>Oh. That place littered by
+weeds and bushes？</Dialog>
+          <Dialog>That's the one. There was
+a kitten abandoned there.</Dialog>
+          <Dialog>Abandoned cats… There are
+a lot of them these days.
+It's really sad.</Dialog>
+          <Dialog>I know, right？ I don't
+understand how you can
+throw away such a cute
+critter.</Dialog>
+          <Dialog>I'm sure the original
+owners had their own
+circumstances, but I could
+not just throw them away.</Dialog>
+          <Dialog>That's why Rinko is
+thinking of secretly
+keeping it in the school.</Dialog>
+          <Dialog>Are you sure that's a good
+idea？ The teachers would
+find you out.</Dialog>
+          <Dialog>They already found out.</Dialog>
+          <Dialog>I knew it. So, what
+happened？</Dialog>
+          <Dialog>I was running around the
+school with the kitten…</Dialog>
+          <Dialog>…</Dialog>
+          <Dialog>The teacher who caught me
+decided to give in and
+help find the owner.</Dialog>
+          <Dialog>I have a feeling that's
+not all of the story…</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1191,16 +1364,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>It's an abandoned cat, I found a person to keep it.</Dialog>
+          <Dialog>We found a new home for
+that kitten I was talking
+to you about.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>It was good.</Dialog>
-          <Dialog>……Yup.</Dialog>
-          <Dialog>Doesn't it look so happy?</Dialog>
-          <Dialog>Moving away from Rinko...  It's still tiny.</Dialog>
-          <Dialog>So what if they let me touch it in their new owner's house?</Dialog>
-          <Dialog>If you do that, your emotions will change and you will not be able to leave.</Dialog>
-          <Dialog>Really…….  Then I have to pray from afar to make the kitten happy.</Dialog>
-          <Dialog>……Yup.  That's good for that child, too.</Dialog>
+          <Dialog>That's good！</Dialog>
+          <Dialog>… Yeah.</Dialog>
+          <Dialog>You don't look too
+thrilled.</Dialog>
+          <Dialog>It wasn't easy for Rinko
+to let her go… It's still
+so tiny.</Dialog>
+          <Dialog>Then why don't you go to
+the owner's house and ask
+if you can still pet and
+play with her？</Dialog>
+          <Dialog>If you do that, she'll get
+attached to you and won't
+be able to leave you.</Dialog>
+          <Dialog>Well… let's just pray that
+the kitten will be happy
+and loved dearly.</Dialog>
+          <Dialog>… Yeah. That's what would
+ultimately be best for
+her, right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1294,17 +1481,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>I heard from the teacher that cat.  I'm sick now.</Dialog>
+          <Dialog>I heard from the school
+nurse that the kitten is
+sick right now.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>eh!?</Dialog>
-          <Dialog>It seems that the discarded owner, the vaccine was not hit properly.</Dialog>
-          <Dialog>That's terrible...  How are you?</Dialog>
-          <Dialog>…Not good.</Dialog>
-          <Dialog>If that child... What should I do, Rinko?</Dialog>
-          <Dialog>Hold it tight.  Believe in that child.</Dialog>
-          <Dialog>……Yup.</Dialog>
-          <Dialog>It’s okay.  I'm going to see my teacher right now.</Dialog>
-          <Dialog>Yeah... that's right.  Encourage you, even from a distance. </Dialog>
+          <Dialog>Huh！？</Dialog>
+          <Dialog>The original owner didn't
+even get the kitten her
+vaccines or other shots.</Dialog>
+          <Dialog>That's terrible！ … How are
+you holding up about this？</Dialog>
+          <Dialog>… The nurse said that it's
+not looking good.</Dialog>
+          <Dialog>If that sweet little girl
+is… What should Rinko do？</Dialog>
+          <Dialog>Pull yourself together,
+▲小早川＊▲. You have
+to believe in her.</Dialog>
+          <Dialog>… Yeah.</Dialog>
+          <Dialog>I'll be fine. They said
+she's being taken to a vet
+as she should have been
+anyway, now.</Dialog>
+          <Dialog>Yeah… that's right. I'll
+encourage you as best as I
+can.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1425,19 +1626,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>There is a cat god in this world.  At all!!</Dialog>
+          <Dialog>There is a god who cares
+about cats in this world.
+I'm shaken beyond all
+reason！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>?  Well, that kitten was saved.</Dialog>
-          <Dialog>so.  I wonder if I could understand Rinko's prayer and the cat god.</Dialog>
-          <Dialog>Maybe so.</Dialog>
-          <Dialog>Then... to.</Dialog>
-          <Dialog>Is there anything yet?</Dialog>
-          <Dialog>I got a picture of that child who was fine from the owner.  Already... I don't care.</Dialog>
-          <Dialog>I want to keep a cat.  ......I can't do it now.</Dialog>
-          <Dialog>Then, I hope I can live surrounded by many cats in the future.</Dialog>
-          <Dialog>In the future...</Dialog>
-          <Dialog>Hmm?  What's wrong?</Dialog>
-          <Dialog>You're counting on me, right? </Dialog>
+          <Dialog>Oh？　The kitten pulled
+through？</Dialog>
+          <Dialog>Yes. I wonder if Rinko's
+prayer was answered by the
+cat gods？</Dialog>
+          <Dialog>Cat gods？ … Maybe so.</Dialog>
+          <Dialog>And then… hehe.</Dialog>
+          <Dialog>There's more to it？</Dialog>
+          <Dialog>I got a picture of her
+from her current owner.
+She's so healthy and so
+cute～…</Dialog>
+          <Dialog>I'd like to get a cat… I
+just can't right now.</Dialog>
+          <Dialog>I hope I can live
+surrounded by many cats in
+the future.</Dialog>
+          <Dialog>In the future？ Or…</Dialog>
+          <Dialog>Hey！ What's wrong with
+you？</Dialog>
+          <Dialog>Hehe. I'm counting on that
+from you, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1525,16 +1740,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>That's a question.  What kind of book are you reading recently?</Dialog>
+          <Dialog>Hey, I have a question.
+What kind of books have
+you been reading lately？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>A book...I haven't read much.</Dialog>
-          <Dialog>Book member disqualified.</Dialog>
-          <Dialog>That's what ▲小早川＊▲said?  Do you read anything?</Dialog>
-          <Dialog>Recently German literature.  Perhaps around "Young Heather's Worries".</Dialog>
-          <Dialog>German literature...  What kind of story is it?</Dialog>
-          <Dialog>A story in which a young man who falls in love for the first time despairs for an unfulfilled romance.</Dialog>
-          <Dialog>I'll lend you when you finish reading.</Dialog>
-          <Dialog>……● I don't really want to despair.</Dialog>
+          <Dialog>I, erm… I haven't been
+reading a lot of books.</Dialog>
+          <Dialog>Fired from the library
+committee.</Dialog>
+          <Dialog>Well, what about you,
+▲小早川＊▲？ What
+have you been reading？</Dialog>
+          <Dialog>Recently I've been reading
+some German literature,
+including "The Sorrows of
+Young Werther".</Dialog>
+          <Dialog>German literature？ …
+What's the story about？</Dialog>
+          <Dialog>It's a story of a young
+man who falls in love for
+the first time and sorrows
+over his unfulfilled love.</Dialog>
+          <Dialog>I'll lend it to you when
+I'm done reading it.</Dialog>
+          <Dialog>… I don't want to get
+absorbed by his character
+and fall into despair,
+too.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1638,19 +1870,36 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>………….</Dialog>
+          <Dialog>…</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>What happened to your heavy face?</Dialog>
-          <Dialog>It was a heavier story than I imagined.</Dialog>
-          <Dialog>Ah.  Was it "Young Heinter's troubles"?</Dialog>
-          <Dialog>The young man who is the main character falls in love with a beautiful woman who has a fiancée.</Dialog>
-          <Dialog>But love doesn't come true and you despair of all the consequences and commit suicide.</Dialog>
-          <Dialog>...... It's a tragedy.</Dialog>
-          <Dialog>Right.  What do you think about love that never comes true?</Dialog>
-          <Dialog>I don't want to do it, and I can't imagine it.</Dialog>
-          <Dialog>I see.  It's a smooth sailing life.</Dialog>
-          <Dialog>It's not smooth sailing, but I'm in love.</Dialog>
-          <Dialog>……What are you saying, stupid?</Dialog>
+          <Dialog>What's wrong？ You look so
+solemn.</Dialog>
+          <Dialog>The story was much heavier
+than I anticipated.</Dialog>
+          <Dialog>Oh. "The Sorrows of Young
+Werther", right？</Dialog>
+          <Dialog>The main character is a
+young man who falls in
+love with a beautiful
+woman who's engaged.</Dialog>
+          <Dialog>But he can't fulfill his
+love. So as a result, he
+despairs everything and
+commits suicide.</Dialog>
+          <Dialog>That's… tragic.</Dialog>
+          <Dialog>I'm curious What do you
+think of love that never
+comes to fruition？</Dialog>
+          <Dialog>I don't want to. I can't
+imagine having to go
+through all of that.</Dialog>
+          <Dialog>I see. For you, you can
+only imagine a smooth
+sailing life.</Dialog>
+          <Dialog>It's not that. It's just
+that I'm in love.</Dialog>
+          <Dialog>… Idiot. What are you on
+about？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1743,17 +1992,37 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hey.  Are you still reading that?  Young young Intel...</Dialog>
+          <Dialog>Hey. Are you still reading
+that book？ The… Werther
+one.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Worries.  Just a little more.  The more you read, the more desperate you are.</Dialog>
-          <Dialog>No, there is also a story that at the beginning of the publication there was a young man who also desperately committed suicide.</Dialog>
-          <Dialog>I wish I had done it even in a case game before I thought so much.</Dialog>
-          <Dialog>I don't think there was a case game at the time...</Dialog>
-          <Dialog>What would you do if Rinko were desperate enough to hate everything...?</Dialog>
-          <Dialog>You shouldn't despair.</Dialog>
-          <Dialog>I don't know that.</Dialog>
-          <Dialog>Until the end, did you say that ● is an ally?  I don't despair.</Dialog>
-          <Dialog>It's parenthesized.  ...... Go to.</Dialog>
+          <Dialog>It's got me concerned. I'm
+almost finished. The more
+I read, the more hopeless
+I become.</Dialog>
+          <Dialog>When it was first began
+publication, there were
+stories of young people
+committing suicide, too.</Dialog>
+          <Dialog>Why didn't they play games
+or something to get their
+minds off it before they
+fell into all the despair？</Dialog>
+          <Dialog>I guess there was no
+gaming back then…</Dialog>
+          <Dialog>What would you do if…
+Rinko was so desperate
+that she became sick of
+everything…？</Dialog>
+          <Dialog>You can't fall into the
+same despair.</Dialog>
+          <Dialog>You don't know that.</Dialog>
+          <Dialog>I told you that I'm by
+your side until the end.
+I won't let you fall into
+that eternal sadness.</Dialog>
+          <Dialog>Don't try to be so cool
+about it… hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1875,20 +2144,44 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Haha...</Dialog>
+          <Dialog>Yawn～…</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Lack of sleep?</Dialog>
-          <Dialog>Yup.  I stayed up all night and read it all at once.</Dialog>
-          <Dialog>Oh, something young.  Was funny?</Dialog>
-          <Dialog>Do you feel like you've read only Rinko's impressions?</Dialog>
-          <Dialog>……Did you find out?</Dialog>
-          <Dialog>If you are interested, read it yourself.</Dialog>
-          <Dialog>……It seems difficult to read.  It may be painful to read the tragedy endlessly.</Dialog>
-          <Dialog>This work asks philosophy about how to live through the tragedy.</Dialog>
-          <Dialog>Hmm.  ● It's a philosophy that I want to stay with for the rest of my life.</Dialog>
-          <Dialog>That's usually the case.  I like tragedy life...</Dialog>
-          <Dialog>Yes Yes.  After all, it is more fun and fulfilling that love has come true.</Dialog>
-          <Dialog>……What is grinning alone?  You're stupid.</Dialog>
+          <Dialog>No sleep？</Dialog>
+          <Dialog>Yeah. I stayed up all
+night and just finished
+the book outright.</Dialog>
+          <Dialog>Oh, "The Young" something.
+What did you think？</Dialog>
+          <Dialog>Are you going to think
+you can claim to have
+read it all because of
+what Rinko's spoiled？</Dialog>
+          <Dialog>… You just called me right
+out.</Dialog>
+          <Dialog>If you're so invested, go
+read it yourself.</Dialog>
+          <Dialog>It's going to be a hard
+read… I don't know if I
+can force myself to read
+tragedies like that.</Dialog>
+          <Dialog>This story asks the
+philosophical questions
+about how to live through
+that kind of tragedy.</Dialog>
+          <Dialog>Huh. It's a philosophy I'd
+like to remain ignorant of
+for the rest of my life.</Dialog>
+          <Dialog>That's usually the case.
+You know things like that
+do happen in peoples'
+lives…</Dialog>
+          <Dialog>Right. But shouldn't you
+look forward to life where
+it's more fulfilling when
+that loves comes true？</Dialog>
+          <Dialog>… What are you smirking
+about？ Guhh, you're such
+an idiot.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1995,18 +2288,29 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Right.  Do you know the rumors about the next fast food?</Dialog>
+          <Dialog>Hey. Have you heard about
+the new fast food
+restaurant？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I don't know  Can you open a new store?</Dialog>
-          <Dialog>so.  I'm looking for a part-time job right now.</Dialog>
-          <Dialog>It's just a rumor.</Dialog>
-          <Dialog>The uniform is cute.</Dialog>
-          <Dialog>Huh.</Dialog>
-          <Dialog>Are you not so interested?</Dialog>
-          <Dialog>In the uniform itself.</Dialog>
-          <Dialog>Hmm.  So what if Rinko wanted to wear that uniform?</Dialog>
-          <Dialog>………….</Dialog>
-          <Dialog>It's a joke.  Imagine it.</Dialog>
+          <Dialog>No？ There's a new
+restaurant？</Dialog>
+          <Dialog>That's right. They're
+looking for part-time
+workers now.</Dialog>
+          <Dialog>That's all the rumors
+you're going to get.</Dialog>
+          <Dialog>They've said the uniform
+is cute.</Dialog>
+          <Dialog>Heh.</Dialog>
+          <Dialog>You're not interested？</Dialog>
+          <Dialog>Just in the uniform
+itself.</Dialog>
+          <Dialog>Hmm. What if Rinko were to
+wear that uniform？</Dialog>
+          <Dialog>…</Dialog>
+          <Dialog>I'm just joking. Don't
+conjure up so much
+imaginiation.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2123,19 +2427,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>It's the fast food restaurant I mentioned before.</Dialog>
+          <Dialog>That fast food place I was
+telling you about…</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Oh, did you rumor that your uniform is cute?</Dialog>
-          <Dialog>so.  Certainly cute.</Dialog>
-          <Dialog>Did you go to see it?  Bother.</Dialog>
-          <Dialog>No way.  The boy got a flyer.</Dialog>
-          <Dialog>How was it...?</Dialog>
-          <Dialog>It may be a little different from Rinko's hobby.</Dialog>
-          <Dialog>How is it different?  Waitress uniforms aren't that different.</Dialog>
-          <Dialog>Well... not only cute, but I want a little more poison.</Dialog>
-          <Dialog>And there is a flat blowout inside the store.</Dialog>
-          <Dialog>It's a calm store...</Dialog>
-          <Dialog>Is it soft?  It's an ideal store for Rinko...</Dialog>
+          <Dialog>Yeah. Did you hear about
+the cute uniforms？</Dialog>
+          <Dialog>Uh-huh. They're definitely
+cute.</Dialog>
+          <Dialog>You went to see them？ You
+went out of your way？</Dialog>
+          <Dialog>No. We got a flyer
+advertising it.</Dialog>
+          <Dialog>So what did you think…？</Dialog>
+          <Dialog>It's not Rinko's cup of
+tea.</Dialog>
+          <Dialog>What difference does it
+make？ There's not that
+much difference compared
+to a waitress's uniform.</Dialog>
+          <Dialog>I'd like to see more venom
+than… cutesy stuff.</Dialog>
+          <Dialog>A place with a lot more of
+a punk style and music,
+too.</Dialog>
+          <Dialog>It would be such a
+restless place.</Dialog>
+          <Dialog>I don't know. Rinko's just
+fantasizing about the
+ideal place at this point…</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2267,21 +2586,40 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Mr. Kawamura, do you know?</Dialog>
+          <Dialog>Do you know
+Kawamura-sensei？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I'm still a newlywed teacher.  A beautiful teacher, many boys cried when they knew of marriage.</Dialog>
-          <Dialog>Boys... stupid.</Dialog>
-          <Dialog>......What happened to Professor Kawamura?</Dialog>
-          <Dialog>I'm going to take maternity leave this month.</Dialog>
-          <Dialog>Huh.  I have a baby.</Dialog>
-          <Dialog>so.  Girls are making a fuss about which baby looks more like.</Dialog>
-          <Dialog>I'm quick.  My husband was a rocky person.</Dialog>
-          <Dialog>Yup.  I've seen you in the photo, but it's just a beauty and a beast.</Dialog>
-          <Dialog>How do you see Rinko and you from all around?</Dialog>
-          <Dialog>I'm a beast?</Dialog>
-          <Dialog>here we go?  At least not the Hakuba Prince.</Dialog>
-          <Dialog>I can't argue with that.</Dialog>
-          <Dialog>Rinko likes the beast with charm rather than the prince.</Dialog>
+          <Dialog>She's that teacher that
+recently got married？ She's
+beautiful, and all the boys
+cried when they found out.</Dialog>
+          <Dialog>Boys… they're such idiots.</Dialog>
+          <Dialog>… Anyway, what about
+Kawamura-sensei？</Dialog>
+          <Dialog>She's going on maternity
+leave this month.</Dialog>
+          <Dialog>Huh. Already having a baby？</Dialog>
+          <Dialog>That's right. The girls are
+all in a hissy with each
+other about what they think
+the baby will look like.</Dialog>
+          <Dialog>That was quick. Isn't her
+husband build like a
+boulder？</Dialog>
+          <Dialog>Yeah. I've seen pictures of
+them together. It's a real
+case of Beauty and the
+Beast.</Dialog>
+          <Dialog>How do you think people see
+you and Rinko？</Dialog>
+          <Dialog>Am I that horrifying？</Dialog>
+          <Dialog>I don't know. But you're no
+dazzling Prince Charming.</Dialog>
+          <Dialog>… Yeah. I can't argue with
+that.</Dialog>
+          <Dialog>Rinco prefers a charming
+beast to a simple prince
+any day.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2406,19 +2744,41 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>That.  Is it difficult to raise a baby?</Dialog>
-          <Dialog>I wonder if Kawamura-sensei has never returned to work because childcare is difficult.  Now everyone is saying</Dialog>
+          <Dialog>You know, I keep thinking.
+I wonder is babies are hard
+to raise.</Dialog>
+          <Dialog>I've heard that
+Kwamura-sensei said child
+care was difficult, so she
+won't be returning to work.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>It's popular, and since I'm a good teacher, I'm sorry if it's true.</Dialog>
-          <Dialog>right.  However, I can understand that childcare seems to be difficult.</Dialog>
-          <Dialog>▲小早川＊▲Is that also childcare experience?</Dialog>
-          <Dialog>......Not really.</Dialog>
-          <Dialog>What is it?  Isn't it because you took care of your relatives' children?</Dialog>
-          <Dialog>Oh  ......Uchiha, you still have a younger brother.</Dialog>
-          <Dialog>Speaking of which, yes.</Dialog>
-          <Dialog>It's usually cute and it's easy to handle, but once I start crying it's already tough.  It's like a monster.</Dialog>
-          <Dialog>It would be even more difficult for a newborn baby.</Dialog>
-          <Dialog>Yup.  I hope the teacher doesn't quit if I can, but I can't force myself.</Dialog>
+          <Dialog>That's a shame if it's
+true. She's a popular and
+good teacher.</Dialog>
+          <Dialog>I'm sure you're right. But
+I can kind of understand
+how difficult it is to
+raise a child.</Dialog>
+          <Dialog>▲小早川＊▲, do you
+have experience raising
+children？</Dialog>
+          <Dialog>… No, I don't.</Dialog>
+          <Dialog>Hey, wait a minute！ Didn't
+you ever help take care of
+a younger relative？</Dialog>
+          <Dialog>Oh, I see. … I should count
+my little brother, then？</Dialog>
+          <Dialog>That's what I was thinking.</Dialog>
+          <Dialog>He's generally so cute and
+unruly. But once he begins
+crying, he's a royal pain.
+He's a little monster then.</Dialog>
+          <Dialog>I can only imagine it would
+be harder with a newborn.</Dialog>
+          <Dialog>Yeah. If possible, I'd like
+you to not quit what you're
+doing with him. But I can't
+force you to keep doing it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2517,18 +2877,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>……worst.  It's the biggest pinch that Rinko was born.</Dialog>
+          <Dialog>… This is just the worst.
+This is the biggest pinch
+I've been in my entire
+life.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>What happened?</Dialog>
-          <Dialog>I will make a speech in the next English class.</Dialog>
-          <Dialog>Doesn't it mean that you were selected?</Dialog>
-          <Dialog>It was known that Rinko loves Western music...</Dialog>
-          <Dialog>Oh, is that it?</Dialog>
-          <Dialog>Listening and speaking are completely different.</Dialog>
-          <Dialog>But you decided?</Dialog>
-          <Dialog>......You're on Rinko's side, right?</Dialog>
-          <Dialog>Aside from the preparation, the speech is live.</Dialog>
-          <Dialog>After all, it's the worst. </Dialog>
+          <Dialog>Wait. What's going on？</Dialog>
+          <Dialog>I have to give a speech in
+my next English class.</Dialog>
+          <Dialog>Doesn't that mean you were
+carefully selected？</Dialog>
+          <Dialog>People know that Rinko
+likes western music…</Dialog>
+          <Dialog>Oh. So, that's why？</Dialog>
+          <Dialog>Listening to it being
+spoken and actually
+speaking it are entirely
+different from one another.</Dialog>
+          <Dialog>But it's been decided,
+right？</Dialog>
+          <Dialog>… You've got Rinko's back,
+right？</Dialog>
+          <Dialog>Aside from the preperation,
+the speech is the real
+issue.</Dialog>
+          <Dialog>… This is going to suck.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2664,22 +3037,40 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>By the way, what happened to the English speech?</Dialog>
+          <Dialog>Hey, how did your English
+speech go？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>……finished.</Dialog>
-          <Dialog>If so, please report it.  I was worried.</Dialog>
-          <Dialog>Yup.  It wasn't bad...I think.  I was praised.</Dialog>
-          <Dialog>That's amazing.  What did you talk about?</Dialog>
-          <Dialog>Regarding the view of the world while quoting the words of killer van beads.</Dialog>
-          <Dialog>Please explain briefly.</Dialog>
-          <Dialog>In short, I love killer bang beads.  If it's something you like, you'll hear slurred words.</Dialog>
-          <Dialog>I can imagine it.  It's also amazing when ▲小早川＊▲ talks about her love for cats.</Dialog>
-          <Dialog>Well then, let's talk about how much you like Rinko from now on.</Dialog>
-          <Dialog>......Why does that happen?</Dialog>
-          <Dialog>I mean...I don't really like Rinko.</Dialog>
-          <Dialog>So why is it like this...</Dialog>
-          <Dialog>Ehhhhhhhhh....</Dialog>
-          <Dialog>(Speech is good, but acting isn't good...)</Dialog>
+          <Dialog>… it's done.</Dialog>
+          <Dialog>Well, come on. Fill me in.
+I want to know how it went.</Dialog>
+          <Dialog>Yeah. I don't think it
+turned out bad. It was even
+complimented.</Dialog>
+          <Dialog>That's great！ What did you
+speak on？</Dialog>
+          <Dialog>I quoted the lyrics from
+Killer Bambies… stuff about
+their worldview.</Dialog>
+          <Dialog>Hmm. Give me a description？</Dialog>
+          <Dialog>In short, I love Killer
+Bambies. When it's material
+you love, it's easy to talk
+about, right？</Dialog>
+          <Dialog>Yeah, I can get that. It's
+like when ▲小早川＊▲
+talks about her love for
+cats.</Dialog>
+          <Dialog>Right. Your turn. Tell me
+how much you like Rinko.</Dialog>
+          <Dialog>… Er, why is that？</Dialog>
+          <Dialog>Oh, I get it… You just
+don't care for Rinko that
+much after all.</Dialog>
+          <Dialog>How did we get here…？</Dialog>
+          <Dialog>Er, ehm, uhh…</Dialog>
+          <Dialog>（You may do well in
+speeches, but not in
+acting…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2786,18 +3177,38 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>As a girl on the library committee, we had a reading session.</Dialog>
+          <Dialog>The girls in the library
+committee decided to have a
+reading session.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Reading session?  Do you all come together to read a book?</Dialog>
-          <Dialog>A little different  As a volunteer, I read books for preschoolers.</Dialog>
-          <Dialog>● We didn't hear it, though?</Dialog>
-          <Dialog>Yup.  First of all, only girls.</Dialog>
-          <Dialog>Hmm.  ▲小早川＊▲was like that, but I thought I wouldn't participate.</Dialog>
-          <Dialog>That prejudice.  It's fun to think about what books the little ones will love.</Dialog>
-          <Dialog>By the way, I read it to my brother at home.</Dialog>
-          <Dialog>Rinko becomes happy when she sees me with sparkling eyes and listening.</Dialog>
-          <Dialog>It would be nice if you liked books.</Dialog>
-          <Dialog>Yeah.  This may be a serious responsibility.</Dialog>
+          <Dialog>Like a reading group？ We're
+all going to get together
+and read a book？</Dialog>
+          <Dialog>Not like that. They said
+they're going to volunteer
+to read books to the
+preschoolers.</Dialog>
+          <Dialog>We're not going to have to
+do that too, are we？</Dialog>
+          <Dialog>Yup. Well, just the girls,
+first.</Dialog>
+          <Dialog>Huh. To think I beleived
+▲小早川＊▲ wouldn't be
+involved with that stuff.</Dialog>
+          <Dialog>Oh, so there's your
+prejudice. No, it's fun to
+think about what kind of
+books the kids would like.</Dialog>
+          <Dialog>Come to think of it, I read
+to my little brother at
+home, too.</Dialog>
+          <Dialog>Seeing the sparkle in his
+eyes and the way he listens
+makes Rinko happy, too.</Dialog>
+          <Dialog>Plus, if it makes you like
+books, that's a good thing.</Dialog>
+          <Dialog>That's right. It's a big
+undertaking.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2931,20 +3342,44 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>The last reading session was quite well received.</Dialog>
+          <Dialog>The reading session the
+other day was quite
+popular.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>It was good.  What kind of book did you read?</Dialog>
-          <Dialog>At first I thought it would be nice to have a short picture book, so I made a book called "The Fox's Great Things".</Dialog>
-          <Dialog>I've never heard it, but what kind of story is it?</Dialog>
-          <Dialog>A story about a little fox going out to various things for the first time to go adventure.  Especially popular with boys.</Dialog>
-          <Dialog>My teacher and mother told me that I would like to ask you again next time.  Heh!</Dialog>
-          <Dialog>▲小早川＊▲Maybe you are looking for a nurse.</Dialog>
-          <Dialog>I do not think so?  Speaking of which, I was surprised to see that he was a recent child.</Dialog>
-          <Dialog>Are you</Dialog>
-          <Dialog>Does your sister have a boyfriend?  I was asked.  Moreover, the partner is a couple of 4 years old.</Dialog>
-          <Dialog>At 4 years old...  What is that?</Dialog>
-          <Dialog>When I next came, I answered that I would show you a picture of your sister's boyfriend.  Hello, nice to meet you.</Dialog>
-          <Dialog>(Don't get nervous...) </Dialog>
+          <Dialog>Oh, that's great. What kind
+of books did you read to
+the kids？</Dialog>
+          <Dialog>I thought a short picture
+book would be a good start.
+So I decided on a book
+called "The Fox's Journey".</Dialog>
+          <Dialog>I've never heard of it.
+What's it about？</Dialog>
+          <Dialog>It's a story about a little
+fox who goes on his first
+shopping trip and has many
+adventures. Boys like it.</Dialog>
+          <Dialog>The teacher and even my mom
+asked that I do it again
+next time. Hehe.</Dialog>
+          <Dialog>▲小早川＊▲, do you
+think you might have what
+it takes to be a nursery
+school teacher？</Dialog>
+          <Dialog>Maybe？ Come to think of it,
+kids these days are so
+smart. That surprised me.</Dialog>
+          <Dialog>So maybe that's a plan？</Dialog>
+          <Dialog>I was asked if my sister
+had a boyfriend. By some
+four-year-olds！</Dialog>
+          <Dialog>Four-year-olds…？ Asking
+that kind of question？</Dialog>
+          <Dialog>I said I'd show them a
+photo of my sister's
+boyfriend the next time I
+came. So I need your photo.</Dialog>
+          <Dialog>（Don't make me so nervous…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

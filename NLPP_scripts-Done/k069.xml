@@ -90,17 +90,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>That...what do you think about a little child...?</Dialog>
+          <Dialog>So, um… What do you think
+of young girls…？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Well, sometimes I think I'm cheeky, but basically I like it.  Cute</Dialog>
-          <Dialog>Saucy……?  I see.</Dialog>
-          <Dialog>When you play with your relatives, you say he's grown up in spite of his children.</Dialog>
-          <Dialog>……e?</Dialog>
-          <Dialog>e?  ……Wrong?</Dialog>
-          <Dialog>……I see.  Is that the little one over there?</Dialog>
-          <Dialog>What's the story?  ● Do you misunderstand?</Dialog>
-          <Dialog>......Well, ok.</Dialog>
-          <Dialog>Don't be convinced alone.  It feels bad</Dialog>
+          <Dialog>Huh. Well, sometimes I
+think they can be a bit
+sassy, but generally I like
+them. They're cute.</Dialog>
+          <Dialog>Sassy…？ I can see that.</Dialog>
+          <Dialog>When I play with my younger
+relatives, they sometimes
+say stuff you wouldn't
+expect a kid to say.</Dialog>
+          <Dialog>… Like？</Dialog>
+          <Dialog>What？ … Well, er…</Dialog>
+          <Dialog>… Hold on. I didn't mean
+that type of young girl.</Dialog>
+          <Dialog>What are you talking about？
+Oh, geez. I got what you
+were talking about all
+wrong again, didn't I？</Dialog>
+          <Dialog>… I mean, I don't know.</Dialog>
+          <Dialog>You're convincing yourself
+of something taken way out
+of context. Don't do that.
+Now you've made it weird.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -225,22 +239,44 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>After dating, the difference in height is... after all, do you mind?</Dialog>
+          <Dialog>When you're in a
+relationship, does the
+height difference between
+the two affect it at all…？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>What is it, suddenly.</Dialog>
-          <Dialog>This is a story of an acquaintance.</Dialog>
-          <Dialog>Yup.</Dialog>
-          <Dialog>When walking side by side on a date, he seems to be worried if he is short.</Dialog>
-          <Dialog>▲小早川＊▲.  Do you care about that?</Dialog>
-          <Dialog>So it's not about Rinko, but about someone I know.</Dialog>
-          <Dialog>I'm not sure why you're interested, though.</Dialog>
-          <Dialog>You see how long you walk.</Dialog>
-          <Dialog>● is always in line with ▲小早川＊▲, but was it too early……?</Dialog>
-          <Dialog>Together...yes, I didn't notice.</Dialog>
-          <Dialog>So I don't have to worry about that.</Dialog>
-          <Dialog>I know... tell an acquaintance.</Dialog>
-          <Dialog>I know you.</Dialog>
-          <Dialog>Yeah... I know him.</Dialog>
+          <Dialog>That came out of the blue.</Dialog>
+          <Dialog>I just know someone who was
+affected by it is why I'm
+asking.</Dialog>
+          <Dialog>Uh-huh.</Dialog>
+          <Dialog>When they walked side by
+side, they were very
+concerned about their small
+stature.</Dialog>
+          <Dialog>▲小早川＊▲, does it
+bother you that much？</Dialog>
+          <Dialog>This isn't about Rinko.
+It's about someone else I
+know.</Dialog>
+          <Dialog>I don't know why it
+bothers you. I don't care
+about it.</Dialog>
+          <Dialog>Well, I mean I observe the
+way you have to walk and
+all.</Dialog>
+          <Dialog>I guess I'm subconsciously
+trying to match your
+speed, ▲小早川＊▲. Am
+I doing too much…？</Dialog>
+          <Dialog>Together, then… I think we
+both are.</Dialog>
+          <Dialog>Well, I'd say you don't
+really have to worry about
+it.</Dialog>
+          <Dialog>Alright then… I guess I can
+tell my friend, then.</Dialog>
+          <Dialog>"Friend", yeah.</Dialog>
+          <Dialog>Yeah… my friend.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -353,20 +389,39 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I'm talking about height, but you still care?</Dialog>
+          <Dialog>I guess I'm overthinking
+it, but are you still
+concerned about your
+height？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>That's why I'm talking about an acquaintance.</Dialog>
-          <Dialog>Oh</Dialog>
-          <Dialog>……Yup.</Dialog>
-          <Dialog>But if you like it, you don't really care about such details, usually.</Dialog>
-          <Dialog>Is it such a thing?</Dialog>
-          <Dialog>After all, most guys don't decide if they'll be tall or short.</Dialog>
-          <Dialog>I see.  A little relieved.</Dialog>
-          <Dialog>I was really worried.</Dialog>
-          <Dialog>……Well……a little.  ......Here... when you kiss...</Dialog>
-          <Dialog>......Ah, is that so?  But when I kiss, I think it's okay for him to stretch out hard.</Dialog>
-          <Dialog>… Hentai.</Dialog>
-          <Dialog>Why does that happen...</Dialog>
+          <Dialog>It wasn't about me, it was
+someone I know.</Dialog>
+          <Dialog>Yeah, sure.</Dialog>
+          <Dialog>… It's true.</Dialog>
+          <Dialog>I can put it this way, when
+you fall in love with
+someone, those details
+really don't matter.</Dialog>
+          <Dialog>I wonder if that's the
+case.</Dialog>
+          <Dialog>Because most guys don't
+decide whether or not to go
+out with someone based on
+how tall the girl is.</Dialog>
+          <Dialog>Well, then. I'm a little
+relieved.</Dialog>
+          <Dialog>Make sure to tell your
+"friend" that, too.</Dialog>
+          <Dialog>… Well… It's just… You
+know… like when we're…
+kissing, you know…？</Dialog>
+          <Dialog>… Huh. I get it now. But I
+think it's adorable when I
+see you stand as tall as
+you can when you kiss me.</Dialog>
+          <Dialog>… you creep.</Dialog>
+          <Dialog>What？ How am I a creep for
+thinking that…？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -503,23 +558,47 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I've always been concerned, but if you're short, it's small...</Dialog>
-          <Dialog>Itte.</Dialog>
+          <Dialog>You seem to be concerned
+about it a lot, but if
+you're short, you're also
+short…</Dialog>
+          <Dialog>Ouch！</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Don't say it's small many times.</Dialog>
-          <Dialog>......If it's small, maybe it's fine, right?</Dialog>
-          <Dialog>For example...?</Dialog>
-          <Dialog>You know, it's easy to hold a princess… Ah, I'm not angry.</Dialog>
+          <Dialog>Don't keep tossing the word
+"short" at me.</Dialog>
+          <Dialog>… I was just saying that
+sometimes it's better to be
+short, don't you think？</Dialog>
+          <Dialog>How so…？</Dialog>
+          <Dialog>Well, it would be easier
+for me to carry this
+princess in my arms.
+… Oh, crap. Don't be angry.</Dialog>
           <Dialog>I'm not angry.</Dialog>
-          <Dialog>Then why do you look like that?</Dialog>
-          <Dialog>Hold on to the princess...what is it like?  ......Ah, the current one.</Dialog>
-          <Dialog>Are you interested </Dialog>
-          <Dialog>It's Rinko, she's a girl...but I don't want you to do it.</Dialog>
-          <Dialog>why?  If you want to do it, you can do ● anytime?</Dialog>
-          <Dialog>That's... embarrassing.</Dialog>
-          <Dialog>Isn't it okay if no one is watching?</Dialog>
-          <Dialog>Yeah, then... why did Rinko...  It’s already stupid.</Dialog>
-          <Dialog>(I wish I could do it honestly)</Dialog>
+          <Dialog>Really？ What's the look all
+about, then？</Dialog>
+          <Dialog>I wonder what it's like to
+carry a princess in your
+arms. … Oh, don't get any
+ideas. Not now.</Dialog>
+          <Dialog>Would you be interested？</Dialog>
+          <Dialog>That's just because Rinko
+is a girl… But I don't
+think I want you to do it,
+though.</Dialog>
+          <Dialog>Oh, yeah？ Well, if you ever
+do want me to carry you
+like that, I'll do it
+whenever you want.</Dialog>
+          <Dialog>The thought is just so…
+embarrassing.</Dialog>
+          <Dialog>Well, if there's no one
+around to see us, why not？</Dialog>
+          <Dialog>Yeah. Then… Why is it that
+you've made Rinko curi-…
+You're such an idiot.</Dialog>
+          <Dialog>（You could just say that
+you want me to do it.）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -653,20 +732,40 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>That.  When you get married, do you want to go on a honeymoon?</Dialog>
+          <Dialog>Random question. When you
+get married, do you want to
+go on a honeymoon？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>...... What did you do suddenly?</Dialog>
-          <Dialog>I'm misunderstanding.  A story about my dad and my mom.</Dialog>
-          <Dialog>Haven't you been traveling a lot since you got married again?</Dialog>
-          <Dialog>There is no overnight trip, let alone honeymoon.</Dialog>
-          <Dialog>Are you busy with work?</Dialog>
-          <Dialog>There is also that, but isn't there something that you can't leave your children with?</Dialog>
-          <Dialog>Ah.  Is my brother still small?</Dialog>
-          <Dialog>Yup.  If it's just Rinko, I don't mind if you leave it.</Dialog>
-          <Dialog>A girl living alone is really bad for a short time.</Dialog>
-          <Dialog>One person...is accustomed.  And... there's also you right now.</Dialog>
-          <Dialog>……e?</Dialog>
-          <Dialog>It's a strange imagination.  Nobody told me to call home.</Dialog>
+          <Dialog>… Heh. W-well, I, er…</Dialog>
+          <Dialog>Listen. It's about my dad…
+and my mom.</Dialog>
+          <Dialog>Hasn't he at least taken a
+trip since he remarried？</Dialog>
+          <Dialog>Nope. No honeymoon. Not
+even an overnight stay
+anywhere.</Dialog>
+          <Dialog>Busy with work？</Dialog>
+          <Dialog>That's part of it. But I
+think he doesn't want to
+leave his kids behind？</Dialog>
+          <Dialog>Aah. You're brother's still
+very little, isn't he？</Dialog>
+          <Dialog>Yeah. If it were just
+Rinko, I'd tell him he
+could just leave me home
+or whatever.</Dialog>
+          <Dialog>It's not a good idea for a
+girl to live alone, though.
+Even if for just a short
+time.</Dialog>
+          <Dialog>I mean one of us is… used
+to it. And then there's…
+well, you now, too.</Dialog>
+          <Dialog>… Eh？</Dialog>
+          <Dialog>Don't get any wild ideas.
+No one said anything about
+inviting you over when no
+one else is home.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -762,16 +861,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>If I can entrust my brother, can I go on a honeymoon?</Dialog>
+          <Dialog>If you can leave your
+brother with me, can you
+send your parents out to go
+on their honeymoon…？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Not so easy.  Dad aside...Mom has anxiety.</Dialog>
-          <Dialog>Hmm...</Dialog>
-          <Dialog>What?  Say something weird!?</Dialog>
-          <Dialog>I heard that I can usually say that I am a mother.</Dialog>
-          <Dialog>…It’s stupid.  Mom is mom...</Dialog>
-          <Dialog>That.  Rinko is not always a child.</Dialog>
-          <Dialog>It's good that you become a "family".</Dialog>
-          <Dialog>Well, if you just say such a guardian, you'll get older sooner?</Dialog>
+          <Dialog>It wouldn't be that easy.
+Aside from my father… my
+mother has a tendency to
+worry.</Dialog>
+          <Dialog>Hmm…</Dialog>
+          <Dialog>What？ Ah, come on. Did I
+say something weird！？</Dialog>
+          <Dialog>I was thinking. I realized
+I'm calling her my 'mother'
+normally now.</Dialog>
+          <Dialog>… Don't be foolish. Your
+mother is your mother.</Dialog>
+          <Dialog>That's right. And Rinko
+won't be a child forever,
+either.</Dialog>
+          <Dialog>I'm glad that we're a real
+*family* now.</Dialog>
+          <Dialog>Look. If you keep talking
+like a parent, you're going
+to be old before you know
+it, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -882,18 +997,42 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>So, I've collected a pamphlet for a hot spring nearby so I can go with my family.</Dialog>
+          <Dialog>So I gethered up some
+pamphlets to see if there
+were any hot springs we
+could go to as a family.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Huh.  I have various plans now.</Dialog>
-          <Dialog>That.  It's easy to make a schedule because it's close from one night and two days.</Dialog>
-          <Dialog>Couple-only mixed bath tour...?</Dialog>
-          <Dialog>I can't find anything strange.  This lewd genie.</Dialog>
-          <Dialog>This is the only thing that happened to be found!!</Dialog>
-          <Dialog>How about...</Dialog>
-          <Dialog>Instead of that, did you talk about this to your parents?</Dialog>
-          <Dialog>yet.  There was no timing to cut out...</Dialog>
-          <Dialog>But you should talk only as soon as possible.  I can't decide by myself.</Dialog>
-          <Dialog>Yeah, I know.  I'll talk when I get home today.</Dialog>
+          <Dialog>Huh. You're starting to
+work on a lot of plans
+lately.</Dialog>
+          <Dialog>Well, sure. It's easy to
+make plans because it will
+be a one night and two day
+stay nearby.</Dialog>
+          <Dialog>Is it a couples-only mixed
+bathing spot…？</Dialog>
+          <Dialog>You keep thinking of the
+weirdest things！ Goodness！
+You're such a perverted,
+filthy degenerate.</Dialog>
+          <Dialog>You're the one looking into
+hot springs！！ I was just
+trying to help！</Dialog>
+          <Dialog>So that's your reasoning…</Dialog>
+          <Dialog>Regardless, did you ever
+bring this up to your
+parents？</Dialog>
+          <Dialog>Not yet. I haven't found
+the opportunity to even
+start sprinkling an idea
+in…</Dialog>
+          <Dialog>It would be better to just
+talk about it as soon as
+you can. You can't make
+their plans for them.</Dialog>
+          <Dialog>Yeah, I know. Fine. I'll
+tell them when I get home
+today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1043,22 +1182,43 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>...... Just before, there was a phone call from home.</Dialog>
+          <Dialog>… I got a call from home
+just now.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>From home...?  What happened...? </Dialog>
-          <Dialog>Yeah... I cried.</Dialog>
-          <Dialog>e?</Dialog>
-          <Dialog>I looked up on Rinko and travel magazines, so I felt like I was hiding something.</Dialog>
-          <Dialog>At first, I was worried whether I would leave the house again...  So I told you the truth.</Dialog>
-          <Dialog>So I was crying at the phone...</Dialog>
-          <Dialog>Yup.  But I was so happy that I cried...</Dialog>
-          <Dialog>I don't have to cry.  My daughter, I think that I want my parents to be happy...</Dialog>
-          <Dialog>I see.  Shouldn't it be better to go home soon?</Dialog>
-          <Dialog>……Yup.  Today the whole family should plan a trip... Mom said.</Dialog>
-          <Dialog>Well, it was good.</Dialog>
-          <Dialog>Yup.  I will report the results later.</Dialog>
-          <Dialog>● You don't have to worry about it.  I wish I could travel and go.</Dialog>
-          <Dialog>......Ye thanks.</Dialog>
+          <Dialog>From home…？ What's going on
+with…？</Dialog>
+          <Dialog>Yeah… got me in a crying
+mess.</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>They saw Rinko going
+through travel brochures,
+so they thought I was
+hiding something from them.</Dialog>
+          <Dialog>At first, my mom was
+worried I was going to run
+away from home again… So I
+had to spoil everything.</Dialog>
+          <Dialog>That explains why you were
+crying on the phone…</Dialog>
+          <Dialog>Yeah. I was crying because
+her reaction made me happy…</Dialog>
+          <Dialog>You shouldn't have to cry.
+You're a good daughter who
+just wants to make her
+parents happy…</Dialog>
+          <Dialog>I see. Then shouldn't you
+try to get home sooner？</Dialog>
+          <Dialog>… Yes. So, my mom said…
+that we're getting together
+today to plan the trip out
+as a family.</Dialog>
+          <Dialog>Oh, that's great！</Dialog>
+          <Dialog>Yeah. I'll tell you all
+about it later.</Dialog>
+          <Dialog>You don't have worry about
+me. But now I want to go on
+a trip.</Dialog>
+          <Dialog>… Yeah. Thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1184,19 +1344,36 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>I think recently, I wonder what I'm doing 10 years from now.</Dialog>
-          <Dialog>I used to think about what the future was like... but nowadays.</Dialog>
+          <Dialog>I wonder where I'll be or
+what I'm doing in ten
+years…</Dialog>
+          <Dialog>I used to wonder that, too.
+It's been a while, but
+lately I've been thinking
+about my future again.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Perhaps thanks to ●?</Dialog>
-          <Dialog>Unubo Ren Natstu.  …Although it may have some impact.</Dialog>
-          <Dialog>▲ 10 years after ▲小早川＊▲?  I wonder if I'm doing OL.  ......Why not?</Dialog>
-          <Dialog>What do you mean?</Dialog>
-          <Dialog>Somehow...Isn't it tied up in the frame? That kind of thing.</Dialog>
-          <Dialog>I don't know at all.  But you're definitely an ossan after 10 years.</Dialog>
-          <Dialog>......I don't think so.</Dialog>
-          <Dialog>That's the mental part.  If you just take care of others, you'll get old soon.</Dialog>
-          <Dialog>...... Who is baking it?</Dialog>
-          <Dialog>What did you say?</Dialog>
+          <Dialog>Could it be because of me？</Dialog>
+          <Dialog>Don't bee so vain. Then
+again… you did affect it
+a little.</Dialog>
+          <Dialog>▲小早川＊▲ ten years
+later…？ I wonder if you'll
+be an office worker, maybe？
+I don't know.</Dialog>
+          <Dialog>What do you mean？</Dialog>
+          <Dialog>I mean, I don't think
+that's all you're capable
+of… that's what I mean.</Dialog>
+          <Dialog>I have no idea. But I have
+an idea of what you'll be:
+an old man.</Dialog>
+          <Dialog>… That's not true.</Dialog>
+          <Dialog>I mean your mentality.
+You're always taking care
+of others. You'll grow old
+before you know it.</Dialog>
+          <Dialog>… You're gonna be old, too.</Dialog>
+          <Dialog>What did you say？</Dialog>
           <Dialog>Nothing.</Dialog>
         </Dialogs>
       </SDL2>
@@ -1286,17 +1463,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>It's 10 years from now, but what did you think of ▲小早川＊▲?</Dialog>
+          <Dialog>How do you think you would
+see yourself in ten years,
+▲小早川＊▲？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Well... that's a difficult question.</Dialog>
-          <Dialog>Think about what you want to be in the future.</Dialog>
-          <Dialog>Then, a fighter.</Dialog>
-          <Dialog>……seriously?</Dialog>
-          <Dialog>I can't say that.  Did you really start?</Dialog>
-          <Dialog>Since I'm watching that I'm doing everything I can,</Dialog>
-          <Dialog>Haha... Because of this, those who have no distinction between reality and fiction...</Dialog>
-          <Dialog>You don't have to say that much.  What do you want to be in the end?</Dialog>
-          <Dialog>......Nice.</Dialog>
+          <Dialog>Hmm… now that's a tough
+question.</Dialog>
+          <Dialog>Think about what you want
+to be in the future.</Dialog>
+          <Dialog>Maybe a fighter.</Dialog>
+          <Dialog>Wait… Seriously？</Dialog>
+          <Dialog>Of course not！ You would
+seriously believe that's
+what I want to be？</Dialog>
+          <Dialog>I've seen you play a lot of
+video games, especially the
+fighting variety. So I
+wouldn't be surprised.</Dialog>
+          <Dialog>Huh… You're one of those
+who can't tell the
+difference between reality
+and fantasy…</Dialog>
+          <Dialog>No, no, no. Don't start
+saying stuff like that.
+Geez. But seriously, what
+do you want to be？</Dialog>
+          <Dialog>… It's a secret.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1411,18 +1603,38 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>What do you think you're going to be more than 10 years after Rinko's story?</Dialog>
+          <Dialog>How about this. Instead of
+thinking of Rinko's future,
+what do you see yourself
+doing in ten years？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>● Or…….  Are you a salaried worker?</Dialog>
-          <Dialog>It's good, though.  Do you have more dreams?  That kind of thing is said to be Ossan.</Dialog>
-          <Dialog>It’s a dream…….  If I had a warm family, I would be happy with that.</Dialog>
-          <Dialog>……Yeah, I understand that.</Dialog>
-          <Dialog>Huh.</Dialog>
-          <Dialog>Strange?  I used to think that it was impossible to get married...</Dialog>
-          <Dialog>Did your dad remarry?</Dialog>
-          <Dialog>Is there that?  But... not only that... well.</Dialog>
-          <Dialog>Don't stop talking.</Dialog>
-          <Dialog>Noisy.  …… Insensitive.</Dialog>
+          <Dialog>Me？ Huh… Maybe I'll be a
+businessman.</Dialog>
+          <Dialog>I wouldn't mind that. Do
+you have any other dreams？
+If that's all, then this is
+why you're such a geezer.</Dialog>
+          <Dialog>Well, my biggest dream… If
+I could have a warm, loving
+family… I would be happy
+with that.</Dialog>
+          <Dialog>…Yeah, I can kinda see
+that.</Dialog>
+          <Dialog>Heh.</Dialog>
+          <Dialog>Are you crazy？ I used to
+think that getting married
+was out of the realm of
+possibility for me…</Dialog>
+          <Dialog>Because of your father's
+remarriage？</Dialog>
+          <Dialog>I guess there's that, too.
+But not only that… it's…
+it's good after all.</Dialog>
+          <Dialog>Ah, man. You're stopping
+when you're about to say
+something good again.</Dialog>
+          <Dialog>You're loud… and
+insensitive.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1526,19 +1738,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>10 years later.  It's not fair.  Don't shake it. </Dialog>
+          <Dialog>You still can't think of
+anything that you want to
+be in ten years？ C'mon！
+Quit holding out on me.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>……Bride.</Dialog>
-          <Dialog>!?</Dialog>
-          <Dialog>I was surprised!</Dialog>
-          <Dialog>What a joke?</Dialog>
-          <Dialog>I'm not kidding.  I'm not about to get married.</Dialog>
-          <Dialog>that's true…….</Dialog>
-          <Dialog>Maybe you're jealous of your future husband?</Dialog>
-          <Dialog>……Okay.</Dialog>
-          <Dialog>Go for it!</Dialog>
-          <Dialog>What?</Dialog>
-          <Dialog>See you!</Dialog>
+          <Dialog>… your wife.</Dialog>
+          <Dialog>！？</Dialog>
+          <Dialog>Hehe. Surprise！</Dialog>
+          <Dialog>What a joke.</Dialog>
+          <Dialog>I'm not even kidding. I'm
+sure you'll get married
+sooner or later.</Dialog>
+          <Dialog>That's right…</Dialog>
+          <Dialog>Are you jealous of your
+future husband？</Dialog>
+          <Dialog>… C'mon, man.</Dialog>
+          <Dialog>Heh. Good luck with that.</Dialog>
+          <Dialog>What was that？</Dialog>
+          <Dialog>Come on！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1644,17 +1862,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲What are you interested in recently?</Dialog>
+          <Dialog>▲小早川＊▲, you got
+anything you've been super
+interested in recently？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>On the video site, I think I'm watching cat videos everyday.</Dialog>
-          <Dialog>Huh.  Every day?</Dialog>
-          <Dialog>Yup.  I never get tired of watching it everyday.</Dialog>
-          <Dialog>Some of them are individual and cheeky, others are timid, and their reactions are all different, right?</Dialog>
-          <Dialog>If you look at it like that, you'll want to try it.</Dialog>
-          <Dialog>Actually, ▲小早川＊▲likes cats.</Dialog>
-          <Dialog>However, I have a problem.  ......Thanks to my lack of sleep every day.</Dialog>
-          <Dialog>It's a good idea to leave it there.</Dialog>
-          <Dialog>Yup.  I know, but when I notice it, I'm staring at me endlessly.  Cute is a sin...</Dialog>
+          <Dialog>I've been watching a lot of
+cat videos online, I guess.</Dialog>
+          <Dialog>Heh. A lot, huh？</Dialog>
+          <Dialog>Yeah. I may or may not be
+watching them every day.</Dialog>
+          <Dialog>They've all got their own
+personalities, you know？
+Some are stubborn, some are
+timid. They're all unique！</Dialog>
+          <Dialog>And when I see them, I just
+want to squeeeeeze～ them！</Dialog>
+          <Dialog>You really like your cats,
+huh ▲小早川＊▲？</Dialog>
+          <Dialog>Yeah, I have a problem. I
+have another one where…
+because of you I don't get
+enough sleep every day.</Dialog>
+          <Dialog>Yeah, yeah. Keep your video
+consumption in moderation,
+now.</Dialog>
+          <Dialog>Yes. I know, I know. I-it's
+not my fault I keep binge
+watching them！ It's got to
+be a sin to be that cute…</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1736,15 +1971,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>By the way, are you just watching video sites on the internet?</Dialog>
+          <Dialog>Got anything else from the
+internet that's interesting
+besides videos？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>……Yup.  I don't look around much else.  Originally it was my father's computer.</Dialog>
-          <Dialog>Oh, I don't play games online.</Dialog>
-          <Dialog>After all, it's more fun for Kakege to beat the opponent directly at the game center.</Dialog>
-          <Dialog>Hitting is... It's just a girl.</Dialog>
-          <Dialog>Rinko is not a girl, but a fighter when she plays a game.</Dialog>
-          <Dialog>When I play a match, I'm just a girl character.</Dialog>
-          <Dialog>Even if you win with a stupid character, it's not beautiful.  It's a policy.</Dialog>
+          <Dialog>… Eh, I don't know. It's my
+dad's computer, so I don't
+do much with it.</Dialog>
+          <Dialog>Oh, I don't play games
+online or anything.</Dialog>
+          <Dialog>It's far more enjoyable to
+beat up your opponent in an
+arcade.</Dialog>
+          <Dialog>Such arrogance and
+violence… all packed in
+such a sweet-looking girl…</Dialog>
+          <Dialog>When I'm playing a game,
+Rinko is not just a girl.
+No. She's a figher！</Dialog>
+          <Dialog>When we play against each
+other, it's all girl
+characters, though.</Dialog>
+          <Dialog>It's not satisfying to use
+a bulky mass of muscle to
+win. That's my policy.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1822,15 +2072,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Oh, and on the Internet, the unreleased sound source of Killer Bambids has started to be distributed.</Dialog>
+          <Dialog>Oh！ Killer Bambies'
+unreleased tracks are now
+out online.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Ah, the one who is always in the music player of ▲小早川＊▲?</Dialog>
-          <Dialog>so.  This song is a live sound source, but it's not really weirdly processed, it's rough, and it's more realistic.</Dialog>
-          <Dialog>Speaking of which, ▲小早川＊▲isn't going to live?</Dialog>
-          <Dialog>Because killer van beads do not come to Japan.  As expected, we cannot go abroad.</Dialog>
-          <Dialog>I see.  Oh, and ▲小早川＊▲is a crowded live house…….</Dialog>
-          <Dialog>What is a crowded live house...?  Do you want to say that you are trampled</Dialog>
-          <Dialog>You haven't said it yet.</Dialog>
+          <Dialog>Is that what you've got in
+your music player now,
+▲小早川＊▲？</Dialog>
+          <Dialog>That's right. This song is
+a live recording, so it's
+not mastered or anything.
+It's as rough as it's real.</Dialog>
+          <Dialog>Neat！ Speaking of which,
+have you ever seen them
+live, ▲小早川＊▲？</Dialog>
+          <Dialog>No. Killer Bambies won't
+come to Japan. They don't
+tour overseas.</Dialog>
+          <Dialog>That sucks. Just imagining
+▲小早川＊▲ in a
+crowded concert hall is
+kind of funny…</Dialog>
+          <Dialog>What？ You think I'd get
+trampled at a concert…？ You
+don't think I would do fine
+in one？</Dialog>
+          <Dialog>I didn't say anything about
+that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1961,21 +2229,38 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Fine.  When you go to a live house, ● will protect you.</Dialog>
+          <Dialog>You wanna go to a concert
+together so I can be there
+to guard you？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>……Yup.  Well, at that time it's okay to hold it...</Dialog>
-          <Dialog>of course.</Dialog>
-          <Dialog>And... how can I stretch myself?</Dialog>
-          <Dialog>People often say that you should drink milk.</Dialog>
-          <Dialog>......I'm doing it all the time.  It doesn't grow at all.</Dialog>
-          <Dialog>Do you want to stretch your back so much?</Dialog>
-          <Dialog>In that way, Rinko seems desperate.</Dialog>
-          <Dialog>But are you happy if you grow?</Dialog>
-          <Dialog>That's... when you walk with Kareshi, you're in balance?</Dialog>
-          <Dialog>e?  ●● is the same as it is now ▲小早川＊▲, and I think it's all good.</Dialog>
-          <Dialog>is that so.</Dialog>
-          <Dialog>I didn't try to force it to match with ●, but ▲小早川＊▲is fine.</Dialog>
-          <Dialog>......Thank you.  I feel a little better. </Dialog>
+          <Dialog>… Huh. Maybe it'll be okay
+for us to hold hands then…</Dialog>
+          <Dialog>Well, yeah. Of course.</Dialog>
+          <Dialog>それとさ……どうすれば背伸びるんだろ。</Dialog>
+          <Dialog>Alright then… Next. How do
+I grow taller？</Dialog>
+          <Dialog>… Er… You can drink milk？</Dialog>
+          <Dialog>You're serious about
+growing taller, huh？</Dialog>
+          <Dialog>When you ask it like that,
+you make Rinko sound
+desperate.</Dialog>
+          <Dialog>But you'd be happy with us
+being more relative in
+height, right？</Dialog>
+          <Dialog>It's… also… generally more
+of a balance with our walk
+speeds and stuff, you know？</Dialog>
+          <Dialog>▲小早川＊▲, I hope you
+know that I'm perfectly
+fine with the way you are.</Dialog>
+          <Dialog>Yeah… if you say so.</Dialog>
+          <Dialog>You don't have to force
+yourself to fit in with the
+others, ▲小早川＊▲.
+Just be yourself.</Dialog>
+          <Dialog>… Thank you. I think I can
+do that now.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

@@ -99,18 +99,23 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hmm?</Dialog>
-          <Dialog>Now, I have a favorite person.</Dialog>
-          <Dialog>eh!?</Dialog>
-          <Dialog>…….</Dialog>
-          <Dialog>……Ah!  What kind of musician?</Dialog>
-          <Dialog>Wrong.</Dialog>
-          <Dialog>Eh... then the characters in the novel.  The characters of the game.</Dialog>
-          <Dialog>Lost.  I mean... it's not a quiz.</Dialog>
-          <Dialog>Then...?</Dialog>
-          <Dialog>Fool?</Dialog>
-          <Dialog>▲小早川＊▲!?</Dialog>
-          <Dialog>(What is that...)</Dialog>
+          <Dialog>Hmm？</Dialog>
+          <Dialog>You know, I met someone I
+like.</Dialog>
+          <Dialog>What！？</Dialog>
+          <Dialog>…</Dialog>
+          <Dialog>Oh？ What？ Do you mean the
+musician？</Dialog>
+          <Dialog>No, it's not.</Dialog>
+          <Dialog>I'm not sure if it's a
+character in a novel or a
+game.</Dialog>
+          <Dialog>I mean… it's not a quiz
+or anything.</Dialog>
+          <Dialog>Then… me？</Dialog>
+          <Dialog>Idiot.</Dialog>
+          <Dialog>▲小早川＊▲！？</Dialog>
+          <Dialog>（What was that all about？）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -202,18 +207,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(▲小早川＊▲……What did you mean a while ago?)</Dialog>
-          <Dialog>I was there!</Dialog>
-          <Dialog>▲小早川＊▲.  A little.</Dialog>
+          <Dialog>（▲小早川＊▲…
+What's the meaning of what
+you were talking about
+earlier？）</Dialog>
+          <Dialog>Oh！ There he is！</Dialog>
+          <Dialog>Err, ▲小早川＊▲.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>what.</Dialog>
-          <Dialog>What does that mean?</Dialog>
-          <Dialog>You don't know?  Hah...I'm worried about you, Rinko.</Dialog>
-          <Dialog>What is that?  This is the one I'm worried about.</Dialog>
-          <Dialog>……sorry.  I'm serious about that.</Dialog>
-          <Dialog>of course?</Dialog>
-          <Dialog>…….</Dialog>
-          <Dialog>(▲小早川＊▲……)</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>What did you mean earlier？</Dialog>
+          <Dialog>You don't have any idea
+what I'm talking about？
+Sigh… Rinko's worried
+about you.</Dialog>
+          <Dialog>What's that all about？
+Yeah, I'm worried about
+this！</Dialog>
+          <Dialog>… I'm sorry. I can't
+believe I took that so
+seriously.</Dialog>
+          <Dialog>Isn't that obvious？</Dialog>
+          <Dialog>…</Dialog>
+          <Dialog>（▲小早川＊▲…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -392,26 +407,39 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(▲小早川＊▲……No, I can't do anything)</Dialog>
-          <Dialog>(Email……▲小早川＊▲)</Dialog>
-          <Dialog>"Come to the convenience store"</Dialog>
-          <Dialog>There was... ▲小早川＊▲!</Dialog>
+          <Dialog>（▲小早川＊▲…
+I can't do anything
+because I'm too worried.）</Dialog>
+          <Dialog>（▲小早川＊▲
+emailed me…）</Dialog>
+          <Dialog>「Come to the convenience
+store」</Dialog>
+          <Dialog>It's… ▲小早川＊▲！</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>▲小早川＊▲!  Uh...</Dialog>
-          <Dialog>First calm down.  Close your eyes.</Dialog>
-          <Dialog>…Oh, I understand.</Dialog>
-          <Dialog>Take a deep breath. </Dialog>
-          <Dialog>…….</Dialog>
-          <Dialog>What's your name?</Dialog>
-          <Dialog>▲苗字▲▲名前▲</Dialog>
-          <Dialog>What day is it today?</Dialog>
-          <Dialog>April 1st.  …………Hmm?</Dialog>
-          <Dialog>▲小早川＊▲…….</Dialog>
-          <Dialog>I'm really sorry.  No way...</Dialog>
-          <Dialog>"I have a favorite person" "Hey, April Fool!"</Dialog>
-          <Dialog>……● Are you stupid?</Dialog>
-          <Dialog>Pretty  But I don't hate that kind of thing either.  Sorry, forgive me this.</Dialog>
+          <Dialog>▲小早川＊▲！　Err…</Dialog>
+          <Dialog>First of all, calm down.
+Now, close your eyes.</Dialog>
+          <Dialog>… Ah, okay.</Dialog>
+          <Dialog>Take a deep breath.</Dialog>
+          <Dialog>…</Dialog>
+          <Dialog>What is your name？</Dialog>
+          <Dialog>▲苗字▲▲名前▲.</Dialog>
+          <Dialog>What day is it？</Dialog>
+          <Dialog>It's… April… 1st… Huh？</Dialog>
+          <Dialog>▲小早川＊▲…</Dialog>
+          <Dialog>You've got to be kidding
+me！ No way！ I am so sorry…</Dialog>
+          <Dialog>"I met someone I like."
+"Oh, come on, it's April
+Fool's Day！" I thought
+you'd…</Dialog>
+          <Dialog>… You think I must be
+really stupid at this
+point, don't you？</Dialog>
+          <Dialog>Quite a bit. But I don't
+mind that about you. I'm
+sorry. Please forgive me.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -496,17 +524,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>It's Golden Week...</Dialog>
+          <Dialog>It's Golden Week…</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Oh, is it Golden Week?  that is?</Dialog>
-          <Dialog>It's Golden Week, or 3 days from 3rd to 5th.</Dialog>
-          <Dialog>In the meantime, if you make a long kiss every day, the two of you will suddenly get along.</Dialog>
-          <Dialog>A long-lasting kiss?</Dialog>
-          <Dialog>You know, even that.</Dialog>
-          <Dialog>(That's the lasting guy...)</Dialog>
-          <Dialog>...... Do you want to do it?</Dialog>
-          <Dialog>Fool, seriously.</Dialog>
-          <Dialog>(Why did you talk about that?)</Dialog>
+          <Dialog>Oh！ It is Golden Week,
+isn't it？</Dialog>
+          <Dialog>Yeah. The three days from
+the 3rd to the 5th.</Dialog>
+          <Dialog>I heard if couples kissed
+every day during it, for a
+long time, their love would
+progress rapidly.</Dialog>
+          <Dialog>"For a long time"？</Dialog>
+          <Dialog>You know what I mean.
+Long-lasting kisses.</Dialog>
+          <Dialog>（So, the one that goes on
+forever？）</Dialog>
+          <Dialog>… Do you want to？</Dialog>
+          <Dialog>Don't be so ridiculous to
+take it so seriously.</Dialog>
+          <Dialog>（Then why did you tell me
+that？）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -580,15 +617,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Did you aim?</Dialog>
+          <Dialog>So, were you going for it？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>What?</Dialog>
-          <Dialog>Golden week kiss.  Don't you remember?</Dialog>
-          <Dialog>Oh, that...</Dialog>
-          <Dialog>What the hell...</Dialog>
-          <Dialog>my mother…….</Dialog>
-          <Dialog>It's like this, but I don't think something will change.</Dialog>
-          <Dialog>(But I feel more intimate with ▲小早川＊▲)</Dialog>
+          <Dialog>Going for what？</Dialog>
+          <Dialog>The Golden Week kissing.
+Don't you remember？</Dialog>
+          <Dialog>Oh, that…</Dialog>
+          <Dialog>What the heck？ I thought…</Dialog>
+          <Dialog>Haha…</Dialog>
+          <Dialog>I don't think this changes
+anything.</Dialog>
+          <Dialog>（I really feel like if we
+went through with it, I
+could have strengthed our
+bond, ▲小早川＊▲…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -662,15 +704,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>I don't care, so I'm fine.</Dialog>
+          <Dialog>I don't really care, so
+it's fine.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……what?</Dialog>
-          <Dialog>Golden week kiss.  I forgot.</Dialog>
-          <Dialog>Ah...that.</Dialog>
-          <Dialog>It's good, though.</Dialog>
-          <Dialog>I'm sorry, I forgot.</Dialog>
-          <Dialog>So I don't care.</Dialog>
-          <Dialog>(You have to care……)</Dialog>
+          <Dialog>… What？</Dialog>
+          <Dialog>The Golden Week kiss. I'd
+forgotten after all.</Dialog>
+          <Dialog>Oh… is that so？</Dialog>
+          <Dialog>It's whatever.</Dialog>
+          <Dialog>Sorry. I forgot.</Dialog>
+          <Dialog>I told you I don't care.</Dialog>
+          <Dialog>（But I care…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -764,19 +808,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(The pool is open today. Since it is joint with another grade, ▲小早川＊▲ ▲……)</Dialog>
-          <Dialog>(▲小早川＊▲, I don't know……)</Dialog>
+          <Dialog>（Today is they're opening
+the pool. They're joining
+our grades in it, so I'll
+see ▲小早川＊▲…）</Dialog>
+          <Dialog>（▲小早川＊▲、
+where are you…？）</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>▲小早川＊▲?</Dialog>
-          <Dialog>…….</Dialog>
-          <Dialog>What are you looking at?</Dialog>
-          <Dialog>No... I think it's good, ▲小早川＊▲!</Dialog>
-          <Dialog>I don't understand the meaning.  To be clear?</Dialog>
-          <Dialog>Of these, ▲小早川＊▲ is the most cute.</Dialog>
-          <Dialog>……I'm not happy even if I'm compared with other people.</Dialog>
-          <Dialog>▲小早川＊▲…….</Dialog>
-          <Dialog>(Looking forward to the pool class!)</Dialog>
+          <Dialog>▲小早川＊▲？</Dialog>
+          <Dialog>…</Dialog>
+          <Dialog>What are you looking at？</Dialog>
+          <Dialog>No, I think it's… okay,
+▲小早川＊▲！</Dialog>
+          <Dialog>I don't know what you
+mean. Why don't you speak
+up？</Dialog>
+          <Dialog>Of everyone here,
+▲小早川＊▲ is
+still the cutest girl.</Dialog>
+          <Dialog>I'm not exactly cool with
+being compared to others.</Dialog>
+          <Dialog>▲小早川＊▲…</Dialog>
+          <Dialog>（I'm looking forward to
+more of this class！）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -870,19 +925,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(The pool is open today. Since it is joint with another grade, ▲小早川＊▲ ▲……)</Dialog>
-          <Dialog>(▲小早川＊▲, I don't know……)</Dialog>
+          <Dialog>（Today is they're opening
+the pool. They're joining
+our grades in it, so I'll
+see ▲小早川＊▲…）</Dialog>
+          <Dialog>（▲小早川＊▲、
+where are you…？）</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>▲小早川＊▲?</Dialog>
-          <Dialog>…….</Dialog>
-          <Dialog>Don't look around.  Pervert.</Dialog>
-          <Dialog>did not see!...... Well, I'm not looking at it.  maybe.</Dialog>
-          <Dialog>If you get closer, I'll kick you.</Dialog>
-          <Dialog>Come on.</Dialog>
-          <Dialog>If I stare at other girls, I will appeal to the teacher for sexual harassment.</Dialog>
-          <Dialog>Is it better to be kicked?</Dialog>
-          <Dialog>(Looking forward to the pool class!)</Dialog>
+          <Dialog>▲小早川＊▲？</Dialog>
+          <Dialog>…</Dialog>
+          <Dialog>Don't stare at me like
+some pervert.</Dialog>
+          <Dialog>But, I wasn't… Um, maybe I
+didn't think I was staring.</Dialog>
+          <Dialog>If you get any closer,
+I'll kick you.</Dialog>
+          <Dialog>Oh, come on.</Dialog>
+          <Dialog>And if I catch you staring
+at the other girls, I'll
+get a teacher and say
+you're harassing them.</Dialog>
+          <Dialog>Would it be better to be
+kicked？</Dialog>
+          <Dialog>（I'm looking forward to
+more of this class！）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -980,19 +1047,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(The pool is open today. Since it is joint with another grade, ▲小早川＊▲ ▲……)</Dialog>
-          <Dialog>(▲小早川＊▲, I don't know……)</Dialog>
+          <Dialog>（Today is they're opening
+the pool. They're joining
+our grades in it, so I'll
+see ▲小早川＊▲…）</Dialog>
+          <Dialog>（▲小早川＊▲、
+where are you…？）</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>▲小早川＊▲?</Dialog>
-          <Dialog>…….</Dialog>
-          <Dialog>Hehe.  It's also fresh in the school pool.</Dialog>
-          <Dialog>Oh, fresh...</Dialog>
-          <Dialog>Don't look too much.  Because everyone is around.</Dialog>
-          <Dialog>Eh, haha.</Dialog>
-          <Dialog>See ya.</Dialog>
-          <Dialog>▲小早川＊▲…….</Dialog>
-          <Dialog>(Looking forward to the pool class!) </Dialog>
+          <Dialog>▲小早川＊▲？</Dialog>
+          <Dialog>…</Dialog>
+          <Dialog>Hehe. It's refreshing to
+be in the school pool.</Dialog>
+          <Dialog>Oh, it sure is…</Dialog>
+          <Dialog>Don't stare so much. There
+are people around.</Dialog>
+          <Dialog>Err, haha… I guess so.</Dialog>
+          <Dialog>See you later.</Dialog>
+          <Dialog>▲小早川＊▲…</Dialog>
+          <Dialog>（I'm looking forward to
+more of this class！）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1076,13 +1150,21 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, what happened?</Dialog>
-          <Dialog>If you have free time, dating.</Dialog>
-          <Dialog>Oh what is it? 　Do you measure time?</Dialog>
-          <Dialog>No, it's a pain.  reading.  It seems to be a library committee.</Dialog>
-          <Dialog>Eh, here?</Dialog>
-          <Dialog>Because everyone is just playing in the pool.  Then what can I do?</Dialog>
-          <Dialog>(It's different...)</Dialog>
+          <Dialog>▲小早川＊▲、
+what's wrong？</Dialog>
+          <Dialog>If you're not busy, come
+hang out with me.</Dialog>
+          <Dialog>Sure. You wanna do
+something？</Dialog>
+          <Dialog>It's just a pain out
+there. Let's read
+something. It'll be like
+being on library duty.</Dialog>
+          <Dialog>What？ Here？</Dialog>
+          <Dialog>Because everyone is just
+playing in the pool, they
+won't care what we do.</Dialog>
+          <Dialog>（That's not true…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1162,13 +1244,20 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>What's wrong?</Dialog>
-          <Dialog>You, how long can you dive in the water?</Dialog>
-          <Dialog>Now...how about that?  Is it about a minute?</Dialog>
-          <Dialog>Then dive for 3 minutes.  If successful, give the potatoes in the library.</Dialog>
-          <Dialog>Haha, why triple?!</Dialog>
-          <Dialog>I won't complain!  Hey Hey.</Dialog>
-          <Dialog>Wow!</Dialog>
+          <Dialog>What's up, ▲小早川＊▲？</Dialog>
+          <Dialog>How long can you stay
+underwater？</Dialog>
+          <Dialog>I don't know… maybe a
+minute？</Dialog>
+          <Dialog>Then, try to go for three
+minutes. If you can, I'll
+give you some potato chips
+I keep in the library.</Dialog>
+          <Dialog>Triple the time for a
+miniscule reward！？</Dialog>
+          <Dialog>No complaining！ Come on,
+come on.</Dialog>
+          <Dialog>Uwaa！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1247,12 +1336,21 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲.  what?</Dialog>
-          <Dialog>It's Rinko.  After all it looks like a child, right?</Dialog>
-          <Dialog>e?  Why do you ask such a thing?</Dialog>
-          <Dialog>Because everyone wears the same swimsuit...</Dialog>
-          <Dialog>Really?  I didn't know because I didn't see anything other than Kobayakawa.</Dialog>
-          <Dialog>Hehehe.</Dialog>
+          <Dialog>▲小早川＊▲, what
+is it？</Dialog>
+          <Dialog>Rinko's really childish,
+huh？</Dialog>
+          <Dialog>Huh？ Why are you asking me
+that？</Dialog>
+          <Dialog>Because when everyone's
+wearing the same swimsuit…
+well I look… you know.</Dialog>
+          <Dialog>Really？ I wouldn't know,
+because I'm not really
+looking at anyone but
+▲小早川＊▲.</Dialog>
+          <Dialog>Hehe. Don't try to be so
+cool about it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1310,12 +1408,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>I thought the pool was a pain, but it's pretty good.  Almost free time.</Dialog>
+          <Dialog>I thought the pool would
+be a total pain, but it's
+pretty nice. It's like
+free time from class.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I see.</Dialog>
-          <Dialog>I took a good rest and sometimes swim.</Dialog>
-          <Dialog>Do you want to compete?</Dialog>
-          <Dialog>I don't.  You see, I'll go.</Dialog>
+          <Dialog>I guess.</Dialog>
+          <Dialog>I've had enough rest. I
+think I'll go for a
+swim sometime.</Dialog>
+          <Dialog>Oh！ Wanna race me？</Dialog>
+          <Dialog>I'm not doing that. Come
+on, let's go.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1397,16 +1501,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Oh, ▲小早川＊▲ OK...)</Dialog>
-          <Dialog>Yeah!</Dialog>
+          <Dialog>（Oh, ▲小早川＊▲…）</Dialog>
+          <Dialog>Hey！</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Wow!</Dialog>
-          <Dialog>eh!?</Dialog>
-          <Dialog>bad.  What makes me so surprised?</Dialog>
-          <Dialog>I thought I would stop breathing.  ......So, give artificial respiration.</Dialog>
-          <Dialog>Yeah, here!?</Dialog>
-          <Dialog>Baka!  I'm supposed to lie.  It's so awesome!</Dialog>
-          <Dialog>(I was really surprised...)</Dialog>
+          <Dialog>Waa！？</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>Sorr. I didn't know you'd
+be that surprised.</Dialog>
+          <Dialog>I thought I was going to
+stop breathing. I'm… I
+need CPR.</Dialog>
+          <Dialog>Really！？</Dialog>
+          <Dialog>Idiot！ Of course not！
+You big dummy！</Dialog>
+          <Dialog>（You must be very
+surprised…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1486,18 +1595,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(The pool class is easy...)</Dialog>
+          <Dialog>（Pool class is a piece of
+cake…）</Dialog>
           <Dialog>？？？</Dialog>
-          <Dialog>Wow!</Dialog>
-          <Dialog>Wow.</Dialog>
-          <Dialog>What, ▲小早川＊▲…….</Dialog>
+          <Dialog>Waa！</Dialog>
+          <Dialog>Whoa.</Dialog>
+          <Dialog>What is it,
+▲小早川＊▲…？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Are you surprised?</Dialog>
-          <Dialog>……did.  I'll tickle the revenge.</Dialog>
-          <Dialog>eh?</Dialog>
-          <Dialog>Wait, wait!</Dialog>
-          <Dialog>It's a pervert!</Dialog>
-          <Dialog>Wow!  Don't say something strange!</Dialog>
+          <Dialog>Hehe. Are you surprised？</Dialog>
+          <Dialog>I was… I'll tickle you as
+payback！</Dialog>
+          <Dialog>Eh？</Dialog>
+          <Dialog>Hey, wait！</Dialog>
+          <Dialog>No, you pervert！</Dialog>
+          <Dialog>Hey, hey！ Don't go saying
+stuff like that out loud！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1571,15 +1684,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>That's Tanabata today.</Dialog>
+          <Dialog>Hey, today is Tanabata,
+right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Ah, yes.</Dialog>
-          <Dialog>After all, I wonder if a house with a small child should be decorated with bamboo grass.</Dialog>
-          <Dialog>That's right...  Well, there are many places to do it, right?</Dialog>
-          <Dialog>That's right.</Dialog>
-          <Dialog>I see.  The Kobayakawa family also has a younger brother.</Dialog>
-          <Dialog>so.  I'm worried about that.</Dialog>
-          <Dialog>?</Dialog>
+          <Dialog>Yeah, that's what I
+thought.</Dialog>
+          <Dialog>I wonder if houses with
+small children decorate
+bamboo branches and make
+wishes.</Dialog>
+          <Dialog>Yes… well, there are a lot
+of places that do that,
+aren't there？</Dialog>
+          <Dialog>I thought so.</Dialog>
+          <Dialog>I see. You have a younger
+brother too, right？</Dialog>
+          <Dialog>Yeah. That's why I'm
+having trouble.</Dialog>
+          <Dialog>？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1666,16 +1788,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Well, the story of Tanabata just before.  What are you worried about?</Dialog>
+          <Dialog>Hey, about Tanabata
+earlier. What were you
+concerned about？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>That's right... Isn't Rinko's request for a strip of papers not suitable?</Dialog>
-          <Dialog>I do not think so?   ▲小早川＊▲ I'm surprised that I like that.</Dialog>
-          <Dialog>There are a lot of different ways to say it... There is a line drawing for Rinko.</Dialog>
-          <Dialog>Hmm.  So, are you worried about dating for your brother?</Dialog>
-          <Dialog>so.  It's a battle between emotion and attitude.</Dialog>
-          <Dialog>I don't really understand.  What do you mean?</Dialog>
-          <Dialog>That's... it's hard to explain what I'm particular about!</Dialog>
-          <Dialog>(Difficult……) </Dialog>
+          <Dialog>Well… doesn't it look good
+for Rinko to make a wish
+on a strip of paper？</Dialog>
+          <Dialog>Is that so？ I wouldn't
+expect ▲小早川＊▲
+to be into that.</Dialog>
+          <Dialog>There's a lot to consider,
+but there's a lot to
+Rinko.</Dialog>
+          <Dialog>Hmm. So you're wondering
+if you should go celebrate
+with him for your
+brother's sake？</Dialog>
+          <Dialog>Yes. It's a tug-of-war
+between affection and
+attitude.</Dialog>
+          <Dialog>I'm not sure I understand.
+What do you mean？</Dialog>
+          <Dialog>It's hard to explain the…
+obsession！</Dialog>
+          <Dialog>（That's a tough one…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1776,17 +1913,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hey, Tanabata.  I decided to do it.</Dialog>
+          <Dialog>So, Tanabata. I've decided
+what I'm going to do.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Oh.  You've won</Dialog>
-          <Dialog>Well, that kind of thing.</Dialog>
-          <Dialog>I see.  I wish I were happy.</Dialog>
-          <Dialog>Yeah, it's okay</Dialog>
-          <Dialog>▲小早川＊▲.  I'm an adult when I'm against my younger brother.</Dialog>
-          <Dialog>You're always an adult, right?  There are also boyfriends properly.</Dialog>
-          <Dialog>Then, is it also because of ●?</Dialog>
-          <Dialog>How are you doing?  But maybe that's right.  Thank you so much.</Dialog>
-          <Dialog>▲小早川＊▲…….</Dialog>
+          <Dialog>Oh. Emotion won out,
+didn't it？</Dialog>
+          <Dialog>Well, that's the thing.</Dialog>
+          <Dialog>I see. I hope you have fun
+with it.</Dialog>
+          <Dialog>Yeah, I'm sure it'll be
+fine.</Dialog>
+          <Dialog>▲小早川＊▲. You're
+really mature when you're
+dealing with your brother,
+huh？</Dialog>
+          <Dialog>You're always like a
+normal adult, right？ So be
+like a true boyfriend
+about it.</Dialog>
+          <Dialog>Then it's also thanks to
+me.</Dialog>
+          <Dialog>I got carried away. But,
+yeah. I guess I will spend
+it with my brother. I
+appreciate it, so thanks.</Dialog>
+          <Dialog>▲小早川＊▲…</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1851,16 +2002,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(It's over... It's a hassle to come to school just for this...)</Dialog>
-          <Dialog>Oh, ▲小早川＊▲.</Dialog>
-          <Dialog>that?</Dialog>
-          <Dialog>▲小早川＊▲.  You won't go suddenly.  I was able to meet you.</Dialog>
+          <Dialog>（I'm done… It's such a
+hassle to come to school
+just for this, the first
+day of school…）</Dialog>
+          <Dialog>Ah, ▲小早川＊▲.</Dialog>
+          <Dialog>Huh？</Dialog>
+          <Dialog>▲小早川＊▲. You
+can't just go out there
+like that. Even though
+we've just met.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>You can always meet separately.</Dialog>
-          <Dialog>Well, but...</Dialog>
-          <Dialog>Hey, it's because the boyfriend is lonely...</Dialog>
-          <Dialog>Hey…….</Dialog>
-          <Dialog>(Well, Ikka)</Dialog>
+          <Dialog>We can meet anytime.</Dialog>
+          <Dialog>Well, yes. But…</Dialog>
+          <Dialog>Oh, man. My boyfriend is
+so lonely…</Dialog>
+          <Dialog>Hey…</Dialog>
+          <Dialog>（Well, okay.）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1949,19 +2107,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(It's over... It's a hassle to come to school just for this...)</Dialog>
-          <Dialog>(Email……▲小早川＊▲)</Dialog>
-          <Dialog>"Come to the library"</Dialog>
-          <Dialog>(▲小早川＊▲……Where is it?)</Dialog>
-          <Dialog>(Ah, there was...)</Dialog>
-          <Dialog>What happened?</Dialog>
+          <Dialog>（I'm done… It's such a
+hassle to come to school
+just for this, the first
+day of school…）</Dialog>
+          <Dialog>（▲小早川＊▲…
+emailed me.）</Dialog>
+          <Dialog>「Come to the library.」</Dialog>
+          <Dialog>（▲小早川＊▲…
+Where are you？）</Dialog>
+          <Dialog>（Oh, there she is…）</Dialog>
+          <Dialog>Yo, what's up？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>I have no reason to do it.</Dialog>
-          <Dialog>Isn't it?</Dialog>
-          <Dialog>No good?</Dialog>
-          <Dialog>Not bad.</Dialog>
-          <Dialog>That's okay.  About the time killing partner.</Dialog>
-          <Dialog>(Good grief)</Dialog>
+          <Dialog>I don't have anything in
+particular to do.</Dialog>
+          <Dialog>You don't have it？</Dialog>
+          <Dialog>No？</Dialog>
+          <Dialog>It's not a no.</Dialog>
+          <Dialog>Then why not？ You can at
+least help me pass the
+time.</Dialog>
+          <Dialog>（Oh, dear.）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2025,14 +2191,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(It's over... It's a hassle to come to school just for this...)</Dialog>
+          <Dialog>（I'm done… It's such a
+hassle to come to school
+just for this, the first
+day of school…）</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>▲小早川＊▲.  What happened?</Dialog>
-          <Dialog>Somehow, I came.  Isn't it good sometimes?</Dialog>
-          <Dialog>Good... but sometimes?</Dialog>
-          <Dialog>I don't like the details.</Dialog>
-          <Dialog>Yes yes</Dialog>
+          <Dialog>▲小早川＊▲.What's
+wrong？</Dialog>
+          <Dialog>Somehow, I came. It's nice
+once in a while, isn't it？</Dialog>
+          <Dialog>Good, but… sometimes？</Dialog>
+          <Dialog>I'm not going into
+details.</Dialog>
+          <Dialog>Yes, yes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2111,16 +2283,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Well, it's a hassle, school day)</Dialog>
+          <Dialog>（Hmm. What a pain. The
+first of school.）</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>▲小早川＊▲.</Dialog>
-          <Dialog>It's a hassle, school day.</Dialog>
-          <Dialog>e?</Dialog>
-          <Dialog>……I thought that.  Wrong?</Dialog>
-          <Dialog>Why do you understand</Dialog>
-          <Dialog>I was thinking the same thing.</Dialog>
-          <Dialog>(So ​​that's it……)</Dialog>
+          <Dialog>It's a bother, the first
+day of school.</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>… That's what I thought.
+Am I wrong？</Dialog>
+          <Dialog>How do you know？</Dialog>
+          <Dialog>Because I was thinking the
+same thing.</Dialog>
+          <Dialog>（I see…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2184,14 +2360,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Well, it's a hassle, school day)</Dialog>
+          <Dialog>（Hmm. What a pain. The
+first of school.）</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>▲小早川＊▲.</Dialog>
-          <Dialog>Don't look so dark, it's dark to this point.</Dialog>
-          <Dialog>Ah, bad.  But you don't want to come, after all.</Dialog>
-          <Dialog>Of course.  There's no point in saying it, so don't say it.</Dialog>
-          <Dialog>Hey.</Dialog>
+          <Dialog>Don't look so gloomy. It
+makes me feel gloomy, too.</Dialog>
+          <Dialog>Oh, I'm sorry. But you
+don't want to come, do
+you？</Dialog>
+          <Dialog>Of course. You don't have
+to say it, so don't.</Dialog>
+          <Dialog>Heeey.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2261,15 +2442,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Well, it's a hassle, school day)</Dialog>
+          <Dialog>（Hmm. What a pain. The
+first of school.）</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>▲小早川＊▲.</Dialog>
-          <Dialog>Hey, are you going to the arcade?</Dialog>
-          <Dialog>Suddenly it is.</Dialog>
-          <Dialog>No good?</Dialog>
-          <Dialog>That's no good.</Dialog>
-          <Dialog>Cheer.</Dialog>
+          <Dialog>Hey, do you want to go to
+the arcade？</Dialog>
+          <Dialog>That's out of the blue.</Dialog>
+          <Dialog>No？</Dialog>
+          <Dialog>No, that's not good.</Dialog>
+          <Dialog>Tsk.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2353,17 +2536,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Today is a sports festival...)</Dialog>
-          <Dialog>(Hmm, it's pretty exciting)</Dialog>
+          <Dialog>（Today is the Sports
+Festival…）</Dialog>
+          <Dialog>（Hmm. It's pretty
+exciting.）</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>▲小早川＊▲.</Dialog>
-          <Dialog>You practiced a lot.</Dialog>
-          <Dialog>Well</Dialog>
-          <Dialog>It sounds like you're having a hard time, but why don't you give me the results because it's a big deal?  I'll take a look.</Dialog>
-          <Dialog>Oh ok. </Dialog>
-          <Dialog>See you later.</Dialog>
-          <Dialog>(Okay, do it!)</Dialog>
+          <Dialog>You've been practicing a
+lot, haven't you？</Dialog>
+          <Dialog>Well, yeah.</Dialog>
+          <Dialog>I'm sure it'sa lot of
+work, but since you're
+here, why don't you get
+some results？ I'll watch.</Dialog>
+          <Dialog>Yeah, I'm on it.</Dialog>
+          <Dialog>I'll see you later.</Dialog>
+          <Dialog>（Okay！ Let's do this！）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2467,19 +2656,31 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(What the next competition was...)</Dialog>
+          <Dialog>（What's the next
+competition？ …）</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>Yo, ▲小早川＊▲.  What happened?</Dialog>
-          <Dialog>Well, I don't really want to come out, but I was pressed against them.</Dialog>
-          <Dialog>Is that so?  Well give up and do your best.</Dialog>
-          <Dialog>Instead, you have to find the other person.</Dialog>
-          <Dialog>Oh, is that the case?  Alright, then do you want to go out together?</Dialog>
-          <Dialog>okay?</Dialog>
-          <Dialog>of course.  Let's practice lightly.</Dialog>
-          <Dialog>Yeah, thanks...</Dialog>
-          <Dialog>What?  Look, let's go.</Dialog>
-          <Dialog>nothing!......It's nice, it's crazy.</Dialog>
+          <Dialog>Hey, ▲小早川＊▲.
+What's up？</Dialog>
+          <Dialog>Well, I'm not really up
+for it, but I'm forced
+into a three-legged race.</Dialog>
+          <Dialog>Haha, I see. Well, just
+give it your best.</Dialog>
+          <Dialog>But I had to find a
+partner, too.</Dialog>
+          <Dialog>Oh, I see. Okay, well,
+let's get out of here
+together.</Dialog>
+          <Dialog>Are you sure？</Dialog>
+          <Dialog>That's obvious. Well,
+let's get a little
+practice in.</Dialog>
+          <Dialog>Yeah, thanks…</Dialog>
+          <Dialog>Hmm, what？ Well, let's do
+this.</Dialog>
+          <Dialog>It's nothing！ … You've got
+a lot of energy, you know.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2576,17 +2777,30 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Well, Billi...  Rinko and his friends don't seem to be compatible?</Dialog>
+          <Dialog>Oh, last place… Are you
+and Rinko compatible in
+this type of thing？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I think my breath was right.  Rather, it's a matter of physical fitness.</Dialog>
-          <Dialog>Rinko's  You were doing your best.</Dialog>
-          <Dialog>OK.  This is a memorable experience.</Dialog>
-          <Dialog>Even though it’s dead</Dialog>
-          <Dialog>If it's ▲小早川＊▲, that's not bad either.</Dialog>
-          <Dialog>What that?  Masochist?</Dialog>
-          <Dialog>Why is that so!</Dialog>
-          <Dialog>joke.  Thank you so much for helping me...</Dialog>
-          <Dialog>▲小早川＊▲…….</Dialog>
+          <Dialog>I think we can do well
+together. It's more a
+matter of physical
+strength.</Dialog>
+          <Dialog>It's Rinko's fault. You
+were trying so hard.</Dialog>
+          <Dialog>It's okay. It'll be a good
+memory for me.</Dialog>
+          <Dialog>Even though we came in
+last？</Dialog>
+          <Dialog>It's something I got to do
+with ▲小早川＊▲.
+So it's something I will
+cherish, regardless.</Dialog>
+          <Dialog>What are you？ A masochist？</Dialog>
+          <Dialog>Why would you do that？</Dialog>
+          <Dialog>Just kidding. Thank you,
+though. It was nice of you
+to help me out…</Dialog>
+          <Dialog>▲小早川＊▲…</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2664,15 +2878,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>What do you do for Halloween?</Dialog>
+          <Dialog>Do you do anything for
+Halloween？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Oh, is it today?  I have no plans to do anything.</Dialog>
-          <Dialog>right.  The costumes are quite annoying.</Dialog>
-          <Dialog>That may be true, but it would be fun if I could.</Dialog>
-          <Dialog>Hmm, yes.</Dialog>
-          <Dialog>why?  Are there any plans for ▲小早川＊▲?</Dialog>
-          <Dialog>I don't... but I wonder why.</Dialog>
-          <Dialog>?</Dialog>
+          <Dialog>Oh, that's today. I don't
+have any plans or
+anything.</Dialog>
+          <Dialog>That's right. It's a pain
+to go through all the
+process to put on a fancy
+custume.</Dialog>
+          <Dialog>Maybe so, but it would be
+fun to be able to…</Dialog>
+          <Dialog>Hmm, I see.</Dialog>
+          <Dialog>Why？ What do you have
+planned, ▲小早川＊▲？</Dialog>
+          <Dialog>I don't have any plans.
+But I wonder what I could
+do…</Dialog>
+          <Dialog>？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2740,15 +2964,22 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(I don't have a TV I want to watch.</Dialog>
-          <Dialog>Who is that?  Yes.</Dialog>
-          <Dialog>▲小早川＊▲?  What happened, suddenly?</Dialog>
+          <Dialog>（There's nothing on TV.
+What should I do…？）</Dialog>
+          <Dialog>Huh？ Who's that？ Hi.</Dialog>
+          <Dialog>▲小早川＊▲？
+What's going on？ You're
+here all of a sudden.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>What's wrong?</Dialog>
-          <Dialog>That's not the case though.  Go for the time being.</Dialog>
-          <Dialog>So what happened?  What happened today?</Dialog>
-          <Dialog>Oh dear.  I'll prepare a little.  Don't come here</Dialog>
-          <Dialog>?  Ah, but...</Dialog>
+          <Dialog>What？ I can't come visit
+you？</Dialog>
+          <Dialog>It's not like that. At any
+rate, go away.</Dialog>
+          <Dialog>So, what's going on？ What
+are you doing today？</Dialog>
+          <Dialog>Well. I'm gonna go get
+ready. Don't come in yet.</Dialog>
+          <Dialog>？　Yeah. Okay, but…</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2802,12 +3033,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(▲小早川＊▲, what's wrong?)</Dialog>
+          <Dialog>（▲小早川＊▲,
+What's going on？）</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Please wait.</Dialog>
-          <Dialog>Well, what?  I need some sweets, a small kick!</Dialog>
-          <Dialog>▲小早川＊▲…….</Dialog>
-          <Dialog>It can be a substitute for sweets, but...</Dialog>
+          <Dialog>Here you go.</Dialog>
+          <Dialog>Well, what was it？ If it's
+not candy, I'm going to
+kick you！</Dialog>
+          <Dialog>▲小早川＊▲…</Dialog>
+          <Dialog>I don't care if it's not
+candy…</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2909,18 +3144,25 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>You're surprised, right?</Dialog>
+          <Dialog>Hehe. Surprised, right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Well...  Was this what I thought about in the Halloween story?</Dialog>
-          <Dialog>Well  Rinko was a lot of fun.  What are you?</Dialog>
-          <Dialog>● Was it fun?</Dialog>
-          <Dialog>Hmm?</Dialog>
-          <Dialog>It's embarrassing or throbbing...</Dialog>
-          <Dialog>That's the only one...</Dialog>
-          <Dialog>(I can't help it...)</Dialog>
-          <Dialog>See you.</Dialog>
-          <Dialog>I pushed it and sent it.  sorry.</Dialog>
-          <Dialog>That's okay.  See you soon.</Dialog>
+          <Dialog>That's… So, that's what I
+was pondering about
+Halloween.</Dialog>
+          <Dialog>Oh, well. Rinko had a lot
+of fun. Did you？</Dialog>
+          <Dialog>It was fun, or rather…</Dialog>
+          <Dialog>Hmm？</Dialog>
+          <Dialog>I was either embarrassed
+or nervous…</Dialog>
+          <Dialog>That's all you can do…</Dialog>
+          <Dialog>（What can I do… ？）</Dialog>
+          <Dialog>See ya.</Dialog>
+          <Dialog>I barged in on you and
+sent you on your way. I'm
+sorry.</Dialog>
+          <Dialog>No, that's not necessary.
+I'll see you later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3052,23 +3294,41 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Today is a school festival...)</Dialog>
-          <Dialog>(The job of the Steering Committee did their best. I hope it succeeds...)</Dialog>
-          <Dialog>(It was good. It's quite exciting)</Dialog>
-          <Dialog>(▲小早川＊▲ class, do you want to take a look...)</Dialog>
-          <Dialog>(Well, ▲小早川＊▲…….??)</Dialog>
+          <Dialog>（Today is the culture
+festival…）</Dialog>
+          <Dialog>（You did a great job on
+the committee, huh？ I hope
+it will be a success…）</Dialog>
+          <Dialog>（Good. It's getting pretty
+exciting.）</Dialog>
+          <Dialog>（Let's take a look at
+▲小早川＊▲'s class…）</Dialog>
+          <Dialog>（Let's see,
+▲小早川＊▲ is at…
+Huh？）</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>......Yeah.  What are you doing in that class?</Dialog>
-          <Dialog>Exhibition of historical materials of Towano City.</Dialog>
-          <Dialog>Wow, motivated.</Dialog>
-          <Dialog>It's easy.  You're a steering committee member.  busy?</Dialog>
-          <Dialog>I don't work so much on that day, ●.</Dialog>
+          <Dialog>Err… What's going on in in
+your class？</Dialog>
+          <Dialog>Exhibition of historical
+materials of Towano City.</Dialog>
+          <Dialog>Ugh, I'm not going to do
+it.</Dialog>
+          <Dialog>Why not？ It's easy. You're
+steering committee, right？
+Are you busy？</Dialog>
+          <Dialog>I don't have that much
+work to do that day.</Dialog>
           <Dialog>Hmm.</Dialog>
-          <Dialog>…….</Dialog>
-          <Dialog>By the way, what is that style?</Dialog>
-          <Dialog>If all the preparations were skipped, the teacher took me away.  It's the worst of the boring exhibitions... </Dialog>
-          <Dialog>(Alas... but is it self-employed?)</Dialog>
+          <Dialog>…</Dialog>
+          <Dialog>What's with the getup,
+anyway？</Dialog>
+          <Dialog>When I skipped all the
+preperatons, the teacher
+made me tout for the
+event. It's so boring…</Dialog>
+          <Dialog>（Poor girl… but she got
+what she deserved…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3180,19 +3440,32 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(It was good that the school festival ended without any problems, the rest was just a party)</Dialog>
+          <Dialog>（I'm glad the festival
+went off without a hitch.
+All that's left is the
+party.）</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>▲小早川＊▲.  I changed my clothes.</Dialog>
-          <Dialog>It's natural.  Forget it already.</Dialog>
-          <Dialog>Wow.</Dialog>
-          <Dialog>But, isn't the cultural festival itself a success?  Thanks to you guys.</Dialog>
-          <Dialog>I don't know if it was thanks to ●, but it was good for the time being.</Dialog>
-          <Dialog>Hmm.  Well, dating a little.</Dialog>
-          <Dialog>What?</Dialog>
-          <Dialog>There are some places I want you to go with.</Dialog>
-          <Dialog>Oh, good.</Dialog>
-          <Dialog>Yup.</Dialog>
+          <Dialog>▲小早川＊▲. You
+changed your clothes,
+didn't you？</Dialog>
+          <Dialog>It's obvious. Just forget
+it.</Dialog>
+          <Dialog>I'm sorry.</Dialog>
+          <Dialog>But the festival was a
+success, right？ It's all
+thanks to you guys.</Dialog>
+          <Dialog>I don't know if it's
+because of me or not, but
+I'm glad it was successful
+as well.</Dialog>
+          <Dialog>Hmm. You know what？ Let's
+hang out.</Dialog>
+          <Dialog>Huh？ For what？</Dialog>
+          <Dialog>I'd like you to go
+somewhere with me.</Dialog>
+          <Dialog>Yeah, okay.</Dialog>
+          <Dialog>Yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3309,20 +3582,33 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>There is no one.  This rooftop is a nice place but it's not very popular.</Dialog>
+          <Dialog>There's no one here. The
+rooftop is a nice place,
+but isn't very popular.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Yup.  So... I also called here at that time.</Dialog>
-          <Dialog>Ah... was that so?</Dialog>
-          <Dialog>It's a place I like, and it's not disturbed by anyone, so I told him I liked it.</Dialog>
-          <Dialog>Yup.</Dialog>
-          <Dialog>I will remember it every time I come here.  It's a great annoyance because I can't come easily.</Dialog>
-          <Dialog>my mother.  Is it bad?</Dialog>
-          <Dialog>It doesn't matter.  From that... I still remember it.</Dialog>
-          <Dialog>Yeah, ● too.</Dialog>
-          <Dialog>Can I do the same as that time?</Dialog>
-          <Dialog>that's…….</Dialog>
+          <Dialog>Yeah. That's why I called
+you… here at that time,
+too.</Dialog>
+          <Dialog>Oh… that's right.</Dialog>
+          <Dialog>It's a place I like, and
+no one will bother me, so
+I said I'd stick around…
+here.</Dialog>
+          <Dialog>Yeah.</Dialog>
+          <Dialog>I'm reminded of it every
+time I come here. I'm not
+comfortable here anymore,
+and it's not good for me.</Dialog>
+          <Dialog>Haha. Is that my fault？</Dialog>
+          <Dialog>I don't care about that.
+It's more about… how I'm
+remembering it again.</Dialog>
+          <Dialog>Yeah, me too.</Dialog>
+          <Dialog>Can I do what I did back
+then？</Dialog>
+          <Dialog>That is…</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>▲小早川＊▲…….</Dialog>
+          <Dialog>▲小早川＊▲…</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3382,10 +3668,13 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>Yup.  Is it summer training from today?  Ha...</Dialog>
-          <Dialog>Cheer up!</Dialog>
-          <Dialog>What are you saying about other people?</Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Yeah. Summer school starts
+today. Haha…</Dialog>
+          <Dialog>Oh, lighten up.</Dialog>
+          <Dialog>What are you talking
+about？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3446,11 +3735,17 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>Hey, how can I get rid of the summer class?  Are you going to break all the windows of your school from now on?</Dialog>
-          <Dialog>Far from summer training, ●'s student life is over.</Dialog>
-          <Dialog>Hah, hot...</Dialog>
-          <Dialog>(Listen to others...)</Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Hey, I wonder how we can
+get rid of summer school.
+Maybe you break all the
+windows in he school now？</Dialog>
+          <Dialog>It's not just a summer
+course. It's the end of my
+student life.</Dialog>
+          <Dialog>Huh. Whew, it's hot…</Dialog>
+          <Dialog>（Can you just focus？…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3506,10 +3801,13 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>good morning.  I hope the summer class ends early!</Dialog>
-          <Dialog>That's right!  ……It starts from today.</Dialog>
-          <Dialog>I know</Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Good morning. I hope your
+summer course will be
+over soon！</Dialog>
+          <Dialog>That's right！ …it will be.</Dialog>
+          <Dialog>Ha, I know.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3565,10 +3863,15 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>Yup.  Summer class is over.</Dialog>
-          <Dialog>I mean  It was like I didn't like it from the beginning.</Dialog>
-          <Dialog>It's a small Tsukkomi Rennatsu.</Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Yeah, I'm sick of summer
+school.</Dialog>
+          <Dialog>I mean, already？ It's like
+you didn't want to do it
+from the get-go.</Dialog>
+          <Dialog>I don't want to get into
+the details.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3629,11 +3932,16 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>Hot  Why do you bother to do summer training when it's hot?</Dialog>
-          <Dialog>That's about the summer.</Dialog>
-          <Dialog>Too ordinary, disqualified.</Dialog>
-          <Dialog>(Is it a test...)</Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>It's hot. Why bother with
+summer school when it's
+hot like this？</Dialog>
+          <Dialog>Probably because it's
+summer.</Dialog>
+          <Dialog>That's too plain. You're
+disqualified.</Dialog>
+          <Dialog>（That was a test？…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3693,10 +4001,14 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>good morning.  I am tired of summer classes.  Saboro?</Dialog>
-          <Dialog>I know what I'm feeling, but I don't care.</Dialog>
-          <Dialog>…Sticky.</Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Good morning. I'm tired of
+summer school. Think we
+can skip it？</Dialog>
+          <Dialog>I know how you feel, but
+you've got to be patient.</Dialog>
+          <Dialog>… you're no fun.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3761,11 +4073,16 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>Yup.  I knew?  Seems to be a winter course from today.</Dialog>
-          <Dialog>?  Ah.  So are you here?</Dialog>
-          <Dialog>What's the reality...</Dialog>
-          <Dialog>(Hey...) </Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Yeah. Did you know？ The
+winter semester starts
+today.</Dialog>
+          <Dialog>Eh？ Yeah. That's why
+you're here today,
+right？</Dialog>
+          <Dialog>What the heck？ It's real…</Dialog>
+          <Dialog>（Hey, hey…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3826,11 +4143,16 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>Rinko, do you seem to want to take a winter course?</Dialog>
-          <Dialog>I can't see it.</Dialog>
-          <Dialog>Then I wish I had managed to do it by today.  It's unreasonable...</Dialog>
-          <Dialog>(which?)</Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Does it look like Rinko
+wants to take a winter
+course？</Dialog>
+          <Dialog>I cant imagine why not…</Dialog>
+          <Dialog>You should have done
+someting abot it before
+today. It's unreasonable…</Dialog>
+          <Dialog>（Like what？）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3895,11 +4217,15 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>good morning.  It is a winter course from today.  Maru?  Xu?</Dialog>
-          <Dialog>……Maru?</Dialog>
-          <Dialog>Read the air...</Dialog>
-          <Dialog>(Don't say crazy...)</Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Good morning. We're
+starting winter school
+today. Right or wrong？</Dialog>
+          <Dialog>Umm… Right？</Dialog>
+          <Dialog>You would think it feels
+right…</Dialog>
+          <Dialog>（Don't be absurd…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3955,10 +4281,14 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>Yup.  Hey, are you clearing the course when you wake up in the cold?</Dialog>
-          <Dialog>Probably not.</Dialog>
-          <Dialog>Yup.  Okay, I just tried.</Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Hey, don't you think you
+did good enough to pass
+this course when you woke
+up freezing this morning？</Dialog>
+          <Dialog>Maybe I didn't.</Dialog>
+          <Dialog>Yeah. I'm just saying.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4019,11 +4349,16 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>Rinko, maybe she caught a cold.</Dialog>
-          <Dialog>e?  Is it all right to come?</Dialog>
-          <Dialog>……I'm sorry, lie.  I wish my mother also tricked me.</Dialog>
-          <Dialog>…….</Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Rinko might have caught a
+cold.</Dialog>
+          <Dialog>What？ Should you even be
+going today？</Dialog>
+          <Dialog>… Sorry, I lied. I wish my
+mom would have bought it,
+too.</Dialog>
+          <Dialog>…</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4084,11 +4419,14 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>good morning.  ……Good night.</Dialog>
-          <Dialog>……Good night.</Dialog>
-          <Dialog>Don't tell me what you can't do.</Dialog>
-          <Dialog>(What should I do...)</Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Good morning… good night.</Dialog>
+          <Dialog>… Good night.</Dialog>
+          <Dialog>I wish I could be saying
+good night right now.</Dialog>
+          <Dialog>（What do you want me to
+do？…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4148,10 +4486,16 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>Yup.  Spring class from today?  How many times do you fall asleep...</Dialog>
-          <Dialog>For the time being, it's a prerequisite to fall asleep.</Dialog>
-          <Dialog>Yup.</Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Yeah. Spring semester
+starts today. I wonder
+how many times I'll doze
+off…</Dialog>
+          <Dialog>At any rate, I guess I'll
+try not to doze off,
+myself.</Dialog>
+          <Dialog>Yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4212,11 +4556,15 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>Alright, spring class.  I will do my best from today!</Dialog>
-          <Dialog>Oh, it's amazing.  ▲小早川＊▲.</Dialog>
-          <Dialog>Don't believe me</Dialog>
-          <Dialog>(Return the "great" of...)</Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Alright, spring semester.
+I'll do my best from here
+on.</Dialog>
+          <Dialog>Alright, ▲小早川＊▲！</Dialog>
+          <Dialog>Don't get your hopes up.</Dialog>
+          <Dialog>（Give me back my
+enthusiasm…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4285,11 +4633,17 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>good morning.  It's a spring class from today.  Is it over by tomorrow?</Dialog>
-          <Dialog>As expected, it's not that short.</Dialog>
-          <Dialog>That's true.  I checked it many times.</Dialog>
-          <Dialog>(Did you do...)</Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Good morning. Spring
+semester starts today.
+Dont you wish it would
+just fly right on by？</Dialog>
+          <Dialog>You're right. It's not
+that short.</Dialog>
+          <Dialog>That's right. I checked
+over and over again.</Dialog>
+          <Dialog>（You would…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4350,11 +4704,15 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>Yup.  I won't sleep today</Dialog>
-          <Dialog>You have a good heart?</Dialog>
-          <Dialog>I thought so last time too.</Dialog>
-          <Dialog>…….</Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Alright. I'll try not to
+fall asleep today.</Dialog>
+          <Dialog>Oh？ Giving that a shot,
+huh？</Dialog>
+          <Dialog>That's what I thought last
+time, too.</Dialog>
+          <Dialog>…</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4411,11 +4769,12 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>Alright, I gave up.</Dialog>
-          <Dialog>what?</Dialog>
-          <Dialog>Today's class.</Dialog>
-          <Dialog>(Naughty……)</Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Well, I give up.</Dialog>
+          <Dialog>Do what？</Dialog>
+          <Dialog>Today's training.</Dialog>
+          <Dialog>（You're so graceful…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4476,11 +4835,14 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, good morning.</Dialog>
-          <Dialog>good morning.  The course is almost over.</Dialog>
-          <Dialog>Well...is that right?  Is it regrettable?</Dialog>
-          <Dialog>All right?</Dialog>
-          <Dialog>(Maybe...)</Dialog>
+          <Dialog>Good morning,
+▲小早川＊▲.</Dialog>
+          <Dialog>Good morning. I guess the
+course is nearly over.</Dialog>
+          <Dialog>You think so…？ I'm not
+sure it's even close.</Dialog>
+          <Dialog>Not at all？</Dialog>
+          <Dialog>（I'm sure you know…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4555,16 +4917,26 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Speaking of which, ▲小早川＊▲.  Did you hear about the contest?</Dialog>
+          <Dialog>Oh, by the way,
+▲小早川＊▲. Did
+you hear about the
+contest？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>What?</Dialog>
-          <Dialog>Swimsuit contest.  I'll do it.</Dialog>
-          <Dialog>Wow what that.</Dialog>
-          <Dialog>It's a hot topic.</Dialog>
-          <Dialog>It has nothing to do with Rinko.</Dialog>
-          <Dialog>Surprisingly ▲小早川＊▲ may be chosen?</Dialog>
-          <Dialog>What's surprising...</Dialog>
-          <Dialog>……nothing.</Dialog>
+          <Dialog>Huh？</Dialog>
+          <Dialog>The swimsuit contest.
+They're going to do it.</Dialog>
+          <Dialog>Ugh. What is that？</Dialog>
+          <Dialog>There's some talk about
+it.</Dialog>
+          <Dialog>Rinko's got nothing to do
+with it.</Dialog>
+          <Dialog>Surprisingly, it could be
+that ▲小早川＊▲
+might be chosen to
+participate, you know？</Dialog>
+          <Dialog>What do you mean by
+"Ssurprisingly"？</Dialog>
+          <Dialog>…Err, it's nothing.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4668,19 +5040,28 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲, you won the championship.</Dialog>
+          <Dialog>I heard that
+▲小早川＊▲ won.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>what?</Dialog>
-          <Dialog>Swimsuit contest.  ▲小早川＊▲ won.</Dialog>
-          <Dialog>Ha...</Dialog>
-          <Dialog>I'm glad... isn't there?</Dialog>
-          <Dialog>It's like a show.</Dialog>
-          <Dialog>......Well, maybe.</Dialog>
-          <Dialog>What are you?</Dialog>
-          <Dialog>Hmm?</Dialog>
-          <Dialog>Isn't it?  Girlfriend.</Dialog>
-          <Dialog>It's complicated, but it's okay, because the girlfriend's pride will increase.</Dialog>
-          <Dialog>……So.</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>The swimsuit contest.
+▲小早川＊▲ won.</Dialog>
+          <Dialog>Hah…</Dialog>
+          <Dialog>I'm glad that to hear
+that…</Dialog>
+          <Dialog>I don't want to be a
+spectacle.</Dialog>
+          <Dialog>… I get that.</Dialog>
+          <Dialog>What about you？</Dialog>
+          <Dialog>Hmm？</Dialog>
+          <Dialog>You don't like it, right？
+Your girlfriend being in
+that type of thing.</Dialog>
+          <Dialog>It's complicated. But it…
+it's good. It gives more
+bragging rights about your
+girlfriend.</Dialog>
+          <Dialog>… I get that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

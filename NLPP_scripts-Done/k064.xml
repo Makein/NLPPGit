@@ -200,29 +200,45 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲.  What happened?</Dialog>
-          <Dialog>……do not know?  Lately, it's kind of cold.</Dialog>
-          <Dialog>● What?</Dialog>
-          <Dialog>You are.</Dialog>
-          <Dialog>To whom?</Dialog>
-          <Dialog>…….</Dialog>
-          <Dialog>that?  Bad</Dialog>
-          <Dialog>Because it's good.  Be more proper.</Dialog>
-          <Dialog>(Hmm, I'm really in a bad mood today. I'm sure it was cold recently...)</Dialog>
-          <Dialog>I'm really sorry, I won't do it anymore!</Dialog>
-          <Dialog>Don't worry about that!</Dialog>
-          <Dialog>…Is that the wrong one?</Dialog>
-          <Dialog>I'm in a bad mood.</Dialog>
-          <Dialog>......I'm sorry.</Dialog>
-          <Dialog>Hey, why?</Dialog>
-          <Dialog>There is no help for it.  I'm a girlfriend...</Dialog>
-          <Dialog>Hey, ▲小早川＊▲!</Dialog>
-          <Dialog>(What is it...)</Dialog>
-          <Dialog>Don't be in a good mood.</Dialog>
-          <Dialog>……only this time.  It's only this time, so don't get sick.</Dialog>
-          <Dialog>I understand.  I regret!</Dialog>
-          <Dialog>……what is that.</Dialog>
-          <Dialog>(Did you forgive me? I don't think I'm convinced...)</Dialog>
+          <Dialog>What's up,
+▲小早川＊▲？</Dialog>
+          <Dialog>… Don't you get it？ You've
+been a little cold lately.</Dialog>
+          <Dialog>I have？</Dialog>
+          <Dialog>You have.</Dialog>
+          <Dialog>To who？</Dialog>
+          <Dialog>…</Dialog>
+          <Dialog>Huh？ I'm not in the mood.</Dialog>
+          <Dialog>I don't care if you're in
+a bad mood or not. You
+have to do better than
+that.</Dialog>
+          <Dialog>（Hmm. I have been in a bad
+mood today. I guess I've
+been a little cold
+lately.）</Dialog>
+          <Dialog>I'm sorry. It won't happen
+again！</Dialog>
+          <Dialog>Don't worry about it！</Dialog>
+          <Dialog>… You're the one who's in
+the wrong, aren't you？</Dialog>
+          <Dialog>Hey, get it together.</Dialog>
+          <Dialog>I can't fix it…</Dialog>
+          <Dialog>Oh, come on. Why not？</Dialog>
+          <Dialog>I can't help it. I'm your
+girlfriend, after all.</Dialog>
+          <Dialog>Hey, ▲小早川＊▲！</Dialog>
+          <Dialog>（What the hell？…）</Dialog>
+          <Dialog>Hey, you should be in a
+better mood.</Dialog>
+          <Dialog>… Just this once. It's
+just this one time, so
+don't get carried away.</Dialog>
+          <Dialog>I know, I know！ I'm sorry！</Dialog>
+          <Dialog>… What's that？</Dialog>
+          <Dialog>（You forgave me, right？ I
+still don't think I'm
+satisfied, though…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -436,31 +452,46 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲.  What happened?</Dialog>
-          <Dialog>What's wrong?  What's going on as a boyfriend these days?</Dialog>
-          <Dialog>Well... are you in a bad mood?</Dialog>
-          <Dialog>What's wrong isn't Rinko's mood, it's your attitude.</Dialog>
-          <Dialog>Is that so?</Dialog>
-          <Dialog>…….</Dialog>
-          <Dialog>Uh....</Dialog>
-          <Dialog>Be clear!</Dialog>
-          <Dialog>(This is serious... I think it was cold recently...)</Dialog>
-          <Dialog>I'm really sorry, I won't do it anymore!</Dialog>
-          <Dialog>Don't worry about that!</Dialog>
-          <Dialog>…Is that the wrong one?</Dialog>
-          <Dialog>I'm in a bad mood.</Dialog>
-          <Dialog>Oh no, no.  After all it is useless!</Dialog>
-          <Dialog>why.  That's fine.</Dialog>
-          <Dialog>Not good, stupid!</Dialog>
-          <Dialog>Hey, ▲小早川＊▲!</Dialog>
-          <Dialog>(What is it...)</Dialog>
-          <Dialog>Don't be in a good mood.</Dialog>
-          <Dialog>No, I won't forgive you.</Dialog>
-          <Dialog>Well, that's...</Dialog>
-          <Dialog>I won't forgive you...I don't want to forgive it, but...I forgive it.</Dialog>
-          <Dialog>……Which one?</Dialog>
-          <Dialog>forgive!  I should forgive you...</Dialog>
-          <Dialog>(Did you forgive me? I don't think I'm convinced...) </Dialog>
+          <Dialog>What's up,
+▲小早川＊▲？</Dialog>
+          <Dialog>It's not what's going on
+with me. How are you doing
+lately？</Dialog>
+          <Dialog>Um… are you in a bad mood？</Dialog>
+          <Dialog>It's not Rinko's mood that
+sucks. It's your attitude
+that does.</Dialog>
+          <Dialog>Oh, really？</Dialog>
+          <Dialog>…</Dialog>
+          <Dialog>Uh…</Dialog>
+          <Dialog>Let me be clear！</Dialog>
+          <Dialog>（This is serious… I think
+I've been too cold
+lately…）</Dialog>
+          <Dialog>I'm so sorry！ It won't
+happen again！</Dialog>
+          <Dialog>Don't worry about it！</Dialog>
+          <Dialog>… You're the one who's in
+the wrong, aren't you？</Dialog>
+          <Dialog>Hey, get it together.</Dialog>
+          <Dialog>Oh, God, no. I can't！</Dialog>
+          <Dialog>Why not？ It's okay. It's
+okay.</Dialog>
+          <Dialog>Not good, idiot！</Dialog>
+          <Dialog>Hey, ▲小早川＊▲！</Dialog>
+          <Dialog>（What the hell？…）</Dialog>
+          <Dialog>Hey, you need to get it
+together！</Dialog>
+          <Dialog>No, it's not going to
+happen.</Dialog>
+          <Dialog>Eh, no such thing as…</Dialog>
+          <Dialog>I don't want to forgive…
+But I already have…</Dialog>
+          <Dialog>… What？</Dialog>
+          <Dialog>Forgive me！ I forgave you,
+right？…</Dialog>
+          <Dialog>（You forgave me, huh？ I
+don't think I'm satisfied…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -651,30 +682,49 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲.  What happened?</Dialog>
-          <Dialog>Maybe it's because of your mind.  I feel like I've been cold recently.</Dialog>
-          <Dialog>e…….  Oh, isn't it because of your mind?</Dialog>
-          <Dialog>……Really?</Dialog>
-          <Dialog>Uh....</Dialog>
-          <Dialog>Rinko, I'm worried.</Dialog>
-          <Dialog>▲小早川＊▲…….</Dialog>
-          <Dialog>Please.  Answer properly again.</Dialog>
-          <Dialog>(It looks like it's true...I wonder if it's been cold recently...)</Dialog>
-          <Dialog>I'm really sorry, I won't do it anymore!</Dialog>
-          <Dialog>Don't worry about that!</Dialog>
-          <Dialog>…Is that the wrong one?</Dialog>
-          <Dialog>…….</Dialog>
-          <Dialog>I'm in a bad mood.</Dialog>
-          <Dialog>No good…….</Dialog>
-          <Dialog>That's why.</Dialog>
-          <Dialog>Because I'm not worried...</Dialog>
-          <Dialog>Hey, ▲小早川＊▲!</Dialog>
-          <Dialog>(What is it...)</Dialog>
-          <Dialog>Don't be in a good mood.</Dialog>
-          <Dialog>I can't help it.  If you've been dating for a long time, that can happen.</Dialog>
-          <Dialog>Ah.  There is also such a thing.  So this time?</Dialog>
-          <Dialog>Yeah... I can't help it.</Dialog>
-          <Dialog>(Did you forgive me? I don't think I'm convinced...)</Dialog>
+          <Dialog>What's up,
+▲小早川＊▲？</Dialog>
+          <Dialog>Is it just me, or have you
+been really cold lately？</Dialog>
+          <Dialog>Uh… I think you're just
+imagining things.</Dialog>
+          <Dialog>… Really？</Dialog>
+          <Dialog>Uh…</Dialog>
+          <Dialog>Rinko is getting anxious.</Dialog>
+          <Dialog>▲小早川＊▲…</Dialog>
+          <Dialog>Please. Answer me one more
+time, correctly.</Dialog>
+          <Dialog>（Sounds like you're
+serious… It's true that I
+may have been rather cold
+lately…）</Dialog>
+          <Dialog>I'm so sorry！ It won't
+happen again！</Dialog>
+          <Dialog>Don't worry about it！</Dialog>
+          <Dialog>… You're the one who's in
+the wrong, aren't you？</Dialog>
+          <Dialog>…</Dialog>
+          <Dialog>Hey, get it together.</Dialog>
+          <Dialog>No…</Dialog>
+          <Dialog>Oh, no. Why not？</Dialog>
+          <Dialog>Because it doesn't make me
+less anxious…</Dialog>
+          <Dialog>Hey, 、▲小早川＊▲！</Dialog>
+          <Dialog>（What the hell？…）</Dialog>
+          <Dialog>Hey, you need to get it
+togehter.</Dialog>
+          <Dialog>… It can't be helped, can
+it？ If you're in a
+relationship for a long
+time, it happens…</Dialog>
+          <Dialog>Oh. They say it happens.
+So this is it's ugly
+face, huh？</Dialog>
+          <Dialog>Yeah… I guess so. And it
+can't be helped.</Dialog>
+          <Dialog>（You forgave me, right？ I
+don't think I'm quite
+satisfied with it…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -739,17 +789,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Well, go home?</Dialog>
-          <Dialog>(Oh, ▲小早川＊▲…………. Are you still angry?)</Dialog>
-          <Dialog>Invite to go back together</Dialog>
-          <Dialog>Go home alone</Dialog>
-          <Dialog>Hey, ▲▲小早川＊▲!</Dialog>
-          <Dialog>Hey, let's go home together.</Dialog>
+          <Dialog>Hey. Let's go home.</Dialog>
+          <Dialog>（▲小早川＊▲… are
+you still mad at me？）</Dialog>
+          <Dialog>Let's go home together</Dialog>
+          <Dialog>I'm going home alone</Dialog>
+          <Dialog>Hey, ▲小早川＊▲！</Dialog>
+          <Dialog>Come on. Let's go home
+together.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Of that.</Dialog>
-          <Dialog>▲小早川＊▲!</Dialog>
-          <Dialog>(I'm still angry...)</Dialog>
-          <Dialog>(Maybe you're still angry, okay...)</Dialog>
+          <Dialog>Eventually.</Dialog>
+          <Dialog>▲小早川＊▲！</Dialog>
+          <Dialog>（Still angry…）</Dialog>
+          <Dialog>（She might still be angry,
+I guess…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -814,17 +867,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Well, go home?</Dialog>
-          <Dialog>(Oh, ▲小早川＊▲…………. Are you still angry?)</Dialog>
-          <Dialog>Invite to go back together</Dialog>
-          <Dialog>Go home alone</Dialog>
-          <Dialog>Hey, ▲▲小早川＊▲!</Dialog>
-          <Dialog>Hey, let's go home together.</Dialog>
+          <Dialog>Hey, let's go home.</Dialog>
+          <Dialog>（▲小早川＊▲… are
+you still mad at me？）</Dialog>
+          <Dialog>Let's go home together</Dialog>
+          <Dialog>I'm going home alone</Dialog>
+          <Dialog>Hey, ▲小早川＊▲！</Dialog>
+          <Dialog>Come on. Let's go home
+together.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>No, absolutely no.</Dialog>
-          <Dialog>▲小早川＊▲!</Dialog>
-          <Dialog>(I'm still angry...)</Dialog>
-          <Dialog>(Maybe you're still angry, okay...)</Dialog>
+          <Dialog>No, absolutely not.</Dialog>
+          <Dialog>▲小早川＊▲！</Dialog>
+          <Dialog>（Still angry…）</Dialog>
+          <Dialog>（She might still be angry,
+I guess…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -889,17 +945,21 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Well, go home?</Dialog>
-          <Dialog>(Oh, ▲小早川＊▲…………. Are you still angry?)</Dialog>
-          <Dialog>Invite to go back together</Dialog>
-          <Dialog>Go home alone</Dialog>
-          <Dialog>Hey, ▲▲小早川＊▲!</Dialog>
-          <Dialog>Hey, let's go home together.</Dialog>
+          <Dialog>Hey, let's go home.</Dialog>
+          <Dialog>（▲小早川＊▲… are
+you still mad at me？）</Dialog>
+          <Dialog>Let's go home together</Dialog>
+          <Dialog>I'm going home alone</Dialog>
+          <Dialog>Hey, ▲小早川＊▲！</Dialog>
+          <Dialog>Come on, let's go home
+together.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Rinko I still don't feel like that.</Dialog>
-          <Dialog>▲小早川＊▲!</Dialog>
-          <Dialog>(I'm still angry...)</Dialog>
-          <Dialog>(Maybe you're still angry, okay...) </Dialog>
+          <Dialog>Rinko's not in the mood
+yet.</Dialog>
+          <Dialog>▲小早川＊▲！</Dialog>
+          <Dialog>（Still angry…）</Dialog>
+          <Dialog>（She might still be angry,
+I guess…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -939,11 +999,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>はい。</Dialog>
+          <Dialog>Yes.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲.  Well, let's go on a date.</Dialog>
-          <Dialog>Ha...</Dialog>
-          <Dialog>(I'm still angry...)</Dialog>
+          <Dialog>▲小早川＊▲. Let's
+go on a date.</Dialog>
+          <Dialog>Hah…</Dialog>
+          <Dialog>（Still angry…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -973,10 +1034,11 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>What.</Dialog>
+          <Dialog>What is it？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲.  That, on a date...</Dialog>
-          <Dialog>(I'm still angry...)</Dialog>
+          <Dialog>▲小早川＊▲. You
+know, maybe we could…</Dialog>
+          <Dialog>（Still angry…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1020,11 +1082,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>……Hello.</Dialog>
+          <Dialog>… Hello.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲.  Well, let's go on a date.</Dialog>
-          <Dialog>No.  Unwilling to go.</Dialog>
-          <Dialog>(I'm still angry...)</Dialog>
+          <Dialog>▲小早川＊▲. Let's go on a
+date.</Dialog>
+          <Dialog>No. I don't want to.</Dialog>
+          <Dialog>（Still angry…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1083,14 +1146,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(It's a phone call... Ah, ▲小早川＊▲. Isn't he angry anymore?)</Dialog>
-          <Dialog>Hello.  ▲小早川＊▲?</Dialog>
+          <Dialog>（A phone call？
+▲小早川＊▲… are
+you not mad at me
+anymore？）</Dialog>
+          <Dialog>Hello, ▲小早川＊▲？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Well, it's a date promise.</Dialog>
-          <Dialog>Oh yeah.  remember.</Dialog>
-          <Dialog>Because it's canceled.  Well then.</Dialog>
-          <Dialog>eh!?</Dialog>
-          <Dialog>(I'm angry after all...)</Dialog>
+          <Dialog>You know, about our date.</Dialog>
+          <Dialog>Yeah, yeah. I remember.</Dialog>
+          <Dialog>I'm canceling it. Bye.</Dialog>
+          <Dialog>WHAT！？</Dialog>
+          <Dialog>（She's still angry…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1149,14 +1215,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(It's a phone call... Ah, ▲小早川＊▲. Isn't he angry anymore?)</Dialog>
-          <Dialog>Hello.  ▲小早川＊▲?</Dialog>
+          <Dialog>（A phone call？
+▲小早川＊▲… are
+you not mad at me
+anymore？）</Dialog>
+          <Dialog>Hello, ▲小早川＊▲？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Date promise.  That, none.</Dialog>
-          <Dialog>eh!?</Dialog>
-          <Dialog>Well, the business is over.</Dialog>
-          <Dialog>Wait a minute!</Dialog>
-          <Dialog>(I'm angry after all...)</Dialog>
+          <Dialog>The date. No.</Dialog>
+          <Dialog>WHAT！？</Dialog>
+          <Dialog>Alright. We're done here.</Dialog>
+          <Dialog>Wait！ Hold on！</Dialog>
+          <Dialog>（She's still angry…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1219,14 +1288,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(It's a phone call... Ah, ▲小早川＊▲. Isn't he angry anymore?)</Dialog>
-          <Dialog>Hello.  ▲小早川＊▲?</Dialog>
+          <Dialog>（A phone call？
+▲小早川＊▲… are
+you not mad at me
+anymore？）</Dialog>
+          <Dialog>Hello, ▲小早川＊▲？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hey, the promise of the next date.  I remember.</Dialog>
-          <Dialog>Oh yeah.  of course.</Dialog>
-          <Dialog>I see.  But anyway, I want to cancel.  Well then.</Dialog>
-          <Dialog>eh!?</Dialog>
-          <Dialog>(I'm angry after all...)</Dialog>
+          <Dialog>Hey. I promised you a
+date. You remember, right？</Dialog>
+          <Dialog>Oh, yeah. Of course.</Dialog>
+          <Dialog>Right. So I'm canceling
+that. See you later.</Dialog>
+          <Dialog>WHAT！？</Dialog>
+          <Dialog>（She's still angry…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1270,11 +1344,14 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hello, hello.</Dialog>
+          <Dialog>Yeah, hello？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲.  Can you see me now?</Dialog>
-          <Dialog>I can't meet from now.  I can't meet you in the future.  ……maybe.</Dialog>
-          <Dialog>(I'm still angry...)</Dialog>
+          <Dialog>▲小早川＊▲, can
+we meet now？</Dialog>
+          <Dialog>I can't see you now. Maybe
+you won't be able to see
+me after this, either…</Dialog>
+          <Dialog>（Still angry…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1314,11 +1391,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>…….</Dialog>
+          <Dialog>…</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲.  Can you see me now?</Dialog>
-          <Dialog>………….</Dialog>
-          <Dialog>(I'm still angry...)</Dialog>
+          <Dialog>▲小早川＊▲, can
+we meet now？</Dialog>
+          <Dialog>…</Dialog>
+          <Dialog>（Still angry…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1358,11 +1436,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Yes Hello.</Dialog>
+          <Dialog>Yeah, hello？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲.  Can you see me now?</Dialog>
-          <Dialog>sorry.</Dialog>
-          <Dialog>(I'm still angry...)</Dialog>
+          <Dialog>▲小早川＊▲, can
+we meet now？</Dialog>
+          <Dialog>Sorry.</Dialog>
+          <Dialog>（Still angry…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1382,7 +1461,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>If you do it arbitrarily.</Dialog>
+          <Dialog>You're on your own.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1406,7 +1485,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Work hard.  It looks like a bacca.</Dialog>
+          <Dialog>Trying so hard. You look
+like an idiot.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1426,7 +1506,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Even at times like this, I don't cut my hand.</Dialog>
+          <Dialog>Even in times like these,
+we don't cut corners.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1446,7 +1527,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>A little more motivated...</Dialog>
+          <Dialog>Get a little more
+motivated…</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1466,7 +1548,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>I haven't seen it.</Dialog>
+          <Dialog>I'm not watching.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1486,7 +1568,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>I haven't forgiven it yet.</Dialog>
+          <Dialog>I haven't forgiven you
+yet.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1506,7 +1589,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>So what?</Dialog>
+          <Dialog>Big whoop.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1530,7 +1613,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>That doesn't mean anything.</Dialog>
+          <Dialog>That makes absolutely no
+sense.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1550,7 +1634,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>It was good for the time being.</Dialog>
+          <Dialog>Something good, for a
+change.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1570,7 +1655,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>I thought so.</Dialog>
+          <Dialog>I knew it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1590,7 +1675,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>......Zamamiro.</Dialog>
+          <Dialog>… Suck it up.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1610,7 +1695,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>I don't comfort.</Dialog>
+          <Dialog>Don't expect comfort out
+of me or anything.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1660,14 +1746,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Ah, ▲小早川＊▲...Is he still upset?)</Dialog>
-          <Dialog>Chiss</Dialog>
-          <Dialog>Do not speak</Dialog>
-          <Dialog>Chiess.</Dialog>
+          <Dialog>（Oh, it's ▲小早川＊▲…
+Is she still mad at me？）</Dialog>
+          <Dialog>'Sup</Dialog>
+          <Dialog>I won't talk to her</Dialog>
+          <Dialog>'Sup.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Don't talk to me</Dialog>
-          <Dialog>(Isn't it still……)</Dialog>
-          <Dialog>(I'll call it now)</Dialog>
+          <Dialog>Don't talk to me.</Dialog>
+          <Dialog>（Still no luck…）</Dialog>
+          <Dialog>（Let's just leave it at
+that for now.）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1717,14 +1805,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Ah, ▲小早川＊▲.. Are you still angry?)</Dialog>
+          <Dialog>（Oh, it's ▲小早川＊▲…
+Is she still mad at me？）</Dialog>
           <Dialog>Hey</Dialog>
-          <Dialog>Do not speak</Dialog>
+          <Dialog>I won't talk to her</Dialog>
           <Dialog>Hey.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>scene.</Dialog>
-          <Dialog>(Isn't it still……)</Dialog>
-          <Dialog>(I'll call it now)</Dialog>
+          <Dialog>Not now.</Dialog>
+          <Dialog>（Still no luck…）</Dialog>
+          <Dialog>（Let's just leave it at
+that for now.）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1774,14 +1864,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Ah, ▲小早川＊▲.. Are you still angry?)</Dialog>
-          <Dialog>Deadly!  Knee Kakkun!</Dialog>
-          <Dialog>Do not speak</Dialog>
-          <Dialog>Hah!</Dialog>
+          <Dialog>（Oh, it's ▲小早川＊▲…
+Is she still mad at me？）</Dialog>
+          <Dialog>Kick her in the knee</Dialog>
+          <Dialog>I won't talk to her</Dialog>
+          <Dialog>Hiya！</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>I don't understand the meaning.</Dialog>
-          <Dialog>(Isn't it still……)</Dialog>
-          <Dialog>(I'll call it now)</Dialog>
+          <Dialog>You make no sense.</Dialog>
+          <Dialog>（Still no luck…）</Dialog>
+          <Dialog>（Let's just leave it at
+that for now.）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1826,12 +1918,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Wow...</Dialog>
+          <Dialog>Ugh…</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>?</Dialog>
+          <Dialog>？</Dialog>
           <Dialog>Oh, ▲小早川＊▲.</Dialog>
-          <Dialog>stop.</Dialog>
-          <Dialog>(Are you still angry……)</Dialog>
+          <Dialog>Just stop.</Dialog>
+          <Dialog>（Are you still angry？…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1876,12 +1968,12 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Little…….</Dialog>
+          <Dialog>Tch…</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>?</Dialog>
+          <Dialog>？</Dialog>
           <Dialog>Oh, ▲小早川＊▲.</Dialog>
-          <Dialog>Yes yes</Dialog>
-          <Dialog>(Are you still angry……) </Dialog>
+          <Dialog>Yeah, yeah. Bye.</Dialog>
+          <Dialog>（Are you still angry？…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1926,12 +2018,13 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Ah…….</Dialog>
+          <Dialog>Sigh…</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>?</Dialog>
+          <Dialog>？</Dialog>
           <Dialog>Oh, ▲小早川＊▲.</Dialog>
-          <Dialog>I don't speak.</Dialog>
-          <Dialog>(Are you still angry……)</Dialog>
+          <Dialog>There's nothing to talk
+about.</Dialog>
+          <Dialog>（Are you still angry？…）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2030,15 +2123,21 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲.  ● Since then…….</Dialog>
-          <Dialog>Yeah, I know  Good luck.</Dialog>
-          <Dialog>Because it was hard.  ▲小早川＊▲I can't really talk.</Dialog>
-          <Dialog>That's my dialogue.</Dialog>
-          <Dialog>I'm sorry.</Dialog>
-          <Dialog>that's enough.  Stop doing this.  I’m sorry.</Dialog>
-          <Dialog>Ah.  Then it's reconciliation.</Dialog>
-          <Dialog>......I have no choice but to do so.</Dialog>
-          <Dialog>▲小早川＊▲…….</Dialog>
+          <Dialog>▲小早川＊▲. I've
+been…</Dialog>
+          <Dialog>Yeah. I know. I'm trying
+my best.</Dialog>
+          <Dialog>It's been too difficult to
+talk to ▲小早川＊▲
+properly.</Dialog>
+          <Dialog>That's my line, you know.</Dialog>
+          <Dialog>I see. I'm sorry.</Dialog>
+          <Dialog>That's enough. I don't
+want to do this. I'm done.</Dialog>
+          <Dialog>Oh. I guess we'll make up.</Dialog>
+          <Dialog>… That's what you need to
+do.</Dialog>
+          <Dialog>▲小早川＊▲…</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2141,15 +2240,27 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲.  ● Since then…….</Dialog>
-          <Dialog>I'm trying too hard.  That's fine.</Dialog>
-          <Dialog>Ah, how can ▲▲小早川＊▲ forgive me...</Dialog>
-          <Dialog>Too extreme.  You just have to be more proper than usual.</Dialog>
-          <Dialog>Well, I regret.</Dialog>
-          <Dialog>OK.  I also got enough of this.  ......Do not overdo it.</Dialog>
-          <Dialog>I see…….  I'm really sorry.</Dialog>
-          <Dialog>Oh, idiot.  Don't think you've forgiven this.</Dialog>
-          <Dialog>▲小早川＊▲…….</Dialog>
+          <Dialog>▲小早川＊▲. I've
+been…</Dialog>
+          <Dialog>I'm trying too hard. It's
+fine.</Dialog>
+          <Dialog>How can I get you to
+forgive me,
+▲小早川＊▲？…</Dialog>
+          <Dialog>Your attitude has been too
+extreme. You have to just
+better yourself up in
+general.</Dialog>
+          <Dialog>Yeah. I've been reflecting
+on that.</Dialog>
+          <Dialog>It's okay. I've done
+enough to get even. It's
+been… pretty hard.</Dialog>
+          <Dialog>I see… I'm really sorry.</Dialog>
+          <Dialog>Oh, my God！ You idiot.
+Don't think I've just up
+and forgiven you for this.</Dialog>
+          <Dialog>▲小早川＊▲…</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2248,15 +2359,21 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲.  ● Since then…….</Dialog>
-          <Dialog>watched.  For Rinko.</Dialog>
-          <Dialog>Oh, I want to make up with ▲▲小早川＊▲ soon.</Dialog>
-          <Dialog>Yes, thank you.  Rinko was also at its limit.</Dialog>
-          <Dialog>Is that so.</Dialog>
-          <Dialog>That's obvious.  I'm not lonely.</Dialog>
-          <Dialog>sorry.  I won't let you think like that anymore.</Dialog>
-          <Dialog>...... Can I believe that?</Dialog>
-          <Dialog>▲小早川＊▲…….</Dialog>
+          <Dialog>▲小早川＊▲. I've
+been…</Dialog>
+          <Dialog>Rinko's been watching.</Dialog>
+          <Dialog>I want to make up with
+you, ▲小早川＊▲ as
+soon as possible.</Dialog>
+          <Dialog>Yeah, thanks. Rinko's been
+at her wits' end.</Dialog>
+          <Dialog>I didn't realize that.</Dialog>
+          <Dialog>It's natural. I was used
+to this before.</Dialog>
+          <Dialog>I'm sorry. I won't let you
+go through that again.</Dialog>
+          <Dialog>… Can I trust that？</Dialog>
+          <Dialog>▲小早川＊▲…</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2398,23 +2515,34 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(How about ▲小早川＊▲...)</Dialog>
+          <Dialog>（How is ▲小早川＊▲
+doing？…）</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hmm?</Dialog>
-          <Dialog>▲小早川＊▲.  ● But.</Dialog>
-          <Dialog>What?  why…….  Um, come in.</Dialog>
+          <Dialog>Hmm？</Dialog>
+          <Dialog>▲小早川＊▲. It's me.</Dialog>
+          <Dialog>Huh？ Why…？ Well, come on
+in.</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>I'm here to visit you.  Did you make a good child?</Dialog>
-          <Dialog>What a good boy.  Suddenly...</Dialog>
-          <Dialog>sorry.  Is your body spicy?</Dialog>
-          <Dialog>That's pretty good.  I was free, so it was just right.</Dialog>
-          <Dialog>It was nice.</Dialog>
-          <Dialog>...I'm really relieved.</Dialog>
-          <Dialog>It's bad, it's been long.  I'll be back soon.</Dialog>
-          <Dialog>I'm going</Dialog>
-          <Dialog>Will come again.</Dialog>
-          <Dialog>It doesn't mean that.  But thank you.</Dialog>
-          <Dialog>(▲▲小早川＊▲, I hope it will improve soon)</Dialog>
+          <Dialog>I just wanted to visit
+you. Have you been good？</Dialog>
+          <Dialog>What do you mean "have I
+been good"？ You came out
+of nowhere…</Dialog>
+          <Dialog>Sorry. Are you in pain？</Dialog>
+          <Dialog>I've had enough. I got
+some time to myself, so it
+was perfect.</Dialog>
+          <Dialog>Well, I'm glad to hear it.</Dialog>
+          <Dialog>…I'm seriously relieved.</Dialog>
+          <Dialog>Sorry, I've been here for
+a while. I'd better get
+going.</Dialog>
+          <Dialog>I won't keep you.</Dialog>
+          <Dialog>I'll come back some time.</Dialog>
+          <Dialog>That's not what I meant.
+But, thank you.</Dialog>
+          <Dialog>（I hope you feel better
+soon, ▲小早川＊▲.）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2570,25 +2698,43 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(How about ▲小早川＊▲...)</Dialog>
+          <Dialog>（How is ▲小早川＊▲
+doing？…）</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>what?</Dialog>
-          <Dialog>▲小早川＊▲.  ● But.</Dialog>
-          <Dialog>Eh, hey!  ……Okay, come in.</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>▲小早川＊▲. It's me.</Dialog>
+          <Dialog>What？ Oh, hey！ … Okay,
+come on in.</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>Oh, it looks like you're doing well.</Dialog>
-          <Dialog>Well  It's an exaggeration to say goodbye.</Dialog>
-          <Dialog>Was that annoying?</Dialog>
-          <Dialog>…….</Dialog>
-          <Dialog>Hmm?</Dialog>
-          <Dialog>Not annoying.  ......Thank you.</Dialog>
-          <Dialog>(It's kind of honest... Is it because of illness?)</Dialog>
-          <Dialog>It's okay sometimes.  I was really happy.</Dialog>
-          <Dialog>(Was it on your face...)</Dialog>
-          <Dialog>It's been quite a while.  I'll be back soon, but can I come again?</Dialog>
-          <Dialog>You don't have to ask one by one.</Dialog>
-          <Dialog>Well then.  Cure fast!</Dialog>
-          <Dialog>(▲▲小早川＊▲, I hope it will improve soon) </Dialog>
+          <Dialog>You look like you're doing
+well.</Dialog>
+          <Dialog>Well, yeah. It was a bit
+over the top.</Dialog>
+          <Dialog>Am I bothering you at the
+moment？</Dialog>
+          <Dialog>…</Dialog>
+          <Dialog>Hmm？</Dialog>
+          <Dialog>You're not a bother.
+Thanks for going to the
+trouble of…</Dialog>
+          <Dialog>（This is kind of
+straightforward… Is it
+because of your illness？）</Dialog>
+          <Dialog>It's okay every once in a
+while. I'm really happy
+about it.</Dialog>
+          <Dialog>（Was that written all over
+my face？…）</Dialog>
+          <Dialog>Well, it's been a while.
+I'm about to leave. Can I
+come back？</Dialog>
+          <Dialog>You don't have to ask for
+everything you'd like to
+do.</Dialog>
+          <Dialog>Alright, then. Get well
+soon.</Dialog>
+          <Dialog>（I hope you feel better
+soon, ▲小早川＊▲.）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2735,24 +2881,37 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(How about ▲小早川＊▲...)</Dialog>
+          <Dialog>（How is ▲小早川＊▲
+doing？…）</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Yes.</Dialog>
-          <Dialog>▲小早川＊▲.  ● But.</Dialog>
-          <Dialog>eh?  Don't go in!  …………OK.</Dialog>
+          <Dialog>Yes？</Dialog>
+          <Dialog>▲小早川＊▲. It's me.</Dialog>
+          <Dialog>What？ Don't come in here！
+You can go to…</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>How is it all right?</Dialog>
-          <Dialog>Yeah, it’s much better.  I was bored.</Dialog>
-          <Dialog>It was just right.</Dialog>
-          <Dialog>Yup.  Hey, did you come?</Dialog>
-          <Dialog>Of course, I was worried.</Dialog>
-          <Dialog>really?  Hooray!</Dialog>
-          <Dialog>Are you ready to return?  It's bad if you stay long.</Dialog>
-          <Dialog>I have to go home.</Dialog>
-          <Dialog>That's not true.  First of all, please cure it properly.</Dialog>
-          <Dialog>Yeah... will you come again?</Dialog>
-          <Dialog>Ah.  So I don't like today.  Well then.</Dialog>
-          <Dialog>(▲▲小早川＊▲, I hope it will improve soon)</Dialog>
+          <Dialog>How are you doing？ You
+okay？</Dialog>
+          <Dialog>Yeah. I feel much better
+now. I was bored.</Dialog>
+          <Dialog>Well, that's good.</Dialog>
+          <Dialog>Yeah… Hehe. So, you're
+here to see me？</Dialog>
+          <Dialog>Of course I am. I was
+worried about you.</Dialog>
+          <Dialog>Oh, really？ You did！</Dialog>
+          <Dialog>I should probably go home.
+I don't want to stay too
+long.</Dialog>
+          <Dialog>I don't want you to leave.</Dialog>
+          <Dialog>That's not how this works.
+You should get some rest
+and heal up some, first.</Dialog>
+          <Dialog>Okay… Will you come back
+some time？</Dialog>
+          <Dialog>Yeah. But you need rest
+now. I'll see you later.</Dialog>
+          <Dialog>（I hope you feel better
+soon, ▲小早川＊▲.）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2811,13 +2970,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Ah, bored.</Dialog>
+          <Dialog>Oh, man. I'm bored.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>However, I can't get out of the room.</Dialog>
-          <Dialog>Somehow manage there.  Please persuade your mother.</Dialog>
-          <Dialog>Don't say selfishly.  I'm fine, but I'm a sick person.</Dialog>
-          <Dialog>Ha, kechi.</Dialog>
-          <Dialog>(……● is not bad)</Dialog>
+          <Dialog>But I can't leave my room.</Dialog>
+          <Dialog>Do something about it. Go
+talk to your mom.</Dialog>
+          <Dialog>Don't be selfish. You may
+look fine, but you're
+sick.</Dialog>
+          <Dialog>Bah！ Spoilsport.</Dialog>
+          <Dialog>（… it's not my fault.）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2871,12 +3033,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hey, I've been visiting you many times, but are you free?</Dialog>
+          <Dialog>Hey. You've been visiting
+me a lot, but I wanted to
+know if you're free？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>You can come even if you're not free.</Dialog>
-          <Dialog>So.</Dialog>
-          <Dialog>Your face is red?  Are you okay?</Dialog>
-          <Dialog>Ah, noisy!  Wakaretsu</Dialog>
+          <Dialog>I'll come whether or not
+it's convenient.</Dialog>
+          <Dialog>Oh, gosh.</Dialog>
+          <Dialog>You're blushing. Are you
+okay？</Dialog>
+          <Dialog>Oh, shut up！ I'll see you
+later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2930,12 +3097,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hey, are you so worried about Rinko?  Would you like to get better soon?</Dialog>
+          <Dialog>Are you really that
+worried about Rinko？ Do
+you want me to get better
+soon？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Well, of course.  why?</Dialog>
-          <Dialog>I just wanted to hear it.</Dialog>
-          <Dialog>what's that.</Dialog>
-          <Dialog>I'm going to</Dialog>
+          <Dialog>Well, of course. Why
+wouldn't I？</Dialog>
+          <Dialog>Hehe. I was just checking.</Dialog>
+          <Dialog>What are you on about？</Dialog>
+          <Dialog>Nothing, hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3015,13 +3186,21 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Ah…….</Dialog>
-          <Dialog>▲小早川＊▲.  Have you healed yet?</Dialog>
-          <Dialog>Thanks to you.</Dialog>
-          <Dialog>It was nice!</Dialog>
-          <Dialog>Too exaggerated.  Isn't it just a cold?</Dialog>
-          <Dialog>It would be tough to twist.  He kindly pleased me.</Dialog>
-          <Dialog>There is no such thing.  It's an anxious man.</Dialog>
+          <Dialog>Oh, hey…</Dialog>
+          <Dialog>▲小早川＊▲. Are
+you feeling better？</Dialog>
+          <Dialog>All thanks to you.</Dialog>
+          <Dialog>Well, that's a huge weight
+off my chest.</Dialog>
+          <Dialog>You're overreacting. It
+was just a cold, right？</Dialog>
+          <Dialog>It's hard enough to keep
+things from getting
+complicated. Just let me
+be honest and happy.</Dialog>
+          <Dialog>I can't help it. You're
+such an old man and a
+worrywart.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3097,13 +3276,21 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Ah…….</Dialog>
-          <Dialog>▲小早川＊▲.  Have you healed yet?</Dialog>
-          <Dialog>If you look at it, you know?</Dialog>
-          <Dialog>That's right.  It's a complete revival.</Dialog>
-          <Dialog>Thank you for your visit.</Dialog>
-          <Dialog>Hmm?  Ah, I don't care about that.  It was good to be cured.</Dialog>
-          <Dialog>Let's be careful.  I was happy.</Dialog>
+          <Dialog>Oh, hey…</Dialog>
+          <Dialog>▲小早川＊▲. Are
+you feeling better？</Dialog>
+          <Dialog>You know what I mean.</Dialog>
+          <Dialog>Haha. Yeah. I'm fully back
+up to my normal self.</Dialog>
+          <Dialog>Also, thank for for your
+concern and help.</Dialog>
+          <Dialog>Hmm？ Oh. Don't worry about
+it. I'm just glad you're
+better.</Dialog>
+          <Dialog>I'll leave you to your
+business again. I just
+wanted to let you know I
+was happy to see you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3179,13 +3366,21 @@
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Ah…….</Dialog>
-          <Dialog>▲小早川＊▲.  Have you healed yet?</Dialog>
-          <Dialog>Yup.  Surely thanks to your visit</Dialog>
-          <Dialog>Is that so?  ▲小早川＊▲ I was also quiet.</Dialog>
-          <Dialog>Because I want to play quickly.</Dialog>
-          <Dialog>Well, you can do anything!</Dialog>
-          <Dialog>But yeah.  First of all, you?</Dialog>
+          <Dialog>Oh, hey…</Dialog>
+          <Dialog>▲小早川＊▲. Are
+you feeling better？</Dialog>
+          <Dialog>Yeah. It's all because of
+you visiting me and caring
+for me, right？</Dialog>
+          <Dialog>Haha. Oh, yeah？
+▲小早川＊▲ was also
+pretty quiet.</Dialog>
+          <Dialog>Because, you know, I
+wanted to get back to
+playing.</Dialog>
+          <Dialog>Yeah！ You can do anything！</Dialog>
+          <Dialog>But you know what？ I want
+to start with you first.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3321,22 +3516,41 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(It's boring... I'm tired of staying at home)</Dialog>
-          <Dialog>who might that be…….  Yes!</Dialog>
+          <Dialog>（I'm pretty bored… I'm
+tired of being secluded
+to home.）/Dialog>
+          <Dialog>Who's this？ … Yes！</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>▲小早川＊▲?  Oh, no way.</Dialog>
-          <Dialog>Yes, visit.  Is it a girlfriend?</Dialog>
-          <Dialog>Thank you, all the way to the house.</Dialog>
-          <Dialog>The sick person notices.</Dialog>
-          <Dialog>That's right.  But I'm glad I came, it was free time.</Dialog>
-          <Dialog>thought so.</Dialog>
-          <Dialog>Oh, this time already.  You had better go home.</Dialog>
-          <Dialog>Can I have more?</Dialog>
-          <Dialog>I want to do that...  Even if it gets worse, I don't like it.</Dialog>
-          <Dialog>Well, right.  thank you.</Dialog>
-          <Dialog>Cure it fast!  I'm free because of illness, not just you.</Dialog>
-          <Dialog>(For ▲小早川＊▲, we must heal quickly) </Dialog>
+          <Dialog>▲小早川＊▲？
+No way！</Dialog>
+          <Dialog>Yeah, I want to visit. I'm
+your girlfriend, after
+all.</Dialog>
+          <Dialog>Thank you, but I don't
+want to get you sick.</Dialog>
+          <Dialog>I don't care if you're
+sick.</Dialog>
+          <Dialog>Haha. But I'm glad you
+came. I had some free
+time.</Dialog>
+          <Dialog>I figured as much.</Dialog>
+          <Dialog>Oh, it's late. I'd better
+be going.</Dialog>
+          <Dialog>You can come over again,
+okay？</Dialog>
+          <Dialog>I'd like to, but… I need
+you to heal, not get
+worse.</Dialog>
+          <Dialog>That makes sense. Thank
+you.</Dialog>
+          <Dialog>You should get well soon.
+You're not the only one
+who's bored because you're
+sick.</Dialog>
+          <Dialog>（For ▲小早川＊▲'s
+sake I have to get well
+soon.）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3472,22 +3686,38 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(It's boring... I'm tired of staying at home)</Dialog>
-          <Dialog>who might that be…….  Yes!</Dialog>
+          <Dialog>（I'm pretty bored… I'm
+tired of being secluded
+to home.）/Dialog>
+          <Dialog>Who's this？ … Yes！</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>▲小早川＊▲?  Oh, no way.</Dialog>
-          <Dialog>So-called... a visit?</Dialog>
-          <Dialog>I was surprised.  I didn't expect to come.</Dialog>
-          <Dialog>What is that unexpected?</Dialog>
-          <Dialog>Not really, but it was sudden.</Dialog>
-          <Dialog>I am grateful for that person.  I'm glad I'm fine.</Dialog>
-          <Dialog>It's time to go home.  You had better rest.</Dialog>
-          <Dialog>Even if you don't notice it.</Dialog>
-          <Dialog>Tsukauttsu  I'm a sick person.</Dialog>
-          <Dialog>Is that so?</Dialog>
-          <Dialog>Is that so.  Do you think it's bad to worry about Anma-girlfriend?</Dialog>
-          <Dialog>(For ▲小早川＊▲, we have to heal quickly)</Dialog>
+          <Dialog>Who's this？ … Yes！</Dialog>
+          <Dialog>This is what you'd call…
+sympathy？</Dialog>
+          <Dialog>I was surprised. I didn't
+think you'd come.</Dialog>
+          <Dialog>Wy would that be so
+unexpected？</Dialog>
+          <Dialog>It wasn't unexpected, just
+so sudden.</Dialog>
+          <Dialog>I thought it would be more
+gratifying. Anyway, I'm
+glad you're doing well.</Dialog>
+          <Dialog>I'd better get going. You
+need rest.</Dialog>
+          <Dialog>Rest is for the weak.</Dialog>
+          <Dialog>And I'm taking care of you
+because you're sick and
+weak.</Dialog>
+          <Dialog>Is that so？</Dialog>
+          <Dialog>That's right. I don't
+think I'm the one that
+needs worried about. It's
+you who's sick, right？</Dialog>
+          <Dialog>（For ▲小早川＊▲'s
+sake I have to get well
+soon.）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3623,22 +3853,39 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(It's boring... I'm tired of staying at home)</Dialog>
-          <Dialog>who might that be…….  Yes!</Dialog>
+          <Dialog>（I'm pretty bored… I'm
+tired of being secluded
+to home.）/Dialog>
+          <Dialog>Who's this？ … Yes！</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>▲小早川＊▲?  Oh, no way.</Dialog>
-          <Dialog>Did you come?</Dialog>
-          <Dialog>I was just free.  I'm glad.</Dialog>
-          <Dialog>How are you</Dialog>
-          <Dialog>Well, fluffy.  It's been a lot easier.</Dialog>
-          <Dialog>It was nice.</Dialog>
-          <Dialog>I'm sorry, I stayed long.  I'll be back.</Dialog>
-          <Dialog>Oh, thank you.  It was really helpful.</Dialog>
-          <Dialog>Is there anything else you would like us to help you with?  Housework and things.</Dialog>
-          <Dialog>Well, that's okay.  I'm in time.</Dialog>
-          <Dialog>...... With an uneasy face.  If it's really bad, call out.  Well then.</Dialog>
-          <Dialog>(For ▲小早川＊▲, we have to heal quickly)</Dialog>
+          <Dialog>Who's this？ … Yes！</Dialog>
+          <Dialog>Hehe. I'm here. Is that
+okay？</Dialog>
+          <Dialog>I had some free time. I'm
+glad you came.</Dialog>
+          <Dialog>How are you feeling？</Dialog>
+          <Dialog>I'm getting there. It's
+getting easier to do
+stuff.</Dialog>
+          <Dialog>Oh, good, good.</Dialog>
+          <Dialog>I'm sorry. I stayed too
+long. I'll go home now.</Dialog>
+          <Dialog>Oh, thank you. You really
+helped me.</Dialog>
+          <Dialog>Is there anything else you
+need help with？ Like any
+housework？</Dialog>
+          <Dialog>Oh, you're fine. I
+wouldn't put you to work
+like that.</Dialog>
+          <Dialog>… Don't look so anxious.
+If it gets really bad,
+give me a call. I'll see
+you later.</Dialog>
+          <Dialog>（For ▲小早川＊▲'s
+sake I have to get well
+soon.）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3702,14 +3949,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Am free……)</Dialog>
-          <Dialog>Oh, maybe...</Dialog>
+          <Dialog>（I'm bored…）</Dialog>
+          <Dialog>Oh！ Is that…？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hey, isn't it Rinko?</Dialog>
-          <Dialog>No way.  I'm glad you came.</Dialog>
-          <Dialog>So.  If so</Dialog>
-          <Dialog>Hmmm, this is Kalesi's privilege too.</Dialog>
-          <Dialog>Yes yes</Dialog>
+          <Dialog>Hey. Is Rinko interrupting
+you or anything？</Dialog>
+          <Dialog>No way. I'm glad you're
+here.</Dialog>
+          <Dialog>Well, that's good.</Dialog>
+          <Dialog>Hmm. This is a nice
+privilege of being a
+boyfriend.</Dialog>
+          <Dialog>Yes, yes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3777,14 +4028,23 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Am free……)</Dialog>
-          <Dialog>Oh, maybe...</Dialog>
+          <Dialog>（I'm bored…）</Dialog>
+          <Dialog>Oh！ Is that…？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>You're happy.  Even if you get sick, there is a kind girlfriend who will visit you.</Dialog>
-          <Dialog>Oh, ● is a happy person.  I'll never forget it...</Dialog>
-          <Dialog>Fool?</Dialog>
-          <Dialog>Isn't it sad?</Dialog>
-          <Dialog>Nothing.  Even if that happens, Rinko will do whatever it takes to kick.</Dialog>
+          <Dialog>You know, you're a lucky
+guy. Not everyone's
+girlfriend comes to see
+them when they're sick.</Dialog>
+          <Dialog>Oh, I am a lucky man. I
+have no regrets…</Dialog>
+          <Dialog>Idiot.</Dialog>
+          <Dialog>Don't you feel convicted
+for saying something like
+that in this situation？</Dialog>
+          <Dialog>I don't care. Even if the
+roles were reversed, I
+could still kick your
+butt.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3848,14 +4108,20 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Am free……)</Dialog>
-          <Dialog>Oh, maybe...</Dialog>
+          <Dialog>（I'm bored…）</Dialog>
+          <Dialog>Oh！ Is that…？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hey, what do you want to do?</Dialog>
-          <Dialog>is there.......Hey?</Dialog>
-          <Dialog>Hey, not.  That kind of thing has been cured.</Dialog>
-          <Dialog>Oh, stingy.</Dialog>
-          <Dialog>If you regret it, cure it soon.</Dialog>
+          <Dialog>So, what do you want to
+do？</Dialog>
+          <Dialog>Well, you're here. And a
+kiss could make me… feel
+better.？</Dialog>
+          <Dialog>Yeah, no. Not until you're
+healed.</Dialog>
+          <Dialog>Blah. Killjoy.</Dialog>
+          <Dialog>If you're so frustrated,
+get some rest and sleep
+the sickness off.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3914,13 +4180,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲!</Dialog>
+          <Dialog>▲小早川＊▲！</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>Sympathy thank you.  Thanks again.</Dialog>
-          <Dialog>Hmm, good.</Dialog>
-          <Dialog>That's a thin reaction.</Dialog>
-          <Dialog>I was in a bad mood because I was free while I was ill.  Cure quickly.</Dialog>
+          <Dialog>Thank you for your
+sympathy. Thanks to you,
+I'm back.</Dialog>
+          <Dialog>Hmm. Good for you.</Dialog>
+          <Dialog>That's not much of a
+reaction.</Dialog>
+          <Dialog>I'm sour because I was
+left to my own boredom for
+too long. Next time just
+don't get sick.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3975,13 +4247,18 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲!</Dialog>
+          <Dialog>▲小早川＊▲！</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>It's a complete revival.  Can you avoid the kick now?</Dialog>
-          <Dialog>Small kick!</Dialog>
-          <Dialog>Are you serious?</Dialog>
-          <Dialog>Even if I was sick, I'd be concerned about Rinko!</Dialog>
+          <Dialog>Thanks to you, I'm back to
+full strength！ Try and
+kick me now, I can dodge
+it！</Dialog>
+          <Dialog>Rinko Kick！</Dialog>
+          <Dialog>Ouch！ That had some
+feeling behind it.</Dialog>
+          <Dialog>Don't worry about Rinko
+when you're sick！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4040,13 +4317,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲!</Dialog>
+          <Dialog>▲小早川＊▲！</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>It's already better.  Thanks to the visit of ▲小早川＊▲.</Dialog>
-          <Dialog>Hehe, did it.  Then, in return, take a date.</Dialog>
-          <Dialog>Oh, right.  What should I do…….</Dialog>
-          <Dialog>Hey, when are you going? </Dialog>
+          <Dialog>I'm all better now and
+it's all because
+▲小早川＊▲ came to
+visit and check on me.</Dialog>
+          <Dialog>Hehe. you got it！ Now as
+payment, you need to take
+me out on a date.</Dialog>
+          <Dialog>I was thinking that. So…</Dialog>
+          <Dialog>Hey, hey. When do you want
+to do it？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

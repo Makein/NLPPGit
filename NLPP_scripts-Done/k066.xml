@@ -17,9 +17,10 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Game use DS console clock,
-so make sure you're
-time is right.</Dialog>
+          <Dialog>This game is linked to the
+clock on the DS. Make sure
+the time is correct before
+starting.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -39,9 +40,10 @@ time is right.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>If the time is off,
-turn it off and set
-tight time.</Dialog>
+          <Dialog>If the time is off, turn
+off the power and go to
+settings to adjust the
+clock on your DS.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -69,8 +71,10 @@ tight time.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Decide the time of the game
-to suit your life.</Dialog>
+          <Dialog>Decide when to play the
+game and how you want.
+But it's only for those
+who can't help it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -94,9 +98,9 @@ to suit your life.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Are you sure about this?
-Don't complain about
-it later.</Dialog>
+          <Dialog>Are you sure you want to
+do this？ Don't complain
+about it later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -120,8 +124,8 @@ it later.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Well, I'm done.
-Good night.</Dialog>
+          <Dialog>Okay, that's it. Good
+work.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
