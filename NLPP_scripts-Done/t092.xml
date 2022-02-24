@@ -52,20 +52,19 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hello, ▲高嶺＊＊▲？</Dialog>
+          <Dialog>Hello... Hello, 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Yup. What's wrong？</Dialog>
           <Dialog>I have some errands left 
-to do, can we cancel 
-our date？</Dialog>
-          <Dialog>...I see... 
-Yes...</Dialog>
-          <Dialog>I'm sorry... 
-I'll invite you again, 
-promise.</Dialog>
-          <Dialog>I understand. 
-If you invite me again, 
-I'll resist this time.</Dialog>
+to do, can we cancel our 
+date？</Dialog>
+          <Dialog>...I see... Yes...</Dialog>
+          <Dialog>I'm sorry... I'll invite 
+you again, promise.</Dialog>
+          <Dialog>I understand. If you invite 
+me again, I'll resist this 
+time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -126,19 +125,15 @@ I'll resist this time.</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Yes, what's wrong？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Actually... 
-I wanted to cancel the 
-date...</Dialog>
-          <Dialog>...Yes. 
-I understand...</Dialog>
+          <Dialog>Actually... I wanted to 
+cancel our date...</Dialog>
+          <Dialog>...Yes. I understand...</Dialog>
           <Dialog>I'm sorry, even after I 
 promised you...</Dialog>
-          <Dialog>It's okay. 
-You have something to do, 
-right？... We can date 
-next time.</Dialog>
-          <Dialog>Yes. I'll make it up 
-for you.</Dialog>
+          <Dialog>It's okay. You have 
+something to do, right？ 
+...We can date next time.</Dialog>
+          <Dialog>Yes. I'll make it up to you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -206,10 +201,10 @@ I can't make it.</Dialog>
           <Dialog>Eh, but...</Dialog>
           <Dialog>Sorry. I know this makes 
 me look bad.</Dialog>
-          <Dialog>...I understand, 
-I don't want be a bother, 
-so I get it. Instead, can 
-you invite me again？</Dialog>
+          <Dialog>...I understand, I don't 
+want be a bother, so I get 
+it. Instead, can you invite 
+me again？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -338,8 +333,7 @@ once.</Dialog>
           <Dialog>What's wrong？</Dialog>
           <Dialog>You know, actually I have 
 something to do today...</Dialog>
-          <Dialog>Then... 
-Can't we meet today？</Dialog>
+          <Dialog>Then... Can't we meet today？</Dialog>
           <Dialog>Yes, I'm sorry.</Dialog>
           <Dialog>...We can't do anything 
 about it. I'll put up 
@@ -408,9 +402,8 @@ Don't tell me...</Dialog>
 I have a sudden errand 
 and I can't make it...</Dialog>
           <Dialog>No way！ I really wanted 
-to see you today... 
-It's okay, I'll see you 
-later.</Dialog>
+to see you today... It's 
+okay, I'll see you later.</Dialog>
           <Dialog>(I did something wrong...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -470,14 +463,13 @@ later.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Hello？ 
-Why haven't you arrive 
-yet？</Dialog>
+          <Dialog>Hello？ Why haven't you 
+arrived yet？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>That's because... 
-I had somethings to do...</Dialog>
-          <Dialog>That means... 
-you won't come？</Dialog>
+          <Dialog>That's because... I had 
+somethings to do...</Dialog>
+          <Dialog>That means... you won't 
+come？</Dialog>
           <Dialog>I'm sorry...</Dialog>
           <Dialog>...I was wondering if 
 something happened. 
@@ -611,20 +603,18 @@ do your best.</Dialog>
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>Hey, why haven't you 
-arrived here？</Dialog>
+arrived here yet？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Actually... 
-It's sudden and I know 
-it's bad, but I'd like 
-to cancel our date.</Dialog>
-          <Dialog>What？ No way... 
-I'm already waiting to 
-you.</Dialog>
+          <Dialog>Actually... It's sudden 
+and I know it's bad, but 
+I'd like to cancel our 
+date.</Dialog>
+          <Dialog>What？ No way... I'm 
+already waiting for you.</Dialog>
           <Dialog>I- well that is...</Dialog>
-          <Dialog>Yes, I get it. 
-I'll do something by 
-myself. Try not to worry 
-too much.</Dialog>
+          <Dialog>Yes, I get it. I'll do 
+something by myself. Try 
+not to worry too much.</Dialog>
           <Dialog>I'm sorry...</Dialog>
         </Dialogs>
       </SDL2>

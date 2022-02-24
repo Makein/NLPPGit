@@ -100,28 +100,27 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(My phone's ringing... 
-It's ▲高嶺＊＊▲.)</Dialog>
-          <Dialog>Hello, ▲高嶺＊＊▲？</Dialog>
+          <Dialog>(My phone's ringing... It's 
+▲高嶺＊＊▲.)</Dialog>
+          <Dialog>Hello, what's wrong 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Hello, I'm sorry for 
 calling so sudden.</Dialog>
           <Dialog>What's wrong？</Dialog>
           <Dialog>I... I have a cold.</Dialog>
-          <Dialog>A cold？ 
-Are you okay？</Dialog>
+          <Dialog>A cold？ Are you okay？</Dialog>
           <Dialog>Yeah, it's not that bad. 
 Don't worry, I'm okay.</Dialog>
-          <Dialog>I just can't do 
-exercise...</Dialog>
+          <Dialog>I just can't do exercise...</Dialog>
           <Dialog>Don't think about club 
 activities while you 
 have a cold. You will 
 heal faster that way.</Dialog>
-          <Dialog>Yeah, thank you... 
-See you.</Dialog>
-          <Dialog>(So ▲高嶺＊＊▲ has a cold, 
-huh...)</Dialog>
+          <Dialog>Yeah, thank you... See you.</Dialog>
+          <Dialog>(You caught a cold. 
+I'm really sorry 
+▲高嶺＊＊▲...)</Dialog>
           <Dialog>(I'm going to visit her.)</Dialog>
         </Dialogs>
       </SDL2>
@@ -214,27 +213,25 @@ huh...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(My phone is ringing... 
-Ah, it's ▲高嶺＊＊▲.)</Dialog>
+          <Dialog>(My phone is ringing... Ah, 
+it's ▲高嶺＊＊▲.)</Dialog>
           <Dialog>Hello.</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Happy Birthday.</Dialog>
-          <Dialog>Ah... Today is... 
-I see, it's my birthday. 
-Thank you.</Dialog>
+          <Dialog>Ah, today is... I see, it's 
+my birthday. Thank you.</Dialog>
           <Dialog>I couldn't hold myself 
 back... so I wanted to 
 call you. I'm sorry, 
 it's late.</Dialog>
-          <Dialog>That's alright. 
-I'm really happy.</Dialog>
+          <Dialog>That's alright. I'm really 
+happy.</Dialog>
           <Dialog>Oh, it's already time to 
 hang up.</Dialog>
           <Dialog>I see. Seriously, thank 
 you very much.</Dialog>
-          <Dialog>Yes. Your gift is... 
-still a secret. 
-See you soon.</Dialog>
+          <Dialog>Yes. Your gift is... still 
+a secret. See you soon.</Dialog>
           <Dialog>(It really was my 
 birthday...)</Dialog>
         </Dialogs>
@@ -343,8 +340,8 @@ birthday...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(My phone is ringing... 
-Ah, it's ▲高嶺＊＊▲.)</Dialog>
+          <Dialog>(My phone is ringing... Ah, 
+it's ▲高嶺＊＊▲.)</Dialog>
           <Dialog>Hello.</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Hello. I'm sorry to call 
@@ -363,7 +360,8 @@ I'll be hanging soon.</Dialog>
 Thanks for calling me.</Dialog>
           <Dialog>Yeah. See you later then.</Dialog>
           <Dialog>(Today's our anniversary. 
-▲高嶺＊＊▲ sure is nice.)</Dialog>
+You sure are a nice girl 
+▲高嶺＊＊▲.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -451,8 +449,8 @@ Thanks for calling me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(My phone is ringing... 
-It's ▲高嶺＊＊▲.)</Dialog>
+          <Dialog>(My phone's ringing... It's 
+▲高嶺＊＊▲.)</Dialog>
           <Dialog>Hello.</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Happy New Year.</Dialog>
@@ -461,15 +459,14 @@ first. If Papa knew,
 he would be jealous.</Dialog>
           <Dialog>...Then let's keep it a 
 secret.</Dialog>
-          <Dialog>I'll hang up soon. 
-It's time to give a New 
-Years greeting to Mama 
-and Papa.</Dialog>
+          <Dialog>I'll hang up soon. It's 
+time to give a New Years 
+greeting to Mama and Papa.</Dialog>
           <Dialog>Oh right. See you then.</Dialog>
           <Dialog>Yeah, let's keep getting 
 along this year too.</Dialog>
-          <Dialog>(Me and ▲高嶺＊＊▲'s New Year 
-begins...)</Dialog>
+          <Dialog>(A New Year begins, for me 
+and ▲高嶺＊＊▲.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -582,12 +579,13 @@ begins...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(It's past midnight. 
-Today is ▲高嶺＊＊▲'s 
-birthday.)</Dialog>
+          <Dialog>(It's past midnight. Today 
+is your birthday, 
+▲高嶺＊＊▲.)</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Hello.</Dialog>
-          <Dialog>▲高嶺＊＊▲, happy birthday.</Dialog>
+          <Dialog>Happy birthday 
+▲高嶺＊＊▲.</Dialog>
           <Dialog>Thank you. I'm really 
 glad you called me.</Dialog>
           <Dialog>Yeah, I wanted to say it 
@@ -595,17 +593,14 @@ to you right away.
 Were you sleeping？</Dialog>
           <Dialog>Don't worry, I was awake. 
 It's all right.</Dialog>
-          <Dialog>I see, then it's all 
-good.</Dialog>
-          <Dialog>Hehe, I'm glad I was 
-awake.</Dialog>
-          <Dialog>I'll hang up then. 
-Are you sleepy？</Dialog>
+          <Dialog>I see, then it's all good.</Dialog>
+          <Dialog>Hehe, I'm glad I was awake.</Dialog>
+          <Dialog>I'll hang up then. Are you 
+sleepy？</Dialog>
           <Dialog>Don't treat me like a kid. 
 I'm an adult.</Dialog>
-          <Dialog>Haha, that's right. 
-But today I'll do it. 
-See you.</Dialog>
+          <Dialog>Haha, that's right. But 
+today I'll do it. See you.</Dialog>
           <Dialog>Yeah, see you soon.</Dialog>
           <Dialog>(I'm glad I could 
 congratulate her...)</Dialog>
@@ -706,10 +701,10 @@ congratulate her...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(It's past midnight, 
-and today is our 
-anniversary. I should 
-call ▲高嶺＊＊▲.)</Dialog>
+          <Dialog>(It's past midnight, and 
+today is our anniversary. 
+I should call 
+▲高嶺＊＊▲.)</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Hello.</Dialog>
           <Dialog>Hello. I'm so sorry for 
@@ -720,10 +715,10 @@ it's our anniversary.</Dialog>
           <Dialog>Yes, that's why I wanted 
 to call you right away.</Dialog>
           <Dialog>Yes... I'm really happy.</Dialog>
-          <Dialog>It's time already. 
-I'll hang up soon.</Dialog>
-          <Dialog>Yup. Thank you so much 
-for calling me.</Dialog>
+          <Dialog>It's time already. I'll 
+hang up soon.</Dialog>
+          <Dialog>Yup. Thank you so much for 
+calling me.</Dialog>
           <Dialog>Yeah, see you later.</Dialog>
           <Dialog>See you, bye-bye.</Dialog>
           <Dialog>(Our anniversary day, 

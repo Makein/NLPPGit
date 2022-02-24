@@ -43,7 +43,8 @@
           <Dialog>Manaka</Dialog>
           <Dialog>Yes, hello.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲, it's me.</Dialog>
+          <Dialog>Hello, it's me, 
+▲高嶺＊＊▲.</Dialog>
           <Dialog>Yes, I now your tone. 
 What's wrong？</Dialog>
           <Dialog>Um, you know...</Dialog>
@@ -92,7 +93,8 @@ What's wrong？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Hello？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲, it's me.</Dialog>
+          <Dialog>Hello, it's me, 
+▲高嶺＊＊▲.</Dialog>
           <Dialog>Yeah, I know your voice. 
 What's wrong？</Dialog>
           <Dialog>Um, you know...</Dialog>
@@ -138,7 +140,8 @@ What's wrong？</Dialog>
           <Dialog>Yes, this is Manaka 
 speaking.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲, it's me.</Dialog>
+          <Dialog>Hello, it's me, 
+▲高嶺＊＊▲.</Dialog>
           <Dialog>Hehe, what's wrong？</Dialog>
           <Dialog>Um, you know...</Dialog>
         </Dialogs>
@@ -207,8 +210,7 @@ cancel our date.</Dialog>
           <Dialog>It was a relief for me 
 too. See you soon.</Dialog>
           <Dialog>I'm sorry. It seems like 
-I can't make it that 
-day...</Dialog>
+I can't make it that day...</Dialog>
           <Dialog>I see, well then...</Dialog>
         </Dialogs>
       </SDL2>
@@ -276,8 +278,8 @@ of our date...</Dialog>
           <Dialog>....</Dialog>
           <Dialog>That makes me glad... 
 Emm, I mean it's okay.</Dialog>
-          <Dialog>I see, thank you. 
-See you soon.</Dialog>
+          <Dialog>I see, thank you. See you 
+soon.</Dialog>
           <Dialog>Sorry, that day is a 
 little...</Dialog>
           <Dialog>I see, well then...</Dialog>
@@ -347,9 +349,9 @@ for our date...</Dialog>
           <Dialog>....</Dialog>
           <Dialog>Okay. Hehe, I'll indulge 
 your selfish desires.</Dialog>
-          <Dialog>Sorry, sorry. 
-Then, I'll see you soon.</Dialog>
-          <Dialog>Hmm, nop.</Dialog>
+          <Dialog>Sorry, sorry. Then, I'll 
+see you soon.</Dialog>
+          <Dialog>Hmm, nope.</Dialog>
           <Dialog>I see, well then...</Dialog>
         </Dialogs>
       </SDL2>
@@ -383,8 +385,8 @@ Then, I'll see you soon.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Um... I'm sorry. 
-It was nothing after all.</Dialog>
+          <Dialog>Um... I'm sorry. It was 
+nothing after all.</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Geez, what's with that？ 
 But, I'm glad we didn't 
@@ -424,10 +426,9 @@ See ya.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah... sorry. It's nothing.</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>Are you sure？ 
-I wanted to hear your 
-voice a little more... 
-I'm kidding. See ya.</Dialog>
+          <Dialog>Are you sure？ I wanted to 
+hear your voice a little 
+more... I'm kidding. See ya.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -464,8 +465,8 @@ I'm kidding. See ya.</Dialog>
 because I wanted to hear 
 your voice. I'm kidding.</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>Geez, that's a lie. 
-But it's okay, thank you. 
+          <Dialog>Geez, that's a lie. But 
+it's okay, thank you. 
 See you later.</Dialog>
         </Dialogs>
       </SDL2>

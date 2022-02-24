@@ -562,7 +562,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Shall we leave soon？</Dialog>
+          <Dialog>Should we leave now？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Really, I can't believe 
 this much time has already 
@@ -591,7 +591,7 @@ passed.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Shall we leave soon？</Dialog>
+          <Dialog>Should we leave now？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Eh？ No way. It's already 
 time？</Dialog>
@@ -619,10 +619,10 @@ time？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Shall we leave soon？</Dialog>
+          <Dialog>Should we leave now？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Hmm... Yeah. It's already 
-this time, huh？</Dialog>
+time, huh？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -647,7 +647,7 @@ this time, huh？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Shall we leave soon？</Dialog>
+          <Dialog>Should we leave now？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Oh well. It's already time.</Dialog>
         </Dialogs>
@@ -674,9 +674,9 @@ this time, huh？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Shall we leave soon？</Dialog>
+          <Dialog>Should we leave now？</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>Yeah. Shall we go？</Dialog>
+          <Dialog>Yeah. Let's go.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -701,7 +701,7 @@ this time, huh？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Shall we leave soon？</Dialog>
+          <Dialog>Should we leave now？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Eh？ It's already this 
 late？</Dialog>
@@ -729,7 +729,7 @@ late？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Shall we leave soon？</Dialog>
+          <Dialog>Should we leave now？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>I guess. Let's go home.</Dialog>
         </Dialogs>
@@ -756,7 +756,7 @@ late？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Shall we leave soon？</Dialog>
+          <Dialog>Should we leave now？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Well... I guess we should.</Dialog>
         </Dialogs>
@@ -783,7 +783,7 @@ late？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Shall we leave soon？</Dialog>
+          <Dialog>Should we leave now？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Yeah... Sorry.</Dialog>
         </Dialogs>
@@ -810,7 +810,7 @@ late？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Shall we leave soon？</Dialog>
+          <Dialog>Should we leave now？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Yeah... There are also 
 days like this, huh？</Dialog>
@@ -895,8 +895,9 @@ place you like.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Where do we go？ Hmm. Have 
-you already decided？</Dialog>
+          <Dialog>Where do we go？ Hmm. 
+You know, I'll let you 
+decide.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Let's see.</Dialog>
         </Dialogs>
@@ -1720,8 +1721,8 @@ go.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Ah, seems fun. Well, shall 
-we go？</Dialog>
+          <Dialog>Ah, that seems fun. Well, 
+let's go.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

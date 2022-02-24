@@ -63,9 +63,10 @@ like that？</Dialog>
 badminton.</Dialog>
           <Dialog>Badminton...</Dialog>
           <Dialog>What's wrong？</Dialog>
-          <Dialog>(I can't beat ▲高嶺＊＊▲, 
+          <Dialog>(I can't beat you. 
 I remember this from club 
-activities...)</Dialog>
+activities, 
+▲高嶺＊＊▲...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -125,9 +126,9 @@ with their dogs, right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>It's probably the best 
 place for a walk, it's 
-spacious and you can 
-relax. You can come here 
-with your family.</Dialog>
+spacious and you can relax. 
+You can come here with your 
+family.</Dialog>
           <Dialog>.....</Dialog>
           <Dialog>Hmm？</Dialog>
           <Dialog>Family... Sounds nice, 
@@ -184,11 +185,10 @@ thinking？)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Rainbow... Ah, Ah over 
-there.</Dialog>
+          <Dialog>Rainbow... Ah, over there.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Really... Hmm？ You can 
-see it over there.</Dialog>
+see it over there too.</Dialog>
           <Dialog>Amazing. Something good 
 might happen, right？</Dialog>
           <Dialog>I feel good enough this 
@@ -264,7 +264,7 @@ happy I am. I'm kidding.</Dialog>
           <Dialog>Power spot？</Dialog>
           <Dialog>A place where you can heal 
 and get strength.</Dialog>
-          <Dialog>Eh. Then my power spot 
+          <Dialog>Eh？ Then my power spot 
 is――</Dialog>
           <Dialog>Next to me？　I'm kidding.</Dialog>
           <Dialog>Ah, hey！ It's unfair to 
@@ -322,10 +322,11 @@ say it first！</Dialog>
           <Dialog>Hey, shall we go to the 
 shrine？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Right. I wonder what your 
+          <Dialog>Okay. I wonder what your 
 wish is.</Dialog>
           <Dialog>Isn't it likely that God 
-gets tired of many wishes？</Dialog>
+gets tired of that many 
+wishes？</Dialog>
           <Dialog>Then... I'm grateful that 
 you came with me today, 
 ▲高嶺＊＊▲.</Dialog>
@@ -406,16 +407,16 @@ I will do the same.</Dialog>
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>Do you know that the God 
-who lives here is playful？</Dialog>
+living here is playful？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Playful？</Dialog>
           <Dialog>When you make a wish, he 
 whispers at you ear so 
-you only you can hear it.</Dialog>
+only you can hear it.</Dialog>
           <Dialog>No way！ Okay, let's check 
-it.</Dialog>
-          <Dialog>(I wish I can stay 
-together with ▲高嶺＊＊▲！)</Dialog>
+it out.</Dialog>
+          <Dialog>(I wish I can stay together 
+with ▲高嶺＊＊▲！)</Dialog>
           <Dialog>？？？</Dialog>
           <Dialog>That wish will come true.</Dialog>
           <Dialog>Huh！？</Dialog>
@@ -735,8 +736,7 @@ it！)</Dialog>
 body.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Haha, I understand. How 
-about watching this 
-movie？</Dialog>
+about watching this movie？</Dialog>
           <Dialog>I want to try to kick like 
 the heroine.</Dialog>
           <Dialog>Huh！？</Dialog>
@@ -796,19 +796,19 @@ the heroine.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲... Are you 
-feeling sleepy？</Dialog>
+          <Dialog>Are you feeling sleepy 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>I got tired from laughing 
 so much.</Dialog>
           <Dialog>Haha. I didn't think a 
-movie could make you 
-tired from laughing.</Dialog>
+movie could make you tired 
+from laughing.</Dialog>
           <Dialog>The people who were 
 watching it are definitely 
 laughing, right？</Dialog>
           <Dialog>I think laughter will save 
-the earth！</Dialog>
+the world！</Dialog>
           <Dialog>It may be. Hehe！</Dialog>
         </Dialogs>
       </SDL2>
@@ -934,16 +934,16 @@ fiction .</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Hey, are you okay？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I'm fine. I will heal 
-after you release your 
-grip on me.</Dialog>
+          <Dialog>I'm fine. I will heal after 
+you release your grip on 
+me.</Dialog>
           <Dialog>But... I gripped quite 
 hard...</Dialog>
           <Dialog>It's okay, I'm the one who 
 chose a horror movie！</Dialog>
           <Dialog>...Meanie！</Dialog>
-          <Dialog>Huh？　▲高嶺＊＊▲！？　
-I'm joking！</Dialog>
+          <Dialog>Huh？　I'm joking, 
+▲高嶺＊＊▲！？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1001,8 +1001,8 @@ characters. I want to see
 it again...</Dialog>
           <Dialog>How about buying a DVD 
 and watch it together？</Dialog>
-          <Dialog>Yay. Will the DVD come 
-out soon？</Dialog>
+          <Dialog>Yay. Will the DVD come out 
+soon？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1060,17 +1060,20 @@ out soon？</Dialog>
           <Dialog>The person next to me is 
 a professional.</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're very good at it... 
-Would you like to ask？</Dialog>
+          <Dialog>I'm surprised you can 
+recognize someone like 
+that... Would you like to 
+ask him？</Dialog>
           <Dialog>Oh, it's unusual for you 
 to tell me that.</Dialog>
           <Dialog>Do you want an autograph, 
 or something like that？</Dialog>
           <Dialog>I wonder if I can get some 
-lessons, because it takes 
+lessons. It's better that 
+way, because it takes 
 little time. That's all.</Dialog>
-          <Dialog>(That's unexpected for 
-you, ▲高嶺＊＊▲.)</Dialog>
+          <Dialog>(That's unexpected of you, 
+▲高嶺＊＊▲.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1125,7 +1128,7 @@ you, ▲高嶺＊＊▲.)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I'm tired！ Let's have a 
+          <Dialog>I'm so tired！ Let's have a 
 break！</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Go ahead.</Dialog>
@@ -1136,8 +1139,8 @@ relax okay？</Dialog>
           <Dialog>...Why did it become like 
 that？ I'll take a video 
 next time...</Dialog>
-          <Dialog>(▲高嶺＊＊▲... You're so 
-serious！)</Dialog>
+          <Dialog>(You're so serious, 
+▲高嶺＊＊▲！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1250,8 +1253,8 @@ right？ Let's start！</Dialog>
           <Dialog>Wow... It's still beating 
 fast.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Your heart？ Or is it 
-the atmosphere？</Dialog>
+          <Dialog>Your heart？ Or is it the 
+atmosphere？</Dialog>
           <Dialog>Both！ It's like being in 
 an amusement park 
 attraction.</Dialog>
@@ -1370,8 +1373,8 @@ time？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>.....</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Ah... ▲高嶺＊＊▲, are you 
-okay？</Dialog>
+          <Dialog>Ah... Are you okay, 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>...I could ask the same, 
 how are you？</Dialog>
           <Dialog>Yes, well... Hmm, maybe 
@@ -1497,13 +1500,13 @@ you too. Thank you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>My ears are still 
-ringing...</Dialog>
+          <Dialog>My ears are still ringing...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>The real pleasure of rock, 
 isn't it？</Dialog>
-          <Dialog>It's hot... I wish I could 
-take my clothes off...</Dialog>
+          <Dialog>It's so hot... I wish I 
+could take my clothes 
+off...</Dialog>
           <Dialog>What！？</Dialog>
           <Dialog>I won't really do it. 
 Geez...</Dialog>
@@ -1577,7 +1580,7 @@ Geez...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Hah.</Dialog>
+          <Dialog>Hah...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>How was it？</Dialog>
           <Dialog>Jazz is not only fun... 
@@ -1586,7 +1589,7 @@ melodies.</Dialog>
           <Dialog>I think we experienced a 
 mature atmosphere today.</Dialog>
           <Dialog>Yes... I don't wanna go 
-back home.</Dialog>
+back home yet.</Dialog>
           <Dialog>Emm！？</Dialog>
           <Dialog>A joke... I'm kidding.</Dialog>
           <Dialog>(Which one is true！？)</Dialog>
@@ -1649,22 +1652,22 @@ back home.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>It was amazing how they 
-do ad-libs like that.</Dialog>
+          <Dialog>It was amazing how they do 
+ad-libs like that.</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>It would be fun if you 
-could play with words 
-like that...</Dialog>
-          <Dialog>Where did you go？ 
-Don't tell me you have 
-something to do？</Dialog>
+could play with words like 
+that...</Dialog>
+          <Dialog>Where did you go？ Don't 
+tell me you have something 
+to do？</Dialog>
           <Dialog>Yes, but, it's impossible 
 to think things so fast 
 like that.</Dialog>
           <Dialog>Do it！</Dialog>
           <Dialog>No. If it was written on 
-paper... But, that would 
-not be as fun...</Dialog>
+paper that would not be as 
+fun...</Dialog>
           <Dialog>(I wonder if you can do 
 it someday.)</Dialog>
         </Dialogs>
@@ -1725,11 +1728,11 @@ it someday.)</Dialog>
 amazing. He's good at 
 singing.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Right！ But...</Dialog>
+          <Dialog>Right！？ But...</Dialog>
           <Dialog>Hmm？</Dialog>
-          <Dialog>▲高嶺＊＊▲, isn't anyone 
-with a voice similar to 
-yours？</Dialog>
+          <Dialog>Have you met someone with 
+a voice similar to yours, 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>Emm, I wonder... I don't 
 know for myself.</Dialog>
           <Dialog>(It was similar！)</Dialog>
@@ -1793,8 +1796,8 @@ without difficulty.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Like "It seems like you 
 have a great antenna, 
-every day. I hope you can 
-do whatever you want."</Dialog>
+every day. I hope catch 
+the news easily."</Dialog>
           <Dialog>Should I follow along 
 with a notepad？</Dialog>
           <Dialog>Let's create a story and 
@@ -1858,16 +1861,15 @@ couple！</Dialog>
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>There are performances 
-where the audience can 
-join the play. I was 
-surprised.</Dialog>
+where the audience can join 
+the play. I was surprised.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>It was interesting. The 
 amateurs were amazing too.</Dialog>
           <Dialog>Even if being put in the 
 stage, they seemed 
 dignified, right？</Dialog>
-          <Dialog>What about next time？　You 
+          <Dialog>What about next time？　Your 
 debut as a stage actress, 
 ▲高嶺＊＊▲.</Dialog>
           <Dialog>I'm fine with it. I can't 
@@ -1931,7 +1933,7 @@ do everything. You know？</Dialog>
 "history" button？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>You can see the history 
-of any played songs. From 
+of any played songs, from 
 the person who was here 
 before.</Dialog>
           <Dialog>...Is that right？ Then, 
@@ -2010,7 +2012,8 @@ think the menu is good
 here... Want to take a 
 look？</Dialog>
           <Dialog>Yes. Ah, no. But...</Dialog>
-          <Dialog>(I'm worried...)</Dialog>
+          <Dialog>(I'm worried about her 
+answer...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2074,7 +2077,7 @@ I boring you？</Dialog>
 voice is so nice...</Dialog>
           <Dialog>I guess...</Dialog>
           <Dialog>So, is it okay？　Please. 
-Let me hear more, okay？</Dialog>
+Let me hear more, please？</Dialog>
           <Dialog>(Now, I'm embarrassed！)</Dialog>
         </Dialogs>
       </SDL2>
@@ -2135,13 +2138,12 @@ today.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's my house... 
 impossible.</Dialog>
-          <Dialog>Where you lived before... 
-it would be harder to 
+          <Dialog>Where you lived before...？ 
+It would be harder to 
 live there.</Dialog>
           <Dialog>Emm？</Dialog>
-          <Dialog>Ah, sorry. I said 
-something strange, forget 
-it okay？</Dialog>
+          <Dialog>Ah, sorry. I said something 
+strange, forget it okay？</Dialog>
           <Dialog>(▲高嶺＊＊▲...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -2197,11 +2199,12 @@ it okay？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Ah.</Dialog>
+          <Dialog>Ah...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm？</Dialog>
           <Dialog>No！ Did you saw？</Dialog>
-          <Dialog>What！？　Wait, ▲高嶺＊＊▲！？</Dialog>
+          <Dialog>What！？　Wait, 
+▲高嶺＊＊▲！？</Dialog>
           <Dialog>Don't look back there. 
 A couple in the gondola 
 over there is kissing...</Dialog>
@@ -2267,7 +2270,7 @@ right？</Dialog>
 your current self, 
 ▲高嶺＊＊▲.</Dialog>
           <Dialog>Emm, geez, suddenly being 
-told that... sure.</Dialog>
+told that... Okay.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2332,9 +2335,9 @@ told that... sure.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲, in what kind 
-of haunted house would 
-you be scared in？</Dialog>
+          <Dialog>In what kind of haunted 
+house would you be scared 
+in, ▲高嶺＊＊▲？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>In one where you suddenly 
 disappear like a movie.</Dialog>
@@ -2394,16 +2397,16 @@ dangerous.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Ah. Hey, are you going 
+          <Dialog>Ah, hey, are we going in 
 first？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Seriously？ Yay！</Dialog>
+          <Dialog>You mean it？ Yay！</Dialog>
           <Dialog>I feel like I've gained 
-something.</Dialog>
+more confidence.</Dialog>
           <Dialog>Let's go "Banzai, banzai！"</Dialog>
-          <Dialog>Geez, it's dangerous now. 
-Hehe, but if it's just a 
-little...</Dialog>
+          <Dialog>Geez, that's dangerous, you 
+know. Hehe, but if it's 
+just a little...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2482,8 +2485,8 @@ scary, though the thrill
 may be double.</Dialog>
           <Dialog>...Shall we stop？</Dialog>
           <Dialog>Hmm... let's go！</Dialog>
-          <Dialog>(▲高嶺＊＊▲ sure like 
-challenges...)</Dialog>
+          <Dialog>(Sure like challenges 
+▲高嶺＊＊▲...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2560,7 +2563,7 @@ hope to humans.</Dialog>
 it？</Dialog>
           <Dialog>Hehe, didn't you believe 
 it？</Dialog>
-          <Dialog>Continue！</Dialog>
+          <Dialog>Continue with it！</Dialog>
           <Dialog>Geez, I'm not doing it.</Dialog>
         </Dialogs>
       </SDL2>
@@ -2633,7 +2636,7 @@ true...</Dialog>
 catch spells！</Dialog>
           <Dialog>Time, stop！</Dialog>
           <Dialog>.....</Dialog>
-          <Dialog>...Don't do it. Tehe♪</Dialog>
+          <Dialog>...Don't do it. Teehee♪</Dialog>
           <Dialog>I wasn't...</Dialog>
           <Dialog>Then we have to come 
 again, right？ Until it 
@@ -2948,8 +2951,7 @@ Okay, I'll borrow it！</Dialog>
 place where you could see 
 the stars like that.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Eh. Where can we see 
-them？</Dialog>
+          <Dialog>Eh. Where can we see them？</Dialog>
           <Dialog>Alaska. I saw it on TV the 
 other day.</Dialog>
           <Dialog>It's too far away！</Dialog>
@@ -3027,9 +3029,9 @@ worry... You secrets are
 safe with me.</Dialog>
           <Dialog>What！？ What did I say？</Dialog>
           <Dialog>How knows, I wonder？</Dialog>
-          <Dialog>(Well, ▲高嶺＊＊▲ seems to 
-be in a good mood... what 
-did I said.)</Dialog>
+          <Dialog>(Well, you seem to be in a 
+good mood. What did I say, 
+▲高嶺＊＊▲？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3152,9 +3154,9 @@ seems like you can live.</Dialog>
           <Dialog>I wonder... Could I live 
 with only you as my 
 nourishment？</Dialog>
-          <Dialog>Ah！ It's tasting time, 
-▲高嶺＊＊▲！ I'm an 
-All-you-can-eat fruit！</Dialog>
+          <Dialog>Ah！ It's tasting time！ 
+I'm an all-you-can-eat, 
+▲高嶺＊＊▲！</Dialog>
           <Dialog>...Geez. I'm in charge. 
 Wait right there！</Dialog>
           <Dialog>(I'm feeling like a dog 
@@ -3216,8 +3218,8 @@ left behind...)</Dialog>
           <Dialog>Why are the scientific 
 names of plants so long？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hmm. That's how... 
-dignity comes out？</Dialog>
+          <Dialog>Hmm. That's how... dignity 
+comes out？</Dialog>
           <Dialog>Do they make them long so 
 they can sound majestic？</Dialog>
           <Dialog>Isn't it necessary for 
@@ -3285,9 +3287,8 @@ anything boring...)</Dialog>
           <Dialog>Tasting party of edible 
 cactus？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Oh... It seems like it's 
-by reservation. It's a 
-pity.</Dialog>
+          <Dialog>Oh... It seems like it's by 
+reservation. It's a pity.</Dialog>
           <Dialog>Does cactus have a texture 
 like aloe？</Dialog>
           <Dialog>Ah, maybe it look like 
@@ -3357,11 +3358,11 @@ I have to ask.</Dialog>
 your face.</Dialog>
           <Dialog>I can say the same to you. 
 By your big smile, right？</Dialog>
-          <Dialog>I was found out. Haa. 
+          <Dialog>I was found out. Hah. 
 It's bad！ Fortune come to 
 those who laugh！</Dialog>
           <Dialog>It's hard to escape... 
-don't do it, Geez. Hehe！</Dialog>
+Don't do it, Geez. Hehe！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3416,13 +3417,14 @@ don't do it, Geez. Hehe！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲ was it fun？</Dialog>
+          <Dialog>Are you having fun, 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>I'm with you...</Dialog>
           <Dialog>And if you were alone？</Dialog>
-          <Dialog>Right... I'm sorry for 
-all the people here, but 
-it wouldn't be the same 
+          <Dialog>Right... I'm sorry for all 
+the people here, but it 
+wouldn't be the same 
 without you.</Dialog>
           <Dialog>Then that means I'm so 
 amazing！ Is it okay to 
@@ -3490,12 +3492,12 @@ interpret it like that？</Dialog>
           <Dialog>▲高嶺＊＊▲.</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>.....</Dialog>
-          <Dialog>Hey, ▲高嶺＊＊▲. Are you 
-okay？</Dialog>
+          <Dialog>Hey, are you okay 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>Ah, I'm sorry. I was 
 surprised.</Dialog>
-          <Dialog>If you got tired, I'm 
-sorry, okay？</Dialog>
+          <Dialog>If you got tired, tell me 
+about it, okay？</Dialog>
           <Dialog>Hey, let's go there and 
 take a break, right？</Dialog>
           <Dialog>(Yes, I'm tired too...)</Dialog>
@@ -3555,8 +3557,7 @@ take a break, right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>I didn't sleep today！</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>Don't say such a thing so 
-loud.</Dialog>
+          <Dialog>Don't say it so loud.</Dialog>
           <Dialog>Uh, sorry...</Dialog>
           <Dialog>Great. But, it was great, 
 right？</Dialog>
@@ -3628,7 +3629,8 @@ also have special people.</Dialog>
           <Dialog>Huh！？</Dialog>
           <Dialog>What's wrong？ You have a 
 scary face...</Dialog>
-          <Dialog>(That's taboo, ▲高嶺＊＊▲.)</Dialog>
+          <Dialog>(That's taboo, 
+▲高嶺＊＊▲.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3751,8 +3753,8 @@ them.</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>.....</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲, want to take a 
-break？</Dialog>
+          <Dialog>Want to take a break 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>...I will. Is that okay？</Dialog>
           <Dialog>Of course. The forks on 
 your forehead aren't 
@@ -3874,7 +3876,7 @@ the batting center？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Haa... Wasn't it great？</Dialog>
+          <Dialog>Hah... Wasn't it great？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Haha, it's rare that you 
 get so excited, 
@@ -3939,7 +3941,7 @@ to the castle...</Dialog>
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>Ah, can you see it？　The 
-ferris wheel.</Dialog>
+ferris wheel is over there.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah, it's true. You can 
 see the ferris wheel.</Dialog>
@@ -4005,8 +4007,8 @@ see the ferris wheel.</Dialog>
           <Dialog>The bridge shakes a lot...</Dialog>
           <Dialog>Isn't this fun？ It's like 
 a trampoline.</Dialog>
-          <Dialog>▲高嶺＊＊▲ let's jump to 
-make it shake more！</Dialog>
+          <Dialog>Let's jump to make it shake 
+more ▲高嶺＊＊▲！</Dialog>
           <Dialog>...Let's do it.</Dialog>
           <Dialog>Ah, like this！</Dialog>
         </Dialogs>
@@ -4139,9 +4141,9 @@ Yakisoba is？</Dialog>
 I wonder if such food is 
 eye-catching. What do you 
 say ▲高嶺＊＊▲？</Dialog>
-          <Dialog>Yes, I'm quick-eyed. 
-Regarding food... 
-Sorry for that, okay？</Dialog>
+          <Dialog>Yes, I'm quick-eyed 
+regarding food... Sorry if 
+it's strange.</Dialog>
           <Dialog>...I'll go try it.</Dialog>
           <Dialog>Safe travels▼</Dialog>
           <Dialog>(Why did I speak...！)</Dialog>
@@ -4199,7 +4201,7 @@ Sorry for that, okay？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>The sunlight is awesome... 
+          <Dialog>The sunlight is strong... 
 I may have to apply 
 sunscreen several times 
 today.</Dialog>
@@ -4345,8 +4347,9 @@ in the sea...</Dialog>
           <Dialog>Ah, the ball...</Dialog>
           <Dialog>飼い主</Dialog>
           <Dialog>I'm sorry！</Dialog>
-          <Dialog>Oh, come over here！ 
-▲高嶺＊＊▲, it's our turn！</Dialog>
+          <Dialog>Oh, come over here！ It's 
+our turn, 
+▲高嶺＊＊▲！</Dialog>
           <Dialog>Hehe, alright！</Dialog>
         </Dialogs>
       </SDL2>
@@ -4724,8 +4727,7 @@ I can't resist anymore.</Dialog>
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>Look, that penguin. It's 
-reacting to light. 
-So cute▼</Dialog>
+reacting to light. So cute▼</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Somehow, it looks like a 
 fish.</Dialog>
@@ -4872,7 +4874,7 @@ can stay overnight.</Dialog>
           <Dialog>I see. I wish we could do 
 it too.</Dialog>
           <Dialog>Hey, I think it would be 
-wonderful.</Dialog>
+wonderful to visit.</Dialog>
           <Dialog>(Don't discard the 
 "staying" part...)</Dialog>
         </Dialogs>
@@ -4932,7 +4934,7 @@ wonderful.</Dialog>
           <Dialog>Are the dolphins here born 
 in the aquarium？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Isn't it right？　Why？</Dialog>
+          <Dialog>I think so.　Why？</Dialog>
           <Dialog>If you're born in the sea, 
 you might want to return 
 home...</Dialog>
@@ -4940,8 +4942,8 @@ home...</Dialog>
           <Dialog>I'm sorry, I just said 
 something strange. 
 I wonder why...？</Dialog>
-          <Dialog>(▲高嶺＊＊▲, you're a kind 
-person...)</Dialog>
+          <Dialog>(You're a kind person 
+▲高嶺＊＊▲...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4998,15 +5000,18 @@ person...)</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>It's so crowded...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Alright, ▲高嶺＊＊▲！ Hold 
-onto my shoulders！</Dialog>
+          <Dialog>Alright！ Hold onto my 
+shoulders, 
+▲高嶺＊＊▲！</Dialog>
           <Dialog>Emm... Me holding you？</Dialog>
-          <Dialog>Boo！ That's right！ You 
-holding me, ▲高嶺＊＊▲！</Dialog>
-          <Dialog>Ah... Is that right？　No, 
-stop it, myself...</Dialog>
+          <Dialog>Too bad！ That's right！ 
+You holding me, 
+▲高嶺＊＊▲！</Dialog>
+          <Dialog>Ah... Really？　No, stop 
+it, myself...</Dialog>
           <Dialog>(It's just a natural place 
-for you to be, ▲高嶺＊＊▲.)</Dialog>
+for you to be, 
+▲高嶺＊＊▲.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5066,8 +5071,8 @@ for you to be, ▲高嶺＊＊▲.)</Dialog>
           <Dialog>Ah, it's pouring down！ 
 Dash！</Dialog>
           <Dialog>Emm, really？　This is bad！</Dialog>
-          <Dialog>...Sorry, ▲高嶺＊＊▲！ 
-I was joking！</Dialog>
+          <Dialog>I'm sorry！ I was joking, 
+▲高嶺＊＊▲！</Dialog>
           <Dialog>Geez！</Dialog>
           <Dialog>(It's bad, I think she's 
 cute being angry...)</Dialog>
@@ -5273,7 +5278,8 @@ the same.</Dialog>
 "Wao-chan" will come soon！</Dialog>
           <Dialog>Hehe, seems like you're 
 enjoying it！</Dialog>
-          <Dialog>(...Didn't it go well？)</Dialog>
+          <Dialog>(...Aren't you enjoying it 
+too？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5344,7 +5350,7 @@ forward.</Dialog>
 Then, does it have more 
 meaning to spend time 
 with you like this？</Dialog>
-          <Dialog>Of course it is！</Dialog>
+          <Dialog>Of course it does！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5412,7 +5418,7 @@ with you like this？</Dialog>
           <Dialog>A crow's singing.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Did you hear its cry？</Dialog>
-          <Dialog>No. Do you see it？ 
+          <Dialog>No. Can you see it？ 
 There's a crow at the 
 bottom.</Dialog>
           <Dialog>Ah, it's true. But if 
@@ -5737,8 +5743,8 @@ mysterious...)</Dialog>
           <Dialog>What are you looking at？ 
 "All-you-can-take with a 
 round massage after 
-washing your face！"？</Dialog>
-          <Dialog>Let's try this...</Dialog>
+washing your face！", huh？</Dialog>
+          <Dialog>Let's try it...</Dialog>
           <Dialog>Stop！</Dialog>
           <Dialog>It's no good？ That's fine, 
 though. Why？</Dialog>
@@ -5939,13 +5945,12 @@ of the lake. You can see
 the stars beautifully.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>The light of the city 
-doesn't reach, maybe 
-that's why. But it's 
-little hard to go to the 
-lake at night.</Dialog>
+doesn't reach, maybe that's 
+why. But it's little hard 
+to go to the lake at night.</Dialog>
           <Dialog>Isn't that dangerous？ 
 I feel a little scared.</Dialog>
-          <Dialog>That's right... the lake 
+          <Dialog>That's right... The lake 
 has that kind of 
 atmosphere.</Dialog>
           <Dialog>Right... beautiful and 
@@ -6008,14 +6013,15 @@ likely to be drawn...</Dialog>
           <Dialog>Because it's Lake Towano. 
 If so, would I be Tossie？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Tossie... I want some 
-power too！</Dialog>
+          <Dialog>Tossie... I want some power 
+too！</Dialog>
           <Dialog>Then... Tossie！</Dialog>
-          <Dialog>Haha！ ▲高嶺＊＊▲ is very 
-powerful.</Dialog>
-          <Dialog>Uh... it's good already. 
-Can we go？</Dialog>
-          <Dialog>(▲高嶺＊＊▲ is so cute.)</Dialog>
+          <Dialog>Haha！ You're very powerful 
+▲高嶺＊＊▲.</Dialog>
+          <Dialog>Uh... I want to leave it 
+at that. Can we go？</Dialog>
+          <Dialog>(You are so cute 
+▲高嶺＊＊▲.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6144,13 +6150,14 @@ cool, okay？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>By the way ▲高嶺＊＊▲, are 
-you okay with seasickness？</Dialog>
+          <Dialog>By the way, are you okay 
+with seasickness, 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>I'm okay if it's just 
-this, right？ Compared to 
-a sightseeing but, this 
-is nothing.</Dialog>
+this. Compared to a 
+sightseeing, this is 
+nothing.</Dialog>
           <Dialog>Then we can go around the 
 world on a cruise！</Dialog>
           <Dialog>Will you take me？ Around 
@@ -6338,8 +6345,7 @@ bento！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hah... I'm healed...</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>That's right... 
-I'm kidding.</Dialog>
+          <Dialog>That's right... I'm kidding.</Dialog>
           <Dialog>The air is delicious 
 here... It would be nice 
 to take a nap here.</Dialog>
@@ -6408,15 +6414,13 @@ we go？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Maybe it's hard because 
-you use more muscle 
-strength downhill than on 
-uphill.</Dialog>
+          <Dialog>Maybe it's hard because you 
+use more muscle strength 
+downhill than on uphill.</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>I wonder what would you 
-do if your knees got 
-jerky when going to 
-school.</Dialog>
+          <Dialog>I wonder what would you do 
+if your knees got jerky 
+when going to school.</Dialog>
           <Dialog>When that time comes, 
 I'll be your foot, 
 ▲高嶺＊＊▲！</Dialog>
@@ -6493,16 +6497,16 @@ here belong to.</Dialog>
           <Dialog>Because the chestnuts are 
 all over the place. Look.</Dialog>
           <Dialog>Really, there are a lot... 
-It belongs to the 
-landlord, right？</Dialog>
+It belongs to the landlord, 
+right？</Dialog>
           <Dialog>However, some people 
 collect wild vegetables, 
 so chestnuts seem to be 
 fine.</Dialog>
           <Dialog>...I have to investigate 
 this.</Dialog>
-          <Dialog>(▲高嶺＊＊▲'s eye color has 
-changed...！)</Dialog>
+          <Dialog>(Your eye color has changed 
+▲高嶺＊＊▲...！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6557,9 +6561,9 @@ changed...！)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>The red of the maple is 
-beautiful, but I like the 
-yellow of the ginkgo.</Dialog>
+          <Dialog>The red color of the maple 
+is beautiful, but I like 
+the yellow of the ginkgo.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Color？ Because you can 
 get ginkgo, isn't it？</Dialog>
@@ -6714,11 +6718,11 @@ sunscreen.</Dialog>
 I know, I'll wrap a 
 handkerchief around my 
 face――</Dialog>
-          <Dialog>▲高嶺＊＊▲, I'm getting 
-suspicious...</Dialog>
+          <Dialog>I'm getting suspicious, 
+▲高嶺＊＊▲...</Dialog>
           <Dialog>Um... May I ask why？</Dialog>
           <Dialog>Are you sure that's cute？</Dialog>
-          <Dialog>Are you buying really it？ 
+          <Dialog>Are you really buying it？ 
 Like this？</Dialog>
           <Dialog>(Thank you！ I'll go！)</Dialog>
         </Dialogs>
@@ -6836,8 +6840,9 @@ Let's work hard, sensei▼</Dialog>
 draw pictures that move 
 people's hearts.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>A picture... ▲高嶺＊＊▲, 
-are you good at it？</Dialog>
+          <Dialog>Pictures... Are you good 
+at drawing, 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>Not much... I received an 
 award at school when I 
 was an elementary school 
@@ -6914,7 +6919,7 @@ Do you understand it,
 plump lady？ She has a 
 slightly swollen nose...</Dialog>
           <Dialog>A person's face？　Hmm... 
-that might be so. More 
+that might be so... More 
 spiritual...</Dialog>
           <Dialog>Really？ Isn't that a 
 little foolish？</Dialog>
@@ -6988,9 +6993,8 @@ are worried about？</Dialog>
 style.</Dialog>
           <Dialog>...Isn't Gargie a person 
 who draws horror pictures？</Dialog>
-          <Dialog>Is that right？　Would you 
-like to try the horror 
-cake？</Dialog>
+          <Dialog>Really？　Would you like 
+to try the horror cake？</Dialog>
           <Dialog>(I'm curious, I don't want 
 to eat...)</Dialog>
         </Dialogs>
@@ -7257,8 +7261,8 @@ Shall we apologize？　Sorry！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>The lion's baby... 
-I want to hold it...</Dialog>
+          <Dialog>The lion's baby... I want 
+to hold it...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>It's a big cat！</Dialog>
           <Dialog>That's right. Hehe, just 
@@ -7384,12 +7388,14 @@ be angry...)</Dialog>
           <Dialog>The guys here are totally 
 becoming people.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲, they are saying 
-hello to you. Look.</Dialog>
+          <Dialog>They are saying hello to 
+you. Look, 
+▲高嶺＊＊▲.</Dialog>
           <Dialog>Maybe it's because I'm 
 with you？</Dialog>
-          <Dialog>▲高嶺＊＊▲, you seem to be 
-liked more by animals.</Dialog>
+          <Dialog>You seem to be liked more 
+by animals 
+▲高嶺＊＊▲.</Dialog>
           <Dialog>Sometimes I act too cute 
 towards them and bother 
 some animals...</Dialog>
@@ -7461,8 +7467,9 @@ let's――.</Dialog>
           <Dialog>Hey, what is this？ A very 
 large lens... Ah, this 
 one is also amazing.</Dialog>
-          <Dialog>(▲高嶺＊＊▲, are you 
-addicted to photography？)</Dialog>
+          <Dialog>(Are you getting addicted 
+to photography 
+▲高嶺＊＊▲？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7518,8 +7525,7 @@ addicted to photography？)</Dialog>
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>Why are there so many 
-female models in the 
-photo？</Dialog>
+female models in the photo？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Well, a woman is better. 
 A man isn't as eye 
@@ -7597,8 +7603,8 @@ care.</Dialog>
 picture, you ask "Say 
 cheese", right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hmm... That's weird. 
-Why's that？</Dialog>
+          <Dialog>Hmm... That's weird. Why's 
+that？</Dialog>
           <Dialog>Right？ I was interested 
 and I looked it up. 
 Theories tell that when 
@@ -7606,12 +7612,13 @@ you open your mouth, it
 looks like that.</Dialog>
           <Dialog>Huh？ Do you close your 
 mouth？</Dialog>
-          <Dialog>Oh... really. Cheese, is 
+          <Dialog>Oh... really？ Cheese, is 
 the English pronunciation. 
 In Japan, I wonder？ I have 
 to look it up.</Dialog>
-          <Dialog>(I just expanded her 
-quest. Sorry, ▲高嶺＊＊▲.)</Dialog>
+          <Dialog>(I just expanded her quest. 
+Sorry for that, 
+▲高嶺＊＊▲.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7679,9 +7686,9 @@ colors. It might be nice
 to have them in different 
 colors. Hey, can we 
 compare them？</Dialog>
-          <Dialog>It's okay. As expected of 
-you, ▲高嶺＊＊▲, you want 
-to examine them.</Dialog>
+          <Dialog>It's okay. As I expected, 
+you want to examine them, 
+▲高嶺＊＊▲.</Dialog>
           <Dialog>Hehe, it's to match it 
 with you, so I won't 
 compromise it！</Dialog>
@@ -7814,9 +7821,9 @@ flavored.</Dialog>
 flavor, but it's dark 
 green. Foreign sweets are 
 amazing.</Dialog>
-          <Dialog>Yes... Shall I make a 
-cake like this next time？</Dialog>
-          <Dialog>What！</Dialog>
+          <Dialog>Yes... Shall I make a cake 
+like this next time？</Dialog>
+          <Dialog>What！？</Dialog>
           <Dialog>Look forward to it▼</Dialog>
           <Dialog>(I want to try it...)</Dialog>
         </Dialogs>
@@ -7876,11 +7883,12 @@ cake like this next time？</Dialog>
           <Dialog>With so many clothes... 
 it's hard to choose.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲, it's fun to 
-imagine you wearing them. 
-See, the mannequin's 
-clothes would look good 
-on you, right？</Dialog>
+          <Dialog>It's fun to imagine you 
+wearing them. See, the 
+mannequin's clothes would 
+look good on you, don't 
+you think so 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>...I don't wear that kind 
 of clothes. Such a short 
 skirt is...</Dialog>
@@ -8025,7 +8033,8 @@ want to try them？</Dialog>
           <Dialog>...Then turn around and 
 close your eyes. Oh, and 
 cover your ears.</Dialog>
-          <Dialog>(▲高嶺＊＊▲ is really shy.)</Dialog>
+          <Dialog>(You are really shy 
+▲高嶺＊＊▲.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8080,8 +8089,8 @@ cover your ears.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲, I think that's 
-amazing...</Dialog>
+          <Dialog>I think that's amazing, 
+▲高嶺＊＊▲...</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Yes, I was surprised. I 
 was lucky, I think？</Dialog>
@@ -8160,9 +8169,10 @@ it would be cute.</Dialog>
           <Dialog>A pony？</Dialog>
           <Dialog>Yes. When you go back 
 home, it would welcome 
-you... Cute▼</Dialog>
+you... So cute▼</Dialog>
           <Dialog>(That way of thinking is 
-so cute, ▲高嶺＊＊▲！)</Dialog>
+so cute, 
+▲高嶺＊＊▲！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8296,7 +8306,7 @@ why don't you imagine it
 as a tennis serve？</Dialog>
           <Dialog>Geez, you're thinking 
 about that. Alright, I'll 
-try it no！</Dialog>
+try it now！</Dialog>
           <Dialog>Ah, you got it！</Dialog>
           <Dialog>Amazing！ Here, try to do 
 it too！</Dialog>
@@ -8416,18 +8426,20 @@ teach you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>If you enter quickly, you 
-will win, ▲高嶺＊＊▲.</Dialog>
+          <Dialog>If you go in quickly, you 
+will win, 
+▲高嶺＊＊▲.</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>Yes. It's decided.</Dialog>
+          <Dialog>Okay,, now it's decided.</Dialog>
           <Dialog>You can win, for sure. 
 No doubt about it, 
 ▲高嶺＊＊▲.</Dialog>
           <Dialog>Geez. I won't lose if you 
 put that pressure on me.</Dialog>
           <Dialog>Kyaa, yay！ How was it？ 
-You did it！</Dialog>
-          <Dialog>(▲高嶺＊＊▲ was so cute！)</Dialog>
+I did it！</Dialog>
+          <Dialog>(You were so cute 
+▲高嶺＊＊▲！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8545,13 +8557,14 @@ rotation！)</Dialog>
           <Dialog>Alright, put ball nine in 
 there and it's my win.</Dialog>
           <Dialog>.....</Dialog>
-          <Dialog>Huh... ▲高嶺＊＊▲？ 
-What happened？</Dialog>
+          <Dialog>Huh... What happened？ 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>Ah, I'm sorry. It's so 
 frustrating... Emm, I'm 
-so sorry, okay？</Dialog>
-          <Dialog>(▲高嶺＊＊▲ seems really 
-disappointed...)</Dialog>
+so sorry...</Dialog>
+          <Dialog>(You seem to get really 
+frustrated about losing 
+▲高嶺＊＊▲...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8679,15 +8692,15 @@ hard to hit.)</Dialog>
           <Dialog>Ah, an autograph session.</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Her debut album "T.M.G.S" 
-on top, and is a 
-promising new female 
-artist who is reaching 
-overseas... Right？</Dialog>
+is on top of the charts, 
+and is a promising new 
+female artist who is 
+reaching overseas... Right？</Dialog>
           <Dialog>Amazing！ You know so much.</Dialog>
           <Dialog>I was just reading about 
 it yesterday.</Dialog>
-          <Dialog>Were researching the music 
-scene？</Dialog>
+          <Dialog>Were you researching the 
+music scene？</Dialog>
           <Dialog>It's because I couldn't 
 speak with you otherwise. 
 Ah, it a good song！ Come 
@@ -8755,7 +8768,7 @@ with various colors,
 right？ Landscape photos, 
 portraits and some 
 illustrations.</Dialog>
-          <Dialog>I see.</Dialog>
+          <Dialog>I see. It's so beautiful.</Dialog>
           <Dialog>Right？　It would be fun to 
 fun your favorite.</Dialog>
           <Dialog>I know, why don't we buy 
@@ -8850,7 +8863,7 @@ one！</Dialog>
           <Dialog>No good. I don't know it.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>It's hard if you don't 
-know the song name...</Dialog>
+know the song's name...</Dialog>
           <Dialog>Yes. You know, it'll be 
 good if the clerk could 
 sing, that way we might 
@@ -8865,9 +8878,9 @@ the clerk might
 understand... Here, lend 
 me your ear.</Dialog>
           <Dialog>Lalala♪</Dialog>
-          <Dialog>(▲高嶺＊＊▲... your voice 
-is beautiful... but I'm a 
-little embarrassed...)</Dialog>
+          <Dialog>(Your voice is beautiful... 
+I'm a little embarrassed 
+▲高嶺＊＊▲...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9005,9 +9018,9 @@ something？</Dialog>
           <Dialog>The latest home appliances 
 are amazing.</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>Yes, really. This washing 
-machine seems to reach to 
-your voice！</Dialog>
+          <Dialog>Yes, they really are. This 
+washing machine seems to 
+react to your voice！</Dialog>
           <Dialog>Ah, it's true. First of 
 all, I want a dryer...</Dialog>
           <Dialog>Isn't that attached to the 
@@ -9087,8 +9100,8 @@ mobile phones have a
 videophone function.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>It would be fun if I could 
-talk to you on a 
-videophone, ▲高嶺＊＊▲.</Dialog>
+talk to you on video, 
+▲高嶺＊＊▲.</Dialog>
           <Dialog>Yes, that's right... But 
 now I can't help but think 
 of when you will call me.</Dialog>
@@ -9295,13 +9308,14 @@ many goods.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>I think you want to 
 collect what you like. 
-If me or ▲高嶺＊＊▲ had 
-any goods, we might want 
-to collect them.</Dialog>
+If you or me had any goods, 
+we might want to collect 
+them ▲高嶺＊＊▲.</Dialog>
           <Dialog>My goods？　Hehe, geez, 
 what's that？</Dialog>
           <Dialog>Maybe your handmade 
-cookies, ▲高嶺＊＊▲？</Dialog>
+cookies, 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>If you like that, feel 
 free to say it. I'll give 
 you whatever you want.</Dialog>
@@ -9360,13 +9374,12 @@ you whatever you want.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲高嶺＊＊▲, do you know 
-someone like that 
-manager？</Dialog>
+          <Dialog>Do you know that manager 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>...No. It's not that, I 
-was asked if I would work 
-part-time.</Dialog>
+was asked if I would like 
+to work part-time.</Dialog>
           <Dialog>Huh！</Dialog>
           <Dialog>That's why I refused...</Dialog>
           <Dialog>That's something you 
@@ -9499,8 +9512,8 @@ a stew？)</Dialog>
           <Dialog>Of course！ I like your 
 voice the most, 
 ▲高嶺＊＊▲！</Dialog>
-          <Dialog>Geez, don't say it so 
-loud. But, that's okay... 
+          <Dialog>Geez, don't say it so loud. 
+But, that's okay... 
 I'm kidding.</Dialog>
         </Dialogs>
       </SDL2>
@@ -9558,9 +9571,9 @@ glass...</Dialog>
 princess？</Dialog>
           <Dialog>The legend of the prince 
 and a princess...</Dialog>
-          <Dialog>You seem like the 
-princess, ▲高嶺＊＊▲... 
-the other would be me.</Dialog>
+          <Dialog>You seem like the princess. 
+The other would be me, 
+▲高嶺＊＊▲.</Dialog>
           <Dialog>Nothing like that！ Ah... 
 Because there's no such 
 thing, right？</Dialog>
@@ -9625,9 +9638,9 @@ church？</Dialog>
 It's no good？</Dialog>
           <Dialog>...Isn't this a sacred 
 place？</Dialog>
-          <Dialog>What you mean is... 
-▲高嶺＊＊▲, are afraid 
-about offending God？</Dialog>
+          <Dialog>What you mean is... Are 
+afraid about offending God, 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>Ah！！ I don't know about 
 such things.</Dialog>
           <Dialog>(I wonder what you're 
@@ -9844,11 +9857,10 @@ to use it？</Dialog>
 wonder if I've used up 
 all the postcards I had.</Dialog>
           <Dialog>How much is that？</Dialog>
-          <Dialog>There's a lot in my box 
-of memories, like the 
-first I bought on an 
-excursion when I was a 
-child, right？</Dialog>
+          <Dialog>There's a lot in my box of 
+memories, like the first 
+I bought in an excursion 
+when I was a child.</Dialog>
           <Dialog>(It's been too long since 
 you bought new ones！)</Dialog>
         </Dialogs>
@@ -9911,8 +9923,8 @@ anyone who fits the lens
 can take the photo.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Oh, that sounds good.</Dialog>
-          <Dialog>Huh... ▲高嶺＊＊▲？ 
-What happened？</Dialog>
+          <Dialog>Huh... What happened？ 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>What happened？ Don't you 
 want to do it？ Come on, 
 you too...</Dialog>
@@ -9975,7 +9987,7 @@ looks fun.)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Hey. can we go buy milk 
+          <Dialog>Hey, can we go buy milk 
 ice cream later？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, let's go. But not 
@@ -9988,7 +10000,7 @@ later, right？</Dialog>
           <Dialog>Geez！ Let's go. Let's go 
 now while going home, 
 okay？</Dialog>
-          <Dialog>(Are you going！)</Dialog>
+          <Dialog>(We are going by the end！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10051,8 +10063,7 @@ or a belly pillow？</Dialog>
           <Dialog>Emm？　Then, I'll give a 
 belly pillow.</Dialog>
           <Dialog>Yes, yes... What！</Dialog>
-          <Dialog>It's a joke... 
-But, someday.</Dialog>
+          <Dialog>It's a joke... But, someday.</Dialog>
           <Dialog>(Are you interested in 
 that？)</Dialog>
         </Dialogs>
@@ -10184,12 +10195,11 @@ you're better...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>It's an amazing flower 
 scent.</Dialog>
-          <Dialog>...You smell good too？</Dialog>
+          <Dialog>...You smell good too.</Dialog>
           <Dialog>Eh, me？</Dialog>
           <Dialog>Yes. My favorite scent. 
 I want to be wrapped in it 
-all the time... 
-I'm kidding.</Dialog>
+all the time... I'm kidding.</Dialog>
           <Dialog>(You want to smell like 
 me！？)</Dialog>
         </Dialogs>
@@ -10336,8 +10346,9 @@ blew――.</Dialog>
           <Dialog>You came out of the petals 
 flying in the wind, and I 
 fell in love...</Dialog>
-          <Dialog>▲高嶺＊＊▲, stop！ Your face 
-is getting red, isn't it？</Dialog>
+          <Dialog>Stop！ Your face is getting 
+red, isn't it 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>Ah... I'm just a little 
 embarrassed. Why I'm 
 saying that...</Dialog>
@@ -10465,15 +10476,15 @@ all！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Hey, what should I make.</Dialog>
+          <Dialog>Hey, what should I make？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hmm. Plates are the 
-easiest to make.</Dialog>
+          <Dialog>Hmm. Plates are the easiest 
+to make.</Dialog>
           <Dialog>...Hey, why don't we make 
 a bowl or a cup？</Dialog>
           <Dialog>Together？</Dialog>
           <Dialog>Yes. A marriage... No, 
-nothing. It's decided！</Dialog>
+nothing. Now I've decided！</Dialog>
           <Dialog>(What did you say？)</Dialog>
         </Dialogs>
       </SDL2>
@@ -10603,19 +10614,21 @@ so close together. So, no.</Dialog>
           <Dialog>Hey, hey, let's follow 
 the bell.</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>Then, let's compete which 
-one will sound better？</Dialog>
-          <Dialog>▲高嶺＊＊▲, the sound of 
-your bell is beautiful.</Dialog>
+          <Dialog>Then, shall we compete 
+which one will sound 
+better？</Dialog>
+          <Dialog>The sound your bell makes 
+is beautiful, 
+▲高嶺＊＊▲.</Dialog>
           <Dialog>...I won't lose to that 
 pressure.</Dialog>
           <Dialog>I think the shape of the 
 bells is also beautiful. 
 I'm looking forward to it.</Dialog>
           <Dialog>Geez. Don't say nothing 
-more！ Boo.</Dialog>
-          <Dialog>(Even when scolding she's 
-cute.)</Dialog>
+more！ Tsk.</Dialog>
+          <Dialog>(Even when scolding me 
+she's cute.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10736,11 +10749,11 @@ time▼</Dialog>
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>Have you feel it？ In a 
-temple or a shrine. The 
+temple or a shrine, the 
 air is different there...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Actually, it's different. 
-If you breathe in air like 
+If you breathe-in air like 
 this, something good may 
 happen.</Dialog>
           <Dialog>Then you have to take a 
@@ -10804,7 +10817,7 @@ deep breath.</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Looking at the waterfall, 
 you can practice for a 
-while... do you want to 
+while... Do you want to 
 do it？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Is that were you practice 
@@ -10900,11 +10913,11 @@ Something like that？</Dialog>
           <Dialog>Yes. It might be nice to 
 live in a place like this 
 one day.</Dialog>
-          <Dialog>May be good. Looking at 
-the waterfall and enter 
-the hot spring. Layong 
-back... Well, shall we go 
-next？</Dialog>
+          <Dialog>Yeah, it may be good. 
+Looking at the waterfall 
+and enter the hot spring. 
+Laying back... Well, shall 
+we go next？</Dialog>
           <Dialog>.....</Dialog>
           <Dialog>▲高嶺＊＊▲？</Dialog>
           <Dialog>...Ah, sorry. What should 
@@ -10972,7 +10985,8 @@ is too much water.</Dialog>
           <Dialog>If that happens, I'll warm 
 you up, so don't worry.</Dialog>
           <Dialog>I don't want to make you 
-worry, ▲高嶺＊＊▲.</Dialog>
+worry about anything today, 
+▲高嶺＊＊▲.</Dialog>
           <Dialog>Ah, then you want to keep 
 me warm？</Dialog>
           <Dialog>(I can't refuse if you 
@@ -11035,7 +11049,7 @@ ask me.)</Dialog>
 spring every day. Your 
 skin will be smooth.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>It's still no enough？</Dialog>
+          <Dialog>It's still not enough？</Dialog>
           <Dialog>No, I still haven't had 
 enough, right？</Dialog>
           <Dialog>Huh？ Where？ You're 
@@ -11045,7 +11059,7 @@ hands and feet...</Dialog>
 all the time while I'm 
 next to you... It's not 
 enough.</Dialog>
-          <Dialog>(Is that right？)</Dialog>
+          <Dialog>(Really？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -11101,7 +11115,7 @@ enough.</Dialog>
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>*Phew* I'm getting lazy... 
-It's hot...</Dialog>
+It's so hot...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>You are getting hot. Do 
 you want to drink 
@@ -11177,7 +11191,7 @@ open-air bath.</Dialog>
 for spring？</Dialog>
           <Dialog>A lush green in the 
 summer. The moon in fall？ 
-I wish I could see them 
+I wish we could see them 
 together.</Dialog>
           <Dialog>What！</Dialog>
           <Dialog>Ah... Look, there's a bath 
@@ -11251,8 +11265,8 @@ feel more at ease.</Dialog>
 is my boyfriend, I'll be 
 in trouble. We should be 
 wary, right？</Dialog>
-          <Dialog>(▲高嶺＊＊▲, you don't have 
-to tell me that！)</Dialog>
+          <Dialog>(You don't have to tell me 
+that ▲高嶺＊＊▲！)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -11525,8 +11539,8 @@ a racket？</Dialog>
           <Dialog>I don't want to be good 
 at it. I feel like I'm 
 overdoing it...</Dialog>
-          <Dialog>(But ▲高嶺＊＊▲, doing 
-that is...)</Dialog>
+          <Dialog>(But, doing that is... 
+▲高嶺＊＊▲...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -11660,7 +11674,8 @@ on that...)</Dialog>
           <Dialog>True. I want to take a 
 bath early.</Dialog>
           <Dialog>The jacuzzi here is your 
-favorite, ▲高嶺＊＊▲.</Dialog>
+favorite, 
+▲高嶺＊＊▲.</Dialog>
           <Dialog>It's because it feels 
 good, I want to go in 
 every day.</Dialog>
