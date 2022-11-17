@@ -754,7 +754,7 @@
           <Dialog>Knife and fork</Dialog>
           <Dialog>Spoon:Curry</Dialog>
           <Dialog>Spoon:Stew</Dialog>
-          <Dialog>Hands</Dialog>
+          <Dialog>Both hands</Dialog>
           <Dialog>Hands:Ichibu-mochi</Dialog>
           <Dialog>Hands:Kushi-mochi</Dialog>
           <Dialog>Straw</Dialog>
@@ -762,16 +762,16 @@
           <Dialog>Settings screen</Dialog>
           <Dialog>1:random behavior</Dialog>
           <Dialog>2:innocent</Dialog>
-          <Dialog>3:by girlfriend's feelings</Dialog>
+          <Dialog>3:my girlfriend's feelings</Dialog>
           <Dialog>4:</Dialog>
           <Dialog>5:</Dialog>
           <Dialog>Return</Dialog>
-          <Dialog>random=＆gt;Default behaviour</Dialog>
-          <Dialog>random=＆gt;0固定</Dialog>
-          <Dialog>random=＆gt;1固定</Dialog>
-          <Dialog>random=＆gt;2固定</Dialog>
-          <Dialog>random=＆gt;3固定</Dialog>
-          <Dialog>random=＆gt;4固定</Dialog>
+          <Dialog>random=&gt;デフォルトの挙動</Dialog>
+          <Dialog>random=&gt;0固定</Dialog>
+          <Dialog>random=&gt;1固定</Dialog>
+          <Dialog>random=&gt;2固定</Dialog>
+          <Dialog>random=&gt;3固定</Dialog>
+          <Dialog>random=&gt;4固定</Dialog>
           <Dialog>Set up</Dialog>
           <Dialog>Set to innocent</Dialog>
           <Dialog>Set to not innocent</Dialog>
@@ -784,20 +784,20 @@
           <Dialog>Italian restaurant</Dialog>
           <Dialog>Restaurant</Dialog>
           <Dialog>Girlfriend's house</Dialog>
-          <Dialog>Curry shop</Dialog>
-          <Dialog>Cake buffet</Dialog>
-          <Dialog>Chani store/WB</Dialog>
-          <Dialog>Chain store/Coffee shop</Dialog>
-          <Dialog>Chain store/Dixies</Dialog>
-          <Dialog>Chain store/Dixies competitor</Dialog>
-          <Dialog>Ramen shop</Dialog>
+          <Dialog>Curry Shop</Dialog>
+          <Dialog>Cake Buffet</Dialog>
+          <Dialog>Chain Store/WB</Dialog>
+          <Dialog>Chain Store/Coffee Shop</Dialog>
+          <Dialog>Chain Store/Dixies</Dialog>
+          <Dialog>Chain Store/Dixies Comp</Dialog>
+          <Dialog>Ramen Shop</Dialog>
           <Dialog>Restaurant</Dialog>
           <Dialog>Beach</Dialog>
-          <Dialog>School meal</Dialog>
+          <Dialog>Cafeteria</Dialog>
           <Dialog>Coffee shop</Dialog>
-          <Dialog>Lakeside restaurant</Dialog>
+          <Dialog>Lakeside Restaurant</Dialog>
           <Dialog>Hero's house/Normal</Dialog>
-          <Dialog>Hero's house/See a Doctor</Dialog>
+          <Dialog>Hero's house/Nursing</Dialog>
           <Dialog>Handmade bento</Dialog>
           <Dialog>Sushi shop</Dialog>
           <Dialog>Store</Dialog>
@@ -837,7 +837,7 @@
           <Dialog>一の位 7</Dialog>
           <Dialog>一の位 8</Dialog>
           <Dialog>一の位 9</Dialog>
-          <Dialog>Once again</Dialog>
+          <Dialog>Again</Dialog>
           <Dialog>Stop</Dialog>
         </Dialogs>
       </SDL2>

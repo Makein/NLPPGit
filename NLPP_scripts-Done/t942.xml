@@ -28,8 +28,7 @@
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>...</Dialog>
-          <Dialog>The message number is 
-different.</Dialog>
+          <Dialog>Wrong message number...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -193,11 +192,11 @@ different.</Dialog>
           <Dialog>Surprised</Dialog>
           <Dialog>Entertained</Dialog>
           <Dialog>Fidgety</Dialog>
-          <Dialog>Shy laugh</Dialog>
+          <Dialog>Embarrassed grin</Dialog>
           <Dialog>Smiling face</Dialog>
           <Dialog>Kissing face</Dialog>
           <Dialog>Half-kissing face</Dialog>
-          <Dialog>Closed-eyes kissing face</Dialog>
+          <Dialog>Kissing face (closed eyes)</Dialog>
           <Dialog>Normal</Dialog>
           <Dialog>Embarrassed</Dialog>
           <Dialog>Angry</Dialog>

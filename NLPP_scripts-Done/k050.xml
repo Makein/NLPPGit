@@ -226,37 +226,61 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>あのさ、よく“好きなタイプ”とか、言うじゃん？　
-ちょっと聞いとこうかなって思って。</Dialog>
+          <Dialog>You ever heard people 
+asking "What type of girl 
+you like?" I thought I'd 
+ask you.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●の好きなタイプ？　そうだな、最近は...。</Dialog>
-          <Dialog>知的で強気な子だろ</Dialog>
-          <Dialog>優しくて積極的な子だな</Dialog>
-          <Dialog>今の▲小早川＊▲みたいな</Dialog>
-          <Dialog>知的で強気な子だろ、うん。</Dialog>
-          <Dialog>知的は、分かるけど、強気っていうのは？</Dialog>
-          <Dialog>言いたいことを言うとか、ちょっとキツイことでもね。</Dialog>
-          <Dialog>罵られちゃったり？</Dialog>
-          <Dialog>おぉ、いいんじゃない？　それくらい激しいほうが。</Dialog>
-          <Dialog>暴力振るったりとか？</Dialog>
-          <Dialog>そうそう！　ガツーンとね。</Dialog>
-          <Dialog>...マゾだったっけ？</Dialog>
-          <Dialog>え？　いや...あれ？</Dialog>
-          <Dialog>優しくて、積極的な子だな。</Dialog>
-          <Dialog>へぇ...そっか。あ、そう...。</Dialog>
-          <Dialog>あれ？　なんか、●ヘンな事言った？</Dialog>
-          <Dialog>べつに？</Dialog>
-          <Dialog>でも、なんか拗ねちゃったような...。</Dialog>
-          <Dialog>リンコが？　なんで？　
-いつもの冷たくて消極的なリンコじゃん。</Dialog>
-          <Dialog>(▲小早川＊▲って難しい...)</Dialog>
-          <Dialog>今の▲小早川＊▲みたいな...。</Dialog>
-          <Dialog>！！　なに言ってんの...。</Dialog>
-          <Dialog>▲小早川＊▲って、クールで頭もいいしさ。そ
-ういうの、好きだぞ。</Dialog>
-          <Dialog>あ、そう...。</Dialog>
-          <Dialog>あれ？　●なんか、ヘンなこと言ったかな...。</Dialog>
-          <Dialog>自覚ないってのが、タチ悪い...。</Dialog>
+          <Dialog>My favorite type? 
+Well, recently...</Dialog>
+          <Dialog>Intellectual and strong</Dialog>
+          <Dialog>Kind and positive</Dialog>
+          <Dialog>Just like you are 
+▲小早川＊▲</Dialog>
+          <Dialog>An intellectual and strong 
+girl, yeah.</Dialog>
+          <Dialog>I understand intellectual, 
+but what do you mean by 
+strong？</Dialog>
+          <Dialog>I mean, she can say whats 
+on her mind, even if it's 
+harsh.</Dialog>
+          <Dialog>Like the type that likes 
+to scold you？</Dialog>
+          <Dialog>Well, why not？ She'd 
+better go all-out at it, 
+too.</Dialog>
+          <Dialog>Like the violent type？</Dialog>
+          <Dialog>Yes, yes！　Like receiving 
+a cat's punch.</Dialog>
+          <Dialog>... Are you a masochist？</Dialog>
+          <Dialog>Huh？ Wait, huh... What？</Dialog>
+          <Dialog>A kind and positive girl, 
+I'd say.</Dialog>
+          <Dialog>Oh... really. Ah, I see...</Dialog>
+          <Dialog>What？　Did I say something 
+weird？</Dialog>
+          <Dialog>Not really...</Dialog>
+          <Dialog>Well, you don't look happy 
+about it...</Dialog>
+          <Dialog>Rinko？　Why would I be？ 
+It's just the usual cold, 
+negative Rinko.</Dialog>
+          <Dialog>(You're so hard to read 
+▲小早川＊▲...)</Dialog>
+          <Dialog>I like them like you are, 
+▲小早川＊▲...</Dialog>
+          <Dialog>！！ What did you just 
+say...？</Dialog>
+          <Dialog>You're so cool and smart, 
+and I really like you, 
+▲小早川＊▲.</Dialog>
+          <Dialog>Oh, I see...</Dialog>
+          <Dialog>What？　Did I say something 
+weird...</Dialog>
+          <Dialog>At least consider the mood 
+before saying something 
+like that...</Dialog>
           <Dialog>(...？)</Dialog>
         </Dialogs>
       </SDL2>
@@ -421,30 +445,47 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>アンタの好きなタイプってさ、どんなだっけ？　
-ネタとして聞いてあげようと思って。</Dialog>
+          <Dialog>What's your favorite type 
+of girl？　I want to hear 
+your opinion.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ネタって...うーん、最近はそうだな...。</Dialog>
-          <Dialog>クールで物静かなタイプかな</Dialog>
-          <Dialog>今の▲小早川＊▲みたいな</Dialog>
-          <Dialog>クールで物静かなタイプかな、うん。</Dialog>
-          <Dialog>なるほど...つまり、補完関係を求めてますな。</Dialog>
-          <Dialog>うーん...どういうことでしょうか？</Dialog>
-          <Dialog>つまり、無いものねだりですな。</Dialog>
-          <Dialog>そうか！　●が、暑苦しくて鬱陶しいから！</Dialog>
-          <Dialog>自覚症状あり、と。</Dialog>
-          <Dialog>え？　いや...あれ？</Dialog>
-          <Dialog>それは、今の▲小早川＊▲みたいな...。</Dialog>
-          <Dialog>な、なに言ってんの！？　バカじゃん？</Dialog>
-          <Dialog>乱暴なくらいがこっちも気楽だしさ。</Dialog>
-          <Dialog>そうかもしんないけど...。</Dialog>
-          <Dialog>●たち、お互いタイプだったりしてな。</Dialog>
-          <Dialog>はぁ！？　何それ。</Dialog>
-          <Dialog>リンコのは...タイプとかじゃなくて、ほら...アレ。</Dialog>
-          <Dialog>アレ？</Dialog>
-          <Dialog>アンタには到底理解できない、複雑な精神運動によって、その、ど
-うにかなってるんだからっ！</Dialog>
-          <Dialog>(なんのこっちゃ...)</Dialog>
+          <Dialog>My opinion... Well, these 
+days I've been thinking...</Dialog>
+          <Dialog>A cool and calm girl</Dialog>
+          <Dialog>Just like you are 
+▲小早川＊▲</Dialog>
+          <Dialog>I like cool and calm types.</Dialog>
+          <Dialog>I see... It's like you seek 
+for what you lack, huh？</Dialog>
+          <Dialog>Um... I don't really 
+understand...</Dialog>
+          <Dialog>I mean because you don't 
+have those qualities.</Dialog>
+          <Dialog>I see！ I'm just the 
+tyrannical and gloomy kind！</Dialog>
+          <Dialog>Subjective symptom, eh？</Dialog>
+          <Dialog>What？　No way... Huh？</Dialog>
+          <Dialog>I like them like you are, 
+▲小早川＊▲...</Dialog>
+          <Dialog>What are you talking 
+about！？　You're an idiot, 
+aren't you？</Dialog>
+          <Dialog>But it's easier for you to 
+get rough.</Dialog>
+          <Dialog>You may be right, but...</Dialog>
+          <Dialog>Maybe we are each other's 
+type.</Dialog>
+          <Dialog>Let me tell you. You are 
+not my type at all！</Dialog>
+          <Dialog>Because... It's not all 
+about type. It's that...</Dialog>
+          <Dialog>That what？</Dialog>
+          <Dialog>It's something you can 
+never ever understand. It 
+has something to do with 
+complicated soul and mind, 
+and stuff！</Dialog>
+          <Dialog>(What's that all about？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -564,25 +605,39 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>最新の“好きなタイプ”、聞いとこうかなって。</Dialog>
+          <Dialog>Have I asked you lately 
+about the "type" you like？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●の好きなタイプ？　そうだな、最近は...。</Dialog>
-          <Dialog>クールで物静かなタイプかな</Dialog>
-          <Dialog>▲小早川＊▲だよ</Dialog>
-          <Dialog>ちょっとクールでさ、物静かなタイプ、かな？</Dialog>
-          <Dialog>えぇっ！？</Dialog>
-          <Dialog>ど、どうした？</Dialog>
-          <Dialog>だって、だってリンコはさ、てっきり、その...。</Dialog>
-          <Dialog>てっきり？</Dialog>
-          <Dialog>ううん。そうなんだ...難しい...。</Dialog>
+          <Dialog>My favorite type？　Well, 
+recently...</Dialog>
+          <Dialog>Cool and calm, I guess</Dialog>
+          <Dialog>Just like you are 
+▲小早川＊▲</Dialog>
+          <Dialog>I guess recently I've seen 
+girls with cool and calm 
+personalities, don't you？</Dialog>
+          <Dialog>Reeeally！？</Dialog>
+          <Dialog>W-What's wrong？</Dialog>
+          <Dialog>But... But Rinko thought 
+that... Surely...</Dialog>
+          <Dialog>Surely？</Dialog>
+          <Dialog>Never mind. I got it. Being 
+someone's girlfriend is so 
+difficult...</Dialog>
           <Dialog>(...？)</Dialog>
-          <Dialog>今の▲小早川＊▲みたいなの、かな？</Dialog>
-          <Dialog>もう...ちゃんとホントのこと、教えて欲しいんだけどな、リンコ
-は。</Dialog>
-          <Dialog>ホントのこと言ってるんだけどな、●は。最近、素直になったなっ
-て。</Dialog>
-          <Dialog>そっか...うん。じゃあ、いい。</Dialog>
-          <Dialog>(今の▲小早川＊▲、いいよな)</Dialog>
+          <Dialog>For me, it'd have to be a 
+type like yours, 
+▲小早川＊▲.</Dialog>
+          <Dialog>Geez... Rinko wants you to 
+tell her the truth.</Dialog>
+          <Dialog>I really mean it. Recently 
+I've become more honest 
+with myself.</Dialog>
+          <Dialog>I see... Okay. It's fine, 
+then.</Dialog>
+          <Dialog>(I really like you the way 
+you are right now 
+▲小早川＊▲.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -742,42 +797,42 @@
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Okay, I'll work hard as a
+          <Dialog>Okay, I'll work hard as a 
 library committee today.</Dialog>
-          <Dialog>▲小早川＊▲
-is not here... Is she
-skipping？</Dialog>
-          <Dialog>(It's just my intuition,
+          <Dialog>She is not here... Are you 
+skipping your work, 
+▲小早川＊▲？</Dialog>
+          <Dialog>(It's just my intuition, 
 but...)</Dialog>
           <Dialog>Ah, you're really here.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>What is this？ Am I doing
+          <Dialog>What is this？ Am I doing 
 anything bad？</Dialog>
-          <Dialog>You are. You are skipping the
-library work.</Dialog>
+          <Dialog>You are. You are skipping 
+the library work.</Dialog>
           <Dialog>So what？</Dialog>
           <Dialog>Well, umm...</Dialog>
-          <Dialog>Just a little bit would be
-fine, right？ I'm not
-skipping. I'm just collecting
+          <Dialog>Just a little bit would 
+be fine, right？ I'm not 
+skipping. I'm collecting 
 some wisdom.</Dialog>
-          <Dialog>For what...？ I'm leaving.
+          <Dialog>For what...？ I'm leaving. 
 You'd better go back too.</Dialog>
           <Dialog>Hey.</Dialog>
           <Dialog>What？</Dialog>
           <Dialog>Stay here.</Dialog>
           <Dialog>But the library...</Dialog>
           <Dialog>It's fine. Just a moment.</Dialog>
-          <Dialog>You are Rinko's ally, aren't
-you？</Dialog>
+          <Dialog>You are Rinko's ally, 
+aren't you？</Dialog>
           <Dialog>Did something happen？</Dialog>
-          <Dialog>No. Just feel like I need
-someone by my side now. Is
-that bad？</Dialog>
-          <Dialog>...Hah. Just a little bit,
+          <Dialog>No. Just feel like I need 
+someone by my side now. 
+Is that bad？</Dialog>
+          <Dialog>...Hah. Just a little bit, 
 okay？</Dialog>
           <Dialog>...Thanks.</Dialog>
-          <Dialog>If something happened, just
+          <Dialog>If something happened, just 
 tell me, okay？</Dialog>
         </Dialogs>
       </SDL2>
@@ -908,33 +963,34 @@ tell me, okay？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Yeah. Today I'll do my best as
-a library committee！</Dialog>
+          <Dialog>Yeah. Today I'll do my best 
+as a library committee！</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hah... You're just so
+          <Dialog>Hah... You're just so 
 uselessly lively.</Dialog>
-          <Dialog>▲小早川＊▲
-doesn't feel lively？</Dialog>
+          <Dialog>Don't you feel lively, 
+▲小早川＊▲？</Dialog>
           <Dialog>Nah.</Dialog>
           <Dialog>Are you sick or something？</Dialog>
-          <Dialog>I feel sluggish and I have
+          <Dialog>I feel sluggish and I have 
 headache.</Dialog>
           <Dialog>Are you okay！？</Dialog>
-          <Dialog>You don't have to be that
+          <Dialog>You don't have to be that 
 loud.</Dialog>
-          <Dialog>But you are sick. Let me
-handle your work today. You'd
-better go home.</Dialog>
-          <Dialog>Don't exaggerate the
-situation. You worry too much.</Dialog>
+          <Dialog>But you are sick. Let me 
+handle your work today. 
+You'd better go home.</Dialog>
+          <Dialog>Don't exaggerate the 
+situation. You worry too 
+much.</Dialog>
           <Dialog>I'm really okay.</Dialog>
           <Dialog>Then that's fine.</Dialog>
-          <Dialog>Geez！ Now I'm really getting
-headache. I shouldn't feign
+          <Dialog>Geez！ Now I'm getting a 
+headache. I shouldn't feign 
 sick...</Dialog>
           <Dialog>Eh？ What？</Dialog>
-          <Dialog>Nothing. You're like a big
-brother who keeps worrying
+          <Dialog>Nothing. You're like a big 
+brother who keeps worrying 
 about things！</Dialog>
           <Dialog>I don't agree with that！</Dialog>
         </Dialogs>
@@ -1116,54 +1172,53 @@ about things！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(I'm not on library committee
-duty today. I'll just relax.)</Dialog>
+          <Dialog>(I'm not on library duty 
+today. I'll just relax.)</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>Oh,
+          <Dialog>Oh, 
 ▲小早川＊▲.</Dialog>
-          <Dialog>As usual, you have too much
+          <Dialog>As usual, you have too much 
 free time. You look bored.</Dialog>
-          <Dialog>That's not the case. I also
-have many things to take care
-of.</Dialog>
+          <Dialog>That's not the case. I also 
+have many things to take 
+care of.</Dialog>
           <Dialog>Really？</Dialog>
-          <Dialog>We have chatted for quite a
+          <Dialog>We have chatted for quite a 
 while.</Dialog>
-          <Dialog>Well, actually, Rinko was also
-bored.</Dialog>
-          <Dialog>Eh？ But today is your turn to
-work as a library committee,
-isn't it,
+          <Dialog>Well, actually, Rinko was 
+also bored.</Dialog>
+          <Dialog>Eh？ But today is your turn 
+to work as a committee 
+member, isn't it,
 ▲小早川＊▲？</Dialog>
-          <Dialog>Speaking of it... Well, I'll
-skip it then.</Dialog>
-          <Dialog>But
-▲小早川＊▲,
-you often skipped your work
-lately.</Dialog>
+          <Dialog>Speaking of it... Well, 
+I'll skip it then.</Dialog>
+          <Dialog>But you often skipped your 
+work lately, 
+▲小早川＊▲.</Dialog>
           <Dialog>Eh？</Dialog>
-          <Dialog>A penalty for skipping work is
-prohibition from borrowing any
-books for one month, you
-know？</Dialog>
+          <Dialog>A penalty for skipping 
+work is prohibition from 
+borrowing any books for 
+one month, you know？</Dialog>
           <Dialog>Ah... Ah！！</Dialog>
           <Dialog>You have to go.</Dialog>
-          <Dialog>You should've told me
+          <Dialog>You should've told me 
 earlier！</Dialog>
-          <Dialog>Ouch！ It's not my fault at
-all！</Dialog>
-          <Dialog>It's your fault！ You are
-Rinko's ally, so it's your
-duty to take care of all the
-trouble！</Dialog>
+          <Dialog>Ouch！ It's not my fault 
+at all！</Dialog>
+          <Dialog>It's your fault！ You are 
+Rinko's ally, so it's your 
+duty to take care of all 
+the trouble！</Dialog>
           <Dialog>That's unreasonable...</Dialog>
-          <Dialog>Since Rinko says so, it's
+          <Dialog>Since Rinko says so, it's 
 reasonable！</Dialog>
-          <Dialog>I got it, I got it. But you
-should hurry to work. I'll be
-sure to warn you early next
-time.</Dialog>
+          <Dialog>I got it, I got it. But you 
+should hurry to work. I'll 
+be sure to warn you early 
+next time.</Dialog>
           <Dialog>Don't ever forget it！</Dialog>
           <Dialog>(Oh my...)</Dialog>
         </Dialogs>
@@ -1389,22 +1444,23 @@ time.</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>Ah！</Dialog>
           <Dialog>？</Dialog>
-          <Dialog>▲小早川＊▲,
-what's the matter？</Dialog>
+          <Dialog>What's the matter 
+▲小早川＊▲？</Dialog>
           <Dialog>Come here！</Dialog>
           <Dialog>What？</Dialog>
           <Dialog>Just come！</Dialog>
           <Dialog>What is it！？</Dialog>
           <Dialog>Quiet.</Dialog>
-          <Dialog>He's here. Let Rinko hide
+          <Dialog>He's here. Let Rinko hide 
 behind you.</Dialog>
           <Dialog>Hide？</Dialog>
           <Dialog>Shhhhh.</Dialog>
-          <Dialog>(That teacher is in charge of
-first year students. So, she
-ran away from the teacher？)</Dialog>
-          <Dialog>Hey, don't get too close to
-me！</Dialog>
+          <Dialog>(That sensei is in charge 
+of first year students. 
+So, she ran away from the 
+sensei？)</Dialog>
+          <Dialog>Hey, don't get too close 
+to me！</Dialog>
           <Dialog>That's quite impossible.</Dialog>
           <Dialog>......</Dialog>
           <Dialog>...He's gone.</Dialog>
@@ -1412,8 +1468,8 @@ me！</Dialog>
           <Dialog>What did you do？</Dialog>
           <Dialog>Nothing.</Dialog>
           <Dialog>Liar！</Dialog>
-          <Dialog>Isn't it good？ You looked so
-happy like that...</Dialog>
+          <Dialog>Isn't it good？ You looked 
+so happy like that...</Dialog>
           <Dialog>Hah！？ What！？</Dialog>
           <Dialog>When you were with Rinko...</Dialog>
           <Dialog>Huh？</Dialog>
@@ -1587,36 +1643,36 @@ happy like that...</Dialog>
           <Dialog>Wah！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>？</Dialog>
-          <Dialog>Eh？
-▲小早川＊▲.
-What a coincidence.</Dialog>
+          <Dialog>Eh？ What a coincidence 
+▲小早川＊▲.</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>Y-Yeah. Coincidence...</Dialog>
           <Dialog>Are you shopping？</Dialog>
           <Dialog>Y-Yeah. Right.</Dialog>
-          <Dialog>What？ Seems like you're in
-hot haste.</Dialog>
-          <Dialog>Well, isn't it weird that you
-see me here？</Dialog>
-          <Dialog>At a flower shop？ It doesn't
-fit your image, I guess.</Dialog>
-          <Dialog>At least I use flowers to
+          <Dialog>What？ Seems like you're 
+in hot haste.</Dialog>
+          <Dialog>Well, isn't it weird that 
+you see me here？</Dialog>
+          <Dialog>At a flower shop？ It does 
+not fit your image, I guess.</Dialog>
+          <Dialog>At least I use flowers to 
 decorate my room sometimes.</Dialog>
-          <Dialog>Hmm？</Dialog>
-          <Dialog>Hey. Is it really weird for me
-to buy flowers？ You wanna
-laugh？</Dialog>
+          <Dialog>Really？</Dialog>
+          <Dialog>Hey. Is it really weird 
+for me to buy flowers？ 
+You wanna laugh？</Dialog>
           <Dialog>No, it's not weird.</Dialog>
           <Dialog>Really？</Dialog>
-          <Dialog>▲小早川＊▲
-is a girl, after all.</Dialog>
-          <Dialog>The way you said it isn't that
-nice, but... It's fine. Hehe.</Dialog>
-          <Dialog>But I kind of wonder how
-▲小早川＊▲'s
-room looks like.</Dialog>
-          <Dialog>If you are curious, why don't
-you come to visit？</Dialog>
+          <Dialog>You are a girl, after all, 
+▲小早川＊▲.</Dialog>
+          <Dialog>The way you said it isn't 
+that nice, but... It's 
+fine. Hehe.</Dialog>
+          <Dialog>But I kind of wonder how 
+you room looks like, 
+▲小早川＊▲.</Dialog>
+          <Dialog>If you are curious, why 
+don't you come to visit？</Dialog>
           <Dialog>What did you just say？</Dialog>
           <Dialog>Nothing. Bye.</Dialog>
           <Dialog>(What？)</Dialog>
@@ -1804,44 +1860,44 @@ you come to visit？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(It's so quiet and peaceful at
-school today.)</Dialog>
+          <Dialog>(It's so quiet and peaceful 
+at school today.)</Dialog>
           <Dialog>？？？</Dialog>
           <Dialog>Kya~~~！！</Dialog>
           <Dialog>W-What is that？</Dialog>
-          <Dialog>It was from the back of that
-building. I'd better check...</Dialog>
+          <Dialog>It was from the back of 
+that building. I'd better 
+check...</Dialog>
           <Dialog>Oh no. So cute~！</Dialog>
           <Dialog>Eh？ That voice...</Dialog>
           <Dialog>(▲小早川＊▲...)</Dialog>
-          <Dialog>(She's playing with stray
+          <Dialog>(She's playing with stray 
 cats？)</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Meow meow.</Dialog>
+          <Dialog>Nya, nya.</Dialog>
           <Dialog>(That's...)</Dialog>
-          <Dialog>Meow~ meow~▼</Dialog>
+          <Dialog>Nya~ Nya~▼</Dialog>
           <Dialog>(Could it be...)</Dialog>
-          <Dialog>(I feel like I've seen
-something that I'm not
+          <Dialog>(I feel like I've seen 
+something that I'm not 
 supposed to see.)</Dialog>
           <Dialog>Huh？</Dialog>
           <Dialog>What...？</Dialog>
-          <Dialog>Yo,
-▲小早川＊▲！
-Are you having fun？</Dialog>
+          <Dialog>Yo！ Are you having fun 
+▲小早川＊▲？</Dialog>
           <Dialog>Did you see it？</Dialog>
-          <Dialog>Absolutely. You really like
+          <Dialog>Absolutely. You really like 
 cats, huh？</Dialog>
-          <Dialog>Why not？ They are cute, so I
-can't help it.</Dialog>
-          <Dialog>▲小早川＊▲,
-you're cute too！ Very cute
-when you're with the cats.</Dialog>
-          <Dialog>Is that so, meow？</Dialog>
-          <Dialog>Meow？</Dialog>
-          <Dialog>W-What is it, meow！？</Dialog>
+          <Dialog>Why not？ They are cute, 
+so I can't help it.</Dialog>
+          <Dialog>You're cute too！ Very cute 
+when you're with the cats, 
+▲小早川＊▲.</Dialog>
+          <Dialog>Is that so-nya？</Dialog>
+          <Dialog>Nya？</Dialog>
+          <Dialog>W-What is it, nya！？</Dialog>
           <Dialog>......</Dialog>
-          <Dialog>Hah... What's with
+          <Dialog>Hah... What's with you, 
 ▲小早川＊▲...？</Dialog>
         </Dialogs>
       </SDL2>
@@ -1982,35 +2038,35 @@ when you're with the cats.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I have to run 30 laps around
-the track...</Dialog>
+          <Dialog>I have to run 30 laps 
+around the track...</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>Yo,
+          <Dialog>Yo, 
 ▲高嶺＊＊▲.</Dialog>
           <Dialog>Looks so tough.</Dialog>
-          <Dialog>I don't know if I can finish
-this...</Dialog>
-          <Dialog>Just a little bit more. Keep
-it up.</Dialog>
-          <Dialog>Now I feel like I'm in high
+          <Dialog>I don't know if I can 
+finish this...</Dialog>
+          <Dialog>Just a little bit more. 
+Keep it up.</Dialog>
+          <Dialog>Now I feel like I'm in high 
 spirits.</Dialog>
-          <Dialog>(Eh？ That's
+          <Dialog>(Eh？ That's 
 ▲小早川＊▲.)</Dialog>
           <Dialog>▲小早川＊▲.</Dialog>
-          <Dialog>Yo,
+          <Dialog>Yo, 
 ▲小早川＊▲.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Sports, eh？ You're doing
+          <Dialog>Sports, eh？ You're doing 
 great.</Dialog>
-          <Dialog>I think you're not interested
-in sports.</Dialog>
-          <Dialog>Sort of... That person just
+          <Dialog>I think you're not really 
+interested in sports.</Dialog>
+          <Dialog>Sort of... That person just 
 now was so good-looking.</Dialog>
-          <Dialog>▲高嶺＊＊▲？
-Even a girl also says this,
+          <Dialog>▲高嶺＊＊▲？ 
+Even a girl also says this, 
 huh？</Dialog>
-          <Dialog>"Also"？ So you think she's
+          <Dialog>"Also"？ So you think she's 
 good-looking too？</Dialog>
           <Dialog>Well, yeah.</Dialog>
           <Dialog>Hmph.</Dialog>
@@ -2145,31 +2201,32 @@ good-looking too？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(I'm done with this shelf.
+          <Dialog>(I'm done with this shelf. 
 What's next...？)</Dialog>
           <Dialog>？？？</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>？</Dialog>
-          <Dialog>Oh,
+          <Dialog>Oh, 
 ▲高嶺＊＊▲.</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>I'm looking for a book.</Dialog>
           <Dialog>Oh, which one？</Dialog>
           <Dialog>Thanks. You saved me.</Dialog>
-          <Dialog>It's nothing. As a library
-committee, this is just an
-easy job.</Dialog>
+          <Dialog>It's nothing. As a library 
+committee member, this is 
+just an easy job.</Dialog>
           <Dialog>Hehe. Bye now.</Dialog>
-          <Dialog>Well... It's time to go
+          <Dialog>Well... It's time to go 
 home...</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>▲小早川＊▲,
-what's up？</Dialog>
-          <Dialog>I'm going home. You take care
-of these returned books.</Dialog>
+          <Dialog>What's up, 
+▲小早川＊▲？</Dialog>
+          <Dialog>I'm going home. You take 
+care of these returned 
+books.</Dialog>
           <Dialog>Huh？ Why me！？</Dialog>
-          <Dialog>It's just an easy job, isn't
-it？</Dialog>
+          <Dialog>It's just an easy job, 
+isn't it？</Dialog>
           <Dialog>▲小早川＊▲！？</Dialog>
           <Dialog>(What？)</Dialog>
         </Dialogs>
@@ -2304,25 +2361,25 @@ it？</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>？</Dialog>
-          <Dialog>▲高嶺＊＊▲.
+          <Dialog>▲高嶺＊＊▲. 
 Yo！</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Hehe. What a coincidence.</Dialog>
-          <Dialog>Sorry for taking your time. I
-have to go.</Dialog>
+          <Dialog>Sorry for taking your time. 
+I have to go.</Dialog>
           <Dialog>Okay. See you later.</Dialog>
           <Dialog>Now...</Dialog>
           <Dialog>▲小早川＊▲.</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>You are quite popular, eh？</Dialog>
-          <Dialog>Did you see it？ I'm not
+          <Dialog>Did you see it？ I'm not 
 popular or anything.</Dialog>
-          <Dialog>Hmm？ But you two look good
+          <Dialog>Hmm？ But you two look good 
 together.</Dialog>
           <Dialog>Haha, really？</Dialog>
-          <Dialog>Not really！ Are you an
-idiot！？ You don't look good
-with her at all！</Dialog>
+          <Dialog>Not really！ Are you an 
+idiot！？ You don't look 
+good with her at all！</Dialog>
           <Dialog>▲小早川＊▲！？</Dialog>
           <Dialog>(Why is she mad？)</Dialog>
         </Dialogs>
@@ -2437,24 +2494,25 @@ with her at all！</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>？</Dialog>
-          <Dialog>▲小早川＊▲.
-Such a rare chance.</Dialog>
+          <Dialog>Such a rare chance, 
+▲小早川＊▲.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hehe. I'm here to observe.
-I'll try not to bother you, so
-can I stay and watch？</Dialog>
-          <Dialog>Fine. I'm waiting for my mixed
-doubles partner here.</Dialog>
+          <Dialog>Hehe. I'm here to observe. 
+I'll try not to bother you, 
+so can I stay and watch？</Dialog>
+          <Dialog>Fine. I'm waiting for my 
+mixed doubles partner here.</Dialog>
           <Dialog>Partner？</Dialog>
           <Dialog>There. She's coming...</Dialog>
-          <Dialog>Hmm？ Then I might be a bother
-for you. I'm leaving.</Dialog>
+          <Dialog>Hmm？ Then I might be a 
+bother for you. I'm leaving.</Dialog>
           <Dialog>A bother？ Why...？</Dialog>
           <Dialog>......</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>▲高嶺＊＊▲.</Dialog>
-          <Dialog>What's the matter？ Seems like
-that girl just ran away.</Dialog>
+          <Dialog>What's the matter？ Seems 
+like that girl just ran 
+away.</Dialog>
           <Dialog>...Well, who knows why.</Dialog>
         </Dialogs>
       </SDL2>
@@ -2584,24 +2642,24 @@ that girl just ran away.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Okay, I'm done with the
+          <Dialog>Okay, I'm done with the 
 trash！</Dialog>
           <Dialog>？？？</Dialog>
           <Dialog>Eh？</Dialog>
           <Dialog>？</Dialog>
-          <Dialog>▲小早川＊▲,
-why are you here？</Dialog>
+          <Dialog>Why are you here 
+▲小早川＊▲？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>I just walk past. So, you're
-working here？</Dialog>
+          <Dialog>I just walk past. So, you 
+are working here？</Dialog>
           <Dialog>Yeah.</Dialog>
           <Dialog>Is your work fun？</Dialog>
           <Dialog>Well, some parts are fun.</Dialog>
           <Dialog>For example...？</Dialog>
           <Dialog>For example... Well...</Dialog>
           <Dialog>Nene</Dialog>
-          <Dialog>▲主人公＊▲.
-Can you help me here？</Dialog>
+          <Dialog>Can you help me here 
+▲主人公＊▲？</Dialog>
           <Dialog>Okay, got it.</Dialog>
           <Dialog>I understand now.</Dialog>
           <Dialog>What did you understand？</Dialog>
@@ -2749,30 +2807,31 @@ Can you help me here？</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>？</Dialog>
-          <Dialog>▲姉ヶ崎＊▲,
-what's up？</Dialog>
-          <Dialog>Hey, just a moment ago while I
-was working as a cashier, a
-customer praised you.</Dialog>
+          <Dialog>What's up 
+▲姉ヶ崎＊▲？</Dialog>
+          <Dialog>Hey, just a moment ago 
+while I was working as a 
+cashier, a customer praised 
+you.</Dialog>
           <Dialog>Really？</Dialog>
-          <Dialog>Yeah. She said that you were
-polite and your smile always
-made her feel good.</Dialog>
+          <Dialog>Yeah. She said that you 
+were polite and your smile 
+always made her feel good.</Dialog>
           <Dialog>Really！ Yay！</Dialog>
           <Dialog>Hehe. Good job, good job.</Dialog>
           <Dialog>(Yeah！)</Dialog>
           <Dialog>Welcome.</Dialog>
-          <Dialog>Oh, isn't that
+          <Dialog>Oh, isn't that you, 
 ▲小早川＊▲？</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>......</Dialog>
           <Dialog>I'll take you to your seat.</Dialog>
           <Dialog>Change！</Dialog>
           <Dialog>Hah？</Dialog>
-          <Dialog>I'm not impressed with this
+          <Dialog>I'm not impressed with this 
 waiter's service.</Dialog>
           <Dialog>In what part？</Dialog>
-          <Dialog>Your grinning face makes me
+          <Dialog>Your grinning face makes me 
 feel sick.</Dialog>
           <Dialog>(What is this！？)</Dialog>
         </Dialogs>
@@ -2912,37 +2971,38 @@ feel sick.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes？</Dialog>
           <Dialog>Nene</Dialog>
-          <Dialog>Here. Seems like someone
-forgot this pencil box. It was
-on the floor under that table.</Dialog>
-          <Dialog>Thank you very much. You are
-so kind.</Dialog>
-          <Dialog>Hehe. You really work hard as
-a committee, huh？ You work
-hard for your part-time job as
-well.</Dialog>
-          <Dialog>Um, I can handle them.</Dialog>
+          <Dialog>Here. Seems like someone 
+forgot this pencil box. 
+It was on the floor under 
+that table.</Dialog>
+          <Dialog>Thank you very much. You 
+are so kind.</Dialog>
+          <Dialog>Hehe. You really work hard 
+as a committee, huh？ You 
+work hard for your part- 
+time job as well.</Dialog>
+          <Dialog>Yup, I can handle them.</Dialog>
           <Dialog>Hehe, see you later.</Dialog>
-          <Dialog>▲小早川＊▲.
-Nice timing. Can you take care
-of this forgotten item？</Dialog>
+          <Dialog>Nice timing. Can you take 
+care of this forgotten item 
+▲小早川＊▲？</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>......</Dialog>
-          <Dialog>(She looks so pissed for no
-reason...)</Dialog>
-          <Dialog>What should I do with this
+          <Dialog>(She looks so pissed for 
+no reason...)</Dialog>
+          <Dialog>What should I do with this 
 then？</Dialog>
-          <Dialog>I'm not your older sister.
-Don't keep asking me for every
-little thing.</Dialog>
-          <Dialog>What are you angry at？ This
-is not good, you know？</Dialog>
-          <Dialog>"Thank you very much. You are
-so kind."</Dialog>
+          <Dialog>I'm not your older sister. 
+Don't keep asking me for 
+every little thing.</Dialog>
+          <Dialog>What are you angry at？ 
+This is not good, you know？</Dialog>
+          <Dialog>"Thank you very much. You 
+are so kind."</Dialog>
           <Dialog>What is that？</Dialog>
-          <Dialog>Whatever！ I'm always a mean
-girl！</Dialog>
-          <Dialog>(Why was she so mad like
+          <Dialog>Whatever！ I'm always a 
+mean girl！</Dialog>
+          <Dialog>(Why was she so mad like 
 that？)</Dialog>
         </Dialogs>
       </SDL2>
@@ -3105,27 +3165,27 @@ that？)</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>What a coincidence.</Dialog>
           <Dialog>Yeah.</Dialog>
-          <Dialog>I'd better go. If we get too
-close, someone might mistake
-us as lovers.</Dialog>
+          <Dialog>I'd better go. If we get 
+too close, someone might 
+mistake us as lovers.</Dialog>
           <Dialog>Eh！？</Dialog>
-          <Dialog>You're getting embarrassed
+          <Dialog>You're getting embarrassed 
 now, eh？</Dialog>
           <Dialog>......</Dialog>
           <Dialog>Hehe. Bye-bye.</Dialog>
-          <Dialog>She really likes to say some
-surprising stuff.</Dialog>
+          <Dialog>She really likes to say 
+some surprising stuff.</Dialog>
           <Dialog>Ah, excuse me.</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>▲小早川＊▲？
 Eh？ How long have you been
 here？</Dialog>
-          <Dialog>Long enough to mistake you two
-as lovers.</Dialog>
+          <Dialog>Long enough to mistake you 
+two as lovers.</Dialog>
           <Dialog>What？ So you heard that？</Dialog>
-          <Dialog>If you're with Rinko, we're
-probably mistaken as brother
-and sister.</Dialog>
+          <Dialog>If you're with Rinko, 
+we're probably mistaken as 
+brother and sister.</Dialog>
           <Dialog>I don't think so...</Dialog>
           <Dialog>Then it's good...</Dialog>
           <Dialog>▲小早川＊▲...</Dialog>
@@ -3221,23 +3281,24 @@ and sister.</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>？</Dialog>
-          <Dialog>Oh,
+          <Dialog>Oh, 
 ▲小早川＊▲.</Dialog>
-          <Dialog>Congratulations for your
+          <Dialog>Congratulations for your 
 graduation.</Dialog>
           <Dialog>Oh, thanks.</Dialog>
-          <Dialog>Thanks to you, school isn't a
-terrible place for me anymore.</Dialog>
-          <Dialog>That's great then. You must
-behave even when I'm not here,
-okay？</Dialog>
-          <Dialog>Don't act like you're so grown
-up. You're just like a
-good-for-nothing older brother
-for me.</Dialog>
+          <Dialog>Thanks to you, school isn't 
+a terrible place for me 
+anymore.</Dialog>
+          <Dialog>That's great then. You must 
+behave even when I'm not 
+here, okay？</Dialog>
+          <Dialog>Don't act like you're so 
+grown up. You're just like 
+a good-for-nothing older 
+brother for me.</Dialog>
           <Dialog>Hey.</Dialog>
           <Dialog>Hehe.</Dialog>
-          <Dialog>(She is just like a little
+          <Dialog>(She is just like a little 
 sister to me...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -3371,30 +3432,30 @@ sister to me...)</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲小早川＊▲.</Dialog>
-          <Dialog>Congratulations for your
+          <Dialog>Congratulations for your 
 graduation.</Dialog>
-          <Dialog>Oh, thanks. Do you feel lonely
-that I graduated？</Dialog>
+          <Dialog>Oh, thanks. Do you feel 
+lonely that I graduated？</Dialog>
           <Dialog>Yeah...</Dialog>
-          <Dialog>Haha. Today, you're being
+          <Dialog>Haha. Today, you're being 
 frank, huh？</Dialog>
           <Dialog>......</Dialog>
           <Dialog>What's wrong？</Dialog>
-          <Dialog>I could change because of you.
-Thanks.</Dialog>
+          <Dialog>I could change because of 
+you. Thanks.</Dialog>
           <Dialog>Okay...</Dialog>
-          <Dialog>And I really want you to stay
-beside me, forever.</Dialog>
+          <Dialog>And I really want you to 
+stay beside me, forever.</Dialog>
           <Dialog>Eh...？</Dialog>
-          <Dialog>But, that's not possible. You
-just think of me as your
-little sister and never see me
-as a woman.</Dialog>
+          <Dialog>But, that's not possible. 
+You just think of me as 
+your little sister and 
+never see me as a woman.</Dialog>
           <Dialog>Wait.</Dialog>
-          <Dialog>In the end, you are just too
-dumb！</Dialog>
+          <Dialog>In the end, you are just 
+too dumb！</Dialog>
           <Dialog>▲小早川＊▲！</Dialog>
-          <Dialog>▲小早川＊▲~！
+          <Dialog>▲小早川＊▲~！ 
 Wait for me！！</Dialog>
         </Dialogs>
       </SDL2>

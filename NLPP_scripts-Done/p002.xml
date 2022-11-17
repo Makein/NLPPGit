@@ -61,17 +61,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Teacher</Dialog>
+          <Dialog>Sensei</Dialog>
           <Dialog>Now, the next question...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Urgh... Our eyes met.)</Dialog>
           <Dialog>Right, can you try it？</Dialog>
           <Dialog>Good. Well done.</Dialog>
-          <Dialog>(I'm glad I studied
-beforehand...)</Dialog>
-          <Dialog>You should have studied
+          <Dialog>(I'm glad I studied before- 
+hand...)</Dialog>
+          <Dialog>You should have studied 
 properly beforehand.</Dialog>
-          <Dialog>(Maybe it's a good idea to
+          <Dialog>(Maybe it's a good idea to 
 study harder...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -106,16 +106,16 @@ study harder...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Teacher</Dialog>
-          <Dialog>Okay, today we'll be having a
-quiz.</Dialog>
+          <Dialog>Sensei</Dialog>
+          <Dialog>Okay, today we'll be having 
+a quiz.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(This is a bit sudden... Will
-I be okay？)</Dialog>
-          <Dialog>(I did well. I'm glad I
+          <Dialog>(This is a bit sudden... 
+Will I be okay？)</Dialog>
+          <Dialog>(I did well. I'm glad I 
 studied beforehand...)</Dialog>
-          <Dialog>(That was awful. I should have
-studied more...)</Dialog>
+          <Dialog>(That was awful. I should 
+have studied more...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -170,18 +170,18 @@ studied more...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(We'll be having a match
+          <Dialog>(We'll be having a match 
 during P.E. class today.)</Dialog>
-          <Dialog>P.E. Teacher</Dialog>
+          <Dialog>P.E. Sensei</Dialog>
           <Dialog>Ready？ Set. Go！</Dialog>
           <Dialog>Guy A</Dialog>
-          <Dialog>That was great. You did very
-well.</Dialog>
-          <Dialog>(I'm glad I've exercised
+          <Dialog>That was great. You did 
+very well.</Dialog>
+          <Dialog>(I'm glad I've exercised 
 regularly...)</Dialog>
-          <Dialog>Hey！ Can't you be a bit more
-serious！？</Dialog>
-          <Dialog>(I should exercise more
+          <Dialog>Hey！ Can't you be a bit 
+more serious！？</Dialog>
+          <Dialog>(I should exercise more 
 regularly...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -236,18 +236,18 @@ regularly...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>P.E. teacher</Dialog>
-          <Dialog>Today, we will have a physical
-strength test！</Dialog>
+          <Dialog>P.E. sensei</Dialog>
+          <Dialog>Today, we will have a 
+physical strength test！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(It's sudden... Will I be
+          <Dialog>(It's sudden... Will I be 
 okay？)</Dialog>
           <Dialog>Good. You passed！</Dialog>
-          <Dialog>(I'm glad I've been exercising
-regularly...)</Dialog>
-          <Dialog>Hey, what's wrong？ Can't you
-even move your body！？</Dialog>
-          <Dialog>(I should've exercised
+          <Dialog>(I'm glad I've been 
+exercising regularly...)</Dialog>
+          <Dialog>Hey, what's wrong？ Can't 
+you even move your body！？</Dialog>
+          <Dialog>(I should've exercised 
 more...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -302,17 +302,17 @@ more...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Music teacher</Dialog>
-          <Dialog>Okay, today I'll test
+          <Dialog>Music sensei</Dialog>
+          <Dialog>Okay, today I'll test 
 everyone's practical skill.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Skill？ Will I be okay？)</Dialog>
           <Dialog>Yes. Wonderfully done.</Dialog>
-          <Dialog>(It's good that I've been
+          <Dialog>(It's good that I've been 
 working on my sense.)</Dialog>
-          <Dialog>Hmm... You'll have to try
+          <Dialog>Hmm... You'll have to try 
 harder next time, okay？</Dialog>
-          <Dialog>(I should've worked on my
+          <Dialog>(I should've worked on my 
 sense a bit more...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -367,21 +367,21 @@ sense a bit more...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Art teacher</Dialog>
-          <Dialog>Okay, everyone. You will have
-to present your work in front
-of the class today.</Dialog>
+          <Dialog>Art sensei</Dialog>
+          <Dialog>Okay, everyone. You will 
+have to present your work 
+in front of the class today.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(I wonder if this will be
+          <Dialog>(I wonder if this will be 
 okay...)</Dialog>
-          <Dialog>Wonderful！ You possess such
-great sense.</Dialog>
-          <Dialog>(It's good that I've been
+          <Dialog>Wonderful！ You possess 
+such great sense.</Dialog>
+          <Dialog>(It's good that I've been 
 working on my sense.)</Dialog>
-          <Dialog>This is... I'm trying to
-figure out its artistic merit,
-but...</Dialog>
-          <Dialog>(I should've worked on my
+          <Dialog>This is... I'm trying to 
+figure out its artistic 
+merit, but...</Dialog>
+          <Dialog>(I should've worked on my 
 sense a bit more...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -472,29 +472,31 @@ sense a bit more...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Guy A</Dialog>
-          <Dialog>Hey, you. You've been quite
+          <Dialog>Hey, you. You've been quite 
 popular lately.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Is that so？</Dialog>
           <Dialog>Guy B</Dialog>
-          <Dialog>Yeah, yeah. Earlier, a girl
-from another class asked me
+          <Dialog>Yeah, yeah. Earlier, a girl 
+from another class asked me 
 about you.</Dialog>
           <Dialog>Geez. I'm so jealous.</Dialog>
-          <Dialog>(Maybe it's because I've been
-paying attention to my
-appearance and behavior,
+          <Dialog>(Maybe it's because I've 
+been paying attention to my 
+appearance and behavior, 
 huh？)</Dialog>
-          <Dialog>Hey, you... You don't seem to
-be very popular lately.</Dialog>
+          <Dialog>Hey, you... You don't seem 
+to be very popular lately.</Dialog>
           <Dialog>Really！？</Dialog>
-          <Dialog>I guess. The girls are
+          <Dialog>I guess. The girls are 
 gossiping about you.</Dialog>
-          <Dialog>I think it's better if you try
-to do something with yourself.</Dialog>
-          <Dialog>(Is that so？ I think I should
-pay more attention to my
-appearance and behavior...)</Dialog>
+          <Dialog>I think it's better if you 
+try to do something with 
+yourself.</Dialog>
+          <Dialog>(Is that so？ I think I 
+should pay more attention 
+to my appearance and how I 
+behave...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -584,27 +586,29 @@ appearance and behavior...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Girl A</Dialog>
-          <Dialog>Hey, hey. You're quite
+          <Dialog>Hey, hey. You're quite 
 popular, you know？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Is that so？</Dialog>
           <Dialog>Girl B</Dialog>
-          <Dialog>Yeah, us girls talk about you
-a lot.</Dialog>
+          <Dialog>Yeah, us girls talk about 
+you a lot.</Dialog>
           <Dialog>That's great, isn't it？</Dialog>
-          <Dialog>(Maybe it's because I've been
-paying attention to my
-appearance and behavior,
+          <Dialog>(Maybe it's because I've 
+been paying attention to my 
+appearance and behavior, 
 huh？)</Dialog>
-          <Dialog>You... Lately, you've been so
-unpopular.</Dialog>
+          <Dialog>You... Lately, you've been 
+so unpopular.</Dialog>
           <Dialog>Is this true！？</Dialog>
-          <Dialog>Yeah, there are bad rumors
+          <Dialog>Yeah, there are bad rumors 
 about you as well...</Dialog>
-          <Dialog>You'd better watch out, okay？</Dialog>
-          <Dialog>(Is that so？ I think I should
-pay more attention to my
-appearance and behavior...)</Dialog>
+          <Dialog>You'd better watch out, 
+okay？</Dialog>
+          <Dialog>(Is that so？ I think I 
+should pay more attention 
+to my appearance and how I 
+behave...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -673,26 +677,26 @@ appearance and behavior...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Teacher</Dialog>
-          <Dialog>You've been working hard
+          <Dialog>Sensei</Dialog>
+          <Dialog>You've been working hard 
 lately, eh？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Do you really think so？</Dialog>
-          <Dialog>Yes, even other teachers have
-mentioned you and said that
-you're diligent. Keep it up,
-okay？</Dialog>
-          <Dialog>(I see. It's good to be
+          <Dialog>Yes, even other senseis 
+have mentioned you and said 
+that you're diligent. Keep 
+it up, okay？</Dialog>
+          <Dialog>(I see. It's good to be 
 careful with my behavior.)</Dialog>
-          <Dialog>Hey, you... Can you take
+          <Dialog>Hey, you... Can you take 
 things more seriously？</Dialog>
           <Dialog>Eh！？</Dialog>
-          <Dialog>I've heard bad things about
-you from other teachers as
-well. You'd better clean up
+          <Dialog>I've heard bad things about 
+you from other senseis as 
+well. You'd better clean up 
 your act.</Dialog>
-          <Dialog>(Really？ I should be careful
-from now on...)</Dialog>
+          <Dialog>(Really？ I should be more 
+careful from now on...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -752,23 +756,24 @@ from now on...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Member</Dialog>
-          <Dialog>Hey, there's something I
-didn't understand when I was
-studying. Mind if I ask you？</Dialog>
+          <Dialog>Hey, there's something I 
+didn't understand when I 
+was studying. Mind if I ask 
+you？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>No problem...</Dialog>
           <Dialog>(I hope it'll be okay...)</Dialog>
-          <Dialog>Thank you！ You really saved
-me. You know your stuff pretty
-well, huh？</Dialog>
-          <Dialog>(Good thing I studied
+          <Dialog>Thank you！ You really 
+saved me. You know your 
+stuff pretty well, huh？</Dialog>
+          <Dialog>(Good thing I studied 
 regularly...)</Dialog>
-          <Dialog>What is this...？ You're
-unreliable, you know？ I'll go
-ask someone else.</Dialog>
-          <Dialog>(...Maybe it would have been a
-good idea to study a little
-more...)</Dialog>
+          <Dialog>What is this...？ You're 
+unreliable, you know？ 
+I'll go ask someone else.</Dialog>
+          <Dialog>(...Maybe it would have 
+been a good idea to study a 
+little more...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -823,20 +828,21 @@ more...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Member</Dialog>
-          <Dialog>Hey, hey. Did you watch that
-match？ It was awesome.</Dialog>
+          <Dialog>Hey, hey. Did you watch 
+that match？ It was awesome.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Um...</Dialog>
-          <Dialog>I know, right？ No way he
-could've returned it from
+          <Dialog>I know, right？ No way he 
+could've returned it from 
 there.</Dialog>
-          <Dialog>(I'm glad we could chat like
-this. Good thing I was well
-prepared...)</Dialog>
-          <Dialog>What？ You didn't watch it？
-Well, that's okay... Ah！ Did
-you watch that match？</Dialog>
-          <Dialog>(I guess I should've paid
+          <Dialog>(I'm glad we could chat 
+like this. Good thing I was 
+well prepared...)</Dialog>
+          <Dialog>What？ You didn't watch 
+it？ Well, that's okay... 
+Ah！ Did you watch that 
+match？</Dialog>
+          <Dialog>(I guess I should've paid 
 closer attention...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -892,21 +898,21 @@ closer attention...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Captain</Dialog>
-          <Dialog>That's the end of today's
+          <Dialog>That's the end of today's 
 practice！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hah, today was tiring...</Dialog>
           <Dialog>Member</Dialog>
-          <Dialog>Good work！ You were really
-active out there today. Keep
-it up.</Dialog>
-          <Dialog>(I guess that's the fruit of
-my labor...)</Dialog>
-          <Dialog>Thanks for trying out there
-today, but were you feeling
+          <Dialog>Good work！ You were really 
+active out there today. 
+Keep it up.</Dialog>
+          <Dialog>(I guess that's the fruit 
+of my labor...)</Dialog>
+          <Dialog>Thanks for trying out there 
+today, but were you feeling 
 sick or something？</Dialog>
-          <Dialog>(I should've practiced a bit
-more, huh...)</Dialog>
+          <Dialog>(I should've practiced a 
+bit more, huh...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -961,18 +967,18 @@ more, huh...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manager</Dialog>
-          <Dialog>Today, we have practice
+          <Dialog>Today, we have practice 
 matches within the club！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(It's only a practice match
-among members, but I should
+          <Dialog>(It's only a practice match 
+among members, but I should 
 still do my best.)</Dialog>
           <Dialog>(All right！ I won！)</Dialog>
           <Dialog>Member</Dialog>
-          <Dialog>Ah, I lost. Next time, the
+          <Dialog>Ah, I lost. Next time, the 
 victory's mine！</Dialog>
           <Dialog>(I lost...)</Dialog>
-          <Dialog>All right. Today, the
+          <Dialog>All right. Today, the 
 victory's mine！</Dialog>
         </Dialogs>
       </SDL2>
@@ -1027,19 +1033,19 @@ victory's mine！</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>顧問</Dialog>
+          <Dialog>Advisor</Dialog>
           <Dialog>How's everything going？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Well...</Dialog>
-          <Dialog>Yeah, it looks like you're
+          <Dialog>Yeah, it looks like you're 
 practicing the basics
 properly.</Dialog>
-          <Dialog>(I guess it's the result of
+          <Dialog>(I guess it's the result of 
 regular practice...)</Dialog>
-          <Dialog>...Looks like you'd better
+          <Dialog>...Looks like you'd better 
 start from the basics.</Dialog>
-          <Dialog>(I guess I'll have to practice
-more, huh...)</Dialog>
+          <Dialog>(I guess I'll have to 
+practice more, huh...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1114,24 +1120,24 @@ more, huh...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Well then, it's practice
+          <Dialog>(Well then, it's practice 
 time...)</Dialog>
           <Dialog>Member</Dialog>
-          <Dialog>Ah, that thing you're
+          <Dialog>Ah, that thing you're 
 wearing...</Dialog>
           <Dialog>This？</Dialog>
-          <Dialog>It's only just come out and
-you already got one？ You're
-so lucky....</Dialog>
-          <Dialog>(It's good that I follow the
-latest trends...)</Dialog>
-          <Dialog>Hey, that thing you're
+          <Dialog>It's only just come out and 
+you already got one？ You 
+are so lucky....</Dialog>
+          <Dialog>(It's good that I follow 
+the latest trends...)</Dialog>
+          <Dialog>Hey, that thing you're 
 wearing...</Dialog>
           <Dialog>You mean this？</Dialog>
-          <Dialog>Isn't that kind of out of
-style？ I guess it's okay,
+          <Dialog>Isn't that kind of out of 
+style？ I guess it's okay, 
 but...</Dialog>
-          <Dialog>(Maybe I should pay more
+          <Dialog>(Maybe I should pay more 
 attention to fashion...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -1224,26 +1230,26 @@ attention to fashion...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>顧問</Dialog>
+          <Dialog>Advisor</Dialog>
           <Dialog>Oh, working hard, eh？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Teacher...</Dialog>
-          <Dialog>Yeah, you seem to have good
+          <Dialog>Sensei...</Dialog>
+          <Dialog>Yeah, you seem to have good 
 senses.</Dialog>
           <Dialog>Sense？ Meaning...</Dialog>
-          <Dialog>The basics are physical
-strength and practice. But in
-a match, sense is also
-essential. You've done pretty
-well.</Dialog>
+          <Dialog>The basics are physical 
+strength and practice. But 
+in a match, sense is also 
+essential. You've done 
+pretty well.</Dialog>
           <Dialog>(I see...)</Dialog>
-          <Dialog>Hmm, your senses might be
+          <Dialog>Hmm, your senses might be 
 lacking.</Dialog>
           <Dialog>Sense...？</Dialog>
-          <Dialog>The basics are physical
-strength and practice. But
-sense can influence a match
-too. It's difficult to win
+          <Dialog>The basics are physical 
+strength and practice. But 
+sense can influence a match 
+too. It's difficult to win 
 without sense.</Dialog>
           <Dialog>(Sense, huh...？)</Dialog>
         </Dialogs>
@@ -1315,23 +1321,25 @@ without sense.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Member</Dialog>
-          <Dialog>You've gotten popular lately.</Dialog>
+          <Dialog>You've gotten more popular 
+lately.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>You really think so？</Dialog>
-          <Dialog>Yeah. You stand out as a
+          <Dialog>Yeah. You stand out as a 
 reliable guy.</Dialog>
-          <Dialog>(I wonder if it's because I'm
-being careful about my looks
-and behavior...)</Dialog>
-          <Dialog>Hey... I've heard a lot of bad
-things about you lately.</Dialog>
+          <Dialog>(I wonder if it's because 
+I'm being careful about my 
+looks and behavior...)</Dialog>
+          <Dialog>Hey... I've heard a lot of 
+bad things about you lately.</Dialog>
           <Dialog>Really！？</Dialog>
-          <Dialog>People say you're not reliable
-and you don't stand out. I
-don't agree, but...</Dialog>
-          <Dialog>(Really？ I should've paid
-more attention to my looks and
-behavior...)</Dialog>
+          <Dialog>People say you're not 
+reliable and you don't 
+stand out. I don't agree, 
+but...</Dialog>
+          <Dialog>(Really？ I should've paid 
+more attention to my looks 
+and behavior...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1400,28 +1408,28 @@ behavior...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>顧問</Dialog>
-          <Dialog>Lately, it seems like you've
-been taking practice more
-seriously.</Dialog>
+          <Dialog>Advisor</Dialog>
+          <Dialog>Lately, it seems like you 
+have been taking practice 
+more seriously.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>You think so？</Dialog>
-          <Dialog>Yeah. It seems your enthusiasm
-has inspired the other
-members, too.</Dialog>
-          <Dialog>(Really？ I wonder if it's
-because I've been careful
+          <Dialog>Yeah. It seems your 
+enthusiasm has inspired the 
+other members, too.</Dialog>
+          <Dialog>(Really？ I wonder if it's 
+because I've been careful 
 about my behavior...)</Dialog>
-          <Dialog>Hey, you... Can't you take
-practice a little more
+          <Dialog>Hey, you... Can't you take 
+practice a little more 
 seriously？</Dialog>
           <Dialog>Eh！？</Dialog>
-          <Dialog>You're being a burden to the
-other members. At least try
-harder, okay？</Dialog>
-          <Dialog>(Really... I guess I should've
-tried to pay more attention to
-my behavior...)</Dialog>
+          <Dialog>You're being a burden to 
+the other members. At least 
+try harder, okay？</Dialog>
+          <Dialog>(Really... I guess I should 
+have tried to pay more 
+attention to my behavior...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1486,20 +1494,20 @@ my behavior...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Girl</Dialog>
-          <Dialog>Um, there's a book that I'm
-looking for...</Dialog>
+          <Dialog>Um, there's a book that 
+I'm looking for...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Okay...</Dialog>
           <Dialog>It's this one, right？</Dialog>
           <Dialog>Thanks for helping me out.</Dialog>
-          <Dialog>(Good thing I've studied this
-stuff regularly...)</Dialog>
-          <Dialog>Let's see... Where was it
+          <Dialog>(Good thing I've studied 
+this stuff regularly...)</Dialog>
+          <Dialog>Let's see... Where was it 
 again...？</Dialog>
-          <Dialog>Enough. I'll look for it
+          <Dialog>Enough. I'll look for it 
 myself...</Dialog>
-          <Dialog>(...Maybe I should've studied
-a bit more...)</Dialog>
+          <Dialog>(...Maybe I should have 
+studied a bit more...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1524,14 +1532,14 @@ a bit more...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Today I have to organize the
-bookshelves...</Dialog>
-          <Dialog>That was quick, Memorizing the
-library's classification
-system beforehand paid off.</Dialog>
-          <Dialog>I didn't really understand how
-to classify the books, so I
-had a hard time...</Dialog>
+          <Dialog>Today I have to organize 
+the bookshelves...</Dialog>
+          <Dialog>Memorizing the library's 
+classification system 
+beforehand paid off.</Dialog>
+          <Dialog>I didn't really understand 
+how to classify the books, 
+so I had a hard time...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1566,15 +1574,16 @@ had a hard time...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>These books have to be placed
-on the other side.</Dialog>
-          <Dialog>There are quite a few. Can I
-carry all of them in one go？</Dialog>
+          <Dialog>These books have to be 
+placed on the other side.</Dialog>
+          <Dialog>There are quite a few. Can 
+I carry all of them in one 
+go？</Dialog>
           <Dialog>Whew, just like this.</Dialog>
           <Dialog>Whoa！</Dialog>
-          <Dialog>Good thing I was able to carry
-them all without hurting
-myself...</Dialog>
+          <Dialog>Good thing I was able to 
+carry them all without 
+hurting myself...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1609,13 +1618,13 @@ myself...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Now then, today's agenda is
+          <Dialog>Now then, today's agenda is 
 cleaning the shelves...</Dialog>
-          <Dialog>All right, it's a lot cleaner
-now.</Dialog>
+          <Dialog>All right, it's a lot 
+cleaner now.</Dialog>
           <Dialog>Whoa！</Dialog>
           <Dialog>......</Dialog>
-          <Dialog>*sigh* If I don't sort them
+          <Dialog>*sigh* If I don't sort them 
 out again...</Dialog>
         </Dialogs>
       </SDL2>
@@ -1641,14 +1650,15 @@ out again...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>That reminds me. Earlier, I
-recommended some books... I
-wonder what they thought of
+          <Dialog>That reminds me. Earlier, I 
+recommended some books... I 
+wonder what they thought of 
 them.</Dialog>
-          <Dialog>People borrowed them...
-Somehow, that makes me happy.</Dialog>
-          <Dialog>No one borrowed them. What a
-failed attempt.</Dialog>
+          <Dialog>People borrowed them... 
+Somehow, that makes me 
+happy.</Dialog>
+          <Dialog>No one borrowed them. What 
+a failed attempt.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1688,22 +1698,24 @@ failed attempt.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>That reminds me. Earlier, I
-wrote a book review. I wonder
-how it was received...</Dialog>
-          <Dialog>I'll just take a peek in the
-survey box...</Dialog>
-          <Dialog>"I tried reading the book. The
-contents lived up to my
-expectations. Eagerly awaiting
-the next recommendation."</Dialog>
-          <Dialog>Looks like my sense has been
-recognized. I'm glad.</Dialog>
-          <Dialog>"I tried reading the book, but
-it didn't live up to my
-expectations. Please don't
-post misleading book reviews."</Dialog>
-          <Dialog>I wonder if my sense is
+          <Dialog>That reminds me. Earlier, 
+I wrote a book review. I 
+wonder how it was received...</Dialog>
+          <Dialog>I'll just take a peek in 
+the survey box...</Dialog>
+          <Dialog>"I tried reading the book. 
+The contents lived up to my 
+expectations. I'll eagerly 
+await for the next 
+recommendation."</Dialog>
+          <Dialog>Looks like my sense has 
+been recognized. I'm glad.</Dialog>
+          <Dialog>"I tried reading the book, 
+but it didn't live up to my 
+expectations. Please don't 
+post misleading book 
+reviews."</Dialog>
+          <Dialog>I wonder if my sense is 
 strange...</Dialog>
         </Dialogs>
       </SDL2>
@@ -1773,26 +1785,27 @@ strange...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>顧問</Dialog>
-          <Dialog>The books you helped us order
-seem to be very popular.</Dialog>
+          <Dialog>Advisor</Dialog>
+          <Dialog>The books you helped us 
+order seem to be very 
+popular.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Is that so？</Dialog>
-          <Dialog>Yes, they're appropriate for a
-school library, and the
-contents appear to be very
-interesting.</Dialog>
-          <Dialog>(Guess that means my sense has
-been recognized...)</Dialog>
-          <Dialog>Ah, the books you helped us
-order last time... They're a
-bit...</Dialog>
+          <Dialog>Yes, they're appropriate 
+for a school library, and 
+the contents appear to be 
+very interesting.</Dialog>
+          <Dialog>(Guess that means my sense 
+has been recognized...)</Dialog>
+          <Dialog>Ah, the books you helped us 
+order last time... They're 
+a bit...</Dialog>
           <Dialog>Eh！？</Dialog>
-          <Dialog>They're not appropriate for a
-school library. We'll have to
-send them back...</Dialog>
-          <Dialog>(Really？ I guess my sense is
-a bit off...)</Dialog>
+          <Dialog>They're not appropriate for 
+a school library. We'll 
+have to send them back...</Dialog>
+          <Dialog>(Really？ I guess my sense 
+is a bit off...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1852,18 +1865,18 @@ a bit off...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Girl</Dialog>
-          <Dialog>Um, I'd like to borrow this
+          <Dialog>Um, I'd like to borrow this 
 book...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Okay...</Dialog>
           <Dialog>Okay, here you go.</Dialog>
-          <Dialog>Thank you very much, for
+          <Dialog>Thank you very much, for 
 patiently helping me...</Dialog>
           <Dialog>No problem. Here you go.</Dialog>
-          <Dialog>...Somehow, I don't enjoy
+          <Dialog>...Somehow, I don't enjoy 
 being here...</Dialog>
-          <Dialog>(Ah... Should I have been more
-careful...？)</Dialog>
+          <Dialog>(Ah... Should I have been 
+more careful...？)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1908,18 +1921,19 @@ careful...？)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Now then, there's a committee
-meeting today.)</Dialog>
-          <Dialog>顧問</Dialog>
-          <Dialog>The library committee has been
-very helpful by working
-diligently.</Dialog>
-          <Dialog>(I wonder if it's thanks to my
-usual actions...)</Dialog>
-          <Dialog>Although this is only a school
-committee, I hope that you can
-all be a bit more diligent.</Dialog>
-          <Dialog>(I'll have to be more
+          <Dialog>(Now then, there's a 
+committee meeting today.)</Dialog>
+          <Dialog>Advisor</Dialog>
+          <Dialog>The library committee has 
+been very helpful by 
+working diligently.</Dialog>
+          <Dialog>(I wonder if it's thanks to 
+my usual actions...)</Dialog>
+          <Dialog>Although this is only a 
+school committee, I hope 
+that you can all be a bit 
+more diligent.</Dialog>
+          <Dialog>(I'll have to be more 
 careful...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -1993,20 +2007,20 @@ careful...)</Dialog>
           <Dialog>Check, please.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, one moment please.</Dialog>
-          <Dialog>(They ordered so many extra
-dishes... and they canceled
+          <Dialog>(They ordered so many extra 
+dishes... and they canceled 
 this one... What a pain.)</Dialog>
           <Dialog>Thank you very much.</Dialog>
           <Dialog>I'll come back later.</Dialog>
-          <Dialog>(I'm glad I'm well
+          <Dialog>(I'm glad I'm well 
 prepared...)</Dialog>
-          <Dialog>Hm... What do I do with
+          <Dialog>Hm... What do I do with 
 this...？</Dialog>
           <Dialog>Girl</Dialog>
-          <Dialog>Hey, hurry up. If you can't,
-then just ask someone else to
-do it.</Dialog>
-          <Dialog>(I should've learned to do
+          <Dialog>Hey, hurry up. If you can't 
+then just ask someone else 
+to do it.</Dialog>
+          <Dialog>(I should've learned to do 
 this in advance.)</Dialog>
         </Dialogs>
       </SDL2>
@@ -2037,15 +2051,15 @@ this in advance.)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Ah, today we started using a
-new menu.</Dialog>
-          <Dialog>Before work starts, I should
-make sure to go over the new
-menu items.</Dialog>
-          <Dialog>All right, I remember all of
-them.</Dialog>
-          <Dialog>This isn't good. I can't
-remember any of them and my
+          <Dialog>Ah, today we started using 
+a new menu.</Dialog>
+          <Dialog>Before work starts, I 
+should make sure to go over 
+the new menu items.</Dialog>
+          <Dialog>All right, I remember all 
+of them.</Dialog>
+          <Dialog>This isn't good. I can't 
+remember any of them and my 
 shift is about to start...</Dialog>
         </Dialogs>
       </SDL2>
@@ -2076,13 +2090,13 @@ shift is about to start...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>There are a lot of dishes. I
-have to carry them all at
+          <Dialog>There are a lot of dishes. 
+I have to carry them all at 
 once...</Dialog>
-          <Dialog>Handling this much is no
+          <Dialog>Handling this much is no 
 problem for me.</Dialog>
           <Dialog>Ah！</Dialog>
-          <Dialog>Geez, I guess it was
+          <Dialog>Geez, I guess it was 
 impossible...</Dialog>
         </Dialogs>
       </SDL2>
@@ -2113,7 +2127,7 @@ impossible...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Well, it's my turn to sweep
+          <Dialog>Well, it's my turn to sweep 
 the floor today.</Dialog>
           <Dialog>Okay, I guess that's it.</Dialog>
           <Dialog>Ah！</Dialog>
@@ -2182,23 +2196,24 @@ the floor today.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manager</Dialog>
-          <Dialog>Hey, you. This is from our new
-menu. Can you try it and give
-me your opinion？</Dialog>
+          <Dialog>Hey, you. This is from our 
+new menu. Can you try it 
+and give me your opinion？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Sure...</Dialog>
-          <Dialog>If you cook it that way, I
+          <Dialog>If you cook it that way, I 
 think it will taste better.</Dialog>
-          <Dialog>I see. You're really helpful.
-Thanks.</Dialog>
-          <Dialog>(I'm glad I've been
-heightening my senses lately.)</Dialog>
-          <Dialog>....That's what I think.
+          <Dialog>I see. You're really 
+helpful. Thanks.</Dialog>
+          <Dialog>(I'm glad I've been 
+heightening my senses 
+lately.)</Dialog>
+          <Dialog>....That's what I think. 
 Something like that...</Dialog>
-          <Dialog>I don't quite get it. I'll ask
-some of the other staff to
-taste it then.</Dialog>
-          <Dialog>(I should've polished my
+          <Dialog>I don't quite get it. I'll 
+ask some of the other staff 
+to taste it then.</Dialog>
+          <Dialog>(I should've polished my 
 sense...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -2254,18 +2269,19 @@ sense...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manager</Dialog>
-          <Dialog>Ah, you. For the coming fair,
-could you take care of the
-display？</Dialog>
+          <Dialog>Ah, you. For the coming 
+fair, could you take care 
+of the display？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Okay. I got it.</Dialog>
-          <Dialog>Oh, wonderful. I'm glad I
+          <Dialog>Oh, wonderful. I'm glad I 
 asked you to do this.</Dialog>
-          <Dialog>(I'm glad I've been
-heightening my senses lately.)</Dialog>
-          <Dialog>This is... You must do
+          <Dialog>(I'm glad I've been 
+heightening my senses 
+lately.)</Dialog>
+          <Dialog>This is... You must do 
 something with it, or...</Dialog>
-          <Dialog>(I should've polished my
+          <Dialog>(I should've polished my 
 sense...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -2324,12 +2340,13 @@ sense...)</Dialog>
           <Dialog>Ah, waiter！</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes. I'll be right there.</Dialog>
-          <Dialog>Thank you. You're so helpful.</Dialog>
-          <Dialog>(I think it's good to be
+          <Dialog>Thank you. You are so 
+helpful.</Dialog>
+          <Dialog>(I think it's good to be 
 attentive...)</Dialog>
-          <Dialog>Hey, the service here is
+          <Dialog>Hey, the service here is 
 pretty bad.</Dialog>
-          <Dialog>(Argh... I must be more
+          <Dialog>(Argh... I must be more 
 attentive...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -2400,23 +2417,23 @@ attentive...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manager</Dialog>
-          <Dialog>Ah, you. Our customers have
-praised you for your good
+          <Dialog>Ah, you. Our customers have 
+praised you for your good 
 service, you know？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Really？</Dialog>
-          <Dialog>Yeah. Please keep up the good
-work.</Dialog>
-          <Dialog>(I'm glad everything's going
-well...)</Dialog>
-          <Dialog>You... You know, we've had
-some complaints about your
+          <Dialog>Yeah. Please keep up the 
+good work.</Dialog>
+          <Dialog>(I'm glad everything's 
+going well...)</Dialog>
+          <Dialog>You... You know, we've had 
+some complaints about your 
 service.</Dialog>
           <Dialog>I'm very sorry...</Dialog>
-          <Dialog>You must be more careful from
-now on.</Dialog>
-          <Dialog>(Oh no. I'll have to be really
-careful.)</Dialog>
+          <Dialog>You must be more careful 
+from now on.</Dialog>
+          <Dialog>(Oh no. I'll have to be 
+really careful.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2463,15 +2480,15 @@ careful.)</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>(All right. Time to work...)</Dialog>
           <Dialog>Manager</Dialog>
-          <Dialog>Oh, you always look clean and
-tidy. Keep it up.</Dialog>
-          <Dialog>(I'm glad I dressed myself
+          <Dialog>Oh, you always look clean 
+and tidy. Keep it up.</Dialog>
+          <Dialog>(I'm glad I dressed myself 
 well...)</Dialog>
-          <Dialog>You... Be more mindful of your
-appearance. Cleanliness is
-very important.</Dialog>
-          <Dialog>(I'll have to be careful about
-how I look.)</Dialog>
+          <Dialog>You... Be more mindful of 
+your appearance. Being 
+clean is very important.</Dialog>
+          <Dialog>(I'll have to be careful 
+about how I look.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2491,9 +2508,10 @@ how I look.)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Come to think of it...
+          <Dialog>Come to think of it... 
 midterms are coming soon.</Dialog>
-          <Dialog>I'd better study in advance...</Dialog>
+          <Dialog>I'd better study in 
+advance...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2518,11 +2536,11 @@ midterms are coming soon.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Okay, today's the midterm
-exam. I'll try to do my
+          <Dialog>Okay, today's the midterm 
+exam. I'll try to do my 
 best...</Dialog>
           <Dialog>It's finally over...</Dialog>
-          <Dialog>All that's left to do is to
+          <Dialog>All that's left to do is to 
 wait for the results.</Dialog>
         </Dialogs>
       </SDL2>
@@ -2543,9 +2561,10 @@ wait for the results.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Come to think of it... the
+          <Dialog>Come to think of it... the 
 final exams are coming up.</Dialog>
-          <Dialog>I'd better study in advance...</Dialog>
+          <Dialog>I'd better study in 
+advance...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2570,10 +2589,11 @@ final exams are coming up.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Now then, today's the final
-exam. I'll have to do my best.</Dialog>
+          <Dialog>Now then, today's the final 
+exam. I'll have to do my 
+best.</Dialog>
           <Dialog>It's finally over...</Dialog>
-          <Dialog>All that's left to do is to
+          <Dialog>All that's left to do is to 
 wait for the results.</Dialog>
         </Dialogs>
       </SDL2>
@@ -2594,10 +2614,10 @@ wait for the results.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Come to think of it... the
-sports festival is coming up
-soon.</Dialog>
-          <Dialog>It might be a bit late, but
+          <Dialog>Come to think of it... the 
+sports festival is coming 
+up soon.</Dialog>
+          <Dialog>It might be a bit late, but 
 I'd better start training...</Dialog>
         </Dialogs>
       </SDL2>
@@ -2618,12 +2638,12 @@ I'd better start training...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Come to think of it... the
-music contest is coming up
+          <Dialog>Come to think of it... the 
+music contest is coming up 
 soon.</Dialog>
-          <Dialog>It might be a bit late, but
-I'd better start refining my
-music sense...</Dialog>
+          <Dialog>It might be a bit late, but 
+I'd better start refining 
+my music sense...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2659,14 +2679,14 @@ music sense...</Dialog>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>The music contest is today.</Dialog>
-          <Dialog>I'll just try to do whatever I
+          <Dialog>I'll just try to do what I 
 can...</Dialog>
           <Dialog>Yes！ I won a prize！</Dialog>
-          <Dialog>It's probably because I've
-been working hard to improve
-recently.</Dialog>
-          <Dialog>I couldn't win a prize. Well,
-whatever...</Dialog>
+          <Dialog>It's probably because I've 
+been working hard to 
+improve recently.</Dialog>
+          <Dialog>I couldn't win a prize. 
+Well, whatever...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2686,11 +2706,12 @@ whatever...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Come to think of it, a picture
-I drew in art class was
-submitted to a contest...</Dialog>
-          <Dialog>The results will be out soon.
-I wonder how it will turn out.</Dialog>
+          <Dialog>Come to think of it, a 
+picture I drew in art class 
+was submitted to a contest...</Dialog>
+          <Dialog>The results will be out 
+soon. I wonder how it will 
+turn out.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2725,14 +2746,14 @@ I wonder how it will turn out.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Seems like the art contest
+          <Dialog>Seems like the art contest 
 results are out.</Dialog>
           <Dialog>Will my work be there...？</Dialog>
-          <Dialog>There it is！ I won a prize！</Dialog>
-          <Dialog>It's probably because I've
-been working hard to improve
-recently.</Dialog>
-          <Dialog>No, it's not. Well,
+          <Dialog>There it is！ I won！</Dialog>
+          <Dialog>It's probably because I've 
+been working hard to 
+improve recently.</Dialog>
+          <Dialog>No, it's not. Well, 
 whatever...</Dialog>
         </Dialogs>
       </SDL2>
@@ -2758,12 +2779,13 @@ whatever...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>he culture festival is coming
-up soon.</Dialog>
-          <Dialog>Come to think of it... There's
-a "Handsome Man" contest
-during the culture festival.</Dialog>
-          <Dialog>I don't really care about
+          <Dialog>The culture festival is 
+coming up soon.</Dialog>
+          <Dialog>Come to think of it... 
+There's a "Handsome Man" 
+contest during the culture 
+festival.</Dialog>
+          <Dialog>I don't really care about 
 it... Or do I？</Dialog>
         </Dialogs>
       </SDL2>
@@ -2784,12 +2806,12 @@ it... Or do I？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Come to think of it... the
-sports festival is coming up
-soon.</Dialog>
-          <Dialog>I have to participate in the
-school support battle. I
-wonder if I can do that
+          <Dialog>Come to think of it... the 
+sports festival is coming 
+up soon.</Dialog>
+          <Dialog>I have to participate in 
+the school support battle. 
+I wonder if I can do that 
 well...</Dialog>
         </Dialogs>
       </SDL2>
@@ -2815,10 +2837,11 @@ well...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Well, next up is the support
-battle. I'll do my best！</Dialog>
-          <Dialog>Yes！ In the end, our team won
-the first prize！</Dialog>
+          <Dialog>Well, next up is the 
+support battle. I'll do my 
+best！</Dialog>
+          <Dialog>Yes！ In the end, our team 
+won the first prize！</Dialog>
           <Dialog>It's not my day...</Dialog>
         </Dialogs>
       </SDL2>
@@ -2839,10 +2862,10 @@ the first prize！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Come to think of it... We will
-have practice matches with
-other schools soon.</Dialog>
-          <Dialog>Should I start to focus on
+          <Dialog>Come to think of it... We 
+will have practice matches 
+with other schools soon.</Dialog>
+          <Dialog>Should I start to focus on 
 more intense training？</Dialog>
         </Dialogs>
       </SDL2>
@@ -2878,12 +2901,12 @@ more intense training？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Okay. We will have a practice
-match with another school
+          <Dialog>We will have a practice 
+match with another school 
 today. I'll do my best.</Dialog>
           <Dialog>Yeah！ I won！</Dialog>
-          <Dialog>I'll keep it up and do better
-next time.</Dialog>
+          <Dialog>I'll keep it up and do 
+better next time.</Dialog>
           <Dialog>I lost...</Dialog>
           <Dialog>I have to practice harder...</Dialog>
         </Dialogs>
@@ -2905,9 +2928,10 @@ next time.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Speaking of which, an official
-match is coming up soon...</Dialog>
-          <Dialog>I should spend more time
+          <Dialog>Speaking of which, an 
+official match is coming up 
+soon...</Dialog>
+          <Dialog>I should spend more time 
 practicing.</Dialog>
         </Dialogs>
       </SDL2>
@@ -2928,12 +2952,12 @@ practicing.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Today is the deadline for
-submitting an essay for the
+          <Dialog>Today is the deadline for 
+submitting an essay for the 
 criticism contest.</Dialog>
-          <Dialog>I believe I did the best I
-could. Now I just have to wait
-for the results.</Dialog>
+          <Dialog>I believe I did the best I 
+could. Now I just have to 
+wait for the results.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2968,15 +2992,15 @@ for the results.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I think the results from the
-criticism contest should be
-out...</Dialog>
+          <Dialog>I think the results from 
+the criticism contest 
+should be out...</Dialog>
           <Dialog>Ah, yes！ I won an award！</Dialog>
-          <Dialog>I'm glad I worked hard on
+          <Dialog>I'm glad I worked hard on 
 writing the essay.</Dialog>
-          <Dialog>Nope, my name wasn't even
+          <Dialog>Nope, my name wasn't even 
 listed...</Dialog>
-          <Dialog>I'll have to do better than
+          <Dialog>I'll have to do better than 
 this...</Dialog>
         </Dialogs>
       </SDL2>
@@ -3002,14 +3026,14 @@ this...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>By the way, people from
-headquarters will come to
+          <Dialog>By the way, people from 
+headquarters will come to 
 check on us today.</Dialog>
-          <Dialog>They will be evaluating us for
-the national model employee
-award as well....</Dialog>
-          <Dialog>Is it possible that I might be
-nominated, too？</Dialog>
+          <Dialog>They will be evaluating us 
+for the national model 
+employee award as well....</Dialog>
+          <Dialog>Is it possible that I might 
+be nominated, too？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3039,14 +3063,14 @@ nominated, too？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>That reminds me, the results
-from the model employee award
-are out...</Dialog>
+          <Dialog>That reminds me, the 
+results from the model 
+employee award are out...</Dialog>
           <Dialog>Ah！ It's my name！</Dialog>
-          <Dialog>I'm glad I've been serious at
-work.</Dialog>
-          <Dialog>I wasn't chosen. No surprise
-there...</Dialog>
+          <Dialog>I'm glad I've been serious 
+at work.</Dialog>
+          <Dialog>I wasn't chosen. Well, no 
+surprise there...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

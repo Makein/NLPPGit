@@ -17,7 +17,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Did you meet with someone？</Dialog>
+          <Dialog>Are we meeting someone？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -37,8 +37,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Yes... Look forward to 
-it, okay？</Dialog>
+          <Dialog>Yup... sounds like fun, 
+right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -58,9 +58,8 @@ it, okay？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm... right now？ 
-It's okay, but it's 
-sudden.</Dialog>
+          <Dialog>Eh... right now？　Okay, but 
+it's so sudden.。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -80,8 +79,8 @@ sudden.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Nice to meet you Takane, 
-it's Manaka.</Dialog>
+          <Dialog>Nice to meet you, I am 
+Takane Manaka.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -101,7 +100,7 @@ it's Manaka.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um... your name...</Dialog>
+          <Dialog>Um... your name is...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -125,8 +124,8 @@ it's Manaka.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲紹介友達名▲. Nice to meet 
-you.</Dialog>
+          <Dialog> Nice to meet you, 
+▲紹介友達名▲.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -146,8 +145,7 @@ you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm sorry！ Emm, please 
-do it again.</Dialog>
+          <Dialog>Sorry！　Um, please repeat.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -171,8 +169,8 @@ do it again.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲紹介友達名▲. Nice to meet 
-you.</Dialog>
+          <Dialog>Nice to meet you, 
+▲紹介友達名▲.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -192,7 +190,7 @@ you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Umm...</Dialog>
+          <Dialog>Yeah...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -212,7 +210,8 @@ you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I know, please write here.</Dialog>
+          <Dialog>I know. Here, write it 
+down, please.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -236,8 +235,9 @@ you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲紹介友達名▲. Yes, let's 
-get along.</Dialog>
+          <Dialog>Yes, pleased to make your 
+acquaintance, 
+▲紹介友達名▲.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -277,7 +277,7 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Ah, father.</Dialog>
+          <Dialog>Oh, father.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -297,7 +297,7 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Ah, mother.</Dialog>
+          <Dialog>Oh, mother</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -317,7 +317,7 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Ah, older brother.</Dialog>
+          <Dialog>Oh, onii-san.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -337,7 +337,7 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Ah, older sister.</Dialog>
+          <Dialog>Oh, onee-san.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -457,7 +457,7 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Oh, it's been a while！</Dialog>
+          <Dialog>Ah, long time no see！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -477,7 +477,8 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm sorry, it's Takane.</Dialog>
+          <Dialog>It's been a while, it's me 
+Takane.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -497,7 +498,8 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>What did you lost？</Dialog>
+          <Dialog>What is it, a lost and 
+found？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -517,7 +519,7 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is something lost？</Dialog>
+          <Dialog>Did you drop something？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -537,7 +539,7 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>No！</Dialog>
+          <Dialog>Nope！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -557,7 +559,7 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>What's wrong？</Dialog>
+          <Dialog>What？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -577,7 +579,7 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>No, geez... right now？</Dialog>
+          <Dialog>No, geez... now？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -597,7 +599,7 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>E-excuse me！ What is it？</Dialog>
+          <Dialog>E-Excuse me！ What is it？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -617,7 +619,7 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>E-excuse, what...</Dialog>
+          <Dialog>Oh, that something...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -657,7 +659,7 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>W-what is it？</Dialog>
+          <Dialog>W-What is it？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -677,7 +679,7 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm？　Emm？</Dialog>
+          <Dialog>Eh？　What？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -697,7 +699,7 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Please stop？</Dialog>
+          <Dialog>Wait, please stop！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -737,7 +739,7 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um, what？</Dialog>
+          <Dialog>Uh, what？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -757,7 +759,7 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Yes, what？</Dialog>
+          <Dialog>Yes, what is it？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -777,8 +779,7 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Yes？ Do you need 
-something？</Dialog>
+          <Dialog>Yes？　What's wrong？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -798,7 +799,7 @@ something？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um, something...</Dialog>
+          <Dialog>Um, is there something...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -818,7 +819,7 @@ something？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Wha- yes？</Dialog>
+          <Dialog>Wha- yeah？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -838,7 +839,7 @@ something？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Look here.</Dialog>
+          <Dialog>This way, please look.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -858,7 +859,8 @@ something？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Excuse me, take a look.</Dialog>
+          <Dialog>Excuse me, this way, please 
+look.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -878,7 +880,7 @@ something？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm, hello.</Dialog>
+          <Dialog>Um, hello.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -898,8 +900,9 @@ something？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm, even if you look at 
-me so much, that's...</Dialog>
+          <Dialog>Um, if you stare at me too 
+much, I won't know what to 
+do...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -919,8 +922,8 @@ me so much, that's...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm... don't look so 
-much...</Dialog>
+          <Dialog>Um... please, don't stare 
+at me so much...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -940,7 +943,7 @@ much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It's embarrassing...</Dialog>
+          <Dialog>Embarrassing...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -960,7 +963,8 @@ much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm？ You're close.</Dialog>
+          <Dialog>What？　Wait, you're too 
+close.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -980,7 +984,7 @@ much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um, why don't you stay a 
+          <Dialog>Um, can we back away a 
 little more？</Dialog>
         </Dialogs>
       </SDL2>
@@ -1001,8 +1005,8 @@ little more？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Excuse me, that hard to 
-talk about...</Dialog>
+          <Dialog>Um, it's hard to talk to 
+you...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1042,7 +1046,7 @@ talk about...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm, what happened？</Dialog>
+          <Dialog>Um, what's going on？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1062,7 +1066,7 @@ talk about...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um... Hello！ Hah...</Dialog>
+          <Dialog>Um, hello！　Hah...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1102,7 +1106,7 @@ talk about...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um, let's have some rest！</Dialog>
+          <Dialog>Um, let's just calm down！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1162,7 +1166,7 @@ talk about...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm, umm...</Dialog>
+          <Dialog>Um, yeah...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1182,7 +1186,8 @@ talk about...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm, that's about it...</Dialog>
+          <Dialog>Um, well, you know, geez, 
+that's about it...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1202,8 +1207,8 @@ talk about...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Umm, don't think about it 
-too much...</Dialog>
+          <Dialog>Um, you don't have to think 
+so much about it...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1243,7 +1248,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm, father.</Dialog>
+          <Dialog>Um, Dad.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1263,7 +1268,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm, mother.</Dialog>
+          <Dialog>Um, mom.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1283,7 +1288,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Umm, older brother.</Dialog>
+          <Dialog>Um, onii-san.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1303,7 +1308,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Umm, older sister.</Dialog>
+          <Dialog>Um, onee-san.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1323,7 +1328,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Ah, I see.</Dialog>
+          <Dialog>Oh, I see.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1343,7 +1348,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>That's it.</Dialog>
+          <Dialog>I guess it is.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1363,7 +1368,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I understand.</Dialog>
+          <Dialog>I get it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1383,7 +1388,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Yes.</Dialog>
+          <Dialog>Eh.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1403,7 +1408,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is that so...</Dialog>
+          <Dialog>I see...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1423,7 +1428,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Umm...</Dialog>
+          <Dialog>Hmm...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1443,7 +1448,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm...</Dialog>
+          <Dialog>Um...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1463,7 +1468,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Aha！</Dialog>
+          <Dialog>Ahah！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1503,7 +1508,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Sniff.</Dialog>
+          <Dialog>*sniff*.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1523,7 +1528,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um, Emm...</Dialog>
+          <Dialog>Um, let's see...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1543,7 +1548,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>What should I do...？</Dialog>
+          <Dialog>What to do...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1563,7 +1568,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>That's a little...</Dialog>
+          <Dialog>That's a bit...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1583,7 +1588,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm happy！</Dialog>
+          <Dialog>I'm so happy！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1623,7 +1628,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm glad.</Dialog>
+          <Dialog>Good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1643,7 +1648,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm glad.</Dialog>
+          <Dialog>Good to hear.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1683,7 +1688,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Excuse me.</Dialog>
+          <Dialog>Sorry for the inconvenience.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1703,7 +1708,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Yeah...</Dialog>
+          <Dialog>Eh...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1723,7 +1728,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>That's right.</Dialog>
+          <Dialog>I don't think so.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1763,7 +1768,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It's a pity...</Dialog>
+          <Dialog>Too bad...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1783,7 +1788,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is that so...</Dialog>
+          <Dialog>I see...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1823,7 +1828,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Hah.</Dialog>
+          <Dialog>Huh.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1863,7 +1868,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>And so？</Dialog>
+          <Dialog>So what？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1883,7 +1888,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Yeah！</Dialog>
+          <Dialog>Eh！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1923,7 +1928,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is that right！？</Dialog>
+          <Dialog>Is that so！？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1943,7 +1948,7 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Really！？</Dialog>
+          <Dialog>Is it true！？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1983,8 +1988,8 @@ too much...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Maybe it's your older 
-brother？</Dialog>
+          <Dialog>Are you his onii-san, by 
+any chance？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2004,7 +2009,8 @@ brother？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Maybe it's your father？</Dialog>
+          <Dialog>Are you his father, by any 
+chance？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2024,8 +2030,8 @@ brother？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Maybe it's your older 
-sister？</Dialog>
+          <Dialog>Are you his onee-san, by 
+any chance？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2045,7 +2051,8 @@ sister？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Maybe it's your mother？</Dialog>
+          <Dialog>Are you his mother, by any 
+chance？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2085,8 +2092,7 @@ sister？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm really sorry, I'm 
-really...</Dialog>
+          <Dialog>I'm sorry, I just thought...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2106,7 +2112,7 @@ really...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>How do you know him？</Dialog>
+          <Dialog>Um, how do you know him？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2126,8 +2132,8 @@ really...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um... what does he look 
-like？</Dialog>
+          <Dialog>Um... what's it like to be 
+with him？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2147,8 +2153,8 @@ like？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Then maybe it's dad, I'm 
-kidding.</Dialog>
+          <Dialog>Then, perhaps you're his 
+father, I'm kidding.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2168,7 +2174,8 @@ kidding.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Then, maybe your brother？</Dialog>
+          <Dialog>So, maybe it's you're his 
+little brother？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2188,7 +2195,8 @@ kidding.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um, is that your mother？</Dialog>
+          <Dialog>Um, you don't mean you're 
+his mother？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2208,8 +2216,8 @@ kidding.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um, maybe it's your lil' 
-sister？</Dialog>
+          <Dialog>So, maybe it's you're his 
+little sister？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2229,8 +2237,8 @@ sister？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Huh, are they your 
-relatives？</Dialog>
+          <Dialog>Oh, so you're a relative 
+or something？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2250,10 +2258,10 @@ relatives？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Once again, I'm Takane 
-Manaka, it's a pleasure 
-to be dating you. Take 
-care of me.</Dialog>
+          <Dialog>Once again, my name is 
+Takane Manaka, and I am 
+dating him. I am pleased 
+to make your acquaintance.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2273,8 +2281,8 @@ care of me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um, you're very similar 
-to your father.</Dialog>
+          <Dialog>Um, he looks a lot like his 
+father.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2295,7 +2303,7 @@ to your father.</Dialog>
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>Um, nice to meet you... 
-Mother.</Dialog>
+mother.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2315,8 +2323,8 @@ Mother.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You two are very much 
-alike. Hehe.</Dialog>
+          <Dialog>You two are, well, similar, 
+aren't you？ Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2336,8 +2344,7 @@ alike. Hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um, looking forward to 
-work with you.</Dialog>
+          <Dialog>Um, please take care of me.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2357,7 +2364,7 @@ work with you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Nice to meet you？</Dialog>
+          <Dialog>Nice to meet you, okay？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2377,9 +2384,9 @@ work with you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Nice to meet you？ You 
-look exactly like my 
-father, right？</Dialog>
+          <Dialog>Nice to meet you, huh？　
+He looks just like his 
+father, doesn't he？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2399,8 +2406,8 @@ father, right？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Nice to meet you, please 
-take care of me.</Dialog>
+          <Dialog>Nice to meet you, he has 
+been a great help.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2440,7 +2447,7 @@ take care of me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're similar. Hehe.</Dialog>
+          <Dialog>They look a lot alike. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2460,8 +2467,8 @@ take care of me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>After all, you look very 
-similar, Hehe.</Dialog>
+          <Dialog>They do look alike after 
+all. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2481,7 +2488,7 @@ similar, Hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Fluffy... no...</Dialog>
+          <Dialog>*Yawn*... no...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2501,8 +2508,8 @@ similar, Hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Fluffy...！！ 
-It's embarrassing...</Dialog>
+          <Dialog>*Yawn*...！！　It's so 
+embarrassing...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2522,8 +2529,9 @@ It's embarrassing...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Family skinship is very 
-popular, isn't it？</Dialog>
+          <Dialog>Um, do you have a family 
+with a lot of skinship in 
+the house？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2543,8 +2551,8 @@ popular, isn't it？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I look forward to work 
-with you.</Dialog>
+          <Dialog>From here on out, it's a 
+pleasure.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2564,8 +2572,8 @@ with you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Thank you for continuous 
-support.</Dialog>
+          <Dialog>From here on out, I'll be 
+under your care.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2585,8 +2593,8 @@ support.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I wonder if I should 
-change my hair...</Dialog>
+          <Dialog>I think I should change my 
+hair, after all...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2606,7 +2614,7 @@ change my hair...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I knew it, it's funny...</Dialog>
+          <Dialog>It's weird, I knew it...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2626,8 +2634,8 @@ change my hair...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It's kind of lively, 
-isn't it？</Dialog>
+          <Dialog>It's kind of lively, isn't 
+it？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2647,8 +2655,7 @@ isn't it？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Yes, this time it's your 
-turn.</Dialog>
+          <Dialog>Okay, now it's your turn.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2668,7 +2675,7 @@ turn.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>So can I ask the same 
+          <Dialog>So can I ask you the same 
 thing？</Dialog>
         </Dialogs>
       </SDL2>
@@ -2709,7 +2716,7 @@ thing？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>That's right.</Dialog>
+          <Dialog>I see.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2729,8 +2736,8 @@ thing？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It's been a long time, 
-isn't it？</Dialog>
+          <Dialog>Have you known him for a 
+long time now？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2750,7 +2757,7 @@ isn't it？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>How often do we meet？</Dialog>
+          <Dialog>Do you see him often？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2770,8 +2777,8 @@ isn't it？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>What are you saying about 
-me？</Dialog>
+          <Dialog>Is he saying something 
+about me？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2791,7 +2798,7 @@ me？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Did you ask about me？</Dialog>
+          <Dialog>Did he tell you about me？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2812,7 +2819,7 @@ me？</Dialog>
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>Still a bit embarrassing, 
-right？</Dialog>
+isn't it？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2832,7 +2839,7 @@ right？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm still nervous.</Dialog>
+          <Dialog>I'm still a little nervous.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2872,7 +2879,7 @@ right？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You surprised me, okay？</Dialog>
+          <Dialog>I surprised you, didn't I？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2892,7 +2899,9 @@ right？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is this your first time？</Dialog>
+          <Dialog>Is this the first time 
+you've done something like 
+this？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2912,7 +2921,8 @@ right？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It's my first time doing 
+          <Dialog>This is the first time 
+you've done something like 
 this, right？</Dialog>
         </Dialogs>
       </SDL2>
@@ -2933,8 +2943,8 @@ this, right？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>That's right, it's 
-because you don't tell me.</Dialog>
+          <Dialog>That's right, he did, 
+because he wouldn't tell me.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2954,7 +2964,7 @@ because you don't tell me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I see... Yes, anything？</Dialog>
+          <Dialog>I see... no, nothing？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2974,7 +2984,7 @@ because you don't tell me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Geez, it's embarrassing...</Dialog>
+          <Dialog>Geez, I'm so embarrassed...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2994,7 +3004,7 @@ because you don't tell me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm sorry, what's this.</Dialog>
+          <Dialog>Sorry, this is how it is.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3014,7 +3024,7 @@ because you don't tell me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is that right？ Hehe.</Dialog>
+          <Dialog>Yeah, right？ Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3034,8 +3044,7 @@ because you don't tell me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm not the only one, 
-Hehe.</Dialog>
+          <Dialog>I'm not the only one, hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3055,7 +3064,7 @@ Hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I see, I'm sorry.</Dialog>
+          <Dialog>I see. I'm sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3075,7 +3084,7 @@ Hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>That's right, I'm sorry.</Dialog>
+          <Dialog>Yes, I know, I'm sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3095,7 +3104,7 @@ Hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>That's right, yes.</Dialog>
+          <Dialog>Right, yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3115,7 +3124,7 @@ Hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>That's right, yes.</Dialog>
+          <Dialog>That is true, yes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3135,7 +3144,7 @@ Hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is that so.</Dialog>
+          <Dialog>I see.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3155,8 +3164,7 @@ Hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Then, hasn't been too 
-long today？</Dialog>
+          <Dialog>So it's been a while today？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3176,7 +3184,7 @@ long today？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Huh, that's right...</Dialog>
+          <Dialog>Huh, so that's it...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3196,8 +3204,8 @@ long today？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is that so. Then, today 
-is sudden I'm sorry.</Dialog>
+          <Dialog>I see. Well, then, today is 
+suddenly, right, I'm sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3217,8 +3225,8 @@ is sudden I'm sorry.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I see.　Is that so？ Yes, 
-it's okay.</Dialog>
+          <Dialog>I see.　Right？ Yeah, I'm 
+fine.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3238,8 +3246,7 @@ it's okay.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm sorry, I'm still a 
-little...</Dialog>
+          <Dialog>Sorry, I'm still a little...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3259,7 +3266,7 @@ little...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm glad.</Dialog>
+          <Dialog>That's good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3279,7 +3286,7 @@ little...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Then that's fine.</Dialog>
+          <Dialog>Then I'm glad to hear it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3299,8 +3306,8 @@ little...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Huh？ Is that so？ I'm a 
-little relieved.</Dialog>
+          <Dialog>Eh？ Really？　A little 
+relieved.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3320,8 +3327,8 @@ little relieved.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>That's right... I'm a 
-little relieved.</Dialog>
+          <Dialog>I see... I am a little 
+relieved.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3341,7 +3348,8 @@ little relieved.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm, for a year...</Dialog>
+          <Dialog>Um, not yet, it's less than 
+a year...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3361,8 +3369,8 @@ little relieved.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>We're been like this a 
-year.</Dialog>
+          <Dialog>We have not even been 
+together for a year.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3382,8 +3390,8 @@ year.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>A year already... time 
-goes so fast.</Dialog>
+          <Dialog>Geez, it's been over a 
+year... time goes fast.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3403,7 +3411,7 @@ goes so fast.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Yes, it's been over a 
+          <Dialog>Yes, it has been over a 
 year.</Dialog>
         </Dialogs>
       </SDL2>
@@ -3424,8 +3432,8 @@ year.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It's been a long time... 
-I'm kidding.</Dialog>
+          <Dialog>Geez, I can't believe it 
+has been this long...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3445,7 +3453,8 @@ I'm kidding.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>We've together so long...</Dialog>
+          <Dialog>We've been together for a 
+long time now...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3465,9 +3474,9 @@ I'm kidding.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm... When I want to see 
-you, you'll always be 
-with me...</Dialog>
+          <Dialog>Um... I knew he would 
+always be there for me when 
+I wanted to see him...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3487,8 +3496,9 @@ with me...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>When I want to see you, 
-you're always with me...</Dialog>
+          <Dialog>That's because, after all, 
+he is there for me when 
+I want to see him...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3508,8 +3518,8 @@ you're always with me...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Kind, warm... that way. 
-It's embarrassing...</Dialog>
+          <Dialog>Kind, warm... that kind of 
+thing. Embarrassing...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3529,8 +3539,8 @@ It's embarrassing...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>That's right, you're a 
-warm person... yes.</Dialog>
+          <Dialog>Yes, because he is a warm 
+person, after all... Yes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3550,8 +3560,8 @@ warm person... yes.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're really cool, after 
-all... I'm kidding.</Dialog>
+          <Dialog>That is, after all, he is 
+very cool... I'm kidding.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3571,9 +3581,9 @@ all... I'm kidding.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're so cool. Even at 
-school, you're popular 
-with girls. Hehe.</Dialog>
+          <Dialog>He is handsome. He is 
+popular among girls at 
+school. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3593,9 +3603,8 @@ with girls. Hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I think it's a fun place 
-to talk... My head spins 
-so fast.</Dialog>
+          <Dialog>He is fun to talk to and 
+has a quick mind...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3615,9 +3624,10 @@ so fast.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>First of all, my head 
-spins so fast. It's always 
-fun to talk.</Dialog>
+          <Dialog>The best part is that he 
+is very quick-witted. 
+I always enjoy talking 
+to him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3637,8 +3647,8 @@ fun to talk.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>This is... Emm, Umm... 
-Huh？ I forgot about it...</Dialog>
+          <Dialog>That's... um, hmm... huh？　
+I forgot...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3658,8 +3668,8 @@ Huh？ I forgot about it...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm, I don't like that... 
-I'm sorry.</Dialog>
+          <Dialog>Um, that... well, you know, 
+um... sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3679,8 +3689,9 @@ I'm sorry.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I recently was praised for 
-trying new dishes.</Dialog>
+          <Dialog>I recently attempted a new 
+dish and was praised for 
+it. I guess.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3701,7 +3712,7 @@ trying new dishes.</Dialog>
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>I was praised for trying 
-new dishes.</Dialog>
+a new dish.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3721,9 +3732,8 @@ new dishes.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I wonder if I will get a 
-present from you this 
-time.</Dialog>
+          <Dialog>The other day, I got a 
+gift, I guess... from him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3743,9 +3753,9 @@ time.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I got a present from you. 
-That's the best thing 
-that happened today.</Dialog>
+          <Dialog>He gave me a gift. Lately, 
+that's the best thing I've 
+received.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3765,9 +3775,9 @@ that happened today.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm happy... yes, I had a 
-great day today... with 
-you.</Dialog>
+          <Dialog>I was happy that... yes, 
+I was able to spend our big 
+day with him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3787,10 +3797,11 @@ you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I had a great anniversary 
-day together... No, of 
-course, like high school 
-students. Yes.</Dialog>
+          <Dialog>We were able to spend our 
+anniversary together... 
+No, of course, as high 
+school students. Yes, of 
+course.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3810,9 +3821,9 @@ students. Yes.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>This time, you remembered 
-my birthday and celebrated 
-with me...</Dialog>
+          <Dialog>He wished me a happy 
+birthday the other day and 
+said he remembered me...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3832,9 +3843,9 @@ with me...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>During this dates, it was 
-my birthday. You even 
-celebrated it...</Dialog>
+          <Dialog>It was my birthday the 
+other day. He celebrated 
+it with me...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3854,8 +3865,8 @@ celebrated it...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I knew it... Um... Emm... 
-It's a secret.</Dialog>
+          <Dialog>That would be, of course―― 
+um... well... it's a secret.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3875,8 +3886,8 @@ It's a secret.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm glad... Umm... Emm... 
-It's a secret.</Dialog>
+          <Dialog>I was really happy when―― 
+um... well... it's a secret.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3896,9 +3907,10 @@ It's a secret.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Umm... If I don't receive 
-an e-mail from you... 
-I worry.</Dialog>
+          <Dialog>Hmm... If you don't receive 
+an email from the person 
+you're waiting for, you're 
+just worried about it...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3918,9 +3930,10 @@ I worry.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It's annoying to wait for 
-an email from you, or I'm 
-waiting in vain.</Dialog>
+          <Dialog>I'm just waiting on my own, 
+worrying that I won't get 
+an email from the person 
+I'm waiting for.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3940,9 +3953,10 @@ waiting in vain.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Umm, I'm feeling annoyed 
-because we don't have 
-skinship.</Dialog>
+          <Dialog>Hmm... I worry that if we 
+don't have a lot of 
+skinship, I might be 
+depressed.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3962,9 +3976,9 @@ skinship.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um... I wonder if I'm 
-annoyed because we don't 
-have skinship...</Dialog>
+          <Dialog>I was wondering if that... 
+lack of skinship might be 
+depressing...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3984,10 +3998,10 @@ have skinship...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Recently, I've been 
-thinking that food taste 
-is important. It's had to 
-match your tastes.</Dialog>
+          <Dialog>Lately, I've been thinking 
+a lot about the importance 
+of food preferences. It's 
+hard to match tastes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4007,10 +4021,10 @@ match your tastes.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I been thinking that the 
-taste of food is really 
-important. It's difficult 
-to match your tastes.</Dialog>
+          <Dialog>Recently, I've been just 
+thinking about the value 
+of food preferences. It is 
+difficult to match tastes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4030,11 +4044,13 @@ to match your tastes.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You've been taking photos 
-often, but it's a little 
-embarrassing because I 
-have things I don't wanna 
-show.</Dialog>
+          <Dialog>Lately, he's been taking 
+a lot of pictures of me, 
+but... you know, there are 
+a lot of cool things that 
+I don't want them to be 
+photographed, and I'm 
+embarrassed...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4054,9 +4070,10 @@ show.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You take a lot of photos 
-these days... it's 
-exciting... that's good.</Dialog>
+          <Dialog>Lately he has been taking 
+a lot of pictures for me... 
+and sometimes, that... 
+is still good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4076,9 +4093,8 @@ exciting... that's good.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Umm, I wonder if you can 
-be more casual about it... 
-kissing me...</Dialog>
+          <Dialog>Uh... he doesn't casually 
+try to... you know, kiss...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4098,9 +4114,10 @@ kissing me...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm, I wonder if you'll 
-be more casual, I'm 
-kidding... Even then...</Dialog>
+          <Dialog>Um... I wonder if he could 
+be a little more casual 
+about it... no, it's 
+nothing...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4120,10 +4137,10 @@ kidding... Even then...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Umm, I know men aren't 
-good at casual skinship, 
-but... so often... it's a 
-little...</Dialog>
+          <Dialog>Hmm, I know men are not 
+good at casual skinship... 
+if it's too much all the 
+time, it's still...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4143,8 +4160,8 @@ little...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I've always wanted to ask, 
-but do you want to have 
+          <Dialog>I've always wanted to ask 
+you, do you have a lot of 
 skinship at home？</Dialog>
         </Dialogs>
       </SDL2>
@@ -4165,9 +4182,9 @@ skinship at home？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Trouble... Yes, some... 
-I wonder if I should 
-stop...</Dialog>
+          <Dialog>I'm worried... yeah, just 
+worried―― I should stop 
+doing that...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4187,8 +4204,8 @@ stop...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>The trouble is that-- 
-that's why I'll stop.</Dialog>
+          <Dialog>I'm worried about, well―― 
+um, I'll better stop it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4208,11 +4225,11 @@ that's why I'll stop.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I used to take a lot of 
-lessons when I was a kid, 
-but I'm still making 
-sweets and playing the 
-piano.</Dialog>
+          <Dialog>I did a lot of training as 
+a child, but the only 
+things I still continue 
+to do are sweets and 
+playing the piano.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4232,11 +4249,11 @@ piano.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I used to take a lot of 
-lessons when I was a kid, 
-but I'm still making 
-sweets and playing the 
-piano.</Dialog>
+          <Dialog>I did a lot of training as 
+a child, but the only 
+things I still continue 
+to do are baking sweets 
+and playing the piano.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4256,10 +4273,10 @@ piano.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>My hobby is making 
-sweets... but recently 
-I've been focusing on 
-tennis with you.</Dialog>
+          <Dialog>My hobbies include baking 
+sweets... but lately I've 
+been concentrating on 
+tennis with him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4279,10 +4296,10 @@ tennis with you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>My hobby is making 
-sweets... but recently 
-I've been focusing on 
-tennis with you.</Dialog>
+          <Dialog>My hobby is baking... 
+But lately I've been 
+concentrating on him and 
+tennis.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4302,10 +4319,10 @@ tennis with you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I've always liked it, but 
-recently I've been 
-focusing on cooking. 
-I will ask you. Hehe.</Dialog>
+          <Dialog>I've always loved sweets, 
+but lately I've been 
+especially into cooking. 
+Ask him why. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4325,11 +4342,11 @@ I will ask you. Hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I've always liked it, but 
-recently I've been 
-focusing on cooking. You 
-eat a lot, so I have to 
-try more.</Dialog>
+          <Dialog>I've always liked cooking, 
+but lately I've been 
+especially into cooking. 
+He eats a lot, so it gives 
+me a sense of pride.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4349,10 +4366,10 @@ try more.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Recently, you take your 
-camera with you when we 
-go dating. I'll take 
-pictures too.</Dialog>
+          <Dialog>Recently, I often accompany 
+him with his camera. Maybe 
+I should take a picture of 
+him, too.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4372,11 +4389,12 @@ pictures too.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Recently, you take your 
-camera out with you. Not 
-only I wanted to be 
-filmed, I want to try it 
-too.</Dialog>
+          <Dialog>Recently, I often accompany 
+him with his camera. 
+I think I should try taking 
+pictures of myself, too, 
+instead of just being 
+photographed.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4396,8 +4414,9 @@ too.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Some like it, others not. 
-What I like is... Oimo...</Dialog>
+          <Dialog>I'm not a picky eater. That 
+said... I just love sweet 
+potatoes...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4417,8 +4436,9 @@ What I like is... Oimo...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I like it... Um, I think 
-I don't like it. Yes.</Dialog>
+          <Dialog>What I like... um, it's not 
+like I like it or hate it. 
+Yes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4439,9 +4459,9 @@ I don't like it. Yes.</Dialog>
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>I've been eating a lot of 
-Japanese food recently, 
-so I may like it more 
-than before.</Dialog>
+Japanese food lately... 
+maybe I like it more than 
+I did before.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4461,9 +4481,9 @@ than before.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I've been eating Japanese 
-food often with you. 
-So I love it.</Dialog>
+          <Dialog>I eat Japanese food with 
+him a lot these days. So 
+I have come to like it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4483,9 +4503,10 @@ So I love it.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I have a restaurant I 
-go to recently, and I'm 
-studying the menu there.</Dialog>
+          <Dialog>There is a restaurant we've 
+been frequenting lately, 
+so I'm researching their 
+menu.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4505,10 +4526,10 @@ studying the menu there.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>We go to a restaurant 
-together recently, and 
-I'm studying the menu 
-there.</Dialog>
+          <Dialog>There is a restaurant that 
+he and I have been going to 
+a lot lately, so I'm 
+researching the menu there.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4528,9 +4549,9 @@ there.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Now concentrate on Chinese 
-food. Maybe we can eat 
-well.</Dialog>
+          <Dialog>I'm really into Chinese 
+food right now.　Maybe it's 
+because he eats a lot.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4550,10 +4571,9 @@ well.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I've been liking Chinese 
-food recently. We often 
-eat together, so that's 
-why.</Dialog>
+          <Dialog>These days it's Chinese 
+food. We often go out to 
+eat together.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4573,9 +4593,11 @@ why.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Umm... I wonder if there 
-is someone who can cook 
-for me... I'm kidding.</Dialog>
+          <Dialog>Hmm... when you have 
+someone to cook for, you 
+might naturally become that 
+person's favorite... 
+I'm kidding.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4595,10 +4617,11 @@ for me... I'm kidding.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>If someone cooks for me, 
-he will be my favorite... 
-I wonder if he'll look 
-like you, I'm kidding.</Dialog>
+          <Dialog>When I have someone to cook 
+for, I can't help but like 
+his taste... I wonder if 
+I'm becoming more like him, 
+I'm kidding.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4618,8 +4641,8 @@ like you, I'm kidding.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>16 years old, 2nd year in 
-high school.</Dialog>
+          <Dialog>I am 16 years old and a 
+sophomore in high school.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4639,8 +4662,8 @@ high school.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>16 years old, a high 
-school second grader.</Dialog>
+          <Dialog>I am 16 years old and a 
+sophomore in high school.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4660,8 +4683,8 @@ school second grader.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>17 years old, 2nd year in 
-high school.</Dialog>
+          <Dialog>I am 17 years old and a 
+sophomore in high school.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4681,8 +4704,8 @@ high school.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>17 years old, a 2nd year 
-high school student.</Dialog>
+          <Dialog>I am 17 years old and a 
+sophomore in high school.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4702,8 +4725,7 @@ high school student.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Yes？ Do you mean this 
-hair？</Dialog>
+          <Dialog>Yes？　You mean my hair？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4723,7 +4745,7 @@ hair？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Yes？ This hair？</Dialog>
+          <Dialog>Yes？　My hair？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4743,8 +4765,8 @@ hair？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>This hair？ Why do you 
-care？</Dialog>
+          <Dialog>My hair？ Does it bother 
+you that much？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4764,7 +4786,7 @@ care？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm, are you curious？ 
+          <Dialog>Um, are you still curious？ 
 About my hair？</Dialog>
         </Dialogs>
       </SDL2>
@@ -4785,8 +4807,9 @@ About my hair？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I wonder if this looks 
-good... my hair？</Dialog>
+          <Dialog>I knew it... this hair 
+doesn't suit me at all, 
+right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4806,8 +4829,8 @@ good... my hair？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Does this suit me？ Does 
-my hair looks good？</Dialog>
+          <Dialog>Doesn't this hair look good 
+on me after all？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4827,7 +4850,7 @@ my hair looks good？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I like this.</Dialog>
+          <Dialog>I like these things.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4847,8 +4870,8 @@ my hair looks good？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I've been feeling like 
-this recently.</Dialog>
+          <Dialog>Recently, I've been doing 
+it this way.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4868,7 +4891,8 @@ this recently.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You look like this...</Dialog>
+          <Dialog>He said these look great 
+on me...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4888,8 +4912,7 @@ this recently.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I will follow your 
-recommendations...</Dialog>
+          <Dialog>He recommended this one...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4909,8 +4932,8 @@ recommendations...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I was stretching it, but 
-I'll cut it this time.</Dialog>
+          <Dialog>I was growing it out, but 
+I cut it the other day.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4930,8 +4953,9 @@ I'll cut it this time.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I cut it as I spoke with 
-you... Is it strange？</Dialog>
+          <Dialog>I talked to him about it 
+and decided to cut it up... 
+Is it weird？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4951,9 +4975,10 @@ you... Is it strange？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>After talking with you, 
-I decided to try this 
-color... does it suit me？</Dialog>
+          <Dialog>I discussed it with him and 
+decided to go with this 
+color... doesn't it look 
+good on me？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4973,9 +4998,8 @@ color... does it suit me？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I followed your suggestion 
-and dyed it this color... 
-Is it strange？</Dialog>
+          <Dialog>I talked to him about it 
+and dyed it... Is it weird？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5015,8 +5039,8 @@ Is it strange？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is that so... but I love 
-it...</Dialog>
+          <Dialog>I see... but for myself, 
+I like it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5036,9 +5060,9 @@ it...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>From an objective point 
-of view, you have good 
-sense, but I get anxious.</Dialog>
+          <Dialog>Objectively, I wonder if he 
+has any sense of style, and 
+sometimes I'm worried...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5058,8 +5082,9 @@ sense, but I get anxious.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>What do you think of the 
-hobbies of my family？</Dialog>
+          <Dialog>What do you think of his 
+hobbies from his family's 
+point of view？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5079,8 +5104,7 @@ hobbies of my family？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is that so？ I think so, 
-too.</Dialog>
+          <Dialog>Right？　I think so too.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5100,7 +5124,8 @@ too.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Right... I believe it...</Dialog>
+          <Dialog>It can't be... I believe in 
+him...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5120,7 +5145,7 @@ too.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm, this clothes？</Dialog>
+          <Dialog>Uh, you mean these clothes？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5140,7 +5165,7 @@ too.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Yes？ This clothes？</Dialog>
+          <Dialog>Yes？　This clothes？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5160,8 +5185,8 @@ too.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Are you interested in 
-these clothes？</Dialog>
+          <Dialog>Are you still curious about 
+this clothes？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5181,8 +5206,8 @@ these clothes？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>This clothes？ I knew it, 
-you care about it？</Dialog>
+          <Dialog>These clothes？ Do you 
+still wonder about it？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5202,9 +5227,10 @@ you care about it？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I can see you again... 
-What are you worried 
-about？ This clothes？</Dialog>
+          <Dialog>You're looking at it 
+again... Do you really care 
+that much about these 
+clothes？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5224,8 +5250,8 @@ about？ This clothes？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Umm, why are you worried？ 
-About these clothes？</Dialog>
+          <Dialog>Um... do you care so much 
+about that these clothes？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5245,8 +5271,8 @@ About these clothes？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>These are the clothes you 
-chose for today...</Dialog>
+          <Dialog>This is what he picked out 
+for me for the day...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5266,8 +5292,8 @@ chose for today...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I want to hear your 
-thoughts.</Dialog>
+          <Dialog>This is what he brought to 
+me today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5287,7 +5313,7 @@ thoughts.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>This is your present...</Dialog>
+          <Dialog>This is his gift...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5307,9 +5333,9 @@ thoughts.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>This is a present from 
-you, I hope it looks 
-good on me...</Dialog>
+          <Dialog>This is a gift from him, 
+I hope it looks good on 
+me...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5329,7 +5355,7 @@ good on me...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm glad. Hehe.</Dialog>
+          <Dialog>Good.　Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5349,7 +5375,7 @@ good on me...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>But, I like it...</Dialog>
+          <Dialog>But I like it...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5369,8 +5395,8 @@ good on me...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Do you want to talk about 
-your favorite clothes？</Dialog>
+          <Dialog>Do you talk to him about 
+girls' clothing tastes？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5390,8 +5416,9 @@ your favorite clothes？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Do you want to talk about 
-clothes and hobbies？</Dialog>
+          <Dialog>Do you talk to him about 
+about his taste in girls' 
+clothes？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5411,8 +5438,8 @@ clothes and hobbies？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I wonder if men con talk 
-about that kind of thing.</Dialog>
+          <Dialog>I guess men talk about that 
+kind of thing a lot...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5432,7 +5459,7 @@ about that kind of thing.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>That's right.</Dialog>
+          <Dialog>I see.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5452,8 +5479,8 @@ about that kind of thing.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It's just a story after 
-all. Geez...</Dialog>
+          <Dialog>I knew it. All that talk. 
+Geez...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5473,8 +5500,8 @@ all. Geez...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>That's right... 
-I'm absolutely...</Dialog>
+          <Dialog>Huh, I see... I though it 
+was okay...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5494,7 +5521,7 @@ I'm absolutely...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Who wears this kind of 
+          <Dialog>Do you wear these kinds of 
 clothes？</Dialog>
         </Dialogs>
       </SDL2>
@@ -5515,8 +5542,8 @@ clothes？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Do you even wear such 
-clothes？</Dialog>
+          <Dialog>Do you also wear this kind 
+of clothes？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5536,8 +5563,9 @@ clothes？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Right？ I think it's good？ 
-Are those good hobbies？</Dialog>
+          <Dialog>Right？　Isn't it nice？　We 
+seem to have the same 
+interests, don't we？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5557,8 +5585,8 @@ Are those good hobbies？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Oh, do you like it？ Those 
-hobbies are good！</Dialog>
+          <Dialog>Oh, you like it？ I think 
+we have the same taste！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5578,7 +5606,8 @@ hobbies are good！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I have to be a bit bolder.</Dialog>
+          <Dialog>A little more daring is 
+better...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5598,7 +5627,7 @@ hobbies are good！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I want it to be more cute.</Dialog>
+          <Dialog>More of a cute look...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5618,7 +5647,8 @@ hobbies are good！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Right？ Please use it.</Dialog>
+          <Dialog>Right？ I'll use it as a 
+reference.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5638,8 +5668,8 @@ hobbies are good！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Then, I wonder what should 
-I do...</Dialog>
+          <Dialog>I wonder what I should 
+do...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5659,7 +5689,7 @@ I do...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm, I have a question.</Dialog>
+          <Dialog>Um, I have a question.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5679,7 +5709,8 @@ I do...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>A Blood type, right？</Dialog>
+          <Dialog>You're blood type A, aren't 
+you？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5699,7 +5730,8 @@ I do...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>A blood type, right？</Dialog>
+          <Dialog>You are blood type A, 
+aren't you？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5719,7 +5751,8 @@ I do...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>B Blood type, right？</Dialog>
+          <Dialog>You're blood type B, aren't 
+you？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5739,7 +5772,8 @@ I do...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>B blood type, right？</Dialog>
+          <Dialog>You are blood type B, 
+aren't you？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5759,7 +5793,8 @@ I do...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>AB blood type, right？</Dialog>
+          <Dialog>You're blood type AB, 
+aren't you？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5779,7 +5814,8 @@ I do...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>AB blood type, right？</Dialog>
+          <Dialog>You are blood type AB, 
+aren't you？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5799,7 +5835,8 @@ I do...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>O blood type, right？</Dialog>
+          <Dialog>You're blood type O, aren't 
+you？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5819,7 +5856,8 @@ I do...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>O blood type, right？</Dialog>
+          <Dialog>You are blood type O, 
+aren't you？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5839,8 +5877,7 @@ I do...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I knew it. It's typical, 
-Hehe.</Dialog>
+          <Dialog>I knew it. Typical, hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5860,8 +5897,8 @@ Hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is that right？ It's very 
-easy to understand.</Dialog>
+          <Dialog>Right？ It's very easy to 
+understand.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5881,7 +5918,8 @@ easy to understand.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Huh？ That type is strange？</Dialog>
+          <Dialog>Huh？　That's weird... what 
+type then？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5901,8 +5939,8 @@ easy to understand.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Huh？ Is that right... 
-What type？</Dialog>
+          <Dialog>Huh？　I see... what type is 
+it？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5922,8 +5960,8 @@ What type？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I see... It's a little 
-unexpected...</Dialog>
+          <Dialog>I see... it's a little 
+surprising...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5943,7 +5981,7 @@ unexpected...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I see... It's a little 
+          <Dialog>I see... that's a bit 
 surprising.</Dialog>
         </Dialogs>
       </SDL2>
@@ -5964,8 +6002,8 @@ surprising.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is that so？ Then, I did 
-it！</Dialog>
+          <Dialog>Right？　Then, I guessed 
+right！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5985,7 +6023,7 @@ it！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I knew it. I'm good at 
+          <Dialog>I know, right？ I'm good at 
 guessing.</Dialog>
         </Dialogs>
       </SDL2>
@@ -6006,8 +6044,8 @@ guessing.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Oh, it's the same as you. 
-Isn't it？</Dialog>
+          <Dialog>Oh, so you are just like 
+him. Right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6027,7 +6065,8 @@ Isn't it？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Oh, is the same as you.</Dialog>
+          <Dialog>Oh, so you are just like 
+him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6047,7 +6086,7 @@ Isn't it？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Now it's my turn. What 
+          <Dialog>Now, it's my turn. What 
 type am I？</Dialog>
         </Dialogs>
       </SDL2>
@@ -6068,8 +6107,8 @@ type am I？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Well then, I'm next. 
-What's my type？</Dialog>
+          <Dialog>Okay, now me. What type am 
+I？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6089,9 +6128,9 @@ What's my type？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Correct answer！ I'm a 
-sincere and logical A 
-blood type, right？ Friend！</Dialog>
+          <Dialog>Correct！　An honest and 
+logical Type A, right？ 
+Buddies！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6111,9 +6150,8 @@ blood type, right？ Friend！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Correct answer！ I'm A 
-blood type, let's get 
-along！</Dialog>
+          <Dialog>You're right！ Type A's, 
+let's get along！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6133,9 +6171,10 @@ along！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Boo！ The correct answer 
-is A blood type. Like you. 
-So, let's get along.</Dialog>
+          <Dialog>Boo！　The correct answer 
+was A. Yes, he and I are 
+both type A. Maybe that's 
+why we get along so well.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6155,10 +6194,10 @@ So, let's get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Unfortunately, the correct 
-answer was A type. Like 
-you. Maybe that's why we 
-get along.</Dialog>
+          <Dialog>Too bad, the correct answer 
+was type A.　Yes, I am like 
+him. Maybe that's why we 
+get along so well.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6178,8 +6217,8 @@ get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Umm... Why does it look 
-like that？</Dialog>
+          <Dialog>Hmm... why does it look 
+like that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6199,8 +6238,8 @@ like that？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is that so... I wonder if 
-it would be nice.</Dialog>
+          <Dialog>I see... I'd be a little 
+happy if it was like that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6220,8 +6259,9 @@ it would be nice.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is that so？ It's the first 
-time I heard that...</Dialog>
+          <Dialog>Really？　I think this may 
+be the first time you've 
+told me...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6241,7 +6281,7 @@ time I heard that...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm sometimes told that...</Dialog>
+          <Dialog>I'm told that sometimes...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6261,10 +6301,9 @@ time I heard that...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>By the way, the correct 
-answer was type A. It's 
-often said to be common, 
-but...</Dialog>
+          <Dialog>The correct answer, by the 
+way, was Type A.　I'm often 
+told it's typical...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6284,8 +6323,9 @@ but...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Well, do you believe in 
-blood group compatibility？</Dialog>
+          <Dialog>Right, so do you believe in 
+blood type compatibility 
+testing？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6305,9 +6345,9 @@ blood group compatibility？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Then, do you think our 
-blood types are truly 
-compatible？</Dialog>
+          <Dialog>Do you think there is a 
+blood type compatibility 
+then？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6327,9 +6367,8 @@ compatible？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Well, what blood type do 
-you think is compatible 
-with you？</Dialog>
+          <Dialog>So what type do you think 
+you are compatible with？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6349,9 +6388,8 @@ with you？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Then, what blood type do 
-you think is compatible 
-with you？</Dialog>
+          <Dialog>So what blood type is 
+compatible with you？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6371,7 +6409,7 @@ with you？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I see... Sorry.</Dialog>
+          <Dialog>I see... too bad.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6391,10 +6429,10 @@ with you？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Papa also says that there 
-is no medical basis. 
-But, I feel like there is 
-something.</Dialog>
+          <Dialog>My father, too, says there 
+is no medical evidence. 
+But I felt like there might 
+be.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6414,8 +6452,8 @@ something.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm glad. Then, what's the 
-point？</Dialog>
+          <Dialog>Good to hear. I knew it, 
+the methodical part？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6435,8 +6473,8 @@ point？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I see. It's original after 
-all？</Dialog>
+          <Dialog>I see. The creative part 
+after all？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6456,8 +6494,8 @@ all？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Do you feel good at your 
-own pace？</Dialog>
+          <Dialog>Like, doing things at your 
+pace, or something？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6477,7 +6515,8 @@ own pace？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Do you like feeling calm？</Dialog>
+          <Dialog>After all, the feeling of 
+generosity？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6497,9 +6536,8 @@ own pace？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Oh, then the people you 
-care about... I'm kidding, 
-Hehe.</Dialog>
+          <Dialog>Ah, then, a person who 
+cares... I'm kidding, hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6519,7 +6557,7 @@ Hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I got if.　Hehe.</Dialog>
+          <Dialog>I guessed right. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6539,8 +6577,8 @@ Hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I think snooping... is no 
-good.</Dialog>
+          <Dialog>If not, I guess... snooping 
+is not a good idea.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6560,8 +6598,8 @@ good.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I feel like I agree with 
-you.</Dialog>
+          <Dialog>I think I can see how you 
+and I might be good friends.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6581,9 +6619,8 @@ you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Maybe it's surprising, 
-but I think it's 
-understandable.</Dialog>
+          <Dialog>Maybe it fits surprisingly 
+well, I think I understand.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6603,8 +6640,8 @@ understandable.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I see, that's what 
-happens.</Dialog>
+          <Dialog>I see, I knew it would be 
+that way.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6624,7 +6661,7 @@ happens.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Certainly, it's a good 
+          <Dialog>Yes, it's a really good 
 combination.</Dialog>
         </Dialogs>
       </SDL2>
@@ -6645,7 +6682,8 @@ combination.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I wonder that is good.</Dialog>
+          <Dialog>I wonder if that kind of 
+thing is good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6665,9 +6703,9 @@ combination.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>An unexpected combination 
-may be good. You know, 
-that kind of thing.</Dialog>
+          <Dialog>Maybe it's a good, unlikely 
+combination. Or something 
+like that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6687,9 +6725,9 @@ that kind of thing.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Then, you're my perfect 
-match by blood type 
-compatibility.</Dialog>
+          <Dialog>Then I'm also a perfect 
+match for him in blood 
+typing.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6709,9 +6747,9 @@ compatibility.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Well than, you're not 
-really compatible with me 
-by blood type...</Dialog>
+          <Dialog>Oh, so you're not a good 
+match for him in the blood 
+typing...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6731,7 +6769,7 @@ by blood type...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>What is our actual 
+          <Dialog>What is the actual 
 compatibility？</Dialog>
         </Dialogs>
       </SDL2>
@@ -6752,7 +6790,8 @@ compatibility？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I thought so. I'm glad.</Dialog>
+          <Dialog>I thought it was. Good to 
+know.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6772,7 +6811,7 @@ compatibility？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Huh？ ...I'm sorry.</Dialog>
+          <Dialog>Huh？　...sorry, somehow.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6792,9 +6831,9 @@ compatibility？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Can I ask you something？ 
-Do you have any older 
-brothers？</Dialog>
+          <Dialog>Can I ask you one thing？ 
+...Do you have any siblings 
+older than yourself？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6814,9 +6853,9 @@ brothers？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I knew it！ You're the 
-youngest. Then, is that 
-your older brother？</Dialog>
+          <Dialog>I knew it！　I feel like 
+a younger kid.　So is that 
+your onii-san？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6836,9 +6875,10 @@ your older brother？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is that right？ I'm your 
-elder sister. Then, do 
-you have a younger sister？</Dialog>
+          <Dialog>Right？　I'm the eldest, 
+too, so I thought maybe 
+it's true.　So you have a 
+little sister？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6858,8 +6898,7 @@ you have a younger sister？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I did it！ I'm good at 
-guessing♪</Dialog>
+          <Dialog>Yay！　I'm good at guessing♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6879,8 +6918,9 @@ guessing♪</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Older sister？ Ah, if you 
-ask me, it might be so.</Dialog>
+          <Dialog>Sister？ ...Oh, if you ask 
+me, that's what it looks 
+like.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6900,9 +6940,8 @@ ask me, it might be so.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I did it, I guessed again. 
-You're very easy to 
-understand.</Dialog>
+          <Dialog>Yay, I guessed again. It's 
+so easy to understand.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6922,9 +6961,9 @@ understand.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm sorry... I thought you 
-had a sister because you 
-are kind with girls.</Dialog>
+          <Dialog>Too bad... you're so kind 
+to girls, I thought you had 
+a little sister.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6944,8 +6983,8 @@ are kind with girls.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>By the way, I'm the only 
-daughter.</Dialog>
+          <Dialog>By the way, I am an only 
+child.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6965,8 +7004,8 @@ daughter.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>This is an opportunity, 
-so I'm afraid to ask...</Dialog>
+          <Dialog>Since it's an opportunity, 
+let's hear it...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6986,8 +7025,9 @@ so I'm afraid to ask...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'll ask you because it's 
-a great opportunity...</Dialog>
+          <Dialog>I'm going to ask you about 
+this because it's a great 
+opportunity...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7007,7 +7047,7 @@ a great opportunity...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Have you been always like 
+          <Dialog>Has he always been like 
 this？</Dialog>
         </Dialogs>
       </SDL2>
@@ -7028,8 +7068,8 @@ this？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Have you been like this 
-since you were a kid？</Dialog>
+          <Dialog>Has he been like this since 
+he was a child？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7049,7 +7089,7 @@ since you were a kid？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>*Sniff* I knew it...</Dialog>
+          <Dialog>*sniff*... I knew it...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7069,7 +7109,7 @@ since you were a kid？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>*Sniff* That's right...</Dialog>
+          <Dialog>*sniff*... I see...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7089,9 +7129,8 @@ since you were a kid？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Heh... It's hard to 
-imagine it when you were 
-with me.</Dialog>
+          <Dialog>Heh... you can't imagine 
+what it's like with me.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7111,8 +7150,8 @@ with me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It's hard to imagine... 
-Heh...</Dialog>
+          <Dialog>Wait, I can't imagine 
+that... heh...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7132,7 +7171,7 @@ Heh...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm, well then...</Dialog>
+          <Dialog>Um, then...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7152,8 +7191,8 @@ Heh...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Are you always active at 
-home？</Dialog>
+          <Dialog>Is he always, even at home, 
+so active？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7173,7 +7212,7 @@ home？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Are you playing around at 
+          <Dialog>Is he mischievous, even at 
 home？</Dialog>
         </Dialogs>
       </SDL2>
@@ -7194,7 +7233,7 @@ home？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Are you always relaxing 
+          <Dialog>Is he always so laid back 
 at home？</Dialog>
         </Dialogs>
       </SDL2>
@@ -7215,8 +7254,8 @@ at home？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Are you a lazy person at 
-home？</Dialog>
+          <Dialog>Is he still a laid-back 
+person at home？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7236,7 +7275,7 @@ home？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I see, I thought as much.</Dialog>
+          <Dialog>I see.　I thought he was...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7256,8 +7295,8 @@ home？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Isn't that natural... 
-after all？</Dialog>
+          <Dialog>I knew it... is that 
+natural for him？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7277,8 +7316,8 @@ after all？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>That's right, then maybe 
-it's impossible to do it 
+          <Dialog>I see... then maybe he is 
+pushing himself too hard 
 in front of me...</Dialog>
         </Dialogs>
       </SDL2>
@@ -7299,8 +7338,8 @@ in front of me...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It's hard to imagine. 
-Heh...</Dialog>
+          <Dialog>I can't imagine that for 
+a minute.　Heh...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7320,9 +7359,8 @@ Heh...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>When you're with me, 
-whatever you say make me 
-relax.</Dialog>
+          <Dialog>When he is with me, he is 
+more laid back.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7342,8 +7380,9 @@ relax.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>When you're with me, what 
-kind of feeling is it？</Dialog>
+          <Dialog>When he's with me, he's 
+more of a mischievous boy, 
+isn't he？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7363,7 +7402,7 @@ kind of feeling is it？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're always kind.</Dialog>
+          <Dialog>But he's always so kind.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7383,8 +7422,8 @@ kind of feeling is it？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Sometimes you're a bit 
-mean.</Dialog>
+          <Dialog>But sometimes he can be a 
+little mean.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7404,9 +7443,9 @@ mean.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I wonder if this kind of 
-thing fits me... 
-I'm kidding.</Dialog>
+          <Dialog>I wonder if that's what 
+makes him a good fit for 
+me...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7426,8 +7465,7 @@ I'm kidding.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>That's what you love, so 
-I'm okay with it.</Dialog>
+          <Dialog>I like that about him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7447,8 +7485,8 @@ I'm okay with it.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I heard that you were a 
-kind person...</Dialog>
+          <Dialog>He told me you were a kind 
+person...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7468,8 +7506,8 @@ kind person...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I heard that you were a 
-cool person...</Dialog>
+          <Dialog>He told me you were a cool 
+person...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7489,8 +7527,8 @@ cool person...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I heard that you were a 
-mature person...</Dialog>
+          <Dialog>He told me you were a quiet 
+person...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7510,7 +7548,7 @@ mature person...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I heard that you were a 
+          <Dialog>He told me you were a 
 lively person...</Dialog>
         </Dialogs>
       </SDL2>
@@ -7531,7 +7569,7 @@ lively person...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I heard that you were a 
+          <Dialog>He told me you were a 
 serious person...</Dialog>
         </Dialogs>
       </SDL2>
@@ -7552,8 +7590,8 @@ serious person...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I heard that you were an 
-interesting person...</Dialog>
+          <Dialog>He told me you were a funny 
+person...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7573,8 +7611,8 @@ interesting person...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>But when I met you, it 
-was more like...</Dialog>
+          <Dialog>But when we met, it was 
+more like...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7594,7 +7632,7 @@ was more like...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Just as I heard it.</Dialog>
+          <Dialog>It was just as I had heard.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7614,7 +7652,7 @@ was more like...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Exactly what I heard.</Dialog>
+          <Dialog>It was as I had heard.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7634,7 +7672,8 @@ was more like...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're a kind person...</Dialog>
+          <Dialog>I thought you were a kind 
+person...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7654,7 +7693,8 @@ was more like...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're so kind...</Dialog>
+          <Dialog>I thought you were a kind 
+person...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7674,7 +7714,7 @@ was more like...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're a cool person.</Dialog>
+          <Dialog>I thought you were cool.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7694,8 +7734,8 @@ was more like...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're someone cool, 
-right？ It's okay.</Dialog>
+          <Dialog>You are a cool person, 
+aren't you？　Quite.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7715,7 +7755,8 @@ right？ It's okay.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're a calm person.</Dialog>
+          <Dialog>I thought you were a calm 
+person.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7735,7 +7776,7 @@ right？ It's okay.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're a gentle person, 
+          <Dialog>You are a calm person, 
 really.</Dialog>
         </Dialogs>
       </SDL2>
@@ -7756,7 +7797,7 @@ really.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You are lively.</Dialog>
+          <Dialog>You are a lively person.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7776,8 +7817,8 @@ really.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're a lively guy, 
-right.</Dialog>
+          <Dialog>You are a lively person, 
+aren't you？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7797,8 +7838,8 @@ right.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're a serious guy, 
-actually.</Dialog>
+          <Dialog>You are a serious person, 
+really.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7818,8 +7859,8 @@ actually.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It's true, you're a 
-serious person.</Dialog>
+          <Dialog>I thought you were serious, 
+really.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7839,7 +7880,7 @@ serious person.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're an interesting 
+          <Dialog>You are an interesting 
 person.</Dialog>
         </Dialogs>
       </SDL2>
@@ -7860,7 +7901,8 @@ person.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You are truly interesting.</Dialog>
+          <Dialog>You are an interesting 
+person, aren't you？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7880,7 +7922,7 @@ person.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm glad I could meet you 
+          <Dialog>It was good to see you 
 today.</Dialog>
         </Dialogs>
       </SDL2>
@@ -7901,8 +7943,8 @@ today.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It was nice to meet you 
-today.</Dialog>
+          <Dialog>It was a pleasure to meet 
+you today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7922,7 +7964,7 @@ today.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Maybe it's your little 
+          <Dialog>Perhaps it is you little 
 brother？</Dialog>
         </Dialogs>
       </SDL2>
@@ -7943,7 +7985,7 @@ brother？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Maybe it's your little 
+          <Dialog>Perhaps it is you little 
 sister？</Dialog>
         </Dialogs>
       </SDL2>
@@ -7964,8 +8006,8 @@ sister？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm sorry, then it's your 
-older brother？</Dialog>
+          <Dialog>I'm sorry, then is that you 
+onii-san？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7985,8 +8027,8 @@ older brother？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm sorry, then it's your 
-older sister？</Dialog>
+          <Dialog>I'm sorry, then is that you 
+onee-san？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8006,7 +8048,7 @@ older sister？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um, well...</Dialog>
+          <Dialog>You know, that...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8026,7 +8068,7 @@ older sister？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm...</Dialog>
+          <Dialog>Um...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8066,7 +8108,7 @@ older sister？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Uh, huh...</Dialog>
+          <Dialog>Ah, excuse me...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8106,7 +8148,7 @@ older sister？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm...</Dialog>
+          <Dialog>Um...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8146,8 +8188,8 @@ older sister？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um... I'm a little scared 
-of my face...</Dialog>
+          <Dialog>Um... I'm afraid of that 
+face...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8167,7 +8209,7 @@ of my face...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Huh？ ...Ah.</Dialog>
+          <Dialog>Huh？　...ah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8208,7 +8250,7 @@ of my face...</Dialog>
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>Hey... where are you 
-watching？</Dialog>
+looking？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8229,7 +8271,7 @@ watching？</Dialog>
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>Um... where are you 
-watching？</Dialog>
+looking？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8249,7 +8291,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Wow... Emm？</Dialog>
+          <Dialog>Whoa... eh？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8269,7 +8311,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Hehe！ Geez, Hehe.</Dialog>
+          <Dialog>Hehe！　Geez, hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8309,7 +8351,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Ouchie. Hehe.</Dialog>
+          <Dialog>Ouch. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8349,7 +8391,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Kyaa... Hehe.</Dialog>
+          <Dialog>Kya... hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8369,7 +8411,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Wait... Geez！</Dialog>
+          <Dialog>Wait... geez！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8389,7 +8431,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um, can you stop...</Dialog>
+          <Dialog>Um, please stop...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8413,7 +8455,8 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. Need help？</Dialog>
+          <Dialog>Can you help me, please, 
+▲主人公＊▲？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8433,7 +8476,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Oh！</Dialog>
+          <Dialog>Ah！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8453,7 +8496,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm？</Dialog>
+          <Dialog>Eh？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8473,7 +8516,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm！</Dialog>
+          <Dialog>Um！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8493,7 +8536,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Kyaa！</Dialog>
+          <Dialog>Kya！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8553,7 +8596,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm...</Dialog>
+          <Dialog>Eh...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8573,7 +8616,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm...</Dialog>
+          <Dialog>Um...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8593,7 +8636,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Kyaa...</Dialog>
+          <Dialog>Kya...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8633,7 +8676,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Ah.</Dialog>
+          <Dialog>Ah...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8673,7 +8716,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Emm？</Dialog>
+          <Dialog>Um？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8693,7 +8736,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Kyaa.</Dialog>
+          <Dialog>Kya.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8753,7 +8796,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>...Huh？</Dialog>
+          <Dialog>...eh？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8813,7 +8856,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Dear...</Dialog>
+          <Dialog>You are...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8833,7 +8876,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Gentle... Yes.</Dialog>
+          <Dialog>That's so kind... yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8853,7 +8896,8 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're so cool.</Dialog>
+          <Dialog>You are kind of a cool 
+person.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8873,7 +8917,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're so calm.</Dialog>
+          <Dialog>You're calm.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8893,7 +8937,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're a lively person.</Dialog>
+          <Dialog>You are a lively person.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8913,7 +8957,7 @@ watching？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're so serious.</Dialog>
+          <Dialog>You're a serious guy.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8934,7 +8978,7 @@ watching？</Dialog>
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>Maybe it's my imagination, 
-but your eyes are a bit...</Dialog>
+but your gaze is a little...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8954,9 +8998,9 @@ but your eyes are a bit...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It's nice to be honest, 
-but I'd like you to be a 
-little careful...</Dialog>
+          <Dialog>It's nice to be honest, but 
+I think you need to be a 
+little more careful...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8976,9 +9020,9 @@ little careful...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I feel like I'll be seeing 
-a lot of things, but I 
-wonder if that's the case.</Dialog>
+          <Dialog>I feel like you're going to 
+see a lot of things, but 
+maybe I'm imagining it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8998,8 +9042,8 @@ wonder if that's the case.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm looking at various 
-things... I'm a little 
+          <Dialog>You're looking at a lot of 
+things, so... I'm a little 
 restless.</Dialog>
         </Dialogs>
       </SDL2>
@@ -9020,8 +9064,8 @@ restless.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm looking at you. 
-I'm not sorry...</Dialog>
+          <Dialog>You're staring at me. Not 
+that I don't like it...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9041,8 +9085,8 @@ I'm not sorry...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I wonder if we can have a 
-little skinship...</Dialog>
+          <Dialog>What can I say, a little 
+skinship...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9062,9 +9106,9 @@ little skinship...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>The skinship is too 
-intense... it may become 
-a problem.</Dialog>
+          <Dialog>You know, I might have a 
+problem with the intense 
+skinship.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9084,8 +9128,8 @@ a problem.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I think that touching too 
-much... is not good.</Dialog>
+          <Dialog>I think you touch too 
+much... it's not good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9105,8 +9149,8 @@ much... is not good.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Maybe we can speak at 
-your pace.</Dialog>
+          <Dialog>The conversation may be at 
+your own pace.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9126,8 +9170,8 @@ your pace.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You go at your own pace. 
-You can talk freely.</Dialog>
+          <Dialog>Very fast-paced. The way of 
+conversation is so flexible.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9147,9 +9191,9 @@ You can talk freely.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You get nervous easily？ 
-I wanted to talk a little 
-more.</Dialog>
+          <Dialog>Do you get nervous easily？　
+I wish we could have talked 
+a little more.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9169,8 +9213,8 @@ more.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It's easy to get nervous. 
-We didn't talk much.</Dialog>
+          <Dialog>You were very nervous. We 
+didn't talk much.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9190,8 +9234,7 @@ We didn't talk much.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um, I thought about it, 
-but...</Dialog>
+          <Dialog>Um, I was thinking...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9211,7 +9254,7 @@ but...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're so kind...</Dialog>
+          <Dialog>You are a kind person...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9231,7 +9274,8 @@ but...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're kinda cool.</Dialog>
+          <Dialog>You are kind of a cool 
+person.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9251,7 +9295,7 @@ but...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're a gentle person.</Dialog>
+          <Dialog>You are a calm person.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9271,7 +9315,7 @@ but...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're a lively person.</Dialog>
+          <Dialog>You are a lively person.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9291,7 +9335,7 @@ but...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You're a serious person.</Dialog>
+          <Dialog>You are a serious person.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9311,8 +9355,8 @@ but...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Your gaze is a little... 
-n-nothing. Sorry.</Dialog>
+          <Dialog>You gaze is... nothing. 
+Sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9332,9 +9376,10 @@ n-nothing. Sorry.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Maybe I'm a little 
-worried about... my line 
-of sight.</Dialog>
+          <Dialog>I'm sorry if I'm a little 
+concerned about the way 
+you're looking at me, or 
+if it's just my imagination.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9354,8 +9399,9 @@ of sight.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I feel like we were 
-seen... I was nervous.</Dialog>
+          <Dialog>I was... nervous because 
+I felt like I was being 
+watched.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9375,8 +9421,8 @@ seen... I was nervous.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>We were seen... 
-I'm nervous.</Dialog>
+          <Dialog>I am... nervous to be 
+looked at.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9396,8 +9442,8 @@ I'm nervous.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It's like staring at me... 
-Ah, I'm getting nervous.</Dialog>
+          <Dialog>I'm a little... nervous 
+about being stared at.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9417,8 +9463,7 @@ Ah, I'm getting nervous.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>This skinship is a 
-little...</Dialog>
+          <Dialog>Hmm, skinship is a little...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9438,7 +9483,7 @@ little...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I think you like doing 
+          <Dialog>I see that you like 
 skinship.</Dialog>
         </Dialogs>
       </SDL2>
@@ -9459,8 +9504,9 @@ skinship.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I think you like to touch 
-too much.</Dialog>
+          <Dialog>I think it's too much, you 
+know, too touchy-feely for 
+any amount of time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9480,8 +9526,10 @@ too much.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You like going at your own 
-pace. Let's talk.</Dialog>
+          <Dialog>You are a person who goes 
+at his own pace. The way 
+you have conversations, 
+I mean.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9501,8 +9549,8 @@ pace. Let's talk.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>You like going at your own 
-pace.</Dialog>
+          <Dialog>You are a very fast-paced 
+person.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9522,8 +9570,9 @@ pace.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Are you nervous？ I wanted 
-to talk a little more.</Dialog>
+          <Dialog>Perhaps you were nervous？　
+I would have liked to talk 
+to you a little more.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9543,8 +9592,8 @@ to talk a little more.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Are you nervous？ I'm so 
-sorry we couldn't talk so 
+          <Dialog>Were you nervous？　
+I'm sorry we couldn't talk 
 much.</Dialog>
         </Dialogs>
       </SDL2>
@@ -9565,7 +9614,7 @@ much.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>We're very similar.</Dialog>
+          <Dialog>You are so alike.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9585,8 +9634,8 @@ much.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I can tell we are very 
-much alike.</Dialog>
+          <Dialog>Um, don't people say you 
+look alike？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9626,7 +9675,7 @@ much alike.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Artists...</Dialog>
+          <Dialog>The artist's...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9666,7 +9715,7 @@ much alike.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Company's...</Dialog>
+          <Dialog>The company's...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9686,7 +9735,7 @@ much alike.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>School's...</Dialog>
+          <Dialog>The school's...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9706,7 +9755,7 @@ much alike.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Club activities...</Dialog>
+          <Dialog>The club's...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9726,7 +9775,7 @@ much alike.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Now the topic is...</Dialog>
+          <Dialog>The current topic...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9746,7 +9795,7 @@ much alike.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Now popular with men is...</Dialog>
+          <Dialog>Is popular among men...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9766,8 +9815,7 @@ much alike.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Now popular with women 
-is...</Dialog>
+          <Dialog>Is popular among women...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9787,7 +9835,8 @@ is...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I often see it on TV...</Dialog>
+          <Dialog>You can see it on TV 
+often...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9807,7 +9856,7 @@ is...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It's in a movie...</Dialog>
+          <Dialog>It's in the movie...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9827,8 +9876,7 @@ is...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It often appears in the 
-textbook...</Dialog>
+          <Dialog>It's in the textbooks...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9848,7 +9896,7 @@ textbook...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Of overseas...</Dialog>
+          <Dialog>International...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9868,7 +9916,7 @@ textbook...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>From a friend...</Dialog>
+          <Dialog>From friends...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9888,7 +9936,7 @@ textbook...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I know of someone...</Dialog>
+          <Dialog>From someone I know...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9928,7 +9976,7 @@ textbook...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>From your parents...</Dialog>
+          <Dialog>From your family...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9948,8 +9996,7 @@ textbook...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I saw it in town this 
-time...</Dialog>
+          <Dialog>I saw it in town recently...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9969,7 +10016,7 @@ time...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>That romanticist's...</Dialog>
+          <Dialog>That romantic...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9989,7 +10036,7 @@ time...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>That narcissist...</Dialog>
+          <Dialog>That narcissistic...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10009,7 +10056,7 @@ time...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>From that story...</Dialog>
+          <Dialog>That good talker...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10029,7 +10076,7 @@ time...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>That's genius...</Dialog>
+          <Dialog>That genius...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10049,7 +10096,7 @@ time...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Everyone longs for...</Dialog>
+          <Dialog>Everyone's favorite...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10069,7 +10116,7 @@ time...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I feels a little bad...</Dialog>
+          <Dialog>It's a bit of a no-no...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10089,7 +10136,7 @@ time...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Hehe, exactly.</Dialog>
+          <Dialog>Hehe, you look alike.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10109,7 +10156,7 @@ time...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Yes, it's the same.</Dialog>
+          <Dialog>Yes, you look alike.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10129,8 +10176,8 @@ time...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Huh？ I think it looks 
-exactly the same.</Dialog>
+          <Dialog>Eh？　I think you look 
+exactly alike.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10150,8 +10197,8 @@ exactly the same.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is that so？ I think it's 
-similar, but... sorry.</Dialog>
+          <Dialog>Really？　I think you look 
+alike... sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10171,8 +10218,8 @@ similar, but... sorry.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I wonder, I thought it 
-was similar.</Dialog>
+          <Dialog>Yeah... I really thought 
+you looked alike.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10192,7 +10239,7 @@ was similar.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Ah... I see, I'm sorry.</Dialog>
+          <Dialog>Oh... I see, sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10212,8 +10259,8 @@ was similar.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I look forward to be with 
-you.</Dialog>
+          <Dialog>From here on out, I'll be 
+under your care.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10233,8 +10280,8 @@ you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Thank you for continuing 
-to support me.</Dialog>
+          <Dialog>Please keep on caring for 
+out me, from here on out.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

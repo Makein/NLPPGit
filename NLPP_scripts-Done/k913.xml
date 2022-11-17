@@ -60,8 +60,7 @@
         <Dialogs>
           <Dialog>Rinko</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>The message number is
-different.</Dialog>
+          <Dialog>Wrong message number.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -87,8 +86,7 @@ different.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>People can see
-you...</Dialog>
+          <Dialog>People can see us...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -108,8 +106,7 @@ you...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>People can see
-you...</Dialog>
+          <Dialog>People can see us...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -129,8 +126,7 @@ you...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>People can see
-you...</Dialog>
+          <Dialog>People can see us...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -216,18 +212,17 @@ you...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Did it feel good？</Dialog>
-          <Dialog>Sorry....</Dialog>
-          <Dialog>I love you ....</Dialog>
-          <Dialog>I like you....</Dialog>
-          <Dialog>Such Happiness ....</Dialog>
-          <Dialog>I'm happy ....</Dialog>
-          <Dialog>Cute ....</Dialog>
-          <Dialog>It's beautiful ....</Dialog>
-          <Dialog>How do you like it？</Dialog>
+          <Dialog>Sorry...</Dialog>
+          <Dialog>I love you...</Dialog>
+          <Dialog>Love you...</Dialog>
+          <Dialog>I'm happy...</Dialog>
+          <Dialog>I'm glad you're here...</Dialog>
+          <Dialog>Cute...</Dialog>
+          <Dialog>It's beautiful...</Dialog>
+          <Dialog>How do you like that？</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>Reaction ID does not
-exist</Dialog>
+          <Dialog>Reaction ID does not exist</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -307,18 +302,17 @@ exist</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Did it feel good？</Dialog>
-          <Dialog>Sorry....</Dialog>
-          <Dialog>I love you ....</Dialog>
-          <Dialog>I like you....</Dialog>
-          <Dialog>Such Happiness ....</Dialog>
-          <Dialog>I'm happy ....</Dialog>
-          <Dialog>Cute ....</Dialog>
-          <Dialog>It's beautiful ....</Dialog>
-          <Dialog>How do you like it？</Dialog>
+          <Dialog>Sorry...</Dialog>
+          <Dialog>I love you...</Dialog>
+          <Dialog>Love you...</Dialog>
+          <Dialog>I'm happy...</Dialog>
+          <Dialog>I'm glad you're here...</Dialog>
+          <Dialog>Cute...</Dialog>
+          <Dialog>It's beautiful...</Dialog>
+          <Dialog>How do you like that？</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>Reaction ID does not
-exist</Dialog>
+          <Dialog>Reaction ID does not exist</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -397,19 +391,18 @@ exist</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-   	  <Dialog>Did it feel good？</Dialog>
-          <Dialog>Sorry....</Dialog>
-          <Dialog>I love you ....</Dialog>
-          <Dialog>I like you....</Dialog>
-          <Dialog>Such Happiness ....</Dialog>
-          <Dialog>I'm happy ....</Dialog>
-          <Dialog>Cute ....</Dialog>
-          <Dialog>It's beautiful ....</Dialog>
-          <Dialog>How do you like it？</Dialog>
+          <Dialog>Did it feel good？</Dialog>
+          <Dialog>Sorry...</Dialog>
+          <Dialog>I love you...</Dialog>
+          <Dialog>Love you...</Dialog>
+          <Dialog>I'm happy...</Dialog>
+          <Dialog>I'm glad you're here...</Dialog>
+          <Dialog>Cute...</Dialog>
+          <Dialog>It's beautiful...</Dialog>
+          <Dialog>How do you like that？</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>Reaction ID does not
-exist</Dialog>
+          <Dialog>Reaction ID does not exist</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -446,11 +439,8 @@ exist</Dialog>
         <Dialogs>
           <Dialog>Rinko</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>Kissing reaction message
-number error</Dialog>
-          <Dialog>Kissing teasing dialogue
-message number
-error</Dialog>
+          <Dialog>Kiss reaction message error</Dialog>
+          <Dialog>Kiss dialogue message error</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -481,11 +471,8 @@ error</Dialog>
         <Dialogs>
           <Dialog>Rinko</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>Kissing reaction message
-number error</Dialog>
-          <Dialog>Kissing teasing dialogue
-message number
-error</Dialog>
+          <Dialog>Kiss reaction message error</Dialog>
+          <Dialog>Kiss dialogue message error</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -516,11 +503,8 @@ error</Dialog>
         <Dialogs>
           <Dialog>Rinko</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>Kissing reaction message
-number error</Dialog>
-          <Dialog>Kissing teasing dialogue
-message number
-error</Dialog>
+          <Dialog>Kiss reaction message error</Dialog>
+          <Dialog>Kiss dialogue message error</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -648,19 +632,13 @@ error</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Short kiss</Dialog>
-          <Dialog>Standing face-to-face
-conversation (2D)</Dialog>
-          <Dialog>Standing Face-to-Face
-Conversation (3D)</Dialog>
-          <Dialog>Sitting face-to-face
-(face-to-face
-conversation)</Dialog>
-          <Dialog>Sitting conversation (when
-sitting sideways, such as on
-a date)</Dialog>
-          <Dialog>One more time</Dialog>
-          <Dialog>Quit</Dialog>
+          <Dialog>Short Kiss</Dialog>
+          <Dialog>Face-to-face(２Ｄ)</Dialog>
+          <Dialog>Face-to-face(３Ｄ)</Dialog>
+          <Dialog>Sitting(face-to-face)</Dialog>
+          <Dialog>Sideways conversation</Dialog>
+          <Dialog>Once more</Dialog>
+          <Dialog>Stop</Dialog>
           <Dialog>Next</Dialog>
         </Dialogs>
       </SDL2>
@@ -687,8 +665,7 @@ a date)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>People can see
-you...</Dialog>
+          <Dialog>People can see us...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -708,8 +685,7 @@ you...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>People can see
-you...</Dialog>
+          <Dialog>People can see us...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -729,8 +705,7 @@ you...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>People can see
-you...</Dialog>
+          <Dialog>People can see us...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

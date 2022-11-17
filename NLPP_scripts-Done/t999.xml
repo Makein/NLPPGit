@@ -252,16 +252,16 @@
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Waiting expression check...</Dialog>
+          <Dialog>Waiting for expression...</Dialog>
           <Dialog>Waiting....</Dialog>
           <Dialog>Normal</Dialog>
           <Dialog>Laugh</Dialog>
           <Dialog>Anger 1</Dialog>
           <Dialog>Anger 2</Dialog>
           <Dialog>Sad</Dialog>
-          <Dialog>Entertained</Dialog>
-          <Dialog>Surprised</Dialog>
-          <Dialog>Troubled</Dialog>
+          <Dialog>Fun</Dialog>
+          <Dialog>Surprise</Dialog>
+          <Dialog>Worried</Dialog>
           <Dialog>Fidgety</Dialog>
           <Dialog>Excited</Dialog>
           <Dialog>Laughing face</Dialog>
@@ -275,11 +275,11 @@
           <Dialog>Troubled laugh</Dialog>
           <Dialog>Smiling face</Dialog>
           <Dialog>Kissing face</Dialog>
-          <Dialog>Kissing face with blink</Dialog>
-          <Dialog>Kiss with half-closed eyes</Dialog>
+          <Dialog>Kissing face, blink</Dialog>
+          <Dialog>Kiss, half-closed eyes</Dialog>
           <Dialog>Kiss face, blinking, long</Dialog>
-          <Dialog>Kiss sometimes blinking</Dialog>
-          <Dialog>Kiss with closed eyes</Dialog>
+          <Dialog>Kiss, blinking</Dialog>
+          <Dialog>Kiss, closed eyes</Dialog>
           <Dialog>Normal closed</Dialog>
           <Dialog>Troubled closed</Dialog>
           <Dialog>Angry closed</Dialog>
@@ -289,16 +289,16 @@
           <Dialog>Shy wink</Dialog>
           <Dialog>Smiling</Dialog>
           <Dialog>Angry face 2</Dialog>
-          <Dialog>Happy cheek</Dialog>
-          <Dialog>Troubled smile</Dialog>
+          <Dialog>Cheeky face</Dialog>
+          <Dialog>Smiling broadly</Dialog>
           <Dialog>Kissing face</Dialog>
-          <Dialog>Sideways sitting</Dialog>
+          <Dialog>Sitting on your side</Dialog>
           <Dialog>Sideways normal</Dialog>
-          <Dialog>Sideways sad</Dialog>
+          <Dialog>Sad sitting</Dialog>
           <Dialog>Sideways excited</Dialog>
-          <Dialog>Sideways surprised</Dialog>
-          <Dialog>Sideways laughing</Dialog>
-          <Dialog>Sideways trouble</Dialog>
+          <Dialog>Surprised</Dialog>
+          <Dialog>Laughing</Dialog>
+          <Dialog>Troubled</Dialog>
           <Dialog>Embarrassed</Dialog>
           <Dialog>That's all.</Dialog>
         </Dialogs>

@@ -47,17 +47,17 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hey, do you like bread or
-rice in the morning？
-</Dialog>
+          <Dialog>Do you prefer bread in the 
+morning？　Or do you prefer 
+rice？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Why？</Dialog> 
-          <Dialog>Just answer. Then maybe
-something good will come of
-it.</Dialog> 
-          <Dialog>Hmm...</Dialog>
-          <Dialog>Rice.</Dialog>
-          <Dialog>Bread.</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>Just answer the questions. 
+Maybe it'll do you some 
+good.</Dialog>
+          <Dialog>Hmm？　Well...</Dialog>
+          <Dialog>I prefer rice</Dialog>
+          <Dialog>I like bread</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -97,18 +97,18 @@ it.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Rice. If you're Japanese,
-you eat Japanese food in the
-morning！</Dialog>
+          <Dialog>I like rice. If you're 
+Japanese, you should eat 
+Japanese food in the 
+mornings！</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>That's not a very
-interesting answer.</Dialog>
-          <Dialog>Is there anything
-interesting about
-it？</Dialog> 
-          <Dialog>No, not really. Well, okay.
-Japanese food,
-Understood.</Dialog>
+          <Dialog>Not a very interesting 
+answer.</Dialog>
+          <Dialog>Did you expect me to say 
+something interesting？</Dialog>
+          <Dialog>No, not really. Well, 
+whatever. Japanese food, 
+I got it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -148,16 +148,15 @@ Understood.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>When it comes to breakfast,
-bread is more
-fashionable.</Dialog>
+          <Dialog>Speaking of breakfast, 
+I prefer some stylish bread.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>What's so fashionable about
-it？　It's a normal
-thing.</Dialog> 
-          <Dialog>Well, yeah, but...</Dialog>
-          <Dialog>So it's bread anyway. I get
-it.</Dialog>
+          <Dialog>What's so stylish about 
+it？　It's just a normal 
+thing.</Dialog>
+          <Dialog>Well, that's true.</Dialog>
+          <Dialog>Anyway, you prefer bread. 
+I get it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -197,16 +196,16 @@ it.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I guess it's rice.</Dialog>
+          <Dialog>Maybe rice.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hmm？　I thought you said
-bread before.</Dialog>
-          <Dialog>I thought it would be better
-to eat well in the
-morning.</Dialog> 
-          <Dialog>Yes, yes, I see. I'll have
-some rice next
-time.</Dialog> 
+          <Dialog>Hmm？　Didn't you say you 
+liked bread before？</Dialog>
+          <Dialog>I thought it would be 
+better to eat well in the 
+morning.</Dialog>
+          <Dialog>Yes, yes, I get it. 
+Understood, next time I'll 
+have some rice.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -246,15 +245,13 @@ time.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hmmm, I like ....
-bread.</Dialog>
+          <Dialog>Hmm... I like bread.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Huh？　I thought you were a
-rice person？</Dialog>
-          <Dialog>I changed my mind
-recently.</Dialog> 
-          <Dialog>Hmmm .... bread. That's
-okay, though. Next time is
+          <Dialog>What？　Didn't you say you 
+liked rice before？</Dialog>
+          <Dialog>I changed my mind recently.</Dialog>
+          <Dialog>Hmm... bread. Well, that's 
+fine. Next time I'll have 
 bread.</Dialog>
         </Dialogs>
       </SDL2>
@@ -300,16 +297,16 @@ bread.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Japanese food, Western food,
-Chinese food. Choose your
-favorite from
-these.</Dialog>
+          <Dialog>Japanese food, Western 
+food, Chinese food. Okay, 
+choose your favorite one 
+from these.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>So sudden....</Dialog>
-          <Dialog>It's Japanese food</Dialog>
+          <Dialog>So suddenly...</Dialog>
+          <Dialog>Japanese food</Dialog>
           <Dialog>Western food</Dialog>
           <Dialog>Chinese food</Dialog>
-          <Dialog>None of the above！</Dialog>
+          <Dialog>None of those！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -334,12 +331,12 @@ these.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>So, Japanese food. It's
-soothing.</Dialog>
+          <Dialog>Then, Japanese food. 
+It calms me somehow.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>I think I understand. I'm
-good with Japanese food too,
-hehe.</Dialog>
+          <Dialog>I can understand that. 
+Rinko is good at Japanese 
+food too, hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -379,16 +376,14 @@ hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I like Japanese food, in
-that case.</Dialog>
+          <Dialog>Among those, I really like 
+Japanese food.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>What？　You should try
-something else.</Dialog> 
-          <Dialog>Even if you say so
-....</Dialog>
-          <Dialog>I can't help it. I guess
-I'll just
-practice....</Dialog>
+          <Dialog>What？　You should try 
+something else.</Dialog>
+          <Dialog>Even if you tell me that...</Dialog>
+          <Dialog>I've got no choice. I'll 
+have to practice...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -413,13 +408,13 @@ practice....</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I like Western food. I'm a
-young person, after
-all.</Dialog>
+          <Dialog>I like Western food. 
+It's popular between young 
+people！</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>That's true. Rinko likes
-western food too, even
-cooking it.</Dialog>
+          <Dialog>Certainly. Rinko also likes 
+Western food, and I can 
+make it too.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -459,14 +454,13 @@ cooking it.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Then we'll have Western
+          <Dialog>Then, I'll go with Western 
 food.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Western food~？　Hmmm
-....</Dialog> 
-          <Dialog>Is there a problem？</Dialog>
-          <Dialog>It's nothing. Ahhh ....,
-I'll do my best.</Dialog>
+          <Dialog>Western food～？　Hmm...</Dialog>
+          <Dialog>Why are you so troubled？</Dialog>
+          <Dialog>It's nothing. Hah... I'll 
+do my best.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -491,12 +485,11 @@ I'll do my best.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>It's got to be Chinese！　It's
-been 4,000 years！</Dialog>
+          <Dialog>I like Chinese food！　
+It's over 4,000！</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>I like that...okay, then you
-can look forward to
-it.</Dialog>
+          <Dialog>Great♪　Okay, then you can 
+look forward to it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -536,16 +529,15 @@ it.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Let's see.... Chinese,
-please.</Dialog>
+          <Dialog>Emm... Chinese food, please.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>No way. I'm not good at
-making Chinese.</Dialog> 
-          <Dialog>Hmm？　Were you talking about
-making it, not eating
-it？</Dialog> 
-          <Dialog>Oh, no. You're right it's
-about eating....</Dialog>
+          <Dialog>No way. I'm not good at 
+making Chinese food.</Dialog>
+          <Dialog>Hmm？　You weren't talking 
+about eating, you were 
+talking about making it？</Dialog>
+          <Dialog>Uh, no. I was talking about 
+eating...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -570,12 +562,11 @@ about eating....</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>That's not exactly what I
-like ....</Dialog>
+          <Dialog>I don't like any of those 
+genres...</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Oh, really？ Well, I don't
-mind thinking about it and
-making things.</Dialog>
+          <Dialog>Really？　Well, I don't mind 
+thinking about it some more.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -615,14 +606,15 @@ making things.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I like something other than
-those.</Dialog>
+          <Dialog>I like... anything else 
+except for those.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Did you hear what I said？　I
-told you to pick one of the
-three.</Dialog>
-          <Dialog>Even if you say so？</Dialog>
-          <Dialog>I'm in trouble ....</Dialog>
+          <Dialog>Did you listen to me？　
+I told you to choose for 
+three options.</Dialog>
+          <Dialog>What do you want me to say？</Dialog>
+          <Dialog>Don't say that... that 
+makes me worry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -647,12 +639,11 @@ three.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Question. What's your
+          <Dialog>Question. What is your 
 favorite food？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>What's your favorite food？
-Recently, it was
-....</Dialog>
+          <Dialog>What I like, huh. Well, 
+recently...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -667,7 +658,8 @@ Recently, it was
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲menu▲.</Dialog>
+          <Dialog>I really enjooy, 
+▲メニュー▲.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -692,13 +684,12 @@ Recently, it was
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hey .... Well, don't get
-your hopes up, just wait and
-see.</Dialog>
+          <Dialog>Hmmm... Well, don't expect 
+much, just wait for it.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>You mean you'll make it？　I
-can't say I was expecting
-that.</Dialog>
+          <Dialog>You mean you'll make it？　
+I don't know, maybe I 
+shouldn't get my hopes up.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -723,11 +714,11 @@ that.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>You're right. You like it a
-lot, don't you？</Dialog>
+          <Dialog>I knew it. You really like 
+that.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Well, yeah. I'm
-obsessed！</Dialog>
+          <Dialog>Well, yeah. I really enjoy 
+it！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -752,13 +743,13 @@ obsessed！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Isn't this different from
-before？　Are you an imposter
+          <Dialog>Isn't it different from 
+before？　Are you faking it, 
 by any chance？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Of course I'm real.... I've
-just changed my preferences
-a bit.</Dialog>
+          <Dialog>Of course I mean it... 
+My tastes changed just a 
+bit.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -802,20 +793,17 @@ a bit.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Kohayakawa</Dialog>
-          <Dialog>Hey, do you have a
-preference for the length of
-a girl's socks？　People seem
-to care about details like
-that.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Do you have a preference of 
+a girl's socks？　You seem 
+to care about that kind 
+of detail.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Not really, but
-....</Dialog>
-          <Dialog>I like it short</Dialog>
+          <Dialog>That's not the case, but...</Dialog>
+          <Dialog>I like then short</Dialog>
           <Dialog>Normal is fine</Dialog>
-          <Dialog>Long ones are best</Dialog>
-          <Dialog>Anything as long as it looks
-good</Dialog>
+          <Dialog>Long is the best</Dialog>
+          <Dialog>Whatever suits you</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -840,13 +828,12 @@ good</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I like socks that are short.
-It makes me feel more
+          <Dialog>I like short socks. 
+It makes me feel more 
 active.</Dialog>
-          <Dialog>Kohayakawa</Dialog>
-          <Dialog>Hmm, is that how it is？
-Short socks huh
-....</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Hmm, is that how it works？　
+Short socks, huh...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -871,12 +858,11 @@ Short socks huh
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Just the normal length is
-fine, right？ At least it
-won't look bad.</Dialog>
+          <Dialog>Isn't it okay with a normal 
+length？ At least it won't 
+stand out.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Well, that's safe, isn't
-it？</Dialog>
+          <Dialog>Well, that's a safe bet.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -901,12 +887,12 @@ it？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I think long socks are the
-way to go.　It'll give you a
-classy look.</Dialog>
+          <Dialog>Wouldn't it be nice to have 
+long socks？　It would give 
+you a classy look.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>With socks？　Is that how it
-is？ ....</Dialog>
+          <Dialog>With socks？　So that how it 
+works...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -931,13 +917,11 @@ is？ ....</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>It doesn't matter, as long
-as it looks good on you,
-right？</Dialog>
+          <Dialog>Anything goes as long as it 
+looks good on you, right？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>That may be so, but deciding
-is the hardest part, isn't
-it？</Dialog>
+          <Dialog>Maybe so, but "anything" is 
+the most difficult.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -991,20 +975,18 @@ it？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-      <Dialog>Rinko</Dialog>
-          <Dialog>Hey, Are you still thinking
-about it？</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Hear me out. Do you still 
+care about it？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>What？</Dialog> 
-          <Dialog>About the fight we had the
-other day. I thought I might
-have said a little too
-much.</Dialog>
-          <Dialog>I am...</Dialog>
+          <Dialog>About？</Dialog>
+          <Dialog>About the fight the other 
+day. I thought I might have 
+said a little too much.</Dialog>
+          <Dialog>Well...</Dialog>
           <Dialog>I was happy</Dialog>
-          <Dialog>I don't care about it at
-all</Dialog>
-          <Dialog>I was shocked</Dialog>
+          <Dialog>I don't care at all</Dialog>
+          <Dialog>I'm still shocked</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1059,18 +1041,16 @@ all</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hey, Are you still thinking
-about it？</Dialog>
+          <Dialog>Hey, you still care？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hmm, what？</Dialog> 
-          <Dialog>I was just wondering if you
-were crying about the fight
-we had the other
-day.</Dialog> 
-          <Dialog>Oh, you mean ....</Dialog>
+          <Dialog>Hmm, about？</Dialog>
+          <Dialog>I was just wondering if you 
+had cried during our fight 
+the other day.</Dialog>
+          <Dialog>Ah, you mean that one...</Dialog>
           <Dialog>I was happy</Dialog>
-          <Dialog>I don't mind at all</Dialog>
-          <Dialog>I was shocked</Dialog>
+          <Dialog>I don't care at all</Dialog>
+          <Dialog>I'm still shocked</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1125,20 +1105,19 @@ day.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>I apologize for the fight we
-had the other day.
-Sorry.</Dialog>
+          <Dialog>I apologize for the fight 
+the other day. I'm sorry.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>What, it's over now,
+          <Dialog>What do you mean, we've 
+been over this already, 
 right？</Dialog>
-          <Dialog>Yes, but. I was wondering
-if, by any chance, you still
-care about it.</Dialog>
-          <Dialog>That fight is....</Dialog>
+          <Dialog>Yeah, but... I was just 
+wondering if you still care 
+about it.</Dialog>
+          <Dialog>About that fight...</Dialog>
           <Dialog>I was happy</Dialog>
-          <Dialog>I don't care about it at
-all</Dialog>
-          <Dialog>I was shocked</Dialog>
+          <Dialog>I don't care at all</Dialog>
+          <Dialog>I'm still shocked</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1178,18 +1157,16 @@ all</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I'm glad we could fight
-properly.</Dialog>
+          <Dialog>I'm glad we got into a 
+fight.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>What do you mean？</Dialog> 
-       	  <Dialog>You were honest with me
-about your feelings. That's
-something only a lover can
-do.</Dialog>
-          <Dialog>Well, it's true that you are
-the only one who I can do
-that with, isn't it？
-Hehe.</Dialog>
+          <Dialog>What do you mean？</Dialog>
+          <Dialog>You were just being honest 
+with your feelings. This is 
+something that only lovers 
+can do.</Dialog>
+          <Dialog>Well, yeah... maybe this is 
+the only for you. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1229,18 +1206,18 @@ Hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-	  <Dialog>I was happy. We had a good
-fight.</Dialog>
+          <Dialog>It made me happy. We had a 
+good fight.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>What do you mean by a good
+          <Dialog>What do you mean by a good 
 fight？</Dialog>
-          <Dialog>A fight that can be
-reconciled is a good fight.
-It's okay to clash once in a
-while, isn't it？</Dialog>
-          <Dialog>Hmm, you're so tough. You
-were really crying！
-Heh.</Dialog>
+          <Dialog>A fight that's made up is 
+a good fight. It's okay to 
+clash once in a while, 
+isn't it？</Dialog>
+          <Dialog>Hmm, you're so bossy. 
+You were really crying！　
+Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1280,21 +1257,21 @@ Heh.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I was so happy. In my mind,
-it's a good memory.</Dialog>
+          <Dialog>I was happy. It's a good 
+memory in my mind.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Have you ever had a
-fight？</Dialog> 
-          <Dialog>Yes. Because even though we
-had fights, it doesn't
-change the time that▲小早川＊▲
-and I spent
-together.</Dialog> 
-          <Dialog>I'm a little frustrated that
-I can only spend so much
-time with you. But let's
-make lots of good memories
-together. ♪</Dialog> 
+          <Dialog>Have you ever been in a 
+fight？</Dialog>
+          <Dialog>Yeah. Even though we had 
+a fight, it won't change 
+the time we spent together, 
+▲小早川＊▲.</Dialog>
+          <Dialog>I'm a little frustrated 
+because I feel like I have 
+a lot of time to space. But 
+it's okay, let's make lots 
+of happy memories from now 
+on♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1334,17 +1311,13 @@ together. ♪</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Haha, he doesn't care at
-all！</Dialog>
+          <Dialog>Haha, I don't care at all！</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>I'm not so sure about
-that.</Dialog>
-          <Dialog>He's tough. So don't be
-afraid to say anything you
-want to me.</Dialog>
-          <Dialog>Heh, I'm just trying to be
-cool！　For now, I'll just say
-thanks.</Dialog>
+          <Dialog>I'm not so sure about that.</Dialog>
+          <Dialog>I tough. So don't be afraid 
+to say anything to me.</Dialog>
+          <Dialog>Hehe, you're just being 
+cool！　Thanks in advance.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1384,14 +1357,13 @@ thanks.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>He doesn't care at all
-anymore.</Dialog>
-          <Dialog>Rinko</Dialog>.
-          <Dialog>Really？　You can handle it,
-can't you？</Dialog> 
-          <Dialog>Well, yeah！</Dialog> 
-          <Dialog>Then again, I was just
-kidding ....！</Dialog> 
+          <Dialog>I don't care at all anymore.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Really？　You really are 
+something, well done.</Dialog>
+          <Dialog>Well, yeah！</Dialog>
+          <Dialog>Then again... I was just 
+kidding about it！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1431,17 +1403,15 @@ kidding ....！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>.... Oh, I totally forgot
-about that！　I don't care
-about that at all.</Dialog>
+          <Dialog>...Oh, I totally forgot！　
+I don't mind at all.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>No way. Because
-....</Dialog> 
-          <Dialog>Come on. I said it's okay.
-Don't worry about it
-anymore.</Dialog> 
-          <Dialog>...., you've got such a kind
-face. Hehe.</Dialog> 
+          <Dialog>No way. Because...</Dialog>
+          <Dialog>It's okay. I'm just saying 
+it's okay. Don't worry 
+about it anymore.</Dialog>
+          <Dialog>...You have such a kind 
+face, you know. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1481,16 +1451,15 @@ face. Hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>As expected, I was still in
-shock.</Dialog>
+          <Dialog>I'm still shocked about it.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>I knew .... was
-right.</Dialog>
-          <Dialog>But I also got to see a new
-side of ▲小早川＊▲. Maybe it
-wasn't all bad.</Dialog> 
-          <Dialog>Oh, yeah, .... they like
-things, don't they？</Dialog>
+          <Dialog>I knew it...</Dialog>
+          <Dialog>But I got to see a new side 
+of you. Maybe it wasn't all 
+that bad, you know, 
+▲小早川＊▲.</Dialog>
+          <Dialog>I-I see... you have weird 
+tastes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1530,18 +1499,15 @@ things, don't they？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>No need to talk about it.
-.... I was still
-shocked.</Dialog>
+          <Dialog>I don't want to talk about 
+it... I'm still shocked.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>I see, you were crying after
-all. I'm sorry about
-that.</Dialog>
-          <Dialog>It's okay. But from now on,
-it's all about fun,
-right？</Dialog>
-          <Dialog>Yes, yes, be positive.
-Okay.</Dialog>
+          <Dialog>I see, you were crying 
+after all. I'm sorry.</Dialog>
+          <Dialog>Fine. But only fun stuff 
+from here on out, okay？</Dialog>
+          <Dialog>Yes, yes, I have to be 
+positive. Roger that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1581,17 +1547,15 @@ Okay.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I knew I was in for a
-shock.</Dialog>
+          <Dialog>I'm still shocked.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>I knew it: .... I'm really
+          <Dialog>I knew it... I'm really 
 sorry.</Dialog>
-          <Dialog>But that's enough. There's
-no point in dragging it
-out.</Dialog>
-          <Dialog>Thanks.  I'll get back on
-track and get back to my
-normal self.</Dialog>
+          <Dialog>But that's enough. There's 
+no point in dragging it out.</Dialog>
+          <Dialog>...Thanks. Rinko will get 
+back on track and get back 
+to her usual self.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1645,23 +1609,18 @@ normal self.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Kohayakawa</Dialog>
-          <Dialog>Let me ask you this: ....
-Rinko, would you be happier
-if you were a better
-cook？</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Let me ask you this... 
+would you be happier if 
+Rinko cooked better？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Why？</Dialog> 
-          <Dialog>Actually, I really forced
-myself to eat
-it....</Dialog>
-          <Dialog>Yeah....</Dialog> 
-          <Dialog>Being a good cook is
-better.</Dialog>
-          <Dialog>Normal is fine, isn't
-it？</Dialog>
-          <Dialog>You can be bad at
-it.</Dialog>
+          <Dialog>Why？</Dialog>
+          <Dialog>I'm actually forcing myself 
+to eat and stuff... Come on.</Dialog>
+          <Dialog>Well...</Dialog>
+          <Dialog>It'd be better if you do</Dialog>
+          <Dialog>Normal is fine, right？</Dialog>
+          <Dialog>I don't care if you're bad</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1701,16 +1660,17 @@ it.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-    <Dialog>Of course it's better to be
-good, though.</Dialog>
+          <Dialog>Well, of course it's better 
+to be good at it.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>.... did you think it wasn't
-good？</Dialog>
-          <Dialog>Not really, but it's a
-matter of degree.</Dialog> 
-          <Dialog>I see, ...., I get it. I'll
-try my best to make it
-better. Hehe.</Dialog>
+          <Dialog>...Did you think it wasn't 
+delicious？</Dialog>
+          <Dialog>Not that I'm saying that, 
+but it's a matter of taste. 
+The tastier the better.</Dialog>
+          <Dialog>I see... I understand. 
+Well, I'll try my best to 
+make it better. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1750,17 +1710,16 @@ better. Hehe.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Normal is fine,
-right？</Dialog>
+          <Dialog>Isn't it okay to be normal？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Why？　It's better to taste
-good, right？</Dialog>
-          <Dialog>If it's ▲小早川＊▲'s cooking,
-I'm confident  anything will
-taste good.</Dialog>
-          <Dialog>This sounds kind of
-contradictory, but ....
-well, thanks.</Dialog>
+          <Dialog>Why？　It's better when it 
+tastes good, right？</Dialog>
+          <Dialog>I'm confident that I can 
+eat anything delicious it 
+it's cooked by you, 
+▲小早川＊▲.</Dialog>
+          <Dialog>That's kind of sophomoric, 
+but... it's fine, thanks.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1800,16 +1759,16 @@ well, thanks.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>It's okay if you're not good
-at it.</Dialog>
+          <Dialog>I don't care if you're bad.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Really？　You might end up
-making something amazing.　In
-a bad way.</Dialog>
-          <Dialog>That's when love is tested,
-right！</Dialog>
-          <Dialog>Thanks for following me
-....</Dialog> 
+          <Dialog>Really？　Maybe I'll make 
+something awesome one of 
+these days, you know？　
+In a bad way.</Dialog>
+          <Dialog>That's when love is put to 
+the test, I guess！</Dialog>
+          <Dialog>I don't know if this is a 
+follow-up... thanks anyway.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

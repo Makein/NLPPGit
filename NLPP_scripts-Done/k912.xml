@@ -17,8 +17,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>People can see
-you...</Dialog>
+          <Dialog>People can see us...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -38,8 +37,7 @@ you...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>People can see
-you...</Dialog>
+          <Dialog>People can see us...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -59,8 +57,7 @@ you...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>People can see
-you...</Dialog>
+          <Dialog>People can see us...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -86,10 +83,10 @@ you...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Okay, let's do some gentle
-skinship)</Dialog>
-          <Dialog>(Okay, let's play a little
-trick)</Dialog>
+          <Dialog>(Okay, let's do skinship 
+gently)</Dialog>
+          <Dialog>(Okay, let's play a little 
+prank)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -109,10 +106,10 @@ trick)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Okay, let's do some gentle
-skinship)</Dialog>
-          <Dialog>(Okay, let's play a little
-trick)</Dialog>
+          <Dialog>(Okay, let's do skinship 
+gently)</Dialog>
+          <Dialog>(Okay, let's play a little 
+prank)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -132,10 +129,10 @@ trick)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Okay, let's do some gentle
-skinship)</Dialog>
-          <Dialog>(Okay, let's play a little
-trick)</Dialog>
+          <Dialog>(Okay, let's do skinship 
+gently)</Dialog>
+          <Dialog>(Okay, let's play a little 
+prank)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -156,8 +153,7 @@ trick)</Dialog>
         <Dialogs>
           <Dialog>Rinko</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>The message number is
-different.</Dialog>
+          <Dialog>Wrong message number.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -196,8 +192,7 @@ different.</Dialog>
         <Dialogs>
           <Dialog>Rinko</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>The message number is
-different</Dialog>
+          <Dialog>Wrong message number.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -236,8 +231,7 @@ different</Dialog>
         <Dialogs>
           <Dialog>Rinko</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>The message number is
-different.</Dialog>
+          <Dialog>Wrong message number.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -276,8 +270,7 @@ different.</Dialog>
         <Dialogs>
           <Dialog>Rinko</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>The message number is
-different.</Dialog>
+          <Dialog>Wrong message number.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -619,40 +612,36 @@ different.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Kya.</Dialog>
+          <Dialog>Kyaa.</Dialog>
           <Dialog>Ah.</Dialog>
           <Dialog>Nya！</Dialog>
-          <Dialog>Hiccup！</Dialog>
-          <Dialog>Hmm？</Dialog>.
-          <Dialog>Wow.</Dialog> 
+          <Dialog>Hiya！</Dialog>
+          <Dialog>Yes？</Dialog>
+          <Dialog>Wow.</Dialog>
           <Dialog>Hmm.</Dialog>
-          <Dialog>Sigh.</Dialog> 
-          <Dialog>Huh？</Dialog> 
-          <Dialog>Huh？</Dialog> 
-          <Dialog>Huh.</Dialog> 
-          <Dialog>What？</Dialog> 
-          <Dialog>Yes.</Dialog> 
-          <Dialog>Huh.</Dialog>
+          <Dialog>Kyaa.</Dialog>
+          <Dialog>Huh？</Dialog>
+          <Dialog>See.</Dialog>
+          <Dialog>Hah.</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>Yes.</Dialog>
           <Dialog>Hmm.</Dialog>
-          <Dialog>Huh？</Dialog> 
-          <Dialog>Yeah.</Dialog> 
-          <Dialog>Yeah.</Dialog> 
-          <Dialog>Whoa.</Dialog> 
-          <Dialog>Oh no！</Dialog>
-          <Dialog>Hmm, that was ....</Dialog>
-          <Dialog>Oh, ...., it's nothing.
-</Dialog>
-          <Dialog>Ugh, don't look....</Dialog>
-          <Dialog>I don't want to... .... but,
-a little, just for a
-minute...</Dialog>
-          <Dialog>No more ....</Dialog> 
-          <Dialog>Oh, no！</Dialog>
-          <Dialog>Wow, .... surprised
-me.</Dialog>
-          <Dialog>Hmm, that.</Dialog> 
-          <Dialog>Oh, that might be bad
-....</Dialog>
+          <Dialog>Hmm.</Dialog>
+          <Dialog>Huh？</Dialog>
+          <Dialog>Here.</Dialog>
+          <Dialog>No.</Dialog>
+          <Dialog>Hey.</Dialog>
+          <Dialog>Geez！</Dialog>
+          <Dialog>Hmm, now that's...</Dialog>
+          <Dialog>Ah... it's nothing.</Dialog>
+          <Dialog>Ugh... don't look at me.</Dialog>
+          <Dialog>I don't want that... just a 
+little, though.</Dialog>
+          <Dialog>No more...</Dialog>
+          <Dialog>No, geez！</Dialog>
+          <Dialog>Wow... that surprised me.</Dialog>
+          <Dialog>Hmm, that.</Dialog>
+          <Dialog>Oh, it could be bad...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -952,40 +941,36 @@ me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Kya.</Dialog>
+          <Dialog>Kyaa.</Dialog>
           <Dialog>Ah.</Dialog>
           <Dialog>Nya！</Dialog>
-          <Dialog>Hiccup！</Dialog>
-          <Dialog>Hmm？</Dialog>.
-          <Dialog>Wow.</Dialog> 
+          <Dialog>Hiya！</Dialog>
+          <Dialog>Yes？</Dialog>
+          <Dialog>Wow.</Dialog>
           <Dialog>Hmm.</Dialog>
-          <Dialog>Sigh.</Dialog> 
-          <Dialog>Huh？</Dialog> 
-          <Dialog>Huh？</Dialog> 
-          <Dialog>Huh.</Dialog> 
-          <Dialog>What？</Dialog> 
-          <Dialog>Yes.</Dialog> 
-          <Dialog>Huh.</Dialog>
+          <Dialog>Kyaa.</Dialog>
+          <Dialog>Huh？</Dialog>
+          <Dialog>See.</Dialog>
+          <Dialog>Hah.</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>Yes.</Dialog>
           <Dialog>Hmm.</Dialog>
-          <Dialog>Huh？</Dialog> 
-          <Dialog>Yeah.</Dialog> 
-          <Dialog>Yeah.</Dialog> 
-          <Dialog>Whoa.</Dialog> 
-          <Dialog>Oh no！</Dialog>
-          <Dialog>Hmm, that was ....</Dialog>
-          <Dialog>Oh, ...., it's nothing.
-</Dialog>
-          <Dialog>Ugh, don't look....</Dialog>
-          <Dialog>I don't want to... .... but,
-a little, just for a
-minute...</Dialog>
-          <Dialog>No more ....</Dialog> 
-          <Dialog>Oh, no！</Dialog>
-          <Dialog>Wow, .... surprised
-me.</Dialog>
-          <Dialog>Hmm, that.</Dialog> 
-          <Dialog>Oh, that might be bad
-....</Dialog>
+          <Dialog>Hmm.</Dialog>
+          <Dialog>Huh？</Dialog>
+          <Dialog>Here.</Dialog>
+          <Dialog>No.</Dialog>
+          <Dialog>Hey.</Dialog>
+          <Dialog>Geez！</Dialog>
+          <Dialog>Hmm, now that's...</Dialog>
+          <Dialog>Ah... it's nothing.</Dialog>
+          <Dialog>Ugh... don't look at me.</Dialog>
+          <Dialog>I don't want that... just a 
+little, though.</Dialog>
+          <Dialog>No more...</Dialog>
+          <Dialog>No, geez！</Dialog>
+          <Dialog>Wow... that surprised me.</Dialog>
+          <Dialog>Hmm, that.</Dialog>
+          <Dialog>Oh, it could be bad...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1285,40 +1270,36 @@ me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Kya.</Dialog>
+          <Dialog>Kyaa.</Dialog>
           <Dialog>Ah.</Dialog>
           <Dialog>Nya！</Dialog>
-          <Dialog>Hiccup！</Dialog>
-          <Dialog>Hmm？</Dialog>.
-          <Dialog>Wow.</Dialog> 
+          <Dialog>Hiya！</Dialog>
+          <Dialog>Yes？</Dialog>
+          <Dialog>Wow.</Dialog>
           <Dialog>Hmm.</Dialog>
-          <Dialog>Sigh.</Dialog> 
-          <Dialog>Huh？</Dialog> 
-          <Dialog>Huh？</Dialog> 
-          <Dialog>Huh.</Dialog> 
-          <Dialog>What？</Dialog> 
-          <Dialog>Yes.</Dialog> 
-          <Dialog>Huh.</Dialog>
+          <Dialog>Kyaa.</Dialog>
+          <Dialog>Huh？</Dialog>
+          <Dialog>See.</Dialog>
+          <Dialog>Hah.</Dialog>
+          <Dialog>What？</Dialog>
+          <Dialog>Yes.</Dialog>
           <Dialog>Hmm.</Dialog>
-          <Dialog>Huh？</Dialog> 
-          <Dialog>Yeah.</Dialog> 
-          <Dialog>Yeah.</Dialog> 
-          <Dialog>Whoa.</Dialog> 
-          <Dialog>Oh no！</Dialog>
-          <Dialog>Hmm, that was ....</Dialog>
-          <Dialog>Oh, ...., it's nothing.
-</Dialog>
-          <Dialog>Ugh, don't look....</Dialog>
-          <Dialog>I don't want to... .... but,
-a little, just for a
-minute...</Dialog>
-          <Dialog>No more ....</Dialog> 
-          <Dialog>Oh, no！</Dialog>
-          <Dialog>Wow, .... surprised
-me.</Dialog>
-          <Dialog>Hmm, that.</Dialog> 
-          <Dialog>Oh, that might be bad
-....</Dialog>
+          <Dialog>Hmm.</Dialog>
+          <Dialog>Huh？</Dialog>
+          <Dialog>Here.</Dialog>
+          <Dialog>No.</Dialog>
+          <Dialog>Hey.</Dialog>
+          <Dialog>Geez！</Dialog>
+          <Dialog>Hmm, now that's...</Dialog>
+          <Dialog>Ah... it's nothing.</Dialog>
+          <Dialog>Ugh... don't look at me.</Dialog>
+          <Dialog>I don't want that... just a 
+little, though.</Dialog>
+          <Dialog>No more...</Dialog>
+          <Dialog>No, geez！</Dialog>
+          <Dialog>Wow... that surprised me.</Dialog>
+          <Dialog>Hmm, that.</Dialog>
+          <Dialog>Oh, it could be bad...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1556,11 +1537,9 @@ me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-       	  <Dialog>Touch Skinship</Dialog>
-          <Dialog>Once again, from the load
-point</Dialog>
-          <Dialog>Once again, after the load
-point</Dialog>
+          <Dialog>Touch skinship</Dialog>
+          <Dialog>From the load</Dialog>
+          <Dialog>After loading</Dialog>
           <Dialog>Quit</Dialog>
           <Dialog>SKINSHIP_RET_UNINITIALIZE</Dialog>
           <Dialog>SKINSHIP_RET_IDLE</Dialog>
@@ -1573,9 +1552,8 @@ point</Dialog>
           <Dialog>SKINSHIP_RET_CHANGE_SITUATION</Dialog>
           <Dialog>SKINSHIP_RET_END</Dialog>
           <Dialog>SKINSHIP_RET_OTHER</Dialog>
-          <Dialog>Standing Face to
-Face</Dialog>
-          <Dialog>Lying Down</Dialog>
+          <Dialog>Face-to-face</Dialog>
+          <Dialog>Lying down</Dialog>
           <Dialog>Moving conversation</Dialog>
         </Dialogs>
       </SDL2>
@@ -1631,25 +1609,13 @@ Face</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Skinship at any
-time</Dialog>
-          <Dialog>Standing face-to-face
-conversation (during dating
-and normal
-conversation)</Dialog>
-          <Dialog>Sitting face-to-face
-(face-to-face
-conversation)</Dialog>
-          <Dialog>Side-to-side conversation
-(during travel to and from
-school, etc.)</Dialog>
-          <Dialog>Sitting conversation (when
-sitting sideways, such as on
-a date)</Dialog>
-          <Dialog>From the beginning
-again</Dialog>
-          <Dialog>Take over and try
-again</Dialog>
+          <Dialog>Skinship anytime</Dialog>
+          <Dialog>Face-to-face(during a date)</Dialog>
+          <Dialog>Sitting(face-to-face)</Dialog>
+          <Dialog>Sideways(to and from school)</Dialog>
+          <Dialog>Sideways(sitting)</Dialog>
+          <Dialog>From the beginning</Dialog>
+          <Dialog>Take over and try again</Dialog>
           <Dialog>Quit</Dialog>
           <Dialog>Next</Dialog>
         </Dialogs>

@@ -31,18 +31,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-       	  <Dialog>Rinko</Dialog>
-       	  <Dialog>You didn't do so well on the
-test last time, did you？　I
-think it might help if we
-study together. .... What do
+          <Dialog>Rinko</Dialog>
+          <Dialog>You didn't do so well on 
+your last test, did you？　
+I think it might help if we 
+study together... What do 
 you think？</Dialog>
-       	  <Dialog>○○○○○○○○</Dialog>
-       	  <Dialog>Yeah....</Dialog>
-       	  <Dialog>Let's study
-together.</Dialog>
-       	  <Dialog>I'm not going to.
-....</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>Well...</Dialog>
+          <Dialog>Let's study together</Dialog>
+          <Dialog>We should not...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -77,17 +75,15 @@ together.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-	  <Dialog>You said you didn't do so
-well on the test the other
-day. Do you want to have a
-study session with Rinko
+          <Dialog>You said you didn't do so 
+well on the test the other 
+day. Do you want to have a 
+study session with Rinko 
 now？</Dialog>
-	  <Dialog>○○○○○○○○</Dialog>
-	  <Dialog>I'll see what I can
-do.</Dialog>
-	  <Dialog>Yes, let's study</Dialog>
-	  <Dialog>Let's not do it
-today</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>What I should do...</Dialog>
+          <Dialog>Yeah, let's study</Dialog>
+          <Dialog>Not today</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -121,16 +117,15 @@ today</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-       	  <Dialog>Rinko</Dialog>
-       	  <Dialog>It was too bad about your
-last test .... If you want
-to review, why don't we do
-it together now？</Dialog>
-       	  <Dialog>○○○○○○○○</Dialog>
-       	  <Dialog>Hmmm~....</Dialog>
-       	  <Dialog>Good idea</Dialog>
-       	  <Dialog>I'll not doing
-that.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Sorry to hear about your 
+last test... If you're 
+going to review, why don't 
+you join me？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>Hmm...</Dialog>
+          <Dialog>Sounds nice</Dialog>
+          <Dialog>I'll pass</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -150,8 +145,8 @@ that.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-	  <Dialog>Well then, I'll be waiting
-for you at home, so come
+          <Dialog>Well then, I'll be waiting 
+for you at home, so come 
 when you're ready.</Dialog>
         </Dialogs>
       </SDL2>
@@ -171,10 +166,9 @@ when you're ready.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-       	  <Dialog>Rinko</Dialog>
-       	  <Dialog>Okay. Then we'll meet at
-Rinko's house
-later.</Dialog>
+          <Dialog>Rinko</Dialog>
+          <Dialog>Okay. We'll meet up at 
+Rinko's house later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -193,9 +187,9 @@ later.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-       	  <Dialog>Rinko</Dialog>
-       	  <Dialog>It's decided. Come to
-Rinko's house when you're
+          <Dialog>Rinko</Dialog>
+          <Dialog>It's decided. Then come to 
+Rinko's house when you're 
 ready.</Dialog>
         </Dialogs>
       </SDL2>
@@ -216,8 +210,7 @@ ready.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Ok, well... that's
-fine.</Dialog>
+          <Dialog>I see... Well, okay.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -237,8 +230,8 @@ fine.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-	  <Dialog>Hmm. I guess Rinko doesn't
-mind...</Dialog>
+          <Dialog>Hmm. Well, Rinko doesn't 
+mind.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -258,8 +251,8 @@ mind...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>You think so？ Well, whatever
-is fine.</Dialog>
+          <Dialog>Really？　If so, I don't 
+mind...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -284,10 +277,10 @@ is fine.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Did you get here
-right？</Dialog>
+          <Dialog>Did you arrive without 
+trouble？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Oh.</Dialog>
+          <Dialog>Yep.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -314,8 +307,7 @@ right？</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>Welcome.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Sorry for the
-intrusion.</Dialog>
+          <Dialog>Sorry to disturb you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -340,10 +332,9 @@ intrusion.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Wait..</Dialog>
+          <Dialog>I've been waiting for you.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>For some reason, I'm
-nervous.</Dialog>
+          <Dialog>I'm kind of nervous.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -368,10 +359,10 @@ nervous.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-	  <Dialog>Don't look too closely in
-the room, okay？</Dialog>
-	  <Dialog>○○○○○○○○</Dialog>
-	  <Dialog>I'm not looking.</Dialog>
+          <Dialog>Don't stare too much at my 
+room, okay？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>I won't look.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -396,11 +387,11 @@ the room, okay？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Your room is cleaner than I
-thought.</Dialog>
+          <Dialog>I think it's cleaner than 
+your room.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>haha, well... I guess maybe
-it is.</Dialog>
+          <Dialog>Haha, well I guess you're 
+right.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -425,12 +416,11 @@ it is.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Don't look too closely
-around the room,
-ok？</Dialog>
+          <Dialog>Don't look around my room 
+too much, okay？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>But if you say that, it
-makes me want to...</Dialog>
+          <Dialog>That being said, I'm 
+curious...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -455,10 +445,9 @@ makes me want to...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Well, shall we start
-？</Dialog>
+          <Dialog>Well, let's get started.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Okay.</Dialog> 
+          <Dialog>Roger that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -483,10 +472,9 @@ makes me want to...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>So, should we get
-going？</Dialog>
+          <Dialog>Well, is it time to start？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Okay.</Dialog> 
+          <Dialog>Okay.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -511,10 +499,9 @@ going？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Alright, is it ok to
-start？</Dialog>
+          <Dialog>So, can I start...？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Ah.</Dialog>
+          <Dialog>Sure.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -534,8 +521,8 @@ start？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>What subject should we
-do？</Dialog>
+          <Dialog>What subject do you want to 
+study？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -555,8 +542,8 @@ do？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Now, which subject are you
-going to choose？？</Dialog>
+          <Dialog>Well, which subject are you 
+going to take？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -576,8 +563,8 @@ going to choose？？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>What subject do you want to
-study？</Dialog>
+          <Dialog>Which subject would you 
+like to study？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -621,12 +608,12 @@ study？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-	  <Dialog>General</Dialog>
-	  <Dialog>Japanese</Dialog>
-	  <Dialog>Social Studies</Dialog>
-	  <Dialog>Science</Dialog>
-	  <Dialog>Mathematics</Dialog>
-	  <Dialog>English</Dialog>
+          <Dialog>General</Dialog>
+          <Dialog>Japanese</Dialog>
+          <Dialog>Society</Dialog>
+          <Dialog>Science</Dialog>
+          <Dialog>Math</Dialog>
+          <Dialog>English</Dialog>
           <Dialog>▲小早川＊▲</Dialog>
         </Dialogs>
       </SDL2>
@@ -647,8 +634,7 @@ study？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>What is that... you
-idiot.</Dialog>
+          <Dialog>What's that... Idiot.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -668,9 +654,9 @@ idiot.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>You're so persistent. For
-now, let's just do
-General.</Dialog>
+          <Dialog>Geez, you're being too 
+persistent. Let's just 
+start with General.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -690,8 +676,9 @@ General.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Seriously .... Why would you
-want to do that？</Dialog>
+          <Dialog>I can't believe you... 
+Why do you insist on doing 
+that？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -711,8 +698,8 @@ want to do that？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Yes, yes. Ok. That's
-fine....</Dialog>
+          <Dialog>Yes, yes. Well then, that's 
+fine...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -732,8 +719,8 @@ fine....</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>It can't be helped. You are
-spoiled after all.</Dialog>
+          <Dialog>I can't help it... 
+I'm selfish.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -753,7 +740,7 @@ spoiled after all.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Ok, Here.</Dialog>
+          <Dialog>Okay, that's it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -773,7 +760,7 @@ spoiled after all.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Ok, Understood.</Dialog>
+          <Dialog>Yeah, I get it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -793,7 +780,7 @@ spoiled after all.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Ok, Then we will do
+          <Dialog>It's fine. Okay, let's do 
 that.</Dialog>
         </Dialogs>
       </SDL2>
@@ -829,14 +816,14 @@ that.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>That's great. If it's like
-that, then I won't worry. Do
-you want to take a break and
-have some tea？</Dialog>
+          <Dialog>That's great. This seems 
+like a no-brainer. Do you 
+want to take a break for a 
+cup of tea or something？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>That sounds good.</Dialog> 
-           <Dialog>Then, I will prepare it, so
-please wait.</Dialog>
+          <Dialog>Sounds good.</Dialog>
+          <Dialog>Then wait for me while I 
+get ready.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -871,14 +858,13 @@ please wait.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>You're good！　I think I can
-take a break from this for a
-bit, do you want some
-tea？</Dialog>
+          <Dialog>You're doing it！　
+Looks like it's safe to 
+take a little break... 
+do you want some tea？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I agree.</Dialog>
-          <Dialog>Okay. Then wait for
-me.</Dialog> 
+          <Dialog>Agreed.</Dialog>
+          <Dialog>Okay. Then wait for me.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -913,14 +899,13 @@ me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Wow！　It looks like there is
-no problems here, so why
-don't we have some
-tea？</Dialog>
+          <Dialog>Awesome！　This looks fine 
+to me, so why don't we have 
+a tea time around here？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Let's do that.</Dialog> 
-          <Dialog>Yes. I'll go get it
-ready.</Dialog> 
+          <Dialog>Let's do it.</Dialog>
+          <Dialog>Okay. I'm going to get 
+ready.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -940,9 +925,9 @@ ready.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>That's perfect. So, do you
-need a reward for
-....？</Dialog>
+          <Dialog>That's perfect. Then... 
+I need something to reward 
+you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -962,10 +947,9 @@ need a reward for
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>What？　You answered all the
-questions correctly. Then,
-I'll give you a
-reward.</Dialog>
+          <Dialog>What！？　You got all the 
+questions right. Then, I'll 
+give you a reward.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -985,10 +969,9 @@ reward.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Wow, that's great. You
-answered all the questions
-correctly, so I'll give you
-a reward.</Dialog>
+          <Dialog>Wow, that's great. I should 
+reward you for answering 
+all correctly, right？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1023,15 +1006,12 @@ a reward.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Are you tired by any chance？
-Why don't you have a cup of
-tea to refresh
-yourself？</Dialog>
+          <Dialog>Are you tired？　Would you 
+like to have a cup of tea 
+and refresh yourself？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>That would be
-great.</Dialog> 
-          <Dialog>Okay. Then wait for
-me.</Dialog>
+          <Dialog>That would be great.</Dialog>
+          <Dialog>Okay. Then wait for me.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1066,15 +1046,14 @@ me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Oh dear ...., I'm not
-feeling well. Maybe I should
-have a cup of tea to refresh
-myself.</Dialog> 
+          <Dialog>Look at you... you're not 
+doing well. Maybe you 
+should have a cup of tea 
+and refresh yourself.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Yeah, that's right.</Dialog>
-          <Dialog>It can't be helped. I'll go
-get it ready, wait for
-me.</Dialog>
+          <Dialog>Yeah, that might help.</Dialog>
+          <Dialog>I have no choice. I'll go 
+get ready.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1109,14 +1088,13 @@ me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hmmm, .... In times like
-this, we should have a cup
-of tea to refresh
-ourselves.</Dialog>
+          <Dialog>Hmm... In time like this, 
+let's have a cup of tea to 
+refresh ourselves.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>That's a good idea.</Dialog>
-          <Dialog>Decided！　Then I'll hurry up
-and get it ready.</Dialog>
+          <Dialog>I'd like that.</Dialog>
+          <Dialog>Done！　Okay, I'll hurry up 
+and get ready.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1136,10 +1114,11 @@ and get it ready.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>How about your reward ....？
-I got this dress as a gift
-from you. .... Does it look
-good on me？</Dialog>
+          <Dialog>How do you like your 
+reward？　I got this dress 
+as a gift from you... 
+Do you think it looks good 
+on me？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1159,9 +1138,8 @@ good on me？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Yes, a special treat. This
-was a gift from
-you.</Dialog>
+          <Dialog>Okay, a special treat. 
+You gave me this as a gift.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1181,10 +1159,10 @@ you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Yes .... it's a reward. The
-clothes you picked out for
-me .... does it look good on
-me？</Dialog>
+          <Dialog>Yes... it's a reward. 
+The clothes you picked out 
+for me... will they look 
+good on me？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1204,10 +1182,9 @@ me？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>A little too much ....
-service？　Because I rarely
-wear something like
-this.</Dialog>
+          <Dialog>Isn't this a little too 
+much... service？　I rarely 
+wear something like this.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1227,10 +1204,9 @@ this.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Yes, a special service.
-You're the only one who gets
-to see me dressed like
-this.</Dialog>
+          <Dialog>Yes, this a special treat. 
+You're the only one who can 
+see me like this.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1250,9 +1226,9 @@ this.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>This is my reward. ....
-Don't laugh, okay？　I'm
-really embarrassed.</Dialog>
+          <Dialog>It's your reward... 
+don't laugh, okay？　
+I'm really embarrassed.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1272,9 +1248,8 @@ really embarrassed.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Well, I'll let you take a
-special .... photo
-today.</Dialog>
+          <Dialog>Well, today is special... 
+I'll let you take a photo.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1294,9 +1269,9 @@ today.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>I'll give you a photo
-session to commemorate the
-event. ....</Dialog>
+          <Dialog>I'll give you a photo 
+session to commemorate the 
+event...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1316,9 +1291,8 @@ event. ....</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>What will you do？　Take a
-picture or
-something？</Dialog>
+          <Dialog>What are you gonna do？　
+Take pictures or something？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1358,17 +1332,14 @@ something？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Sorry for the way. So,.... I
-made this, do you want
-some？</Dialog>
+          <Dialog>Sorry to make you wait. 
+You know... I made this, do 
+you want some？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Oh！　I'll eat it, I'll eat
-it！</Dialog> 
-          <Dialog>I can't vouch for the taste,
-but here you are
-....</Dialog> 
-          <Dialog>Thanks for the
-food！</Dialog>
+          <Dialog>Yeah！　I wanna try it.</Dialog>
+          <Dialog>I can't guarantee the 
+taste, but... go ahead.</Dialog>
+          <Dialog>Thank you. Bon appetit！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1408,16 +1379,17 @@ food！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Sorry for the wait. While
-you're here, I made this...
-would you like to try
+          <Dialog>Thanks for waiting. By the 
+way, I made something like 
+this, would you like to try 
 it？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Oh, thanks.</Dialog>
-          <Dialog>It's not necessarily
-good...</Dialog>
-          <Dialog>If it's made by▲小早川＊▲, it
-must be delicious.</Dialog>
+          <Dialog>Yeah, thank you.</Dialog>
+          <Dialog>It doesn't always taste 
+good.</Dialog>
+          <Dialog>If it's made by you, it 
+must be really delicious, 
+▲小早川＊▲.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1457,17 +1429,16 @@ must be delicious.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Sorry for the wait. Hey, I
-don't know if this is tasty,
-but I made it .... Do you
-want to try it？</Dialog>
+          <Dialog>Sorry to keep you waiting. 
+Hey, I don't know if this 
+is palatable, but... I made 
+it. Would you like to try 
+it？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>That's great. Of course I'll
-eat it.</Dialog>
-          <Dialog>I hope it's good.
-....</Dialog> 
-          <Dialog>Thanks for the
-food！</Dialog>
+          <Dialog>That's great. Of course 
+I'll eat it.</Dialog>
+          <Dialog>I hope it's delicious...</Dialog>
+          <Dialog>Bon appetit.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1497,10 +1468,10 @@ food！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Now, is it time to
-continue？</Dialog> 
-          <Dialog>Should we？</Dialog>
-          <Dialog>Let's stop now.</Dialog>
+          <Dialog>Now, are you ready to 
+continue？</Dialog>
+          <Dialog>Let's do that</Dialog>
+          <Dialog>I'll stop now</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1530,11 +1501,10 @@ continue？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Well, I think it's time to
-get back to studying, don't
-you？</Dialog>
-          <Dialog>Yes, we should</Dialog>
-          <Dialog>I quit</Dialog>
+          <Dialog>Now then, shouldn't we go 
+back to studying now？</Dialog>
+          <Dialog>That's right</Dialog>
+          <Dialog>I'm done</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1564,11 +1534,11 @@ you？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Look, don't you think it's
-time to continue your
+          <Dialog>Hey, don't you think it's 
+time to continue your 
 studies？</Dialog>
-          <Dialog>That's right</Dialog>
-          <Dialog>I'll call it a day</Dialog>
+          <Dialog>Right</Dialog>
+          <Dialog>I'll stop today</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1593,11 +1563,11 @@ studies？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I guess so. Let's get back
-to studying.</Dialog>
+          <Dialog>Right. Let's go back to 
+studying.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Yes. We've refreshed
-ourselves.</Dialog> 
+          <Dialog>Yeah, I know. You must have 
+refreshed yourself.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1622,13 +1592,12 @@ ourselves.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I'm done for the
-day.</Dialog>
+          <Dialog>I'm not going to do this 
+anymore today.</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Really？　Well, it's been
-longer than I thought, so I
-guess we should
-finish...</Dialog>
+          <Dialog>Yeah？　Well, it's been 
+longer than I thought... 
+I guess we'll do that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

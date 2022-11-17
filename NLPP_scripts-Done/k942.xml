@@ -28,8 +28,7 @@
         <Dialogs>
           <Dialog>Rinko</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>The message number is
-different.</Dialog>
+          <Dialog>Wrong message number...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -180,35 +179,32 @@ different.</Dialog>
         <Dialogs>
           <Dialog>Rinko</Dialog>
           <Dialog>Normal</Dialog>
-          <Dialog>Laughing</Dialog>
-          <Dialog>Angry</Dialog>
+          <Dialog>Laugh</Dialog>
+          <Dialog>Anger</Dialog>
           <Dialog>Sad</Dialog>
           <Dialog>Fun</Dialog>
-          <Dialog>Surprised</Dialog>
+          <Dialog>Surprise</Dialog>
           <Dialog>Troubled</Dialog>
-          <Dialog>Crushed</Dialog>
-          <Dialog>Shy Laugh</Dialog>
-          <Dialog>Blushing Angry</Dialog>
+          <Dialog>Thrilled</Dialog>
+          <Dialog>Laughing</Dialog>
+          <Dialog>Angry</Dialog>
           <Dialog>Embarrassed</Dialog>
-          <Dialog>Blushing surprised</Dialog>
-          <Dialog>Blushing Fun</Dialog>
-          <Dialog>Fearful
-Embarrassment</Dialog>
-          <Dialog>Easy Smile</Dialog>
-          <Dialog>Fixed Smiling Face</Dialog>
-          <Dialog>Kissing Face</Dialog>
-          <Dialog>Half Kissing Face</Dialog>
-          <Dialog>Kissing Face (Eyes
-Closed)</Dialog>
-          <Dialog>Normal Closed</Dialog>
-          <Dialog>Troubled Closed</Dialog>
-          <Dialog>Angry Closed</Dialog>
-          <Dialog>Crushed Closed</Dialog>
-          <Dialog>Embarrassed Closed</Dialog>
-          <Dialog>Smiling Face</Dialog>
-          <Dialog>Blushing Cheek Smiling
-Face</Dialog>
-          <Dialog>Stubborn Face</Dialog>
+          <Dialog>Surprised</Dialog>
+          <Dialog>Fun face</Dialog>
+          <Dialog>Fidgety</Dialog>
+          <Dialog>Embarrassed grin</Dialog>
+          <Dialog>Fixed smile</Dialog>
+          <Dialog>Kissing face</Dialog>
+          <Dialog>Half kissing face</Dialog>
+          <Dialog>Kissing face(closed eyes)</Dialog>
+          <Dialog>Closed eyes</Dialog>
+          <Dialog>Distressed</Dialog>
+          <Dialog>Enraged</Dialog>
+          <Dialog>Thrilled</Dialog>
+          <Dialog>Embarrassed</Dialog>
+          <Dialog>Smiling</Dialog>
+          <Dialog>Embarrassed smile</Dialog>
+          <Dialog>Worried smile</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

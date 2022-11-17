@@ -98,24 +98,24 @@
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>▲主人公＊▲. Come in.</Dialog>
+          <Dialog>Come in, 
+▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Thanks for having me over.</Dialog>
-          <Dialog>Hehe. Hurry！ Hurry！</Dialog>
-          <Dialog>You know, I was actually
-looking forward to you
-visiting me.</Dialog>
-          <Dialog>I wasn't sure if you'd come
-today. It's been kind of
-cold lately.</Dialog>
-          <Dialog>It feels like it's been a
-long time since I've been
-here.</Dialog>
-          <Dialog>It's true. Why don't you
-come here more often？</Dialog>
-          <Dialog>It's the same in this room,
-too.</Dialog>
-          <Dialog>Yeah？ You know what I mean.</Dialog>
+          <Dialog>Thank you for having me.</Dialog>
+          <Dialog>Hehe, it's exciting.</Dialog>
+          <Dialog>You know, I was actually 
+looking forward to your 
+arrival.</Dialog>
+          <Dialog>I wasn't sure you were 
+coming today. It's been 
+kind of cold lately.</Dialog>
+          <Dialog>I feel like it's been a 
+while since I've been here.</Dialog>
+          <Dialog>That's true. You should 
+come more often.</Dialog>
+          <Dialog>This room is the same as 
+always.</Dialog>
+          <Dialog>Really？　I feel the same.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -170,15 +170,17 @@ too.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>It's pretty long…</Dialog>
-          <Dialog>At least it's starting to
-look like that.</Dialog>
-          <Dialog>Rinko wonders if it's only
-just the beginning.</Dialog>
+          <Dialog>It's quite long...</Dialog>
+          <Dialog>It's starting to finally 
+look like it.</Dialog>
+          <Dialog>I wonder if this is just 
+the beginning for Rinko and 
+her friend.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>What are you talking about？</Dialog>
-          <Dialog>The length of time we've
-been dating.</Dialog>
+          <Dialog>I'm talking about the 
+length of time since Rinko 
+has been dating you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -278,31 +280,31 @@ been dating.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>I see. I wonder what
-happened…？</Dialog>
+          <Dialog>I see. Let's see what we 
+got here...</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hmm, what… kind of places
-have we gone on dates？</Dialog>
-          <Dialog>I've been to all the places
-I could get to around here,
-I guess.</Dialog>
-          <Dialog>I think we've been
-everywhere we can go.</Dialog>
-          <Dialog>I haven't been there much.
-Let's go exploring！</Dialog>
-          <Dialog>We made a lot of memories,
-didn't we？ There are so
-many, but Rinko remembers
-all of them.</Dialog>
-          <Dialog>I've done a lot, but I
-think it's still possible.
-It depends on when you go
-somewhere we've been again.</Dialog>
-          <Dialog>Let's go to more places. I
-want to make more memories.</Dialog>
-          <Dialog>I'd say we haven't made
-enough memories. I want to
-make so many more！</Dialog>
+          <Dialog>Hmm, a date... What kind of 
+place did we go？</Dialog>
+          <Dialog>We've been to all the 
+places you could get to 
+around here, probably.</Dialog>
+          <Dialog>Didn't we really go to most 
+of these places？</Dialog>
+          <Dialog>I haven't been there much. 
+We should go explore.</Dialog>
+          <Dialog>We made a lot of memories. 
+There are many, but Rinko 
+remembers them all.</Dialog>
+          <Dialog>We've done a lot of things, 
+but can we still go？　
+Even if it's the same 
+place, it depends on when 
+we go.</Dialog>
+          <Dialog>Let's go to more places. 
+We have to make more 
+memories.</Dialog>
+          <Dialog>Not enough memories. I want 
+to do more！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -446,33 +448,35 @@ make so many more！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Well, we do more than just
-date. I mean, we're lovers.</Dialog>
+          <Dialog>Well, we can do more than 
+just go on dates. You know, 
+we're lovers.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>What？</Dialog>
-          <Dialog>I don't know. The… whole
-kissing thing.</Dialog>
-          <Dialog>The reason Rinko is like
-this is because you do so
-much.</Dialog>
-          <Dialog>I've done that much…？</Dialog>
-          <Dialog>But it's not enough. As
-lovers, anyway.</Dialog>
-          <Dialog>But if we don't do it too
-often, I get worried…</Dialog>
-          <Dialog>And then there's those long
-ones. And the times we
-can't stop…
-haha…</Dialog>
-          <Dialog>And then there's those long
-ones. When I remembered…
-Oh, my gosh！</Dialog>
-          <Dialog>Rinko's done it so much…</Dialog>
-          <Dialog>I'm sure I've done it many
-times before…</Dialog>
-          <Dialog>（I'm starting to get
-nervous just listening to
-this…）</Dialog>
+          <Dialog>You know what I mean... 
+kissing.</Dialog>
+          <Dialog>Rinko has become like this 
+because you do so much.</Dialog>
+          <Dialog>We've done it so many 
+times...</Dialog>
+          <Dialog>But, you know, it's not 
+enough. As lovers.</Dialog>
+          <Dialog>But if you don't do it so 
+frequently, I'll get 
+worried...</Dialog>
+          <Dialog>And, you know, long kisses 
+would be nice. And do it 
+many times... Haha...</Dialog>
+          <Dialog>And, you know, long kisses 
+would be nice. 
+Just remembering it... 
+Geez！</Dialog>
+          <Dialog>You've been doing it with 
+Rinko many times...</Dialog>
+          <Dialog>How many times have you 
+kissed Rinko now...？</Dialog>
+          <Dialog>(I'm getting nervous just 
+listening to her...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -579,31 +583,28 @@ this…）</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Come to think of it…
-▲小早川＊▲, is there
-anything you want to do
-together？</Dialog>
+          <Dialog>By the way... Is there 
+anything you wanna do, 
+▲小早川＊▲？</Dialog>
           <Dialog>Rinko</Dialog>
-          <Dialog>That came out of nowhere.
-What？</Dialog>
-          <Dialog>Yeah. I wonder if it's
-going to be a special
-memory…</Dialog>
-          <Dialog>I want to… go on a trip.
-You know… like do
-something that you'd have
-to stay overnight for.</Dialog>
-          <Dialog>I want to… go on a trip.</Dialog>
-          <Dialog>I want to go on a trip.
-Just the two of us.</Dialog>
-          <Dialog>To go on a trip… Just the
-two of us？</Dialog>
-          <Dialog>… It's obvious.</Dialog>
-          <Dialog>Well, that was fun, wasn't
-it？</Dialog>
-          <Dialog>Yeah. That's why I want to
-go back.</Dialog>
-          <Dialog>（Travel or…）</Dialog>
+          <Dialog>What are you saying so 
+suddenly？</Dialog>
+          <Dialog>I'm sure it's not. I was 
+wondering if you wanted to 
+create memories...</Dialog>
+          <Dialog>...I want to go on a trip. 
+For example... well, 
+staying overnight or 
+something.</Dialog>
+          <Dialog>...I want to go on a trip.</Dialog>
+          <Dialog>I want to go on a trip. 
+Just the two of us again.</Dialog>
+          <Dialog>A trip... Just the two of 
+us, right？</Dialog>
+          <Dialog>...Obviously.</Dialog>
+          <Dialog>I see, we really had fun.</Dialog>
+          <Dialog>Yeah. So I want to go again.</Dialog>
+          <Dialog>(A trip, huh...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -685,25 +686,24 @@ go back.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>▲主人公＊▲. You chose it,
-so take a good look at my
-swimsuit.</Dialog>
+          <Dialog>You chose it, so take a 
+look at my swimsuit, 
+▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Oh, yeah！ That looks good
-on you, ▲小早川＊▲！！</Dialog>
-          <Dialog>Hehe！</Dialog>
-          <Dialog>（Something like that…）</Dialog>
-          <Dialog>Do you really like me in
-this？ Isn't that kind of
-perverted？</Dialog>
-          <Dialog>Not at all！ This just makes
-you look doubly as good,
+          <Dialog>Oh, sure！　Nice one, it 
+really looks good on you, 
 ▲小早川＊▲！！</Dialog>
-          <Dialog>Okay, I'll take the
-compliment. I don't feel
-bad about it.</Dialog>
-          <Dialog>（You just take my breath
-away…）</Dialog>
+          <Dialog>Hehe！</Dialog>
+          <Dialog>(Something like this...)</Dialog>
+          <Dialog>You really like this kind 
+of thing？　Don't you think 
+it's kind of perverted？</Dialog>
+          <Dialog>Of course not！　
+This doubles your charm, 
+▲小早川＊▲！！</Dialog>
+          <Dialog>Yes, yes, I feel flattered. 
+Don't feel bad for it.</Dialog>
+          <Dialog>(A thing like that...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -781,19 +781,17 @@ away…）</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>I'm going to take a bath.
-… No peeking.</Dialog>
+          <Dialog>I'm going to take a bath... 
+Don't peek.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Of course not！</Dialog>
-          <Dialog>Phew！ Good. …
-Really, though. Don't peek！ </Dialog>
-          <Dialog>（Do I make you feel that
-uneasy about me？）</Dialog>
+          <Dialog>Hmm... Really, don't peek！</Dialog>
+          <Dialog>(Why do you...)</Dialog>
           <Dialog>I'm going to take a bath.</Dialog>
-          <Dialog>Oh, go ahead. Enjoy your
-bath.</Dialog>
-          <Dialog>… Come in with me？</Dialog>
-          <Dialog>（That was unexpected…）</Dialog>
+          <Dialog>Yeah, go ahead.</Dialog>
+          <Dialog>...Wanna join me？</Dialog>
+          <Dialog>(This is as good as it 
+gets...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -880,20 +878,19 @@ bath.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>▲主人公＊▲. I'm up.</Dialog>
+          <Dialog>I'm out, ▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲！？　Y-your outfit…！</Dialog>
-          <Dialog>Well, yeah. I've just
-finished taking a bath.</Dialog>
-          <Dialog>（Are you serious？）</Dialog>
+          <Dialog>▲小早川＊▲！？　That outfit...</Dialog>
+          <Dialog>I'm coming off the batch, 
+it can't be helped.</Dialog>
+          <Dialog>(No way, is that possible？)</Dialog>
           <Dialog>▲小早川＊▲～？</Dialog>
-          <Dialog>You idiot！ Get out of here！</Dialog>
-          <Dialog>Whoa！ I'm sorry！</Dialog>
-          <Dialog>Do you want to… you know.
-Join me or something？ I
-don't mind.</Dialog>
-          <Dialog>（No！ No！ What the hell are
-you thinking…）</Dialog>
+          <Dialog>Kyaa～！　Don't come in, you 
+idiot！</Dialog>
+          <Dialog>Whoa！　S-Sorry！</Dialog>
+          <Dialog>...Do you want to join me？　
+I don't mind.</Dialog>
+          <Dialog>(No！　What am I thinking...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -928,11 +925,11 @@ you thinking…）</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hey. Come back here.</Dialog>
+          <Dialog>Hey, come back.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Whoa！ Haha, it's nothing.</Dialog>
-          <Dialog>I was definitely thinking
-about something weird.</Dialog>
+          <Dialog>Whoa！　Haha, it's nothing.</Dialog>
+          <Dialog>You definitely had weird 
+thoughts.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -980,13 +977,13 @@ about something weird.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>Hey, you know what？ That
-game I've been plaing…</Dialog>
+          <Dialog>You know what？　There's a 
+game I'm into lately.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>What's that？ A game system？</Dialog>
-          <Dialog>No, it's not. Pazurudama is
-a puzzle game.</Dialog>
-          <Dialog>Alright. I'll try it next
+          <Dialog>Is it a fighting game？</Dialog>
+          <Dialog>Wrong. Puzzle-dama is a 
+puzzle game. </Dialog>
+          <Dialog>I see, I'll try it next 
 time.</Dialog>
         </Dialogs>
       </SDL2>
@@ -1086,18 +1083,21 @@ time.</Dialog>
           <Dialog>▲主人公＊▲。</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm？</Dialog>
-          <Dialog>Well, err… Can Rinko
-continue to be your
+          <Dialog>You know, from now on... 
+Is it okay for Rinko to 
+continue being your 
 girlfriend？</Dialog>
           <Dialog>Of course！</Dialog>
-          <Dialog>There's no telling what the
-future holds…</Dialog>
-          <Dialog>Well…</Dialog>
-          <Dialog>Yeah… Rinko will do her
+          <Dialog>We don't know what the 
+future holds</Dialog>
+          <Dialog>Um...</Dialog>
+          <Dialog>Yeah... Rinko will do her 
 best.</Dialog>
-          <Dialog>That's true. But Rinko will
-let you figure that out.</Dialog>
-          <Dialog>Say something clever！ I can't help it anymore.</Dialog>
+          <Dialog>That's right. Well, it's 
+fine, Rinko will keep on 
+going.</Dialog>
+          <Dialog>Say something witty！　
+Geez, I can't help it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1126,9 +1126,10 @@ let you figure that out.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>▲主人公＊▲. Thank you for being there for Rinko…</Dialog>
+          <Dialog>Thank you for being with 
+Rinko, ▲主人公＊▲...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲小早川＊▲…</Dialog>
+          <Dialog>▲小早川＊▲...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
