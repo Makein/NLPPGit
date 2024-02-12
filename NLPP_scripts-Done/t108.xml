@@ -37,8 +37,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I think we can have lunch 
-here without trouble.</Dialog>
+          <Dialog>This is a nice place to 
+have lunch.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -153,13 +153,13 @@ waste not to eat this.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I've added a lot of 
-things that make you 
-happy.</Dialog>
+          <Dialog>I've added a lot of things 
+that make you happy.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>It's okay to eat Western 
-food, it has a lot of 
-things in it. Bon appetit.</Dialog>
+          <Dialog>It's nice to eat Western 
+food once in a while, it 
+has lots of things in it. 
+Bon appetit.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -865,7 +865,7 @@ do some research.</Dialog>
           <Dialog>Umm, let's see...</Dialog>
           <Dialog>I want some Japanese food</Dialog>
           <Dialog>I want some Western food</Dialog>
-          <Dialog>Some Chinese food</Dialog>
+          <Dialog>I want some Chinese food</Dialog>
           <Dialog>ジャンル４　未使用</Dialog>
           <Dialog>ジャンル５　未使用</Dialog>
           <Dialog>ジャンル６　未使用</Dialog>
@@ -1239,7 +1239,7 @@ eat anything.</Dialog>
           <Dialog>Menu 2</Dialog>
           <Dialog>Menu 3</Dialog>
           <Dialog>Leave it to me</Dialog>
-          <Dialog>I'll order a 
+          <Dialog>I'll order some 
 ▲生成選択肢１▲, 
 and you？</Dialog>
         </Dialogs>
@@ -1270,7 +1270,7 @@ and you？</Dialog>
 this？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲生成選択肢１▲？ 
-Do you want to have it？</Dialog>
+Do you want to have that？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1302,9 +1302,9 @@ Do you want to have it？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>I... I want this.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲生成選択肢２▲？
-Do you want that one？ 
-Okay, I'll call the clerk.</Dialog>
+          <Dialog>Do you want that one？ 
+Okay, I'll call the clerk 
+for your ▲生成選択肢２▲.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4230,7 +4230,7 @@ Can I have a little？</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Thank you for the meal.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Thank you. So, was it 
+          <Dialog>It was a feast. So, was it 
 delicious？</Dialog>
         </Dialogs>
       </SDL2>
@@ -4446,8 +4446,9 @@ complaints.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I was a little... just a 
-little more...</Dialog>
+          <Dialog>There was not much food on 
+my plate... just a little 
+more would be nice...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

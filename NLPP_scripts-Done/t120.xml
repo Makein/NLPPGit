@@ -51,9 +51,9 @@
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. I'm surprised 
-to see you in such a 
-place.</Dialog>
+          <Dialog>I'm surprised to see you in 
+such a place, 
+▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>I'm surprised too... 
 Are you watching the 
@@ -201,8 +201,9 @@ the same？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Huh？ What are you doing 
 here, ▲高嶺＊＊▲？</Dialog>
-          <Dialog>▲主人公＊▲. Emmm... 
-I haven't done anything.</Dialog>
+          <Dialog>Emmm... I haven't done 
+anything wrong if you ask, 
+▲主人公＊▲.</Dialog>
           <Dialog>Nothing？</Dialog>
           <Dialog>If you feel a little 
 tired, you should come 
@@ -694,8 +695,8 @@ great shape today.</Dialog>
 Are you doing some 
 shopping？</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. 
-Yes, shopping...</Dialog>
+          <Dialog>Yes, shopping... Yes, 
+▲主人公＊▲...</Dialog>
           <Dialog>I'm lucky to see you. So, 
 let's go together.</Dialog>
           <Dialog>I've finished shopping 
@@ -963,17 +964,17 @@ See ya.</Dialog>
           <Dialog>Huh... 
 ▲高嶺＊＊▲？</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. Isn't it great 
-to see you here？</Dialog>
-          <Dialog>I see. I don't think I'm 
-doing anything 
+          <Dialog>It's great to see you here 
+▲主人公＊▲.</Dialog>
+          <Dialog>I suppose. I don't think 
+I'm doing anything 
 interesting.</Dialog>
-          <Dialog>...Did you meet with 
-someone？</Dialog>
-          <Dialog>Haha, I was inviting you 
-from the beginning 
+          <Dialog>...were you going to meet 
+with someone？</Dialog>
+          <Dialog>Haha, I was going to invite 
+you from the beginning 
 ▲高嶺＊＊▲.</Dialog>
-          <Dialog>Of course... I'm kidding.</Dialog>
+          <Dialog>Well said... I'm kidding.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2461,7 +2462,7 @@ I have to go now.</Dialog>
 errand, I can't do 
 anything.</Dialog>
           <Dialog>Good luck with your 
-bowling. Fight！</Dialog>
+bowling. Go get'em！</Dialog>
           <Dialog>I'll do it！</Dialog>
         </Dialogs>
       </SDL2>
@@ -2876,7 +2877,7 @@ a walk？</Dialog>
           <Dialog>Yes, I'm taking a walk 
 with the dog of my 
 neighbor's child.</Dialog>
-          <Dialog>A walk over here. 
+          <Dialog>That's nice, but... 
 Huh, what about the dog？</Dialog>
           <Dialog>I saw you, so I left it 
 over there. See ya.</Dialog>
@@ -2939,8 +2940,8 @@ over there. See ya.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. What are 
-you doing in this place？</Dialog>
+          <Dialog>What are you doing in this 
+place, ▲主人公＊▲？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲高嶺＊＊▲.</Dialog>
           <Dialog>Maybe... tennis practice？ 
@@ -3009,8 +3010,8 @@ place...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. Are you 
-going out？</Dialog>
+          <Dialog>Are you going out, 
+▲主人公＊▲？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, for some tea. And 
 you ▲高嶺＊＊▲？</Dialog>
@@ -3179,8 +3180,9 @@ speak to me.</Dialog>
           <Dialog>Did you buy anything, 
 ▲高嶺＊＊▲？</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. Actually, I 
-asked for a takeout.</Dialog>
+          <Dialog>Actually, I asked for a 
+takeout this time, 
+▲主人公＊▲.</Dialog>
           <Dialog>Oh, you've grown up, 
 haven't you？</Dialog>
           <Dialog>Oh you, don't think other 
@@ -3316,8 +3318,8 @@ See you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. Where are you 
-going？</Dialog>
+          <Dialog>Where are you going, 
+▲主人公＊▲？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Whassup. I was just about 
 to enter this store.</Dialog>
@@ -3466,8 +3468,8 @@ everyday...)</Dialog>
           <Dialog>Should I try to eat in 
 this store...</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. Are you 
-going to dine here？</Dialog>
+          <Dialog>Are you going to dine here, 
+▲主人公＊▲？</Dialog>
           <Dialog>Whassup, 
 ▲高嶺＊＊▲？</Dialog>
           <Dialog>Do you like the food here？ 
@@ -3834,7 +3836,7 @@ notice you.</Dialog>
           <Dialog>One tend to space out a lot 
 in these places, right？</Dialog>
           <Dialog>I might have been kinda 
-spaced out, too.</Dialog>
+spaced out, to be honest.</Dialog>
           <Dialog>Haha, we're so alike.</Dialog>
         </Dialogs>
       </SDL2>
@@ -4203,14 +4205,14 @@ my parents, I think.)</Dialog>
           <Dialog>What a coincidence 
 ▲高嶺＊＊▲.</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>It's a coincidence.</Dialog>
-          <Dialog>Is that great？</Dialog>
+          <Dialog>It's a coincidence indeed.</Dialog>
+          <Dialog>You think？</Dialog>
           <Dialog>It was written in the 
-fortune section of a 
-issue that a good thing 
-was coming this way. 
-It was true after all.</Dialog>
-          <Dialog>That's good, what about 
+fortune section of a issue 
+that a good thing was 
+coming this way. It was 
+true after all.</Dialog>
+          <Dialog>That's good, but what about 
 me？ Haha.</Dialog>
           <Dialog>Okay, I'll be going home.</Dialog>
           <Dialog>Yes, see you.</Dialog>
@@ -4346,8 +4348,8 @@ Geez.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲高嶺＊＊▲？</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. Are you taking 
-a walk？</Dialog>
+          <Dialog>Are you taking a walk 
+▲主人公＊▲？</Dialog>
           <Dialog>Actually... I was wandering 
 the city in search of you, 
 ▲高嶺＊＊▲！</Dialog>

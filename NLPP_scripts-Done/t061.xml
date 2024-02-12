@@ -298,7 +298,8 @@
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲, did you hear？</Dialog>
+          <Dialog>Did you hear about it, 
+▲主人公＊▲？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm, about what？</Dialog>
           <Dialog>The next training camp was 
@@ -352,8 +353,8 @@ being canceled...</Dialog>
 reason... I want to stay.</Dialog>
           <Dialog>Yes... But, I want to be 
 together with you.</Dialog>
-          <Dialog>That's right. Emm, when do 
-you want to go？</Dialog>
+          <Dialog>I see. Emm, when do you 
+want to go？</Dialog>
           <Dialog>If it was on weekend, can 
 you go these days？</Dialog>
           <Dialog>Sure...</Dialog>
@@ -479,7 +480,7 @@ go with me again？</Dialog>
 from ▲月▲▲日▲！</Dialog>
           <Dialog>Yes！</Dialog>
           <Dialog>(We will travel to Atami 
-once more, 
+together once more, 
 ▲高嶺＊＊▲！)</Dialog>
         </Dialogs>
       </SDL2>
@@ -903,12 +904,11 @@ best. See you.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>(Ah, ▲高嶺＊＊▲！ 
-She's already here.)</Dialog>
+          <Dialog>(Ah, you're already here, 
+▲高嶺＊＊▲！)</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Good morning, it's a nice 
-day, and it's sunny over 
-there.</Dialog>
+day, and it's sunny.</Dialog>
           <Dialog>Good morning. I see, I'm 
 glad.</Dialog>
           <Dialog>Good morning. It's hot 
@@ -1804,8 +1804,8 @@ there. Did you forget？</Dialog>
           <Dialog>Ah, it was there...</Dialog>
           <Dialog>Hehe, let's go！</Dialog>
           <Dialog>It really feels like a 
-travel when you're in 
-this train.</Dialog>
+travel when we're in this 
+train.</Dialog>
           <Dialog>You're right.</Dialog>
           <Dialog>I want to enjoy this event 
 together.</Dialog>
@@ -1919,7 +1919,7 @@ together.</Dialog>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>By the way, I've always 
-been interested in 
+been curious about 
 something...</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>About what？</Dialog>
@@ -1948,9 +1948,8 @@ right？</Dialog>
           <Dialog>Yes, that's it. If you are 
 prepared, you don't have 
 to worry！ Right？</Dialog>
-          <Dialog>(You seem a little... Or 
-maybe you're not used to 
-traveling, 
+          <Dialog>(It's seems like you're not 
+used to traveling yet, 
 ▲高嶺＊＊▲.)</Dialog>
         </Dialogs>
       </SDL2>
@@ -2100,7 +2099,7 @@ traveling,
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm？　Huh, Dear！？</Dialog>
           <Dialog>Ah, no, no. That's not 
-what I... that's not it.</Dialog>
+what I... that's not it...</Dialog>
           <Dialog>Huh？</Dialog>
           <Dialog>This trip is like our 
 honeymoon... So, I wanted 
@@ -2272,8 +2271,7 @@ Atami, we thank you for
 your continued patronage 
 today.</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>We arrived. Hehe, let's 
-go.</Dialog>
+          <Dialog>We arrived. Hehe, let's go.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>It's dangerous if you get 
 so excited.</Dialog>
@@ -2290,7 +2288,7 @@ Just the two of us.</Dialog>
 changed from when we came 
 before.</Dialog>
           <Dialog>I wonder about it.</Dialog>
-          <Dialog>Hehe, now join me.</Dialog>
+          <Dialog>Hehe, let's find out.</Dialog>
           <Dialog>Yes, let's have some fun.</Dialog>
           <Dialog>Yes.</Dialog>
         </Dialogs>
@@ -2741,7 +2739,7 @@ stained, you know？</Dialog>
 expected of the Towano 
 Tennis Club！</Dialog>
           <Dialog>Leave it to me！ But, it 
-seems you still are fine, 
+seems you are still fine, 
 ▲高嶺＊＊▲.</Dialog>
           <Dialog>Nothing like that. I was 
 breathing heavily.</Dialog>
@@ -2760,14 +2758,13 @@ date back in the day.</Dialog>
 was here too？ This shrine 
 seems to grant good things.</Dialog>
           <Dialog>Yes, let's visit it.</Dialog>
-          <Dialog>(I hope I can make more 
-progress with you, 
+          <Dialog>(I wish my relationship 
+with you develops further, 
 ▲高嶺＊＊▲.)</Dialog>
           <Dialog>(Somehow, I feel closer 
 to you than before, 
 ▲高嶺＊＊▲！)</Dialog>
-          <Dialog>I hope your wish comes 
-true.</Dialog>
+          <Dialog>I hope your wish comes true.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2930,14 +2927,13 @@ true.</Dialog>
           <Dialog>Ah！！</Dialog>
           <Dialog>Huh！？</Dialog>
           <Dialog>...</Dialog>
-          <Dialog>That's right, we didn't 
-eat anything since we 
-arrived here.</Dialog>
+          <Dialog>That's right, we didn't eat 
+anything when we arrived 
+here.</Dialog>
           <Dialog>Uh, yes...</Dialog>
-          <Dialog>I was so absorbed in 
-playing that I didn't 
-notice it, so let's have 
-lunch.</Dialog>
+          <Dialog>I was so absorbed in having 
+fun that I didn't notice 
+it, so let's have lunch.</Dialog>
           <Dialog>That's right...</Dialog>
           <Dialog>Hey, let's go there.</Dialog>
           <Dialog>Huh, this is a restaurant！</Dialog>
@@ -3233,7 +3229,7 @@ after eating！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>This is the sun beach.</Dialog>
+          <Dialog>This is the Sun Beach.</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Then, let's go change our 
 clothes. We'll meet here, 
@@ -3281,20 +3277,20 @@ it.</Dialog>
           <Dialog>(This is good...)</Dialog>
           <Dialog>Yes, but in this season 
 it doesn't feel like a 
-sun beach.</Dialog>
+Sun Beach.</Dialog>
           <Dialog>That's right. If it was 
 summer, we could swim in 
 the sea.</Dialog>
-          <Dialog>Right... Should we come 
-back in summer？</Dialog>
+          <Dialog>Yeah... Should we come back 
+in summer？</Dialog>
           <Dialog>Haha, I was thinking the 
 same.</Dialog>
           <Dialog>Hehe, right？</Dialog>
           <Dialog>*Phew*... Are you ready to 
 go back？</Dialog>
           <Dialog>Already？</Dialog>
-          <Dialog>There are still many 
-places to go.</Dialog>
+          <Dialog>There are still many places 
+to go.</Dialog>
           <Dialog>Right. Then, let's go to 
 the next place.</Dialog>
         </Dialogs>
@@ -3464,8 +3460,8 @@ though we're already here.</Dialog>
           <Dialog>Ouch.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>What happened？</Dialog>
-          <Dialog>It looks like my shoes 
-have slipped.</Dialog>
+          <Dialog>It looks like my shoes have 
+slipped.</Dialog>
           <Dialog>A shoe slip？　Did you bring 
 shoes you're not used to？</Dialog>
           <Dialog>Yes.</Dialog>
@@ -3546,8 +3542,8 @@ that store？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yeah, that's good too. But 
 we have other plans.</Dialog>
-          <Dialog>But, can we afford to 
-check in？</Dialog>
+          <Dialog>But, can we afford to check 
+it？</Dialog>
           <Dialog>That's also true... But 
 it's better to go back to 
 the room, together... 
@@ -3713,8 +3709,7 @@ we go？</Dialog>
           <Dialog>Oh, it's a ropeway.</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>It looks like an amusement 
-park, and it looks 
-interesting.</Dialog>
+park, and it seems cool.</Dialog>
           <Dialog>The top looks quite nice. 
 It looks a little scary, 
 though...</Dialog>
@@ -4225,7 +4220,7 @@ people stay together many
 times？</Dialog>
           <Dialog>Strange...？ Why would it 
 be strange？</Dialog>
-          <Dialog>Because... we're high 
+          <Dialog>Because... we're only high 
 school students.</Dialog>
           <Dialog>It doesn't matter. There's 
 nothing wrong with it, 
@@ -4442,8 +4437,8 @@ in the same room.</Dialog>
 forever.</Dialog>
           <Dialog>Then let's take our time.</Dialog>
           <Dialog>I'm feeling very nervous 
-at this time.</Dialog>
-          <Dialog>Yes, will I get used to 
+again.</Dialog>
+          <Dialog>Yes, will we get used to 
 it soon？</Dialog>
           <Dialog>I wonder about that... 
 But don't you feel like 
@@ -4612,8 +4607,8 @@ hold hands all the time.</Dialog>
           <Dialog>It's okay... but why？</Dialog>
           <Dialog>Because some boys seem 
 to easily get lost.</Dialog>
-          <Dialog>And because of that, I 
-won't leave you alone. 
+          <Dialog>And because of that, 
+I won't leave you alone. 
 Shall we hold hands？</Dialog>
           <Dialog>Okay.</Dialog>
         </Dialogs>
@@ -4780,8 +4775,8 @@ juice？</Dialog>
 you.</Dialog>
           <Dialog>That so...</Dialog>
           <Dialog>Huh？</Dialog>
-          <Dialog>My throat is dry after 
-all. I'll buy some juice.</Dialog>
+          <Dialog>My throat is dry after all. 
+I'll go buy some juice.</Dialog>
           <Dialog>I see, I'm sorry. It's 
 okay, I'll buy it. What 
 would you like？</Dialog>
@@ -4803,9 +4798,9 @@ late. I got lost.</Dialog>
           <Dialog>...Don't worry, it's fine. 
 Thank you.</Dialog>
           <Dialog>(She went to the bathroom 
-and bought some juice. I 
-wonder why she doesn't use 
-the one in the room.)</Dialog>
+and bought some juice. 
+I wonder why she doesn't 
+use the one in the room.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5052,7 +5047,7 @@ have various baths...</Dialog>
           <Dialog>It seems that men and 
 women change depending on 
 the time.</Dialog>
-          <Dialog>Hmm... At this time, Roman 
+          <Dialog>Hmm... At this hour, Roman 
 bath is for men and Flower 
 bath is for women. Is that 
 okay？</Dialog>
@@ -5060,8 +5055,7 @@ okay？</Dialog>
 flower bath.</Dialog>
           <Dialog>Well then, let's go.</Dialog>
           <Dialog>...Yes. Say, can you wait 
-outside for me when you 
-finish？</Dialog>
+outside for me before we go？</Dialog>
           <Dialog>Outside？ Why？</Dialog>
           <Dialog>Why...？ Please.</Dialog>
           <Dialog>Huh？　Okay, I will.</Dialog>
@@ -5096,8 +5090,8 @@ too much time to bathe.)</Dialog>
           <Dialog>I'm sorry, I kept you 
 waiting ▲主人公＊▲.</Dialog>
           <Dialog>That's a nice yukata！</Dialog>
-          <Dialog>It's because you're 
-wearing the same, right？</Dialog>
+          <Dialog>It's because you're wearing 
+the same, right？</Dialog>
           <Dialog>A yukata worn by a man is 
 different from the one 
 worn by a woman！</Dialog>
@@ -6185,7 +6179,7 @@ talk while taking a bath.</Dialog>
           <Dialog>What's wrong？</Dialog>
           <Dialog>There seems to be a 
 private bath here... Why 
-don't we go？</Dialog>
+don't we go together？</Dialog>
           <Dialog>(Private... Will that be 
 okay？)</Dialog>
           <Dialog>Alright, let's go</Dialog>
@@ -6452,7 +6446,7 @@ already dark, should we
 risk it？</Dialog>
           <Dialog>I see... That's right. 
 I understand.</Dialog>
-          <Dialog>I remember. Yes, I want 
+          <Dialog>You remembered. Yes, I want 
 to go. But, it's too 
 late... Should we not？</Dialog>
           <Dialog>It'll be okay, I will be 
@@ -7728,7 +7722,7 @@ clothes.</Dialog>
 please.</Dialog>
           <Dialog>Ah, you're right, sorry.</Dialog>
           <Dialog>...</Dialog>
-          <Dialog>It's alright</Dialog>
+          <Dialog>It's fine to look</Dialog>
           <Dialog>Wait for her</Dialog>
           <Dialog>Is now okay, 
 ▲高嶺＊＊▲？</Dialog>
@@ -7977,17 +7971,18 @@ to Hatsushima.</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>It's exciting to get on a 
 boat. Wanna get aboard now？</Dialog>
-          <Dialog>Hmm, is it like this 
-inside too？</Dialog>
+          <Dialog>Hmm, so this is how it 
+looks like from the inside？</Dialog>
           <Dialog>(Isn't there something 
-interesting around...)</Dialog>
+interesting to see around 
+here...)</Dialog>
           <Dialog>Are you looking for 
 something？</Dialog>
           <Dialog>No, it's nothing like 
-that... Can I go see the 
-engines？</Dialog>
+that... Do you know where 
+the engines are？</Dialog>
           <Dialog>I don't know...</Dialog>
-          <Dialog>Where are they...？</Dialog>
+          <Dialog>Where could they be...？</Dialog>
           <Dialog>Geez, I'm going to go 
 outside, okay？</Dialog>
           <Dialog>Oh, okay.</Dialog>
@@ -8115,7 +8110,7 @@ here.</Dialog>
 place like this, you feel 
 like imitating a movie.</Dialog>
           <Dialog>(Here it comes...)</Dialog>
-          <Dialog>...I'm so stupid.</Dialog>
+          <Dialog>...I sound so stupid.</Dialog>
           <Dialog>That's not true. You look 
 cute when doing it okay, 
 ▲高嶺＊＊▲？</Dialog>
@@ -8755,7 +8750,7 @@ why...</Dialog>
           <Dialog>Wait, I hear something... 
 The same sound of waves 
 from before.</Dialog>
-          <Dialog>Ah, really. I can also 
+          <Dialog>Ah, it's true. I can also 
 hear them.</Dialog>
           <Dialog>Let's go.</Dialog>
           <Dialog>I can't help it, it's a 
@@ -9051,8 +9046,8 @@ about swearing our love...</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>I, Manaka Takane, vow to 
 love you all my life.</Dialog>
-          <Dialog>I, ▲苗字▲ ▲名前▲, also 
-pledge to love Manaka 
+          <Dialog>I, ▲苗字▲ ▲名前▲, 
+also pledge to love Manaka 
 Takane for all my life.</Dialog>
           <Dialog>Sometimes I remember what 
 I was doing before.</Dialog>
@@ -9968,9 +9963,11 @@ time... and now...</Dialog>
           <Dialog>Which one？</Dialog>
           <Dialog>...I don't know. Even 
 now, I'm still nervous.</Dialog>
-          <Dialog>I can't think about it.</Dialog>
+          <Dialog>I can't do anything more 
+than to think about it.</Dialog>
           <Dialog>...I see.</Dialog>
-          <Dialog>But I still love you.</Dialog>
+          <Dialog>But I still love you, that 
+will never change.</Dialog>
           <Dialog>...</Dialog>
           <Dialog>It's the same thing as 
 before...</Dialog>
@@ -10206,15 +10203,15 @@ trouble if they ask...</Dialog>
           <Dialog>(I'm glad you noticed.)</Dialog>
           <Dialog>Sorry to keep you waiting.</Dialog>
           <Dialog>...That's a lot！</Dialog>
-          <Dialog>Emm？　Is that so？</Dialog>
+          <Dialog>Emm？　You think？</Dialog>
           <Dialog>You don't know that many 
 people at school, right？</Dialog>
           <Dialog>Yes. However, my neighbors 
 and my parents' patients 
 count as having many known 
 people.</Dialog>
-          <Dialog>(You don't have to worry 
-about that, 
+          <Dialog>(I guess it's not something 
+you have to worry about, 
 ▲高嶺＊＊▲.)</Dialog>
         </Dialogs>
       </SDL2>
@@ -10769,21 +10766,22 @@ okay？</Dialog>
         <Dialogs>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Going back home alone 
-after the trip it's kinda 
+after the trip is kinda 
 sad.)</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>Huh？</Dialog>
           <Dialog>What's wrong, 
 ▲高嶺＊＊▲？</Dialog>
-          <Dialog>Sorry. I have nothing to 
-do... I just don't want 
-to leave yet.</Dialog>
+          <Dialog>Sorry. I have no special 
+reason for this, but... 
+I just don't want to leave 
+yet.</Dialog>
           <Dialog>▲高嶺＊＊▲...</Dialog>
           <Dialog>You just have to be here 
 for a little bit, and then 
 I'll go back home.</Dialog>
-          <Dialog>I sorry for being selfish.</Dialog>
+          <Dialog>I'm sorry for being selfish.</Dialog>
           <Dialog>It's okay. But don't do 
 it that way, okay？ It's 
 dangerous.</Dialog>

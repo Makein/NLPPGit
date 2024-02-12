@@ -53,8 +53,8 @@
           <Dialog>You were talking to 
 someone right now, 
 weren't you？</Dialog>
-          <Dialog>Well, ah. It was just a 
-friend.</Dialog>
+          <Dialog>Well, yeah. It was just a 
+friend, though.</Dialog>
           <Dialog>I see... Shall we go now？</Dialog>
         </Dialogs>
       </SDL2>
@@ -125,19 +125,19 @@ friend.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲</Dialog>
+          <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲高嶺＊＊▲.</Dialog>
           <Dialog>It's been a while since 
 we talked like this.</Dialog>
           <Dialog>Hmm, really？</Dialog>
-          <Dialog>You are the only one who 
-speaks to me.</Dialog>
+          <Dialog>You speak with me, even 
+though you already have a 
+girlfriend.</Dialog>
           <Dialog>Ah, haha, is that so？</Dialog>
           <Dialog>Yes, it's fun to speak 
-like this. I'll go back 
-now.</Dialog>
-          <Dialog>Yes, see you soon.</Dialog>
+like this. I'll go home now.</Dialog>
+          <Dialog>Yes, see you later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -159,7 +159,7 @@ now.</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Ah... Emm, wouldn't be 
 misunderstood if your 
-girlfriend saw you？</Dialog>
+girlfriend saw us？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -179,8 +179,8 @@ girlfriend saw you？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Ah... I'll go out with 
-you again.</Dialog>
+          <Dialog>Ah... I want you to show me 
+it once more.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -382,7 +382,8 @@ your days off？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. How are you？</Dialog>
+          <Dialog>How are you, 
+▲主人公＊▲？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -513,7 +514,8 @@ activities... it's great.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. Whassup.</Dialog>
+          <Dialog>Whassup, 
+▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Good work today, 
 ▲高嶺＊＊▲.</Dialog>
@@ -609,13 +611,13 @@ injured. Take care.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. Practicing 
-hard？</Dialog>
+          <Dialog>Practicing hard, 
+▲主人公＊▲？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm. Well, I'm doing okay.</Dialog>
           <Dialog>I see. Don't overdo it, 
 do your best okay？</Dialog>
-          <Dialog>Yes, that's right.</Dialog>
+          <Dialog>Yes, thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -705,7 +707,7 @@ It's amazing.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Don't try to hard, 
+          <Dialog>Don't try too hard, 
 ▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yeah, thank you, 
@@ -756,12 +758,12 @@ sometime.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. How's it going 
-lately？</Dialog>
+          <Dialog>How's it going lately, 
+▲主人公＊▲？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>I'm doing... fine, 
-I guess. Just a little 
-sloppy.</Dialog>
+I guess. A little sloppy, 
+that's all.</Dialog>
           <Dialog>Hehe, just sloppy. 
 Do your best.</Dialog>
           <Dialog>Yes, I will.</Dialog>
@@ -808,13 +810,12 @@ Do your best.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. Do you want me 
-to help you？</Dialog>
+          <Dialog>Do you want me to help you, 
+▲主人公＊▲？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm？ I'm fine right now.</Dialog>
           <Dialog>I see. If something 
-happens, please talk to 
-me.</Dialog>
+happens, please talk to me.</Dialog>
           <Dialog>Yes, thank you.</Dialog>
         </Dialogs>
       </SDL2>
@@ -905,13 +906,14 @@ me.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Excuse me. Recently, how 
-is it going between us？ 
-Is it going well？</Dialog>
+          <Dialog>Hey... Recently, how is it 
+going between with your 
+girlfriend？ Is it going 
+well？</Dialog>
           <Dialog>Perfectly！</Dialog>
           <Dialog>Hmm, actually...</Dialog>
-          <Dialog>It's obvious... 
-It's amazing.</Dialog>
+          <Dialog>Prefectly you say... That 
+sounds amazing.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Amazing... is that it？</Dialog>
           <Dialog>Yes. I'm looking at you, 
@@ -977,15 +979,15 @@ to get along.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I know. Excuse me, I got 
-something like this...</Dialog>
+          <Dialog>Hey, excuse me, I got 
+this...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm？ Oh, it's 
 ▲特別デートアイテム＊＊▲.</Dialog>
           <Dialog>I have no use for it... 
 If you'd like, you can 
 have it.</Dialog>
-          <Dialog>Eh, it's okay？ Then, I'm 
+          <Dialog>Eh, is it okay？ Then, I'm 
 happy to...</Dialog>
           <Dialog>Yes, it is. I would like 
 you to use it with your 
@@ -1084,21 +1086,21 @@ girlfriend.</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>What's wrong？</Dialog>
-          <Dialog>Um, maybe I'm caring to 
+          <Dialog>Um, maybe I'm worrying too 
 much, but...</Dialog>
-          <Dialog>？</Dialog>
+          <Dialog>What do you mean？</Dialog>
           <Dialog>I wonder if it's better 
 not to talk to someone 
 who has a girlfriend.</Dialog>
           <Dialog>I would feel bad for 
 her...</Dialog>
-          <Dialog>It doesn't matter</Dialog>
+          <Dialog>Don't worry about that</Dialog>
           <Dialog>I knew it... I'm sorry, 
 I'll be careful.</Dialog>
           <Dialog>Yes, I'm sorry.</Dialog>
           <Dialog>Is that so？ If so, I'm 
 glad.</Dialog>
-          <Dialog>You're a friend. It's all 
+          <Dialog>You're my friend. It's all 
 good.</Dialog>
         </Dialogs>
       </SDL2>
@@ -1245,8 +1247,7 @@ changed a little.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Changed？ I wonder about 
 that.</Dialog>
-          <Dialog>I think it's your 
-atmosphere... 
+          <Dialog>I think it's your aura... 
 I really think that.</Dialog>
         </Dialogs>
       </SDL2>
@@ -1472,11 +1473,10 @@ you.</Dialog>
           <Dialog>Hmm？</Dialog>
           <Dialog>Recently, I heard you're 
 getting along better.</Dialog>
-          <Dialog>Who says it？ Is that 
-right？</Dialog>
+          <Dialog>Who says it？</Dialog>
           <Dialog>That's what many people 
-say so. So, I'm sure 
-that's the case.</Dialog>
+say so. So, I'm sure that's 
+the case.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1598,17 +1598,16 @@ Just think about it.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>The other day, when you 
-were together with your 
-girlfriend, I saw you 
-again.</Dialog>
+          <Dialog> I saw you the other day 
+with your girlfriend.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Haha, you saw me.</Dialog>
+          <Dialog>Haha, so you saw me.</Dialog>
           <Dialog>You seem like... good 
 friends.</Dialog>
           <Dialog>Hmm？</Dialog>
           <Dialog>I'm envious.</Dialog>
-          <Dialog>(I'm a little shy...)</Dialog>
+          <Dialog>(I'm getting a little 
+embarrassed...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1930,9 +1929,9 @@ or something like that...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. You've been 
-working really hard 
-lately.</Dialog>
+          <Dialog>You've been working really 
+hard lately, 
+▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Me？ You think so？</Dialog>
           <Dialog>Because you have a good 
@@ -2188,15 +2187,16 @@ little embarrassed.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Recently, you guys...</Dialog>
+          <Dialog>Recently, you guys have 
+been...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm？</Dialog>
-          <Dialog>Lovey dovey, right？</Dialog>
-          <Dialog>Lovey dovey you say, 
+          <Dialog>Lovey-dovey, right？</Dialog>
+          <Dialog>Lovey-dovey you say, 
 ▲高嶺＊＊▲...</Dialog>
-          <Dialog>Because everyone says 
-that. I wonder if that 
-is the case.</Dialog>
+          <Dialog>Because everyone has been 
+saying that. I wonder if 
+it's true.</Dialog>
           <Dialog>Hmm, I wonder if we were 
 looked at like that... 
 Well, it's good.</Dialog>
@@ -2413,10 +2413,9 @@ left my date alone...</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>That's terrible...</Dialog>
           <Dialog>I'm sorry.</Dialog>
-          <Dialog>I'm not the one you 
-should apologize to. 
-I think it's better you 
-make up for it.</Dialog>
+          <Dialog>I'm not the one you should 
+apologize to. I think it's 
+better you make up for it.</Dialog>
           <Dialog>You're right, I must try.</Dialog>
         </Dialogs>
       </SDL2>
@@ -2566,15 +2565,16 @@ contact your girlfriend...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>It's about girlfriend...</Dialog>
+          <Dialog>I'm curious about your 
+girlfriend...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Huh, what's wrong？</Dialog>
-          <Dialog>Somehow, I was feeling 
-bad and I was curious... 
-I hope you didn't overdo 
-it.</Dialog>
-          <Dialog>(Is it my fault？ I was 
-being careful...)</Dialog>
+          <Dialog>Somehow, I noticed she was 
+feeling bad and asked 
+her... I hope she's not 
+overdoing it.</Dialog>
+          <Dialog>(Is it my fault？ I need 
+to be more careful...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2614,8 +2614,8 @@ being careful...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is your girlfriend 
-resting from a cold？</Dialog>
+          <Dialog>Is your girlfriend resting 
+from a cold？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, that's right...</Dialog>
           <Dialog>I'm worried. I would be 
@@ -2710,17 +2710,17 @@ thank you.</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm？</Dialog>
-          <Dialog>You know... It was a 
-while ago, but... 
-we went out together.</Dialog>
+          <Dialog>You know... It was a while 
+ago, but... we went out 
+together.</Dialog>
           <Dialog>Yes, I remember.</Dialog>
-          <Dialog>You didn't had a 
-girlfriend at that time.</Dialog>
-          <Dialog>That's right... 
-What about it？</Dialog>
+          <Dialog>You didn't had a girlfriend 
+at that time...</Dialog>
+          <Dialog>That's right... Why do you 
+mention it？</Dialog>
           <Dialog>That's... nothing.</Dialog>
-          <Dialog>Haha, you remembered 
-something？</Dialog>
+          <Dialog>Haha, you remembered that 
+day often？</Dialog>
           <Dialog>Yes, I remember it once 
 in a while. And even now, 
 we're getting along like 
@@ -2816,11 +2816,10 @@ this. Thank you.</Dialog>
           <Dialog>You know, I remember... 
 this is the same as 
 before...</Dialog>
-          <Dialog>Hmm？</Dialog>
+          <Dialog>Huh？</Dialog>
           <Dialog>I told you that... 
 I loved you.</Dialog>
-          <Dialog>...Yes, of course I 
-remember.</Dialog>
+          <Dialog>Yes, of course I remember.</Dialog>
           <Dialog>Now that you have a 
 girlfriend, we're still 
 friends...</Dialog>
@@ -2936,7 +2935,7 @@ any plans. Let's go back
 home.</Dialog>
           <Dialog>I'm glad, thank you.</Dialog>
           <Dialog>I'm going home with my 
-girlfriend...</Dialog>
+girlfriend today, sorry...</Dialog>
           <Dialog>Oh, right. Don't worry. 
 See you.</Dialog>
           <Dialog>I'm sorry, I'm going home 
@@ -2994,9 +2993,8 @@ alone today.</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲高嶺＊＊▲.</Dialog>
-          <Dialog>I guess I kept you 
-waiting for me. Are you 
-alright？</Dialog>
+          <Dialog>I guess I kept you waiting 
+for me. Are you alright？</Dialog>
           <Dialog>Yes, I'm okay. I was 
 talking to my friend a 
 while ago.</Dialog>
@@ -3053,7 +3051,7 @@ Bye-bye.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Se you later.</Dialog>
+          <Dialog>See you later.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, see you.</Dialog>
         </Dialogs>
@@ -3301,16 +3299,16 @@ that something lonely？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is White Day really 
-tough？</Dialog>
+          <Dialog>Is White Day really tough？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>It's not hard, but... 
 Well, I think it's better 
 to have fun.</Dialog>
           <Dialog>I see... I knew it.</Dialog>
           <Dialog>Isn't it fun for you？ You 
-can have something back, 
-right ▲高嶺＊＊▲？</Dialog>
+can have something nice 
+back, right, 
+▲高嶺＊＊▲？</Dialog>
           <Dialog>That's right... 
 Yes, I guess it's fun.</Dialog>
         </Dialogs>
@@ -3385,7 +3383,8 @@ birthday.</Dialog>
           <Dialog>Oh, congratulations！</Dialog>
           <Dialog>Thank you. Hehe, I made 
 you say it.</Dialog>
-          <Dialog>It's okay, let me say it！</Dialog>
+          <Dialog>It's okay, let me say it 
+once more！</Dialog>
           <Dialog>Geez. What are you trying 
 to do？</Dialog>
         </Dialogs>
@@ -3441,9 +3440,8 @@ to do？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. 
-Happy birthday, 
-congratulations.</Dialog>
+          <Dialog>Happy birthday, congrats, 
+▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Thank you for remembering. 
 Don't tell me, are you 
@@ -3452,9 +3450,8 @@ planning something？</Dialog>
 your girlfriend.</Dialog>
           <Dialog>I see, good thing you 
 noticed. Thank you.</Dialog>
-          <Dialog>Hmm. That's why I'm 
-afraid of just saying 
-this much.</Dialog>
+          <Dialog>Hmm. That's why I'm afraid 
+of just saying this much.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3607,17 +3604,18 @@ your girlfriend？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲高嶺＊＊▲.</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>What's wrong, ▲主人公＊▲？</Dialog>
+          <Dialog>What's wrong, 
+▲主人公＊▲？</Dialog>
           <Dialog>Actually, I had something 
 to ask you...</Dialog>
           <Dialog>Yes... a gift for my 
 girlfriend.</Dialog>
-          <Dialog>I want to hear the 
-opinion of a girl. I'm 
-sorry, in advance.</Dialog>
-          <Dialog>I don't know if it will 
-be useful... 
-Yes, I'll do my best.</Dialog>
+          <Dialog>I want to hear the opinion 
+of a girl. I'm sorry, 
+in advance.</Dialog>
+          <Dialog>I don't know if it will be 
+useful... Yes, I'll do my 
+best.</Dialog>
           <Dialog>I'm counting on you.</Dialog>
           <Dialog>It looks fun to look into 
 various things. A study 
@@ -3711,11 +3709,11 @@ I'm kidding.</Dialog>
           <Dialog>Hello. It's ▲苗字▲, but 
 I have a request.</Dialog>
           <Dialog>Request？ I wonder what 
-it'll be.</Dialog>
+it'll be...</Dialog>
           <Dialog>Emm...</Dialog>
-          <Dialog>A gift for my 
-girlfriend... it would be 
-nice if you could help me.</Dialog>
+          <Dialog>A gift for my girlfriend... 
+it would be nice if you 
+could help me.</Dialog>
           <Dialog>Of course, it's okay.</Dialog>
           <Dialog>Thank you, I want to hear 
 an opinion from a girl.</Dialog>
@@ -3934,8 +3932,8 @@ be so serious. Thank you.</Dialog>
           <Dialog>(I wonder if you are here, 
 ▲高嶺＊＊▲...)</Dialog>
           <Dialog>Manaka</Dialog>
-          <Dialog>I'm sorry I've kept you 
-waiting, ▲主人公＊▲.</Dialog>
+          <Dialog>Sorry to keep you waiting, 
+▲主人公＊▲.</Dialog>
           <Dialog>I wasn't waiting at all. 
 Thank you, it was a 
 sudden request.</Dialog>
@@ -3960,8 +3958,8 @@ even at times like this
 ▲高嶺＊＊▲...)</Dialog>
           <Dialog>Oh, sorry. I went on my 
 own... What happened？</Dialog>
-          <Dialog>Wait... 
-▲彼女＊＊▲ is here.</Dialog>
+          <Dialog>Wait, your girlfriend was 
+here.</Dialog>
           <Dialog>I see... did you talk to 
 her？</Dialog>
           <Dialog>Well...</Dialog>
@@ -4101,7 +4099,7 @@ it was helpful.</Dialog>
           <Dialog>...Why are you so 
 surprised？</Dialog>
           <Dialog>Well, you know, it was 
-sudden.</Dialog>
+sudden...</Dialog>
           <Dialog>So, are you two going 
 out？</Dialog>
           <Dialog>Huh？</Dialog>
@@ -4115,7 +4113,7 @@ way it is.</Dialog>
           <Dialog>...That so, do your best. 
 I'm going now.</Dialog>
           <Dialog>Yes, see you.</Dialog>
-          <Dialog>(I wonder if you saw 
+          <Dialog>(I wonder if you saw us 
 ▲高嶺＊＊▲...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -4171,18 +4169,19 @@ I'm going now.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Um, be careful okay？</Dialog>
+          <Dialog>Um, be more careful okay？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Eh, what？</Dialog>
-          <Dialog>Your relationship with 
-your girlfriend. It seems 
-like you have been doing 
-it for a long time...</Dialog>
-          <Dialog>Is that right？</Dialog>
-          <Dialog>Yes. Especially avoid 
+          <Dialog>Eh, what do you mean？</Dialog>
+          <Dialog>About your relationship 
+with your girlfriend. It 
+seems you were seen too 
+close lately...</Dialog>
+          <Dialog>Is that so？</Dialog>
+          <Dialog>Yes, it is. Avoid the 
 light-hearted behavior at 
 school.</Dialog>
-          <Dialog>(She hit the nail.)</Dialog>
+          <Dialog>(She hit the nail with that 
+one.)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4316,10 +4315,10 @@ to be on good terms, but
 remember you are a high 
 school student, okay？</Dialog>
           <Dialog>I'm a high school student. 
-I'm going to do it, 
+If I'm going to kiss her, 
 should I make a report 
 about it？</Dialog>
-          <Dialog>Report it... stupid！</Dialog>
+          <Dialog>Report it... idiot！</Dialog>
           <Dialog>(She said it...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -4440,8 +4439,8 @@ a hard time.</Dialog>
           <Dialog>You say that, but you're 
 a little lazy...</Dialog>
           <Dialog>Eh！？</Dialog>
-          <Dialog>I'm sure you're having a 
-lot of troubles...</Dialog>
+          <Dialog>I'm sure she's having a 
+lot of trouble...</Dialog>
           <Dialog>(That's terrible...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -4497,15 +4496,15 @@ lot of troubles...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I think it's going great 
-with your girlfriend.</Dialog>
+          <Dialog>I think everything is going 
+great with your girlfriend.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Huh？ Well, maybe.</Dialog>
           <Dialog>I'm listening to your 
 selfishness.</Dialog>
           <Dialog>I don't think I'm such a 
 selfish person...</Dialog>
-          <Dialog>Yes, I'm on your 
+          <Dialog>Yes, you are. I'm on your 
 girlfriend's side.</Dialog>
           <Dialog>(▲彼女＊＊▲ and 
 ▲高嶺＊＊▲ 
@@ -4565,18 +4564,18 @@ united... It's scary.)</Dialog>
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>Maybe your girlfriend has 
-a little responsibilities.</Dialog>
+new responsibilities.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Hmm？　What happened to you 
+          <Dialog>Is something wrong with 
 ▲彼女＊＊▲？</Dialog>
-          <Dialog>That's not the case. I 
-wonder if your girlfriend 
-is also responsible for 
-you being lazy.</Dialog>
-          <Dialog>...Are you lazy？</Dialog>
-          <Dialog>Well, maybe I am. 
+          <Dialog>No, it's nothing. I was 
+just wondering if your 
+girlfriend is responsible 
+for your laziness.</Dialog>
+          <Dialog>...Am I that lazy？</Dialog>
+          <Dialog>Well, maybe a little. 
 I don't know if it's just 
-because it's us. 
+because it's you. 
 Especially at school！</Dialog>
           <Dialog>(Should I reflect on it？)</Dialog>
         </Dialogs>
@@ -4636,13 +4635,12 @@ Especially at school！</Dialog>
           <Dialog>Your girlfriend is so 
 good...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Why？ Well, 
-▲彼女＊＊▲ is 
-the best, but 
-▲高嶺＊＊▲ 
-is second to none！</Dialog>
+          <Dialog>Why？ Well, my girlfriend 
+is the best, but you're 
+second to none, 
+▲高嶺＊＊▲ ！</Dialog>
           <Dialog>I don't have a boyfriend 
-to say that to me.</Dialog>
+to say that to me...</Dialog>
           <Dialog>Huh...？ Do you want a 
 boyfriend？</Dialog>
           <Dialog>That's not the case！ 
@@ -4703,8 +4701,8 @@ it's okay...)</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I knew it, your 
-girlfriend is wonderful.</Dialog>
+          <Dialog>I knew it, your girlfriend 
+is wonderful.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Haha, why so suddenly？ 
 Wait！</Dialog>
@@ -4766,17 +4764,16 @@ Wait！</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>I shouldn't do...</Dialog>
+          <Dialog>I don't know what to do...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>What happened？ Your 
-studies, club activities, 
-life attitudes... 
-What troubles you？</Dialog>
-          <Dialog>Not that...</Dialog>
-          <Dialog>Hmm？</Dialog>
-          <Dialog>Love or something like 
-that... it's not going 
-good at all.</Dialog>
+          <Dialog>What's wrong？ Do you have 
+any problems with your 
+studies, or your club 
+activities...？</Dialog>
+          <Dialog>Nothing like that...</Dialog>
+          <Dialog>Huh？</Dialog>
+          <Dialog>It's about my love life... 
+it's not going well at all.</Dialog>
           <Dialog>(Well, you will be okay, 
 ▲高嶺＊＊▲...)</Dialog>
         </Dialogs>
@@ -4835,16 +4832,15 @@ good at all.</Dialog>
           <Dialog>Manaka</Dialog>
           <Dialog>Hey, are you okay？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>Me？ Why？ 
-Is there anything wrong？</Dialog>
-          <Dialog>Somehow... Is it not fun 
-just to have a 
-relationship？</Dialog>
-          <Dialog>No it's nothing like 
-that... I think it's okay. 
+          <Dialog>Me？ Why？ Did something 
+happen？</Dialog>
+          <Dialog>It's just... Is it not fun 
+to be on a relationship？</Dialog>
+          <Dialog>I don't think it's hard at 
+all... I think it's okay. 
 It's not hard for my 
-girlfriend！</Dialog>
-          <Dialog>That so, amazing...</Dialog>
+girlfriend, after all！</Dialog>
+          <Dialog>That's so amazing...</Dialog>
           <Dialog>(I impressed her.)</Dialog>
         </Dialogs>
       </SDL2>
@@ -4901,17 +4897,17 @@ girlfriend！</Dialog>
         <Dialogs>
           <Dialog>Manaka</Dialog>
           <Dialog>I wonder if I can't fall 
-in love without 
+in love without having some 
 confidence.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm, I don't know. 
 I don't think that's true.</Dialog>
           <Dialog>When I look at both you 
 and your girlfriend, you 
-seem so proud of each 
-other.</Dialog>
+seem so proud of each other.</Dialog>
           <Dialog>I see？ Hmm... well, maybe 
-that's true！</Dialog>
+there's some truth in your 
+words！</Dialog>
           <Dialog>I'm a little jealous.</Dialog>
           <Dialog>(I made her jealous.)</Dialog>
         </Dialogs>

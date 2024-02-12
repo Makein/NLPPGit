@@ -338,7 +338,8 @@ help it.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. Good evening.</Dialog>
+          <Dialog>Good evening, 
+▲主人公＊▲.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲高嶺＊＊▲...</Dialog>
           <Dialog>The atmosphere feels a 
@@ -899,7 +900,8 @@ that you will be sleepy,
           <Dialog>Ah, ▲高嶺＊＊▲.</Dialog>
           <Dialog>I'm so excited to see you 
 at this hour. Is it only me？</Dialog>
-          <Dialog>Well... it could be.</Dialog>
+          <Dialog>No, I'm happy to see you 
+too.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

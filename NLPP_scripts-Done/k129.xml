@@ -499,7 +499,7 @@ curious...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>So, can I start...？</Dialog>
+          <Dialog>So, can we start...？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Sure.</Dialog>
         </Dialogs>
@@ -521,8 +521,8 @@ curious...</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>What subject do you want to 
-study？</Dialog>
+          <Dialog>Which subject do you want 
+to study？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -610,7 +610,7 @@ like to study？</Dialog>
         <Dialogs>
           <Dialog>General</Dialog>
           <Dialog>Japanese</Dialog>
-          <Dialog>Society</Dialog>
+          <Dialog>Social Studies</Dialog>
           <Dialog>Science</Dialog>
           <Dialog>Math</Dialog>
           <Dialog>English</Dialog>
@@ -780,8 +780,7 @@ I'm selfish.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Rinko</Dialog>
-          <Dialog>It's fine. Okay, let's do 
-that.</Dialog>
+          <Dialog>Okay. Then let's start.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -901,10 +900,10 @@ do you want some tea？</Dialog>
           <Dialog>Rinko</Dialog>
           <Dialog>Awesome！　This looks fine 
 to me, so why don't we have 
-a tea time around here？</Dialog>
+our tea time break here？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Let's do it.</Dialog>
-          <Dialog>Okay. I'm going to get 
+          <Dialog>Okay. I'm going to get it 
 ready.</Dialog>
         </Dialogs>
       </SDL2>
@@ -1535,9 +1534,9 @@ back to studying now？</Dialog>
         <Dialogs>
           <Dialog>Rinko</Dialog>
           <Dialog>Hey, don't you think it's 
-time to continue your 
+time to continue our 
 studies？</Dialog>
-          <Dialog>Right</Dialog>
+          <Dialog>Sure</Dialog>
           <Dialog>I'll stop today</Dialog>
         </Dialogs>
       </SDL2>

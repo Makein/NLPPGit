@@ -22,7 +22,7 @@
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Okay, let's go there.</Dialog>
+          <Dialog>Okay, let's go.</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Sure, let's go！</Dialog>
         </Dialogs>
@@ -324,8 +324,7 @@ want to go？</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Did I arrive here first？ 
-Did I beat you？</Dialog>
+          <Dialog>First. Did I beat you？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Haha. Yes, you did.</Dialog>
         </Dialogs>
@@ -463,8 +462,7 @@ Did I beat you？</Dialog>
           <Dialog>I'm getting a little 
 tired...</Dialog>
           <Dialog>○○○○○○○○</Dialog>
-          <Dialog>It's alright, we've 
-arrived.</Dialog>
+          <Dialog>It's alright, we've arrived.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1711,8 +1709,7 @@ I like that too.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Yeah. Do you want to go 
-there？</Dialog>
+          <Dialog>Yeah. Shall we go now？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1967,8 +1964,8 @@ lunch.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>▲主人公＊▲. Aren't 
-you hungry？</Dialog>
+          <Dialog>Aren't you hungry 
+▲主人公＊▲？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah, it's almost lunch time. 
 Let's go grab some food.</Dialog>
@@ -2632,7 +2629,8 @@ our date.</Dialog>
         </Unknown>
         <Dialogs>
           <Dialog>Manaka</Dialog>
-          <Dialog>Is our date over？</Dialog>
+          <Dialog>Our date isn't over yet, 
+right？</Dialog>
           <Dialog>○○○○○○○○</Dialog>
           <Dialog>No, of course not.</Dialog>
         </Dialogs>
