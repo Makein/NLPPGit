@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="635877461" Unknown="95">
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="635877461" Unknown="95">
   <Entries>
     <Entry Unknown0="1889490326" Unknown1="207207401">
       <SDL2 Key="4214506986">
@@ -16,8 +16,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>セーブせずに電源切ったんだ……。残念。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I turned off the power without saving... disappointing.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -36,8 +36,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>セーブせずに電源切ったね。それがいけないことだって知ってた？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I turned off the power without saving. Did you know that's not good?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -56,8 +56,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こら。セーブせずに電源切ったらダメじゃない？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Here it is. Isn't it okay to turn off the power without saving?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -76,8 +76,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>セーブせずに電源を切らない。一度言われたらわかることでしょ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Don't turn off the power without saving. Once you say it, you'll understand, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -96,8 +96,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……セーブせずに電源を切るような人、嫌いになっちゃうかもな～？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>...I wonder if people who turn off the power without saving will start to dislike them?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -116,8 +116,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>またセーブしないで電源を切るなんて。勘違いじゃ済まされないよ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You're turning off the power without saving again. It's not enough to be misunderstood.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -140,8 +140,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>自分が何をしたかわかってる、よね？　何回もセーブせずに電源切るなんて……ひどいよ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You know what you did, right? It's awful to turn off the power without saving multiple times.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -160,8 +160,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>セーブしないで電源切らないでって、何度も言ったよね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You said many times to not save and turn off the power, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -180,8 +180,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>またセーブしないで電源切って……こんなに悲しいこと、しないで。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Don't save again and turn off the power...don't do anything so sad.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -200,8 +200,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そう、だな……「もうしません、許してください」って言って、そしたら、許しちゃうから。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, that's right... I'll say, "I won't do it anymore, please forgive me," and then I'll forgive you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -220,8 +220,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どうしても許してほしかったら、「もうしません、許してください」って、本気で言って。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>If you really want me to forgive you, I'll say seriously, "I won't do it anymore, please forgive me."</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -240,8 +240,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>いい？　「もうしません、許してください」って言うの。そしたら、許すから。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>good? They say, "I won't do it anymore, please forgive me." Then I'll forgive you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -260,8 +260,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>言ってくれるよね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You'll tell me, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -280,8 +280,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>聞こえてたでしょ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Did you hear it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -300,8 +300,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>だんまりは通じません。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's not easy to get through.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -320,8 +320,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>「もうしません、許してください」。本心からね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>"I won't do it anymore, please forgive me." From the bottom of my heart.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -344,8 +344,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>「もうしません、許してください」。もう、私が言ってもしょうがないでしょ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>"I won't do it anymore, please forgive me." It's no use for me to say it now.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -364,8 +364,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>「もうしません、許してください」、でしょ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>"I won't do it anymore, please forgive me," right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -384,8 +384,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ちゃんと言って。ね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Say it properly. hey?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -404,8 +404,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ごまかされないよ？　はい、もう一回。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You won't be fooled? Yes, one more time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -424,8 +424,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ダメダメ、そうじゃないでしょ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>No, it's not true, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -444,8 +444,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……びっくりしちゃった。そう来るなんて……ね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>...I was surprised. I can't believe it's coming...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -464,8 +464,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そう来たか……。仕方ないなあ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's how it came... There's nothing I can do about it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -484,8 +484,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう……参っちゃうなあ。私の負けかな？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'm already... I'm coming. Maybe I lose?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -504,8 +504,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>その言葉を待ってたの。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I was waiting for those words.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -524,8 +524,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そう。それでよろしい。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>yes. That's fine.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -544,8 +544,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>よしよし。ちゃんと言えたね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Okay, okay. You could say it properly.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -564,8 +564,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>二度としないで。私だって、こんなこと言いたくないから。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Don't do it again. I don't want to say this either.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -584,8 +584,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>次こんなことがあったら……わかるよね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>If this happens next time...you know?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -604,8 +604,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>反省したら、きちんと行動で見せてね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Once you've regretted it, please take action properly.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -624,8 +624,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……どうして？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>……Why?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -644,8 +644,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふーん。それで？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hmm. So?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -664,8 +664,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……気まずい空気じゃない？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>...Isn't it an awkward atmosphere?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -684,8 +684,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私を悲しませないで。セーブせずに電源切らないで……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Don't make me sad. Don't cut off the power without saving...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -708,8 +708,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>セーブしないで電源切った、そこのあなた。お仕置き、クセになっちゃった？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You didn't save and turned off the power, you there. Did you get addicted to punishment?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -728,8 +728,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>信じてたのに……。もう、セーブせずに電源切ったりしないって。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I believed it... They don't just save it and turn it off.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -752,8 +752,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ね……こう言ってくれたら許してあげる。「ネネが一番大好き」。ちゃんと言える？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Right... I'll forgive you if you say this. "Nene is my favorite." Can you say it properly?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -776,8 +776,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>許してほしい？　なら……「ネネが一番大好き」って言うこと！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Do you want me to forgive you? So... say "Nene is my favorite"!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -796,8 +796,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>本当に反省してるなら、「ネネが一番大好き」って言って。じゃないと、ダメ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>If you're really regretting it, say "Nene is my favorite." Otherwise, it's no good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -816,8 +816,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あなたが強情だと、私も許せないじゃない……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I can't forgive you if you're stubborn...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -836,8 +836,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>自分が悪いって、わかってるんでしょ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You know that you're in your fault, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -856,8 +856,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>早く早く。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Quick and fast.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -876,8 +876,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ごめん、よく聞こえなくて……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Sorry, I can't hear it very well...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -896,8 +896,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>違うでしょ？　はい、もう一回。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Isn't it different? Yes, one more time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -916,8 +916,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もっとハキハキと。もう一度お願い。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>More clearer. Please again.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -936,8 +936,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えっ……ごめん、よくわからない……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Eh... sorry, I don't really understand...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -956,8 +956,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どういうつもりなのかな？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What are you planning to do?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -976,8 +976,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう……何たくらんでるの？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What are you planning now?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -996,8 +996,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ちゃんと言ってくれたね。私もひと安心。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You said it properly. I'm relieved too.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1016,8 +1016,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うんうん。それでいいんだよ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes yes. Is that okay?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1036,8 +1036,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今の声、しっかり胸に届きました。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>My voice just reached my heart.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1056,8 +1056,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あとは「好きだよ」って３回言ってくれたら、ぜんぶ水に流してあげる。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>All that's left is to say "I love you" three times and then pour it all out in the water.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1076,8 +1076,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>その調子で、今度は「好きだよ」って３回言って。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>With that in mind, this time he said three times, "I like you."</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1096,8 +1096,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>次は「好きだよ」って３回言って。恥ずかしがらず、真剣に。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Next, say "I love you" three times. Don't be embarrassed, seriously.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1116,8 +1116,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これで最後だから……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>This is the last time...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1136,8 +1136,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>待たせるなんて、失礼じゃない？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Isn't it rude to make you wait?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1156,8 +1156,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>言ってくれないと、泣いちゃうかも。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>If you don't say it, you might cry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1176,8 +1176,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>けじめはつけなきゃ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I have to put a point in point.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1196,8 +1196,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ちゃんと言えるまで、ね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Until you can say it properly.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1216,8 +1216,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そんな謝り方じゃ、機嫌は直りません。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That kind of apologies won't make you feel better.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1236,8 +1236,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ありがとう。じゃあ、仲直りしよ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>thank you. So let's make up.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1256,8 +1256,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今の言葉、本心だって信じてるからね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You believe your words and true feelings right now, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1276,8 +1276,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい、よくできました！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, well done!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1296,8 +1296,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あなたのしたことなら、私は受け止めるつもりだから。もう、やめてね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'll accept what you did. Stop it now.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1316,8 +1316,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>思い出を消したら後悔が残るの。そんなのイヤでしょ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>If you erase memories, you will regret it. You don't like that, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1336,8 +1336,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>二度と、二人の思い出を消したりしないで。約束。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Never erase the memories of them again. promise.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1356,8 +1356,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>信じてるんだよ？　あなたのこと……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Do you believe it? About you...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1376,8 +1376,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ちょっと。あなたのカノジョ、怒ってます。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>a little bit. Your girlfriend is angry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1396,8 +1396,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>待ってるのに……もう。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'm waiting... but...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1416,8 +1416,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あんまり反省してる感じが伝わらないなぁ。罰として、愛情たっぷりの言葉をたくさん言ってもらいます。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I can't really feel the feeling of regret. As punishment, I ask them to say a lot of loveful words.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1436,8 +1436,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうねぇ……“あいしてる”っていっぱい言って？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Right... Are you saying a lot of things like "I love you"?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1456,8 +1456,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>誠意を込めて“ゴメンなさい”って言うこと。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>To say with sincerity "Sorry."</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1476,8 +1476,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ……“ねね様ばんざーい”って言ってもらおうかな？　ふふっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So... should I ask you to say "Nene-sama banzaii"? Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1496,8 +1496,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>伝わってるよ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's conveyed.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1516,8 +1516,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふっ、頑張って。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hehe, do your best.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1536,8 +1536,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>恥ずかしがっちゃダ～メ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'm so embarrassed.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1556,8 +1556,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ほら、ちゃんと言えるでしょ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Look, you can say it properly, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1576,8 +1576,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、上手に言えました。ほめてあげる▼</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, I could say it well. I'll praise you ▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1596,8 +1596,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>すごーい！　新記録だよ♪</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Amazing! It's a new record♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1616,8 +1616,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>反省してるなら、それを文章で見せてもらおっかな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>If you're reflecting on your actions, then I'd like you to show me that in writing.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1636,8 +1636,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>いいペースだよ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's a good pace.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1656,8 +1656,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうちょっとだから。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Because it's a little more.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1676,8 +1676,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そんな字じゃ伝わらないよ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That kind of character won't make sense...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1696,8 +1696,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>頑張って書いて。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Good luck writing.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1716,8 +1716,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>できたね♪　反省してるって信じてあげる▼</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You did it ♪ I'll believe you're reflecting on it ▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1736,8 +1736,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あっ！　新記録が出たよ。すごーい♪</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah! A new record has been set. Amazing ♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1756,8 +1756,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ダメ、反省が伝わらない。ほんとに反省してるなら、私の目を見て気持ちを伝えてくれる？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>No, I can't convey my regret. If you're really reflecting on your actions, will you look at my eyes and tell me how you feel?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1776,8 +1776,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そう、もっと見て。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, look more.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1796,8 +1796,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あなたの瞳に、私が映ってる……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see me in your eyes...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1816,8 +1816,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、こらぁ。動いちゃダメでしょ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Oh, here it is. Don't move, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1836,8 +1836,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>まばたきも禁止！　……は、さすがに冗談だけどね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>No blinking is also allowed! ...I'm just kidding though.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1856,8 +1856,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい、ちゃんと伝わりました♪</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, it was clearly understood♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1876,8 +1876,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねえ、新記録達成だよ！　これからも、もっと私を見てね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey, we've reached a new record! Please continue to look at me more from now on, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1896,8 +1896,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ギブアップだなんて……もう。もうしないって約束してね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I thought it was giving up... Have you promised you won't do it again?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1916,8 +1916,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>時間切れだけど……今回は許してあげる。もうしちゃダメだからね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's running out of time... but I'll forgive you this time. You shouldn't do it anymore, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

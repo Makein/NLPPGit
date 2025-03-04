@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="1702579038" Unknown="34">
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="1702579038" Unknown="34">
   <Entries>
     <Entry Unknown0="1165289129" Unknown1="3642756670">
       <SDL2 Key="1706581419">
@@ -36,12 +36,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もしもし、▲姉ヶ崎＊▲？</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そう、私。……今、時間ある？</Dialog>
-          <Dialog>うん、いいよ。</Dialog>
-          <Dialog>よかった。あのね……。</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>What if it's ▲Anegasaki*▲?</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, me. ...Do you have time now?</Dialog>
+          <Dialog>Yes, it's fine.</Dialog>
+          <Dialog>good. you know what…….</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -80,12 +80,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もしもし、▲姉ヶ崎＊▲？</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん。ちょっと話があるんだけど、いいよね？</Dialog>
-          <Dialog>いいよ。なんの話？</Dialog>
-          <Dialog>いい話。あのね……。</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>What if it's ▲Anegasaki*▲?</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yeah. I have a bit of a story, isn't it?</Dialog>
+          <Dialog>That's fine. What's the story?</Dialog>
+          <Dialog>A good story. you know what…….</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -124,12 +124,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もしもし、▲姉ヶ崎＊▲？</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい、そうです。今、ちょっといい？</Dialog>
-          <Dialog>うん。大丈夫だけど？</Dialog>
-          <Dialog>よかった。あのね、お願いがあるんだけど……。</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>What if it's ▲Anegasaki*▲?</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, that's right. Is it a bit okay now?</Dialog>
+          <Dialog>Yeah. It's okay though?</Dialog>
+          <Dialog>good. Well, I have a request...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -148,8 +148,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あのね。デートに誘っちゃおうかな……って。予定合うといいんだけど。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>you know what. Maybe I'll ask him out on a date... I hope they have a plan together.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -168,8 +168,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今度、いっしょに出かけよ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Next time, let's go out together.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -188,8 +188,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃーん、デートのお誘いです。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Well, it's an invitation to go on a date.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -208,8 +208,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>明日、デートできたらうれしいんだけど……どうかな？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I would be happy if I could go on a date tomorrow... what do you think?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -228,8 +228,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>明日は、予定空いてる？　一緒にお出かけしたくなっちゃったから。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Are you free of charge for tomorrow? I felt like going out with him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -248,8 +248,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>明日、デートする……っていうのは、どう？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What do you mean to go on a date tomorrow?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -268,8 +268,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もし暇だったら、だけど……今から二人で出かけたいな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>If I had free time, but... I'd like to go out together now.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -288,8 +288,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私、今空いてるの。だからデートしよ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'm free right now. So let's go on a date?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -308,8 +308,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ね、デートしない？　今からじゃ、無理？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey, don't you go on a date? Is it impossible now?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -328,8 +328,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ここに行きたいんだけど、いいかな？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I want to go here, is it okay?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -353,9 +353,9 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あなたは、行きたい場所ある？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is there a place you want to go?</Dialog>
+          <Dialog>○○○○</Dialog>
           <Dialog>Then...</Dialog>
         </Dialogs>
       </SDL2>
@@ -380,10 +380,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>さて、じゃあどこに行きましょうか？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっと……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So, where shall we go?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Umm...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -407,10 +407,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どうしよっかな……うん、選ばせてあげる。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっと……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I wonder what to do...Yes, I'll let you choose.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Umm...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -434,10 +434,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>いいね。私も賛成。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>それじゃ、ここにしよう。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>nice. I agree too.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>So let's go here.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -461,10 +461,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、バッチリ。私もそこがいいな。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>だったら、ここで決定だな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, perfect. I like that too.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>If so, then it's decided here.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -488,10 +488,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ＯＫ。そこにしましょ。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>よし、決まり！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>OK. Let's go there.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Okay, it's decided!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -515,10 +515,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えっと……そこは……。他の場所じゃダメかな？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そう？　じゃあ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Umm... there... Maybe somewhere else can't do it?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>yes? So...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -542,10 +542,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うーん。もっといい場所、選んで欲しいなあ？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うーん……それじゃ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hmm. Would you like to choose a better place?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Hmm... that's it...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -569,10 +569,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そこ？　うーん……ごめん、パスで。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>わかった。じゃあ、別のとこにしよう。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>There? Hmm... sorry, pass.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Understood. So let's go somewhere else.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -596,9 +596,9 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あとは、時間ね。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>All that's left is time.</Dialog>
+          <Dialog>○○○○</Dialog>
           <Dialog>Then...</Dialog>
         </Dialogs>
       </SDL2>
@@ -623,9 +623,9 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>待ち合わせはいつ？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>When will you meet?</Dialog>
+          <Dialog>○○○○</Dialog>
           <Dialog>Then...</Dialog>
         </Dialogs>
       </SDL2>
@@ -650,10 +650,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>時間も決めないとね？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっと……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You have to decide the time too, right?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Umm...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -677,10 +677,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>よかった。私、楽しみにしてるね……。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、●も。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>good. I'm looking forward to it...</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Yes, too.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -704,10 +704,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>メモ取ってる？　忘れちゃダメだからね？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>わかってるって。忘れたりしないよ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Are you taking notes? Because you shouldn't forget, right?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>You know. I'll never forget.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -731,10 +731,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>急だったけど、お願いしてよかった。ありがとね？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、よかった。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It was abrupt, but I'm glad I asked. Thank you, right?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Yes, that's good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -758,10 +758,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やっぱり場所選んでもらってよかったな。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（いい場所を選べたみたいだな……）</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'm glad you chose the location after all.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>(It looks like I've chosen a good location...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -785,11 +785,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こっちから誘ったのに、
-場所決めてもらっちゃったね。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>いいよ、そんなの。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I invited you from here,
+I got a location decided.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>That's fine, that's it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -813,10 +813,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ちゃんと場所選んでくれたね、えらいえらい。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はは、これくらいは。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You chose the place properly, so it's amazing.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Haha, that much.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -840,10 +840,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん……うまくいかないときもあるよね。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>次はこっちから誘うよ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes... Sometimes things don't work.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Next time I'll invite you from here.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -871,10 +871,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>わかった、あきらめる……。ついてないなあ。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ごめん、●も残念だけど。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Okay, I'll give up... It's not there.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Sorry, I'm also sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -898,10 +898,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うーん、残念……。また誘うね？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん、●からも連絡するようにする。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hmm, sorry... Would you invite me again?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Yes, I'll also contact you from ●.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

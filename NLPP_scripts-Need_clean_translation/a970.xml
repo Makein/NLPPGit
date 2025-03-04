@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="2939238698" Unknown="141">
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="2939238698" Unknown="141">
   <Entries>
     <Entry Unknown0="2778697299" Unknown1="1274217210">
       <SDL2 Key="3014366285">
@@ -732,113 +732,113 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>だみー</Dialog>
-          <Dialog>おまかせで</Dialog>
-          <Dialog>▲生成選択肢１▲</Dialog>
-          <Dialog>▲生成選択肢２▲</Dialog>
-          <Dialog>▲生成選択肢３▲</Dialog>
-          <Dialog>▲生成選択肢４▲</Dialog>
-          <Dialog>デバッグの仕方を選んで</Dialog>
-          <Dialog>1:箸などの種類で選ぶ</Dialog>
-          <Dialog>2:レストランのメニューで選ぶ</Dialog>
-          <Dialog>3:7/23以前の旧フローにする</Dialog>
-          <Dialog>4:料理番号で選ぶ</Dialog>
-          <Dialog>5:設定</Dialog>
+          <Dialog>My</Dialog>
+          <Dialog>Leave it to us</Dialog>
+          <Dialog>▲ Generation option 1▲</Dialog>
+          <Dialog>▲ Generation option 2▲</Dialog>
+          <Dialog>▲ Generation option 3▲</Dialog>
+          <Dialog>▲ Generation option 4▲</Dialog>
+          <Dialog>Choose how to debug</Dialog>
+          <Dialog>1: Choose based on chopsticks or other types</Dialog>
+          <Dialog>2: Choose from restaurant menu</Dialog>
+          <Dialog>Make the old flow before 3:7/23</Dialog>
+          <Dialog>4: Choose by dish number</Dialog>
+          <Dialog>5: Settings</Dialog>
           <Dialog>6</Dialog>
-          <Dialog>使用する道具(箸とか)を選んで</Dialog>
-          <Dialog>他のを選ぶ</Dialog>
-          <Dialog>箸:天丼</Dialog>
-          <Dialog>箸:ラーメン</Dialog>
-          <Dialog>箸:ざるそば</Dialog>
-          <Dialog>フォーク</Dialog>
-          <Dialog>ナイフ＆フォーク</Dialog>
-          <Dialog>スプーン:カレー</Dialog>
-          <Dialog>スプーン:シチュー</Dialog>
-          <Dialog>両手</Dialog>
-          <Dialog>片手:一部持ち</Dialog>
-          <Dialog>片手:串持ち</Dialog>
-          <Dialog>ストロー</Dialog>
-          <Dialog>カップ</Dialog>
-          <Dialog>設定画面</Dialog>
-          <Dialog>1:randomの挙動</Dialog>
-          <Dialog>2:初々しいかどうか</Dialog>
-          <Dialog>3:カノジョの feeling</Dialog>
+          <Dialog>Choose the tool you want to use (chopsticks, etc.)</Dialog>
+          <Dialog>Choose another</Dialog>
+          <Dialog>Chopsticks: Tendon</Dialog>
+          <Dialog>Chopsticks: Ramen</Dialog>
+          <Dialog>Chopsticks: Zarusoba</Dialog>
+          <Dialog>fork</Dialog>
+          <Dialog>Knife &amp; Fork</Dialog>
+          <Dialog>Spoon: Curry</Dialog>
+          <Dialog>Spoon: Stew</Dialog>
+          <Dialog>both hands</Dialog>
+          <Dialog>One hand: partially held</Dialog>
+          <Dialog>One hand: holding a skewer</Dialog>
+          <Dialog>straw</Dialog>
+          <Dialog>cup</Dialog>
+          <Dialog>Settings screen</Dialog>
+          <Dialog>1:Random Behavior</Dialog>
+          <Dialog>2: Are you innocent?</Dialog>
+          <Dialog>3: My girlfriend's feeling</Dialog>
           <Dialog>4:</Dialog>
           <Dialog>5:</Dialog>
-          <Dialog>戻る</Dialog>
-          <Dialog>random=&gt;デフォルトの挙動</Dialog>
-          <Dialog>random=&gt;0固定</Dialog>
-          <Dialog>random=&gt;1固定</Dialog>
-          <Dialog>random=&gt;2固定</Dialog>
-          <Dialog>random=&gt;3固定</Dialog>
-          <Dialog>random=&gt;4固定</Dialog>
-          <Dialog>設定しました</Dialog>
-          <Dialog>初々しいに設定</Dialog>
-          <Dialog>初々しくないに設定</Dialog>
-          <Dialog>フィーリング:低い　に設定</Dialog>
-          <Dialog>フィーリング:普通　に設定</Dialog>
-          <Dialog>フィーリング:高い　に設定</Dialog>
-          <Dialog>▲生成選択肢５▲</Dialog>
-          <Dialog>▲生成選択肢６▲</Dialog>
-          <Dialog>次へ</Dialog>
-          <Dialog>イタリアンレストラン</Dialog>
-          <Dialog>お食事処</Dialog>
-          <Dialog>カノジョ宅</Dialog>
-          <Dialog>カレー屋</Dialog>
-          <Dialog>ケーキバイキング</Dialog>
-          <Dialog>チェーン店／WB</Dialog>
-          <Dialog>チェーン店／コーヒーショップ</Dialog>
-          <Dialog>チェーン店／デキシーズ</Dialog>
-          <Dialog>チェーン店／デキシーズ競合店</Dialog>
-          <Dialog>ラーメン屋</Dialog>
-          <Dialog>レストラン</Dialog>
-          <Dialog>海水浴場</Dialog>
-          <Dialog>学食</Dialog>
-          <Dialog>喫茶店</Dialog>
-          <Dialog>湖畔のレストラン</Dialog>
-          <Dialog>主人公宅/通常</Dialog>
-          <Dialog>主人公宅/看病</Dialog>
-          <Dialog>手作り弁当</Dialog>
-          <Dialog>寿司屋</Dialog>
-          <Dialog>出店</Dialog>
-          <Dialog>焼肉屋</Dialog>
-          <Dialog>中華レストラン</Dialog>
-          <Dialog>和食甘味屋</Dialog>
-          <Dialog>朝</Dialog>
-          <Dialog>れんげ</Dialog>
-          <Dialog>片手:全部持ち</Dialog>
-          <Dialog>百の位 000</Dialog>
-          <Dialog>百の位 100</Dialog>
-          <Dialog>百の位 200</Dialog>
-          <Dialog>百の位 300</Dialog>
-          <Dialog>百の位 400</Dialog>
-          <Dialog>百の位 500</Dialog>
-          <Dialog>百の位 600</Dialog>
-          <Dialog>百の位 700</Dialog>
-          <Dialog>百の位 800</Dialog>
-          <Dialog>百の位 900</Dialog>
-          <Dialog>十の位 00</Dialog>
-          <Dialog>十の位 10</Dialog>
-          <Dialog>十の位 20</Dialog>
-          <Dialog>十の位 30</Dialog>
-          <Dialog>十の位 40</Dialog>
-          <Dialog>十の位 50</Dialog>
-          <Dialog>十の位 60</Dialog>
-          <Dialog>十の位 70</Dialog>
-          <Dialog>十の位 80</Dialog>
-          <Dialog>十の位 90</Dialog>
-          <Dialog>一の位 0</Dialog>
-          <Dialog>一の位 1</Dialog>
-          <Dialog>一の位 2</Dialog>
-          <Dialog>一の位 3</Dialog>
-          <Dialog>一の位 4</Dialog>
-          <Dialog>一の位 5</Dialog>
-          <Dialog>一の位 6</Dialog>
-          <Dialog>一の位 7</Dialog>
-          <Dialog>一の位 8</Dialog>
-          <Dialog>一の位 9</Dialog>
-          <Dialog>もう一度</Dialog>
-          <Dialog>やめる</Dialog>
+          <Dialog>return</Dialog>
+          <Dialog>random=&gt;Default behavior</Dialog>
+          <Dialog>random=&gt;0 fixed</Dialog>
+          <Dialog>random=&gt;1 fixed</Dialog>
+          <Dialog>random=&gt;2 fixed</Dialog>
+          <Dialog>random=&gt;3 fixed</Dialog>
+          <Dialog>random=&gt;4 fixed</Dialog>
+          <Dialog>I've set it up</Dialog>
+          <Dialog>Set to be fresh</Dialog>
+          <Dialog>Set to not fresh</Dialog>
+          <Dialog>Feeling: Set to low</Dialog>
+          <Dialog>Feeling: Set to normal</Dialog>
+          <Dialog>Feeling: Set to high</Dialog>
+          <Dialog>▲ Generation option 5▲</Dialog>
+          <Dialog>▲ Generation option 6▲</Dialog>
+          <Dialog>to the next</Dialog>
+          <Dialog>Italian Restaurant</Dialog>
+          <Dialog>Dining place</Dialog>
+          <Dialog>Girlfriend's house</Dialog>
+          <Dialog>Curry restaurant</Dialog>
+          <Dialog>Cake buffet</Dialog>
+          <Dialog>Chain store/WB</Dialog>
+          <Dialog>Chain/Coffee Shop</Dialog>
+          <Dialog>Chain store/Dixies</Dialog>
+          <Dialog>Chain store/Dixies competitor</Dialog>
+          <Dialog>Ramen restaurant</Dialog>
+          <Dialog>restaurant</Dialog>
+          <Dialog>Beach</Dialog>
+          <Dialog>School meals</Dialog>
+          <Dialog>Cafes</Dialog>
+          <Dialog>Lakeside Restaurant</Dialog>
+          <Dialog>The main character's house/Normal</Dialog>
+          <Dialog>The main character's house/Illness</Dialog>
+          <Dialog>Handmade lunch</Dialog>
+          <Dialog>Sushi restaurant</Dialog>
+          <Dialog>Opening a store</Dialog>
+          <Dialog>Yakiniku restaurant</Dialog>
+          <Dialog>Chinese Restaurant</Dialog>
+          <Dialog>Japanese sweets restaurant</Dialog>
+          <Dialog>morning</Dialog>
+          <Dialog>Renge</Dialog>
+          <Dialog>One hand: Hold it all</Dialog>
+          <Dialog>100th place 000</Dialog>
+          <Dialog>100 100</Dialog>
+          <Dialog>100th place 200</Dialog>
+          <Dialog>100th place 300</Dialog>
+          <Dialog>100th place 400</Dialog>
+          <Dialog>100th place 500</Dialog>
+          <Dialog>100th place 600</Dialog>
+          <Dialog>100th place 700</Dialog>
+          <Dialog>100th place 800</Dialog>
+          <Dialog>100th place 900</Dialog>
+          <Dialog>Ten places 00</Dialog>
+          <Dialog>Ten places 10</Dialog>
+          <Dialog>Ten places 20</Dialog>
+          <Dialog>Ten places 30</Dialog>
+          <Dialog>Ten places 40</Dialog>
+          <Dialog>Ten places 50</Dialog>
+          <Dialog>Ten places 60</Dialog>
+          <Dialog>Ten places 70</Dialog>
+          <Dialog>Ten places 80</Dialog>
+          <Dialog>Ten places 90</Dialog>
+          <Dialog>First place 0</Dialog>
+          <Dialog>First place 1</Dialog>
+          <Dialog>First place 2</Dialog>
+          <Dialog>First place 3</Dialog>
+          <Dialog>First place 4</Dialog>
+          <Dialog>First place 5</Dialog>
+          <Dialog>First place 6</Dialog>
+          <Dialog>First place 7</Dialog>
+          <Dialog>First place 8</Dialog>
+          <Dialog>First place 9</Dialog>
+          <Dialog>once again</Dialog>
+          <Dialog>stop</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

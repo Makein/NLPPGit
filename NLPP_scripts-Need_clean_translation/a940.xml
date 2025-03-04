@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="2377341692" Unknown="4">
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="2377341692" Unknown="4">
   <Entries>
     <Entry Unknown0="444065448" Unknown1="30881166">
       <SDL2 Key="1435480734">
@@ -31,11 +31,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……なんだよな。</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうなんだ。</Dialog>
-          <Dialog>……。</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>...What is it?</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right.</Dialog>
+          <Dialog>....</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="1302580447" Unknown="2">
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="1302580447" Unknown="2">
   <Entries>
     <Entry Unknown0="1277626266" Unknown1="1912268734">
       <SDL2 Key="895454003">
@@ -22,12 +22,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>今日は▲姉ヶ崎＊▲の家に
-呼ばれてるんだよな。</Dialog>
-          <Dialog>そういや●、
-▲姉ヶ崎＊▲になんて
-呼ばれてたっけ？</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Today we're at the house of ▲Anegasaki*▲
+He's called.</Dialog>
+          <Dialog>Come to think of it,
+▲Anegasaki*▲ What
+Was he called?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="3653057279" Unknown="12">
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="3653057279" Unknown="12">
   <Entries>
     <Entry Unknown0="1996106064" Unknown1="3555600812">
       <SDL2 Key="3643053897">
@@ -105,17 +105,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。入って入って。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>おじゃましまーす。</Dialog>
-          <Dialog>今日、あなたが来るまでの時間も楽しかったな。何話そうかって、ずっと考えてたの。</Dialog>
-          <Dialog>今日あなたが来るの、ずっと楽しみだった。ふふ。</Dialog>
-          <Dialog>今日、来てくれてよかった。最近ちょっとそっけないかなって、思ってたから。</Dialog>
-          <Dialog>なんか久しぶりに来た気がするな。</Dialog>
-          <Dialog>久しぶりなんです。もう、寂しかったのに。</Dialog>
-          <Dialog>やっぱりここって、なんか落ち着くな。</Dialog>
-          <Dialog>ほんと？　そう思ってもらえると、うれしいな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>▲The main character*▲. Enter and enter.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>I'll be in the middle of the day.</Dialog>
+          <Dialog>I also enjoyed the time before you came today. I've been thinking about how many times I should talk about.</Dialog>
+          <Dialog>I've always been looking forward to seeing you come today. n/a.</Dialog>
+          <Dialog>I'm glad you came today. I've been thinking it's a little bit cold lately.</Dialog>
+          <Dialog>I feel like I've been here for the first time in a while.</Dialog>
+          <Dialog>It's been a while. I was already lonely.</Dialog>
+          <Dialog>After all, it's kind of calm here.</Dialog>
+          <Dialog>real? I would be happy if you thought that way.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -173,13 +173,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうずいぶん経ったね、私たち。</Dialog>
-          <Dialog>私たち、だいぶ慣れてきたかな？</Dialog>
-          <Dialog>私たちは、まだこれからだよね。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>何の話？</Dialog>
-          <Dialog>あ、ごめんね。付き合いだして、どれくらい経ったか考えてたの。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's been a while now, us.</Dialog>
+          <Dialog>Have we gotten used to it?</Dialog>
+          <Dialog>We're still just about to go.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>What's the story?</Dialog>
+          <Dialog>Ah, sorry. I was thinking about how long it had passed since we started dating.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -274,17 +274,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そっか。何があったかな……。</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>まずは、デート。どんな場所に行ったっけ。</Dialog>
-          <Dialog>ここらへんで行けそうなところ、全部行ったよね。</Dialog>
-          <Dialog>ここらへんは、大体行ったんじゃないかな。</Dialog>
-          <Dialog>あんまり数は多くないよね。開拓した方がいいのかも。</Dialog>
-          <Dialog>思い出たくさん作ったもんね。どこも、楽しかったな。</Dialog>
-          <Dialog>思い出はいっぱいあるけど、もっと色んな季節に、色んな場所に行きたいな。</Dialog>
-          <Dialog>まだまだ足りないよね。もっともっと色んなところに行こ？</Dialog>
-          <Dialog>思い出もっと欲しいよ。ね、お願い。</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>I see. I wonder what happened...</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>First off, go on a date. What place did you go?</Dialog>
+          <Dialog>You've gone all the places you could go here.</Dialog>
+          <Dialog>I think I've been around here pretty much.</Dialog>
+          <Dialog>There aren't many. Maybe it's better to develop it.</Dialog>
+          <Dialog>I made lots of memories. It was fun everywhere.</Dialog>
+          <Dialog>I have lots of memories, but I want to go to many different places in more seasons.</Dialog>
+          <Dialog>It's still not enough, isn't it? Go to more and more places?</Dialog>
+          <Dialog>I want more memories. Hey, please.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -427,20 +427,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>デート以外にも、大事なことあるよね？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>何？</Dialog>
-          <Dialog>もちろん、キス。</Dialog>
-          <Dialog>たくさんしたおかげで、ラブラブになれたじゃない？</Dialog>
-          <Dialog>たくさんしちゃったもんね。もっとでもいいんだけど。</Dialog>
-          <Dialog>でもまだ足りないよ。遠慮してる？</Dialog>
-          <Dialog>もっともっとしてもいいと思うんだけどなあ。安心させて？</Dialog>
-          <Dialog>あとは長ーいキスもね。あんなの何度もしちゃうんだから。</Dialog>
-          <Dialog>あとは長ーいキスもね。……思い出しちゃった。</Dialog>
-          <Dialog>私からのおねだりも、何度もしちゃったね。ふふふっ。</Dialog>
-          <Dialog>私から何度もおねだりしたこともあったよね。ふふ。</Dialog>
-          <Dialog>（聞いてるだけでドキドキしてきた……）</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>There are other important things besides going on dates, right?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>what?</Dialog>
+          <Dialog>Of course, a kiss.</Dialog>
+          <Dialog>Thanks to so much, you've become a lovey-dovey, right?</Dialog>
+          <Dialog>I did a lot. It would be better though.</Dialog>
+          <Dialog>But it's still not enough. Are you refraining?</Dialog>
+          <Dialog>I think it would be fine to do more. Do you reassure me?</Dialog>
+          <Dialog>And then there's a long kiss. Because I've done that many times.</Dialog>
+          <Dialog>And then there's a long kiss. ...It reminded me.</Dialog>
+          <Dialog>I've even begged many times. Hehehe.</Dialog>
+          <Dialog>I've always asked you many times. n/a.</Dialog>
+          <Dialog>(Just listening makes me feel excited...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -554,19 +554,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そういえば……。▲姉ヶ崎＊▲は何か一緒にしたいことって、ある？</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>したいことか……どうして？</Dialog>
-          <Dialog>うん。なんか特別、思い出になることってないかな……って。</Dialog>
-          <Dialog>じゃあ……言っちゃう。あなたと旅行に行きたいな。もちろん、お泊まりの。</Dialog>
-          <Dialog>じゃあ、言っちゃおうかな。あなたと、旅行に行きたい。</Dialog>
-          <Dialog>それじゃあね……またあなたと、旅行に行きたいな。</Dialog>
-          <Dialog>旅行……それって、二人で？</Dialog>
-          <Dialog>……うん。</Dialog>
-          <Dialog>そっか、旅行か。</Dialog>
-          <Dialog>うん、また行きたい。</Dialog>
-          <Dialog>（旅行か……）</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Come to think of it... ▲Anegasaki*▲ is there anything you would like to do together?</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is it something you want to do... why?</Dialog>
+          <Dialog>Yeah. I wonder if there's anything special that can be a memory...</Dialog>
+          <Dialog>So... I'll say it. I want to go on a trip with you. Of course, it's a night.</Dialog>
+          <Dialog>So maybe I'll say it. I want to go on a trip with you.</Dialog>
+          <Dialog>Well then... I'd like to go on a trip with you again.</Dialog>
+          <Dialog>Travel...Is that the two of you?</Dialog>
+          <Dialog>……Yeah.</Dialog>
+          <Dialog>I see, a trip.</Dialog>
+          <Dialog>Yes, I want to go again.</Dialog>
+          <Dialog>(Travel...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -655,16 +655,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。この水着、どう？　あなたが選んでくれたんだから、似合ってるよね？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>似合ってる似合ってる！　●の見立ては間違ってなかった！</Dialog>
-          <Dialog>やった！　じゃあ、もっと見て？</Dialog>
-          <Dialog>（こんな感じかな……）</Dialog>
-          <Dialog>ねえ、この日焼けあと……。こういうのがいいの？</Dialog>
-          <Dialog>いい、いい！　最高!!　▲姉ヶ崎＊▲！</Dialog>
-          <Dialog>ふふ。あなたが喜んでくれるなら、恥ずかしくなんてないよ？</Dialog>
-          <Dialog>（なんてことも……）</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>▲The main character*▲. How about this swimsuit? You chose it, so it suits you, right?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>It suits you, it suits you! The idea of ​​● was not wrong!</Dialog>
+          <Dialog>Yes! So, look more?</Dialog>
+          <Dialog>(I think it's something like this...)</Dialog>
+          <Dialog>Hey, after this tan... Is this a good thing?</Dialog>
+          <Dialog>Good, good! The best!! ▲Anegasaki*▲!</Dialog>
+          <Dialog>n/a. If you're happy, then you won't be embarrassed.</Dialog>
+          <Dialog>(Whatever...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -749,16 +749,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、お風呂。お先にね？　……のぞかないでね？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>のぞかないって！</Dialog>
-          <Dialog>は～、気持ちいい～。ねえ、ほんとにのぞかないの？</Dialog>
-          <Dialog>（こんなことだって……）</Dialog>
-          <Dialog>ねえ、お風呂行ってくるけど。一緒に入る？</Dialog>
-          <Dialog>い、いいよ！　一人で入るから。</Dialog>
-          <Dialog>そう？　……ねえ、一緒に入りたいな？</Dialog>
-          <Dialog>（こ、これはさすがにないよな……）</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So, a bath. First, right? ...Don't peek, okay?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>I won't peer!</Dialog>
+          <Dialog>Ha, it feels good. Hey, are you really not peering in?</Dialog>
+          <Dialog>(Even though it's like this...)</Dialog>
+          <Dialog>Hey, I'm going to the bath. Will you go in together?</Dialog>
+          <Dialog>Yes, it's fine! Because I'll go in alone.</Dialog>
+          <Dialog>yes? ...Hey, do you want to join together?</Dialog>
+          <Dialog>(Hey, this is definitely not...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -844,17 +844,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。お風呂上がったよ。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲!?　その格好……。</Dialog>
-          <Dialog>格好がどうかしたの？　どこか変？</Dialog>
-          <Dialog>（まさか、こんなことも？）</Dialog>
-          <Dialog>▲姉ヶ崎＊▲～？</Dialog>
-          <Dialog>あっ、もう！</Dialog>
-          <Dialog>ご、ごめん！</Dialog>
-          <Dialog>ふふ、わざと？　ちゃんとお願いすれば、一緒に入ってあげるのに。</Dialog>
-          <Dialog>（ないない！　何考えてんだ、●は……）</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>▲The main character*▲. I got out of the bath.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>▲Anegasaki*▲!? That outfit...</Dialog>
+          <Dialog>What's up with you? Is it somewhere strange?</Dialog>
+          <Dialog>(Is this the case too?)</Dialog>
+          <Dialog>▲Anegasaki*▲~?</Dialog>
+          <Dialog>Ah, already!</Dialog>
+          <Dialog>Sorry!</Dialog>
+          <Dialog>Hehe, on purpose? If I ask him properly, I'll come in with him.</Dialog>
+          <Dialog>(No! What are you thinking, ● is...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -892,11 +892,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。何か考え事？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>え!?　……うん、ちょっとね。</Dialog>
-          <Dialog>ふふ、変なの。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>▲The main character*▲. Any ideas?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>What!?...Yeah, a bit.</Dialog>
+          <Dialog>Hehe, that's weird.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -939,12 +939,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、最近話題のゲーム。知ってる？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>さあ、どんなの？</Dialog>
-          <Dialog>ぱずるだま、だって。</Dialog>
-          <Dialog>そっか、じゃあ今度やってみようかな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah, this is a game that's been a hot topic recently. Do you know?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Now, what's it like?</Dialog>
+          <Dialog>Pinnacle, that's it.</Dialog>
+          <Dialog>I see, then I might give it a try next time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1031,17 +1031,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>これからもあなたは、私のそばにいるよね？</Dialog>
-          <Dialog>当たり前だ！</Dialog>
-          <Dialog>先のことはわからない</Dialog>
-          <Dialog>えっと……</Dialog>
-          <Dialog>ふふ、もう……。うれしいなあ……。</Dialog>
-          <Dialog>わからないの？　もう、そばにいてほしいの！</Dialog>
-          <Dialog>ふふ、イヤって言っても、私が離れないんだけどね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>▲The main character*▲.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>yeah?</Dialog>
+          <Dialog>You will be by my side from now on, right?</Dialog>
+          <Dialog>Of course!</Dialog>
+          <Dialog>I don't know what's going on</Dialog>
+          <Dialog>Umm...</Dialog>
+          <Dialog>Haha, already... I'm happy...</Dialog>
+          <Dialog>Don't you understand? I want you to be by your side now!</Dialog>
+          <Dialog>Hehe, even if I say no, I won't leave, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1069,10 +1069,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。あなたと一緒で、よかった……。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>▲The main character*▲. I'm glad I was with you...</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>▲Anegasaki*▲...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
