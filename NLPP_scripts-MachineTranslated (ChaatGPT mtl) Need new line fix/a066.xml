@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="532815585" Unknown="5">
+  <Entries>
+    <Entry Unknown0="3093158360" Unknown1="2092627867">
+      <SDL2 Key="2616717149">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>70034</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>84863</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>70035</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>Nene</Dialog>
+          <Dialog>This game progresses in conjunction with the DS console's clock. So you have to start by shaping the watch properly.</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="4181078295" Unknown1="1418868340">
+      <SDL2 Key="3410438072">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>70036</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>Nene</Dialog>
+          <Dialog>If the time is off, turn off the power and set the watch on the DS itself.</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3490640112" Unknown1="802230092">
+      <SDL2 Key="3410438072">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>70037</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>84863</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>70038</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>84863</Value0>
+                <Value1>500</Value1>
+              </Entry>
+              <Entry>
+                <Value0>70039</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>Nene</Dialog>
+          <Dialog>I see. So, decide on the game time according to your life. You're not lying?</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="2823670216" Unknown1="1873471371">
+      <SDL2 Key="3410438072">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>70040</Value0>
+                <Value1>0</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>Nene</Dialog>
+          <Dialog>Is this really okay?</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+    <Entry Unknown0="3911590151" Unknown1="1099048548">
+      <SDL2 Key="3410438072">
+        <Unknown>
+          <Entry>
+            <Values>
+              <Entry>
+                <Value0>70041</Value0>
+                <Value1>0</Value1>
+              </Entry>
+              <Entry>
+                <Value0>70042</Value0>
+                <Value1>500</Value1>
+              </Entry>
+            </Values>
+            <Value0>147456</Value0>
+            <Value1>65536</Value1>
+          </Entry>
+        </Unknown>
+        <Dialogs>
+          <Dialog>Nene</Dialog>
+          <Dialog>Yes, that's the end. Thank you for your hard work.</Dialog>
+        </Dialogs>
+      </SDL2>
+    </Entry>
+  </Entries>
+</DBIN2>
