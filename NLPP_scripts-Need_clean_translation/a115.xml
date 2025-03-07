@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="1710323857" Unknown="18">
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="1710323857" Unknown="18">
   <Entries>
     <Entry Unknown0="1894423766" Unknown1="1330920372">
       <SDL2 Key="3619755209">
@@ -11,8 +11,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだ……▲姉ヶ崎＊▲にあげようって用意したプレゼント、どうしようかな。</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>That's right... I wonder what to do with the present I prepared to give to Anegasaki*▲.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -41,11 +41,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>はい、これ。▲姉ヶ崎＊▲にって思って、買ってみたんだ。</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>プレゼント？　なんだろう♪　開けてもいい？</Dialog>
-          <Dialog>ああ。</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Yes, this. I bought it with the idea of ​​▲Anegasaki*▲.</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>present? What's it? ♪ Can I open it?</Dialog>
+          <Dialog>ah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -69,10 +69,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ああっ、これってすごくいいものでしょ？　香りが違うもの。ありがとう▼</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（これにして良かった！）</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah, this is really good isn't it? Something with a different scent. Thank you ▼</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>(I'm glad I did this!)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -96,10 +96,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、よさそう。これだといろんなお料理に使えるかも。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そのいろんな料理を期待してるよ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah, it looks good. This could be used in a variety of dishes.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>I'm looking forward to all sorts of food.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -123,10 +123,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これ……独特な感じだね。上手く使えるかわからないけど、ありがとう。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん……どういたしまして。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>This...it feels unique. I don't know if it will work well, but thank you.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Yes...you're welcome.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -150,10 +150,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、今度はこれを使ったお料理をご馳走しなくちゃね？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲なら美味しいの作ってくれそうだな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So, next time we have to treat you to a dish using this, right?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>▲Anegasaki*▲I think they'll make delicious food.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -172,9 +172,9 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>これさ、この間見つけた本なんだ。▲姉ヶ崎＊▲にあげるよ。</Dialog>
-          <Dialog>▲本の名前＊＊＊＊＊＊▲っていうタイトルなんだけど。</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>This is the book I found recently. I'll give it to Anegasaki*▲.</Dialog>
+          <Dialog>▲The title is ****▲.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -198,10 +198,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>わぁ！　この本ね、欲しいなと思ってたの。ありがとう♪</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうなんだ？　よかった。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Wow! I was thinking I wanted this book. Thank you ♪</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>That's right? good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -225,10 +225,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>嬉しいなぁ。これがあればもっと色んなお料理が作れるようになるね。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>期待して待ってるよ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'm happy. With this, I would be able to cook a variety of dishes.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>I'll be waiting with high hopes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -252,10 +252,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もしかして……私がこのジャンル苦手なの気づいてた？　これ見てしっかり勉強しなくちゃね。ありがとう。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだったのか……役に立てたってことかな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Maybe... did you realize that I'm not good at this genre? You have to look at this and study hard. thank you.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Is that so... I guess it was helpful.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -279,10 +279,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こんなのプレゼントしてもらっちゃったら、ご馳走しないわけにはいかないね？　ふふ▼</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>それは楽しみだな、よろしく！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>If you get a present like this, you can't help but be treated to it, right? n/a</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>I'm looking forward to that, please!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -326,13 +326,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>突然だけどさ、▲姉ヶ崎＊▲にプレゼントしたいものがあるんだ。</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私に？</Dialog>
-          <Dialog>はい。これ、きっと似合うと思うよ。</Dialog>
-          <Dialog>ほんとにもらっていいの？　なんだか悪いなぁ……。</Dialog>
-          <Dialog>いいんだって。それより、開けてみてよ。</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>It's abruptly, but there's something I'd like to give as a present to Anegasaki*▲.</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>To me?</Dialog>
+          <Dialog>yes. I'm sure this would suit you.</Dialog>
+          <Dialog>Can I really get it? It's kind of bad...</Dialog>
+          <Dialog>It's fine. Instead, open it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -356,10 +356,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>わぁ！　これ素敵♪　私のために選んでくれたんだね、ありがとう。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲にピッタリだと思ったんだ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Wow! This is wonderful♪ Thank you for choosing it for me.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>I thought it was perfect for ▲Anegasaki*▲.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -383,10 +383,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、私こういうの好きよ。ありがとう。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>喜んでもらえてよかった。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Oh, I like this kind of thing. thank you.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>I'm glad that you were happy.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -410,11 +410,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これが……私のイメージなんだ？
-ありがとう……。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>（あれ……失敗したかな……）</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>This is... what is my image?
+thank you…….</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>(Huh... I guess it's a failure...)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -433,8 +433,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私のこと考えてくれてたのが一番嬉しいな。いい子いい子▼</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'm glad that you were thinking about me. Good kids Good kids ▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -478,13 +478,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>じつは▲姉ヶ崎＊▲にもらってほしいものがあるんだ。</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あっ、なんだろう？　ドキドキするじゃない。</Dialog>
-          <Dialog>これ、この間ひとりで出かけたときに見つけたんだ。部屋にでも飾ってよ。</Dialog>
-          <Dialog>ほんとにいいの？　あまり気を遣わないでね。</Dialog>
-          <Dialog>気を遣ったんじゃないって。それよりさ、早く開けてみて。</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Actually, there's something I want ▲Anegasaki*▲ to give me.</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah, what's it? It's not that my heart is pounding.</Dialog>
+          <Dialog>I found this while I was out on my own the other day. Decorate it in your room too.</Dialog>
+          <Dialog>Is it really okay? Don't be too careful.</Dialog>
+          <Dialog>I didn't think he was concerned. Just open it sooner than that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -543,15 +543,15 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あのさ。これ、前に見つけて買ってきたんだけど……。</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ん？　何かな？</Dialog>
-          <Dialog>日記帳。前に付けてるって言ってたからさ。</Dialog>
-          <Dialog>あ、うれしい。ありがとう。</Dialog>
-          <Dialog>詳しくはよくわからないけど、なんだか特別な物らしいよ。</Dialog>
-          <Dialog>特別……そうね、なんだろう、不思議な雰囲気……。</Dialog>
-          <Dialog>（喜んでくれたみたいだな）</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>That's it. I found this before and bought it...</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>yeah? Something?</Dialog>
+          <Dialog>Diary. Because he said he was wearing it in the front.</Dialog>
+          <Dialog>Ah, I'm happy. thank you.</Dialog>
+          <Dialog>I'm not sure about the details, but it seems to be something special.</Dialog>
+          <Dialog>It's special...Yes, what is it, it has a strange atmosphere...</Dialog>
+          <Dialog>(It seems he was happy)</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

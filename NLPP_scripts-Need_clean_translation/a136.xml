@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="3609008257" Unknown="495">
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="3609008257" Unknown="495">
   <Entries>
     <Entry Unknown0="1246757666" Unknown1="660797950">
       <SDL2 Key="2303996394">
@@ -16,8 +16,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どうしたの、誰かと会うの？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What's wrong, are you going to meet someone?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -36,8 +36,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ、それ、楽しそう♪</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Haha, that looks fun ♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -56,8 +56,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ええ、そうなの？　ふふ、困っちゃう♪</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, is that so? Hehe, I'm in trouble♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -76,8 +76,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>姉ヶ崎　寧々です。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>This is Anegasaki Nene.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -96,8 +96,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えぇと、じゃあ……なんて呼べばいいかな？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Well, then... should I call you?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -120,8 +120,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲紹介友達名▲。うん……よろしく。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>▲Recommended friend name▲. Yes...please.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -140,8 +140,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あれ？　……じゃあ、もう一度。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Huh? ...So, one more time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -164,8 +164,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲紹介友達名▲。よろしくね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>▲Recommended friend name▲. Thank you very much.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -184,8 +184,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えぇ？　ちがう？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Huh? different?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -204,8 +204,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>う～ん、じゃあ、もうここに書いちゃって？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hmm, then why don't you just write it here?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -228,8 +228,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲紹介友達名▲。そっかそっか。よろしくね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>▲Recommended friend name▲. I see. Would you like to meet you?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -248,8 +248,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲紹介友達名▲。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>▲Recommended friend name▲.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -268,8 +268,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、お父さん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Oh, dad.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -288,8 +288,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、お母さん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah, mom.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -308,8 +308,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、お兄さん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Oh, brother.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -328,8 +328,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、お姉さん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah, lady.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -348,8 +348,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、どうもどうも。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah, hello.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -368,8 +368,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>おはよ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Good morning.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -388,8 +388,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>お早うございます。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Good morning.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -408,8 +408,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こんばんは。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Good evening.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -428,8 +428,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こんばんは。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Good evening.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -448,8 +448,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、久しぶり～。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah, it's been a while.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -468,8 +468,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ご無沙汰してました。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's been a while.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -488,8 +488,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ん？　なんか落とした？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>yeah? Did you drop something?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -508,8 +508,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なにか、落としものですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is it something to be lost?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -528,8 +528,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やっ！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's it!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -548,8 +548,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あっ！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -568,8 +568,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ダ～メ。やめなさい、もう。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Damn it. Stop it, already.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -588,8 +588,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>や、やだ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Oh, no...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -608,8 +608,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ちょっと、なに？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey, what?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -628,8 +628,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>わ、やだっ！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Wow, I don't want it!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -648,8 +648,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>え、え？　あの……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yeah? Um...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -668,8 +668,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ちょ、なんですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey, what is it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -688,8 +688,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えっ？　どういうこと？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Huh? What does that mean?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -708,8 +708,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やだ、な、なに？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>No, what?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -728,8 +728,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やめて。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Stop it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -748,8 +748,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やめて！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Stop it!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -768,8 +768,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>な、なんですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What is it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -788,8 +788,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やめてください。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Please stop.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -808,8 +808,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やめてください！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Please stop!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -828,8 +828,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>お～い、どこ見てんの？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey, where are you looking?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -848,8 +848,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もしもし、いますか～？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Could you be there?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -868,8 +868,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どこいったんだろ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Where did you go...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -888,8 +888,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えぇと……そんなに、じっと見ないでも……ねぇ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um...but don't stare at that much...huh?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -908,8 +908,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの……そんなに見ないでください……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um... please don't look that much...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -928,8 +928,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ちょっと、照れちゃうかも……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I might be a little embarrassed...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -948,8 +948,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ちょっと、近いかなぁ～って。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I wonder if it's a bit close.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -968,8 +968,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ちょっと、近すぎません？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Isn't it a bit too close?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -988,8 +988,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ち、近いんですけど……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yeah, it's close...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1008,8 +1008,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ん？　どうかした？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>yeah? What's up?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1028,8 +1028,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの、どうかしました？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um, what's up?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1048,8 +1048,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もしもーし、いますかぁ～。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is there anything you can do?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1068,8 +1068,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あれ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Huh?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1088,8 +1088,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えっと、待って待って。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Umm, wait and wait.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1108,8 +1108,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうだよね、うん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right, yes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1128,8 +1128,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっか、ふぅん……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see, hmm...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1148,8 +1148,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>う～ん？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hmm?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1168,8 +1168,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの……えと、もう、いいかな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um... um, maybe it's fine now.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1188,8 +1188,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えと……まぁ、いっか、うん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um... well, it's okay, yes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1208,8 +1208,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲紹介友達名▲。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>▲Recommended friend name▲.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1228,8 +1228,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ、お父さん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey, dad.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1248,8 +1248,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ、お母さん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey, mom.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1268,8 +1268,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ、お兄さん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey, brother.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1288,8 +1288,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ、お姉さん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey, lady.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1308,8 +1308,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっかそっか。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1328,8 +1328,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>だよね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1348,8 +1348,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>わかるなぁ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I understand.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1368,8 +1368,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうだよね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1388,8 +1388,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうかな？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is that so?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1408,8 +1408,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>う～ん……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hmm...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1428,8 +1428,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どういうこと？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What does that mean?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1448,8 +1448,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>アハ！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1468,8 +1468,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>おっかしい！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's funny!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1488,8 +1488,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1508,8 +1508,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えぇ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1528,8 +1528,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どうしよっかな……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I wonder what to do...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1548,8 +1548,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>困る……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>in trouble…….</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1568,8 +1568,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>よかった！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>good!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1588,8 +1588,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ありがとう！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>thank you!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1608,8 +1608,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うれしい！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>happy!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1628,8 +1628,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>よかったです。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1648,8 +1648,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ありがとうございます。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1668,8 +1668,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>すみません。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1688,8 +1688,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ～あ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ahhh.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1708,8 +1708,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>already…….</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1728,8 +1728,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ダメね……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's no good...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1748,8 +1748,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>残念……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>disappointing…….</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1768,8 +1768,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>がっかりです。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'm disappointed.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1788,8 +1788,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ハァ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Haa...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1808,8 +1808,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うんうん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes yes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1828,8 +1828,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっか、それで？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see, so?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1848,8 +1848,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なるほどなるほど。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1868,8 +1868,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ウソっ！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Lie!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1888,8 +1888,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ホント？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Really?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1908,8 +1908,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えぇっ！？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Oh! ?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1928,8 +1928,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ホントですか！？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is it true? ?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1948,8 +1948,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えっ、そうなんですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Huh, is that so?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1968,8 +1968,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もしかして、彼のお兄さん？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Maybe his brother?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1988,8 +1988,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの、もしかして、彼のお父さんですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um, maybe his dad?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2008,8 +2008,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの、もしかして、彼のお姉さんですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um, maybe his sister?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2028,8 +2028,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの、もしかして、彼のお母さんですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um, maybe his mom?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2048,8 +2048,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やっぱり！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>on second thoughts!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2068,8 +2068,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あれ？　そっか……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Huh? I see...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2088,8 +2088,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、カレとはどういう？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So, what is your boyfriend?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2108,8 +2108,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの……カレとはどういう？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um... what is he?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2128,8 +2128,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>え、じゃあ……お父さん、とか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Huh, then... Dad, etc?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2148,8 +2148,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、もしかして、弟くんかな？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So maybe your younger brother?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2168,8 +2168,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>え、まさかお母さん、とか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What, you can't believe it's mom, etc.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2188,8 +2188,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、もしかして、妹さん？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So maybe your sister?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2208,8 +2208,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あれ、じゃあ親戚？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Huh, then a relative?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2228,8 +2228,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>わたし、あの……彼とお付き合いしてます。姉ヶ崎、寧々といいます。よろしくお願いします。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'm dating him, um... My name is Anegasaki and Nene. thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2248,8 +2248,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>似てるかも……あ、いえ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Maybe they look similar... Ah, no.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2268,8 +2268,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの、お世話になってます。よろしく、お願いします。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um, thank you for your help. thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2288,8 +2288,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>お兄さんですか……ふふっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Are you a big brother... haha.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2308,8 +2308,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの、よろしくお願いします。お姉さん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um, thank you very much. Older sister.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2328,8 +2328,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>よろしくね。　お姉ちゃんって呼んで？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Thank you very much. Call me your sister?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2348,8 +2348,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>よろしくね。　お父さんに似てるねぇ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Thank you very much. He looks like his dad...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2368,8 +2368,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どうもです。　よろしくね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hello. Would you like to meet you?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2388,8 +2388,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なるほど。　よろしくお願いします。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see. thank you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2408,8 +2408,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん……すぐわかっちゃった、ふふっ！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes...I knew right away, huh!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2428,8 +2428,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やっぱり、家族ですよね。うん……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>After all, it's family. Yeah…….</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2448,8 +2448,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふわ……。あ、ゴメン……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Fluffy... Ah, sorry...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2468,8 +2468,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふわ……。やだ、ゴメンなさい……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Fluffy... No, sorry...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2488,8 +2488,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ちょっと質問なんですけど、家族の間でスキンシップが多いんですか？いえ、なんとなく。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I have a question: Are there a lot of skinship among family members? No, somehow.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2508,8 +2508,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これからも、よろしくね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I look forward to your continued support.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2528,8 +2528,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これからもよろしくお願いします。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>We look forward to your continued support.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2548,8 +2548,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>髪、そんなにおかしいかな……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>My hair is so weird...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2568,8 +2568,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>失敗しちゃった……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I failed...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2588,8 +2588,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なんかいっぱいいて。賑やかね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>There are a lot of them. Is it lively?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2608,8 +2608,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>それで、あなたは？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So, what about you?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2628,8 +2628,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、同じ質問させてください。どうですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So let me ask the same question. What do you think?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2648,8 +2648,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なるほど。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2668,8 +2668,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっか……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2688,8 +2688,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼とは、もう長い？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is he a long time?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2708,8 +2708,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼とはよく会う方？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Are you the person you often see him?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2728,8 +2728,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼から、わたしのこと、聞いてた？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Have you heard of me from him?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2748,8 +2748,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼、わたしのこと、何か？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What about him, me?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2768,8 +2768,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ちょっと、照れちゃうよね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You're a bit embarrassed, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2788,8 +2788,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なんか、不思議な感じですね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It feels strange, isn't it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2808,8 +2808,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ビックリ、しちゃった？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Surprised, did you do it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2828,8 +2828,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの、驚かせちゃいました？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um, did you surprise me?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2848,8 +2848,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こんなの、初めてだよね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>This is your first time doing something like this, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2868,8 +2868,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こういうの、初めてですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is this the first time I've had something like this?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2888,8 +2888,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっか。なんかそんな感じする。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see. That's how it feels.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2908,8 +2908,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、わたしと会えない時って……なるほどね？　ふふっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So, when you can't meet me... I see, isn't it? Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2928,8 +2928,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう、恥ずかしい……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's embarrassing now...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2948,8 +2948,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうですか……あの、こんな感じです。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see... um, it's like this.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2968,8 +2968,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうだよね？　ふふっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Isn't that so? Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2988,8 +2988,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ですよね、ふふっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right, huh.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3008,8 +3008,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうよね？　ゴメン。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Right, right? Sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3028,8 +3028,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ですよね、すみません。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right, sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3048,8 +3048,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>まあ、そうよね、うん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Well, that's right, yes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3068,8 +3068,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうですよね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right, isn't it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3088,8 +3088,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっか。ふぅん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see. Hmm.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3108,8 +3108,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、久しぶりかな？　よかった。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So, maybe it's been a while? good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3128,8 +3128,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうなの？　もう……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is that so? already…….</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3148,8 +3148,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>すみません、あの、お気づかいなく。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Sorry, um, you didn't notice.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3168,8 +3168,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうなんだ……よし、がんばろ、わたしも。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right...Okay, try hard, me too.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3188,8 +3188,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そ、そうですか。わたしだけ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Right, is that so? Is it just me?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3208,8 +3208,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっかそっか。　よかった。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see. good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3228,8 +3228,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、よかったです。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So, that's good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3248,8 +3248,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なんだ、じゃあ、よかった。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What, then, that's good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3268,8 +3268,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうなんですか、じゃあ、よかった。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is that so, that's good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3288,8 +3288,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>まだ、そんなに長くは……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's still not that long...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3308,8 +3308,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>まだ、そんなに長くないんです。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's not that long yet.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3328,8 +3328,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう１年以上。なんだよね……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Over a year already. What is it...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3348,8 +3348,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えと、もう1年以上になります。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Well, it's been over a year now.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3368,8 +3368,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どれくらいだっけ……もう、長～く。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>How long was it... for a long time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3388,8 +3388,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>わたし達、もう、ずいぶん長いです。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>We've been a long time now.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3408,8 +3408,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>いつも側にいて大切にしてくれるところ……言っちゃった！恥ずかし！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I told you that he's always there to be by your side and cherish you...! Shame!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3428,8 +3428,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>いつも側にいてくれて……大切にしてもらってます。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's always there by my side... and I'm being treated with care.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3448,8 +3448,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えぇと、優しいところ。温かいっていうか。ふふっ、恥ずかしい。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Well, it's a kind place. It's like it's warm. Hehe, it's embarrassing.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3468,8 +3468,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>優しい人だからだと、思います。温かい人です。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I think it's because he's a kind person. He's a warm person.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3488,8 +3488,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>それはほら、カッコいいでしょ、彼？　……なんてね！　ふふっ！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Look, he's cool isn't it? ...What a surprise! Hehe!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3508,8 +3508,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カッコいいですもん、彼。学校でもモテモテです。ふふっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's cool. He's also popular at school. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3528,8 +3528,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やっぱり、アタマがいいところ。わたしがボーッとしてるから。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>After all, my head is a good thing. Because I'm feeling dazed.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3548,8 +3548,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>それは、ほらアタマがいいし、話も面白いし――あの、やだ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>See, it's a good head and the story is interesting - um, I don't want it...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3568,8 +3568,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ダメ？　そういうの言わなきゃ？　う～ん……やっぱりダメ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>No way? I have to say that? Hmm...it's not good after all.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3588,8 +3588,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい？……あの、その内、また……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>yes? ...Um, again after that...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3608,8 +3608,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近なら……そうだ料理。美味しいって褒められたこと。がんばったから、余計嬉しくて。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Recently... that's right. Being praised for being delicious. I've worked hard, so I'm even more happy.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3628,8 +3628,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>料理が上手って褒められたこと。やっぱり、女子ですから。ふふっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Being praised for being good at cooking. After all, she's a girl. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3648,8 +3648,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近なら……やっぱり、プレゼント。うん……すごく嬉しかった。ふふっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Recently... it's a gift after all. Yes... I was so happy. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3668,8 +3668,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの、彼からプレゼントを……すごく嬉しかったです。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Well, I was so happy to receive a present from him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3688,8 +3688,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>大切な日を、また一緒に迎えられたことかな……なんて、ちょっと大人っぽいでしょ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I wonder if we were able to celebrate our important day together again... it's a bit of a mature look, isn't it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3708,8 +3708,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やっぱり、彼と一緒に大切な日を迎えられたこと――あ、やだ、恥ずかしい……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>After all, it's been such a shame to have been able to have a big day with him - Ah, I don't want to, I'm so embarrassed...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3728,8 +3728,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近……あ、そう！誕生日をお祝いしてもらったこと。ふふっ！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Recently... Ah, that's right! Having been celebrated for my birthday. Hehe!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3748,8 +3748,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>この間、誕生日だったんですけど、あの、彼がお祝いしてくれて……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It was my birthday the other day, but he celebrated me...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3768,8 +3768,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近嬉しかったのはやっぱり――えぇと……無し無し。忘れて？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What I've been happy about recently is as expected--Uh...no. Forget?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3788,8 +3788,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近嬉しかったのは彼が――あの……忘れてください。ホホホ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>The thing I've been happy about recently was that he--uh...forget it. Wow...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3808,8 +3808,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>メールのことかな。やっぱり少ないと、気になるよね、そういうの……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Maybe it's about email. After all, it's a concern when there aren't many...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3828,8 +3828,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ときどき、彼がメールをくれないことがあって。めんどくさがりじゃないですか、彼。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Sometimes he doesn't send me an email. Isn't he lazy?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3848,8 +3848,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>悩みか……う～ん、彼とスキンシップがちょっと足りないっていうか、ほら、よそよそしく感じるじゃない？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Are you worried... Hmm, I don't think I'm getting a little lacking in physical contact with him, but you see, it feels alienated, doesn't it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3868,8 +3868,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼がよそよそしいって言うか、スキンシップが――えぇと、やっぱりやめときます……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I mean, he's aloof, and his skin contact - uh, I'm quitting after all...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3888,8 +3888,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼と食事の好みが、合わないなぁと思うことがあって。けっこう重要だよ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I sometimes feel that my dietary preferences don't suit me. It's pretty important, isn't it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3908,8 +3908,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼と、たまに食事の好みが合わないことが……あ、でもわたしそういうとこどうにでもなります。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Sometimes I don't have a dietary preference with him... Ah, but I do whatever I do.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3928,8 +3928,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼がね、カメラに凝ってるんだけど……すぐ、エッチな角度で撮りたがるんだもん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's an obsessive camera, but... he wants to take a picture from a sexy angle right away.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3948,8 +3948,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近彼、カメラに凝ってるじゃないですか……それは、いいんですけど、えぇと……なんでもないです。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's been obsessed with cameras lately... that's fine, but uh... nothing.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3968,8 +3968,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>悩みか……やっぱり、あれかな……彼、ちょっとキスが……一生懸命なのはわかるけど、ね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is it a problem... I guess that's what he is... he kisses a little... I know he's working hard, but.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3988,8 +3988,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えぇと……やめときます。彼、けっこう傷つきやすいですもんね？　ふふっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um... I'm going to stop. He's pretty easily hurt, isn't he? Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4008,8 +4008,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ほら、突然触ってきたりとか……しつこい時。嫌な時だって、あるでしょ？そういうの。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>See, when you suddenly touch me...it's a stubborn time. There are times when you don't like it, right? That's how it is.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4028,8 +4028,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>悩み……あの、もしかして、お家ではスキンシップが盛んなんですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>A concern...Um, is there a lot of skinship at home?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4048,8 +4048,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>悩み、悩みか……悩んでないからな……最近。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Are you worried, worried... I'm not worried... I've been worried lately.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4068,8 +4068,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>悩みは……えぇと……すいません、あんまり悩んでないみたいです。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>My worries are... uh... sorry, it doesn't seem to be too worried.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4088,8 +4088,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>趣味は……映画鑑賞とか、あとは家の中のことをチマチマやること。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>My hobbies are watching movies and then doing things inside the house.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4108,8 +4108,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>趣味は映画鑑賞です。あとは、細かい片付けとか、意外と好きです。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>My hobby is watching movies. Also, I really like the fine tidying up.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4128,8 +4128,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>趣味とは違うかもしれないけど、最近、アルバイトが楽しくて……彼もいっしょだし、なんてね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It may not be a hobby, but I've been enjoying part-time work lately... and I can't help but think that he's with me.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4148,8 +4148,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近、彼と一緒にバイトに熱中してたりします。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Recently I've been obsessed with part-time jobs with him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4168,8 +4168,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>趣味はお料理です。……ふふっ、最近ハマってて。聞かれたら言ってみようって。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>My hobby is cooking. ...Hehe, I've been hooked lately. If asked, I'll tell you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4188,8 +4188,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近はですね、あの、お料理をよく作ってます。彼が食べてくれますから。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Lately, I've been cooking a lot. Because he'll eat it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4208,8 +4208,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近は、カメラかな……あ、撮るのじゃなくて撮られる方。ちょっと、モデル気分。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Lately, I guess it's a camera... Oh, the person who takes pictures, not the one who takes pictures. I feel like a model.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4228,8 +4228,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近は、彼の写真のモデルになるのが、趣味みたいになってます。二人の趣味です。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Recently, modeling his photography has become more of a hobby. It's the two of them' hobby.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4248,8 +4248,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>好きなのは……う～ん、のど飴はよく食べるかな、うん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What I like...hmm, I think I eat throat candy a lot, yes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4268,8 +4268,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうですね……なんでも。親が好き嫌いなく育ててくれたので、助かってます。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes... anything. My parents raised me without any dislikes, which is a relief.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4288,8 +4288,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ここのところ和食かな。よく、食べてるからかも。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I think it's Japanese food lately. Maybe it's because I eat it often.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4308,8 +4308,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近は、和食です。彼とよく食べに行くので。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Recently, it's Japanese cuisine. I often go out to eat with him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4328,8 +4328,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近よく行くレストランが出来て、そこのかな。美味しいの、そこ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Recently I've been going to a restaurant, so I guess it's there. It's tasty, there.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4348,8 +4348,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近彼とよく行ってるレストランがあるんですけど、そこのメニューです。あ、今度、行きましょう！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I've been to a restaurant with him a lot lately, and here's the menu there. Oh, let's go next time!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4368,8 +4368,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>中華かな……うん。奥が深いのよ、中華は。それが分かってきたかも。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Maybe Chinese...Yes. Chinese food is deep. Maybe I've come to understand that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4388,8 +4388,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近は中華ですね。よく食べに行きます、彼と。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's Chinese recently. I often go out to eat with him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4408,8 +4408,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近、気が付いたら彼の好きなものが好きになっちゃった……言っちゃった、恥ずかし……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Recently, before I knew it, I had fallen in love with what he liked...I said it, I'm embarrassed...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4428,8 +4428,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼の趣味が移っちゃったみたいで、一緒です、彼と。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It seems his hobby has shifted, and we're the same with him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4448,8 +4448,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>高三、１７だよ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>High school third year, 17th, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4468,8 +4468,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼の一つ上で、高三の１７です。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>One of them is my third year high school student.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4488,8 +4488,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>高三。１８になっちゃいました。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>High school third year. I've become 18.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4508,8 +4508,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼の一つ上で、高三の１８です。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>One of them is 18 from my third year high school student.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4528,8 +4528,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なに？　この髪？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>what? This hair?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4548,8 +4548,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、この髪ですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Oh, is this hair?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4568,8 +4568,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なぁに？この髪、そんな気になる？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What? Do you think this hair is that?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4588,8 +4588,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの、そんなに気になります？　この髪？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um, are you so concerned? This hair?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4608,8 +4608,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……この髪、やっぱりおかしいかな？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>...Is this hair really weird?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4628,8 +4628,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やっぱり、おかしいですか、この髪？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is this hair really weird?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4648,8 +4648,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なんとなく、いつもこんな風だけど……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>For some reason, it always looks like this...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4668,8 +4668,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>髪は、いつもこんな感じですけど……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>My hair always looks like this...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4688,8 +4688,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これは……彼のリクエストっていうか……ふふっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>This is... his request... haha.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4708,8 +4708,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こういうのが、彼の好みだそうなので……ふふっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Apparently this is what he likes... haha.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4728,8 +4728,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>この間切っちゃったんだけど……おかしいかな？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I cut it the other day... is that weird?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4748,8 +4748,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼と相談して、切ってみたんですけど……似合わないですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I consulted with him and tried cutting...but doesn't it suit me?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4768,8 +4768,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>この間染めたばかりなんだけど……おかしくない？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I just dyed it the other day... isn't it strange?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4788,8 +4788,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼と相談して染めてみたんですけど……おかしいですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I consulted with him and tried dyeing it... is that weird?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4808,8 +4808,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>よかった。　ふふっ！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>good. Hehe!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4828,8 +4828,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>え？　……うん、そっか。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>picture? ...Yeah, I see.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4848,8 +4848,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ときどきわかんなくなるんだけど、彼、もしかして趣味悪いのかな……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I sometimes don't understand, but maybe he's a bad taste...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4868,8 +4868,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの、彼の趣味って、家族の間では悪いってことになってます？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um, is his hobby a bad thing among his family?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4888,8 +4888,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっかそっか……なるほど。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see... I see.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4908,8 +4908,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっか、よかった。わたしが信じなきゃね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see, that's good. I have to believe it, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4928,8 +4928,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なぁに？　この服？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What? This outfit?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4948,8 +4948,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい？　あ、この服ですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>yes? Oh, is this outfit?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4968,8 +4968,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう、このカッコがそんなに気になる？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Are you so concerned about these braces now?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4988,8 +4988,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの、やっぱり気になります、この服？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um, I'm curious about this outfit?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5008,8 +5008,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>また……そんなにおかしい？この服？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Again... is that weird? This outfit?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5028,8 +5028,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えっと……そんなにおかしいですか、この服？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um... is this outfit that weird?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5048,8 +5048,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これは、彼が今日着て来てほしいって……おかしい？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>This makes me want him to wear it today... is that weird?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5068,8 +5068,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これ、実は彼のリクエストなんですけど……おかしいですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>This is actually his request... is that weird?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5088,8 +5088,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これ、実は彼からのプレゼントなんだけど……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>This is actually a present from him...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5108,8 +5108,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これ、実は彼からのプレゼントなんです……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>This is actually a present from him...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5128,8 +5128,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふっ、じゃあ、よかった！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hehe, then, that's good!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5148,8 +5148,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっか。うん、残念……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see. Yes, sorry...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5168,8 +5168,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ、やっぱり彼と一緒だと、女の子が着る服の好みの話になる？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey, if you're with him, will it be a matter of how you like clothes girls wear?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5188,8 +5188,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やっぱり、彼と一緒だと女の子が着る服の好みの話になるんですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>After all, if you're with him, do you end up talking about how girls like clothes they wear?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5208,8 +5208,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やっぱり……男子って、そんな話ばっかり。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>After all... boys just talk about that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5228,8 +5228,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうなんだ……意外かも。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right... maybe surprising.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5248,8 +5248,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふっ、可愛いもんだ。うん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hehe, that's cute. Yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5268,8 +5268,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>嘘。ぜったい嘘だと思う。ふふっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>lie. I think it's definitely a lie. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5288,8 +5288,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こういう感じのって、着る？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Do you wear something like this?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5308,8 +5308,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こういう感じの、着ることあります？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Do you ever wear something like this?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5328,8 +5328,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やっぱり！　趣味、合いそうだもんね、わたし達！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>on second thoughts! Hobbies seem to suit us!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5348,8 +5348,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、じゃあ、ぜったい趣味合いますよ、わたし達！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Oh, then, we definitely have a good hobby!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5368,8 +5368,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうちょっと大人っぽい感じとか……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It looks a little more mature...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5388,8 +5388,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうちょっと、大人しめの感じとか……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It feels a little more quiet...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5408,8 +5408,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、似合いそう……うんうん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah, it looks good... yes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5428,8 +5428,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>でもないか……う～ん？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>But isn't it...hmm?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5448,8 +5448,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ところで……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>by the way…….</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5468,8 +5468,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>血液型、Ａ型でしょ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Blood type: A, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5488,8 +5488,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>血液型、Ａ型ですよね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Your blood type is A, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5508,8 +5508,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>血液型、Ｂ型でしょ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Blood type, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5528,8 +5528,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>血液型、Ｂ型ですよね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Your blood type is B, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5548,8 +5548,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>血液型、ＡＢ型でしょ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Blood type: AB, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5568,8 +5568,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>血液型、ＡＢ型ですよね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Your blood type is AB, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5588,8 +5588,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>血液型、Ｏ型でしょ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Blood type, O, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5608,8 +5608,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>血液型、Ｏ型ですよね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Your blood type is O, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5628,8 +5628,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>でしょ！！　ゼッタイそうだと思った！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Right! ! I thought it was a bit sluggish!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5648,8 +5648,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ですよね？　ゼッタイそうだと思った。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Right, right? I thought it was a bit sluggish.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5668,8 +5668,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あれっ？　絶対そうだと思ったんだけどなぁ……本当は？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Huh? I thought that was definitely the case... what's true?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5688,8 +5688,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あれっ？　そうですか……じゃあ正解は？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Huh? I see... So what's the correct answer?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5708,8 +5708,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>へぇ……意外……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Wow...surprising...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5728,8 +5728,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうなんですか？う～ん、意外です。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is that so? Hmm, that's surprising.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5748,8 +5748,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>でしょ？　じゃ、いいのよね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Right? So, is it okay?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5768,8 +5768,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ですよね、やっぱり！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right, after all!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5788,8 +5788,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼と同じ血液型だよね、知ってる？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He has the same blood type as his, do you know?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5808,8 +5808,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼と同じですよね、うん、なるほどね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's the same as him, yeah, I see.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5828,8 +5828,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>それじゃあ、今度はわたし。何型だ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So, this time it's me. What type is it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5848,8 +5848,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、今度はわたし。何型でしょう？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So, this time it's me. What type is it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5868,8 +5868,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>当たりましたー！　大らかで頼れるO型ばんざーい！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I won! A generous and reliable O-shaped band!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5888,8 +5888,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>当たりでーす！　O型同士、同じにおいがしますよね？　ね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's a win! O-types smell the same, right? hey?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5908,8 +5908,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ざんねーん！　正解は、O型です。そう、彼と一緒。大雑把なカップルです。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's not good! The correct answer is type O. Yes, with him. It's a rough couple.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5928,8 +5928,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>残念、正解は、O型でーす。そう、彼と一緒で、どっちかって言うと大雑把です。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Unfortunately, the correct answer is O type. Yes, it's the same as him, and it's roughly what you mean.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5948,8 +5948,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ん？　……ちなみに、どのあたりが？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>yeah? ...By the way, which area?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5968,8 +5968,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、そういうところあるかも。なるほど、それでか。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Oh, maybe there's something like that. I see, that's it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5988,8 +5988,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どうしてぇ？そんなことないんだけどな……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Why? That's not the case though...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6008,8 +6008,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>まあ、そういうところもありますな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Well, there are places like that too.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6028,8 +6028,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>因みに正解は……ジャン！　O型でした。　わかりやすいって言われるんだけど……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Incidentally, the correct answer is...Jean! It was O-type. It's said to be easy to understand...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6048,8 +6048,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねぇ、それじゃ、血液型相性診断。信じる？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey, then, let's go for a blood type compatibility diagnosis. believe?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6068,8 +6068,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>それじゃ、血液型の相性って信じちゃいます？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So, do you believe that blood type compatibility?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6088,8 +6088,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>だよね！　じゃあ、自分と相性いいのって何型？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right! So, what type of thing is it that goes well with me?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6108,8 +6108,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ですよね！　じゃあ、自分と相性がいいのは何型だと思いますか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right! So, which type do you think is best suited to you?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6128,8 +6128,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうですか……当たるんだけどなぁ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see... but it's a hit.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6148,8 +6148,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そう、ですよね？　うん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, right? Yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6168,8 +6168,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やっぱり、キッチリしてるところとか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>After all, it's a place that's neat?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6188,8 +6188,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>それは……クリエイティブな感じがするからとか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Maybe it's because it feels...creative?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6208,8 +6208,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>へぇ……ちょっとミステリアスな感じがいいとか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Wow... Is it a bit mysterious?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6228,8 +6228,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もちろん、相性バッチリ▼　大らか同士だし。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Of course, they're perfect for compatibility ▼ They're all generous friends.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6248,8 +6248,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>違う？　じゃあ……あ、好きな人の血液型だったりして？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>different? So... Oh, is it the blood type of the person you like?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6268,8 +6268,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やっぱり！オッケーオッケー。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>on second thoughts! OK OK.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6288,8 +6288,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっか……う～ん、気になるな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see... um, I'm curious.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6308,8 +6308,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん。あなたとは、そういう感じが合うのかも。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yeah. Maybe that's what you feel like.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6328,8 +6328,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なんか、わかる気がします。うん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I feel like I understand. Yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6348,8 +6348,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>相性バッチリのパターンだよね？それ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's a perfect pattern, right? that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6368,8 +6368,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>相性バッチリですよね、そういうパターン。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's the perfect pattern to match.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6388,8 +6388,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>相性なんて、気の持ちようだし、あなたはそうなのかもね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It seems like you're interested in compatibility, so maybe you are?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6408,8 +6408,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>まあ、相性なんて、気の持ちようですもんね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Well, you seem to be interested in compatibility, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6428,8 +6428,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>それじゃ、血液型的には彼とも相性バッチリなんだ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So, in terms of blood type, he's a perfect match for him too.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6448,8 +6448,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、彼とは血液型診断では、いまいちなんだ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So, I'm not very good at blood type diagnosis with him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6468,8 +6468,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>実際の相性は、どういう感じ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What is the actual compatibility?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6488,8 +6488,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうだよね。うん、気にしない気にしない。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right. Yes, I don't care.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6508,8 +6508,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうなの？　……そっか。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is that so? ...I see.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6528,8 +6528,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ちょっと確認なんだけど……自分の上に兄弟、いる？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'll check it out a bit... Are there any brothers above me?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6548,8 +6548,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>だと思った。下の子っていうオーラ出てるもん。じゃあ、もしかしてお兄さん、いる？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's what I thought. He has an aura of being a younger child. So maybe you have a big brother?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6568,8 +6568,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>でしょ？　じゃあ、弟、いる？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Right? So, do you have a younger brother?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6588,8 +6588,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>大当たりー！　当てるの得意だもん♪</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Jackpot! I'm good at winning!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6608,8 +6608,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>お姉さんか……言われてみれば、甘えんぼっぽい？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is she an older sister... Come to think of it, does she seem like a spoiled person?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6628,8 +6628,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>大当たりー！　超能力です。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Jackpot! It's a supernatural power.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6648,8 +6648,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>おしい！　いると思ったんだけどなぁ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's good! I thought there was.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6668,8 +6668,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>因みに、わたしは、一人っ子です。兄弟欲しかったな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Incidentally, I am an only child. I wanted a brother.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6688,8 +6688,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうだ、せっかくだから聞いちゃお……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right, I'll ask since I'm here...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6708,8 +6708,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>せっかくだから聞いちゃいますけど……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'll ask since I'm going to have it...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6728,8 +6728,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼って、昔からこんな感じ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Has he always looked like this?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6748,8 +6748,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼って、子供の頃からこうなんですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Has he been like this since he was a child?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6768,8 +6768,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうなんだ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right…….</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6788,8 +6788,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>だったんですね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Was it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6808,8 +6808,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっか……へぇ、意外かも。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see... wow, maybe surprising.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6828,8 +6828,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうだったんだ……わかった気がします、いろいろ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right... I think I understand, various things.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6848,8 +6848,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>それじゃあ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Well then...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6868,8 +6868,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼、家でもいつも、活動的な感じ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Does he always seem active at home?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6888,8 +6888,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼ってお家でもやっぱり、やんちゃなんですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is he still mischievous at home?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6908,8 +6908,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼って、家でもいつも、落ち着いてる感じ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Does he always feel calm at home?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6928,8 +6928,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼ってお家でもやっぱり、のんびり屋さんですか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is he a relaxed guy at home?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6948,8 +6948,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふっ、じゃあ、同じだ。安心しちゃった。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hehe, then, it's the same. I felt relieved.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6968,8 +6968,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふっ、じゃ、同じなんですね。わたしと一緒のときと。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hehe, then it's the same. When I was with me.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6988,8 +6988,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふぅん……わたしの前では、カッコつけてるのかな？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hmm... Are you looking cool in front of me?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7008,8 +7008,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうなんだ……ちょっと想像つかないです。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right... I can't imagine it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7028,8 +7028,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>わたしといる時は、どっちかっていうと、のんびーりしてる、かな？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>When I'm with me, I'm more of a relaxed person, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7048,8 +7048,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>わたしの前ではどっちかっていうと、積極的な感じ、かな？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>In front of me, I think he's more of an aggressive feeling?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7068,8 +7068,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>それに、いつも優しくて……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Plus, always kind...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7088,8 +7088,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>でも、時々ちょっとクールだったり……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>But sometimes it's a bit cool...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7108,8 +7108,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼のそういうところ、好きになったのかな……ふふっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I wonder if he fell in love with that kind of thing... haha.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7128,8 +7128,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼のそういうところが、わたしは、好きなんだなって、思ってます。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I think I like that kind of thing about him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7148,8 +7148,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼から、優しい人って聞いてたけど……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'd heard from him that he's a kind person...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7168,8 +7168,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼からはクールな人って聞いてたけど……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'd heard he was a cool guy...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7188,8 +7188,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼からは大人しい人って聞いてたけど……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'd heard from him that he's a quiet person...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7208,8 +7208,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼からは賑やかな人って聞いてたけど……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'd heard from him that he's a lively person...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7228,8 +7228,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼からはマジメな人って聞いてたけど……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I've heard he's a serious person...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7248,8 +7248,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>彼からは面白い人って聞いてたけど……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I've heard he's funny...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7268,8 +7268,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>でも、会ってみたら違って……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>But when I met him it was different...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7288,8 +7288,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>聞いてたとおり、ふふっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>As you heard, huh.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7308,8 +7308,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>聞いてたとおりでした。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It was just as I had heard.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7328,8 +7328,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やさしいよね？　すごく。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's easy isn't it? Very good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7348,8 +7348,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やさしいんですね。ふふっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's easy. Hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7368,8 +7368,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>実は、クールだよね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Actually, it's cool, isn't it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7388,8 +7388,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>クールなんですね？　本当は。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is it cool? Actually.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7408,8 +7408,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>大人しいよね、意外と</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's so quiet, surprisingly</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7428,8 +7428,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>落ち着いた方ですよね、本当は。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's a calm person, really.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7448,8 +7448,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>賑やかな人だなって。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's a lively person.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7468,8 +7468,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>楽しい方なんだなって。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I guess he's a fun person.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7488,8 +7488,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>真面目な人だよね、うん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's a serious person, yes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7508,8 +7508,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>キチッとした方ですよね、すごく。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's a tough guy, he's really.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7528,8 +7528,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>変な人！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>A strange person!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7548,8 +7548,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>面白い方ですよね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's an interesting person, isn't he?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7568,8 +7568,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今日は、本当に会えて楽しかった。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It was really fun to meet you today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7588,8 +7588,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今日は、会えて嬉しかったです。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I was happy to meet you today.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7608,8 +7608,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの、もしかして、彼の弟くん？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um, maybe his younger brother?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7628,8 +7628,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの、もしかして、彼の妹さん？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um, maybe his sister?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7648,8 +7648,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あれ、じゃあ、お兄さん？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Huh, then, brother?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7668,8 +7668,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あれ、じゃあ、お姉さん？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Huh, then, lady?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7688,8 +7688,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、どうも……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah, hello...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7708,8 +7708,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>その……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>the…….</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7728,8 +7728,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>n/a.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7748,8 +7748,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>that…….</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7768,8 +7768,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あっ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7788,8 +7788,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えっと……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Umm...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7808,8 +7808,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>yes?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7828,8 +7828,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>その……少し顔が怖くて……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That... my face is a little scary...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7848,8 +7848,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>え？　……あっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>picture? ...Ah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7868,8 +7868,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ん……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>yeah…….</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7888,8 +7888,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう……どこ見てるの？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Now... where are you looking?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7908,8 +7908,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>その……どこ、見てますか？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Where are you looking at that...?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7928,8 +7928,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ええっ……ええっ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Oh... huh?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7948,8 +7948,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ちょっと、あれ？　ふふ、もう！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey, huh? Hehe, already!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7968,8 +7968,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あれえ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Huh?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7988,8 +7988,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>いたっ。ふふ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>There was. n/a.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8008,8 +8008,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>いたっ……。もう……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>There was... already…….</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8028,8 +8028,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>きゃっ！　ふふ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ahh! n/a.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8048,8 +8048,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>んっ……ちょっと……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hmm... just a bit...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8068,8 +8068,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>その、そろそろ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's about time...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8092,8 +8092,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。助けてよ～。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>▲The main character*▲. Please help me.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8112,8 +8112,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あっ！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8132,8 +8132,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えっ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Huh?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8152,8 +8152,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ええっ！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Oh!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8172,8 +8172,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>きゃっ！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ahh!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8192,8 +8192,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ん？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>yeah?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8212,8 +8212,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あっ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8232,8 +8232,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>えっ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8252,8 +8252,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ええっと……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Uh huh...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8272,8 +8272,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>きゃっ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ahhh...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8292,8 +8292,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ん……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>yeah…….</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8312,8 +8312,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8332,8 +8332,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>え？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>picture?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8352,8 +8352,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ええっ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Huh?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8372,8 +8372,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>きゃっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ahhh.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8392,8 +8392,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>んっ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hmm.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8412,8 +8412,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>a…….</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8432,8 +8432,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……ん？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>……yeah?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8452,8 +8452,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふぅ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hmm...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8472,8 +8472,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ん～……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hmm...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8492,8 +8492,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あなたって……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You are...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8512,8 +8512,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やさしいんだね……そう思った。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's easy... I thought so.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8532,8 +8532,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>クールな人なんだね、言われない？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You're a cool person, you didn't say it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8552,8 +8552,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>落ち着いてるね。物静か、っていうか。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You're calm. It's quiet, I mean.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8572,8 +8572,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>にぎやかな感じだね、ふふ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It feels lively, huh.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8592,8 +8592,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>真面目なんだ。うん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's serious. Yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8612,8 +8612,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>正直すぎるっていうか……ほら、視線が。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I mean, it's too honest... Look, my gaze.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8632,8 +8632,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……なんだかエッチな視線を感じたんだけど？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>...I felt a sexy gaze somehow?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8652,8 +8652,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なんだかじろじろ見てくるような、気のせいかな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I guess it's just my imagination, like I'm staring at him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8672,8 +8672,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>女の子のことじろじろ見るのは失礼だよ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is it rude to stare at a girl?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8692,8 +8692,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じーっと見つめてくるんだね。なにか気になるんだ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's staring at me. I'm curious about something.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8712,8 +8712,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>スキンシップが好きなのかな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I wonder if he likes skinship.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8732,8 +8732,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>少し行き過ぎてるかな。その、スキンシップが。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Maybe I'm going a little too far. That skinship.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8752,8 +8752,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>女の子はもっと大切に扱った方がいいと思うな。触りすぎ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I think girls should be treated more carefully. Too much touch.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8772,8 +8772,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>会話のタイミングがマイペースなんだね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>The conversation is at its own pace.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8792,8 +8792,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>すごくマイペースだね。会話のタイミング、自由過ぎるよ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's really at my own pace. The timing of the conversation is too free.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8812,8 +8812,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>緊張しやすいのかな？　もう少し話したかったね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is it easy to get nervous? I wish I could have talked about a little more.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8832,8 +8832,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>緊張しちゃうタイプだね。あまり話せなかったな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's the type who gets nervous. I didn't talk much about it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8852,8 +8852,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>その、思ったんですけど……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I thought so...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8872,8 +8872,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やさしい方なんですね……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's a kind person...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8892,8 +8892,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>きっと、クールな方なんですね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He must be a cool guy.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8912,8 +8912,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>穏やかな方なんですね。そう感じました。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's a calm person. That's how I felt.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8932,8 +8932,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なんだか、賑やかな方なんですね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's kind of a lively person.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8952,8 +8952,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>真面目な方なんですね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's a serious person.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8972,8 +8972,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>視線が……気のせいかもしれないですけど。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>My gaze might be... just my imagination though.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8992,8 +8992,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>視線が少し気になって……ごめんなさい。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'm a little worried about my gaze... sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9012,8 +9012,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの、見られてる気がして……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Well, I feel like I'm being watched...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9032,8 +9032,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>見てましたよね。緊張しちゃいました。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You were watching it, right? I got nervous.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9052,8 +9052,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>見つめられて……緊張しました。はい。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I was stared at him... and nervous. yes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9072,8 +9072,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの、スキンシップが……。なんでもないです。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Well, skinship... It's nothing.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9092,8 +9092,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの、スキンシップがお好き、っていうことなんですか。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um, you say you like skinship.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9112,8 +9112,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はっきり言って、あの、触りすぎだと思います。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>To be honest, I think it's too much to touch.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9132,8 +9132,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>会話のタイミングがマイペースなんですね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>The conversation is at its own pace.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9152,8 +9152,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>すごくマイペースですよね。あ、会話のタイミングのことなんですけど。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's really at my own pace, isn't it? Oh, it's about the timing of the conversation.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9172,8 +9172,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>緊張してました？　もう少しお話したかったです。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Were you nervous? I would have liked to talk a little more.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9192,8 +9192,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>緊張してたように見えました。あまりお話できなかったですね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It looked like I was nervous. I couldn't talk much about it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9212,8 +9212,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あなたって、似てるよね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You look similar, don't you?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9232,8 +9232,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの、似てますよね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Um, they look similar, isn't it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9252,8 +9252,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>スポーツ選手の……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Athlete's...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9272,8 +9272,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>アーティストの……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>The artist...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9292,8 +9292,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>芸能人の……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Celebrity's...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9312,8 +9312,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>会社の……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>About the company...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9332,8 +9332,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>学校の……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>At school...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9352,8 +9352,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>部活の……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Of club activities...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9372,8 +9372,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今話題の……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's a hot topic right now...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9392,8 +9392,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今男性に人気の……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's popular with men now...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9412,8 +9412,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今女性に人気の……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's popular with women now...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9432,8 +9432,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>テレビでよく見る……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I often see it on TV...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9452,8 +9452,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>映画に出てる……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's appearing in the movie...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9472,8 +9472,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>教科書に載ってる……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's in the textbook...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9492,8 +9492,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>海外の……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Overseas...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9512,8 +9512,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>友達の……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>My friend's...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9532,8 +9532,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>知り合いの……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>A friend...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9552,8 +9552,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カレの親戚の……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>My boyfriend's relatives...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9572,8 +9572,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カレの家族の……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>My boyfriend's family...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9592,8 +9592,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>この間、街で見かけた……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I saw it on the street the other day...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9612,8 +9612,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あのロマンチストの……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That romantic...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9632,8 +9632,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あのナルシストの……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That narcissist...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9652,8 +9652,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの話が上手な……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That story is good...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9672,8 +9672,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あの天才の……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That genius...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9692,8 +9692,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>みんなの憧れの……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Everyone's dreams...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9712,8 +9712,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>少しダメな感じの……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It feels a bit bad...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9732,8 +9732,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ、そっくりなんだもん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hehe, it looks exactly like that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9752,8 +9752,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい、そっくりだと思います。。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, I think it's exactly like that. .</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9772,8 +9772,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あれ？　そっくりだと思うんだけどな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Huh? I think it looks exactly like that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9792,8 +9792,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうですか？　似てると思ったんですけど……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>is that so? I thought they looked similar...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9812,8 +9812,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そう？　似てると思ったんだけどな……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>yes? I thought they looked similar...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9832,8 +9832,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、ごめんなさい。似てるかなって思ったんですけど。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah, sorry. I thought they might look similar.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9852,8 +9852,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これからもよろしくね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I look forward to working with you in the future.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9872,8 +9872,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これからもよろしくお願いします。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>We look forward to your continued support.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9892,8 +9892,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲紹介友達名▲。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>▲Recommended friend name▲.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9912,8 +9912,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うーん……そうでもない、かな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hmm...not that, maybe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

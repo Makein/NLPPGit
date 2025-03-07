@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="3810114324" Unknown="75">
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="3810114324" Unknown="75">
   <Entries>
     <Entry Unknown0="730348301" Unknown1="1799942222">
       <SDL2 Key="394531270">
@@ -31,12 +31,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねえ。こういう髪型……好き、かな？　短くしちゃったんだけど。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>それは……。</Dialog>
-          <Dialog>もちろん！</Dialog>
-          <Dialog>なんてことを！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey. I like this hairstyle...I wonder if it's? I made it shorter though.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>it is…….</Dialog>
+          <Dialog>of course!</Dialog>
+          <Dialog>What a thing!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -70,12 +70,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>短めにカットしてもらったんだけど、どう思う？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん……。</Dialog>
-          <Dialog>かわいい！</Dialog>
-          <Dialog>だめかな……</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I had it cut short, what do you think?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Yeah…….</Dialog>
+          <Dialog>cute!</Dialog>
+          <Dialog>I guess it's not good...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -109,12 +109,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ショートにしてみたの。感想ほしいな。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>似合ってるよ</Dialog>
-          <Dialog>ノーコメントで……</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I tried shorting it. I want a comment.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>That's right...</Dialog>
+          <Dialog>It suits you</Dialog>
+          <Dialog>No comments...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -148,12 +148,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ね、新しい髪型……気づいてるよね？　これぐらいの長さ、どう？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ、うん……。</Dialog>
-          <Dialog>とってもいい！</Dialog>
-          <Dialog>あまり似合ってない……</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey, a new hairstyle... you've noticed it, right? How long is this long?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Ah, yes...</Dialog>
+          <Dialog>It's very good!</Dialog>
+          <Dialog>It doesn't suit me very well...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -187,12 +187,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>何も言ってくれないの？　せっかく長さ、変えてみたのに。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっと……。</Dialog>
-          <Dialog>好みの長さ！</Dialog>
-          <Dialog>イマイチ……</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You won't say anything? I tried changing the length.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Umm...</Dialog>
+          <Dialog>The length you like!</Dialog>
+          <Dialog>Not very good...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -226,12 +226,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねえ。セミロングもいいかなと思ったんだけど、あなたはどう？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●は……。</Dialog>
-          <Dialog>いい、好き！</Dialog>
-          <Dialog>ちょっと微妙……</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey. I thought a semi-long one would be good, but what do you think?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>●Huh...</Dialog>
+          <Dialog>Okay, I like it!</Dialog>
+          <Dialog>A bit odd...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -265,12 +265,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ロング、好きかなと思ったんだけど……合ってる？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっと……。</Dialog>
-          <Dialog>うん、好き！</Dialog>
-          <Dialog>少し違うかな</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I thought I like Long, but... is that right?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Umm...</Dialog>
+          <Dialog>Yes, I like it!</Dialog>
+          <Dialog>Maybe it's a little different</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -304,12 +304,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>この髪、あなたのために伸ばしたの……気に入ってくれた？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>それは……。</Dialog>
-          <Dialog>すごく気に入った！</Dialog>
-          <Dialog>ごめん</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I grew this hair for you... did you like it?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>it is…….</Dialog>
+          <Dialog>I really like it!</Dialog>
+          <Dialog>sorry</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -343,12 +343,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ。髪の長い私、どうかな？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん……。</Dialog>
-          <Dialog>好みだ！</Dialog>
-          <Dialog>まあ……あんまり</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>n/a. I have long hair, what do you think?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Yeah…….</Dialog>
+          <Dialog>I like it!</Dialog>
+          <Dialog>Well... not too much</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -367,8 +367,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うれしい……あなたの好みにもっと近づきたい。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'm happy...I want to get closer to your taste.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -387,8 +387,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私も日々、愛される努力してるんだから。ふふ、よかった。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I also strive to be loved every day. Hehe, that's good.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -407,8 +407,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねえ……私のこと、もっと好きになってもいいからね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey... you can just fall in love with me more.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -427,8 +427,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……そう。うん、わかった……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>……yes. Yes, I understand...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -447,8 +447,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こうじゃなかったんだ……ごめん。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That wasn't like this... sorry.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -467,8 +467,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うーん……難しいな、男の子って。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hmm...it's difficult, boys.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -502,12 +502,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>新しい髪型、どう？　気に入ってくれるとうれしいな……。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん……。</Dialog>
-          <Dialog>気に入った！</Dialog>
-          <Dialog>あんまり……</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What about your new hairstyle? I'd be happy if you like it...</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Yeah…….</Dialog>
+          <Dialog>I like it!</Dialog>
+          <Dialog>Not too much...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -541,12 +541,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>イメチェンに挑戦してみたんだけど……成功してる？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっと……。</Dialog>
-          <Dialog>大成功！</Dialog>
-          <Dialog>失敗かも……</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I tried making an image change... but is it successful?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Umm...</Dialog>
+          <Dialog>Great success!</Dialog>
+          <Dialog>Maybe it's a failure...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -580,12 +580,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>このヘアスタイル、あなたはどう思う？　感想聞きたいな？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うーん……。</Dialog>
-          <Dialog>最高！</Dialog>
-          <Dialog>うーん……</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What do you think of this hairstyle? Would you like to hear your thoughts?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Hmm...</Dialog>
+          <Dialog>The best!</Dialog>
+          <Dialog>Hmm...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -604,8 +604,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……やったあ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>...Yeah.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -624,8 +624,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、惚れ直しちゃった？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Oh, have you fallen in love again?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -644,8 +644,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>正直なんだから、もう。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Honestly, I'm already.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -664,8 +664,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……ちょっと、ショックかも。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>...Maybe I'm a bit shocked.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -684,8 +684,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>せっかく変えたのに……もう。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I've changed it by a long time...but...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -704,8 +704,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あーん、予想外……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah, unexpected...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -739,12 +739,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねえ、色変えてみたんだけど、前と印象変わったよね？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>髪の色か……。</Dialog>
-          <Dialog>良くなった！</Dialog>
-          <Dialog>前のほうが良かった</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey, I tried changing the colour, but the impression I got changed from before, right?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Is it your hair color?</Dialog>
+          <Dialog>It's getting better!</Dialog>
+          <Dialog>The previous one was better</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -778,12 +778,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>髪、染めてみたの。カレシとしてはどう？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲と、その髪の色……。</Dialog>
-          <Dialog>バッチリ合うね！</Dialog>
-          <Dialog>あんまり合わないな</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I tried dyeing my hair. How about you as a boyfriend?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>▲Anegasaki*▲ and her hair color...</Dialog>
+          <Dialog>It fits perfectly!</Dialog>
+          <Dialog>It doesn't suit me very much</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -817,12 +817,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃーん。この髪の色、かわいい？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うーん……。</Dialog>
-          <Dialog>かわいい！</Dialog>
-          <Dialog>好きじゃない</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Right. Is this hair color cute?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Hmm...</Dialog>
+          <Dialog>cute!</Dialog>
+          <Dialog>I don't like it</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -856,12 +856,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>髪……こういう色もアリかなって思ったんだけど……。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>変わった色だね……。</Dialog>
-          <Dialog>アリだな！</Dialog>
-          <Dialog>ナシじゃないかな</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hair...I thought this colour would be fine too...</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>It's a strange color...</Dialog>
+          <Dialog>That's fine!</Dialog>
+          <Dialog>Isn't it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -895,12 +895,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あはは、ちょっと冒険しすぎたかな？　どう、この色？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>正直……。</Dialog>
-          <Dialog>意外と似合う！</Dialog>
-          <Dialog>冒険は失敗だよ</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Haha, maybe I was a little too adventure? How about this color?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Honesty…….</Dialog>
+          <Dialog>Surprisingly it suits you!</Dialog>
+          <Dialog>The adventure is a failure</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -934,12 +934,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>髪、思いきっちゃった。さらに思いきって感想聞いちゃう。どう思う？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どう思うって……。</Dialog>
-          <Dialog>かわいすぎる！</Dialog>
-          <Dialog>●には言えない</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>My hair is overwhelmed. I'll even listen to my thoughts. What do you think?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>What do you think...</Dialog>
+          <Dialog>It's too cute!</Dialog>
+          <Dialog>Can't say to ●</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -958,8 +958,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ちょっと、服装を変えてみたくなって。ダメじゃないといいんだけど。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'm feeling a little tempted to change my outfit. I hope it's not bad.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -978,8 +978,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>いろんな私を見てもらいたくって。服のイメージ変えてみたんだけど、気に入ってくれる？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I want you to see me all sorts of things. I've changed the image of my clothes, but will you like it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -998,8 +998,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>服の印象変えてみました。こんな感じの私もいいでしょ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I tried to change the impression of my clothes. Isn't it okay for me to be like this?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1038,13 +1038,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>服変えてみたの。清楚な感じを目指したんだけど……。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>んー……。</Dialog>
-          <Dialog>ばっちり清楚</Dialog>
-          <Dialog>ちょっと失敗かな</Dialog>
-          <Dialog>別にいいんじゃない</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I tried changing my clothes. I was aiming for a neat and clean feeling...</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Hmm...</Dialog>
+          <Dialog>It's super pure</Dialog>
+          <Dialog>Maybe it's a bit of a failure</Dialog>
+          <Dialog>It's not good either</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1083,13 +1083,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>おとなしめの服装でまとめてみたの。似合うでしょ？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>それは……。</Dialog>
-          <Dialog>もちろん似合ってる</Dialog>
-          <Dialog>あんまり似合ってない</Dialog>
-          <Dialog>普通？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I put it together in a quiet outfit. Does it suit you?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>it is…….</Dialog>
+          <Dialog>Of course it suits you</Dialog>
+          <Dialog>It doesn't suit me very well</Dialog>
+          <Dialog>usually?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1128,13 +1128,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今日は清楚な寧々さんです。お気に召しまして？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっと……。</Dialog>
-          <Dialog>お気に召しました！</Dialog>
-          <Dialog>ごめん、いまいち</Dialog>
-          <Dialog>まあまあ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Today I'm Nene, who's innocent. Do you like it?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Umm...</Dialog>
+          <Dialog>I liked it!</Dialog>
+          <Dialog>Sorry, it's not good</Dialog>
+          <Dialog>Ah?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1173,13 +1173,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今日の服、どうかな？　こういうかわいい系って……。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっと……。</Dialog>
-          <Dialog>好きだな</Dialog>
-          <Dialog>好きじゃないな……</Dialog>
-          <Dialog>どうって言われても</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What about today's clothes? Such a cute type...</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Umm...</Dialog>
+          <Dialog>I like it</Dialog>
+          <Dialog>I don't like it...</Dialog>
+          <Dialog>No matter what you say</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1218,13 +1218,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>かわいい服にしてみたんだけど、正直どう思う？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん……。</Dialog>
-          <Dialog>たしかにかわいい</Dialog>
-          <Dialog>似合ってない</Dialog>
-          <Dialog>特に何も</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I tried wearing cute clothes, but what do you think?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Yeah…….</Dialog>
+          <Dialog>Certainly cute</Dialog>
+          <Dialog>It doesn't suit me</Dialog>
+          <Dialog>Nothing in particular</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1263,13 +1263,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ。かわいいでしょ、今日の服。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ……。</Dialog>
-          <Dialog>とってもかわいい</Dialog>
-          <Dialog>似合わない気がする</Dialog>
-          <Dialog>普通普通</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>n/a. Isn't it cute today's clothes?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>ah…….</Dialog>
+          <Dialog>Very cute</Dialog>
+          <Dialog>I don't think it suits me</Dialog>
+          <Dialog>Normal normal</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1308,13 +1308,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……ちょっとラフすぎるかな？　こういう服装はイヤ？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●は……。</Dialog>
-          <Dialog>いいと思うな</Dialog>
-          <Dialog>イヤ……かも</Dialog>
-          <Dialog>気にしない</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>...Is it a little too rough? Do you not like this outfit?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>●Huh...</Dialog>
+          <Dialog>I think it's good</Dialog>
+          <Dialog>I don't... maybe</Dialog>
+          <Dialog>Don't worry</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1353,13 +1353,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どう？　こういう、カジュアルな服のカノジョも悪くないでしょ？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>むしろ、いい！</Dialog>
-          <Dialog>よくない、かな</Dialog>
-          <Dialog>どっちでもいいや</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>copper? A girlfriend who wears casual clothes like this isn't bad either, right?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>That's right...</Dialog>
+          <Dialog>Rather, it's good!</Dialog>
+          <Dialog>Not good, maybe</Dialog>
+          <Dialog>Either is fine</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1398,13 +1398,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねえ。今日みたいなカジュアルな格好も、新鮮な感じしない？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>んー……。</Dialog>
-          <Dialog>新鮮でいいな</Dialog>
-          <Dialog>ズレてる気がする</Dialog>
-          <Dialog>別に……</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey. Don't you think the casual outfits like today are refreshing too?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Hmm...</Dialog>
+          <Dialog>It's fresh and nice</Dialog>
+          <Dialog>I feel like it's off</Dialog>
+          <Dialog>Not particularly...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1443,13 +1443,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>この服、少し大胆だけど……あなたのために用意したんだよ？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……そうか。</Dialog>
-          <Dialog>すごくうれしいよ</Dialog>
-          <Dialog>その格好は、ちょっと……</Dialog>
-          <Dialog>気にしてなかった</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>This outfit is a little bold, but... I've prepared it for you, right?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>...I see.</Dialog>
+          <Dialog>I'm so happy</Dialog>
+          <Dialog>That outfit is a bit...</Dialog>
+          <Dialog>I didn't care</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1488,13 +1488,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>この服。あなたが喜ぶかな～って。さあ、どう？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ……。</Dialog>
-          <Dialog>喜んでる！</Dialog>
-          <Dialog>はずしてるよ……</Dialog>
-          <Dialog>どうって……どうだろ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>This outfit. I wonder if you'll be happy. Now, what do you think?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>ah…….</Dialog>
+          <Dialog>I'm happy!</Dialog>
+          <Dialog>I'm taking it off...</Dialog>
+          <Dialog>What... what do you think?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1533,13 +1533,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今日はセクシーな服にしてみました。あなたの好みに合ってる？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>それは……。</Dialog>
-          <Dialog>もちろんもちろん！</Dialog>
-          <Dialog>合ってないな</Dialog>
-          <Dialog>よくわかんない</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Today I tried out sexy clothes. Does it suit your taste?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>it is…….</Dialog>
+          <Dialog>Of course!</Dialog>
+          <Dialog>It's not right</Dialog>
+          <Dialog>I don't really know</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1558,8 +1558,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ありがとう……。ふふ、ドキドキしちゃった。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>thank you……. Hehe, my heart is pounding.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1578,8 +1578,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>作戦成功。やったね！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>The strategy was successful. You did it!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1598,8 +1598,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>よしよし、いい返事ね。私もこの服、気に入っちゃった。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Okay, good response. I also liked this outfit.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1618,8 +1618,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そう……。じゃあ、今度はもっと頑張るから。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>yes……. So, I'll try harder this time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1638,8 +1638,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……残念。もう、次こそ見とれさせちゃうんだから。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>……disappointing. The next time I'll make you see it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1658,8 +1658,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>違った？　そっかぁ……あなたの好み、もっと研究しなくちゃ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is it wrong? I see... I have to research your preferences more.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1678,8 +1678,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふーん……いろいろ悩んで決めたのにな……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hmm...I thought a lot about it and decided...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1702,8 +1702,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こら、適当に返事しない。次そんな言い方したらお仕置きよ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I don't respond appropriately. If you say that next time, you'll punish him?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1722,8 +1722,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あー、いけないなあ。カノジョの服にはもっと関心持たなきゃダメ。ね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah, that's not good. I have to be more interested in my girlfriend's clothes. hey?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1742,8 +1742,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……もういい。もっと私のこと見てもらえるように頑張るから。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>...It's fine now. I'll try my best to make you look at me more.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1762,8 +1762,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう……まだまだ勉強が足りないよ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I still don't have enough learning.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1782,8 +1782,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ほんとに興味ないの……？　もっと関心もってほしいな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Are you really not interested...? I hope they will be more interested.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1822,13 +1822,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>いつも清楚な感じの服を選んでるけど……どうなのかな？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうなんだ。</Dialog>
-          <Dialog>このままがいいんじゃない？</Dialog>
-          <Dialog>別のがいいんじゃ……</Dialog>
-          <Dialog>どっちでもいいと思うけど</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I always choose clothes that look neat... but... I wonder what it is like?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>That's right.</Dialog>
+          <Dialog>Isn't it better to stay like this?</Dialog>
+          <Dialog>Another one would be better...</Dialog>
+          <Dialog>I think either is fine</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1867,13 +1867,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねえ、私の服装、どう思う？　違う格好の私も見てみたい？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうだな……。</Dialog>
-          <Dialog>今の服装が似合ってる</Dialog>
-          <Dialog>違う格好も見てみたい</Dialog>
-          <Dialog>別にどっちでも</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey, what do you think about my outfit? Would you like to see me dressed differently?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>That's right...</Dialog>
+          <Dialog>My current outfit suits me</Dialog>
+          <Dialog>I want to see a different outfit too</Dialog>
+          <Dialog>Either way</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1916,13 +1916,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近、気分転換に服を変えてみるのもいいかなって……私の今のファッション、あなたはどう思ってる？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●としては……。</Dialog>
-          <Dialog>今の服装が好き</Dialog>
-          <Dialog>変えてみるのもいい</Dialog>
-          <Dialog>あんまり興味ない</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Lately, I thought it might be a good idea to try changing clothes to change my mood... What do you think about my current fashion?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>●As...</Dialog>
+          <Dialog>I like the outfit now</Dialog>
+          <Dialog>It's good to try changing it</Dialog>
+          <Dialog>I'm not very interested</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1961,13 +1961,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねえ、今日みたいな服、あなたは気に入ってくれてる……？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>その服のこと？</Dialog>
-          <Dialog>かわいいじゃない</Dialog>
-          <Dialog>実はいまいち……</Dialog>
-          <Dialog>気にしてなかった</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey, you like the clothes you see today...?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>About that outfit?</Dialog>
+          <Dialog>It's not cute</Dialog>
+          <Dialog>Actually, it's not that great...</Dialog>
+          <Dialog>I didn't care</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2006,13 +2006,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近こういうかわいい系の服で攻めてるわけですが、あなたにはちゃんと届いてる？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>えっと……。</Dialog>
-          <Dialog>グッときてるよ！</Dialog>
-          <Dialog>あんまり届いてないかも</Dialog>
-          <Dialog>よくわからないな</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Recently, I've been attacking with cute clothes like this, but has it reached you properly?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Umm...</Dialog>
+          <Dialog>I'm excited!</Dialog>
+          <Dialog>It may not have arrived much</Dialog>
+          <Dialog>I don't really understand</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2051,13 +2051,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ね、今日みたいな服ってどうなのかな？　あなたの理想に近づいてる？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>それは……。</Dialog>
-          <Dialog>近づいてるよ</Dialog>
-          <Dialog>少し遠ざかってる、かな</Dialog>
-          <Dialog>ごめん、●にもわからない</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Well, what about clothes like today? Are you approaching your ideals?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>it is…….</Dialog>
+          <Dialog>I'm getting closer</Dialog>
+          <Dialog>Maybe it's a little farther away</Dialog>
+          <Dialog>Sorry, I don't know</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2096,13 +2096,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今日みたいな服、あなたは好き？　だったらいいんだけど……。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>服装ね……。</Dialog>
-          <Dialog>●は好きだよ</Dialog>
-          <Dialog>●の好みとは違うかな……</Dialog>
-          <Dialog>好きでも嫌いでもないなあ</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Do you like clothes like today? If so, it would be fine...</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Dress up...</Dialog>
+          <Dialog>I like ●</Dialog>
+          <Dialog>Is it different to what you like?</Dialog>
+          <Dialog>I don't like it or dislike it</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2141,13 +2141,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>最近、こういう動きやすい服もいいなって思ってるけど……カレシとしてはどうなのかな？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●？</Dialog>
-          <Dialog>気に入ってるよ</Dialog>
-          <Dialog>ちょっとひっかかる……</Dialog>
-          <Dialog>好きに決めたらいいよ</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Recently, I've been thinking that clothes like these easy to move in are great... but I wonder what it would be like for my boyfriend.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>●?</Dialog>
+          <Dialog>I like it</Dialog>
+          <Dialog>It's a bit of a catch...</Dialog>
+          <Dialog>You should decide what you like</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2186,13 +2186,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こういう格好の私、あなたはどう思ってる？　あなたの好みに近づきたいもの。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●の好みでは……。</Dialog>
-          <Dialog>ぜんぜんＯＫだよ</Dialog>
-          <Dialog>どうかと思う……</Dialog>
-          <Dialog>決められない</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What do you think of me, dressed like this? Something you want to get closer to your taste.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>●Add to your preference...</Dialog>
+          <Dialog>It's completely OK</Dialog>
+          <Dialog>I think so...</Dialog>
+          <Dialog>I can't decide</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2211,8 +2211,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そう？　だったらいいの。あなたがそう言ってくれるなら。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>yes? That's fine. If you would say that.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2231,8 +2231,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、わかった。あなたの表情でだいたいわかってたけどね、ふふ▼</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, I understand. I knew it pretty much from your expression, huh ▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2251,8 +2251,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>了解。ふふ、あなたが喜んでくれるのが一番だもの。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>roger that. Haha, the best thing is that you're happy.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2271,8 +2271,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうだったんだ……。私、もっと頑張るから、期待してて。ね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right... I'll try harder, so I'm looking forward to it. hey?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2291,8 +2291,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふーん……わかった、今後の参考にするね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hmm...Okay, I'll use it as a reference for the future.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2311,8 +2311,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>正直でよろしい。あなたの好み、覚えておくね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'm fine with honesty. Remember your preferences.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2335,8 +2335,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あのね、あなたのために聞いたんだけど……ううん、なんでもない……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Well, I asked for it for you... ugh, nothing...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2355,8 +2355,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう、生返事？　よくないよ、そういうの。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Already reply? That's not good, that's what it is.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2375,8 +2375,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう少し私のこと、興味持ってほしいなあ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I wish they would be more interested in me...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

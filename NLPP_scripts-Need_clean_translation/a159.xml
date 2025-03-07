@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="3074508845" Unknown="5">
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="3074508845" Unknown="5">
   <Entries>
     <Entry Unknown0="3671386258" Unknown1="2335066434">
       <SDL2 Key="1032435686">
@@ -16,8 +16,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう、予定があるけど……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I already have plans but...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -36,9 +36,9 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>その日は予定があるけど、
-いいの？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I have plans that day, but
+Is it okay?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -57,8 +57,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、わかった。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, I understand.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -77,8 +77,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい、どうぞ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>here you are</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -97,8 +97,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>召し上がれ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Enjoy.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="1772677116" Unknown="21">
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="1772677116" Unknown="21">
   <Entries>
     <Entry Unknown0="4122284637" Unknown1="517654151">
       <SDL2 Key="2207086775">
@@ -21,10 +21,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今日はいい１日だったね……。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>またこうなるといいな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Today was a great day...</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>I hope it will happen again.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -48,10 +48,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ほんとはまだ帰りたくないけど……バイバイ。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>バイバイ。またデートしような。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I really don't want to go home yet but...bye.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>bye bye. I'll go on a date again.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -75,10 +75,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>今日はありがとう、こんなに楽しくしてくれて。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲のためなら、これくらい……。じゃあね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Thank you for today, for making you so much fun.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>▲For Anegasaki*▲, that much... Well then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -102,10 +102,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ここで大丈夫。ありがとう。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん。じゃあね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's okay here. thank you.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Yeah. Well then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -129,10 +129,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ここでお別れだね。ちょっとさびしい？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん……だからまた誘うよ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Here's a goodbye. A bit lonely?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Yes... so I'll invite you again.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -156,10 +156,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、あなたも気をつけて帰ってね。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>わかった。じゃあね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So, you should take care of yourself.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Understood. Well then.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -183,10 +183,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ここでいいから。それじゃ。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ、うん……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's fine here. That's it.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Ah, yes...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -210,10 +210,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>こんなの、今日だけにしてよ……？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……ごめん。じゃあ、またね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Do something like this only today...?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>……sorry. see you later.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -237,10 +237,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふぅ……着いたね。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>それじゃ……また。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Whew... I've arrived.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>See you later....</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -264,10 +264,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あなたも楽しかったよね？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん。バイバイ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>You had fun too, didn't you?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Yeah. bye bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -291,10 +291,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、まだいた。じゃあね。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん……じゃ、バイバイ！</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Oh, there was still. Well then.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Yes... bye bye!</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -318,10 +318,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もう一度、顔見ておこうと思って。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ああ……バイバイ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I thought I'd look at my face again.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Ah...bye.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -345,10 +345,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>どうしたの？</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あと少しだけ、そばにいたいから……。</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>what happened?</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I want to be by my side for a little more...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -372,10 +372,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>あ……。</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>さあ、こういうときはどうすればいい？</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>a…….</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Now, what should I do in such a situation?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -403,10 +403,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。やり残してることない？</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>▲Anegasaki*▲...</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>▲The main character*▲. Is there anything you haven't done yet?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -430,10 +430,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん……もう大丈夫。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そっか、よかった……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes... it's okay now.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>I see, that's good...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -457,10 +457,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>これ以上は、キリがないから……。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん……そうだね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>There's no more to this...</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Yes... that's right.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -484,10 +484,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふぅ……胸がいっぱい。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>●も……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Phew... my heart is full.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>●And too...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -511,10 +511,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ごめんね、ありがと……。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ううん、いいよ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Sorry, thank you...</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Yes, it's fine...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -538,10 +538,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、ＯＫ。じゃあね。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>うん……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, OK. Well then.</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Yeah…….</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -565,10 +565,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>なに、焦っちゃった？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>そうかも……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What, did you get anxious?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Maybe so...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
