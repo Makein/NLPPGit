@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="2974569771" Unknown="17">
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="2974569771" Unknown="17">
   <Entries>
     <Entry Unknown0="3418548859" Unknown1="1912744995">
       <SDL2 Key="569794892">
@@ -55,11 +55,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>今日誘う</Dialog>
-          <Dialog>週末誘う</Dialog>
-          <Dialog>うん。いいよ</Dialog>
-          <Dialog>うーん……都合つかないな</Dialog>
-          <Dialog>やめておく</Dialog>
+          <Dialog>Invite me today</Dialog>
+          <Dialog>Invite me on weekends</Dialog>
+          <Dialog>Yeah. It's fine</Dialog>
+          <Dialog>Hmm...it's not convenient</Dialog>
+          <Dialog>Stop it</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -93,11 +93,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>今日誘う</Dialog>
-          <Dialog>週末誘う</Dialog>
-          <Dialog>うん。いいよ</Dialog>
-          <Dialog>うーん……都合つかないな</Dialog>
-          <Dialog>やめておく</Dialog>
+          <Dialog>Invite me today</Dialog>
+          <Dialog>Invite me on weekends</Dialog>
+          <Dialog>Yeah. It's fine</Dialog>
+          <Dialog>Hmm...it's not convenient</Dialog>
+          <Dialog>Stop it</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -131,11 +131,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>今日誘う</Dialog>
-          <Dialog>週末誘う</Dialog>
-          <Dialog>うん。いいよ</Dialog>
-          <Dialog>うーん……都合つかないな</Dialog>
-          <Dialog>やめておく</Dialog>
+          <Dialog>Invite me today</Dialog>
+          <Dialog>Invite me on weekends</Dialog>
+          <Dialog>Yeah. It's fine</Dialog>
+          <Dialog>Hmm...it's not convenient</Dialog>
+          <Dialog>Stop it</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

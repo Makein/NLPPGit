@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="1999811031" Unknown="73">
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="1999811031" Unknown="73">
   <Entries>
     <Entry Unknown0="92662651" Unknown1="4229493363">
       <SDL2 Key="4282891332">
@@ -20,8 +20,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうすぐお正月。やっぱり最初のデートは初詣が定番かな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>New Year is coming soon. I guess the first date is a standard time to visit the shrine for the first time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -44,8 +44,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>二人の新しい一年がよくなるように、きちんとお参りしたいな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I would like to pray properly so that the new year for the two of them improves.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -68,8 +68,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>初詣行きたいけど……大丈夫かな、カレ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I want to go to the shrine for the first time, but... I wonder if he's okay.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -92,8 +92,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうすぐバレンタイン。どうしよう。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Valentine's Day is coming soon. What should I do?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -112,8 +112,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カレへの愛情、ちゃーんと届けるんだ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'll bring you love for him in a flash.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -136,8 +136,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私の気持ち、送りたいけど。ちゃんとカレまで届くかな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I want to send my feelings though. I wonder if it'll reach my boyfriend properly.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -160,8 +160,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうすぐホワイトデー。気にしないのは、無理だなあ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>White Day is coming soon. It's impossible not to worry about it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -184,8 +184,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カレのこと、信じてるもん。きっと素敵な日になるだろうな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I believe in him. It's sure to be a wonderful day.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -208,8 +208,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>大丈夫、信じてるもん。忘れてなんか……ないよね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's okay, I believe it. Forget it... isn't it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -232,8 +232,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうすぐエイプリルフール。何か言ってくるかな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>April Fool's Day is coming soon. Maybe he'll say something.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -256,8 +256,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カレの嘘だったら、信じたくなっちゃうな。ふふ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>If it's a lie about him, I'd want to believe it. n/a.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -280,8 +280,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どうだろ。あまり、気にしてないな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I wonder. I don't really care.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -304,8 +304,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうすぐゴールデンウィーク。何があるかな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Golden Week is coming soon. I wonder what's there?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -328,8 +328,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>楽しく過ごせるといいな。もちろん、カレと一緒に。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I hope you can have fun. Of course with him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -348,8 +348,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>予定……何かあるのかな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Plan...I wonder if there's something.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -372,8 +372,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうすぐ学校のプール開き。私を見たら、カレどんな反応するんだろ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>The school pool will soon open. I wonder how he reacts when he sees me.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -392,8 +392,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>自信ないけど、やっぱり見て欲しい気持ちの方が強いな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'm not confident, but I still feel more keen to see it.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -412,8 +412,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>他の子に目移りしちゃったら、どうしよう。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What should I do if I get caught up in the other child?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -436,8 +436,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうすぐ七夕。カレはどんな願い事するのかな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Tanabata is coming soon. I wonder what kind of wish he makes.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -460,8 +460,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私がお願いするのは……もちろんカレと、ふふ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What I would like to ask... of course, hey, huh.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -484,8 +484,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うーん。私がはしゃいでも、カレは付き合ってくれるかな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hmm. Even if I'm excited, I wonder if my boyfriend will go out with me.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -504,8 +504,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうすぐ水着コンテストだって。男の子、好きだよね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>The swimsuit contest will soon be held. I like boys, don't they?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -524,8 +524,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カノジョが優勝したら、喜ぶのかな？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Will my girlfriend be happy if she wins?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -548,8 +548,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はあ……。他の子の水着、じろじろ見るのかな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Haa... I wonder if they'll stare at the other kids' swimsuits.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -572,8 +572,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうすぐ体育祭。カレのかっこいいところ、見たいな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>The sports festival is coming soon. I want to see what he's cool.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -592,8 +592,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>がんばってるカレを応援するのが好き……ふふ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I love supporting my hard worker...hehe.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -616,8 +616,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>思い出できるかな。気にしてくれるといいんだけど。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Maybe I can remember it. I hope they care.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -640,8 +640,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうすぐハロウィン。カレと二人で過ごすなら、どうするのがいいかな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Halloween is coming soon. What would you do if you were going to spend time with your boyfriend?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -660,8 +660,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カレのことビックリさせる、いい機会かも。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It might be a good opportunity to surprise you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -680,8 +680,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カレ、興味もってくれるかな……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I wonder if he'll be interested...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -704,8 +704,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうすぐ文化祭。カレと過ごせれば、きっと楽しいな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>The cultural festival is coming soon. It's sure to be fun to spend time with your boyfriend.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -724,8 +724,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カレと二人でロマンチックに過ごせないかな……ふふ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I wonder if I can spend my time together with my boyfriend... haha.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -748,8 +748,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>予定あわなかったら、どうしよう。ふう……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What if you don't have plans? Whew...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -772,8 +772,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうすぐクリスマス。イヴは絶対、カレと一緒に……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Christmas is coming soon. Eve is definitely with him...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -796,8 +796,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カレのことだもん。きっと一緒にいてくれる。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's about him. I'm sure they'll be with you.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -816,8 +816,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もし一緒に過ごせなかったら、私……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>If we can't spend time together, I...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -840,8 +840,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私たちは「前からの付き合い」なの。ね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>We are "foreign relationships." hey?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -860,8 +860,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私たち「今回からの付き合い」なんだよ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Are we "we're dating this time"?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -888,8 +888,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うふふ、聞いて？　あのね、お泊まりしたんだ。カレと▼</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hehe, listen? Well, I stayed overnight. With boyfriend ▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -908,8 +908,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私は、カレと一緒にお泊まりしたいって、思ってるんだけどね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'm thinking about staying overnight with my boyfriend.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -932,8 +932,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カレと出かけたら日焼けしちゃって。もう水着の跡がすごいの。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I went out with my boyfriend and got sunburned. There are already a lot of signs of swimsuits.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -956,8 +956,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カレと一緒に泳いだんだけど、日焼け対策はちゃんとしたんだ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I swam with my boyfriend and I did some good sun protection.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -980,8 +980,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やさしいの、すっごく。そこがカレのいいとこ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>It's easy, so incredible. That's the best part about him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1004,8 +1004,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カレってクールで。そこがまたかっこいいんだ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's cool. That's what's cool again.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1028,8 +1028,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カレ、年下なのに。私のことリードしてくれることもあるんだ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>He's younger than me. Sometimes they'll lead me.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1052,8 +1052,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カレってちょっぴり受け身だから。やっぱりお姉さんがリードしないとね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Because he's a bit passive. After all, the lady needs to lead.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1076,8 +1076,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カレが「大きな画面でよく見えるようになった」って。なんのことだろ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>My boyfriend said, "I can now see better on the larger screen." What's that about?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1100,8 +1100,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カレがね「もっと大きな画面がいいな」って言うの。うーん、なんだろ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>My boyfriend says, "I would love a bigger screen." Hmm, what is it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1124,8 +1124,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カレとサヨナラしても、またすぐ会いに来るの。甘えん坊なの。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Even if I go away with him, I'll come and see him again soon. He's a spoiled boy.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1148,8 +1148,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>一旦サヨナラするとね、次になかなか会えないんだ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Once you say goodbye, you won't be able to meet again the next time...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1168,8 +1168,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はい、交代。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, it's a replacement.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1188,8 +1188,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>じゃあ、次はあなたの番だね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So it's your turn next.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1208,8 +1208,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>私の話は……あのね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>My story is... um, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1228,8 +1228,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そうだな、こっちは……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>That's right, this one...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1252,8 +1252,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ、呼び方知りたいな。カレのこと、なんて呼んでるの？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Oh, I want to know how to call it. What do you call him?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1272,8 +1272,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ねえねえ。カレのこと、何て呼んでるか、教えて欲しいな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Hey hey. I'd like to know what you're calling him.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1296,8 +1296,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。です。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>▲The main character*▲. is.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1320,8 +1320,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲。なんだ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>▲The main character*▲. What?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1340,8 +1340,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>苗字かあ、なるほどね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>My last name, I see.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1364,8 +1364,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふふ、やっぱり名前？　そうなんだ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Haha, is it the name after all? That's right.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1384,8 +1384,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あー、仲よしなんだ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah, we're good friends.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1408,8 +1408,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……そっか～。うーん、へ～？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>...I see. Hmm, huh?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1432,8 +1432,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっちの呼び方は？　どんなの？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What is that called? What's it like?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1452,8 +1452,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>それじゃあ、あなたはなんて呼んでるのかな？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>So, what are you calling it?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1472,8 +1472,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、知りたいな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, I want to know.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1492,8 +1492,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うんうん、教えて？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, please tell me?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1512,8 +1512,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あは、そうなんだあ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah, that's right.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1532,8 +1532,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うらやましいな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I'm jealous.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1552,8 +1552,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>わかるわかる、あるよね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I understand, I know, there is.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1572,8 +1572,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……そうなんだ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>……That's right.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1592,8 +1592,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もうすぐ水着コンテストだって。男の子、好きだよね。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>The swimsuit contest will soon be held. I like boys, don't they?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1612,8 +1612,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>カノジョが優勝したら、喜ぶのかな？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Will my girlfriend be happy if she wins?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1636,8 +1636,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はあ……。他の子の水着、じろじろ見るのかな。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Haa... I wonder if they'll stare at the other kids' swimsuits.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

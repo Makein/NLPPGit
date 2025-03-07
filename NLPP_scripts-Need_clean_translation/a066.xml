@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="532815585" Unknown="5">
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="532815585" Unknown="5">
   <Entries>
     <Entry Unknown0="3093158360" Unknown1="2092627867">
       <SDL2 Key="2616717149">
@@ -24,8 +24,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>このゲームは、ＤＳ本体の時計に連動して進むんだよ。だから、時計をちゃんと合わせてからはじめないといけないの。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>This game progresses in conjunction with the DS console's clock. So you have to start by shaping the watch properly.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -44,8 +44,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もし時間がずれてたら一度電源をＯＦＦにして、ＤＳ本体の時計を合わせてきてね？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>If the time is off, turn off the power and set the watch on the DS itself.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -80,8 +80,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>そっか。じゃあ、ゲームの時間をあなたの生活に合わせて決定して。嘘ついちゃヤだよ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>I see. So, decide on the game time according to your life. You're not lying?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -100,8 +100,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>本当に、これで大丈夫？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Is this really okay?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -124,8 +124,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、これで終わりだよ。お疲れさま。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, that's the end. Thank you for your hard work.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

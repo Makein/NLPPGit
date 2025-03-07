@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="4158544426" Unknown="2">
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="4158544426" Unknown="2">
   <Entries>
     <Entry Unknown0="749824292" Unknown1="2833980319">
       <SDL2 Key="835965661">
@@ -85,21 +85,21 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>▲主人公＊▲……
-もう、寝ちゃった？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ううん。</Dialog>
-          <Dialog>なんだか、眠れないね？</Dialog>
-          <Dialog>うん……。</Dialog>
-          <Dialog>ねぇ……。</Dialog>
-          <Dialog>ん？</Dialog>
-          <Dialog>明日の朝、
-目が覚めても一緒なんだね？</Dialog>
-          <Dialog>うん。</Dialog>
-          <Dialog>ふふ。
-おやすみ▼</Dialog>
-          <Dialog>おやすみ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>▲The main character*▲...
+Have you fallen asleep already?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>Yes.</Dialog>
+          <Dialog>I can't sleep somehow, can't you?</Dialog>
+          <Dialog>Yeah…….</Dialog>
+          <Dialog>Hey...</Dialog>
+          <Dialog>yeah?</Dialog>
+          <Dialog>Tomorrow morning
+It's the same when you wake up, right?</Dialog>
+          <Dialog>Yeah.</Dialog>
+          <Dialog>n/a.
+Good night ▼</Dialog>
+          <Dialog>good night…….</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -163,18 +163,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>ふぁ～～……
-そろそろ、寝よっか？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>じゃあ、電気、暗くするよ。</Dialog>
-          <Dialog>ねぇ……。</Dialog>
-          <Dialog>なに？</Dialog>
-          <Dialog>ううん？
-手、繋いでくれるかな？</Dialog>
-          <Dialog>もちろん。</Dialog>
-          <Dialog>ふふっ、温かい……
-おやすみなさい、アナタ▼</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ahhh...
+Shall I go to sleep soon?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>So let's dim the lights.</Dialog>
+          <Dialog>Hey...</Dialog>
+          <Dialog>what?</Dialog>
+          <Dialog>Ugh?
+Will you hold your hands?</Dialog>
+          <Dialog>of course.</Dialog>
+          <Dialog>Hehe, it's warm...
+Good night, you ▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

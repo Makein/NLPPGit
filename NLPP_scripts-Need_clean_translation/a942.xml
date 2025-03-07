@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="1975757194" Unknown="3">
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="1975757194" Unknown="3">
   <Entries>
     <Entry Unknown0="4077905511" Unknown1="2176703734">
       <SDL2 Key="1031891919">
@@ -26,9 +26,9 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>……。</Dialog>
-          <Dialog>メッセージ番号が違います。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>....</Dialog>
+          <Dialog>The message number is different.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -177,34 +177,34 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>普通</Dialog>
-          <Dialog>笑う</Dialog>
-          <Dialog>怒り</Dialog>
-          <Dialog>悲しい</Dialog>
-          <Dialog>楽しい</Dialog>
-          <Dialog>驚き</Dialog>
-          <Dialog>困る</Dialog>
-          <Dialog>ときめき</Dialog>
-          <Dialog>笑う照</Dialog>
-          <Dialog>怒り照</Dialog>
-          <Dialog>恥ずかしい</Dialog>
-          <Dialog>驚き照</Dialog>
-          <Dialog>楽しい照</Dialog>
-          <Dialog>そわそわ照</Dialog>
-          <Dialog>困り笑い</Dialog>
-          <Dialog>にっこり顔固定</Dialog>
-          <Dialog>キス顔</Dialog>
-          <Dialog>キス顔・半分</Dialog>
-          <Dialog>キス顔（目閉じ</Dialog>
-          <Dialog>普通閉じ</Dialog>
-          <Dialog>困り閉じ</Dialog>
-          <Dialog>怒り閉じ</Dialog>
-          <Dialog>ときめき閉じ</Dialog>
-          <Dialog>はずかしい閉じ</Dialog>
-          <Dialog>にっこり照</Dialog>
-          <Dialog>にっこり顔固定頬染</Dialog>
-          <Dialog>にっこり顔固定こまり</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>usually</Dialog>
+          <Dialog>smile</Dialog>
+          <Dialog>anger</Dialog>
+          <Dialog>sad</Dialog>
+          <Dialog>fun</Dialog>
+          <Dialog>surprise</Dialog>
+          <Dialog>in trouble</Dialog>
+          <Dialog>A thrill</Dialog>
+          <Dialog>Laughing illusion</Dialog>
+          <Dialog>Anger</Dialog>
+          <Dialog>It's embarrassing</Dialog>
+          <Dialog>Surprising</Dialog>
+          <Dialog>Fun light</Dialog>
+          <Dialog>I'm fierce</Dialog>
+          <Dialog>Awful laugh</Dialog>
+          <Dialog>Smiling face fixed</Dialog>
+          <Dialog>Kissing face</Dialog>
+          <Dialog>Kissing face half</Dialog>
+          <Dialog>Kissing face (eyes closed)</Dialog>
+          <Dialog>Normal closed</Dialog>
+          <Dialog>Close the trouble</Dialog>
+          <Dialog>Anger closes</Dialog>
+          <Dialog>Crying</Dialog>
+          <Dialog>A shameful closing</Dialog>
+          <Dialog>Smile</Dialog>
+          <Dialog>Smiling face fixed cheek stain</Dialog>
+          <Dialog>A smiley face is fixed</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

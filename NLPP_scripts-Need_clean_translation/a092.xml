@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="1833361869" Unknown="9">
+<?xml version='1.0' encoding='utf-8'?>
+<DBIN2 Key="1833361869" Unknown="9">
   <Entries>
     <Entry Unknown0="57083759" Unknown1="3569998913">
       <SDL2 Key="1435614579">
@@ -55,14 +55,14 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もしもし、▲姉ヶ崎＊▲？</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>あ……うん、何？</Dialog>
-          <Dialog>実は、デートのことなんだけど……急用ができて、キャンセルしないといけなくなって。</Dialog>
-          <Dialog>嫌な予感、当たっちゃった……。わかった。じゃあ、キャンセルね。</Dialog>
-          <Dialog>ごめん。また誘うから。</Dialog>
-          <Dialog>今度会うときは、代わりにいっぱい甘えさせてね？</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>What if it's ▲Anegasaki*▲?</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Ah...Yeah, what?</Dialog>
+          <Dialog>Actually, it's about a date... but I had to cancel an urgent matter.</Dialog>
+          <Dialog>I had a bad feeling, I got it... Understood. So, cancel it.</Dialog>
+          <Dialog>sorry. I'll invite you again.</Dialog>
+          <Dialog>Next time we meet, why not let them be spoiled a lot instead?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -116,14 +116,14 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もしもし？</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もしもし、どうしたの？　声、なんだか暗いよ？</Dialog>
-          <Dialog>デートの日に急な予定が入っちゃって……。</Dialog>
-          <Dialog>キャンセルしたいってこと……？</Dialog>
-          <Dialog>ごめん。本当にごめん。</Dialog>
-          <Dialog>ううん、いい。そのかわり、埋め合わせはきちんとしてね？</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>hello?</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What if? The voice is somehow dark, isn't it?</Dialog>
+          <Dialog>I've had a sudden plan on my date...</Dialog>
+          <Dialog>You want to cancel...?</Dialog>
+          <Dialog>sorry. I'm really sorry.</Dialog>
+          <Dialog>Yes, it's fine. Instead, don't you make up for it properly?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -177,14 +177,14 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>……▲姉ヶ崎＊▲？</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、私。なあに？　デートの話？</Dialog>
-          <Dialog>あのさ……そのデートなんだけど……キャンセルできないかな？</Dialog>
-          <Dialog>え……なにか用事？</Dialog>
-          <Dialog>そうなんだ。ごめん、約束したのに……。</Dialog>
-          <Dialog>いいの、気を落とさないで。じゃあ、デートはまた今度ね。</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>...▲Anegasaki*▲?</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, me. What? A date talk?</Dialog>
+          <Dialog>Um... that date... I wonder if I can cancel it?</Dialog>
+          <Dialog>What... Something errand?</Dialog>
+          <Dialog>That's right. Sorry, I made a promise...</Dialog>
+          <Dialog>That's fine, don't let your mind go. Well, I'll go on a date next time.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -238,14 +238,14 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もしもし、▲姉ヶ崎＊▲？</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>うん、私。どうしたの？</Dialog>
-          <Dialog>実は、急いでやらないといけないことができて……。</Dialog>
-          <Dialog>それじゃ……デートはキャンセル？</Dialog>
-          <Dialog>そうなんだ。いきなりでごめん。</Dialog>
-          <Dialog>ううん、わがまま言ってもしょうがないもの。我慢するね。</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>What if it's ▲Anegasaki*▲?</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes, me. what happened?</Dialog>
+          <Dialog>Actually, I was able to do something I had to hurry up...</Dialog>
+          <Dialog>So... will you cancel your date?</Dialog>
+          <Dialog>That's right. Sorry for the suddenness.</Dialog>
+          <Dialog>Yes, it's no use to say it yourself. I'll hold it in.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -299,14 +299,14 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もしもし……。</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>はーい。なあに？</Dialog>
-          <Dialog>ごめん。急ぎの用事ができちゃって……。</Dialog>
-          <Dialog>……できちゃって？</Dialog>
-          <Dialog>えっと、今日のデートはキャンセルさせて。ごめんなさい！</Dialog>
-          <Dialog>……うん、わかった。でも、今回限りにしてね？</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>hello…….</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Yes. What?</Dialog>
+          <Dialog>sorry. I was able to do something quickly...</Dialog>
+          <Dialog>...You could do it?</Dialog>
+          <Dialog>Um, I'll cancel today's date. sorry!</Dialog>
+          <Dialog>...Yeah, I understand. But let's just do it this time, right?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -360,14 +360,14 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もしもし……●だけど。</Dialog>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>どうしたの……なんだか暗いよ。何かトラブル？</Dialog>
-          <Dialog>うん。ちょっと急用ができちゃって……今日のデート、中止にしてもいい？</Dialog>
-          <Dialog>……ああ、そういうこと。いいよ。</Dialog>
-          <Dialog>どうしても外せない用事なんだ。ごめん、必ず埋め合わせするから。</Dialog>
-          <Dialog>何かあったのかと思っちゃった。大丈夫、デートはまたできるよ。</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>What if...●But.</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>What's wrong...it's kind of dark. Any trouble?</Dialog>
+          <Dialog>Yeah. I've had a little urgent...Can I cancel today's date?</Dialog>
+          <Dialog>...Ah, that's what it is. That's fine.</Dialog>
+          <Dialog>It's a must-have thing to do. Sorry, I'll make up for it.</Dialog>
+          <Dialog>I thought something had happened. It's okay, I can go on a date again.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -420,13 +420,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もしもし……。</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>もしもし、▲姉ヶ崎＊▲？　ごめん、連絡が遅れて。実は急用ができちゃって……。</Dialog>
-          <Dialog>急用……？　じゃあ、来られないの？</Dialog>
-          <Dialog>そうなんだ……。絶対、今度埋め合わせする。ごめん。</Dialog>
-          <Dialog>いいよ。私、お姉さんだもん。今回だけ許してあげる。ちゃんと用事片付けるんだよ？</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>hello…….</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>What if it's ▲Anegasaki*▲? Sorry, I'm late to contact you. Actually, I had an urgent matter...</Dialog>
+          <Dialog>urgent business……? So, can't you come?</Dialog>
+          <Dialog>That's right……. I'll definitely make up for it next time. sorry.</Dialog>
+          <Dialog>That's fine. I'm a lady. I'll forgive you only this time. Are you going to clean up your business properly?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -475,13 +475,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>やっと電話くれた。今どこ？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>それが……緊急の用事が入っちゃって……。</Dialog>
-          <Dialog>え？　そうなんだ……。うん、わかった。</Dialog>
-          <Dialog>予定空いちゃった。仕方ないけど、さびしいな……。</Dialog>
-          <Dialog>●が悪い。謝るよ。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>Finally got a call. Where is it now?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>But... there's an urgent task in progress...</Dialog>
+          <Dialog>picture? That's right……. Yes, I understand.</Dialog>
+          <Dialog>The schedule is free. It can't be helped, but it's sad...</Dialog>
+          <Dialog>●Is it bad? I'll apologize.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -534,13 +534,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>姉ヶ崎</Dialog>
-          <Dialog>もしもし？　私、もう来てるよ？</Dialog>
-          <Dialog>○○○○○○○○</Dialog>
-          <Dialog>ごめん！　突然用が入って、そっちに行けなくなっちゃったんだ。</Dialog>
-          <Dialog>えっ……本当に急ね。よくわからないけど、大丈夫？</Dialog>
-          <Dialog>うん……。ごめん、▲姉ヶ崎＊▲。</Dialog>
-          <Dialog>こっちのことはいいから。私にできることがあったらいつでも言ってね？　じゃあ……。</Dialog>
+          <Dialog>Anegasaki</Dialog>
+          <Dialog>hello? I'm already here, right?</Dialog>
+          <Dialog>○○○○</Dialog>
+          <Dialog>sorry! Suddenly, I got a place to go and couldn't go there.</Dialog>
+          <Dialog>Eh... it's really sudden. I don't really know, but is it okay?</Dialog>
+          <Dialog>Yeah……. Sorry, Anegasaki*▲.</Dialog>
+          <Dialog>This is fine. If there's anything I can do, can you tell me? So...</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
