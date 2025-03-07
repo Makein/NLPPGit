@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<DBIN2 Key="2131831476" Unknown="116">
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="2131831476" Unknown="116">
   <Entries>
     <Entry Unknown0="2760703780" Unknown1="187540362">
       <SDL2 Key="1973101657">
@@ -86,18 +86,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, what kind of toothpaste do you use?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>yeah? why?</Dialog>
-          <Dialog>When I went to the drugstore, I found a toothpaste that was really bothering me.</Dialog>
-          <Dialog>Wow... what do you think?</Dialog>
-          <Dialog>Avocado flavor.</Dialog>
-          <Dialog>Huh... What!? Avocado!?</Dialog>
-          <Dialog>hey? You were surprised.</Dialog>
-          <Dialog>I think I'll give it a try. Or...</Dialog>
-          <Dialog>Shall I try it?</Dialog>
-          <Dialog>(My gaze hurts. ▲Anegasaki*▲...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇ、歯磨き粉はどういうの使ってる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ん？　なんで？</Dialog>
+          <Dialog>ドラッグストアに行ったら、すごく気になる歯磨き粉があったの。</Dialog>
+          <Dialog>へー……どんな？</Dialog>
+          <Dialog>アボカド味。</Dialog>
+          <Dialog>へー……え!?　アボカド!?</Dialog>
+          <Dialog>ね？　びっくりでしょ。</Dialog>
+          <Dialog>試してみようかなぁ。それとも……。</Dialog>
+          <Dialog>試してもらおうかな？</Dialog>
+          <Dialog>（視線が痛いよ。▲姉ヶ崎＊▲……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -181,18 +181,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, do you remember the avocado-flavored toothpaste?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>...What is it?</Dialog>
-          <Dialog>A story I found at a drugstore. Before... Ah, pretend you forgot?</Dialog>
-          <Dialog>Um?</Dialog>
-          <Dialog>That's exactly right. There's no need to worry. Because I tried it myself.</Dialog>
-          <Dialog>Is that so? What, sorry, sorry.</Dialog>
-          <Dialog>...It's been so easy to get caught. That's a lie, I haven't bought it yet.</Dialog>
-          <Dialog>picture!?</Dialog>
-          <Dialog>I didn't like that much. Of course.</Dialog>
-          <Dialog>(Because it's an avocado!?)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、アボカド味の歯磨き粉の話、覚えてる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……なんだっけ？</Dialog>
+          <Dialog>ドラッグストアで見つけた話。前に……あ、忘れたフリ？</Dialog>
+          <Dialog>えっと？</Dialog>
+          <Dialog>やっぱりそうだ。心配しなくてもいいよ。自分で試したから。</Dialog>
+          <Dialog>そうなの？　なんだ、ごめんごめん。</Dialog>
+          <Dialog>……もう、簡単に引っかかっちゃって。嘘です、まだ買ってません。</Dialog>
+          <Dialog>え!?</Dialog>
+          <Dialog>そんなにイヤだったんだ。当たり前かぁ。</Dialog>
+          <Dialog>（だってアボカドだぞ!?）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -276,18 +276,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's it. What happened to you about avocado toothpaste?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>a. I remembered what I said. It's really amazing.</Dialog>
-          <Dialog>mother…….</Dialog>
-          <Dialog>Actually. I haven't bought it yet. I found another one that bothers me.</Dialog>
-          <Dialog>What taste?</Dialog>
-          <Dialog>Well, roasted sesame seeds.</Dialog>
-          <Dialog>! Of course...</Dialog>
-          <Dialog>Buying it all at once takes courage, so I'm not sure which one to choose.</Dialog>
-          <Dialog>I wonder what to do.</Dialog>
-          <Dialog>(I think it's either...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あのさ。アボカド歯磨き粉の話って、どうなった？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あ。私の言ったこと、覚えてたんだ。えらいえらい。</Dialog>
+          <Dialog>はは……。</Dialog>
+          <Dialog>実はね。まだ買ってないの。もう１個、気になるの見つけちゃって。</Dialog>
+          <Dialog>何味？</Dialog>
+          <Dialog>あのね、炒りゴマ。</Dialog>
+          <Dialog>！　そりゃまた……。</Dialog>
+          <Dialog>一度に買うのは勇気がいるから、どっちにしようか迷ってるところ。</Dialog>
+          <Dialog>どうしようかな。</Dialog>
+          <Dialog>（どっちもどっちだと思うんだけどな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -371,18 +371,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I tried the avocado-flavored toothpaste.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, I said before...I chose that one, not roasted sesame seeds.</Dialog>
-          <Dialog>Yes, I think this would suit the concept of looking at something scarier.</Dialog>
-          <Dialog>Haha, that was the concept. And what was it?</Dialog>
-          <Dialog>Rather than using that, it's better to brush your teeth with the real thing.</Dialog>
-          <Dialog>...Was it that bad?</Dialog>
-          <Dialog>Yeah. The taste is that it makes the most of the bad points of avocado.</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>If you're interested, why not try it? I've only used it once, so there are a lot left.</Dialog>
-          <Dialog>I'll refrain from doing that!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>アボカド味の歯磨き粉、試してみたよ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、前に言ってた……炒りゴマじゃなくて、そっちにしたんだ。</Dialog>
+          <Dialog>うん、こっちの方が怖いもの見たさっていうコンセプトに合うかなって。</Dialog>
+          <Dialog>はは、そんなコンセプトだったんだ。で、どうだったの？</Dialog>
+          <Dialog>あれを使うくらいなら、本物で歯磨きするほうがいいな。</Dialog>
+          <Dialog>……そんなに酷かったの？</Dialog>
+          <Dialog>うん。アボカドの悪いところを最大限に活かしました、っていう味。</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>興味あるなら、使ってみる？　私は結局一度しか使ってないから、たくさん残ってるよ？</Dialog>
+          <Dialog>遠慮します！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -491,21 +491,21 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Haa...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What's wrong, sigh?</Dialog>
-          <Dialog>Yeah. It was like my friend had a fight with my boyfriend... and I got caught up in it.</Dialog>
-          <Dialog>Is it okay if you get caught up in it?</Dialog>
-          <Dialog>Yeah……. What do you think is the cause of the fight?</Dialog>
-          <Dialog>What was it?</Dialog>
-          <Dialog>Is the sauce poured over the fried egg? soy sauce?</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>hey? I don't know what will lead to a fight... so I have to be careful.</Dialog>
-          <Dialog>……in.</Dialog>
-          <Dialog>yeah?</Dialog>
-          <Dialog>Which one are you?</Dialog>
-          <Dialog>(Would you like to hear that here?)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>はあ……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>どうしたの、ため息？</Dialog>
+          <Dialog>うん。友だちがカレシとケンカしたみたいで……巻き込まれちゃった。</Dialog>
+          <Dialog>巻き込まれたって……大丈夫？</Dialog>
+          <Dialog>うん……。ケンカの原因……なんだと思う？</Dialog>
+          <Dialog>なんだったの？</Dialog>
+          <Dialog>目玉焼きにかけるのはソース？　しょうゆ？</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>ね？　何がきっかけでケンカになるかわからないから……気をつけないとね。</Dialog>
+          <Dialog>……で。</Dialog>
+          <Dialog>ん？</Dialog>
+          <Dialog>あなたはどっち派？</Dialog>
+          <Dialog>（ここでそれを聞くのか……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -599,19 +599,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>You talked about a friend who got into a fight over something you put on a fried egg, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes, I heard it. Could it be... you got into a fight again?</Dialog>
-          <Dialog>Winner. What do you think is the reason for this time?</Dialog>
-          <Dialog>What is it...food again?</Dialog>
-          <Dialog>Absent. Should I put it in pitch black at night when I go to sleep?</Dialog>
-          <Dialog>That's what you mean again?</Dialog>
-          <Dialog>Yeah. It seems to be important to them.</Dialog>
-          <Dialog>Oh, I don't really know about the other couples.</Dialog>
-          <Dialog>Well, we don't fight about that.</Dialog>
-          <Dialog>...So, which one are you? I'm not going to fight, so why not say it?</Dialog>
-          <Dialog>(I think it's better to keep quiet here...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>目玉焼きにかけるものでケンカした友だちの話、したでしょ？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん、聞いた。まさか……またケンカしたとか？</Dialog>
+          <Dialog>当たり。今回の理由はなんだと思う？</Dialog>
+          <Dialog>なんだろ……また食べ物？</Dialog>
+          <Dialog>はずれ。夜、寝るときに真っ暗にするかしないか。</Dialog>
+          <Dialog>またそんなことで？</Dialog>
+          <Dialog>うん。本人たちにとっては大事なことらしいの。</Dialog>
+          <Dialog>へえ、他のカップルのことはよくわかんないな。</Dialog>
+          <Dialog>ね、私たちはそんなことでケンカしないもんね。</Dialog>
+          <Dialog>……で、あなたはどっち派？　ケンカにはしないから、言ってみて？</Dialog>
+          <Dialog>（ここは黙っておいた方がいい気がする……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -724,21 +724,21 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Haa...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>what happened?</Dialog>
-          <Dialog>Yes, sauce and soy sauce...</Dialog>
-          <Dialog>Ah, a couple of friends of ▲Anegasaki*▲?</Dialog>
-          <Dialog>oh yeah. Apparently I'm in a lovey-dovey period right now.</Dialog>
-          <Dialog>So that was good.</Dialog>
-          <Dialog>Yes, but when I think about what will trigger the fight, I can't help but worry.</Dialog>
-          <Dialog>▲Anegasaki*▲ is anxious. Isn't the people who are having a surprising amount of fun?</Dialog>
-          <Dialog>Hmm, maybe so. If I find it interesting to be a slurred, I won't let you.</Dialog>
-          <Dialog>But I think I understand a little about the feelings of that friend.</Dialog>
-          <Dialog>yeah? What does that mean?</Dialog>
-          <Dialog>Umm... come on, somehow?</Dialog>
-          <Dialog>I'm not going to tease you sister anymore.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>はあ……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>どうしたの？</Dialog>
+          <Dialog>うん、ソースとしょうゆの……。</Dialog>
+          <Dialog>ああ、▲姉ヶ崎＊▲の友だちのカップルか。</Dialog>
+          <Dialog>そうそう。今はラブラブ期らしいんだけど。</Dialog>
+          <Dialog>じゃあ、よかったじゃん。</Dialog>
+          <Dialog>うん、でもいつ何がきっかけでケンカが始まるかと思うと、気が気じゃなくて。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲は心配性なんだよ。本人たちは意外と楽しんでるんじゃない？</Dialog>
+          <Dialog>う～ん、そうかも。私がオロオロするの面白がってたりしたら、許さないんだから。</Dialog>
+          <Dialog>でもその友だちの気持ち、ちょっと分かるかも。</Dialog>
+          <Dialog>ん？　どういうことかな？</Dialog>
+          <Dialog>えっと……さあ、なんとなく？</Dialog>
+          <Dialog>もう、お姉さんをからかわないの。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -822,18 +822,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Come to think of it. It's a question of whether to put it pitch black when you go to sleep...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>yeah? Ah... what happened to that?</Dialog>
-          <Dialog>Which is Anegasaki*▲?</Dialog>
-          <Dialog>Huh? Didn't you say it?</Dialog>
-          <Dialog>Yeah. Which? I was asked that though.</Dialog>
-          <Dialog>I see.</Dialog>
-          <Dialog>I'm... you're the one.</Dialog>
-          <Dialog>●Are you gonna be?</Dialog>
-          <Dialog>It's okay to do either.</Dialog>
-          <Dialog>(……yeah?)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そういやさ。寝るとき真っ暗にするかしないかって話……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ん？　ああ……それがどうかしたの？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲はどっち派なの？</Dialog>
+          <Dialog>あれ？　言わなかったっけ。</Dialog>
+          <Dialog>うん。どっち？　って聞かれたけど。</Dialog>
+          <Dialog>そっか。</Dialog>
+          <Dialog>私はね……あなた派。</Dialog>
+          <Dialog>●派？</Dialog>
+          <Dialog>どっちでも平気ってこと。</Dialog>
+          <Dialog>（……ん？）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -912,17 +912,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The other day I went shopping, I forgot my point card and felt like I was missing out.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's true. Only then could the amount be high.</Dialog>
-          <Dialog>Yes, I guess I'll carry all my cards with me.</Dialog>
-          <Dialog>How long do you have?</Dialog>
-          <Dialog>Hmm, about 30 copies.</Dialog>
-          <Dialog>so!?</Dialog>
-          <Dialog>Is it too many after all? I think it's better to reduce it.</Dialog>
-          <Dialog>But...hmm.</Dialog>
-          <Dialog>(It looks difficult to reduce it)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>この前お買い物に行ったときにね、ポイントカードを忘れて、損した気分になっちゃった。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あるある。その時に限って、金額が多かったり。</Dialog>
+          <Dialog>そう、やっぱりカードは全部持ち歩こうかな。</Dialog>
+          <Dialog>どれくらい持ってんの？</Dialog>
+          <Dialog>んー、３０枚くらい。</Dialog>
+          <Dialog>そんなに!?</Dialog>
+          <Dialog>やっぱり多い？　減らしたほうがいいかなぁ。</Dialog>
+          <Dialog>でも……うーん。</Dialog>
+          <Dialog>（減らすのは難しそうだなあ）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1025,20 +1025,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Come to think of it, what happened to the point card? Do you carry it all with you?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's what I was doing...it's bulky and can't. My wallet is getting tough.</Dialog>
-          <Dialog>That's right.</Dialog>
-          <Dialog>What's everyone doing?</Dialog>
-          <Dialog>I think there are quite a lot of people who are worried about it. Maybe we'll have no choice but to steadily reduce the number of stores that use it.</Dialog>
-          <Dialog>I see.</Dialog>
-          <Dialog>But I want to make some good purchases. See, there are shops that offer cheap fresh produce, shops that offer cheap daily necessities, and there are also special sales days so you can't narrow it down.</Dialog>
-          <Dialog>Wow, ▲Anegasaki*▲ shouldn't be a good housewife.</Dialog>
-          <Dialog>Yes, maybe... What do you think of a good housewife?</Dialog>
-          <Dialog>●I think it's good. Thinking about it and trying to manage it.</Dialog>
-          <Dialog>I see, yes! If that's the case, it might be fine to just leave it like this.</Dialog>
-          <Dialog>(The initial problem hasn't been solved at all... well, is that okay?)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そういえば、ポイントカードどうなった？　全部持ち歩いてるの？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そうしてたんだけど……かさばっちゃってダメ。お財布が大変なことになっちゃって。</Dialog>
+          <Dialog>だよなあ。</Dialog>
+          <Dialog>みんなどうしてるんだろ？</Dialog>
+          <Dialog>結構悩んでる人多いんじゃないかな、そういうの。地道に使う店を減らすしかないかも。</Dialog>
+          <Dialog>やっぱり、そっかあ。</Dialog>
+          <Dialog>でも少しでもいいお買い物したいし。ほら、生鮮品が安いお店、日用品が安いお店、あと特売日もあるから絞れないよ。</Dialog>
+          <Dialog>へえ、▲姉ヶ崎＊▲はいい主婦になるな。</Dialog>
+          <Dialog>そう、かな……。いい主婦って、どう思う？</Dialog>
+          <Dialog>●はいいと思うよ。色々考えてやり繰りするのって。</Dialog>
+          <Dialog>そっか、うん！　それなら、このままでも……いいかな。</Dialog>
+          <Dialog>（最初の問題は全然解決していないけど……ま、いいか）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1122,18 +1122,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Have you discussed the points card before?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yeah.</Dialog>
-          <Dialog>I asked my friend about it, and it was overwhelmed by 30 copies.</Dialog>
-          <Dialog>How about going to skip from a store you don't often go to?</Dialog>
-          <Dialog>That's right. I think I'll keep the shops I haven't been to in more than a year at home.</Dialog>
-          <Dialog>One year!!</Dialog>
-          <Dialog>Yeah. Would it be better to go to a place you haven't been to for longer? Like two years?</Dialog>
-          <Dialog>Two years!! I definitely don't have to carry that around.</Dialog>
-          <Dialog>picture? I think so.</Dialog>
-          <Dialog>(It seems like it's almost expired...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ポイントカードのこと、前に相談したじゃない？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん。</Dialog>
+          <Dialog>友だちにも聞いてみたんだけど、３０枚は持ちすぎだって。</Dialog>
+          <Dialog>あまり行かないお店から、抜いていくってのはどう？</Dialog>
+          <Dialog>そうね。一年以上行ってないお店のは、お家に置いておこうかな。</Dialog>
+          <Dialog>１年!!</Dialog>
+          <Dialog>うん。もっと長く行ってないところの方がいい？　２年とか？</Dialog>
+          <Dialog>２年!!　それは確実に持ち歩かなくていいと思うよ。</Dialog>
+          <Dialog>え？　そうかな。</Dialog>
+          <Dialog>（ほとんど、有効期限が切れてそうだな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1232,20 +1232,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The point card you discussed was exactly what you said.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Right?</Dialog>
-          <Dialog>Yeah. Also, there were cards that had expired quite a bit.</Dialog>
-          <Dialog>on second thoughts……. That's what I thought.</Dialog>
-          <Dialog>Are you a little frustrated?</Dialog>
-          <Dialog>Yes. It's nice to have a good possession, like ▲Anegasaki*▲.</Dialog>
-          <Dialog>He's saying something good, but is it true?</Dialog>
-          <Dialog>It's true, they're good at having things and they're also a money-saving person.</Dialog>
-          <Dialog>Hehe, thank you.</Dialog>
-          <Dialog>A wife like Anegasaki*▲ would be safe.</Dialog>
-          <Dialog>I'm not flattering it anymore!</Dialog>
-          <Dialog>(However, I think I'll save money too.)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>相談したポイントカードのこと、あなたの言うとおりだった。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>でしょ？</Dialog>
+          <Dialog>うん。それに、結構有効期限が切れてるカードもあったから。</Dialog>
+          <Dialog>やっぱり……。そんなことだと思ったよ。</Dialog>
+          <Dialog>ちょっと呆れてる？</Dialog>
+          <Dialog>ううん。物持ちがいいのって、▲姉ヶ崎＊▲らしくて、いいよな。</Dialog>
+          <Dialog>なんか上手いこと言ってるけど、本当かな？</Dialog>
+          <Dialog>本当だよ、物持ちがいいのも、節約家なのも。</Dialog>
+          <Dialog>ふふ、ありがとう。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲みたいな奥さんなら、安心だな。</Dialog>
+          <Dialog>もう、おだてないの！</Dialog>
+          <Dialog>（ただ、お小遣いも節約されそうだけどな）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1354,21 +1354,21 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Recently I've been making accessories.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What kind of thing are you making?</Dialog>
-          <Dialog>A bracelet or necklace made from natural stones. It's quite fun.</Dialog>
-          <Dialog>Wow. I want to see it!</Dialog>
-          <Dialog>Umm, sorry. I don't have it on hand now. Because they say they want friends.</Dialog>
-          <Dialog>I guess he gave it to you, there's nothing I can do about it.</Dialog>
-          <Dialog>Yes, if I put that on, my grades improved, or my confession worked. It's going to be a little amazing.</Dialog>
-          <Dialog>Are you a lucky accessory?</Dialog>
-          <Dialog>That's how everyone says... It's just a regular accessory.</Dialog>
-          <Dialog>So why not try and learn ▲Anegasaki*▲ yourself?</Dialog>
-          <Dialog>Do you experiment with what you made yourself?</Dialog>
-          <Dialog>Well, that's what it is.</Dialog>
-          <Dialog>So let's give it a try.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>最近ね、アクセサリー作りしてるの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>どんなの作ってるの？</Dialog>
+          <Dialog>天然石を使ったブレスレットとか、ネックレスとか。けっこう楽しいよ。</Dialog>
+          <Dialog>へーっ。見てみたい！</Dialog>
+          <Dialog>えっと、ごめんね。今は手元に残ってないの。友だちが欲しいって言うから。</Dialog>
+          <Dialog>あげちゃったのか、しょうがないな。</Dialog>
+          <Dialog>うん、それをつけたら成績が上がったとか、告白がうまくいったとか。ちょっとスゴイことになってて。</Dialog>
+          <Dialog>幸運のアクセサリーってこと？</Dialog>
+          <Dialog>そうやってみんなは言うんだけど……。ただの普通のアクセサリーなんだけどな。</Dialog>
+          <Dialog>じゃあ、試しに▲姉ヶ崎＊▲が自分で身につけてみたら？</Dialog>
+          <Dialog>自分で作ったものは自分で実験？</Dialog>
+          <Dialog>まあ、そういうことかな。</Dialog>
+          <Dialog>じゃあ、試してみよっかな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1466,19 +1466,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What about the lucky accessories from Anegasaki*▲ that I mentioned before?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>a. That's right...</Dialog>
-          <Dialog>I was currently testing the effectiveness, but I gave it to a friend again.</Dialog>
-          <Dialog>Huh, is that so?</Dialog>
-          <Dialog>When I had tea, I saw that at first glance, "That's good, give me!" When I hear someone like it, I feel like giving it to you.</Dialog>
-          <Dialog>I see... So it's not possible to verify the effectiveness.</Dialog>
-          <Dialog>Why?</Dialog>
-          <Dialog>After all, if you wear it, everyone will probably praise you, right?</Dialog>
-          <Dialog>Hmm, I see.</Dialog>
-          <Dialog>So why not make some of the same thing? If I do that, it might last for a while.</Dialog>
-          <Dialog>Yes, I'll try that.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>前に言ってた▲姉ヶ崎＊▲の幸運アクセサリー、どう？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あ。あれね……。</Dialog>
+          <Dialog>効果検証中だったんだけど、また友だちにあげちゃった。</Dialog>
+          <Dialog>え、そうなの？</Dialog>
+          <Dialog>お茶したときに、パッと見て“それいいね、ちょうだい！”って。いいねって言われると、あげたくなっちゃうから。</Dialog>
+          <Dialog>そっか……じゃあ効果検証は無理か。</Dialog>
+          <Dialog>どうして？</Dialog>
+          <Dialog>だって、身につけてたら、きっとみんな褒めてくれるだろ？</Dialog>
+          <Dialog>うーん、そっか。</Dialog>
+          <Dialog>じゃあさ、同じ物を何個か作ってみれば？　そうすればしばらくはもつかも。</Dialog>
+          <Dialog>そうね、そうしてみよっかな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1571,19 +1571,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Come to think of it, what are the accessories for good luck?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, that's fine. I made it but... I gave it again.</Dialog>
-          <Dialog>Did you say you're going to make a few?</Dialog>
-          <Dialog>...That's all.</Dialog>
-          <Dialog>I see... ▲Anegasaki*▲, I can't refuse when asked.</Dialog>
-          <Dialog>Also, if you stop giving it halfway through, it's going to be unfair, right?</Dialog>
-          <Dialog>I see...but if you just give it to them, the cost of materials won't be ridiculous, right?</Dialog>
-          <Dialog>Yes, actually.</Dialog>
-          <Dialog>There's no way I can charge it.</Dialog>
-          <Dialog>But it's something I did because I liked it. I don't know if the effect is true or false, but everyone was happy, so it's fine.</Dialog>
-          <Dialog>(Yes, if ▲Anegasaki*▲ is happy, then that's fine...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そういえば幸運のアクセサリーは？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うん、あれはねもういいの。作ったけど……また、あげちゃったから。</Dialog>
+          <Dialog>何個か作るって言ってたよね？</Dialog>
+          <Dialog>……それが、全部。</Dialog>
+          <Dialog>そっか……。▲姉ヶ崎＊▲、お願いされると断れないもんな。</Dialog>
+          <Dialog>それに、途中からあげなくなったら、不公平になっちゃうでしょ？</Dialog>
+          <Dialog>なるほど……でもさ、あげてばっかりだと材料費もばかにならないんじゃない？</Dialog>
+          <Dialog>そうね、実は。</Dialog>
+          <Dialog>請求するわけにもいかないしね。</Dialog>
+          <Dialog>でも好きでやってたことだし。効果の真偽はわからないけど、みんな喜んでくれたから、いいの。</Dialog>
+          <Dialog>（うん、▲姉ヶ崎＊▲が幸せならそれでいいか……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1681,19 +1681,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Come to think of it... Recently, people have been giving away sweets and handmade accessories to thank you for accessories.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Oh, does that mean there was another benefit?</Dialog>
-          <Dialog>That's such a big deal. Certainly...everyone says their wish has come true.</Dialog>
-          <Dialog>That's amazing. After all, why not make some for yourself too?</Dialog>
-          <Dialog>Yes, it's fine. I thought about it a little, but I have nothing to ask for.</Dialog>
-          <Dialog>picture? What?</Dialog>
-          <Dialog>Yes, I'm happy just as I am now. If you're too greedy, see, the punchline of a story like this is not greedy and failing.</Dialog>
-          <Dialog>Certainly, it's a classic folk tale.</Dialog>
-          <Dialog>Right? That's why I'm fine. After all, I don't want to let go of the happiness I am now.</Dialog>
-          <Dialog>Yes, too. I hope I keep going as I am now.</Dialog>
-          <Dialog>Hehe, isn't it?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そういえば……最近ね、アクセサリーのお礼って、みんながお菓子とか手作りの小物とか色々くれるの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あ、ってことはまた御利益があったってこと？</Dialog>
+          <Dialog>そんな、大げさだよ。確かに……、みんな願い事が叶ったって言ってるけど。</Dialog>
+          <Dialog>すごいな。やっぱり、自分の分も作ったら？</Dialog>
+          <Dialog>ううん、いいの。ちょっと私も考えたんだけど、特に私、お願い事ないから。</Dialog>
+          <Dialog>え？　なんにも？</Dialog>
+          <Dialog>うん、だって今のままで幸せだし。あんまり欲張ると、ほら、だいたいこういう話のオチって、欲張って失敗じゃない。</Dialog>
+          <Dialog>確かに、昔話の定番かも。</Dialog>
+          <Dialog>でしょ？　だから私はいいの。だって、今の幸せを手放したくないもの。</Dialog>
+          <Dialog>うん、●も。今のままがずっと続けばいいや。</Dialog>
+          <Dialog>ふふ、ね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1787,19 +1787,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, spinning sushi has been popular for a while, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Is that so?</Dialog>
-          <Dialog>I often see signs near shopping districts and stations.</Dialog>
-          <Dialog>Come to think of it, I don't see a few new ones.</Dialog>
-          <Dialog>Right? Japanese people really like sushi.</Dialog>
-          <Dialog>▲Anegasaki*▲ likes it?</Dialog>
-          <Dialog>Yeah. I hope it's a slightly firm, vinegared rice.</Dialog>
-          <Dialog>Wow, are you particular?</Dialog>
-          <Dialog>Just a moment. When the rice is too sweet or a little bit of it, I feel like it's awful.</Dialog>
-          <Dialog>The sourness is so strong that it doesn't spoil the flavor of the ingredients, and you can hold them in a way that is not difficult to eat...</Dialog>
-          <Dialog>(Not only a bit, I might be very particular about it)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇ、ちょっと前から回転ずし、流行ってるよね？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうかな？</Dialog>
+          <Dialog>商店街や駅の近くで看板をよく見るから。</Dialog>
+          <Dialog>そういえば、何件か新しいの見かけるな。</Dialog>
+          <Dialog>でしょ？　やっぱり日本人はお寿司が好きなんだね。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲は、好きなの？</Dialog>
+          <Dialog>うん。少し固めに握った、お酢の利いたご飯だといいな。</Dialog>
+          <Dialog>へえ、こだわりがあるんだ？</Dialog>
+          <Dialog>ちょっとね。ご飯が甘すぎたり、べちょっとしてたりすると、あーあって思っちゃう。</Dialog>
+          <Dialog>ネタの味を損なわない程度に酸味が利いてて、食べにくくない程度に握られて……。</Dialog>
+          <Dialog>（ちょっとどころか、すごくこだわってるかも）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1878,17 +1878,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It seems that another new conveyor belt sushi restaurant has been opened near the station.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Wow, again?</Dialog>
-          <Dialog>There were so many people lined up, I looked at it and found a new conveyor belt sushi restaurant.</Dialog>
-          <Dialog>It's really popular.</Dialog>
-          <Dialog>Many of the people lined up were families with small children.</Dialog>
-          <Dialog>I see. It might be better for kids than fast food.</Dialog>
-          <Dialog>So, our kids will use spinning sushi instead of fast food.</Dialog>
-          <Dialog>Yes...huh?</Dialog>
-          <Dialog>n/a.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>駅の近くに、また新しい回転ずし屋さんができたみたい。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>へぇ、また？</Dialog>
+          <Dialog>すごく人が並んでて、何かと思って見てみたら、新しい回転ずし。</Dialog>
+          <Dialog>ホントに流行ってるんだな。</Dialog>
+          <Dialog>並んでるの、小さい子供がいる家族連れが多かったよ。</Dialog>
+          <Dialog>そっか。子供にとってもファストフードよりは、体にいいかもしれないな。</Dialog>
+          <Dialog>じゃあ、私たちの子供はファストフードの代わりに回転ずしだね。</Dialog>
+          <Dialog>うん……え？</Dialog>
+          <Dialog>ふふ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1987,20 +1987,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I guess conveyor belt sushi is really popular.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Why?</Dialog>
-          <Dialog>Apparently there are quite a few people in my class who use it as a family restaurant.</Dialog>
-          <Dialog>Yeah……. My neighborhood also became a conveyor belt sushi restaurant, where it was a family restaurant.</Dialog>
-          <Dialog>I see. So, eventually, Dixies too...</Dialog>
-          <Dialog>Huh?</Dialog>
-          <Dialog>Haha, isn't that? It's quite popular in the world.</Dialog>
-          <Dialog>It won't disappear, absolutely.</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>It's a place where you can remember, and I met you. I'm not going to lose it...</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
-          <Dialog>Ah... sorry, it's getting dark. That's fine, don't worry.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>回転ずしって、やっぱり人気あるんだな。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>どうして？</Dialog>
+          <Dialog>うちのクラスにも、ファミレス代わりに利用する奴、結構いるみたいだから。</Dialog>
+          <Dialog>うん……。うちの近所も、ファミレスだったところが回転ずしになったんだよね。</Dialog>
+          <Dialog>そっか。じゃあ、そのうちデキシーズも……。</Dialog>
+          <Dialog>えっ？</Dialog>
+          <Dialog>はは、それはないか。うち、結構流行ってるしな。</Dialog>
+          <Dialog>なくなったりしないよ、絶対。</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>あなたに出会った、思い出の場所だもの。なくなるなんて、私……。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>あ……ごめんね、暗くなっちゃって。いいの、気にしないでね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2099,20 +2099,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes, sorry for saying something insensitive the other day.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What insensitive?</Dialog>
-          <Dialog>Instead of Dexis, it would be a conveyor belt sushi restaurant.</Dialog>
-          <Dialog>ah……. No, maybe you care?</Dialog>
-          <Dialog>Of course, it made Anegasaki*▲ sad.</Dialog>
-          <Dialog>Hehe, you're so kind.</Dialog>
-          <Dialog>But after that I thought so. Even if the shape is gone, memories will remain intact.</Dialog>
-          <Dialog>Have your memories changed?</Dialog>
-          <Dialog>yes. Unless we change, right?</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
-          <Dialog>That's a bit of a sinister thing. I might cry if the manager asked.</Dialog>
-          <Dialog>Haha, certainly...</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだ、この前は無神経なこと言って、ごめん。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>無神経なこと？</Dialog>
+          <Dialog>デキシーズに代わって回転ずしが、とか。</Dialog>
+          <Dialog>ああ……。やだ、もしかして気にしててくれたの？</Dialog>
+          <Dialog>そりゃ、▲姉ヶ崎＊▲を悲しませたんだし。</Dialog>
+          <Dialog>ふふ、優しいんだ。</Dialog>
+          <Dialog>でもね、あの後思ったの。形がなくなっても、思い出はそのまま残るじゃないって。</Dialog>
+          <Dialog>思い出は、変わらない？</Dialog>
+          <Dialog>そう。私たちが変わらない限り、ね？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>なんて、ちょと不吉なこと言っちゃった。店長が聞いたら泣いちゃうかも。</Dialog>
+          <Dialog>はは、確かに……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2211,20 +2211,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I wonder what kind of silly liquor tastes like.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Huh?</Dialog>
-          <Dialog>I wonder if the taste will differ from regular alcohol.</Dialog>
-          <Dialog>I don't know the taste of the sake... Was there something unpleasant?</Dialog>
-          <Dialog>Yes, just interest. Of course, there are scenes like that in dramas, right?</Dialog>
-          <Dialog>It's a drink that you drink when it fades, so I don't think it's tasty though.</Dialog>
-          <Dialog>But when it's fading, do you go out of your way to drink something that's not tasty?</Dialog>
-          <Dialog>……yeah? It's actually tasty, but it's faded so it doesn't taste bad.</Dialog>
-          <Dialog>So, is it okay to have Yake Coffee or Yake Milk?</Dialog>
-          <Dialog>I don't think it's okay though... It was about whether the silly liquor was delicious, right?</Dialog>
-          <Dialog>Oh, that's right. But you probably won't know until you can drink alcohol.</Dialog>
-          <Dialog>Haha, of course.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ヤケ酒ってどんな味なのかな。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>えっ？</Dialog>
+          <Dialog>普通のお酒と味が変わるのかな？</Dialog>
+          <Dialog>酒の味自体わからないからな……。何か嫌なことでもあった？</Dialog>
+          <Dialog>ううん、単なる興味。よくね、ドラマなんかでそういうシーンがあるでしょ？</Dialog>
+          <Dialog>ヤケになって飲む酒だから、美味くはないと思うけど。</Dialog>
+          <Dialog>でも、ヤケになってる時にわざわざ美味しくないものを飲んだりする？</Dialog>
+          <Dialog>……ん？　本当は美味しいけどヤケになってるから不味く感じるんじゃないか？</Dialog>
+          <Dialog>じゃあ、ヤケ珈琲とかヤケミルクでもいいの？</Dialog>
+          <Dialog>別に構わないと思うけど……。ヤケ酒が美味しいかどうかの話だったよね？</Dialog>
+          <Dialog>あ、そうそう。でも、お酒が飲めるようになるまで、きっとわからないよね。</Dialog>
+          <Dialog>はは、そりゃそうだ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2308,18 +2308,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, eating discoloration is fun, isn't it?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Continuing on the story of silly liquor?</Dialog>
-          <Dialog>Yeah. I don't know about alcohol, but I know about food.</Dialog>
-          <Dialog>I've heard this before, but it's not like something bad happened, right?</Dialog>
-          <Dialog>But when I went to buy limited edition cosmetics with a friend, they sold out right in front of us.</Dialog>
-          <Dialog>Oh...</Dialog>
-          <Dialog>I was already disappointed, and when this happened, I decided to go to a family restaurant to eat something.</Dialog>
-          <Dialog>And was it fun?</Dialog>
-          <Dialog>Yes, it's very much. That's why I thought the slurping sake would be fun and delicious.</Dialog>
-          <Dialog>(I think this is a little different, but... I wonder what it is.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇ、ヤケ食いって楽しいよね？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ヤケ酒の話の続き？</Dialog>
+          <Dialog>うん。お酒はわからないけど、食べ物のことならわかるから。</Dialog>
+          <Dialog>前も聞いたけど、何か嫌なことがあったわけじゃないんだよな？</Dialog>
+          <Dialog>それがね、限定コスメを友達と買いに行ったら、私たちの目の前で売り切れちゃったの。</Dialog>
+          <Dialog>あらら……。</Dialog>
+          <Dialog>もうガッカリしちゃって、こうなったらヤケ食いしようって、ファミレスに行くことになって。</Dialog>
+          <Dialog>で、楽しかったんだ？</Dialog>
+          <Dialog>うん、すごく。だから、ヤケ酒もきっと楽しいし、美味しいんじゃないかなって思ったの。</Dialog>
+          <Dialog>（それとこれとはちょっと違う気もするけど……どうなんだろ）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2421,20 +2421,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I wonder if drinking a lot of amazake will cause the sake to fade.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>...▲Anegasaki*▲, you wouldn't say you're admiring alcohol, right?</Dialog>
-          <Dialog>What, why?</Dialog>
-          <Dialog>I feel like I've been weirdly particular about this for a while now...</Dialog>
-          <Dialog>Maybe it makes you worry?</Dialog>
-          <Dialog>a bit.</Dialog>
-          <Dialog>Sorry, sorry. In fact, the challenge is to understand the feelings of adults.</Dialog>
-          <Dialog>What is the challenge?</Dialog>
-          <Dialog>Challenge with friends. How realistic can you imagine situations that only adults would understand?
-I mean?</Dialog>
-          <Dialog>I often talk about it during lunchtime, but I have no understanding of the misogy with alcohol. The most difficult task right now.</Dialog>
-          <Dialog>(...Women's play is strange.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>甘酒をたくさん飲んだらヤケ酒になるのかなぁ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……▲姉ヶ崎＊▲、まさかヤケ酒に憧れてるなんて言わないよな？</Dialog>
+          <Dialog>えっ、どうして？</Dialog>
+          <Dialog>この前から妙にこだわってる気がするから……。</Dialog>
+          <Dialog>もしかして、心配させてる？</Dialog>
+          <Dialog>少し。</Dialog>
+          <Dialog>ごめんごめん。実はね、大人の気持ちを理解するのが課題なの。</Dialog>
+          <Dialog>課題って何の？</Dialog>
+          <Dialog>友達との課題。大人じゃないとわからないシチュエーションをどこまでリアルに想像できる
+かっていう。</Dialog>
+          <Dialog>お弁当の時間によく話すんだけど、ヤケ酒については全然理解できないんだ。今の、一番難しい課題。</Dialog>
+          <Dialog>（……女子の遊びって不思議だ）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2523,19 +2523,19 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What other issues are there that I mentioned the other day? I mean I'm doing it with a friend...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Adult situation? Yes, I think what I just recently talked about was the fact that my boss and subordinate were caught between me.</Dialog>
-          <Dialog>...Wow.</Dialog>
-          <Dialog>The feelings of a salaried worker developed from this and was laying down.</Dialog>
-          <Dialog>...The world is tough.</Dialog>
-          <Dialog>Oh, it seems like he's not interested in it somehow.</Dialog>
-          <Dialog>That's not the case. I just thought that girls' fantasies were strong.</Dialog>
-          <Dialog>You're strong, right? For example, if you and I were adults...</Dialog>
-          <Dialog>When ● and Anegasaki*▲ grow up...</Dialog>
-          <Dialog>I'll tell you the rest once I'm an adult.</Dialog>
-          <Dialog>(What did you fantasize about...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>この前言ってた課題って、他にどんなのがあるの？　友達とやってるっていう……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>大人シチュエーション？　そうね、つい最近話したのは、上司と部下の板挟み、かな。</Dialog>
+          <Dialog>……へぇ。</Dialog>
+          <Dialog>そこから発展して、リストラにあったサラリーマンの気持ち。</Dialog>
+          <Dialog>……世知辛いね。</Dialog>
+          <Dialog>あ、なんだか興味ないみたい。</Dialog>
+          <Dialog>そんなことないって。女子の妄想力は逞しいなって思ってただけ。</Dialog>
+          <Dialog>逞しいよ？　例えば、あなたと私が大人になったら……。</Dialog>
+          <Dialog>●と▲姉ヶ崎＊▲が大人になったら……。</Dialog>
+          <Dialog>続きは大人になってから教えてあげる▼</Dialog>
+          <Dialog>（何を妄想したんだろう……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2604,16 +2604,16 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>He said he's starting a blog with Dexies next time.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Blog?</Dialog>
-          <Dialog>yes. I hope the manager becomes a friendly store.</Dialog>
-          <Dialog>But isn't that difficult to manage such things?</Dialog>
-          <Dialog>Yes... I thought so too, but somehow I took it on.</Dialog>
-          <Dialog>▲Anegasaki*▲ is it!?</Dialog>
-          <Dialog>I'm so surprised now. All I took on was writing. Don't worry.</Dialog>
-          <Dialog>(▲Anegasaki*▲'s blog... I think it's going to be popular)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>今度ね、デキシーズでブログを始めるんだって。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ブログ？</Dialog>
+          <Dialog>そう。店長がね、親しみやすいお店になればって。</Dialog>
+          <Dialog>でも、ああいうのって管理とか大変なんじゃない？</Dialog>
+          <Dialog>うん……私もそう思ったんだけど、なんとなく引き受けちゃった。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲が!?</Dialog>
+          <Dialog>もう、そんなにびっくりして。私が引き受けたのは、文章を書くだけだよ。ご心配なく。</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲のブログか……、人気出そうだな）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2697,18 +2697,18 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The other day I mentioned this is the Dexies blog, and it seems to have a good reputation.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Is it written by Anegasaki*▲?</Dialog>
-          <Dialog>Yes, the manuscript. However, the title of the blog was "Dixies Manager's Diary."</Dialog>
-          <Dialog>picture? ▲Anegasaki*▲ isn't the store manager, right?</Dialog>
-          <Dialog>It's just a part-time job.</Dialog>
-          <Dialog>The store manager will immediately rely on ▲Anegasaki*▲.</Dialog>
-          <Dialog>Are you worried? thank you. But, I'm having fun too.</Dialog>
-          <Dialog>Are you having fun?</Dialog>
-          <Dialog>Yeah. I'm happy to hear comments from customers.</Dialog>
-          <Dialog>(If ▲Anegasaki*▲ is fun, is that okay?)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>この前言ってた、デキシーズのブログだけど、評判いいみたい。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲が書いてるんだよな？</Dialog>
+          <Dialog>うん、原稿はね。でもブログのタイトルは“デキシーズ店長日記”になったから。</Dialog>
+          <Dialog>え？　▲姉ヶ崎＊▲って店長じゃないよな？</Dialog>
+          <Dialog>もう、ただのバイトです。</Dialog>
+          <Dialog>店長はすぐ▲姉ヶ崎＊▲に頼るからな。</Dialog>
+          <Dialog>心配してくれてるの？　ありがとう。でもね、私も楽しんでるから。</Dialog>
+          <Dialog>楽しんでる？</Dialog>
+          <Dialog>うん。お客様からのコメントがあると、うれしいし。</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲が楽しいならいいか）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2802,19 +2802,19 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The other day, there was a customer who came to the store after reading a blog.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's amazing!</Dialog>
-          <Dialog>That's right, but...</Dialog>
-          <Dialog>yeah?</Dialog>
-          <Dialog>I'm happy you came to the store. The customer asked, "Where are you, store manager?"</Dialog>
-          <Dialog>Is it the store manager the best thing to do?</Dialog>
-          <Dialog>Apparently he became a fan after reading his blog... The manager was very troubled.</Dialog>
-          <Dialog>Haha, I wanted to see the troubled manager.</Dialog>
-          <Dialog>It was certainly a bit interesting...but I feel like the customer is bad too, so I'll tell the store manager a bit.</Dialog>
-          <Dialog>Yes, if something happens, we'll help you out.</Dialog>
-          <Dialog>thank you. It's okay.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>この前ね、ブログを見て、お店に来たってお客様がいたの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>すごいじゃん！</Dialog>
+          <Dialog>そうなんだけど……。</Dialog>
+          <Dialog>ん？</Dialog>
+          <Dialog>お店に来てくれたのはうれしいんだけどね。そのお客様が、“店長さんどこ？”って。</Dialog>
+          <Dialog>まさか、店長目当てってこと？</Dialog>
+          <Dialog>ブログを読んで、ファンになったらしいの……。店長がすごく困ってた。</Dialog>
+          <Dialog>はは、困った店長見たかったな。</Dialog>
+          <Dialog>たしかにちょっと面白かったけど……でも、お客様にも悪い気がするから、ちょっと店長に言ってみるね。</Dialog>
+          <Dialog>うん、何かあったら●も協力するから。</Dialog>
+          <Dialog>ありがとう。大丈夫よ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2907,19 +2907,19 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I heard from the store manager that they are closing the blog?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, it was originally a limited time only.</Dialog>
-          <Dialog>I wish the store manager had taken the lead and did it.</Dialog>
-          <Dialog>The manager said he should continue a little longer.</Dialog>
-          <Dialog>So, wasn't the store manager closing it?</Dialog>
-          <Dialog>...Actually, me.</Dialog>
-          <Dialog>Why ▲Anegasaki*▲?</Dialog>
-          <Dialog>Because they say they'll officially make it a waitress blog.</Dialog>
-          <Dialog>...Well, it's going to be popular though.</Dialog>
-          <Dialog>To do this, they may change the design of the uniforms... I don't know what they'll be forced to do, so I thought it would be fine to close it.</Dialog>
-          <Dialog>(...That's a wise decision)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>店長から聞いたけど、ブログ閉鎖するんだって？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うん、もともと期間限定だったし。</Dialog>
+          <Dialog>ちゃんと店長が引き次いで、やってもらえばよかったのに。</Dialog>
+          <Dialog>店長はもう少し続けようか、なんて言ってたんだよ。</Dialog>
+          <Dialog>じゃ、店長が閉鎖させたんじゃないの？</Dialog>
+          <Dialog>……実は、私。</Dialog>
+          <Dialog>どうして▲姉ヶ崎＊▲が？</Dialog>
+          <Dialog>だって、正式にウェイトレスブログにしようって言うから。</Dialog>
+          <Dialog>……まあ、人気は出るだろうけどね。</Dialog>
+          <Dialog>そのために制服のデザインも変えるとか……。なにやらされるのかわかんないし、閉鎖でいいと思って。</Dialog>
+          <Dialog>（……賢明な判断だな）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2993,17 +2993,17 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Come to think of it, the other day, a girl in my class was making a fuss about a sale.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Girls love shopping.</Dialog>
-          <Dialog>▲Anegasaki*▲Of course?</Dialog>
-          <Dialog>I'm a girl too...</Dialog>
-          <Dialog>It's not that way!</Dialog>
-          <Dialog>Sorry, I'm a bit mean</Dialog>
-          <Dialog>▲Anegasaki*▲!</Dialog>
-          <Dialog>Hehe, he's so cute ▼</Dialog>
-          <Dialog>(The sale is... well)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そういえばこの間、クラスの女子が、セールセールって騒いでた。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>女の子は買い物好きだからね。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲も？</Dialog>
+          <Dialog>私だって、女の子なんですけど……。</Dialog>
+          <Dialog>そういう意味じゃなくってさ！</Dialog>
+          <Dialog>ごめん、ちょっと意地悪しちゃった♪</Dialog>
+          <Dialog>▲姉ヶ崎＊▲！</Dialog>
+          <Dialog>ふふ、カワイイ▼</Dialog>
+          <Dialog>（セールの話は……まあいいか）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3102,20 +3102,20 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I went to a sale with a friend the other day.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲ also likes it.</Dialog>
-          <Dialog>That's right. Maybe they're weak to things like "Great deals!" or "Limited Edition!"</Dialog>
-          <Dialog>And what good was there?</Dialog>
-          <Dialog>Everyone found their favorites though.</Dialog>
-          <Dialog>▲Anegasaki*▲What?</Dialog>
-          <Dialog>Actually, I had done a lot of shopping online before that, so I held back.</Dialog>
-          <Dialog>Online shopping?</Dialog>
-          <Dialog>Yes, it's interesting? I imagine all sorts of things while looking at the catalog. But at that time...</Dialog>
-          <Dialog>Wasn't it just imagination?</Dialog>
-          <Dialog>Sometimes ♪</Dialog>
-          <Dialog>(▲Anegasaki*▲, what did you buy?)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>この間友だちと、セールにいってきたんだけどね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲もやっぱり、好きなんだ。</Dialog>
+          <Dialog>そうね。「お買い得！」とか、「限定！」とかに弱いかも。</Dialog>
+          <Dialog>で、何かいいものあった？</Dialog>
+          <Dialog>みんなはお気に入りを見つけてたけど。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲は？</Dialog>
+          <Dialog>実はその前に通販でたくさん買い物をしちゃったから、我慢したの。</Dialog>
+          <Dialog>通販？</Dialog>
+          <Dialog>そう、面白いんだよ？　カタログ見ながら、あれこれ想像するの。ただそのときは……。</Dialog>
+          <Dialog>想像だけで済まなかったか。</Dialog>
+          <Dialog>たまにね♪</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲、何を買ったんだろ？）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3204,19 +3204,19 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I'm talking about mail order the other day, but what do you buy ▲Anegasaki*▲?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm, then, a quiz. Yes.</Dialog>
-          <Dialog>Hmm, what's it, accessories?</Dialog>
-          <Dialog>Boo! You'd like to pick something like that and choose it, right?</Dialog>
-          <Dialog>I see... hmm... I don't know, surrender. what?</Dialog>
-          <Dialog>already? Yes...well, the other day I had a bowl, chopsticks, and pajamas.</Dialog>
-          <Dialog>It has a very sense of life. Why online shopping?</Dialog>
-          <Dialog>I was doing a special feature on couples' goods and when I saw them...</Dialog>
-          <Dialog>What, Meot?!</Dialog>
-          <Dialog>Ah, uh! I just wanted it when I saw the special feature, but the only thing I actually bought was my own.</Dialog>
-          <Dialog>(I was surprised...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>この前言ってた、通販の話だけど、▲姉ヶ崎＊▲は何買うの？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>んー、じゃあ、クイズ。はいっ。</Dialog>
+          <Dialog>うーん、なんだろ、アクセサリーとか？</Dialog>
+          <Dialog>ブー！　そういうものは手にとって選びたいでしょ？</Dialog>
+          <Dialog>そっか……うーん……わかんない、降参。何？</Dialog>
+          <Dialog>もう？　うん……あのね、この前はお茶碗、お箸、それとパジャマ。</Dialog>
+          <Dialog>ずいぶん生活感あるね。なんで通販で？</Dialog>
+          <Dialog>夫婦グッズ特集をやってて、それを見てたら……。</Dialog>
+          <Dialog>えっ、めおと!?</Dialog>
+          <Dialog>あっ、ううん！　その特集を見てたら欲しくなっただけで、実際買ったのは、自分の分だけよ？</Dialog>
+          <Dialog>（びっくりした……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3320,20 +3320,20 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Is online shopping still going on?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I'm not using it that much. Lately I've only been looking at it.</Dialog>
-          <Dialog>So what have you looked at recently?</Dialog>
-          <Dialog>Hmm... Ah!</Dialog>
-          <Dialog>yeah?</Dialog>
-          <Dialog>That's... a secret.</Dialog>
-          <Dialog>I'm curious. So, another quiz?</Dialog>
-          <Dialog>Yes... I'm sure I'll never know.</Dialog>
-          <Dialog>Wow, I'm curious! What is it?</Dialog>
-          <Dialog>Umm...</Dialog>
-          <Dialog>...Baby goods.</Dialog>
-          <Dialog />
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>通販、まだ続いてる？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そんなに利用してるわけじゃないよ。最近は眺めてるだけ。</Dialog>
+          <Dialog>じゃあ最近眺めたのは？</Dialog>
+          <Dialog>ん……あっ！</Dialog>
+          <Dialog>ん？</Dialog>
+          <Dialog>それは……秘密。</Dialog>
+          <Dialog>気になるって。じゃあ、またクイズ？</Dialog>
+          <Dialog>ううん……きっと、絶対わからないと思うから。</Dialog>
+          <Dialog>へえ、気になる！　なんなの？</Dialog>
+          <Dialog>えっと……。</Dialog>
+          <Dialog>……ベビーグッズ。</Dialog>
+          <Dialog>!?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3437,20 +3437,20 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, what's up?</Dialog>
-          <Dialog>Ah, sorry, sigh. ...Um, it's like I've lost my schedule book.</Dialog>
-          <Dialog>picture? That's difficult.</Dialog>
-          <Dialog>Yeah. The cafe I went to the other day is unbelievable though. I thought it would be in my bag...</Dialog>
-          <Dialog>If you know where, go and look for it?</Dialog>
-          <Dialog>Yes. I even called the store to find it...</Dialog>
-          <Dialog>Couldn't find it?</Dialog>
-          <Dialog>I delivered it straight to the police box. Maybe the policeman won't be found...</Dialog>
-          <Dialog>I've been clumsy. It can't be helped, so I think I'll buy a new one.</Dialog>
-          <Dialog>I see... I hope they find it...</Dialog>
-          <Dialog>Yes, thank you.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>はぁ……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、どうかした？</Dialog>
+          <Dialog>あ、ごめん、溜息ついて。……あのね、スケジュール帳を落としたみたいなの。</Dialog>
+          <Dialog>え？　大変じゃん。</Dialog>
+          <Dialog>うん。この前行ったカフェがあやしいんだけどね。てっきりバッグの中にあると思ってたのに……。</Dialog>
+          <Dialog>場所わかってるなら、探しに行く？</Dialog>
+          <Dialog>ううん。お店には電話もして探してもらったんだけど……。</Dialog>
+          <Dialog>見つからなかったのか。</Dialog>
+          <Dialog>そのまま交番にも届けたんだけど。おまわりさんは見つからないかもって……。</Dialog>
+          <Dialog>ドジやっちゃったなあ。しょうがないから、新しいの買おうかな。</Dialog>
+          <Dialog>そっか……見つかるといいな……。</Dialog>
+          <Dialog>うん、ありがとう。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3544,19 +3544,19 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, has your schedule book been released?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, it doesn't seem to work. Thank you for caring.</Dialog>
-          <Dialog>It seems that the police officer at the police box also asked a nearby store.</Dialog>
-          <Dialog>Wow, the police do that.</Dialog>
-          <Dialog>Yes, he was so kind.</Dialog>
-          <Dialog>Is that policeman a young person?</Dialog>
-          <Dialog>picture? Yes, he was a pretty old man, why?</Dialog>
-          <Dialog>That would be fine though. A bit... somehow.</Dialog>
-          <Dialog>Oh, are you jealous? They've been looking for it with kindness, but that's no good.</Dialog>
-          <Dialog>After all, it might be the kindness of someone who "likes" them.</Dialog>
-          <Dialog>You don't say anything so cute ▼</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、スケジュール帳はでてきた？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ううん、ダメみたい。気にしてくれてありがとう。</Dialog>
+          <Dialog>交番のおまわりさんが、近くのお店にも聞いてくれたみたいなんだけど。</Dialog>
+          <Dialog>へー、警察ってそこまでしてくれるんだ。</Dialog>
+          <Dialog>うん、すごく親身になってくれて。</Dialog>
+          <Dialog>そのおまわりさんって、若い人？</Dialog>
+          <Dialog>え？　ううん、結構年配の男性だったけど、どうして？</Dialog>
+          <Dialog>ならいいんだけど。ちょっと……なんとなく。</Dialog>
+          <Dialog>あ、まさか嫉妬してるの？　せっかく厚意で探してくれてるのに、ダメよ、そんなの。</Dialog>
+          <Dialog>だって、「好き」の方の好意かもしれないだろ。</Dialog>
+          <Dialog>こーら、そんなにカワイイこと言わないの▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3639,17 +3639,17 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I bought a new schedule book. I found something with the same design.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I see, there's nothing I can do about it. I liked the same thing before.</Dialog>
-          <Dialog>Yeah. As well as the design, I also had a strong attachment to it. But it can't be helped. It's my carelessness.</Dialog>
-          <Dialog>...I don't want the previous one to appear anywhere anymore once this happens.</Dialog>
-          <Dialog>picture? why?</Dialog>
-          <Dialog>Actually... I used it as a diary. If anyone could see me, I was worried.</Dialog>
-          <Dialog>I see.</Dialog>
-          <Dialog>...But, it's fine now. You can just write down new memories in your new schedule book.</Dialog>
-          <Dialog>(▲Anegasaki*▲...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>スケジュール帳、新調したよ。同じデザインのものが見つかったから。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そっか、しょうがないね。同じのってことは、前の気に入ってたんだ。</Dialog>
+          <Dialog>うん。デザインもそうだけど、思い入れもあったから。でもしょうがないよね。私の不注意なんだもの。</Dialog>
+          <Dialog>……こうなったらもう、前のは絶対どこにも出てきて欲しくないな。</Dialog>
+          <Dialog>え？　なんで？</Dialog>
+          <Dialog>実はね……日記代わりにもしてたから。もし、誰かに見られたらって思うと、気が気じゃなかったの。</Dialog>
+          <Dialog>そっか。</Dialog>
+          <Dialog>……でも、もういいの。新しいスケジュール帳に、新しい思い出を書き込んでいけばいいもんね。</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3747,19 +3747,19 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The other day, I found a schedule book.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I see, that's good!?</Dialog>
-          <Dialog>Yes, the owner of the cafe I stopped by that day kept it in store, thinking I would come and pick it up.</Dialog>
-          <Dialog>I'm glad he was a good person.</Dialog>
-          <Dialog>But I accidentally caused trouble to many people. That's a reflection.</Dialog>
-          <Dialog>You won't be so depressed. Because it was found.</Dialog>
-          <Dialog>……Yeah. But I thought I'd not use that schedule book, but instead use the new one.</Dialog>
-          <Dialog>Why?</Dialog>
-          <Dialog>Because even during that time, I've already written new memories with you. I want to create so many memories that I can't beat the oldest.</Dialog>
-          <Dialog>Okay, leave it to me!</Dialog>
-          <Dialog>Yes, please ♪</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>この間ね、スケジュール帳が見つかったの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そっか、よかったな!?</Dialog>
+          <Dialog>うん、その日寄ったカフェのオーナーさんがね、私が取りに来ると思って保管してくれてて。</Dialog>
+          <Dialog>いい人でよかったね。</Dialog>
+          <Dialog>でも、私のうっかりで色々な人に迷惑かけちゃった。反省だね。</Dialog>
+          <Dialog>そんなに落ち込むことないよ。見つかったんだからさ。</Dialog>
+          <Dialog>……うん。でもね、そのスケジュール帳は使わないで、新しい方を使うことにしようと思って。</Dialog>
+          <Dialog>どうして？</Dialog>
+          <Dialog>だって、その間だけでも、もうあなたとの新しい思い出が書き込んであるから。古い方にも負けないくらい、たくさん思い出作りたいなって。</Dialog>
+          <Dialog>よし、任せとけ！</Dialog>
+          <Dialog>はい、お願いします♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3853,19 +3853,19 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The other day, the store manager was wondering what the new service was like.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Wow, the manager thinks that way too.</Dialog>
-          <Dialog>There are surely some hardships that we don't understand. perhaps.</Dialog>
-          <Dialog>Perhaps ▲Anegasaki*▲. Did you ask me again?</Dialog>
-          <Dialog>Yes, that's not the case.</Dialog>
-          <Dialog>I just thought that I could do something for us.</Dialog>
-          <Dialog>Really, ▲Anegasaki*▲ can't leave anyone in trouble alone.</Dialog>
-          <Dialog>I just love Dexis. Because it's the shop we met.</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
-          <Dialog>Right?</Dialog>
-          <Dialog>That's right. ●Is there anything we can do?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>この間ね、店長が、新しいサービスとはなんだろう……って悩んでたの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>へー、店長もそんなこと考えるんだ。</Dialog>
+          <Dialog>きっと、私たちの分からない苦労もあるのよ。たぶん。</Dialog>
+          <Dialog>もしかして、▲姉ヶ崎＊▲。また、なんか頼まれた？</Dialog>
+          <Dialog>ううん、そういうのじゃないの。</Dialog>
+          <Dialog>ただ、私たちになにかできるかなって思っただけ。</Dialog>
+          <Dialog>ほんと、▲姉ヶ崎＊▲は、困ってる人ほっとけないんだな。</Dialog>
+          <Dialog>私はデキシーズが大好きなだけ。だって、私たちが出会ったお店なんだから。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>でしょ？</Dialog>
+          <Dialog>そうだな。●たちにできること、何かあるかな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3964,20 +3964,20 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I'm talking about a new service from Dexies, did you come up with any good ideas?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It would be nice if the interior decorations and tableware could be tailored to the season... But it's difficult.</Dialog>
-          <Dialog>Certainly, it's a big deal. I guess the biggest service is discounts.</Dialog>
-          <Dialog>That also seems difficult.</Dialog>
-          <Dialog>That's right.</Dialog>
-          <Dialog>Hmm, it's difficult to make our customers happy.</Dialog>
-          <Dialog>●I think ▲Anegasaki*▲'s smile is enough. It's free.</Dialog>
-          <Dialog>That's not good. Only you can show your finest smile.</Dialog>
-          <Dialog>Haha, I see.</Dialog>
-          <Dialog>And it's not free.</Dialog>
-          <Dialog>picture!?</Dialog>
-          <Dialog>I've got a lot from you too.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>デキシーズの新サービスの話だけど、何か良いアイデア出た？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>店内の装飾とか食器を季節に合わせられたらステキだな……って。でも大変よね。</Dialog>
+          <Dialog>確かに、大がかりだな。やっぱり最大のサービスは値引きなんだろうけど。</Dialog>
+          <Dialog>それも、難しそうね。</Dialog>
+          <Dialog>だよなあ。</Dialog>
+          <Dialog>うーん、お客様に喜んでもらうのって、難しいのね。</Dialog>
+          <Dialog>●は、▲姉ヶ崎＊▲の笑顔で十分だと思うけどな。無料だし。</Dialog>
+          <Dialog>それじゃダメだよ。最上級の笑顔はあなただけにしか見せられないもん。</Dialog>
+          <Dialog>はは、そっか。</Dialog>
+          <Dialog>それに、無料じゃないしね。</Dialog>
+          <Dialog>え!?</Dialog>
+          <Dialog>あなたからも、いっぱいもらってるもん。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4071,19 +4071,19 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's a new service from Dexies. It should change depending on the customer's age and gender.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Every one of them will be different.</Dialog>
-          <Dialog>For customers who want to eat a lot, there is a large serving. Women can use less rice and dessert...</Dialog>
-          <Dialog>nice. So toys for kids?</Dialog>
-          <Dialog>oh yeah. For the elderly... a shoulder tap ticket?</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>Umm... I'm kidding.</Dialog>
-          <Dialog>That's fine, Anegasaki*▲ shoulder tap ticket. ●I also want it.</Dialog>
-          <Dialog>You don't need a ticket.</Dialog>
-          <Dialog>Face pass?</Dialog>
-          <Dialog>I'm not getting carried away anymore.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>デキシーズの新しいサービスだけど。お客様の年齢や性別によって変えるべきよね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>求めるものはそれぞれ違うだろうしね。</Dialog>
+          <Dialog>たくさん食べたいってお客様には、大盛りサービスとか。女性には、ご飯を減らしてデザートをつけるとか……。</Dialog>
+          <Dialog>いいね。じゃあ子供にはおもちゃ？</Dialog>
+          <Dialog>そうそう。お年寄りには……肩たたき券？</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>えっと……冗談よ。</Dialog>
+          <Dialog>いいじゃん、▲姉ヶ崎＊▲の肩たたき券。●も欲しい。</Dialog>
+          <Dialog>あなたは、券なんかいらないよ。</Dialog>
+          <Dialog>顔パス？</Dialog>
+          <Dialog>もう、調子に乗らないの。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4182,20 +4182,20 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's a new service from Dexies, but I came up with one idea.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Wow, what's it?</Dialog>
-          <Dialog>Remember the customer's name.</Dialog>
-          <Dialog>? So what are you going to do?</Dialog>
-          <Dialog>When you wait, you'll have your name written on it. And thank you for giving me a name when I left. That's what I say.</Dialog>
-          <Dialog>I see. ...Is he depressed for some idea?</Dialog>
-          <Dialog>Actually, I've already told the store manager about this idea.</Dialog>
-          <Dialog>What?</Dialog>
-          <Dialog>Recently, personal information has become noisy, and some customers may find it uncomfortable to remember their names.</Dialog>
-          <Dialog>Ah...the world is tough.</Dialog>
-          <Dialog>I thought it was a good idea though. The manager told me to put off discussion about the new service. The end.</Dialog>
-          <Dialog>(Is it difficult for part-time workers to think about it after all...?)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>デキシーズの新サービスなんだけど、ひとつ思いついたの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>へえ、どんなの？</Dialog>
+          <Dialog>お客様の名前を覚える。</Dialog>
+          <Dialog>？　それでどうするの？</Dialog>
+          <Dialog>ウェイティングのとき、名前を書いてもらうでしょ。で、お帰りの際に、名前をつけてありがとうございました。って言うの。</Dialog>
+          <Dialog>なるほど。……なんかアイディア思いついた割には落ち込んでる？</Dialog>
+          <Dialog>実はこのアイディア、もう店長に伝えたんだけど。</Dialog>
+          <Dialog>なんて？</Dialog>
+          <Dialog>最近は個人情報とかうるさいし、名前を覚えられることに不快感を感じるお客様もいるだろう、って。</Dialog>
+          <Dialog>あー……世知辛いね。</Dialog>
+          <Dialog>いいアイディアだと思ったんだけどな。新サービスの話は保留、って店長に言われちゃった。おしまい。</Dialog>
+          <Dialog>（やっぱりバイトが考えるのは難しいのか……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4279,18 +4279,18 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, do you know the movie "Tent"?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>A horror movie?</Dialog>
-          <Dialog>Yes, it's an old work. It wasn't appreciated at the time of its release. It feels like only a few people know.</Dialog>
-          <Dialog>Wow, what's the content?</Dialog>
-          <Dialog>A story about a man and a woman trapped in a mountain lodge on a snowy mountain.</Dialog>
-          <Dialog>Haha, that's pretty much. Will there be a murderer after all?</Dialog>
-          <Dialog>of course. If it doesn't come out, nothing will start, right?</Dialog>
-          <Dialog>Of course...</Dialog>
-          <Dialog>The weight of the snow also cuts the telephone line and the road to the foot of the mountain is cut off...</Dialog>
-          <Dialog>(▲Anegasaki*▲ is alive and lively...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、『テント』って映画知ってる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ホラー映画？</Dialog>
+          <Dialog>うん、古い作品なんだけど。公開当時、評価されてなかったんだけどね。知る人ぞ知るって感じなの。</Dialog>
+          <Dialog>へーどんな内容なの？</Dialog>
+          <Dialog>雪山の山荘に閉じ込められた男女の話。</Dialog>
+          <Dialog>はは、いかにもだな。やっぱり殺人鬼が出てくるの？</Dialog>
+          <Dialog>もちろん。出てこなきゃ、何も始まらないでしょ？</Dialog>
+          <Dialog>もちろんなんだ……。</Dialog>
+          <Dialog>雪の重みで、電話線も切れて、麓への道も寸断されちゃうの……。</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲が、生き生きしてる……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4374,18 +4374,18 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I saw it on TV a while ago, and do you know the movie "Slope"?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Maybe...horror?</Dialog>
-          <Dialog>Roughly speaking, that's right. But it doesn't feel like a splatter.</Dialog>
-          <Dialog>There's no murderer.</Dialog>
-          <Dialog>That's coming out.</Dialog>
-          <Dialog>It's coming out.</Dialog>
-          <Dialog>But, rather than a murderer, is it a monster? He has no face.</Dialog>
-          <Dialog>It's like a sloppy thing...</Dialog>
-          <Dialog>Yes, it's an American movie. There's no upwards from the neck. So...</Dialog>
-          <Dialog>....</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ちょっと前にテレビで観たんだけど『スロープ』って映画知ってる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>もしかして……ホラー？</Dialog>
+          <Dialog>おおざっぱに言うと、そうね。でもスプラッターな感じではないの。</Dialog>
+          <Dialog>殺人鬼は出ないんだ。</Dialog>
+          <Dialog>それは出るよ。</Dialog>
+          <Dialog>出るんだ。</Dialog>
+          <Dialog>でもね、殺人鬼というより、化け物かな？　顔がないの。</Dialog>
+          <Dialog>それは、のっぺらぼうみたいな……。</Dialog>
+          <Dialog>ううん、アメリカの映画だもん。首から上がないの。それでね……。</Dialog>
+          <Dialog>……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4464,17 +4464,17 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The movie I rented yesterday wasn't very interesting.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Maybe that's the case, that's the case.</Dialog>
-          <Dialog>It's a classic way for zombies to attack the city, but it's not a homage, it's just a cliché parody.</Dialog>
-          <Dialog>Yeah…….</Dialog>
-          <Dialog>I wish I could have laughed at least.</Dialog>
-          <Dialog>smile? It's horror, isn't it?</Dialog>
-          <Dialog>There's a funny horror thing, right?</Dialog>
-          <Dialog>●I don't really understand...</Dialog>
-          <Dialog>Is that so? That's strange...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>昨日借りてみた映画が、あまり面白くなかったの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ハズれか、そういうこともあるよ。</Dialog>
+          <Dialog>ゾンビが街を襲う王道なんだけど、オマージュってわけでもなく、ただの陳腐なパロディで。</Dialog>
+          <Dialog>うん……。</Dialog>
+          <Dialog>せめてまだ笑えればよかったんだけど。</Dialog>
+          <Dialog>笑う？　ホラーでしょ？</Dialog>
+          <Dialog>笑えるホラー、あるでしょ？</Dialog>
+          <Dialog>●にはよくわかんないな……。</Dialog>
+          <Dialog>そうなの？　おかしいなあ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4578,21 +4578,21 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲. Did you watch the psycho horror film that was on TV the other day?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Perhaps... "Psycho's Temptation"?</Dialog>
-          <Dialog>Yes, that's it. I happened to watch it.</Dialog>
-          <Dialog>Me too... Oh, then you understand.</Dialog>
-          <Dialog>what?</Dialog>
-          <Dialog>What kind of hilarious horror is?</Dialog>
-          <Dialog>……why?</Dialog>
-          <Dialog>Couldn't you laugh? Psycho?</Dialog>
-          <Dialog>...I was so scared I stopped watching halfway through.</Dialog>
-          <Dialog>What?!</Dialog>
-          <Dialog>No way?</Dialog>
-          <Dialog>It's not good at all. I'm not asking you to understand your hobbies, but if you don't get this far, it's a serious problem...</Dialog>
-          <Dialog>(Huh!)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。この前テレビでやってたサイコホラー観た？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>もしかして……『サイコさんの誘惑』？</Dialog>
+          <Dialog>そう、それそれ。たまたま観てさ。</Dialog>
+          <Dialog>私も……あ、じゃあわかったでしょ。</Dialog>
+          <Dialog>なにを？</Dialog>
+          <Dialog>笑えるホラーがなんなのか。</Dialog>
+          <Dialog>……なんで？</Dialog>
+          <Dialog>笑えなかった？　サイコさん？</Dialog>
+          <Dialog>……怖くて、途中で観るのやめちゃったぐらいなんだけど。</Dialog>
+          <Dialog>ええっ!?</Dialog>
+          <Dialog>ダメ？</Dialog>
+          <Dialog>全然ダメ。趣味を理解してくれとは言わないけど、ここまでなってないと、由々しき問題よね……。</Dialog>
+          <Dialog>（え～！）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4691,20 +4691,20 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, did you have your favorite hero?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Special effects or anime?</Dialog>
-          <Dialog>It's fine to have a movie or a book. All boys dream of something like that, right?</Dialog>
-          <Dialog>Hmm, there was a time like that.</Dialog>
-          <Dialog>So did you practice your special move?</Dialog>
-          <Dialog>Ah, maybe it did. Nantoka waves, for example. Quite serious.</Dialog>
-          <Dialog>He's a boy after all.</Dialog>
-          <Dialog>Isn't girls not?</Dialog>
-          <Dialog>Normally, how about it? In my case, it's not a special move...</Dialog>
-          <Dialog>...Not that?</Dialog>
-          <Dialog>...It's embarrassing after all, so I'll tell you.</Dialog>
-          <Dialog>(be on one's mind……)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇ、好きなヒーローっていた？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>特撮とかアニメの？</Dialog>
+          <Dialog>映画でも本でもいいけど。男の子ってみんな、そういうのに憧れるでしょ？</Dialog>
+          <Dialog>うーん、そういう時期もあったなぁ。</Dialog>
+          <Dialog>じゃあ、必殺技を練習したりした？</Dialog>
+          <Dialog>ああ、したかも。ナントカ波～とかね。結構本気で。</Dialog>
+          <Dialog>やっぱり男の子だ。</Dialog>
+          <Dialog>女の子はしないの？</Dialog>
+          <Dialog>普通はどうかな。私の場合は必殺技とかじゃなくて……。</Dialog>
+          <Dialog>……じゃなくて？</Dialog>
+          <Dialog>……やっぱり恥ずかしいから、ナイショ。</Dialog>
+          <Dialog>（気になる……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4798,19 +4798,19 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It seems there's something popular these days that's become popular.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Wow, what's it?</Dialog>
-          <Dialog>I don't know the details, but the kids in my neighborhood often play with them screaming their special moves. Recently, every day.</Dialog>
-          <Dialog>Wow. It's not the same now and in the past.</Dialog>
-          <Dialog>That's why everyone has different names for special moves. Dragon Scream! Or a rolling tiger! Or something like that.</Dialog>
-          <Dialog>...What does that mean?</Dialog>
-          <Dialog>It seems there are a lot of heroes. So, heroes are fighting each other.</Dialog>
-          <Dialog>Are there no bad guys?</Dialog>
-          <Dialog>The bad guy is an alien. Apparently there are many heroes in one organization, and they all protect the earth...</Dialog>
-          <Dialog>The leader of the organization is a girl. The heroes start fighting over the girl...</Dialog>
-          <Dialog>(I wonder what it would be like as a hero...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>最近、流行ってるヒーローものがあるみたい。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>へぇ、どんなの？</Dialog>
+          <Dialog>詳しくはわからないけど、近所の子が、よく必殺技の名前叫んで遊んでるから。このところ、毎日。</Dialog>
+          <Dialog>へぇ。今も昔も変わらないな。</Dialog>
+          <Dialog>それが、必殺技の名前がみんな違うの。ドラゴンスクリーム！　とか、ローリングタイガー！　とか。</Dialog>
+          <Dialog>……どういうこと？</Dialog>
+          <Dialog>ヒーローがたくさんいるみたい。それでね、ヒーロー同士で戦ってるの。</Dialog>
+          <Dialog>悪者はいないの？</Dialog>
+          <Dialog>悪者は宇宙人。一つの組織にたくさんのヒーローがいて、みんなで地球を守ってるらしいんだけど……。</Dialog>
+          <Dialog>組織のリーダーが女の子でね。ヒーローたちがその女の子を取り合いし始めて……。</Dialog>
+          <Dialog>（それ、ヒーローものとしてどうなのかな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4928,22 +4928,22 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I mentioned the other day about a hero who fights girls, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Is it popular these days?</Dialog>
-          <Dialog>Yeah. Oh, there were a few kids I was watching as a classmate. It seems to be popular among high school students as well.</Dialog>
-          <Dialog>Isn't it for kids?</Dialog>
-          <Dialog>That's right, but... But you know, there are a lot of cool boys out there.</Dialog>
-          <Dialog>Ah, there are so many heroes...</Dialog>
-          <Dialog>It seems that there are many mothers watching with their children. I guess hero stories these days are different from before.</Dialog>
-          <Dialog>▲Anegasaki*▲ is also curious?</Dialog>
-          <Dialog>Haha, what do you think?</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>I'm not jealous about this. I have my own hero, so it's fine♪</Dialog>
-          <Dialog>...Is that what about ●?</Dialog>
-          <Dialog>If you're in a pinch, why don't you fly?</Dialog>
-          <Dialog>Haha, leave it to me!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>この前言った、女の子の取り合いをするヒーローの話、あるでしょ？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>最近流行ってるっていう？</Dialog>
+          <Dialog>うん。あれ、クラスメイトで見てる子が何人かいたの。高校生の間でも、流行ってるみたい。</Dialog>
+          <Dialog>子供向けじゃないの？</Dialog>
+          <Dialog>一応、そうなんだけど……。でもね、カッコいい男の子がいっぱい出てくるんだって。</Dialog>
+          <Dialog>ああ、ヒーローがたくさんいるから……。</Dialog>
+          <Dialog>子供と一緒に見てるお母さんのファンも多いみたい。最近のヒーローものって、昔とはやっぱり違うんだね。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲も気になってたり？</Dialog>
+          <Dialog>ふふ、どうでしょう。</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>こら、ヤキモチ焼かないの。私には、私だけのヒーローがいるから、いいんだもん♪</Dialog>
+          <Dialog>……それ、●のこと？</Dialog>
+          <Dialog>ピンチになったら、飛んできてね？</Dialog>
+          <Dialog>はは、任せとけ！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5056,21 +5056,21 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>This is a story from when he was little, but ▲Anegasaki*▲ also had a hero he liked, right?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What happened all of a sudden?</Dialog>
-          <Dialog>He had practiced a special move before...</Dialog>
-          <Dialog>What if it's not a special move. ...I think you probably don't understand if you say that.</Dialog>
-          <Dialog>That's such a minor show?</Dialog>
-          <Dialog>...An old period drama. It was on a rerun.</Dialog>
-          <Dialog>Wow, it's so cool!</Dialog>
-          <Dialog>A samurai wearing a knitted hat turns around as he flinches his hem. His gestures are a man, but he's really sexy...</Dialog>
-          <Dialog>……a.</Dialog>
-          <Dialog>yeah? what up?</Dialog>
-          <Dialog>Maybe the outline of her face looks a little similar. My jaw line and neck...</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>Yes, nothing! ...You're my hero after all, right?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>小さい頃の話だけど、▲姉ヶ崎＊▲にも、好きなヒーローがいたんだよな？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>急にどうしたの？</Dialog>
+          <Dialog>前に必殺技を練習してたって……。</Dialog>
+          <Dialog>必殺技じゃないったら。……多分、言ってもわからないと思うよ？</Dialog>
+          <Dialog>そんなにマイナーな番組？</Dialog>
+          <Dialog>……古い時代劇。再放送でやってたの。</Dialog>
+          <Dialog>へぇ、渋いな！</Dialog>
+          <Dialog>編笠をかぶったお侍さんが、裾をひるがえしてくるっと振り返るの。その仕草が、男の人なんだけどすごく色っぽくて……。</Dialog>
+          <Dialog>……あ。</Dialog>
+          <Dialog>ん？　どうした？</Dialog>
+          <Dialog>ちょっと、顔の輪郭が似てるかも。アゴのラインとか首筋……。</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>ううん、なんでもないの！　……あなたはやっぱり私のヒーローだね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5173,20 +5173,20 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Did you hear there was a fuss over the Dexis the other day?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Oh, maybe that. But it's not that much of a fuss.</Dialog>
-          <Dialog>A 5-year-old girl who was running inside the store fell down.</Dialog>
-          <Dialog>Was it okay?</Dialog>
-          <Dialog>Yes, I just rub my knees a little. But I spilled another customer's food... My mother scolded me and I cried a lot.</Dialog>
-          <Dialog>I see...</Dialog>
-          <Dialog>So, the child clings to me crying and says, "Sister!"</Dialog>
-          <Dialog>...Wow, my mother scolded me, so I felt like I wanted to be spoiled by Anegasaki*▲.</Dialog>
-          <Dialog>Huh, are you not jealous?</Dialog>
-          <Dialog>...You're a 5 year old kid, isn't it?</Dialog>
-          <Dialog>Ah, I'm a bit forced. Cute▼</Dialog>
-          <Dialog>(It's been seen through...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>この間、デキシーズで騒ぎがあったんだって？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あ、あれかな。でもそんなに騒ぐことでもないのよ。</Dialog>
+          <Dialog>店内を走ってた、５歳くらいの子が転んじゃって。</Dialog>
+          <Dialog>大丈夫だったの？</Dialog>
+          <Dialog>うん、ちょっとヒザをすりむいただけ。でも、他のお客様の料理をこぼしちゃって……。お母さんに叱られて大泣きしちゃったの。</Dialog>
+          <Dialog>そっか……。</Dialog>
+          <Dialog>それでね、その子ったら泣きながら、わたしにしがみついて「おねえちゃ～ん」って。</Dialog>
+          <Dialog>……へえ、お母さんにも叱られちゃったから、▲姉ヶ崎＊▲に甘えたくなったんだな。</Dialog>
+          <Dialog>あれ、ヤキモチ妬かないんだ？</Dialog>
+          <Dialog>……５歳の子供でしょ、別に？</Dialog>
+          <Dialog>あ、ちょっと無理してる。カワイイ▼</Dialog>
+          <Dialog>（見透かされてる……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5270,19 +5270,19 @@ I mean?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That girl hasn't come to Dexis since then, but I wonder if it's okay.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>A kid who cried in the store?</Dialog>
-          <Dialog>Yeah. I used to come here often with my mom once in a while...</Dialog>
-          <Dialog>I guess he was shocked when his mother scolded him in front of everyone.</Dialog>
-          <Dialog>They liked the store but I'd be sad if they stopped coming.</Dialog>
-          <Dialog>That's right. But I have no choice but to wait.</Dialog>
-          <Dialog>...Yeah, the next time you come, you should welcome him with the usual smile!</Dialog>
-          <Dialog>yes! Dexies has to have ▲Anegasaki*▲ smile!</Dialog>
-          <Dialog>...Yes♪
-Is this okay?</Dialog>
-          <Dialog>(Annegasaki*▲ isn't like this after all)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あれからあの子、デキシーズに来てないけど、大丈夫かな。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>店内で大泣きした子？</Dialog>
+          <Dialog>うん。時々お母さんと一緒によく来てたのに……。</Dialog>
+          <Dialog>お母さんに、みんなの前で怒られたのがショックだったのかな。</Dialog>
+          <Dialog>お店のこと気に入ってくれてたのに……来なくなっちゃったら寂しいな。</Dialog>
+          <Dialog>そうだな。でもこればっかりは、待つしかないな。</Dialog>
+          <Dialog>……うん、次に来てくれたときも、いつもの笑顔でお迎えしてあげればいいよね！</Dialog>
+          <Dialog>そう！　デキシーズには▲姉ヶ崎＊▲の笑顔がないと！</Dialog>
+          <Dialog>……はいっ♪
+これでいいかな？</Dialog>
+          <Dialog>（やっぱり▲姉ヶ崎＊▲はこうじゃなくっちゃ）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5370,18 +5370,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Well, he's the girl who fell down in the store.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Maybe they came?</Dialog>
-          <Dialog>Yeah. But on a day when I wasn't in. He said he came to the store manager to apologize with his mother.</Dialog>
-          <Dialog>Wow. I could have said it properly.</Dialog>
-          <Dialog>So he left a letter saying, "To Sister." Did you even draw a portrait of me?</Dialog>
-          <Dialog>Wow... maybe it was that child's first love.</Dialog>
-          <Dialog>I don't think so, but you're only 5 years old.</Dialog>
-          <Dialog>At that age, I admire older women.</Dialog>
-          <Dialog>Hmm, it's like a boy. Is it my first love?</Dialog>
-          <Dialog>(...No, no, what will you do if you're jealous of a 5-year-old?)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あのね、お店で転んじゃった子なんだけど。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>もしかして、来てくれた？</Dialog>
+          <Dialog>うん。でも私の入ってない日で。店長のところにお母さんと一緒にお詫びに来たんだって。</Dialog>
+          <Dialog>へえ。ちゃんと言えたんだ。</Dialog>
+          <Dialog>それでね「おねえさんへ」って手紙を置いていってくれたの。私の似顔絵まで描いてくれたんだよ？</Dialog>
+          <Dialog>へえ……もしかして、その子の初恋だったりして。</Dialog>
+          <Dialog>そんなことないと思うけど、まだ５歳よ？</Dialog>
+          <Dialog>その年頃って年上のお姉さんに憧れたりするもんだって。</Dialog>
+          <Dialog>ふうん、男の子ってそうなんだ。私が初恋の相手、か……。</Dialog>
+          <Dialog>（……ダメだダメだ、５歳に嫉妬してどうする）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5473,18 +5473,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, do you look happy?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, that girl came to Dexis again.</Dialog>
-          <Dialog>So, is that?</Dialog>
-          <Dialog>He wanted to say it directly, not a letter. But I couldn't say it easily, so I was so exhausted...it was so cute.</Dialog>
-          <Dialog>Wow... that's just love after all.</Dialog>
-          <Dialog>Are you jealous again? If I were jealous every time I get along with my kids, I wouldn't be able to survive.</Dialog>
-          <Dialog>Yes...maybe.</Dialog>
-          <Dialog>No need to worry. Whether you're a child or an adult, you're the best.</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
-          <Dialog>...I've already looked happy. You look like a child now? Cute▼</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、うれしそう？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うん、デキシーズにあの子がまた来てくれたの。</Dialog>
+          <Dialog>それでか。</Dialog>
+          <Dialog>手紙じゃなくて、直接言いたかったんだって。でも、なかなか言い出せなくてモジモジして……カワイかったの。</Dialog>
+          <Dialog>へえ……それ、やっぱ恋なんじゃ。</Dialog>
+          <Dialog>もう、またヤキモチ？　私が子供と仲良くする度に妬いてたら、もたないよ？</Dialog>
+          <Dialog>う……そうかも。</Dialog>
+          <Dialog>心配いりません。子供だろうと大人だろうと、あなたが一番なんだから。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>……もう、うれしそうな顔しちゃって。今のあなたが子供みたいよ？　カワイイ▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5586,19 +5586,19 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>You often call the poster girl in a shop?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes, the poster girl for Dexies is ▲Anegasaki*▲.</Dialog>
-          <Dialog>I don't think that's the case, but...thank you ♪</Dialog>
-          <Dialog>But, I found a shop with a sign dog that couldn't be beaten.</Dialog>
-          <Dialog>dog?</Dialog>
-          <Dialog>yes. It's a cafe though. I'm sitting still in front of the shop sign.</Dialog>
-          <Dialog>Wow, that's cute.</Dialog>
-          <Dialog>Right? During business hours, he usually closes his eyes and takes a comfortable nap. He has a beard that looks like an old man, and is so cute.</Dialog>
-          <Dialog>Haha, is your grandpa dog... Even a man can become a poster girl if she's a dog.</Dialog>
-          <Dialog>Are you okay. You're so cute that you can be your poster boy.</Dialog>
-          <Dialog>(Signophone son...? It doesn't sound very good...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>お店の看板娘って、よくいうでしょ？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん、デキシーズの看板娘は▲姉ヶ崎＊▲だな。</Dialog>
+          <Dialog>そんなことないと思うけど……ありがと♪</Dialog>
+          <Dialog>でもね、私なんかとうていかなわない、看板犬がいるお店を見つけたの。</Dialog>
+          <Dialog>犬？</Dialog>
+          <Dialog>そう。カフェなんだけどね。お店の看板の前でじっと座ってるの。</Dialog>
+          <Dialog>へー、かわいいな。</Dialog>
+          <Dialog>でしょ？　営業時間中はだいたい、目をつぶって、気持ちよさそうにお昼寝してるんだって。おじいちゃんみたいなヒゲが生えてて、すっごく、かわいいんだから。</Dialog>
+          <Dialog>はは、おじいちゃん犬か……。犬なら男でも看板娘になれるんだな。</Dialog>
+          <Dialog>大丈夫。あなただって負けないくらいかわいいから、看板息子になれるよ。</Dialog>
+          <Dialog>（看板息子……？　なんかあまりいい響きじゃないな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5682,18 +5682,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Do you remember the sign dog cafe I mentioned the other day?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, it's a shop with dogs like grandpa, right?</Dialog>
-          <Dialog>oh yeah. So, the person at the shop introduced me to a dog cafe where pets could be brought to you.</Dialog>
-          <Dialog>Huh? ▲Anegasaki*▲ doesn't have a pet, right?</Dialog>
-          <Dialog>That's right, but... because it looked interesting. Ah, but...</Dialog>
-          <Dialog>yeah?</Dialog>
-          <Dialog>I have one cute boy♪</Dialog>
-          <Dialog>What... Is that impossible?</Dialog>
-          <Dialog>Already kidding. Sorry.</Dialog>
-          <Dialog>(I was surprised...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>この前話した看板犬のカフェ、覚えてる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、おじいちゃんみたいな犬がいる店だろ？</Dialog>
+          <Dialog>そうそう。でね、そのお店の人に、ペットの同伴ができる、ドッグカフェを紹介してもらったの。</Dialog>
+          <Dialog>あれ？　▲姉ヶ崎＊▲ってペット飼ってないよな？</Dialog>
+          <Dialog>そうだけど……面白そうだったから。あ、でも……。</Dialog>
+          <Dialog>ん？</Dialog>
+          <Dialog>かわいい男の子を一人、飼ってます♪</Dialog>
+          <Dialog>え……それって、まさか？</Dialog>
+          <Dialog>もう、冗談。ごめんね。</Dialog>
+          <Dialog>（びっくりした……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5792,20 +5792,20 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>When I told the manager about a cafe where he was accompanied by pets, he seemed interested.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>A family restaurant that is pet-friendly... It might be new.</Dialog>
-          <Dialog>Right? The store manager was also unusually enthusiastic.</Dialog>
-          <Dialog>...Is it possible, manager, are you serious?</Dialog>
-          <Dialog>I don't think that's the case, and there's permission from the headquarters. I think there are customers who don't like animals.</Dialog>
-          <Dialog>That's right.</Dialog>
-          <Dialog>I think it's interesting, but it's a bit difficult.</Dialog>
-          <Dialog>That being said, when I went to my next part-time job, the store was full of dogs...</Dialog>
-          <Dialog>It felt like a movie, but dogs smashing the windows in and out.</Dialog>
-          <Dialog>From outside?</Dialog>
-          <Dialog>Feeling the atmosphere of fun, dogs all over town rush to the Dexis.</Dialog>
-          <Dialog>(Is that also a horror...?)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ペット同伴のカフェの話を店長にしたら、興味もったみたい。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ペットＯＫのファミレスか……。新しいかも知れないな。</Dialog>
+          <Dialog>でしょ？　店長も珍しく乗り気だったのよ。</Dialog>
+          <Dialog>……まさか、店長、本気なのか？</Dialog>
+          <Dialog>さすがにそれはないと思う、本部の許可もいるし。動物が苦手なお客様だって、いると思うし。</Dialog>
+          <Dialog>だよね。</Dialog>
+          <Dialog>おもしろいとは思うけど、ちょっと難しいよね。</Dialog>
+          <Dialog>なんて言ってて、次バイト行ったら、店内が犬だらけだったりして……。</Dialog>
+          <Dialog>なんだか映画みたい、窓ガラスをバリーンと割って、犬たちが飛び込んできたり。</Dialog>
+          <Dialog>外から？</Dialog>
+          <Dialog>楽しそうな雰囲気を感じ取って、町中の犬がデキシーズに押し寄せるの。</Dialog>
+          <Dialog>（それもホラー……なのか？）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5914,21 +5914,21 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The other day, my granddad customer came to Dexies.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Grandpa? ...There are quite a few elderly customers, right?</Dialog>
-          <Dialog>Not that. About that sign dog.</Dialog>
-          <Dialog>Ah, at the cafe.</Dialog>
-          <Dialog>oh yeah. Take me by the cafe owner.</Dialog>
-          <Dialog>But pets are not allowed at our store, right?</Dialog>
-          <Dialog>Yes, that's why I sat at the entrance to the shop like usual.</Dialog>
-          <Dialog>Haha, that's the Dixies sign dog.</Dialog>
-          <Dialog>Yeah. Even though it was afternoon idle time, a lot of female customers were drawn to me.</Dialog>
-          <Dialog>Even though it's a grandpa, don't do it...</Dialog>
-          <Dialog>That's it. In fact, that grandpa is only one year old.</Dialog>
-          <Dialog>Huh? That's it.</Dialog>
-          <Dialog>Humans say it's about the same as us. Isn't it popular?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>この間ね、デキシーズにおじいちゃんのお客様がきたの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>おじいちゃん？　……お年寄りのお客さん、結構いるよな？</Dialog>
+          <Dialog>そうじゃなくて。あの看板犬のこと。</Dialog>
+          <Dialog>ああ、カフェの。</Dialog>
+          <Dialog>そうそう。カフェのオーナーさんに連れられてね。</Dialog>
+          <Dialog>でもうちの店、ペットＮＧでしょ？</Dialog>
+          <Dialog>そう、だからお店の入り口に、いつもみたいに座ってた。</Dialog>
+          <Dialog>はは、それじゃデキシーズの看板犬だな。</Dialog>
+          <Dialog>うん。午後のアイドルタイムなのに、引き寄せられて女性のお客様が結構入ってきたんだよ。</Dialog>
+          <Dialog>おじいちゃんのくせに、やるな……。</Dialog>
+          <Dialog>それがね。実はまだ１歳なんだって、そのおじいちゃん。</Dialog>
+          <Dialog>えっ？　それじゃあ。</Dialog>
+          <Dialog>人間で言うと私たちと、同じくらいかな。モテモテね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6012,18 +6012,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Um, the other day, a junior girl called out to me in the hallway.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What?</Dialog>
-          <Dialog>It was a love consultation. But you're a kid you don't know?</Dialog>
-          <Dialog>I can understand how I feel like I want to talk to Anegasaki*▲.</Dialog>
-          <Dialog>When I listened to the story, it seemed that we were more correct than me.</Dialog>
-          <Dialog>picture? ●These?</Dialog>
-          <Dialog>We are the ideal couple. I'm jealous that we can be together naturally.</Dialog>
-          <Dialog>Is it natural? I don't think it's a bad thing.</Dialog>
-          <Dialog>But advice to stay natural is difficult, isn't it? I couldn't answer well.</Dialog>
-          <Dialog>Certainly, it's just normal...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あのね、この間廊下で後輩の女の子に声かけられたの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>なんだって？</Dialog>
+          <Dialog>なんと、恋愛相談でした。でも、知らない子なのよ？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲に相談したくなっちゃう気持ち、分からないでもないけどさ。</Dialog>
+          <Dialog>話を聞いてたら、私っていうよりも、私たちっていうのが正しいみたい。</Dialog>
+          <Dialog>え？　●たち？</Dialog>
+          <Dialog>私たちが理想のカップルなんだって。自然体で一緒にいられるのがうらやましいって。</Dialog>
+          <Dialog>自然体か……悪い気はしないかな。</Dialog>
+          <Dialog>でも、自然体でいるためのアドバイスって、難しいでしょ？　上手く答えられなかったの。</Dialog>
+          <Dialog>確かに、普通でいるってだけだもんな……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6107,18 +6107,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>You said that a junior girl asked you about love, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>●They say the ideal couples? We were still consulting.</Dialog>
-          <Dialog>Yes, it seems they haven't actually dated yet.</Dialog>
-          <Dialog>picture? He said he wanted to be a natural couple.</Dialog>
-          <Dialog>It seems that it was a future event.</Dialog>
-          <Dialog>I see. I've got a little ahead of myself.</Dialog>
-          <Dialog>But she's serious. He talked about the boy's charm for an hour.</Dialog>
-          <Dialog>1 hour...▲Anegasaki*▲, have you been listening to it all the time?</Dialog>
-          <Dialog>Yeah. It was quite passionate.</Dialog>
-          <Dialog>(I think I should confess my feelings about it though...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>後輩の女の子に恋愛相談されたって言ったでしょ？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>●たちが理想のカップルっていう？　まだ相談続いてたんだ。</Dialog>
+          <Dialog>うん、実はまだ付き合ってないみたいで。</Dialog>
+          <Dialog>え？　自然体のカップルになりたいって言ってたよな。</Dialog>
+          <Dialog>ゆくゆくはってことだったみたい。</Dialog>
+          <Dialog>そっか。ちょっと先走っちゃったな。</Dialog>
+          <Dialog>でも、彼女は真剣よ。その男の子の魅力について、１時間は語ってたから。</Dialog>
+          <Dialog>１時間……▲姉ヶ崎＊▲、ずっと聞いてたの？</Dialog>
+          <Dialog>うん。なかなか熱こもってたな。</Dialog>
+          <Dialog>（その熱で告白したらいい気もするけど……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6212,19 +6212,19 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I mentioned this the other day about a girl I had a crush on.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes, the girl I was talking about love.</Dialog>
-          <Dialog>I told her I should be brave and confessed to her.</Dialog>
-          <Dialog>...Is that a problem?</Dialog>
-          <Dialog>...That's right. So it looks like he's been off from school since the day he's broken heart.</Dialog>
-          <Dialog>It must have been quite a shock.</Dialog>
-          <Dialog>...It's my fault. Because I said something unnecessary.</Dialog>
-          <Dialog>That's it. ▲Anegasaki*▲ doesn't need to feel responsible.</Dialog>
-          <Dialog>Is that so?</Dialog>
-          <Dialog>Are you okay. I'm sure I'll get better soon.</Dialog>
-          <Dialog>Yeah…….</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>この前話したよね、片思いの女の子のこと。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん、恋愛相談してた子ね。</Dialog>
+          <Dialog>私、彼女に勇気を出して告白した方がいいって伝えたんだけど。</Dialog>
+          <Dialog>……その様子だとダメだった？</Dialog>
+          <Dialog>……そうなの。それでね、失恋した日から学校を休んでるみたいなの。</Dialog>
+          <Dialog>相当ショックだったんだな。</Dialog>
+          <Dialog>……私のせいよね。余計なこと言ったから。</Dialog>
+          <Dialog>そんな。▲姉ヶ崎＊▲が責任を感じる必要ないよ。</Dialog>
+          <Dialog>そう、かな？</Dialog>
+          <Dialog>大丈夫。きっとすぐ、元気になるって。</Dialog>
+          <Dialog>うん……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6307,17 +6307,17 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>A child who was a love advice...it looks like he came to school.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I see, that's good! ▲Anegasaki*▲ is also safe.</Dialog>
-          <Dialog>I've even worried about you.</Dialog>
-          <Dialog>●Anything is fine as long as ▲Anegasaki*▲ is healthy.</Dialog>
-          <Dialog>Oh, I'm going to say something so cute again.</Dialog>
-          <Dialog>...Yeah, I told her you were worried too, and she told me she was going to find a boyfriend like you.</Dialog>
-          <Dialog>●A boyfriend like that...?</Dialog>
-          <Dialog>Yes, you're popular, aren't you? But it's a shame. There's no other boyfriend like you,</Dialog>
-          <Dialog>(If you say that much, you'll be embarrassed...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>恋愛相談の子……学校に出てきたみたい。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そっか、良かったな！　▲姉ヶ崎＊▲もこれで安心だ。</Dialog>
+          <Dialog>あなたにまで、心配かけちゃったね。</Dialog>
+          <Dialog>●は別に、▲姉ヶ崎＊▲が元気ならなんでもいいよ。</Dialog>
+          <Dialog>あ、またそんなカワイイこと、サラッと言うんだから。</Dialog>
+          <Dialog>……そうだ、彼女にね、あなたも心配してたって言ったら、あなたみたいなカレシを見つけるんだって言ってたよ。</Dialog>
+          <Dialog>●みたいなカレシ……？</Dialog>
+          <Dialog>うん、モテモテだね？　でも残念。あなたみたいなカレシなんて、他にどこにもいないのにね▼</Dialog>
+          <Dialog>（そこまで言われると、照れるな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6396,17 +6396,17 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I feel like I'm feeling lacking in exercise, so I think I'll start playing some kind of sports.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I think family restaurants will also be a lot of exercise...</Dialog>
-          <Dialog>That's true, but it's not like sports, right?</Dialog>
-          <Dialog>Well, it doesn't feel like I'm sweating.</Dialog>
-          <Dialog>What about jogging?</Dialog>
-          <Dialog>I think it's a safe place.</Dialog>
-          <Dialog>I'm not confident about a difficult sport though. Even I can run.</Dialog>
-          <Dialog>I wonder if it's fun or not. It seems difficult to continue if it's not fun.</Dialog>
-          <Dialog>Yes... I'll think about it for a moment.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>運動不足気味だし、何かスポーツでも始めようかなって思うんだけど。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ファミレスの仕事も相当運動になると思うけどな……。</Dialog>
+          <Dialog>確かにそうだけど、スポーツとは違うでしょ？</Dialog>
+          <Dialog>まあ、汗をかくって感じじゃないな。</Dialog>
+          <Dialog>ジョギングなんてどうかな？</Dialog>
+          <Dialog>無難なところかな。</Dialog>
+          <Dialog>難しいスポーツだと、自信ないけど。いくら私でも走るのはできるし。</Dialog>
+          <Dialog>あとは楽しいかどうかかな。楽しくないと続けるの難しそうだし。</Dialog>
+          <Dialog>そうね……ちょっと考えてみる。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6505,21 +6505,21 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Well, I've started walking.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Huh? Wasn't it jogging?</Dialog>
-          <Dialog>Apparently it's dangerous for people who don't normally exercise to suddenly run. I also bought some training wear.</Dialog>
-          <Dialog>If you invest in advance, you won't be able to stop right away.</Dialog>
-          <Dialog>You won't give up for three days!
-……perhaps.</Dialog>
-          <Dialog>●It would be fun if they did it together.</Dialog>
-          <Dialog>Together? Hmm...</Dialog>
-          <Dialog>Huh, is it no good?</Dialog>
-          <Dialog>Because. I don't think I'm a good person to watch when I'm exercising.</Dialog>
-          <Dialog>Is that so?</Dialog>
-          <Dialog>...It's not good after all. I don't want to be seen sweaty.</Dialog>
-          <Dialog>(Is that what it is...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あのね、ウォーキングを始めたの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あれ？　ジョギングじゃなかったっけ？</Dialog>
+          <Dialog>普段運動してない人が急に走るのって、危ないらしいから。トレーニングウェアも買っちゃった。</Dialog>
+          <Dialog>先行投資したら、すぐにはやめられないな。</Dialog>
+          <Dialog>三日坊主にはなりません！
+……たぶん。</Dialog>
+          <Dialog>●も一緒にやったら、楽しいかな。</Dialog>
+          <Dialog>二人で？　うーん……。</Dialog>
+          <Dialog>あれ、ダメ？</Dialog>
+          <Dialog>だって。運動してるときの自分って、あまり見てていいものじゃないと思うし。</Dialog>
+          <Dialog>そうかな？</Dialog>
+          <Dialog>……やっぱりダメ。汗だくの姿なんて見られたくないもん。</Dialog>
+          <Dialog>（そういうもんか……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6598,17 +6598,17 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The effects of walking may be starting to appear.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Oh, what?</Dialog>
-          <Dialog>I achieved my personal best in long distances during physical education. That's what I'm happy about.</Dialog>
-          <Dialog>That's amazing!</Dialog>
-          <Dialog>Just a little bit.</Dialog>
-          <Dialog>Maybe ▲Anegasaki*▲ is just thinking that he's not good at sports. Isn't the potential amazing?</Dialog>
-          <Dialog>That's how I'm flattering it. ...It's certainly fun to try other sports too.</Dialog>
-          <Dialog>Other sports?</Dialog>
-          <Dialog>Yes, what would be good...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ウォーキングの効果、出始めたかも。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>お、どんな？</Dialog>
+          <Dialog>体育の時間に長距離で自己ベストが出たの。それがうれしくて。</Dialog>
+          <Dialog>すごいじゃん！</Dialog>
+          <Dialog>ちょっとだけ、なんだけどね。</Dialog>
+          <Dialog>もしかして▲姉ヶ崎＊▲、運動が苦手って思い込んでるだけだったりして。潜在能力はすごいんじゃないか？</Dialog>
+          <Dialog>もう、そうやっておだてる。……たしかに、他のスポーツもやってみたら楽しいかもしれないけど。</Dialog>
+          <Dialog>他のスポーツ？</Dialog>
+          <Dialog>そう、何がいいかな……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6707,20 +6707,20 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>....</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>...What's up?</Dialog>
-          <Dialog>Actually... I want muscle pain.</Dialog>
-          <Dialog>Ah, on a walk.</Dialog>
-          <Dialog>It's not... yoga.</Dialog>
-          <Dialog>Yoga?</Dialog>
-          <Dialog>I've heard that yoga is good for both beauty and physical and mental health.</Dialog>
-          <Dialog>Oh, did you go to the classroom?</Dialog>
-          <Dialog>Yes. I rented a DVD and tried it out. There are a lot of weird poses.</Dialog>
-          <Dialog>It's a strange pose...for example...</Dialog>
-          <Dialog>No no. I can't tell you just. That kind of outfit...</Dialog>
-          <Dialog>(What kind of pose is it...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>……っ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……どうかした？</Dialog>
+          <Dialog>実は……筋肉痛みたいなの。</Dialog>
+          <Dialog>ああ、ウォーキングで。</Dialog>
+          <Dialog>違うの……ヨガ。</Dialog>
+          <Dialog>ヨガ？</Dialog>
+          <Dialog>ヨガは美容にも、心身の健康にもいいって聞いたから。</Dialog>
+          <Dialog>へえ、教室にでもいったの？</Dialog>
+          <Dialog>ううん。ＤＶＤをレンタルしてやってみたんだけど。変なポーズが多くて。</Dialog>
+          <Dialog>変なポーズか……たとえば……。</Dialog>
+          <Dialog>ダメ。あなたにだけは、言えない。あんな格好……。</Dialog>
+          <Dialog>（どんなポーズなんだ……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6799,17 +6799,17 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>A regular at Dexies wondered if I could ask me to be a babysitter... I wonder what I should do.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I'm sure he saw the work of ▲Anegasaki*▲ and thought he wanted to ask for it.</Dialog>
-          <Dialog>I'm happy but... I have never had that experience. Taking care of a child is a tough thing.</Dialog>
-          <Dialog>That's right. I can't take my eyes, and if something happens.</Dialog>
-          <Dialog>Yes, that's right. After all, I'll definitely refuse this time.</Dialog>
-          <Dialog>I think that's good. Your customers will surely understand.</Dialog>
-          <Dialog>I was also a little excited. ...Fun is fine for yourself.</Dialog>
-          <Dialog>My own?</Dialog>
-          <Dialog>There's nothing.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>デキシーズの常連さんがね、私にベビーシッターを頼めないかって……どうしようかな。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>きっと▲姉ヶ崎＊▲の働きぶりを見て、頼みたいって思ったんだろうな。</Dialog>
+          <Dialog>嬉しいけど……。私、そんな経験もないし。子供を預かるって、大変なことよ。</Dialog>
+          <Dialog>そうだよな。目はなせないし、もしものことがあったら。</Dialog>
+          <Dialog>うん、そうよね。やっぱり、今度ちゃんとお断りする。</Dialog>
+          <Dialog>それがいいんじゃないかな。お客さんも、きっと分かってくれるよ。</Dialog>
+          <Dialog>ちょっと、楽しみな気持ちもあったんだけどな。……楽しみは自分のときでいいよね。</Dialog>
+          <Dialog>自分の？</Dialog>
+          <Dialog>なんでもありません。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6908,20 +6908,20 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I read a child care magazine and it's surprisingly interesting.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Didn't you turn down the babysitting incident?</Dialog>
-          <Dialog>I refused, but that's it. I picked it up and found it interesting so I bought it.</Dialog>
-          <Dialog>I never thought you'd buy one on your way home from school, right?</Dialog>
-          <Dialog>I bought it on my way home from school... why?</Dialog>
-          <Dialog>A high school girl in uniform is a childcare magazine?</Dialog>
-          <Dialog>a……. Come to think of it, the guy at the register might have been strange.</Dialog>
-          <Dialog>Of course, I'll notice.</Dialog>
-          <Dialog>Right... Ah!?</Dialog>
-          <Dialog>what up?</Dialog>
-          <Dialog>I brought it to school... and read a bit during my break...</Dialog>
-          <Dialog>What?!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>育児雑誌を読んでみたんだけど、意外と面白いね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ベビーシッターの件、断ったんじゃないの？</Dialog>
+          <Dialog>お断りしたんだけど、それはそれとして。なんとなく手に取ったら面白くて、買っちゃったの。</Dialog>
+          <Dialog>それ、まさか学校帰りに買ったりしてないよね？</Dialog>
+          <Dialog>学校帰りに買ったんだけど……どうして？</Dialog>
+          <Dialog>制服の女子高生が育児雑誌だよ？</Dialog>
+          <Dialog>あ……。そういえばレジのお兄さん、変な感じだったかも。</Dialog>
+          <Dialog>そりゃ、気つかうよ。</Dialog>
+          <Dialog>そうよね……あっ!?</Dialog>
+          <Dialog>どうした？</Dialog>
+          <Dialog>学校にも持ってきてて……休み時間にちょっと読んだりしてた……。</Dialog>
+          <Dialog>ええっ!?</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -6990,16 +6990,16 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, you haven't read childcare magazines anymore, right?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I haven't read it anymore, so don't worry. Sorry.</Dialog>
-          <Dialog>●It's fine, but ▲Anegasaki*▲ was more difficult, wasn't it?</Dialog>
-          <Dialog>Everyone in my class worried me. It was a difficult time to misunderstand.</Dialog>
-          <Dialog>Haha, thank you for your hard work.</Dialog>
-          <Dialog>I'm glad that the rumors didn't spread to Dexides.</Dialog>
-          <Dialog>That's right... those two are chatting, and the store manager is not very considerate...</Dialog>
-          <Dialog>I was neglecting, I have to be careful.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、もう、育児雑誌読んでないよな？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>もう読んでないから、安心して。ごめんね。</Dialog>
+          <Dialog>●はいいんだけど、▲姉ヶ崎＊▲の方が大変だったじゃないか？</Dialog>
+          <Dialog>クラスのみんなに、心配されちゃった。誤解とくの大変だったの。</Dialog>
+          <Dialog>はは、お疲れ様。</Dialog>
+          <Dialog>デキシーズにまで噂が広まらなくてよかった。</Dialog>
+          <Dialog>だよな……あの二人はお喋りだし、店長は気が利かないし……。</Dialog>
+          <Dialog>私が軽率だったね、気をつけなきゃ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7098,20 +7098,20 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Another customer asked me to work part-time as a babysitter...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Even though I refused, I really liked Anegasaki*▲.</Dialog>
-          <Dialog>Yes, it's another customer. That's also foreigners...</Dialog>
-          <Dialog>Wow... somehow, ▲Anegasaki*▲'s motherhood is global.</Dialog>
-          <Dialog>Motherhood...is still a high school girl!</Dialog>
-          <Dialog>Haha, it's a compliment.</Dialog>
-          <Dialog>I wonder if this is also an experience...</Dialog>
-          <Dialog>experience? Oh, I've taken care of my relatives' children before.</Dialog>
-          <Dialog>Yes, that's not the case...</Dialog>
-          <Dialog>yeah?</Dialog>
-          <Dialog>Sometimes I'm like a child, my boyfriend.</Dialog>
-          <Dialog>(Hmm...●!?)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>また、お客様にベビーシッターのバイト頼まれちゃった……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>断ったのに、よっぽど▲姉ヶ崎＊▲が気に入ったんだなあ。</Dialog>
+          <Dialog>ううん、別のお客様なの。それも、外国の方……。</Dialog>
+          <Dialog>へえ……なんか、▲姉ヶ崎＊▲の母性ってグローバルなんだな。</Dialog>
+          <Dialog>母性って……これでも女子高生です！</Dialog>
+          <Dialog>はは、褒め言葉だって。</Dialog>
+          <Dialog>これも経験なのかな……。</Dialog>
+          <Dialog>経験？　ああ、親戚の子とか面倒みたことあるんだ。</Dialog>
+          <Dialog>ううん、そうじゃなくて……。</Dialog>
+          <Dialog>ん？</Dialog>
+          <Dialog>たまに子供みたいなんだもん、私のカレシ。</Dialog>
+          <Dialog>（ふーん……●!?）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7205,19 +7205,19 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>When you were little, what did you want to be?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>●? I don't remember much. ▲Anegasaki*▲What?</Dialog>
-          <Dialog>I'm probably a kindergarten teacher. When you were a child, didn't you admire a kindergarten teacher?</Dialog>
-          <Dialog>Come to think of it... I might have been messing with the teacher all sorts of times.</Dialog>
-          <Dialog>Boys have that kind of thing. It's like he's playing pranks on the person he likes.</Dialog>
-          <Dialog>That's right. I don't know why though.</Dialog>
-          <Dialog>The same was true of the kindergarten teacher I attended. She was a young female teacher and was constantly pranked by everyone.</Dialog>
-          <Dialog>Was that person the woman he admired for Anegasaki*▲?</Dialog>
-          <Dialog>Probably so. But I can't remember what he looks like. It's so fuzzy.</Dialog>
-          <Dialog>It was when I was little...</Dialog>
-          <Dialog>I'll find some photos if I look for it...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あなたって、小さい頃、何になりたいって思ってた？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>●？　あんまり覚えてないな。▲姉ヶ崎＊▲は？</Dialog>
+          <Dialog>私はね、幼稚園の先生かな。子供の頃、幼稚園の先生に憧れなかった？</Dialog>
+          <Dialog>そういえば……何かと先生にちょっかい出してたかも。</Dialog>
+          <Dialog>男の子ってそういうトコあるよね。好きな人にいたずらしちゃうみたいなトコ。</Dialog>
+          <Dialog>そうだな。どうしてかはわかんないけど。</Dialog>
+          <Dialog>私の通ってた幼稚園の先生もそうだったの。若い女の先生で、みんなにいたずらばっかりされてた。</Dialog>
+          <Dialog>その人が、▲姉ヶ崎＊▲にとっての憧れの女性だった？</Dialog>
+          <Dialog>多分そう。でもね、顔がよく思い出せないの。こうモヤがかかってて。</Dialog>
+          <Dialog>小さい頃だもんな……。</Dialog>
+          <Dialog>探せば写真、出てくるかな……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7296,17 +7296,17 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>While organizing the album, I found a photo of myself with my kindergarten teacher.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>The person ▲Anegasaki*▲ admires?</Dialog>
-          <Dialog>yes. A kind and wonderful teacher. But there was a surprising new discovery.</Dialog>
-          <Dialog>what?</Dialog>
-          <Dialog>You were my grandma's teacher.</Dialog>
-          <Dialog>...Did you say you're a young female teacher?</Dialog>
-          <Dialog>Isn't it? I was surprised too. I think my memories of my childhood are just plain sloppy.</Dialog>
-          <Dialog>Haha, there's just a bit of a limit.</Dialog>
-          <Dialog>I wonder why, no matter how young she was, she could only distinguish between a young woman and a grandma...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>アルバムを整理してたらね、幼稚園の先生と一緒に写った写真が出てきたの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>この前話してた、▲姉ヶ崎＊▲の憧れの人？</Dialog>
+          <Dialog>そう。優しくてステキな先生。でもね驚きの新発見があったの。</Dialog>
+          <Dialog>何？</Dialog>
+          <Dialog>あのね、おばあちゃんの先生だったの。</Dialog>
+          <Dialog>……若い女の先生って言ってなかった？</Dialog>
+          <Dialog>でしょう？　私もびっくり。子供の頃の記憶って、いい加減なんだなって。</Dialog>
+          <Dialog>はは、いい加減にもほどがあるよ。</Dialog>
+          <Dialog>なんでだろうね、いくら小さい頃でも若い女性とおばあちゃんの区別ぐらいつくはずなのに……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7385,17 +7385,17 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, do you remember what you're dreaming about for the future?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>In the future...oh, I ended up talking about kindergarten teachers. Grandma's teacher.</Dialog>
-          <Dialog>Yes, that's it. I had always dreamed of being a kindergarten teacher, but my real dream was to be my wife.</Dialog>
-          <Dialog>Is it your wife?... ▲Anegasaki*▲?</Dialog>
-          <Dialog>It was quite popular at the time, but my wife. It seems like there will be trends depending on the era.</Dialog>
-          <Dialog>That's right. Maybe my current child doesn't call her a wife.</Dialog>
-          <Dialog>By the time I was in elementary school, I had also changed to the landlady of a small restaurant.</Dialog>
-          <Dialog>...My wife and I look at the proprietress of a small restaurant, which is amazing.</Dialog>
-          <Dialog>I wonder if he was at the age where he wanted to grow up... I don't really understand, I was still quite a naughty at the time.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そうだ、将来の夢の話、覚えてる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>将来の……ああ、結局幼稚園の先生の話になっちゃったな。おばあちゃん先生の。</Dialog>
+          <Dialog>そう、それ。私ね、幼稚園の先生に憧れてはいたけど、本当の夢はお嫁さんだったの。</Dialog>
+          <Dialog>お嫁さんか……▲姉ヶ崎＊▲らしいよね。</Dialog>
+          <Dialog>当時は結構人気だったけどな、お嫁さん。時代によって、流行がありそうだけど。</Dialog>
+          <Dialog>そうだな。今の子供はお嫁さんとか言わないのかも。</Dialog>
+          <Dialog>私もね、小学生になる頃には小料理屋さんの女将に変わってたの。</Dialog>
+          <Dialog>……お嫁さんから、小料理屋の女将って、すごいな。</Dialog>
+          <Dialog>背伸びしたい年頃……だったのかなあ。よくわかんないね、その頃はまだ結構ヤンチャだったはずなのに。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7484,19 +7484,19 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I heard about ▲Anegasaki*▲'s future dream, from her wife to the proprietress of a small restaurant.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's a story from when I was little.</Dialog>
-          <Dialog>So, what about now?</Dialog>
-          <Dialog>...After all, your wife. kana.</Dialog>
-          <Dialog>...I've returned.</Dialog>
-          <Dialog>That's not the case. This is a more specific story.</Dialog>
-          <Dialog>That's what I mean...</Dialog>
-          <Dialog>What exactly?</Dialog>
-          <Dialog>What's concrete is...Look, what?</Dialog>
-          <Dialog>Now, what do you think? If you can only say, "Hey, what?", I might want to become the landlady of a small restaurant again.</Dialog>
-          <Dialog>(And then ● will also become the chief of the small restaurant...?)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>前に聞いた▲姉ヶ崎＊▲の将来の夢、お嫁さんから小料理屋の女将だったよね。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>小さい頃の話だよ。</Dialog>
+          <Dialog>じゃあ、今は？</Dialog>
+          <Dialog>……やっぱり、お嫁さん。かな。</Dialog>
+          <Dialog>……戻っちゃったんだ。</Dialog>
+          <Dialog>そういうわけじゃないの。もっと具体的に考えての話です。</Dialog>
+          <Dialog>それって、やっぱり……。</Dialog>
+          <Dialog>やっぱりなに？</Dialog>
+          <Dialog>具体的っていうのは……ほら、なあ？</Dialog>
+          <Dialog>さあ、どうでしょう？　“ほら、なあ？”ぐらいしか言えないようだと私、また小料理屋さんの女将になりたくなっちゃうかも知れないよ。</Dialog>
+          <Dialog>（そしたら、●も小料理屋の大将に……か？）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7580,18 +7580,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>New part-time jobs have joined Dexies, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yeah. Also, Anegasaki*▲ is the instructor, right?</Dialog>
-          <Dialog>The instructor is fine, but I can't keep up with the conversation. I wonder if this is the generation gap.</Dialog>
-          <Dialog>That's a big deal. Only one or two years of age will change.</Dialog>
-          <Dialog>So, have you ever felt uncomfortable talking to me?</Dialog>
-          <Dialog>At all.</Dialog>
-          <Dialog>yes…….</Dialog>
-          <Dialog>He's still a new guy, so he's nervous, right? You'll get used to it quickly.</Dialog>
-          <Dialog>I hope that is.</Dialog>
-          <Dialog>(It's tough being an education...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>デキシーズに、新しいバイトの子たちが入ってきたでしょう？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん。また▲姉ヶ崎＊▲が指導係でしょ？</Dialog>
+          <Dialog>指導係はいいんだけど、会話についていけないの。これがジェネレーションギャップなのかな。</Dialog>
+          <Dialog>大げさだよ。一つか二つしか歳は変わらないのに。</Dialog>
+          <Dialog>じゃあ、あなたは私と話してて、違和感を感じたことない？</Dialog>
+          <Dialog>ぜんぜん。</Dialog>
+          <Dialog>そう……。</Dialog>
+          <Dialog>まだ、新人だから緊張してるんだろ？　すぐ慣れるよ。</Dialog>
+          <Dialog>そうだといいんだけど。</Dialog>
+          <Dialog>（教育係って大変だよな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7665,17 +7665,17 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, are you a little tired?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's not the case. Why?</Dialog>
-          <Dialog>Education for newcomers seems difficult.</Dialog>
-          <Dialog>...That's what it looks like after all.</Dialog>
-          <Dialog>Well, it's not like they're all intertwined.</Dialog>
-          <Dialog>I wonder if I'm spinning it. This hasn't happened up until now.</Dialog>
-          <Dialog>That's right.</Dialog>
-          <Dialog>I want them to think that they're glad they worked at Dexies, so I'll try to figure out a little more ways to do it.</Dialog>
-          <Dialog>(▲Anegasaki*▲...Go for your best!)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、ちょっと疲れてる？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そんなことないよ。どうして？</Dialog>
+          <Dialog>新人たちの教育、大変そうだから。</Dialog>
+          <Dialog>……やっぱり、そう見えるんだ。</Dialog>
+          <Dialog>まあね、かみ合ってないっていうかさ。</Dialog>
+          <Dialog>空回りしてるのかな、私。今まではこんなことなかったんだけど。</Dialog>
+          <Dialog>だよなあ。</Dialog>
+          <Dialog>彼女たちにも、デキシーズで働いて良かったって思って欲しいから、もうちょっとやり方工夫してみる。</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲……がんばれ！）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7774,20 +7774,20 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I tried to talk to the new part-time workers.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>how was it?</Dialog>
-          <Dialog>He thought I was a scary senior. So he seemed to be on guard.</Dialog>
-          <Dialog>▲Anegasaki*▲ is scary... why did you think so?</Dialog>
-          <Dialog>That's what the store manager said my name during the interview.</Dialog>
-          <Dialog>The store manager?</Dialog>
-          <Dialog>"I'm a part-time worker, so listen to her." He seems to have added that it's scary to resist.</Dialog>
-          <Dialog>Something unnecessary again...</Dialog>
-          <Dialog>I think it was probably the manager's own joke... It seems it wasn't conveyed at all.</Dialog>
-          <Dialog>Not only is it not understood, it's misleading it.</Dialog>
-          <Dialog>Really. Cora! I have to scold him.</Dialog>
-          <Dialog>(I wonder if it will work...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>新人バイトの子たちと、ちゃんと話してみたの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>どうだった？</Dialog>
+          <Dialog>私のこと、恐い先輩だと思ってたんだって。それで、警戒してたみたい。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲が恐い……なんでそんな風に思ったんだろ。</Dialog>
+          <Dialog>それがね、店長が面接の時に私の名前を出したみたい。</Dialog>
+          <Dialog>店長が？</Dialog>
+          <Dialog>“バイト頭だから、彼女の言うことを聞きなさい”って。逆らうと怖いよーなんて、付け加えてたみたい。</Dialog>
+          <Dialog>また余計なことを……。</Dialog>
+          <Dialog>たぶん、店長なりの冗談だったんだと思うけど……。全然伝わってなかったみたい。</Dialog>
+          <Dialog>伝わってないどころか、誤解させてるんだからな。</Dialog>
+          <Dialog>ほんとよ。コラ！　って、叱っておかないと。</Dialog>
+          <Dialog>（効き目あるかな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7866,17 +7866,17 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>The new part-time workers are working properly. Thanks to the guidance of Anegasaki*▲.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's not my guidance, they do their best.</Dialog>
-          <Dialog>Also, I'm talking normally with ▲Anegasaki*▲.</Dialog>
-          <Dialog>If the manager hadn't said anything strange, he wouldn't have been agitated from the beginning.</Dialog>
-          <Dialog>That's right.</Dialog>
-          <Dialog>But the best thing about this was that I was able to have a thorough discussion with those kids.</Dialog>
-          <Dialog>Oh, maybe... that's the store manager's goal.</Dialog>
-          <Dialog>No way, there's no way.</Dialog>
-          <Dialog>Hehe, that's right.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>新人バイトの子たち、ちゃんと働いてるよな。▲姉ヶ崎＊▲の指導のおかげだね。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>私の指導じゃなくて、彼女たちのがんばりよ。</Dialog>
+          <Dialog>あと、▲姉ヶ崎＊▲とも普通に話してるし。</Dialog>
+          <Dialog>店長が変こと言わなければ、最初からギクシャクしなかったのに。</Dialog>
+          <Dialog>そうだよな。</Dialog>
+          <Dialog>でもひとつ良かったことは、これがきっかけで、あの子たちとじっくり話ができたってことかな。</Dialog>
+          <Dialog>あ、もしかして……それが店長の狙いだったりして。</Dialog>
+          <Dialog>まさか、ないない。</Dialog>
+          <Dialog>ふふ、そうよね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -7960,18 +7960,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I'm currently getting into the way to arrange instant ramen.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Wow, what is the example?</Dialog>
-          <Dialog>In simple terms, you can make it with milk instead of hot water or add plenty of vegetables.</Dialog>
-          <Dialog>Wow. That's interesting. It seems to be good for your health too.</Dialog>
-          <Dialog>Right? Do you also consider your health when it comes to dieting?</Dialog>
-          <Dialog>...Yes, I'll be careful.</Dialog>
-          <Dialog>Hmm, is that so? So, do you not have to worry about it anymore?</Dialog>
-          <Dialog>That's not good!</Dialog>
-          <Dialog>I'm selfish. So let's take care of it properly.</Dialog>
-          <Dialog>(Please!)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>今、インスタントラーメンをアレンジするのに凝ってるの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>へえ、例えはどんな？</Dialog>
+          <Dialog>簡単なところではお湯の代わりにミルクで作ったり、野菜をたっぷり追加したり。</Dialog>
+          <Dialog>へーっ。面白いね。健康にもよさそうだし。</Dialog>
+          <Dialog>でしょ？　あなたも食事は、健康のことも考えてね？</Dialog>
+          <Dialog>……はーい、気をつけてまーす。</Dialog>
+          <Dialog>ふぅん、そうなんだ？　じゃあ、これからはもう気にしなくていい？</Dialog>
+          <Dialog>それはダメ！</Dialog>
+          <Dialog>ワガママなんだ。じゃあしっかり構っちゃおうっと。</Dialog>
+          <Dialog>（お願いしまーす！）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8065,19 +8065,19 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>A story about instant ramen arrangements. Do you remember?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes, maybe milk ramen or something?</Dialog>
-          <Dialog>yes. So, there's a new one... Ramendoria.</Dialog>
-          <Dialog>Doria!?</Dialog>
-          <Dialog>Put a bowl of rice in the ramen, sprinkle with grated cheese, and then head to the oven. And then I'll drop some half-boiled eggs.</Dialog>
-          <Dialog>Wow, it's a huge volume. What else?</Dialog>
-          <Dialog>I'm thinking about dessert now.</Dialog>
-          <Dialog>Dessert...</Dialog>
-          <Dialog>a. He looks like he doesn't think he'll go well.</Dialog>
-          <Dialog>I'll cry and tell them to eat him later. Don't regret it.</Dialog>
-          <Dialog>(Dessert with ramen... what's it like?)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>インスタントラーメンアレンジの話。覚えてる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん、ミルクラーメンとかだっけ？</Dialog>
+          <Dialog>そう。でね、新作があるの……ラーメンドリア。</Dialog>
+          <Dialog>ドリア!?</Dialog>
+          <Dialog>しゃもじ一杯のご飯をラーメンに入れて粉チーズを振ってオーブンへ。あとは半熟卵を落としたり。</Dialog>
+          <Dialog>へー、ボリューム満点だな。他には？</Dialog>
+          <Dialog>今はデザートを考えてるの。</Dialog>
+          <Dialog>デザート……。</Dialog>
+          <Dialog>あ。うまく行くハズがないって顔してる。</Dialog>
+          <Dialog>あとから泣いて食べさせてって言ってもあげないよ。後悔しないように。</Dialog>
+          <Dialog>（ラーメンでデザート……どんなだ？）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8161,18 +8161,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I mentioned before, what about the development of dessert ramen?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Are you worried?</Dialog>
-          <Dialog>Well, isn't it?</Dialog>
-          <Dialog>Actually, there was a recipe.</Dialog>
-          <Dialog>Recipe!?</Dialog>
-          <Dialog>Yes, there are predecessors there. I tried it, but it's ok.</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>i want to eat?</Dialog>
-          <Dialog>...I'll stop.</Dialog>
-          <Dialog>I'm scared now.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>前に言ってた、デザートラーメン開発はどう？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>気になっちゃってるんだ？</Dialog>
+          <Dialog>まあね？</Dialog>
+          <Dialog>実はね、レシピがあったの。</Dialog>
+          <Dialog>レシピ!?</Dialog>
+          <Dialog>そう、先達がいたってこと。試してみたけど、まあまあかな。</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>食べたい？</Dialog>
+          <Dialog>……やめとこっかな。</Dialog>
+          <Dialog>もう、怖がっちゃって。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8271,20 +8271,20 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>How about dessert ramen? Is it finished?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yeah. It was delicious. Ramen ice cream.</Dialog>
-          <Dialog>ice!!</Dialog>
-          <Dialog>I freeze condensed milk ramen.</Dialog>
-          <Dialog>Wow... I wonder if that's tasty.</Dialog>
-          <Dialog>But, stop now. Because it's counterproductive.</Dialog>
-          <Dialog>Is it a counterproductive matter?</Dialog>
-          <Dialog>If you eat a lot of instant ramen, your nutrition tends to be unbalanced, right? That won't be good for you.</Dialog>
-          <Dialog>So, for ●...</Dialog>
-          <Dialog>At first, but halfway through it, it turned into an interesting recipe. Sorry.</Dialog>
-          <Dialog>I'm so happy to be sorry. I think I'll try both vegetable ramen and milk ramen.</Dialog>
-          <Dialog>TRUE? So, did you achieve your goal a little?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>デザートラーメンどう？　完成した？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うん。美味しかったよ。ラーメンアイス。</Dialog>
+          <Dialog>アイス!!</Dialog>
+          <Dialog>コンデンスミルクラーメンを凍らせたの。</Dialog>
+          <Dialog>へえ……それって、美味しいのかな。</Dialog>
+          <Dialog>でも、もう、やめ。本末転倒だから。</Dialog>
+          <Dialog>本末転倒？</Dialog>
+          <Dialog>インスタントラーメンが多いと、栄養が偏りがちになっちゃうでしょ？　それじゃあなたのためにならないもん。</Dialog>
+          <Dialog>じゃあ、●のために……。</Dialog>
+          <Dialog>最初はね、でも途中から面白レシピになっちゃって。ごめんね。</Dialog>
+          <Dialog>ごめんなんて、うれしいよ。野菜ラーメンもミルクラーメンもやってみよっかな。</Dialog>
+          <Dialog>本当？　じゃあ、少しは目的が達成できたかな？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8363,17 +8363,17 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What do you think of girls who can play musical instruments?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>A musical instrument...Hmm, what happened all of a sudden?</Dialog>
-          <Dialog>The other day, I went to a friend's house and found a piano. I'm a little envious of it.</Dialog>
-          <Dialog>I see.</Dialog>
-          <Dialog>I'm hoping for piano, violin, etc.</Dialog>
-          <Dialog>What do you mean to learn from now on?</Dialog>
-          <Dialog>Yes...I guess it's difficult to use an instrument that you can't practice in the room. Isn't it bad for your neighbor?</Dialog>
-          <Dialog>That's right. It's not possible either.</Dialog>
-          <Dialog>It's difficult, isn't it? It's not something that's easy to buy...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ね、楽器ができる女の子ってどう思う？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>楽器か……うーん、急にどうしたの？</Dialog>
+          <Dialog>この間ね友だちの家に行ったら、ピアノが置いてあって。ちょっと羨ましくなっちゃった。</Dialog>
+          <Dialog>なるほどね。</Dialog>
+          <Dialog>ピアノとかヴァイオリンとか……そういうの憧れちゃうな。</Dialog>
+          <Dialog>今から、習うっていうのは？</Dialog>
+          <Dialog>そうね……部屋で練習できない楽器は難しいかな。お隣さんに悪いでしょ？</Dialog>
+          <Dialog>そうだな。うちも無理だ。</Dialog>
+          <Dialog>難しいよね。簡単に買えるものでもないし……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8457,18 +8457,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Do you remember the story of musical instruments?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, I mean, I want to play an instrument.</Dialog>
-          <Dialog>When I was in elementary school, you taught me recorders and harmonicas through music, right? I don't think there are any opportunities in high school than that.</Dialog>
-          <Dialog>Come to think of it, the main focus is singing. I wonder if other schools are different.</Dialog>
-          <Dialog>I wish they could teach me more instruments at school.</Dialog>
-          <Dialog>Orchestra in class?</Dialog>
-          <Dialog>That's fine. Looks fun.</Dialog>
-          <Dialog>Haha, it would seem like it would be difficult at that point.</Dialog>
-          <Dialog>Is it no good?</Dialog>
-          <Dialog>(...What do you think?)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>楽器の話、覚えてる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、なんか楽器をやりたいって話ね。</Dialog>
+          <Dialog>小学生のころは、リコーダーやハーモニカを音楽で教えてくれたでしょ？　高校ではそれに比べると機会がないかなって。</Dialog>
+          <Dialog>そういえば、歌がメインだよな。他の学校は違うのかな。</Dialog>
+          <Dialog>学校でも、もっと楽器を教えてくれればいいのに。</Dialog>
+          <Dialog>クラスでオーケストラとか？</Dialog>
+          <Dialog>それいい。楽しそう。</Dialog>
+          <Dialog>はは、そこまでくると逆に大変そうだけどな。</Dialog>
+          <Dialog>ダメかなあ？</Dialog>
+          <Dialog>（……どうだろ？）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8552,18 +8552,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's about orchestras in class, but it might come to fruition.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Huh, really?</Dialog>
-          <Dialog>I talked to my music teacher and he was quite enthusiastic about it.</Dialog>
-          <Dialog>Wow...it seems like it's difficult for the teacher too.</Dialog>
-          <Dialog>It seems the fun won. But there's one problem.</Dialog>
-          <Dialog>?</Dialog>
-          <Dialog>Not everyone is the same instrument, so it seems difficult to evaluate it.</Dialog>
-          <Dialog>surely…….</Dialog>
-          <Dialog>Plus, it's not guaranteed that everyone will be interested.</Dialog>
-          <Dialog>(Is that the case too...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>クラスでオーケストラの話だけど、実現するかもしれないよ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>え、ほんと？</Dialog>
+          <Dialog>音楽の先生に話したら、結構乗り気になってくれたの。</Dialog>
+          <Dialog>へえ……先生の方も大変そうだけどな。</Dialog>
+          <Dialog>面白さが勝っちゃったみたい。でも、ひとつ問題があるって。</Dialog>
+          <Dialog>？</Dialog>
+          <Dialog>みんな同じ楽器じゃないから、評価が難しいなって。</Dialog>
+          <Dialog>確かに……。</Dialog>
+          <Dialog>それに、みんなが乗り気になってくれるとは限らないしね。</Dialog>
+          <Dialog>（それもそうか……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8652,18 +8652,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The orchestra talk in class is gone.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Was it really difficult?</Dialog>
-          <Dialog>There are a lot of problems. That's the same with the review I mentioned before.</Dialog>
-          <Dialog>Securing instruments, securing training spaces, teachers' teaching skills, lack of practice time...</Dialog>
-          <Dialog>Of course it's impossible...</Dialog>
-          <Dialog>It's a bit unlikely to be done.</Dialog>
-          <Dialog>That's a shame, ▲Anegasaki*▲, I was looking forward to it.</Dialog>
-          <Dialog>Yes...but this made me become friends with my music teacher.</Dialog>
-          <Dialog>They will also be able to discuss various things about musical instruments.</Dialog>
-          <Dialog>(I guess that's how it was successful for now.)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>クラスでオーケストラの話、なくなっちゃった。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>やっぱり難しかったか。</Dialog>
+          <Dialog>問題がたーくさん。前に話した評価の件もそうだし。</Dialog>
+          <Dialog>楽器の確保、練習場所の確保、先生の指導力、練習時間の不足……。</Dialog>
+          <Dialog>そりゃ無理だな……。</Dialog>
+          <Dialog>ちょっとどうにかなりそうにないよね。</Dialog>
+          <Dialog>残念だな、▲姉ヶ崎＊▲、楽しみにしてたのに。</Dialog>
+          <Dialog>うん……でもこれがきっかけで音楽の先生と仲良くなれたの。</Dialog>
+          <Dialog>楽器の件も、色々相談にのってくれそう。</Dialog>
+          <Dialog>（ひとまず成果はあったってことかな）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8752,18 +8752,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Come to think of it, I recently heard a really cute conversation.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>cute? what kind?</Dialog>
-          <Dialog>They're a middle school couple though.</Dialog>
-          <Dialog>A boy says to a girl, "If you wear casual clothes, the atmosphere will change." It seemed like it was my first date.</Dialog>
-          <Dialog>Like, my heart is pounding!</Dialog>
-          <Dialog>hey? I almost looked back, but I held back.</Dialog>
-          <Dialog>It was cute. It feels pure. Hehe.</Dialog>
-          <Dialog>...● is still fresh in ▲Anegasaki*▲'s casual clothes.</Dialog>
-          <Dialog>Huh, a sense of conflict? I found a cute boy here too!</Dialog>
-          <Dialog>(I told you myself, but I'm embarrassed...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そういえば、この間すごくかわいい会話を聞いたの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>かわいい？　どんな？</Dialog>
+          <Dialog>中学生のカップルなんだけどね。</Dialog>
+          <Dialog>男の子が女の子に、“私服だと、雰囲気変わるね”だって。初めてのデートだったみたい。</Dialog>
+          <Dialog>いいね、胸キュンだ！</Dialog>
+          <Dialog>ね？　振り返りそうになったけど、我慢したよ。</Dialog>
+          <Dialog>かわいかったなぁ。純粋な感じで。ふふふ。</Dialog>
+          <Dialog>……●は今でも、▲姉ヶ崎＊▲の私服姿は、新鮮だよ。</Dialog>
+          <Dialog>あれ、対抗意識？　ここにもかわいい男の子発見！</Dialog>
+          <Dialog>（自分で言ってなんだけど、照れるな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8866,19 +8866,19 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Ah, that's right. The middle school couple I mentioned the other day.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes yes.</Dialog>
-          <Dialog>I've come to Dexis.</Dialog>
-          <Dialog>Huh, really?</Dialog>
-          <Dialog>Yeah. The boy was having a treat. I was hit right in front of me, saying things like, "It's bad, I'll pay for it yourself," and "It's fine, I'll give it!"</Dialog>
-          <Dialog>I couldn't help but laugh a little. When the two noticed this, they became even more embarrassed. That was cute too.</Dialog>
-          <Dialog>Feeling like a parent?</Dialog>
-          <Dialog>Yes, that's true.</Dialog>
-          <Dialog>If you have any concerns, your sister will give you advice! I even wanted to say that.</Dialog>
-          <Dialog>I hope they'll be good friends the next time they come. Those kids.</Dialog>
-          <Dialog>(I can't even lose to ●!)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あっ、そうそう。この前話した中学生のカップル。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うんうん。</Dialog>
+          <Dialog>デキシーズに来たんだ。</Dialog>
+          <Dialog>え、ホント？</Dialog>
+          <Dialog>うん。男の子がね、ご馳走してた。“悪いから自分で払うよ”、“いいよ、俺が出すよ！”なんて目の前でやられて。</Dialog>
+          <Dialog>ついつい、少し笑っちゃった。それに気がついた２人がさらに照れちゃって。それも可愛かったなぁ。</Dialog>
+          <Dialog>保護者な気分？</Dialog>
+          <Dialog>うん、ホントにそう。</Dialog>
+          <Dialog>悩みがあるならお姉さんが相談に乗ってあげる！　って言いたかったくらい。</Dialog>
+          <Dialog>次に来るときも仲良しだといいなぁ。あの子たち。</Dialog>
+          <Dialog>（●も負けてられないな！）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -8982,21 +8982,21 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Come to think of it, I heard about a middle school couple that I've heard before, have you been to Dexis since then?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes. That's why you can't come often, right? Because I'm running out of pocket money.</Dialog>
-          <Dialog>I see. That's right.</Dialog>
-          <Dialog>Yeah. Hey, what would have happened if we met in middle school?</Dialog>
-          <Dialog>Hmm, what do you think? Anegasaki*▲, a junior high school student...I wanted to meet him.</Dialog>
-          <Dialog>me too. I'm sure you were cute. Just thinking about it makes me smile.</Dialog>
-          <Dialog>Do you want to collect your pocket money and go into a restaurant or watch a movie?</Dialog>
-          <Dialog>Yes, that kind of frustration may be important in love.</Dialog>
-          <Dialog>●I'm still frustrated now though.</Dialog>
-          <Dialog>Hmm, for example?</Dialog>
-          <Dialog>I wish I could stay with you forever.</Dialog>
-          <Dialog>...I'm fine, isn't it?</Dialog>
-          <Dialog>?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そういや前に聞いた、中学生カップル、あれからデキシーズに来た？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ううん。そう頻繁には来られないんじゃない？　お小遣いなくなっちゃうから。</Dialog>
+          <Dialog>そっか。そうだよな。</Dialog>
+          <Dialog>うん。ねえ、もし私たちが出会ったのが中学の頃だったら、どうなってたと思う？</Dialog>
+          <Dialog>うーん、どうだろ。中学生の▲姉ヶ崎＊▲か……会ってみたかったな。</Dialog>
+          <Dialog>私も。きっとあなたはかわいかったんだろうな。想像しただけで、にやけちゃう。</Dialog>
+          <Dialog>お小遣いを工面して、レストランに入ったり、映画見たり？</Dialog>
+          <Dialog>そうね、そういうもどかしさって、恋愛には大事なのかもしれないね。</Dialog>
+          <Dialog>●は今ももどかしいけど。</Dialog>
+          <Dialog>ん、例えば？</Dialog>
+          <Dialog>もっと、ずっと一緒に居られたらってさ。</Dialog>
+          <Dialog>……私は、いいのにな？</Dialog>
+          <Dialog>？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9080,18 +9080,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's right, when the middle school couple comes to the store, I'll provide them with service.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I know how you feel, but it's not good to change the service depending on the customer.</Dialog>
-          <Dialog>Yes, of course, I think I'll show you to the table seat at the back, not to give you a discount.</Dialog>
-          <Dialog>Oh, that might be good. It has a bit of a private room atmosphere there.</Dialog>
-          <Dialog>Right? You'll definitely enjoy the atmosphere of just two people.</Dialog>
-          <Dialog>He's kind, he's a big brother. I also love that kind of thing about you.</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>picture? Isn't it?</Dialog>
-          <Dialog>……Yeah.</Dialog>
-          <Dialog>What's that yeah? Cute▼</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだ、今度、例の中学生カップルが店に来たら、サービスしてあげようよ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>気持ちは分かるけど、お客様によってサービスを変えるのはダメよ。</Dialog>
+          <Dialog>うん、もちろん値引きしたりとかじゃなくて、一番奥のテーブル席に案内してあげようかなって。</Dialog>
+          <Dialog>あ、それいいかも。あそこちょっと、個室みたいな雰囲気だから。</Dialog>
+          <Dialog>だろ？　きっと２人っきりの雰囲気が楽しめるよ。</Dialog>
+          <Dialog>優しい、お兄さんだね。あなたのそういうところも、大好き。</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>え？　じゃないの。</Dialog>
+          <Dialog>……うん。</Dialog>
+          <Dialog>もう、うんってなあに？　カワイイ▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9190,20 +9190,20 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, guys are more hot, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Is that so? I think it depends on the person.</Dialog>
-          <Dialog>I thought so while I was working part-time. I think more female customers will ask for room temperature adjustments in both summer and winter.</Dialog>
-          <Dialog>Ah, it's the women who often say it's too cold.</Dialog>
-          <Dialog>Right?</Dialog>
-          <Dialog>But, does that mean that women get cold?</Dialog>
-          <Dialog>So, are men more insensitive?</Dialog>
-          <Dialog>Eh...</Dialog>
-          <Dialog>Yes, you're also insensitive at times.</Dialog>
-          <Dialog>Huh, ●? yes?</Dialog>
-          <Dialog>Really sometimes, isn't it?</Dialog>
-          <Dialog>(...Huh? It's about temperature, right?)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇ、男の人のほうが暑がりだよね？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうなの？　人によると思うけど。</Dialog>
+          <Dialog>バイト中に思ったの。夏も冬も、室温調整を頼んでくるのは、女性客のほうが多いなって。</Dialog>
+          <Dialog>ああ、よく寒すぎるって言ってくるのは女性だな。</Dialog>
+          <Dialog>でしょ？</Dialog>
+          <Dialog>でもさ、それって女性が寒がりってことだろ？</Dialog>
+          <Dialog>じゃあ、男の人のほうが鈍感？</Dialog>
+          <Dialog>えー……。</Dialog>
+          <Dialog>そうよね、あなたも時々鈍感だもんね。</Dialog>
+          <Dialog>え、●？　そう？</Dialog>
+          <Dialog>ホントに時々ね？</Dialog>
+          <Dialog>（……ん？　温度の話だよな？）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9292,19 +9292,19 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Skirts are great in the summer, but isn't it cold in the winter?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It can be cold, but I don't think it's that bothering me. Why?</Dialog>
-          <Dialog>The other day, you mentioned whether you're a man or a woman and are colder than you? Women are definitely more resistant to cold.</Dialog>
-          <Dialog>Is she wearing a skirt even in the winter?</Dialog>
-          <Dialog>Yeah. It's absolutely impossible to get bare legs in the middle of winter.</Dialog>
-          <Dialog>I'm sure even men will be fine if they try it. I guess I'm used to it.</Dialog>
-          <Dialog>I wonder.</Dialog>
-          <Dialog>...Haha.</Dialog>
-          <Dialog>yeah? What's up?</Dialog>
-          <Dialog>I could imagine your skirt.</Dialog>
-          <Dialog>(Uh... I also imagined it)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>スカートって夏はいいけど、冬は寒くない？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>寒いこともあるけど、そんなに気にならないかな。どうして？</Dialog>
+          <Dialog>この前、男と女のどっちが暑がりで寒がりかって話、しただろ？　やっぱり女性のほうが寒さに強いよ。</Dialog>
+          <Dialog>冬でもスカートはいてるから？</Dialog>
+          <Dialog>うん。真冬に生足なんて、●は絶対無理。</Dialog>
+          <Dialog>男の人だって、やってみたらきっと大丈夫だと思うよ。慣れじゃないかな。</Dialog>
+          <Dialog>どうかなぁ。</Dialog>
+          <Dialog>……ふふっ。</Dialog>
+          <Dialog>ん？　どうかした？</Dialog>
+          <Dialog>あなたのスカート姿、ちょっと想像しちゃった。</Dialog>
+          <Dialog>（うっ……●も想像しちゃった）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9413,21 +9413,21 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Salarymen don't suit even in the summer, right? I wonder if it's not hot.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Of course it's hot.</Dialog>
-          <Dialog>I see. Men are tough.</Dialog>
-          <Dialog>Women are also tough. There's more to do than men like makeup and skin care.</Dialog>
-          <Dialog>Hehe, that's what you care about.</Dialog>
-          <Dialog>▲Anegasaki*▲ too, do a lot of stuff before going to bed, right?</Dialog>
-          <Dialog>It's not just before going to bed. It's tough even after I wake up. Wash your face, moisturize, and cool your eyes...</Dialog>
-          <Dialog>...Why do you cool your eyes?</Dialog>
-          <Dialog>When I wake up, my eyes often get swollen. Sniff.</Dialog>
-          <Dialog>Ah, like after crying.</Dialog>
-          <Dialog>yes. You can't show that face to you, right?</Dialog>
-          <Dialog>●Is it okay no matter what kind of face ▲Anegasaki*▲ looks like?</Dialog>
-          <Dialog>already……. I don't know if that's okay to be happy.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>サラリーマンって夏でもスーツでしょ？　暑くないのかな。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そりゃ、暑いんじゃないかな。</Dialog>
+          <Dialog>そっか。男の人は大変だね。</Dialog>
+          <Dialog>女の人も大変じゃん。化粧とか肌の手入れとか男よりやること多いもんな。</Dialog>
+          <Dialog>ふふ、そういうの気にしてくれてるんだ。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲も、寝る前にいろいろやってるんだろ？</Dialog>
+          <Dialog>寝る前だけじゃないよ。起きてからも大変なんだから。顔洗って、保湿して、目を冷やして……。</Dialog>
+          <Dialog>……なんで目を冷やすの？</Dialog>
+          <Dialog>起きたら、目が腫れてることが多いの。むくんじゃって。</Dialog>
+          <Dialog>ああ、泣いた後みたいな。</Dialog>
+          <Dialog>そう。そんな顔、あなたに見せられないでしょ？</Dialog>
+          <Dialog>●は、▲姉ヶ崎＊▲がどんな顔してても平気だよ？</Dialog>
+          <Dialog>もう……。それ、喜んでいいのかわからないなぁ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9541,22 +9541,22 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I'm wondering which one is hot, a man or a woman, and is cold...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Haha, have you come to a conclusion?</Dialog>
-          <Dialog>You often see elementary school students running in the middle of winter, right? That's usually a man.</Dialog>
-          <Dialog>Come to think of it, that might be true.</Dialog>
-          <Dialog>Thinking about it, is men more resistant to cold?</Dialog>
-          <Dialog>yes? But I used to wear light clothes when I was in elementary school.</Dialog>
-          <Dialog>That's right.</Dialog>
-          <Dialog>It's warm if you move. If you wear a lot, it's difficult to move around, right?</Dialog>
-          <Dialog>He was the child of the wind.</Dialog>
-          <Dialog>How was you?</Dialog>
-          <Dialog>Maybe he was more comfortable than he was now. I was younger back then...</Dialog>
-          <Dialog>He's already saying something like grandpa.</Dialog>
-          <Dialog>mother. All children may be resistant to the cold.</Dialog>
-          <Dialog>Hmm... I guess this story depends on the person after all.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>男と女のどっちが暑がりで寒がりかって話だけど……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふふ、結論が出た？</Dialog>
+          <Dialog>よくさ、真冬にランニングの小学生とか見るだろ？あれって大抵、男なんだよな。</Dialog>
+          <Dialog>そういえば、そうかも。</Dialog>
+          <Dialog>それ考えると、男のほうが寒さに強いのかな？</Dialog>
+          <Dialog>そう？　でも、私は小学生の頃薄着だったよ。</Dialog>
+          <Dialog>そうだったんだ。</Dialog>
+          <Dialog>動けばあったかくなるから。たくさん着ると、動きづらくなっちゃうでしょ？</Dialog>
+          <Dialog>風の子だったんだな。</Dialog>
+          <Dialog>あなたはどうだった？</Dialog>
+          <Dialog>今よりは平気だったかも。あの頃は若かったな……。</Dialog>
+          <Dialog>もう、おじいちゃんみたいなこと言って。</Dialog>
+          <Dialog>はは。子供はみんな寒さに強いかもな。</Dialog>
+          <Dialog>うーん……やっぱり、人によるのかな、この話は。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9645,19 +9645,19 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I always wonder, is there something ▲Anegasaki*▲ not something you don't like?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What do you don't like? Something is planning.</Dialog>
-          <Dialog>No, no, just curiosity.</Dialog>
-          <Dialog>That's fine, but... I think I've said it before, but I don't like frogs and insects.</Dialog>
-          <Dialog>I see, that's the image I have.</Dialog>
-          <Dialog>I was fine when I was little... I wonder when it ended up ruining.</Dialog>
-          <Dialog>There is, before I know it. Likes and dislikes about food.</Dialog>
-          <Dialog>oh yeah. Hey, what are you not good at?</Dialog>
-          <Dialog>Things I don't like... Right, ▲Anegasaki*▲'s sad face? What!</Dialog>
-          <Dialog>I'm not feeling well now♪</Dialog>
-          <Dialog>(It's true though)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>いつも思うんだけど、▲姉ヶ崎＊▲って苦手なものないの？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>苦手なもの？　なにか、企んでるんだ。</Dialog>
+          <Dialog>違う違う、ただの好奇心。</Dialog>
+          <Dialog>ならいいけど……そうね、前にも言ったかもしれないけど、カエルとか虫が苦手かな。</Dialog>
+          <Dialog>なるほど、まあそんなイメージだよな。</Dialog>
+          <Dialog>小さい頃は平気だったんだけどな……いつからダメになっちゃったんだろ。</Dialog>
+          <Dialog>あるよな、いつの間にかっていうの。食べ物の好き嫌いとかもさ。</Dialog>
+          <Dialog>そうそう。ねえ、あなたの苦手なものは？</Dialog>
+          <Dialog>●の苦手なもの……。そうだな、▲姉ヶ崎＊▲の悲しい顔？　なんつって！</Dialog>
+          <Dialog>こら、調子にのらないの♪</Dialog>
+          <Dialog>（本当なんだけどな）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9746,19 +9746,19 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, what's wrong?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Um... bugs appear in the house...</Dialog>
-          <Dialog>Ah... I was saying I hate it.</Dialog>
-          <Dialog>I received organically grown vegetables from a nearby area, and among them...</Dialog>
-          <Dialog>Among them...?</Dialog>
-          <Dialog>Don't let me say anything more.</Dialog>
-          <Dialog>……sorry.</Dialog>
-          <Dialog>The vegetables themselves were very tasty...</Dialog>
-          <Dialog>Well, they say it's tasty so they get insects.</Dialog>
-          <Dialog>Yes, but maybe it was the first time I've had such a hard time cooking...I was already desperate.</Dialog>
-          <Dialog>(I'm sorry to Anegasaki*▲, but I wanted to see her desperate expression.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、どうした？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あのね……家に虫が出て……。</Dialog>
+          <Dialog>ああ……嫌いって言ってたもんな。</Dialog>
+          <Dialog>ご近所から有機栽培の野菜をいただいたんだけど、その中に……。</Dialog>
+          <Dialog>その中に……？</Dialog>
+          <Dialog>これ以上言わせないで。</Dialog>
+          <Dialog>……ごめん。</Dialog>
+          <Dialog>野菜自体はとっても美味しかったのに……。</Dialog>
+          <Dialog>まあ美味しいから虫がつく、とか言うしね。</Dialog>
+          <Dialog>そうね、でもあんなに料理に苦労したの、はじめてかも……もう必死だったの。</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲には悪いけど、その必死の表情、見てみたかったな）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9842,18 +9842,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>When I thought there were more insects, I hesitated when I touched the vegetables.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, the organic vegetables you've given?</Dialog>
-          <Dialog>Yes, I'll have it again. That in itself is nice...</Dialog>
-          <Dialog>Haha, that's a bother.</Dialog>
-          <Dialog>Oh, I'm having fun.</Dialog>
-          <Dialog>Bad!</Dialog>
-          <Dialog>It's fine now. Okay, I'll get all the hard work today and get rid of it!</Dialog>
-          <Dialog>Get rid of it?</Dialog>
-          <Dialog>Gloves, masks, goggles, vinyl aprons...we have them all.</Dialog>
-          <Dialog>(It's really amazing equipment...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>また虫がいるかと思うと、野菜に触るとき、躊躇しちゃって。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、いただき物の有機野菜？</Dialog>
+          <Dialog>うん、またいただいちゃって。それ自体はうれしいんだけど……。</Dialog>
+          <Dialog>はは、悩ましいね。</Dialog>
+          <Dialog>あ、楽しんでる。</Dialog>
+          <Dialog>悪ぃ！</Dialog>
+          <Dialog>もう、いいもん。よーしっ、今日もはりきって退治しちゃうから！</Dialog>
+          <Dialog>退治？</Dialog>
+          <Dialog>手袋にマスク、ゴーグルにビニールのエプロン……全部そろえたんだから。</Dialog>
+          <Dialog>（なんだか、すごい装備だな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -9957,21 +9957,21 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>How was your confrontation with the insect?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's a complete victory. All the vegetables I received were delicious.</Dialog>
-          <Dialog>Congratulations! ...I wonder if it's the case.</Dialog>
-          <Dialog>n/a. Actually, there were no insects in the vegetables this time.</Dialog>
-          <Dialog>What, was it?</Dialog>
-          <Dialog>It was fully equipped, but it made my shoulders go a little. A bye win.</Dialog>
-          <Dialog>Winning is winning. Actually, I was a bit worried because insects really don't like them.</Dialog>
-          <Dialog>Thank you... yes, I'll do that after all.</Dialog>
-          <Dialog>yeah?</Dialog>
-          <Dialog>One more thing has been added to the conditions for your future husband.</Dialog>
-          <Dialog>What?!?</Dialog>
-          <Dialog>If I'm suffering from insects, someone will help me. Remember it, don't you?</Dialog>
-          <Dialog>(I want to know the other conditions...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>虫との対決はどうだった？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>完全勝利です。いただき物の野菜は全部美味しくいただきました。</Dialog>
+          <Dialog>おめでとう！　……なのかな。</Dialog>
+          <Dialog>ふふ。実はね、今回のお野菜には虫はいなかったの。</Dialog>
+          <Dialog>なんだ、そうだったのか。</Dialog>
+          <Dialog>完全装備だったのに、ちょっと肩透かしくらっちゃった。不戦勝ね。</Dialog>
+          <Dialog>勝ちは勝ちだよ。実はちょっと心配だったんだ、虫、ほんとに苦手みたいだから。</Dialog>
+          <Dialog>ありがとう……うん、やっぱりそうしよ。</Dialog>
+          <Dialog>ん？</Dialog>
+          <Dialog>未来の旦那様の条件に、ひとつ追加。</Dialog>
+          <Dialog>えっ!?</Dialog>
+          <Dialog>私が虫に困ってたら、助けてくれる人。覚えておいてね？</Dialog>
+          <Dialog>（他の条件を知りたい……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10055,18 +10055,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, do you like fortune telling?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It's a fortune teller, but I don't really hate it. why?</Dialog>
-          <Dialog>See, most girls love fortune telling, but boys aren't. I wonder why.</Dialog>
-          <Dialog>That's right, I don't ask that I'm a man who likes fortune telling.</Dialog>
-          <Dialog>Women's magazines always have a fortune-telling page, right? Isn't it not like in magazines aimed at men?</Dialog>
-          <Dialog>Certainly, fortune telling doesn't really make much of an impression.</Dialog>
-          <Dialog>Don't boys like fortune telling? So, should they not talk about fortune telling?</Dialog>
-          <Dialog>That's not the case though.</Dialog>
-          <Dialog>real? So...</Dialog>
-          <Dialog>(▲Anegasaki*▲ loves fortune telling...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、あなたは占い好き？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>占いか、別に嫌いじゃないけど。なんで？</Dialog>
+          <Dialog>ほら、女の子って占い好きが多いのに、男の子はそうでもないよね。なんでかなって。</Dialog>
+          <Dialog>そうだな、男で占い好きって聞かないな。</Dialog>
+          <Dialog>女性雑誌には必ず占いページがあるじゃない？　男性向けの雑誌はそうでもないの？</Dialog>
+          <Dialog>確かに、占いってあんまり、印象にないな。</Dialog>
+          <Dialog>男の子は占い好きじゃないのか……じゃあ占いの話ってしない方がいい？</Dialog>
+          <Dialog>そんなことないけど。</Dialog>
+          <Dialog>ほんと？　じゃあ……。</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲は占い好きなんだな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10150,18 +10150,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Today's fortune telling is that brushing your teeth is good for Aries.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲'s fortune?</Dialog>
-          <Dialog>That's right, but I don't know what it means to brush your teeth well.</Dialog>
-          <Dialog>Does that mean you should brush your teeth properly?</Dialog>
-          <Dialog>I always polish them properly.</Dialog>
-          <Dialog>That's right. Does that mean you should polish it multiple times?</Dialog>
-          <Dialog>Maybe it's not after dinner...</Dialog>
-          <Dialog>Hmm, that's difficult.</Dialog>
-          <Dialog>Isn't it? I can't help but be bothered.</Dialog>
-          <Dialog>(It's not very good at this point when you're worried about this.)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>今日の占い、おひつじ座は、歯みがきが吉なんだって。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲の運勢？</Dialog>
+          <Dialog>そうなんだけど、歯みがきが吉ってどういうことか分からなくて。</Dialog>
+          <Dialog>歯みがきをしっかりやれってことかな？</Dialog>
+          <Dialog>いつもちゃんと磨いているよ。</Dialog>
+          <Dialog>そうだよな。何回も磨けってこと？</Dialog>
+          <Dialog>食後以外にもかな……。</Dialog>
+          <Dialog>うーん、難しいな。</Dialog>
+          <Dialog>でしょう？　気になってしょうがないの。</Dialog>
+          <Dialog>（こんなに悩んでいる時点で、あんまり吉じゃないよな）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10250,18 +10250,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, do you know Feng Shui?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It's either a good or bad direction. I don't know much about it though.</Dialog>
-          <Dialog>I found a book that I'm introducing in a short way. For example, placing a yellow item in the south window would improve your financial luck.</Dialog>
-          <Dialog>Wow. Have you tried it?</Dialog>
-          <Dialog>Yeah. ...But there aren't many yellow things in the house. ...I left the bananas there.</Dialog>
-          <Dialog>A banana on the windowsill?</Dialog>
-          <Dialog>Don't laugh anymore. Because that's the only thing I can see. But...</Dialog>
-          <Dialog>Before I knew it, the banana had turned black...</Dialog>
-          <Dialog>Haha, it's no longer a yellow one.</Dialog>
-          <Dialog>I'm laughing so much now!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、風水って知ってる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>方角がいいとか悪いとかだよな。詳しくはないけど。</Dialog>
+          <Dialog>簡単に紹介してる本をみつけたの。例えば、南側の窓に黄色いものを置くと金運アップとか。</Dialog>
+          <Dialog>へえ。やってみたの？</Dialog>
+          <Dialog>うん。……でもね、家の中に黄色いものって、あんまりなくて。……バナナを置いておいたの。</Dialog>
+          <Dialog>バナナを窓辺に？</Dialog>
+          <Dialog>もう、笑わないで。だってそれしか見当たらなくて。でもね……。</Dialog>
+          <Dialog>気がついたら、バナナ黒くなってた……。</Dialog>
+          <Dialog>はは、黄色いモノじゃなくなっちゃったじゃん。</Dialog>
+          <Dialog>もう、笑いすぎ！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10360,20 +10360,20 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Come to think of it, ▲Anegasaki*▲, have you improved your financial luck? See, Feng Shui.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I don't really understand.</Dialog>
-          <Dialog>Well, the banana has turned black.</Dialog>
-          <Dialog>I'm laughing again.</Dialog>
-          <Dialog>That's right, placing a red object on the entrance would improve your luck with work. Why not try it?</Dialog>
-          <Dialog>●?</Dialog>
-          <Dialog>Yes, men are jobs, right?</Dialog>
-          <Dialog>Is work about dexies?</Dialog>
-          <Dialog>...I'm a high school student, so maybe I'm studying. What is your luck with work in the first place? Maybe he'll get promoted?</Dialog>
-          <Dialog>When you get promoted, ● becomes the store manager or the class representative...</Dialog>
-          <Dialog>...I'm not very happy.</Dialog>
-          <Dialog>(That's right...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そういえば▲姉ヶ崎＊▲、金運アップした？　ほら、風水の。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>よく分からない。</Dialog>
+          <Dialog>まあ、バナナ黒くなっちゃったしな。</Dialog>
+          <Dialog>もう、また笑う。</Dialog>
+          <Dialog>そうだ、玄関に赤い物を置くと仕事運アップっていうのもあったよ。試してみたら？</Dialog>
+          <Dialog>●？</Dialog>
+          <Dialog>そう、男は仕事でしょ？</Dialog>
+          <Dialog>仕事ってデキシーズのこと？</Dialog>
+          <Dialog>……高校生なんだし、勉強のことかな。そもそも仕事運ってなんだろうね？　出世するとか？</Dialog>
+          <Dialog>出世って、●が店長になったり、学級委員になったり……。</Dialog>
+          <Dialog>……あまりうれしくないね。</Dialog>
+          <Dialog>（だよなあ……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10452,17 +10452,17 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I wonder what would be nice if a man were to make a lunch box.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Lunch box? ● is...</Dialog>
-          <Dialog>Ah, sorry, sorry. A story about a friend. He asked me about making lunch for my boyfriend for the first time.</Dialog>
-          <Dialog>Hmm, each one has their own preferences. Even if you call him a "man" in one go.</Dialog>
-          <Dialog>That's right. Without information about my boyfriend, I wonder if there's nothing I can do about it either.</Dialog>
-          <Dialog>Didn't she tell you anything?</Dialog>
-          <Dialog>I was so embarrassed that I didn't tell him at all.</Dialog>
-          <Dialog>Haha, is that what it is?</Dialog>
-          <Dialog>That kind of innocent part makes it cute. I'll listen carefully next time.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>男の人がお弁当を作ってもらうとしたら、どんなのがうれしいのかな。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>弁当？　●は……。</Dialog>
+          <Dialog>あ、ごめんごめん。友達の話。カレシのために初めてお弁当を作るからって、相談されたの。</Dialog>
+          <Dialog>うーん、それぞれ好みがあるだろうしな。ひとくちに“男の人”といっても。</Dialog>
+          <Dialog>そうよね。カレシの情報がないと、私もどうしようもないかな。</Dialog>
+          <Dialog>その彼女は何も教えてくれなかったの？</Dialog>
+          <Dialog>それが恥ずかしがって、ぜんぜん教えてくれなかったの。</Dialog>
+          <Dialog>はは、そういうことか。</Dialog>
+          <Dialog>そういう初々しいところが、かわいいんだけど。今度ちゃんと聞いとくね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10546,18 +10546,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Your friend told you that you wanted to make a lunch box for your boyfriend, right? That boyfriend is from athletic club.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>So I guess he's the type who wants to eat a lot of bento.</Dialog>
-          <Dialog>There's a lot of stuff and it's going to accumulate in your stomach. Pork cutlet or something?</Dialog>
-          <Dialog>I agree. First of all, the volume.</Dialog>
-          <Dialog>There's a lot of stuff and it's likely to gain stamina...I have to consider the nutritional balance too.</Dialog>
-          <Dialog>It looks like Anegasaki*▲ is making a lunch box for you...</Dialog>
-          <Dialog>Yeah? Are you jealous of this?</Dialog>
-          <Dialog>...That's not true though.</Dialog>
-          <Dialog>I'll give you some menu ideas, but I'm sure I can be relieved because she's the one who's making it.</Dialog>
-          <Dialog>(Even so, it's a bit complicated...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>友達がカレシにお弁当を作りたいって話したでしょ？　そのカレ、運動部なんだって。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>じゃあ弁当も、ガッツリ食べたいタイプだろうなあ。</Dialog>
+          <Dialog>量が多くて、お腹にたまるものか。とんかつとか？</Dialog>
+          <Dialog>そうだね。まずはボリュームだろうな。</Dialog>
+          <Dialog>量があって、スタミナもつきそうなもの……栄養のバランスも考えないとね。</Dialog>
+          <Dialog>なんだか▲姉ヶ崎＊▲が、お弁当を作ってあげるみたいだな……。</Dialog>
+          <Dialog>ええ？　こんなことで嫉妬しちゃうの？</Dialog>
+          <Dialog>……そうじゃないけど。</Dialog>
+          <Dialog>もう、私は献立のアイディアは出すけど、作るのは彼女自身だから、安心していいよ。</Dialog>
+          <Dialog>（それでも、ちょっとだけ複雑な心境だよな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10631,16 +10631,16 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲'s friend, but I wonder if he was able to make a lunch box for his boyfriend.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's how I can't decide what to make yet.</Dialog>
-          <Dialog>It's the first time, so I want them to eat something perfect.</Dialog>
-          <Dialog>I think anyone who receives it would be happy.</Dialog>
-          <Dialog>That may be true, but... it's certainly not good to think too much.</Dialog>
-          <Dialog>I'm sure my boyfriend will be waiting for me too.</Dialog>
-          <Dialog>Yes, I'll tell her that too.</Dialog>
-          <Dialog>I have to support you too!</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲の友達だけど、ちゃんと彼氏に弁当作ってあげられたのかな。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>それがね、まだ何を作るか決められないみたい。</Dialog>
+          <Dialog>最初だから、完璧なものを食べて欲しいんだって。</Dialog>
+          <Dialog>もらう方は何だって嬉しいと思うけどな。</Dialog>
+          <Dialog>そうかもしれないけど……たしかに、考えすぎちゃうのは良くないよね。</Dialog>
+          <Dialog>きっと彼氏も待ってるよ。</Dialog>
+          <Dialog>うん、彼女にもそう言ってあげることにする。</Dialog>
+          <Dialog>私も応援しなくちゃね！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10724,18 +10724,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>She emailed me an email reporting. See, the girl said she was going to make lunch for her boyfriend.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Oh, finally? how was it?</Dialog>
-          <Dialog>My boyfriend said it was delicious and he ate it without any leftovers.</Dialog>
-          <Dialog>That's good.</Dialog>
-          <Dialog>I'm just happy about myself too. However...</Dialog>
-          <Dialog>yeah?</Dialog>
-          <Dialog>I was satisfied with that and didn't have to make lunches anymore.</Dialog>
-          <Dialog>Yeah? One-time only?</Dialog>
-          <Dialog>Yes, it's become a rare lunch box.</Dialog>
-          <Dialog>(Poor boyfriend...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>彼女がね、報告のメールをくれたの。ほら、カレシにお弁当を作るって言ってた子。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>お、ついにか。どうだった？</Dialog>
+          <Dialog>カレシはおいしいって、残さず食べてくれたって。</Dialog>
+          <Dialog>良かったな。</Dialog>
+          <Dialog>私もなんか自分のことみたいにうれしいの。ただね……。</Dialog>
+          <Dialog>ん？</Dialog>
+          <Dialog>それで満足しちゃって、もうお弁当は作らなくていいや、だって。</Dialog>
+          <Dialog>ええ？　一回限り？</Dialog>
+          <Dialog>そう、レア弁当になっちゃったの。</Dialog>
+          <Dialog>（かわいそうに、その彼氏……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10814,17 +10814,17 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The other day, you did a documentary about a large family, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, it would be tough to have such a family.</Dialog>
-          <Dialog>That's right. But I thought that having a large family means that there are many fun things.</Dialog>
-          <Dialog>▲Anegasaki*▲, is a large family ideal?</Dialog>
-          <Dialog>It's not that I'm ideal, but... I think it's okay to have lots of kids.</Dialog>
-          <Dialog>Wow...</Dialog>
-          <Dialog>what happened?</Dialog>
-          <Dialog>I think I should remember this kind of story properly.</Dialog>
-          <Dialog>Of course, I don't want to forget it, right?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>この前、大家族もののドキュメンタリーやってたでしょ？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、あんなに家族がいると、大変そうだよな。</Dialog>
+          <Dialog>そうね。でも、家族が多いのって、そのぶん楽しいことも多いんだなって思った。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、大家族が理想？</Dialog>
+          <Dialog>理想、っていうわけじゃないけど……子供はたくさんいてもいいかな。</Dialog>
+          <Dialog>へえ……。</Dialog>
+          <Dialog>どうしたの？</Dialog>
+          <Dialog>こういう話、ちゃんと覚えておいたほうがいいかなって。</Dialog>
+          <Dialog>もちろん、忘れちゃイヤよ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -10908,18 +10908,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>After watching TV with a large family, I start thinking about a lot. What kind of family is your ideal?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Is it a family... ● if there's ▲Anegasaki*▲...</Dialog>
-          <Dialog>This is unfair. Answer properly.</Dialog>
-          <Dialog>It's true, but... Well, I think it would be better to have a safe family.</Dialog>
-          <Dialog>I think it's absolutely necessary to be relieved too.</Dialog>
-          <Dialog>So, if you're there, ●, you'll feel relieved.</Dialog>
-          <Dialog>See you soon.</Dialog>
-          <Dialog>Because it's true.</Dialog>
-          <Dialog>I know, thank you. If I were you too... that's the same.</Dialog>
-          <Dialog>(Really!)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>大家族のテレビみてから、いろいろ考えちゃうの。どんな家庭が理想？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>家庭か……●は▲姉ヶ崎＊▲がいれば……。</Dialog>
+          <Dialog>こら、ずるいよ。ちゃんと答えて。</Dialog>
+          <Dialog>本当のことなんだけど……。まあ、安心できる家庭がいいよな。</Dialog>
+          <Dialog>私もホッとできるっていうのは絶対だと思う。</Dialog>
+          <Dialog>だからさ、●は▲姉ヶ崎＊▲がいれば、ホッとできるんだって。</Dialog>
+          <Dialog>もう、また。</Dialog>
+          <Dialog>本当のことだから。</Dialog>
+          <Dialog>わかってる、ありがとう。私もあなたがいれば……それは同じだから。</Dialog>
+          <Dialog>（ほんとに！）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -11003,18 +11003,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Before you have an ideal family, you should think about your ideal couple.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, a continuation of this time?</Dialog>
-          <Dialog>A large family is fine, but first of all, the relationship between the couple is basically the same, right?</Dialog>
-          <Dialog>I agree. Is it your ideal couple? This is also difficult. ▲Anegasaki*▲What?</Dialog>
-          <Dialog>Yes... I think the ideal couple who are both good friends will always be.</Dialog>
-          <Dialog>It's a bit too old and cute...</Dialog>
-          <Dialog>Why? I think it's wonderful to see elderly couples who often come to Dexis.</Dialog>
-          <Dialog>Ah, will you come to the store holding hands?</Dialog>
-          <Dialog>Yes, I think the two of them would be ideal.</Dialog>
-          <Dialog>(I wonder if I'm going to talk too much about the future...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>理想の家庭の前に、理想の夫婦を考えるべきよね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、この間の続き？</Dialog>
+          <Dialog>大家族もいいけれど、まず夫婦ふたりの関係が基本でしょ？</Dialog>
+          <Dialog>そうだね。理想の夫婦か……。これも難しいな。▲姉ヶ崎＊▲は？</Dialog>
+          <Dialog>そうね……、いつまでたっても、仲良しなかわいいふたりが理想かな。</Dialog>
+          <Dialog>年取って、かわいいってのも、ちょっとな……。</Dialog>
+          <Dialog>どうして？　よくデキシーズにいらっしゃる、高齢のご夫婦とか、ステキだと思うけど。</Dialog>
+          <Dialog>ああ、手をつないで来店する？</Dialog>
+          <Dialog>そう、あんなふたりが理想かな。</Dialog>
+          <Dialog>（ちょっと、先の話しすぎないかな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -11107,19 +11107,19 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Um... the last time.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The other day?</Dialog>
-          <Dialog>A story about a cute couple.</Dialog>
-          <Dialog>Yeah. what happened?</Dialog>
-          <Dialog>I think the ultimate ideal would be two of them, but what was your ideal a little while ago, when you were younger?</Dialog>
-          <Dialog>now.</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>My ideal now is, we go to school together, study together, and work part-time together. Hey, I want to be like these two forever.</Dialog>
-          <Dialog>I see...</Dialog>
-          <Dialog>Right? Every day you are in my ideal. So stay with me forever.</Dialog>
-          <Dialog>Leave it to me!</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あのさ……この前の話。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>この前？</Dialog>
+          <Dialog>かわいい夫婦の話。</Dialog>
+          <Dialog>うん。どうしたの？</Dialog>
+          <Dialog>最終的な理想は、あんなふたりだと思うけど、もう少し前の、ほら若いときの理想は？</Dialog>
+          <Dialog>今。</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>今がもう理想なの、一緒に学校行って、一緒に勉強して、一緒にバイトして。ね、ずーっとこんなふたりでいたいなって。</Dialog>
+          <Dialog>そっか……。</Dialog>
+          <Dialog>でしょ。あなたのいる毎日が、私の理想なの。だから、ずっと一緒にいてね。</Dialog>
+          <Dialog>任せとけ！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -11198,17 +11198,17 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Watching travel programs is the latest trend. You can see both local cuisine and beautiful scenery.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I understand that. When you watch it on TV, it looks delicious.</Dialog>
-          <Dialog>That makes me want to go there, but it's not possible to go anywhere far. Eat fresh fish at the fish market, or cook wild vegetables in the mountains...it's great.</Dialog>
-          <Dialog>Wow, ▲Anegasaki*▲ is quite an outdoor fan.</Dialog>
-          <Dialog>Hmm, what do you think? Maybe I just imagine it and enjoy it.</Dialog>
-          <Dialog>Reading a magazine makes you feel like you've travelled?</Dialog>
-          <Dialog>That's right. Thinking about how I hope I can go someday.</Dialog>
-          <Dialog>It looks like it's quite fun.</Dialog>
-          <Dialog>Even though it looks like this, I'm quite used to traveling. In the magazine, right?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>旅番組をみるのが、最近のブームなの。各地の郷土料理と、きれいな景色、どっちも見られるし。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>それ、わかる。テレビで観ると、美味しそうなんだよなあ。</Dialog>
+          <Dialog>それで、そこに行きたくなるんだけど、さすがに遠いところは無理なのよね。魚市場で新鮮なお魚を食べたり、山で山菜料理……いいよね。</Dialog>
+          <Dialog>へえ、▲姉ヶ崎＊▲は結構アウトドア派なんだ。</Dialog>
+          <Dialog>うーんどうかな。ただ、想像して楽しんでるだけかも。</Dialog>
+          <Dialog>雑誌を読んで、旅に行った気分になったり？</Dialog>
+          <Dialog>そうなの。いつか行けたらいいな、なんて考えて。</Dialog>
+          <Dialog>結構楽しそうだね。</Dialog>
+          <Dialog>こう見えても、かなり旅慣れてるんだよ。雑誌の中ではね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -11292,18 +11292,18 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The other day, I was introducing an event called Ekiben Festival on TV.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ekiben festival?</Dialog>
-          <Dialog>It was spectacular with all the station bentos from all over the country. Feeling like a train trip.</Dialog>
-          <Dialog>▲Anegasaki*▲It looks like fun.</Dialog>
-          <Dialog>Because everyone looked delicious.</Dialog>
-          <Dialog>▲Anegasaki*▲ What bento was the most interesting?</Dialog>
-          <Dialog>The best...it's a classic, but maybe squid rice. There are two cute squids filled with mochi rice.</Dialog>
-          <Dialog>Wow, it looks delicious.</Dialog>
-          <Dialog>It looked delicious. But it's a bit cute, so I guess it's a shame they'll eat it.</Dialog>
-          <Dialog>picture?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>この間、テレビで駅弁祭りってイベントを紹介してたの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>駅弁祭り？</Dialog>
+          <Dialog>全国の駅弁が一堂にそろってて、壮観だったよ。列車旅行の気分。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、楽しそうだね。</Dialog>
+          <Dialog>だって、みんなおいしそうだったんだもん。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲は何弁当が一番気になった？</Dialog>
+          <Dialog>一番か……定番だけど、イカめし、かな。餅米でぷっくり膨らんだ、かわいいイカが二杯はいってるの。</Dialog>
+          <Dialog>へえ、美味そう。</Dialog>
+          <Dialog>おいしそうだった。でも、ちょっと可愛くて、食べるのかわいそうかも。</Dialog>
+          <Dialog>え？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -11397,19 +11397,19 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I talked about the other day, I tried making squid rice at home.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Wow, how was it? Did it taste delicious?</Dialog>
-          <Dialog>Hmm, that's ok. But it's a bit different from what I imagined. What is it?</Dialog>
-          <Dialog>Is it something that's a bit lacking?</Dialog>
-          <Dialog>Yes, that's how it is.</Dialog>
-          <Dialog>That's probably... ▲Anegasaki*▲, where did you eat it?</Dialog>
-          <Dialog>picture? In the living room of my own home.</Dialog>
-          <Dialog>As expected.</Dialog>
-          <Dialog>What does that mean?</Dialog>
-          <Dialog>You have to eat outside, like that, or on the train.</Dialog>
-          <Dialog>Oh, that's what it is. That's difficult.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>この間話した、イカめしね、試しに家で作ってみたの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>へえ、どうだった？　美味くできた？</Dialog>
+          <Dialog>うーん、まあまあかな。でもイメージとなにか違うんだよね。なにかな？</Dialog>
+          <Dialog>ひと味足りないってやつ？</Dialog>
+          <Dialog>そう、そんな感じ。</Dialog>
+          <Dialog>それは、たぶん……、▲姉ヶ崎＊▲、どこで食べた？</Dialog>
+          <Dialog>え？　自分の家のリビングで。</Dialog>
+          <Dialog>やっぱりね。</Dialog>
+          <Dialog>どういうこと？</Dialog>
+          <Dialog>そういうのは外で食べないとさ、それこそ電車の中とか。</Dialog>
+          <Dialog>あ、そういうことか。それは難しいなあ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -11508,20 +11508,20 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Um, you said the other day that the taste of a dish is important, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, it's about Ekiben. The situation is really important.</Dialog>
-          <Dialog>Another important thing is, what do you think?</Dialog>
-          <Dialog>One more? ...What is it?</Dialog>
-          <Dialog>The answer is to make a lot.</Dialog>
-          <Dialog>Oh, you may have heard of it.</Dialog>
-          <Dialog>yes. Even if you make it using the same recipe, it's definitely tastier if you make plenty in a large pot or kettle.</Dialog>
-          <Dialog>But it's strange, why?</Dialog>
-          <Dialog>Even if you try it, you don't have the opportunity to try it. I hope you eat about 10 people.</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>I guess it's no good.</Dialog>
-          <Dialog>It's not possible...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あのね、この間料理の味は、どこで食べるかが重要って、言ってたでしょ？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、駅弁の話ね。やっぱりシチュエーションは大事だよな。</Dialog>
+          <Dialog>あともう一つ大事なこと、なんだと思う？</Dialog>
+          <Dialog>もう一つ？　……なんだろ？</Dialog>
+          <Dialog>答えはね、たくさん作ること。</Dialog>
+          <Dialog>あ、聞いたことあるかも。</Dialog>
+          <Dialog>そう。同じレシピで作ってもね、大きなお鍋やお釜でたっぷり作った方が断然美味しいんだって。</Dialog>
+          <Dialog>でも不思議だよな、なんでだろ。</Dialog>
+          <Dialog>試してみようにも、機会がないのよね。あなたが１０人前くらい食べてくれればいいんだけど。</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>ダメかなあ。</Dialog>
+          <Dialog>無理です……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -11600,17 +11600,17 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Dexis' matcha menu is popular, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Not only women, but male customers sometimes order it.</Dialog>
-          <Dialog>So I wonder if I can add more menu items. Matcha can be used in a variety of ways, whether hot or cold.</Dialog>
-          <Dialog>Are there so many different types of matcha sweets?</Dialog>
-          <Dialog>Yes, a lot. I immediately think of a matcha parfait or ice cream that might not work anymore.</Dialog>
-          <Dialog>It's weak in impact, isn't it?</Dialog>
-          <Dialog>Matcha is used in a variety of ways, so it will be difficult to make an impact from now on.</Dialog>
-          <Dialog>But then, if it's ▲Anegasaki*▲, wouldn't you be able to come up with it?</Dialog>
-          <Dialog>It's pressure to be expected, but I think I'll think about something and give it a presentation to the store manager.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>デキシーズで抹茶のメニューが人気でしょ？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>女性だけじゃなくて男性客も時々注文してるよな。</Dialog>
+          <Dialog>だから、もっとメニューを増やせないかなって。抹茶ならホットでもコールドでも、いろんな応用がきくし。</Dialog>
+          <Dialog>抹茶スイーツって、そんなに種類あるの？</Dialog>
+          <Dialog>うん、たくさん。すぐに思いつく、抹茶パフェとかアイスじゃもう通用しないかも。</Dialog>
+          <Dialog>インパクト弱いよね。</Dialog>
+          <Dialog>抹茶っていろんな使い方をされてるから、これからインパクトを出すのは難しそう。</Dialog>
+          <Dialog>でもそこは、▲姉ヶ崎＊▲なら、考え出せるんじゃないか？</Dialog>
+          <Dialog>あんまり期待されるとプレッシャーだけど、何か考えて店長にプレゼンしてみようかな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -11689,17 +11689,17 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>We didn't talk about matcha sweets.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Have you come up with something?</Dialog>
-          <Dialog>I still can't imagine it. So I recently started learning tea, thinking I would be studying properly.</Dialog>
-          <Dialog>Tea ceremony to think about sweets!!</Dialog>
-          <Dialog>There are customers who organize the classroom. I'm being asked to come for a limited time only. It's like experiential learning.</Dialog>
-          <Dialog>Even so, don't you even start studying? ●, ▲Anegasaki*▲, don't respect him.</Dialog>
-          <Dialog>Because that's not that big of a thing. That's a big deal.</Dialog>
-          <Dialog>However, when I talked to the store manager, he said he was quite positive about it. In that case, I wouldn't be able to make a presentation with an unsatisfactory attitude, right?</Dialog>
-          <Dialog>(▲Anegasaki*▲That's amazing...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>抹茶スイーツの話、したじゃない。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>何か考え付いた？</Dialog>
+          <Dialog>まだ、イメージが浮かばなくて。だから、ちゃんと勉強しておこうと思って、最近お茶を習い始めたの。</Dialog>
+          <Dialog>スイーツを考えるために茶道!!</Dialog>
+          <Dialog>お客様で教室を主催されてる方がいて。期間限定で、お邪魔させてもらってるの。体験学習みたいなものね。</Dialog>
+          <Dialog>それでも勉強まで始めるなんて●、▲姉ヶ崎＊▲のこと尊敬するな。</Dialog>
+          <Dialog>そんなたいしたことじゃないんだから。大げさね。</Dialog>
+          <Dialog>でも、店長に話してみたら、結構前向きに検討してくれるって。それならわたしも、中途半端な気持ちでプレゼンはできないでしょ？</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲すごいな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -11793,19 +11793,19 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's fun to start with tea. Each etiquette has a meaning.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It looks kind of strict but...</Dialog>
-          <Dialog>I thought so at first too. But that's not all. The heart of tea ceremony is like a customer service industry...</Dialog>
-          <Dialog>Wow.</Dialog>
-          <Dialog>At first I thought it would be a reference for sweets, but I feel like there is much more to learn.</Dialog>
-          <Dialog>If that were the case, Anegasaki*▲ would become even more perfect waitress.</Dialog>
-          <Dialog>I'm not aiming for it, but... I guess it's far from perfect.</Dialog>
-          <Dialog>yes?</Dialog>
-          <Dialog>That's right. The other day, my legs started to fall after a tea table and were numb...</Dialog>
-          <Dialog>Haha, ▲Anegasaki*▲But that's the case. Hahaha.</Dialog>
-          <Dialog>I'm laughing so much!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>お茶って始めてみると、面白いね。お作法の一つ一つにちゃんと意味があるの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>なんだか堅苦しそうだけど……。</Dialog>
+          <Dialog>私も最初はそう思ったよ。でもそれだけじゃないの。茶道の心って接客業みたいなところがあって……。</Dialog>
+          <Dialog>へえ。</Dialog>
+          <Dialog>最初はスイーツの参考にって思ってたけど、他にも学べることがたくさんある気がするな。</Dialog>
+          <Dialog>それなら、▲姉ヶ崎＊▲はさらに完璧なウェイトレスになるわけだ。</Dialog>
+          <Dialog>目指してるわけじゃないけど……完璧にはほど遠いかな。</Dialog>
+          <Dialog>そう？</Dialog>
+          <Dialog>そうよ。この前だってお茶の席のあと足がしびれて転んじゃって……。</Dialog>
+          <Dialog>はは、▲姉ヶ崎＊▲でもそんなことあるんだな。はははっ。</Dialog>
+          <Dialog>もうっ、笑いすぎ！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -11904,20 +11904,20 @@ Is this okay?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What happened to the matcha sweets?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Actually... I've already made a presentation to the store manager...</Dialog>
-          <Dialog>It wasn't good. But why?</Dialog>
-          <Dialog>I got a little too excited.</Dialog>
-          <Dialog>?</Dialog>
-          <Dialog>I learned tea and studied a lot by reading books, but it felt like it backfired.</Dialog>
-          <Dialog>Leave the important customers alone and enjoy yourself. I just thought of gorgeous and flashy sweets.</Dialog>
-          <Dialog>Oh...</Dialog>
-          <Dialog>It seemed like he was so out of control that he didn't even notice, so the manager was a little retreating. It's embarrassing to say the "heart of tea ceremony" yourself.</Dialog>
-          <Dialog>Well, this is also a learning experience.</Dialog>
-          <Dialog>Yes, this time it completely failed.</Dialog>
-          <Dialog>(▲Anegasaki*▲But this happens...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>抹茶スイーツの件、どうなった？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>実は……もう店長にプレゼンしたんだけど……。</Dialog>
+          <Dialog>ダメだったんだ。でもなんで。</Dialog>
+          <Dialog>ちょっと気合入れすぎちゃって。</Dialog>
+          <Dialog>？</Dialog>
+          <Dialog>お茶を習ったり、本を読んでたくさん勉強したんだけど、それが裏目に出ちゃった感じ。</Dialog>
+          <Dialog>肝心のお客様のことほっておいて、自分ばっかり楽しんじゃって。ただ豪華で派手なスイーツばっかり考えちゃった。</Dialog>
+          <Dialog>あらら……。</Dialog>
+          <Dialog>自分でも気づかないくらい暴走してたみたいで、店長ちょっと引いてた。自分で「茶道の心」なんて言っておいて、恥ずかしいな。</Dialog>
+          <Dialog>まあ、これも勉強になったってことで。</Dialog>
+          <Dialog>うん、今回は完全に失敗。</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲でもこんなことあるんだな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

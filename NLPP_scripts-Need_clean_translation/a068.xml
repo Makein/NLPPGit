@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<DBIN2 Key="792520289" Unknown="24">
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="792520289" Unknown="24">
   <Entries>
     <Entry Unknown0="3492232960" Unknown1="1453993861">
       <SDL2 Key="2370468395">
@@ -115,19 +115,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, tonight, "Hell's Bon Odori" will be airing on TV.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Hell... what?</Dialog>
-          <Dialog>Bon dance. It's called a masterpiece of cult horror. Would you like to see it together?</Dialog>
-          <Dialog>At night together? Movies on TV? That...but...</Dialog>
-          <Dialog>So it's decided.</Dialog>
-          <Dialog>Wait a minute, which room?</Dialog>
-          <Dialog>Each. I'll send an email when the opening begins.</Dialog>
-          <Dialog>Email... on your mobile phone?</Dialog>
-          <Dialog>yes. I watch the scenes and their thoughts on each other's screams by email. It's sure to be fun.</Dialog>
-          <Dialog>In short, is that a live broadcast?</Dialog>
-          <Dialog>Ah, I'm looking forward to the night of "Bon Odori in Hell."</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇ今日の夜、テレビで『地獄の盆踊り』が放送されるんだけど。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>地獄の……何？</Dialog>
+          <Dialog>盆踊り。カルトホラーの傑作って言われてるの。一緒に見ない？</Dialog>
+          <Dialog>夜、一緒に？　テレビで映画を？　その……いいけど……。</Dialog>
+          <Dialog>じゃあ、決まり。</Dialog>
+          <Dialog>ちょっと待って、どっちの部屋で？</Dialog>
+          <Dialog>それぞれの。オープニングが始まったらメールするね。</Dialog>
+          <Dialog>メール……ケータイの？</Dialog>
+          <Dialog>そう。シーンの感想やお互いの悲鳴なんかをメールで送りながら見るの。きっと楽しいから。</Dialog>
+          <Dialog>それって、要するに……実況中継？</Dialog>
+          <Dialog>ああ、『地獄の盆踊り』、今晩が楽しみ～。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -225,19 +225,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Oh yeah, the other day, "Bon Odori in Hell" was scary.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It felt like it was a comedy movie.</Dialog>
-          <Dialog>It was scary though. You've probably sent me emails like, "I'm a Zombie" or "I'm suddenly covered in blood."</Dialog>
-          <Dialog>Well, it was quite fun sending emails while watching the same movie.</Dialog>
-          <Dialog>So, late at night today, we'll be playing "Dracula Samurai: The Bat Sword" so why not watch it together again?</Dialog>
-          <Dialog>Based on the title, it feels like an incredible B-grade...</Dialog>
-          <Dialog>It's not B-grade.</Dialog>
-          <Dialog>...It's a B class, right?</Dialog>
-          <Dialog>I guess it's C or D, Hmm, Z.</Dialog>
-          <Dialog>That... will you see it?</Dialog>
-          <Dialog>together.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そうそう、この前の『地獄の盆踊り』怖かったねー。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>なんだかお笑い映画だったような。</Dialog>
+          <Dialog>怖かったくせに。『ゾンビでたー』とか『いきなり血まみれー』とかメール送って来たでしょ。</Dialog>
+          <Dialog>まあ、同じ映画を見ながらメールを送り合うって、けっこう楽しかった。</Dialog>
+          <Dialog>それでね、今日の深夜は、『ドラキュラ侍・蝙蝠剣』やるの、また一緒に見ない？</Dialog>
+          <Dialog>タイトルからにして、とんでもないＢ級のようなそんな気が……。</Dialog>
+          <Dialog>Ｂ級じゃないよ。</Dialog>
+          <Dialog>……Ｂ級でしょ？</Dialog>
+          <Dialog>Ｃ級かＤ級、うーん、Ｚ級かな。</Dialog>
+          <Dialog>それ……見るの？</Dialog>
+          <Dialog>一緒に。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -315,17 +315,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I wanted to hear that sword from Dracula Samurai, which I saw together before, why is it so vulnerable to salt?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The reason may not be clear unless you watched the previous film, "The Blood Slug."</Dialog>
-          <Dialog>Was there a previous one? Dracula and Slug don't have a uniformity, or rather, they don't have any similarities.</Dialog>
-          <Dialog>Both suck blood.</Dialog>
-          <Dialog>Slugs don't smoke.</Dialog>
-          <Dialog>It's because it's a "blood-sucking slug." Both have a common point of love for blood.</Dialog>
-          <Dialog>...I'm not satisfied.</Dialog>
-          <Dialog>Haha, do you need to be convinced?</Dialog>
-          <Dialog>(That may be the correct posture...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>聞きたかったんだけど、前に一緒に見た『ドラキュラ侍』のあの剣、なんで塩に弱いんだろ？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>その理由は、前作の『血を吸うナメクジ』を見てないとわからないかも。</Dialog>
+          <Dialog>前作があったのか……。ドラキュラとナメクジって統一性がないって言うか共通項もないし。</Dialog>
+          <Dialog>どっちも血を吸うよ。</Dialog>
+          <Dialog>ナメクジは吸わないんじゃ。</Dialog>
+          <Dialog>『血を吸うナメクジ』だから吸うの。どっちも血が大好きっていう共通項。</Dialog>
+          <Dialog>……納得いかない。</Dialog>
+          <Dialog>ふふ、納得する必要あるかな？</Dialog>
+          <Dialog>（たしかにそれが正しい姿勢かも……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -431,19 +431,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I bought the DVD of "Blood Sucking Slug" but will you watch it? I'll lend it to you.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Did you buy it? Or rather, that kind of thing was featured on DVD.</Dialog>
-          <Dialog>I'll take it to Dexis.</Dialog>
-          <Dialog>▲Anegasaki*▲Is it like that part-time job fees used on DVDs like that?</Dialog>
-          <Dialog>That's not the case. DVDs are usually rented.</Dialog>
-          <Dialog>But I bought the "Blood Sucking Slug."</Dialog>
-          <Dialog>You say you haven't seen it. If that's the case... I wanted to see it again too.</Dialog>
-          <Dialog>Should I watch DVDs while emailing them?</Dialog>
-          <Dialog>If you want to do that.</Dialog>
-          <Dialog>▲Anegasaki*▲ would ask you to do that.</Dialog>
-          <Dialog>That kind of way of being spoiled is like a child.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>『血を吸うナメクジ』のＤＶＤ、買ったんだけど見る？　貸してあげる。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>買ったの？　と言うか、そんなのＤＶＤで出てたんだ。</Dialog>
+          <Dialog>デキシーズに持って行くね。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲って、バイト代、そういうＤＶＤに使ってるとか？</Dialog>
+          <Dialog>そんなことないよ。ＤＶＤはいつもはレンタルだから。</Dialog>
+          <Dialog>でも『血を吸うナメクジ』は買っちゃったんだ。</Dialog>
+          <Dialog>あなたが見てないって言うし。それならって……私もまた見たかったし。</Dialog>
+          <Dialog>ＤＶＤでもメールしながら見たほうがいい？</Dialog>
+          <Dialog>あなたが、そうしたかったら。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲が「そうして」ってお願いしてくれたら。</Dialog>
+          <Dialog>そういう甘えかた、子供みたい。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -531,18 +531,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I don't think mobile phones have so many different features that they can't be used up all of them...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Even if you can watch TV, you won't be able to use it at school or at work.</Dialog>
-          <Dialog>I wish the features could be replaced. Instead of not needing this, just put something like this on it.</Dialog>
-          <Dialog>for example?</Dialog>
-          <Dialog>Maybe it's citrus.</Dialog>
-          <Dialog>...Is that a "function"?</Dialog>
-          <Dialog>You've always looked for citrus when you open a can of mackerel, right?</Dialog>
-          <Dialog>...I guess that's true.</Dialog>
-          <Dialog>I'm starting to think it would be convenient if a cell phone had a kankiri.</Dialog>
-          <Dialog>It might be useful, but... is it really convenient?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>携帯電話って色んな機能がありすぎて全部使い切れてないって思うんだけど……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>テレビが見られるっていっても学校やバイト先じゃ使えないし。</Dialog>
+          <Dialog>機能が取り替えられたらいいのにね。これが要らない代わりにこういうのを付けてって。</Dialog>
+          <Dialog>たとえば？</Dialog>
+          <Dialog>カンキリかな。</Dialog>
+          <Dialog>……それって「機能」？</Dialog>
+          <Dialog>あなただってサバ缶を開ける時に、カンキリどこだって探したことあるでしょ？</Dialog>
+          <Dialog>……それは、ある、かな。</Dialog>
+          <Dialog>ほーらカンキリが携帯電話に付いてたら便利だって思い始めてる。</Dialog>
+          <Dialog>便利かもしれないけど……本当に便利かなあ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -641,20 +641,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's right, I came up with another extra feature that would be great if it had a mobile phone.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Other than citrus?</Dialog>
-          <Dialog>This time, it's absolutely necessary, and everyone wonders why it's never been before.</Dialog>
-          <Dialog>I can't even imagine it.</Dialog>
-          <Dialog>signature stamp.</Dialog>
-          <Dialog>...Stamp? Where do you attach it to your mobile phone?</Dialog>
-          <Dialog>Have you ever been a little panicked when the courier arrives and finds you're somewhere in the seal?</Dialog>
-          <Dialog>...I guess that's true.</Dialog>
-          <Dialog>I'm starting to think that cell phones would be even more convenient if they had a seal on them.</Dialog>
-          <Dialog>So, where does the stamp fit on your phone?</Dialog>
-          <Dialog>That depends on the manufacturer, but it's good to have it stored when not in use.</Dialog>
-          <Dialog>(That's probably true, but that's the problem...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そうそう携帯電話にあったらいい追加機能、またひとつ思いついたの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>カンキリ以外？</Dialog>
+          <Dialog>今度のは絶対に必要なもの、どうして今までなかったのってみんなが思うくらい。</Dialog>
+          <Dialog>想像もつかないな。</Dialog>
+          <Dialog>印鑑。</Dialog>
+          <Dialog>……ハンコ？　携帯電話のどこにつけるの？</Dialog>
+          <Dialog>宅配便が来た時に、あれ、印鑑どこかなってちょっと慌てたこと、ない？</Dialog>
+          <Dialog>……それは、ある、かな。</Dialog>
+          <Dialog>ほーら印鑑が付いてたら携帯電話はもっと便利だって思い始めてる。</Dialog>
+          <Dialog>だから、ハンコ、携帯のどこに付くの？</Dialog>
+          <Dialog>それはメーカー次第だけど、使わない時は収納されてるのがいいよね。</Dialog>
+          <Dialog>（そりゃそうだろうけど、そういう問題じゃ……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -748,19 +748,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Don't you think that if a mobile phone with a seal is released it will become a huge hit?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>...I don't think so.</Dialog>
-          <Dialog>So what kind of features do you think would be good?</Dialog>
-          <Dialog>Given the shape of a mobile phone, it's probably electric shaving, and it's probably a great value for money for office workers and will become a hit.</Dialog>
-          <Dialog>I don't use that kind of function girl.</Dialog>
-          <Dialog>It might be quite convenient if it had a shoe spatula.</Dialog>
-          <Dialog>I'm probably a little reluctant to put things I use on my feet on my face.</Dialog>
-          <Dialog>What about the Phillips screwdriver?</Dialog>
-          <Dialog>That's also a feature that doesn't really matter to women.</Dialog>
-          <Dialog>That's difficult.</Dialog>
-          <Dialog>Isn't it a seal after all?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>印鑑付きの携帯電話、もし発売されたら大ヒット商品になると思わない？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……思わない。</Dialog>
+          <Dialog>だったらどんな機能があったらいいと思う？</Dialog>
+          <Dialog>携帯電話の形からすると電動髭剃りかな、サラリーマンにも重宝されてヒットするんじゃないか。</Dialog>
+          <Dialog>そんな機能女の人は使わないよ。</Dialog>
+          <Dialog>靴ベラが付いてたらけっこう便利かも。</Dialog>
+          <Dialog>いつも足に使うものを顔に当てるのはちょっと抵抗あるかな。</Dialog>
+          <Dialog>プラスドライバーは？</Dialog>
+          <Dialog>それも女の人はあまり関係ない機能かな。</Dialog>
+          <Dialog>難しいな。</Dialog>
+          <Dialog>やっぱり印鑑じゃない？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -856,18 +856,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Oh yeah, old cell phones were hanging from their shoulders.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What does it mean from the shoulder?</Dialog>
-          <Dialog>Like a shoulder bag. It also weighed about 3 kg.</Dialog>
-          <Dialog>I guess 3kg was also included in the iron array.</Dialog>
-          <Dialog>I think the bag really had the functionality. The contents were also sold as a set.</Dialog>
-          <Dialog>Wow.</Dialog>
-          <Dialog>You can put citrus, seals, electric shavings, shoe spatulas, and Phillips screwdrivers in place.</Dialog>
-          <Dialog>I see! I'm sure the clock, radio and camera were there. That's gradually fading...</Dialog>
-          <Dialog>It's now the smallest size. n/a.</Dialog>
-          <Dialog>(No way)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そうそう、昔の携帯電話って肩から下げてたんだって。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>肩からってどういうこと？</Dialog>
+          <Dialog>ショルダーバッグみたいに。重さも３キロくらいあったみたい。</Dialog>
+          <Dialog>３キロって、鉄アレイでも入ってたのかな。</Dialog>
+          <Dialog>本当にバッグの機能があったんじゃないかな。中身もセットになって売ってたんだって。</Dialog>
+          <Dialog>へえ。</Dialog>
+          <Dialog>それこそ、カンキリも印鑑も、電動髭剃りも、靴ベラもプラスドライバーも入れておけるよ。</Dialog>
+          <Dialog>そうか！　きっと時計もラジオもカメラもそこに入っていたんだな。それが少しずつ減って……。</Dialog>
+          <Dialog>今の小さなサイズになった。ふふ。</Dialog>
+          <Dialog>（んなわけないって）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -969,19 +969,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, I think so...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>what?</Dialog>
-          <Dialog>We're good friends, isn't it?</Dialog>
-          <Dialog>That's fine.</Dialog>
-          <Dialog>It's always the same. I'm still using almost the same shift at my part-time job.</Dialog>
-          <Dialog>They're separate during class though.</Dialog>
-          <Dialog>Hehe, it's a shame though. So it's the same with going to and from school.</Dialog>
-          <Dialog>...Is there something wrong?</Dialog>
-          <Dialog>Does it look like we're flirting?</Dialog>
-          <Dialog>I don't think it's worth worrying though... Did someone say something?</Dialog>
-          <Dialog>Yes, that's not the case.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、思うんだけど……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>なに？</Dialog>
+          <Dialog>私たちって仲がいいよね。</Dialog>
+          <Dialog>いいよ。</Dialog>
+          <Dialog>いつも一緒だよね。バイト先でも、ほとんど同じシフトにしてるし。</Dialog>
+          <Dialog>授業中は別々だけど。</Dialog>
+          <Dialog>ふふっ、残念だけどね。それでこうやって学校の行き帰りも一緒で。</Dialog>
+          <Dialog>……何か問題ある？</Dialog>
+          <Dialog>私たちってイチャイチャしているように見えるかな？</Dialog>
+          <Dialog>気にするほどじゃないと思うけど……。誰かに何か言われた？</Dialog>
+          <Dialog>ううん、そうじゃないの。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1098,21 +1098,21 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>...Why don't you walk a little further away? It might look like they're flirting.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>You said that before, what happened?</Dialog>
-          <Dialog>J miserable... I saw "The End of the World J-Marriage."</Dialog>
-          <Dialog>Ah, the masked murderer appears.</Dialog>
-          <Dialog>J-Mun comes to visit the lake one after another...</Dialog>
-          <Dialog>It's okay, it's not this lake.</Dialog>
-          <Dialog>J-Mun goes to New York, to space, and...</Dialog>
-          <Dialog>...?</Dialog>
-          <Dialog>The first thing that gets targeted is a flirting couple.</Dialog>
-          <Dialog>●Are you so flirting?</Dialog>
-          <Dialog>So I thought it would be dangerous if I did it.</Dialog>
-          <Dialog>Frat...</Dialog>
-          <Dialog>Ah, it's already dangerous, so leave.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>……もうちょっと、離れて歩かない？　イチャイチャしてるように見えちゃうかも。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>前もそんなこと言ってたな、何かあった？</Dialog>
+          <Dialog>Ｊ惨……。『終末Ｊ惨』を見たの。</Dialog>
+          <Dialog>ああ、仮面の殺人鬼が出てくる。</Dialog>
+          <Dialog>Ｊ惨が湖に遊びに来た若者たちを次々に……。</Dialog>
+          <Dialog>大丈夫だよ、ここ湖じゃないし。</Dialog>
+          <Dialog>Ｊ惨はニューヨークにも行くし、宇宙にも行っちゃうし、それに……。</Dialog>
+          <Dialog>……？</Dialog>
+          <Dialog>いつも真っ先に狙われるのはイチャイチャしてるカップルなんだよ。</Dialog>
+          <Dialog>●たち、そんなイチャイチャしてる？</Dialog>
+          <Dialog>だから、してたら危ないかなって。</Dialog>
+          <Dialog>イチャイチャ……。</Dialog>
+          <Dialog>ああもう、危ないから離れなさいっ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1234,22 +1234,22 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I've seen a few of the J-Mun series I mentioned before on TV.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The first thing that was targeted was a flirting couple, right?</Dialog>
-          <Dialog>The victims are a typical, stupid couple, huh?</Dialog>
-          <Dialog>A slut couple? in particular……?</Dialog>
-          <Dialog>First of all, don't laugh a lot together.</Dialog>
-          <Dialog>...We.</Dialog>
-          <Dialog>I'll be with you wherever you go.</Dialog>
-          <Dialog>...We?</Dialog>
-          <Dialog>We stayed together in a tent at camp.</Dialog>
-          <Dialog>I'm so scared that they're separate in such a place. You must be the same.</Dialog>
-          <Dialog>...●They're all stupid couples?</Dialog>
-          <Dialog>It fits the conditions.</Dialog>
-          <Dialog>It's not good, it's fun.</Dialog>
-          <Dialog>Hmm...</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>前に言ってたＪ惨シリーズなら、何作か●もテレビで見たけど。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>真っ先に狙われるのはイチャイチャしてるカップルだったでしょ？</Dialog>
+          <Dialog>イチャイチャ、って言うか典型的なバカップルだよな犠牲者たちは。</Dialog>
+          <Dialog>バカップル？　具体的には……？</Dialog>
+          <Dialog>まず、ふたりでよく笑うな。</Dialog>
+          <Dialog>……私たち。</Dialog>
+          <Dialog>どこに行くにも一緒にいたり。</Dialog>
+          <Dialog>……私たち？</Dialog>
+          <Dialog>キャンプで、ひとつのテントに一緒に泊まったり。</Dialog>
+          <Dialog>そんなところで別々なんて怖くてイヤだな。あなたが一緒じゃないと。</Dialog>
+          <Dialog>……●たち、バカップル？</Dialog>
+          <Dialog>条件には合っちゃうね。</Dialog>
+          <Dialog>いいんじゃない、楽しいし。</Dialog>
+          <Dialog>うーん……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1366,21 +1366,21 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>If J Miss comes out... you're the one who's worried about it.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>●? why.</Dialog>
-          <Dialog>The only survivors are girls, and all boys are wiped out.</Dialog>
-          <Dialog>▲Anegasaki*▲ would be fine if it was safe.</Dialog>
-          <Dialog>Not good! You have to save too.</Dialog>
-          <Dialog>●I don't want to die either, but... I wonder if it's about time to watch a movie other than J-san.</Dialog>
-          <Dialog>Yes, the 14th film I saw yesterday is the end of the series.</Dialog>
-          <Dialog>There were so many. Of course, if you watch it all, it will be affected...</Dialog>
-          <Dialog>▲The main character*▲. Stay healthy forever.</Dialog>
-          <Dialog>Oh, of course.</Dialog>
-          <Dialog>I definitely don't want to die.</Dialog>
-          <Dialog>Of course, I won't die, forever!</Dialog>
-          <Dialog>...It kind of looked like a stupid couple right now.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>もしＪ惨が出たら……心配なのは、あなたなんだよね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>●？　なんで。</Dialog>
+          <Dialog>生き残るのはいつも女の子で、男の子はみんな全滅なんだから。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲が無事ならいいじゃん。</Dialog>
+          <Dialog>よくない！　あなたも助からなきゃ。</Dialog>
+          <Dialog>●も死にたくないけど……あのさ、そろそろＪ惨以外の映画見たらどうかな。</Dialog>
+          <Dialog>うん、昨日観た１４作目でもうシリーズも終わりだし。</Dialog>
+          <Dialog>そんなにあったんだ。そりゃ全部見てたら影響受けるよな……。</Dialog>
+          <Dialog>▲主人公＊▲。ずっと元気でいてね。</Dialog>
+          <Dialog>おお、もちろん。</Dialog>
+          <Dialog>絶対、死んだらイヤだよ。</Dialog>
+          <Dialog>もちろん、死なないよ、ずっと！</Dialog>
+          <Dialog>……今の、なんだかバカップルっぽかったね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1483,20 +1483,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>You cook your own meals, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It's not every day though.</Dialog>
-          <Dialog>And then at convenience stores?</Dialog>
-          <Dialog>I think there are a lot of convenience stores... but sometimes I go to supermarkets too.</Dialog>
-          <Dialog>Don't you shop in the shopping district?</Dialog>
-          <Dialog>Shopping in the shopping district is like a wife, and I guess I'm embarrassed...</Dialog>
-          <Dialog>There are lots of great shops in the shopping district. Vegetables, fruits, and fish.</Dialog>
-          <Dialog>Regardless of the fruits, it's difficult to cook vegetables and fish.</Dialog>
-          <Dialog>Boil, bake, or stir-fried. Is it easy?</Dialog>
-          <Dialog>It's not easy. ...It would be a surprise if ▲Anegasaki*▲ would do it.</Dialog>
-          <Dialog>Hmm, what?</Dialog>
-          <Dialog>...It's nothing after all.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あなたって自炊してるんだよね？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>毎日じゃないけど。</Dialog>
+          <Dialog>あとはコンビニとかで？</Dialog>
+          <Dialog>コンビニが多いかな……たまにスーパーも行くけど。</Dialog>
+          <Dialog>商店街では買い物しないの？</Dialog>
+          <Dialog>商店街で買い物するってなんか奥さんみたいでさ、照れ臭いって言うか……。</Dialog>
+          <Dialog>商店街、いいお店いっぱいあるよ？　野菜も果物もお魚も。</Dialog>
+          <Dialog>果物はともかく、野菜も魚も、料理するの大変だし。</Dialog>
+          <Dialog>煮たり焼いたり炒めたり。簡単だよ？</Dialog>
+          <Dialog>簡単じゃないよ。……▲姉ヶ崎＊▲がやってくれるならともかく。</Dialog>
+          <Dialog>ん、なーに？</Dialog>
+          <Dialog>……やっぱなんでもない。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1590,19 +1590,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Are you eating properly with a nutritional balance in mind?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It's okay. It's not just at convenience stores, and even at Dexies, if you're late, you'll be served meals.</Dialog>
-          <Dialog>That's right, but I'm worried, it seems like it's unbalanced.</Dialog>
-          <Dialog>At school, I buy bread from the purchasing department. I also buy coffee and milk.</Dialog>
-          <Dialog>At a convenience store?</Dialog>
-          <Dialog>Canned mackerel... I'll buy some lunch boxes properly and think about the balance.</Dialog>
-          <Dialog>What do you think about a lunch box at a convenience store?</Dialog>
-          <Dialog>Yesterday was a fried chicken bento, so today was a tonkatsu bento, and that's how it was different.</Dialog>
-          <Dialog>Is there a difference between fried chicken and tonkatsu?</Dialog>
-          <Dialog>There are, they are completely different, birds and mammals. Chickens and pigs cries differently.</Dialog>
-          <Dialog>It's not a laughing matter anymore.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ちゃんと栄養のバランス考えて食べてる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>大丈夫だって。コンビニだけじゃないし、ほら、デキシーズでも遅番だと食事出るしさ。</Dialog>
+          <Dialog>そうだけど心配、バランス偏ってそう。</Dialog>
+          <Dialog>学校なら購買部でパン買うし。コーヒー牛乳も買う。</Dialog>
+          <Dialog>コンビニでは？</Dialog>
+          <Dialog>サバ缶とか……。ちゃんと弁当も買うし、バランス考えて。</Dialog>
+          <Dialog>コンビニのお弁当でどう考えて？</Dialog>
+          <Dialog>昨日は唐揚げ弁当だったから今日はトンカツ弁当、とか、そういうふうに差をつけて。</Dialog>
+          <Dialog>唐揚げとトンカツで差があるの？</Dialog>
+          <Dialog>あるよ、ぜんぜん違う、鳥類と哺乳類だし。鶏と豚は鳴き声も違うし。</Dialog>
+          <Dialog>もう、笑い事じゃないのに。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1701,19 +1701,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>When cooking rice, it says "up to the wrist."</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The amount of water you put into the rice that has been sharpened.</Dialog>
-          <Dialog>oh yeah. Oh, that kind of rough explanation is no good.</Dialog>
-          <Dialog>...It's been said for a long time that it's no good.</Dialog>
-          <Dialog>It's not the old days anymore, so I think it's not good to just believe in the old days.</Dialog>
-          <Dialog>...Did you cook for yourself?</Dialog>
-          <Dialog>Yeah.</Dialog>
-          <Dialog>...The rice has been cooked.</Dialog>
-          <Dialog>...It failed.</Dialog>
-          <Dialog>……Yeah.</Dialog>
-          <Dialog>I don't cry, I don't cry.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ご飯を炊くときにさ、「手首のところまで」ってあるじゃん。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>研いだお米に入れる水の量ね。</Dialog>
+          <Dialog>そうそう。あれ、そんなアバウトな説明じゃダメだよな。</Dialog>
+          <Dialog>……ダメって、昔からそう言われて。</Dialog>
+          <Dialog>今はもう昔じゃないんだから昔のこと信じてるだけじゃダメだって思うんだ。</Dialog>
+          <Dialog>……自炊したんだ？</Dialog>
+          <Dialog>うん。</Dialog>
+          <Dialog>……お米、炊いたんだ。</Dialog>
+          <Dialog>……失敗したんだ。</Dialog>
+          <Dialog>……うん。</Dialog>
+          <Dialog>泣かない、泣かない。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1812,20 +1812,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It's the legendary "up to the wrist" when cooking rice.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Legend?</Dialog>
-          <Dialog>It's fine to have a myth, but that's weird. Why do you all trust them? It's a big lie.</Dialog>
-          <Dialog>I don't think it's a lie though...</Dialog>
-          <Dialog>The hands of professional wrestlers and the hands of ● are about twice as different. "Up to the wrist" is a good standard!</Dialog>
-          <Dialog>You're using a recent rice cooker.</Dialog>
-          <Dialog>The latest model I bought when I moved. It's just electronic.</Dialog>
-          <Dialog>For those cases, you don't have to go out of your way to put your wrist and measure the amount of water, so just put the scale.</Dialog>
-          <Dialog>……picture?</Dialog>
-          <Dialog>The next one will be successful.</Dialog>
-          <Dialog>……Yeah.</Dialog>
-          <Dialog>It's okay, it's okay.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ご飯を炊くときの、あの「手首のところまで」の伝説だけどさ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>伝説？</Dialog>
+          <Dialog>神話でもいいんだけど、ヘンだよ。なんでみんな信用しているのかな？　大嘘なのに。</Dialog>
+          <Dialog>嘘じゃないと思うけど……。</Dialog>
+          <Dialog>プロレスラーの手と●の手、倍くらい違うよ。「手首まで」なんて基準としていいかげん！</Dialog>
+          <Dialog>あなたが使ってるの最近の炊飯器よね。</Dialog>
+          <Dialog>引っ越したときに買った最新型。電子なんとかってやつ。</Dialog>
+          <Dialog>そういうの、わざわざ手首を入れて水の量を計る必要なくて目盛りまで入れればＯＫで。</Dialog>
+          <Dialog>……え？</Dialog>
+          <Dialog>次は成功するから。</Dialog>
+          <Dialog>……うん。</Dialog>
+          <Dialog>大丈夫、大丈夫。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1935,19 +1935,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Do you have glass shoes?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Is there, where?</Dialog>
-          <Dialog>In the world of fairy tales. But no matter how you look at it, I don't think I can wear glass shoes...</Dialog>
-          <Dialog>oh dear……. Hmm, what do you think?</Dialog>
-          <Dialog>Thinking that the shoes are glass. ...Look, it's broken. It's broken.</Dialog>
-          <Dialog>It was tempered glass. It's like used for car windows or skyscraper windows.</Dialog>
-          <Dialog>It's a long time ago, so there's no such technique.</Dialog>
-          <Dialog>Hmm. So, what will happen?</Dialog>
-          <Dialog>The shards of glass shoes make the soles of my feet bloody... Ah, it's scary.</Dialog>
-          <Dialog>Is it a horror?</Dialog>
-          <Dialog>It's scary to think about the truth.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ガラスの靴ってあるよね？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あるかな、どこに？</Dialog>
+          <Dialog>童話の世界に。でもね、ガラスの靴ってどう考えても履けないと思うの……。</Dialog>
+          <Dialog>まあ……。うーん、どうだろ。</Dialog>
+          <Dialog>靴がガラスだって考えて。……ほら、割れた。割れちゃった。</Dialog>
+          <Dialog>強化ガラスだったんだよ。自動車の窓や高層ビルの窓に使うような。</Dialog>
+          <Dialog>大昔だからそんな技術はありません。</Dialog>
+          <Dialog>うーん。じゃあ、どうなるんだろ、</Dialog>
+          <Dialog>ガラスの靴の破片で足の裏は血まみれに……ああ、怖いっ。</Dialog>
+          <Dialog>ホラーか！</Dialog>
+          <Dialog>本当のことを考えると怖いなってこと。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2040,19 +2040,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I mentioned glass shoes before...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>My shoes are broken and my legs are covered in blood...</Dialog>
-          <Dialog>That's fine now. Well, the person who wears them was light, right?</Dialog>
-          <Dialog>What weight?</Dialog>
-          <Dialog>Yes, it's slim and lightweight enough to be fine even if you wear glass shoes.</Dialog>
-          <Dialog>So if I put them on, will they be covered in blood?</Dialog>
-          <Dialog>……picture?</Dialog>
-          <Dialog>Ah, I thought so.</Dialog>
-          <Dialog>I didn't think so. ▲Anegasaki*▲ can also be worn. Are you okay!</Dialog>
-          <Dialog>All lies. There's no way there's such a person.</Dialog>
-          <Dialog>(Of course I'm kidding...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>前にガラスの靴の話したけど……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>靴が割れて足が血まみれ……。</Dialog>
+          <Dialog>それはもういいって。あれさ、履く人間が軽かったんじゃない？</Dialog>
+          <Dialog>体重が？</Dialog>
+          <Dialog>うん、ガラスの靴を履いても大丈夫なくらい、スリムで軽量で。</Dialog>
+          <Dialog>じゃあ私が履いたら、やっぱり血まみれ？</Dialog>
+          <Dialog>……え？</Dialog>
+          <Dialog>あ、思った。</Dialog>
+          <Dialog>思ってないって。▲姉ヶ崎＊▲も履けるよ。大丈夫！</Dialog>
+          <Dialog>嘘ばっかり。そんな人間いるわけないもん。</Dialog>
+          <Dialog>（そりゃ元が冗談だしなあ……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2164,20 +2164,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>He's an invisible person, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Is there? Where?</Dialog>
-          <Dialog>Hehe, in the movie. If you could become transparent, what would you like to do?</Dialog>
-          <Dialog>●? When it becomes transparent...</Dialog>
-          <Dialog>Are you thinking something strange?</Dialog>
-          <Dialog>……not at all?</Dialog>
-          <Dialog>Oh, I think you need a lie detector rather than a way to become transparent.</Dialog>
-          <Dialog>I don't trust it.</Dialog>
-          <Dialog>Then the lie detector is activated. ...If you lie, I won't kiss you anymore.</Dialog>
-          <Dialog>....</Dialog>
-          <Dialog>...Just a little.</Dialog>
-          <Dialog>Hehe, here it is!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>透明人間っているよね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>いるかな？　どこに？</Dialog>
+          <Dialog>ふふ、映画の中に。もし透明になれたら、何をしたい？</Dialog>
+          <Dialog>●？　透明になったら……。</Dialog>
+          <Dialog>なにか変なこと考えてる？</Dialog>
+          <Dialog>……全然？</Dialog>
+          <Dialog>はあ、まずは透明になる方法より、嘘発見器が必要かな。</Dialog>
+          <Dialog>信用ないな。</Dialog>
+          <Dialog>じゃあ嘘発見器発動。……嘘ついたら、もうキスしてあげない。</Dialog>
+          <Dialog>……。</Dialog>
+          <Dialog>……ちょっとだけ。</Dialog>
+          <Dialog>ふふ、こら！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2284,20 +2284,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Come to think of it, is there anything you would like to do if ▲Anegasaki*▲ becomes transparent?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>A story about an invisible man? ...I think I practice swimming.</Dialog>
-          <Dialog>Swimming... why?</Dialog>
-          <Dialog>After all, it's embarrassing to practice swimming at this age.</Dialog>
-          <Dialog>It would be suspicious if only water splashes were coming up in the pool, it would be even more noticeable.</Dialog>
-          <Dialog>So, in an empty pool.</Dialog>
-          <Dialog>...In that case, it doesn't have to be transparent.</Dialog>
-          <Dialog>It would be a problem if someone came along the way.</Dialog>
-          <Dialog>Then it comes with a ●.</Dialog>
-          <Dialog>To the invisible man? Do you know exactly where you are?</Dialog>
-          <Dialog>I understand. ●But, there's no way we'll lose sight of ▲Anegasaki*▲.</Dialog>
-          <Dialog>Hehe, say something good.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そういえば▲姉ヶ崎＊▲は透明になれたら何かしたいことある？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>透明人間の話？　……私は泳ぎの練習かな。</Dialog>
+          <Dialog>泳ぎ……なんで？</Dialog>
+          <Dialog>だってこの年になって泳ぎの練習なんて、恥ずかしいよ。</Dialog>
+          <Dialog>プールで水飛沫だけ上がってたら怪しいよな、よけい目立つような。</Dialog>
+          <Dialog>じゃあ、誰もいないプールで。</Dialog>
+          <Dialog>……それなら透明じゃなくてもいいんじゃ。</Dialog>
+          <Dialog>途中で誰か来たら困るし。</Dialog>
+          <Dialog>じゃあ●が付いてる。</Dialog>
+          <Dialog>透明人間相手に？　どこにいるか、ちゃんとわかるかな。</Dialog>
+          <Dialog>わかるよ。●が、▲姉ヶ崎＊▲のこと見失うわけないし。</Dialog>
+          <Dialog>ふふっ、調子いいこと言って。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2395,19 +2395,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>If you recite a wish to a shooting star, it will come true, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It's the one that says you have to chant three times.</Dialog>
-          <Dialog>Yes, that's the problem.</Dialog>
-          <Dialog>Shooting stars are for a moment.</Dialog>
-          <Dialog>When I was little, I practiced tongue-in-chief.</Dialog>
-          <Dialog>Ah, I did it too.</Dialog>
-          <Dialog>Did it work?</Dialog>
-          <Dialog>I wanted a toy, but the product name is too long so it's not good. ▲Anegasaki*▲What?</Dialog>
-          <Dialog>A super pretty set of kids beads. I'll do my best just to say it once.</Dialog>
-          <Dialog>I see...</Dialog>
-          <Dialog>Hehe, then let's practice?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>流れ星に願いを唱えるとそれがかなうって言うよね？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>三回唱えないと～、ってやつね。</Dialog>
+          <Dialog>そう、問題はそこ。</Dialog>
+          <Dialog>流れ星って一瞬だからな。</Dialog>
+          <Dialog>小さい頃、早口言葉練習したんだけど。</Dialog>
+          <Dialog>ああ、●もした。</Dialog>
+          <Dialog>うまくいった？</Dialog>
+          <Dialog>オモチャが欲しかったんだけど商品名が長すぎてダメ。▲姉ヶ崎＊▲は？</Dialog>
+          <Dialog>キッズビーズのスーパープリティセット。一回言うだけで精一杯。</Dialog>
+          <Dialog>そっか……。</Dialog>
+          <Dialog>ふふ、じゃあ練習しよっか？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2504,19 +2504,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Speaking of which, are you practicing your wishes for shooting stars?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>……a.</Dialog>
-          <Dialog>He said he should practice ▲Anegasaki*▲, right?</Dialog>
-          <Dialog>When I think about it, there's nothing I want to ask for.</Dialog>
-          <Dialog>Is that so? See, clothes, DVDs, etc.</Dialog>
-          <Dialog>If you ask a shooting star, it must be a treasure that you can't buy in a store...</Dialog>
-          <Dialog>treasure?</Dialog>
-          <Dialog>Yes, and more. I already have that treasure, so it's fine.</Dialog>
-          <Dialog>What is that?</Dialog>
-          <Dialog>……this.</Dialog>
-          <Dialog>(...●?)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そう言えば、流れ星への願い事、練習してる？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>……あ。</Dialog>
+          <Dialog>練習しようって言い出したの▲姉ヶ崎＊▲だろ？</Dialog>
+          <Dialog>考えてみたら……お願いするほど欲しい物なんて、なくて。</Dialog>
+          <Dialog>そうなの？　ほら、服とかＤＶＤとか。</Dialog>
+          <Dialog>流れ星にお願いするなら、お店なんかじゃ買えない宝物じゃないと……。</Dialog>
+          <Dialog>宝物？</Dialog>
+          <Dialog>うん、それにね。その宝物はもう持ってるから、いいの。</Dialog>
+          <Dialog>それって、どんな？</Dialog>
+          <Dialog>……これ。</Dialog>
+          <Dialog>（……●？）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2619,20 +2619,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Sometimes when I remember it...it makes me excited.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What?</Dialog>
-          <Dialog>When I confessed to you...</Dialog>
-          <Dialog>●I was just happy though.</Dialog>
-          <Dialog>I was already feeling like jumping off the stage in Shimizu.</Dialog>
-          <Dialog>Shimizu's stage...</Dialog>
-          <Dialog>what happened?</Dialog>
-          <Dialog>When you actually see the stage in Shimizu, it's not that expensive.</Dialog>
-          <Dialog>So, wasn't my heart pounding a big deal?</Dialog>
-          <Dialog>No, not! That's not what it is.</Dialog>
-          <Dialog>It's expensive. It's extremely high, about 100 kilos.</Dialog>
-          <Dialog>(...100 kilos)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>たまに思い出すと……ドキドキしちゃう。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>何を？</Dialog>
+          <Dialog>あなたに……告白したときのこと。</Dialog>
+          <Dialog>●は、ただ嬉しかったけど。</Dialog>
+          <Dialog>もう、こっちは清水の舞台から飛び降りる気分だったのに。</Dialog>
+          <Dialog>清水の舞台……。</Dialog>
+          <Dialog>どうしたの？</Dialog>
+          <Dialog>清水の舞台ってさ、実際見てみると、そんなに高くないよな。</Dialog>
+          <Dialog>じゃあ私のドキドキも、大したことなかった？</Dialog>
+          <Dialog>違う違う！　そういうことじゃなくて。</Dialog>
+          <Dialog>高いもん。すっごく高い、１００キロくらい。</Dialog>
+          <Dialog>（……１００キロって）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2739,20 +2739,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's right, the stage in Shimizu is about 11 meters long.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>...It wasn't 100 kilos.</Dialog>
-          <Dialog>It's already messy!</Dialog>
-          <Dialog>Haha, sorry. If it's 11 meters, an action star would jump off.</Dialog>
-          <Dialog>It's impossible for a normal person. It would be a little safer if you lay down a mat.</Dialog>
-          <Dialog>If that's the case, then you might end up with a fracture or a sprain.</Dialog>
-          <Dialog>Not only will you have a mat, but you will also have a rescue bag to use for evacuation drills...</Dialog>
-          <Dialog>Maybe you use a ladder.</Dialog>
-          <Dialog>I'm worried about ladders because they're ladders. Tie a rope around my waist and then...</Dialog>
-          <Dialog>Umm... there's no need to actually jump off.</Dialog>
-          <Dialog>Hmm... if you jump down and scream "I love you!", wouldn't it be cool?</Dialog>
-          <Dialog>(...Really?)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そうそう、清水の舞台って約１１メートルなんだって。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……１００キロじゃなかったっけ。</Dialog>
+          <Dialog>もう、いじわる！</Dialog>
+          <Dialog>はは、ごめん。１１メートルだったら、アクションスターなら飛び降りちゃうな。</Dialog>
+          <Dialog>普通の人は無理だね。マットを敷けば、少しは安全かな。</Dialog>
+          <Dialog>それなら●でも骨折か捻挫ですむかも。</Dialog>
+          <Dialog>マットだけじゃなくて避難訓練で使う救助袋も用意して……。</Dialog>
+          <Dialog>なんなら梯子を使うとか。</Dialog>
+          <Dialog>梯子は梯子で心配。腰にザイルを結んで、あとは……。</Dialog>
+          <Dialog>えっと……実際に飛び降りなくてもいいよね。</Dialog>
+          <Dialog>うーん……飛び降りながら「好きだー！」って叫んでくれたら、かっこいいな？</Dialog>
+          <Dialog>（……ほんとか？）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<DBIN2 Key="3519403289" Unknown="86">
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="3519403289" Unknown="86">
   <Entries>
     <Entry Unknown0="3956962491" Unknown1="2882571388">
       <SDL2 Key="864943844">
@@ -41,13 +41,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Oh, what if. It's me, can you talk now?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, ▲Anegasaki*▲? it's okay.</Dialog>
-          <Dialog>Well, today... I'm going to cook dinner, so why not have a meal together at my house?</Dialog>
-          <Dialog>eat!</Dialog>
-          <Dialog>I have business today...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あ、もしもし。私だけど、今話せる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、▲姉ヶ崎＊▲？　大丈夫だよ。</Dialog>
+          <Dialog>あのね、今日なんだけど……晩ご飯作るから、私の家で一緒に食べない？</Dialog>
+          <Dialog>食べる！</Dialog>
+          <Dialog>今日は用事が……</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -76,11 +76,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I'll definitely go and eat!</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>good. So I'll go home first and prepare today, so why don't you come later?</Dialog>
-          <Dialog>OK.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>絶対食べに行くよ！</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>よかった。だったら今日は先に帰って準備してるから、あとで来てね？</Dialog>
+          <Dialog>オッケー。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -109,11 +109,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Of course, I'm going to eat!</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>real? That's good ♪ Then I'll prepare and wait, so see you later.</Dialog>
-          <Dialog>Ah, I'm looking forward to it.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そりゃ、食べに行くって！</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ほんと？　よかった♪　じゃあ準備して待ってるから、またあとでね。</Dialog>
+          <Dialog>ああ、楽しみにしてる。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -142,11 +142,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I have something to do today...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's right... that's a shame, but I'll see the next opportunity.</Dialog>
-          <Dialog>Yeah…….</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>今日は用事があるんだよな……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そうなんだ……それじゃ残念だけど、また次の機会ね。</Dialog>
+          <Dialog>うん……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -170,10 +170,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Good evening.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Ah, come ♪</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>こんばんはー。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あ、いらっしゃい♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -197,10 +197,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Come to think of it, isn't this the first time I've had someone eat at my house?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Is that so? Something...don't make me excited.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そういえば、私の家でご飯食べてもらうのって初めてじゃない？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだっけ。なんか……ドキドキするな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -224,10 +224,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Take your time today.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, thank you.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>今日はゆっくりしていってね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、ありがとう。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -246,8 +246,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Well, I want them to eat some of the dishes I've learned recently... I'll do that♪</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あのね、最近覚えた料理を食べてもらいたくて……それにするね♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -276,10 +276,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I'm thinking about the menu too, but I'll accept it if there's a request.</Dialog>
-          <Dialog>Leave it to us</Dialog>
-          <Dialog>Make a request</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>私のほうでも一応メニューは考えてるけど、リクエストがあれば受け付けるよ？</Dialog>
+          <Dialog>お任せで</Dialog>
+          <Dialog>リクエストする</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -298,8 +298,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>yes? If that's the case... I've learned some dishes recently, so I'll choose that.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そう？　だったら……最近覚えた料理があるから、それにするね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -318,8 +318,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Is it okay? So, I'll create something that you might like.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>いいの？　じゃあ、あなたが好きそうなもの考えて作るね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -333,8 +333,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>So maybe I'll request the ▲ menu▲.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>じゃあ、▲メニュー▲をリクエストしようかな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -353,8 +353,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, thank you for waiting. I'm confident in my work, so look forward to it♪</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>はーい、お待ちどうさま。自信作だから、期待してね♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -373,8 +373,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Thank you for waiting. Is it pretty good this time?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>お待たせ。今回は、まあまあの出来かな？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -393,8 +393,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Sorry for keeping you waiting. I might have failed a bit...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>待たせちゃってごめんね。少し失敗しちゃったかもしれないけど……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -413,8 +413,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I tried something a little new. What do you think?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ちょっと新しいのに挑戦したんだよ。どうかな？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -433,8 +433,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Today's dishes are made with my own arrangements. It's a little different from the others♪</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>今日の料理は私なりのアレンジを加えてるの。他とはひと味違うよ♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -453,8 +453,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, do you know you're adding a bit of your own arrangement?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、ちょっと自己流のアレンジを加えてるのわかる？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -473,8 +473,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I've arranged this a bit. The recipe is fine, but I also want to give it my own personality.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>これ、ちょっとアレンジしたの。レシピ通りもいいけど、私らしさも出したいから。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -493,8 +493,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Today's cooking is a bit more effort!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>今日の料理はちょっとひと手間加わってるんだよ♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -513,8 +513,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I hope they like my own style of dishes.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>私流のアレンジ料理、気に入ってくれるといいんだけど。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -533,8 +533,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I'm confident in Japanese cuisine.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>私ね、和食は自信あるんだよ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -553,8 +553,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>If it's Japanese cuisine, I'm sure I'm sure I'll be the least confident in my school.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>和食なら、学校でも誰にも負けない自信あるかな♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -573,8 +573,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I'm good at seasoning Japanese food. I'm sure it's tasty, right?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>私ね、和食の味付けは得意なの。きっと美味しいと思うよ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -593,8 +593,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I'm not saying it myself...Is he pretty good at making Western food?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>自分で言うのもなんだけど……洋食作るのは結構得意かな？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -613,8 +613,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I wonder if I'll open a Western restaurant? n/a</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>私、洋食屋さん開けそうかな？　ふふ♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -633,8 +633,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>If you eat the Western food I made, you won't be able to eat anything else anymore ♪</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>私の作った洋食を食べたら、もう他のは食べられなくなっちゃうんだから♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -653,8 +653,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Chinese food is confident. I think you'll tell me it's delicious too.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>中華なら自信があるの。あなたにも美味しいって言ってもらえると思うな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -673,8 +673,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I'm confident in the flavor of Chinese food. Does it take quite a lot of techniques?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>私、中華料理の味付けには自信あるの。結構テクニックがいるのよ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -693,8 +693,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Leave it to me if it's Chinese food ♪</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>中華料理なら私に任せて♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -713,8 +713,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I'm good at this type of cooking. You'll do it quite a bit, right? n/a.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>このタイプの料理は得意なの。結構やるでしょ？　ふふ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -733,8 +733,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Recently I've been fond of cooking this kind of dish. It's sure to be tasty, right?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>最近、こういう料理を作るのが好きなの。きっと美味しいよ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -753,8 +753,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>As I studied a lot, I started to get good at cooking like this. copper?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>色々勉強してたら、こういう料理が得意になってきたの。どう？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -773,8 +773,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>You can leave it to me with any dish♪ I'm confident that I'll make you say it's delicious ▼</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>どんな料理でも任せてくれていいよ♪　あなたに美味しいって言わせる自信はあるの▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -793,8 +793,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Recently, I've become able to make anything. Isn't it amazing?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>最近はなんでも作れるようになってきたの。すごいでしょ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -813,8 +813,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>copper? You're so happy to be a girlfriend who can make anything ▼</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>どう？　なんでも作れちゃうカノジョって、嬉しいでしょ▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -833,8 +833,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Japanese food is just a little different and it can get completely ruined... What do you think?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>和食って少し加減が違うだけで、全然ダメになっちゃうから……。どうかな？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -853,8 +853,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>When I cook Japanese food, I try to be specially polite, but...it's quite difficult.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>和食を作るときは特別丁寧さを心がけてるんだけど……なかなか難しくて。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -873,8 +873,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I want to make Japanese food that suits you... but it's not going well. But you did your best, so why not try it?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あなた好みの和食を作りたいのに……なかなか上手くいかなくて。でも、頑張ったから食べてみて？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -893,8 +893,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What are the key points about seasoning Western food? Tell me if it's not satisfied.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>洋食の味付けってどこにポイントがあるんだろう？　物足りなかったら言ってね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -913,8 +913,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I'm actually a bit disliked at making Western food... But I did my best to make you happy, didn't I?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>私ね、じつは洋食作るのちょっと苦手で……。だけどあなたに喜んでもらいたくて、一生懸命作ったからね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -933,8 +933,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Western food seems easy, so why is it so difficult? I wonder if he can cover it with love...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>洋食って簡単そうなのに、どうしてこんなに難しいんだろ？　愛情でカバーできてるかなぁ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -953,8 +953,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Chinese food is really difficult... I'm trying to get closer to your tastes as much as possible...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>中華料理って本当に難しくて……。少しでもあなたの好みに近づくように、努力はしてるんだけどね……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -973,8 +973,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>How can you determine the taste of Chinese noodles? I tried my best to make it, but I'm sorry if it didn't suit me, right?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>中華って、どうすれば味が決まるんだろう？　頑張って作ったけど、口に合わなかったらごめんね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -993,8 +993,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I tried so hard to make it... I wonder if it's okay? I might not like making Chinese noodles.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>一生懸命作ったんだけど……大丈夫かなぁ？　中華作るのって……苦手かも。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1013,8 +1013,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I wonder if I'm not suited to this kind of food? I'm filled with so much love...I'd be happy if they eat it.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>私って、こういう料理向いてないのかなぁ？　愛情はたっぷり込めてるから……食べてくれると嬉しいな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1033,8 +1033,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I tried so hard...I wonder if this doesn't suit your taste? I have to practice more about this type of cooking...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>頑張ったんだけど……これじゃあなたの口には合わないかな？　こういうタイプのお料理、もっと練習しなくちゃ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1053,8 +1053,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I still can't cook this kind of food well... But I did my best so I would be happy if you could eat it.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>こういう料理ってまだまだ上手にできないの……。でも頑張ったから、食べてもらえると嬉しいな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1073,8 +1073,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I've been feeling like I've been cooking slump lately... I thought it would improve a little if I put my love into it... what do you think?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>最近、料理がスランプみたい……。愛情を込めたら少しは良くなるかと思ったんだけど……どう？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1093,8 +1093,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I somehow can't really decide the seasoning... Will you still eat it?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>なんだか、味付けがピタッと決まらないの……。それでも食べてくれる？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1113,8 +1113,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I can't make something that I can bring out with confidence... Will you eat it?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>なかなか自信を持って出せるものが作れないんだけど……。食べてくれる？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1133,8 +1133,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, these are the matching dishes I received from you. Finally used ▼</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、あなたにもらったおそろいの食器だよ。やっと使えたね▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1153,8 +1153,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I like the dishes I received from you. It's kind of like that when they're lined up...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あなたにもらった食器、気に入ってるの。ふたつ並んでるとなんだか……ね▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1168,8 +1168,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, thank you for the meal.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>はぁ～、ごちそうさまでした。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1183,8 +1183,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(I felt a bit more powerful when I ate homemade food. I think something good would happen!)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（手料理食べたらなんか力がわいてきた。いいことありそう！）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1208,10 +1208,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, how was my meal? I think it was a good result.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(I'm sure I'm very confident...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、私のご飯どうだった？　いい出来だったと思うんだけど。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（たしかに、自信たっぷりなだけはあるよな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1235,10 +1235,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>So, how about the food I made? You can answer honestly ▼</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(It's a really impressive taste...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>さて、私の作ったご飯はどうだったかな？　素直に答えていいのよ▼</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（さすがの味ってとこか……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1262,10 +1262,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, what do you think of my home cooking? I only hear compliments... I see♪</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(I can only think of compliments though...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、私の手料理を食べた感想は？　褒め言葉しか聞きません……な～んてね♪</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（褒め言葉しか思いつかないけど……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1289,10 +1289,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, was it tasty?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(...it wasn't bad)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、美味しかった？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（……悪くなかったな）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1316,10 +1316,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Well... so maybe I'll ask you about the food?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(That's pretty...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>さて……じゃあ、料理の感想聞いちゃおうかな？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（それなりに……だよな）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1343,10 +1343,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, my home cooking... did it suit your taste?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(Well, that's right)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、私の手料理……あなたの口に合った？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（まあ、合ったよな）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1370,10 +1370,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>how was it? ...I'm not as confident as I listen to it.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(Well... it wasn't a success though)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>どうだった？　……聞くほど自信はないんだけどね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（まあ……成功とは言えない出来だったけど）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1397,10 +1397,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Sorry... today's cooking wasn't good, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(I can't say it's fine though...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ごめん……今日の料理はダメだったよね？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（いいとは言えないけど……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1424,10 +1424,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Sorry... I wanted to make something properly.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(You should say what you think...?)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ごめんね……ちゃんとしたの作ってあげたかったんだけど。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（感想言ったほうがいいよな……？）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1451,9 +1451,9 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>It was delicious</Dialog>
-          <Dialog>It was normal</Dialog>
-          <Dialog>Maybe it's a little different</Dialog>
+          <Dialog>美味しかった</Dialog>
+          <Dialog>普通だった</Dialog>
+          <Dialog>ちょっと違うかな</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1477,10 +1477,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Of course it was delicious!</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>on second thoughts? I thought you could say that ▼</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>もちろん、美味しかった！</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>やっぱり？　そう言ってもらえると思った▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1504,10 +1504,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It was really tasty.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's good ♪ I was relieved.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>すごく美味しかったよ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>よかったあ♪　ホッとしちゃった。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1531,10 +1531,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What a thing...it was delicious.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What!? It would be fine as long as they're being honest...</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>なんていうか……美味しかったよ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えっ!?　正直に言ってくれてるんなら、いいんだけど……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1558,10 +1558,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It was pretty tasty.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>yes? I was hoping they would be more pleased... but as long as it was delicious, that's fine.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>わりと美味しかったよ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そう？　もっと喜んでもらえるかと思ったんだけど……美味しかったんならいいの。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1585,10 +1585,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Well, I think it was delicious.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I see, thank you. good.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>まあ、美味しかったと思う。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そっか、ありがとう。よかった。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1612,10 +1612,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Isn't it good?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Really? I see...it was okay.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>よかったんじゃないかな？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ほんとに？　そうなんだ……大丈夫だったんだ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1639,10 +1639,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Is it a bit different to my preference?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What... is that so? I thought I did well but... I'll try again.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ちょっと、好みとは違うかな？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えっ……そうなの？　上手く出来たと思ったんだけど……また頑張るね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1666,10 +1666,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It was a bit different to my taste.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's right……. You have to study your preferences more.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>好みとは……ちょっと違ったかな。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そうなんだ……。もっとあなたの好みを研究しなくちゃダメだね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1693,10 +1693,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Certainly... it's not what I like.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's right... But this time I'll try to get closer to my liking.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>たしかに……好みとは違うかなぁ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>だよね……。でも、今度はもっと好みに近づけるように頑張るね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1730,12 +1730,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, it's lunchtime... Maybe it's better not to have a lunch box once in a while?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's right...</Dialog>
-          <Dialog>Lunch boxes are the best!</Dialog>
-          <Dialog>The dining room is good too</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、お昼なんだけど……たまにはお弁当じゃない方がいい？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだな……。</Dialog>
+          <Dialog>弁当が一番！</Dialog>
+          <Dialog>食堂もいいよな</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1759,10 +1759,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What are you talking about? Lunch boxes are the best.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Really? Then I'll make it without hesitation♪</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>なに言ってんだよ、お弁当が一番だって。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ほんとに？　じゃあ遠慮なく作ってきちゃうから♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1786,10 +1786,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's right. The school cafeteria might also be a good way to change your mood.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's right. That's always better than a lunch box.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだな。学食も気分転換になっていいかもな。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そうよね。いつもお弁当より、そのほうがいいよね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1828,12 +1828,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I have a question but... do you eat breakfast properly?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Hmm, I've eaten or not eaten well...</Dialog>
-          <Dialog>If it's fine, can I go and make it?</Dialog>
-          <Dialog>Have breakfast?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ちょっと質問だけど……あなたって、朝ごはんはちゃんと食べてる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ん～、しっかり食べたり食べなかったり……。</Dialog>
+          <Dialog>もしよかったらだけど、私が作りに行っちゃダメかな？</Dialog>
+          <Dialog>朝ごはんを？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1857,10 +1857,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey? I'd like to go and make breakfast again... what do you think?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Umm...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ？　また朝ごはん作りに行きたいんだけど……どうかな？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>えっと……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1879,8 +1879,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Make it</Dialog>
-          <Dialog>I'll do my best myself</Dialog>
+          <Dialog>ぜひ、作ってよ</Dialog>
+          <Dialog>自分で頑張る</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1904,10 +1904,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, come and make it.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I want to make it for you♪ Then I'll go next time, so I promise.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲さえ良ければ、ぜひ作りに来てよ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>私は作ってあげたいの♪　それじゃあ今度行くから、約束ね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1931,10 +1931,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>For breakfast... I'll do my best myself as much as possible.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's right... Yes, I understand. I'm rooting for you to work hard.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>朝ごはんは……なるべく自分で頑張るよ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そうなんだ……うん、わかった。あなたが頑張るの、応援してるね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1973,12 +1973,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I've been getting into making sweets lately. I want to feed you too, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>real? I'll be happy to eat it!</Dialog>
-          <Dialog>So I'll be making some super tasty next time, so look forward to it ▼</Dialog>
-          <Dialog>(What kind of sweets will come out?)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>私ね、最近お菓子作りに凝ってるの。あなたにも食べさせてあげたいんだけどな？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ほんと？　喜んで食べるよ！</Dialog>
+          <Dialog>じゃあ今度とびきり美味しいの作るから、楽しみにしててね▼</Dialog>
+          <Dialog>（どんなお菓子が出てくるんだろう？）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2012,12 +2012,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>you know what? I'm thinking I'd like to go to your house to cook dinner...but don't you mind?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Dinner?</Dialog>
-          <Dialog>It's not okay at all</Dialog>
-          <Dialog>sorry……</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あのね？　また、あなたのお家に晩ご飯を作りに行きたいなぁって思ってるんだけど……かまわない？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>晩ご飯？</Dialog>
+          <Dialog>全然かまわない</Dialog>
+          <Dialog>ごめん……</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2041,10 +2041,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's not okay at all.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's good ♪ I'll make some delicious food, so I'm looking forward to it ▼</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そんなの全然かまわないよ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>よかったぁ♪　じゃあ美味しいの作ってあげるから、期待しててね▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2068,10 +2068,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Sorry... I wanted to try my best myself as much as possible.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I see... sorry. But it's good to work hard on your own.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん……なるべく自分で頑張りたいと思ってたとこだから。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そっか……残念。だけど、自分で頑張るのはいいことだもんね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

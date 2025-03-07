@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<DBIN2 Key="4286124972" Unknown="15">
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="4286124972" Unknown="15">
   <Entries>
     <Entry Unknown0="259310861" Unknown1="1839467634">
       <SDL2 Key="1841968089">
@@ -81,20 +81,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Now, shall we go home?</Dialog>
-          <Dialog>(Ah, ▲Anegasaki*▲...)</Dialog>
-          <Dialog>I invite you to go home together</Dialog>
-          <Dialog>Go home alone</Dialog>
-          <Dialog>▲Anegasaki*▲!</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>Where to go home? Can we do it together?</Dialog>
-          <Dialog>We will be gratefully accept your invitation. n/a</Dialog>
-          <Dialog>I've had a lot to do, but today I have some business... sorry.</Dialog>
-          <Dialog>I see... See you later.</Dialog>
-          <Dialog>(disappointing……)</Dialog>
-          <Dialog>(Let's go home alone today...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>さて、帰るか。</Dialog>
+          <Dialog>（あ、▲姉ヶ崎＊▲……）</Dialog>
+          <Dialog>一緒に帰ろうと誘う</Dialog>
+          <Dialog>一人で帰る</Dialog>
+          <Dialog>▲姉ヶ崎＊▲！</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>帰るとこ？　一緒にいい？</Dialog>
+          <Dialog>お誘い、謹んでお受けいたします。ふふ▼</Dialog>
+          <Dialog>せっかくだけど、今日は用事があって……。ごめんなさい。</Dialog>
+          <Dialog>そっか……。それじゃ、また。</Dialog>
+          <Dialog>（残念……）</Dialog>
+          <Dialog>（今日は一人で帰ろう……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -198,23 +198,23 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Now, shall we go home?</Dialog>
-          <Dialog>(Ah, ▲Anegasaki*▲...)</Dialog>
-          <Dialog>I invite you to go home together</Dialog>
-          <Dialog>Go home alone</Dialog>
-          <Dialog>▲Anegasaki*▲!</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>Where to go home? Can we do it together?</Dialog>
-          <Dialog>Why?</Dialog>
-          <Dialog>Huh? it is…….</Dialog>
-          <Dialog>Hehe, I'm kidding. I'll go home together ▼</Dialog>
-          <Dialog>good. So let's go.</Dialog>
-          <Dialog>Hmm, bad timing. It's no good today.</Dialog>
-          <Dialog>I see... See you later.</Dialog>
-          <Dialog>(disappointing……)</Dialog>
-          <Dialog>(Let's go home alone today...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>さて、帰るか。</Dialog>
+          <Dialog>（あ、▲姉ヶ崎＊▲……）</Dialog>
+          <Dialog>一緒に帰ろうと誘う</Dialog>
+          <Dialog>一人で帰る</Dialog>
+          <Dialog>▲姉ヶ崎＊▲！</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>帰るとこ？　一緒にいい？</Dialog>
+          <Dialog>どうして？</Dialog>
+          <Dialog>えっ？　それは……。</Dialog>
+          <Dialog>ふふ、冗談よ。一緒に帰ってあげる▼</Dialog>
+          <Dialog>よかった。それじゃ、行こう。</Dialog>
+          <Dialog>んー、バッドタイミング。今日はダメなんだ。</Dialog>
+          <Dialog>そっか……。それじゃ、また。</Dialog>
+          <Dialog>（残念……）</Dialog>
+          <Dialog>（今日は一人で帰ろう……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -293,19 +293,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Now, shall we go home?</Dialog>
-          <Dialog>(Ah, ▲Anegasaki*▲...)</Dialog>
-          <Dialog>I invite you to go home together</Dialog>
-          <Dialog>Go home alone</Dialog>
-          <Dialog>▲Anegasaki*▲!</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>Where to go home? Can we do it together?</Dialog>
-          <Dialog>Yes, let's go. Hehe, good timing.</Dialog>
-          <Dialog>Sorry, I have something to do. Would you like to invite me again?</Dialog>
-          <Dialog>(disappointing……)</Dialog>
-          <Dialog>(Let's go home alone today...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>さて、帰るか。</Dialog>
+          <Dialog>（あ、▲姉ヶ崎＊▲……）</Dialog>
+          <Dialog>一緒に帰ろうと誘う</Dialog>
+          <Dialog>一人で帰る</Dialog>
+          <Dialog>▲姉ヶ崎＊▲！</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>帰るとこ？　一緒にいい？</Dialog>
+          <Dialog>うん、行こう。ふふ、グッドタイミング。</Dialog>
+          <Dialog>ごめーん、用事があるの。また誘って？</Dialog>
+          <Dialog>（残念……）</Dialog>
+          <Dialog>（今日は一人で帰ろう……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -384,19 +384,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Now, shall we go home?</Dialog>
-          <Dialog>(Ah, ▲Anegasaki*▲...)</Dialog>
-          <Dialog>I invite you to go home together</Dialog>
-          <Dialog>Go home alone</Dialog>
-          <Dialog>▲Anegasaki*▲.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>Where to go home? Can we do it together?</Dialog>
-          <Dialog>of course. thank you.</Dialog>
-          <Dialog>A little bit today... sorry.</Dialog>
-          <Dialog>(disappointing……)</Dialog>
-          <Dialog>(Let's go home alone today...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>さて、帰るか。</Dialog>
+          <Dialog>（あ、▲姉ヶ崎＊▲……）</Dialog>
+          <Dialog>一緒に帰ろうと誘う</Dialog>
+          <Dialog>一人で帰る</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>帰るとこ？　一緒にいい？</Dialog>
+          <Dialog>もちろん。よろしくお願いします。</Dialog>
+          <Dialog>今日はちょっと……。ごめんなさい。</Dialog>
+          <Dialog>（残念……）</Dialog>
+          <Dialog>（今日は一人で帰ろう……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -475,19 +475,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Now, shall we go home?</Dialog>
-          <Dialog>(Ah, ▲Anegasaki*▲...)</Dialog>
-          <Dialog>I invite you to go home together</Dialog>
-          <Dialog>Go home alone</Dialog>
-          <Dialog>▲Anegasaki*▲.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>Where to go home? Can we do it together?</Dialog>
-          <Dialog>That's right... If you really want to say that, that's fine, right?</Dialog>
-          <Dialog>There's something I have to stop by. Sorry.</Dialog>
-          <Dialog>(disappointing……)</Dialog>
-          <Dialog>(Let's go home alone today...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>さて、帰るか。</Dialog>
+          <Dialog>（あ、▲姉ヶ崎＊▲……）</Dialog>
+          <Dialog>一緒に帰ろうと誘う</Dialog>
+          <Dialog>一人で帰る</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>帰るとこ？　一緒にいい？</Dialog>
+          <Dialog>そうね……。どうしてもって言うなら、いいわよ？</Dialog>
+          <Dialog>ちょっと寄らなきゃいけないところがあるの。ごめんね。</Dialog>
+          <Dialog>（残念……）</Dialog>
+          <Dialog>（今日は一人で帰ろう……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -566,19 +566,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Now, shall we go home?</Dialog>
-          <Dialog>(Ah, ▲Anegasaki*▲...)</Dialog>
-          <Dialog>I invite you to go home together</Dialog>
-          <Dialog>Go home alone</Dialog>
-          <Dialog>▲Anegasaki*▲.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>Where to go home? Can we do it together?</Dialog>
-          <Dialog>I've already looked anxious. Of course, it's fine?</Dialog>
-          <Dialog>It's no good today. Is it again next time?</Dialog>
-          <Dialog>(disappointing……)</Dialog>
-          <Dialog>(Let's go home alone today...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>さて、帰るか。</Dialog>
+          <Dialog>（あ、▲姉ヶ崎＊▲……）</Dialog>
+          <Dialog>一緒に帰ろうと誘う</Dialog>
+          <Dialog>一人で帰る</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>帰るとこ？　一緒にいい？</Dialog>
+          <Dialog>もう、不安そうな顔しちゃって。もちろん、いいよ？</Dialog>
+          <Dialog>今日はダメなの。また今度ね？</Dialog>
+          <Dialog>（残念……）</Dialog>
+          <Dialog>（今日は一人で帰ろう……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -647,18 +647,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Now, shall we go home?</Dialog>
-          <Dialog>(Ah, ▲Anegasaki*▲...)</Dialog>
-          <Dialog>I invite you to go home together</Dialog>
-          <Dialog>Go home alone</Dialog>
-          <Dialog>▲Anegasaki*▲.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>Go home now? Let's go home together.</Dialog>
-          <Dialog>I want to do that, but... right now, I can't.</Dialog>
-          <Dialog>(I'm not in a bad mood...)</Dialog>
-          <Dialog>(Let's go home alone today...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>さて、帰るか。</Dialog>
+          <Dialog>（あ、▲姉ヶ崎＊▲……）</Dialog>
+          <Dialog>一緒に帰ろうと誘う</Dialog>
+          <Dialog>一人で帰る</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>今帰り？　一緒に帰ろうよ。</Dialog>
+          <Dialog>そうしたいけど……今は、無理。</Dialog>
+          <Dialog>（機嫌悪いな……）</Dialog>
+          <Dialog>（今日は一人で帰ろう……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -742,20 +742,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Now, shall we go home?</Dialog>
-          <Dialog>(Ah, ▲Anegasaki*▲...)</Dialog>
-          <Dialog>I invite you to go home together</Dialog>
-          <Dialog>Go home alone</Dialog>
-          <Dialog>▲Anegasaki*▲.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>Go home now? Let's go home together.</Dialog>
-          <Dialog>What are you planning?</Dialog>
-          <Dialog>Huh?</Dialog>
-          <Dialog>Please think about it carefully and start again.</Dialog>
-          <Dialog>(I'm not in a bad mood...)</Dialog>
-          <Dialog>(Let's go home alone today...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>さて、帰るか。</Dialog>
+          <Dialog>（あ、▲姉ヶ崎＊▲……）</Dialog>
+          <Dialog>一緒に帰ろうと誘う</Dialog>
+          <Dialog>一人で帰る</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>今帰り？　一緒に帰ろうよ。</Dialog>
+          <Dialog>どういうつもり？</Dialog>
+          <Dialog>えっ？</Dialog>
+          <Dialog>よーく考えて、出直してらっしゃい。</Dialog>
+          <Dialog>（機嫌悪いな……）</Dialog>
+          <Dialog>（今日は一人で帰ろう……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -839,20 +839,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Now, shall we go home?</Dialog>
-          <Dialog>(Ah, ▲Anegasaki*▲...)</Dialog>
-          <Dialog>I invite you to go home together</Dialog>
-          <Dialog>Go home alone</Dialog>
-          <Dialog>▲Anegasaki*▲.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>Go home now? Would you like to go home with me?</Dialog>
-          <Dialog>I don't like being a bad child.</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>If he doesn't become a good girl, I won't go home.</Dialog>
-          <Dialog>(I'm not in a bad mood...)</Dialog>
-          <Dialog>(Let's go home alone today...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>さて、帰るか。</Dialog>
+          <Dialog>（あ、▲姉ヶ崎＊▲……）</Dialog>
+          <Dialog>一緒に帰ろうと誘う</Dialog>
+          <Dialog>一人で帰る</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>今帰り？　一緒に帰らない？</Dialog>
+          <Dialog>悪い子とは嫌です。</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>いい子にならなきゃ、帰ってあげない。</Dialog>
+          <Dialog>（機嫌悪いな……）</Dialog>
+          <Dialog>（今日は一人で帰ろう……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -931,18 +931,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, ▲Anegasaki*▲.</Dialog>
-          <Dialog>I thought I had already gone home. If you like, won't you go home together?</Dialog>
-          <Dialog>Of course it's fine, let's go home together</Dialog>
-          <Dialog>Sorry, a bit more today...</Dialog>
-          <Dialog>Of course it's fine, let's go home together.</Dialog>
-          <Dialog>Yeah. I'm glad I waited.</Dialog>
-          <Dialog>Sorry, it's a bit bad today.</Dialog>
-          <Dialog>……disappointing. See you next time, right?</Dialog>
-          <Dialog>Yeah. Sorry.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あ、▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>もう帰っちゃったかと思ってた。よければ一緒に帰らない？</Dialog>
+          <Dialog>もちろんいいよ、一緒に帰ろう</Dialog>
+          <Dialog>ごめん、今日はちょっと……</Dialog>
+          <Dialog>もちろんいいよ、一緒に帰ろう。</Dialog>
+          <Dialog>うん。待っててよかった。</Dialog>
+          <Dialog>ごめん、今日はちょっとダメなんだ。</Dialog>
+          <Dialog>……残念。それじゃまた今度、ね？</Dialog>
+          <Dialog>うん。ごめんな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1021,18 +1021,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, ▲Anegasaki*▲.</Dialog>
-          <Dialog>Hey, don't you want to go home with me?</Dialog>
-          <Dialog>Of course I want to go home</Dialog>
-          <Dialog>Sorry, a bit more today...</Dialog>
-          <Dialog>Of course, I want to go home with him.</Dialog>
-          <Dialog>Yes, if that's the case, would you say you're going home?</Dialog>
-          <Dialog>Sorry, it's a bit bad today.</Dialog>
-          <Dialog>Is that so? It would be a shame not to be able to go home with Nene.</Dialog>
-          <Dialog>Yes, I'm really sorry.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あ、▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>ねぇ、私と一緒に帰りたくない？</Dialog>
+          <Dialog>もちろん、帰りたい</Dialog>
+          <Dialog>ごめん、今日はちょっと……</Dialog>
+          <Dialog>もちろん、一緒に帰りたい。</Dialog>
+          <Dialog>うん、それなら帰ってあげるとしますか。</Dialog>
+          <Dialog>ごめん、今日はちょっとダメなんだ。</Dialog>
+          <Dialog>そうなの？　寧々さんと帰れないなんて、もったいないなあ。</Dialog>
+          <Dialog>うん、ホントごめん。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1111,18 +1111,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, ▲Anegasaki*▲.</Dialog>
-          <Dialog>I met him. Let's go home together.</Dialog>
-          <Dialog>It's fine, let's go home together</Dialog>
-          <Dialog>Sorry, a bit more today...</Dialog>
-          <Dialog>Of course, let's go home together.</Dialog>
-          <Dialog>Yeah. Hehe, he looks happy ▼</Dialog>
-          <Dialog>Sorry, it's a bit bad today.</Dialog>
-          <Dialog>Oh, sorry. I'm sure the next one will be?</Dialog>
-          <Dialog>Yeah. I'm really sorry.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あ、▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>会えちゃった。一緒に帰りましょ。</Dialog>
+          <Dialog>いいよ、一緒に帰ろう</Dialog>
+          <Dialog>ごめん、今日はちょっと……</Dialog>
+          <Dialog>もちろん、一緒に帰ろう。</Dialog>
+          <Dialog>うん。ふふ、嬉しそうな顔しちゃって▼</Dialog>
+          <Dialog>ごめん、今日はちょっとダメなんだ。</Dialog>
+          <Dialog>あん、残念。次はきっとね？</Dialog>
+          <Dialog>うん。ホントごめんな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1171,13 +1171,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Good morning ▲Anegasaki*▲.</Dialog>
-          <Dialog>good morning. How are you doing?</Dialog>
-          <Dialog>Perfect.</Dialog>
-          <Dialog>good. So let's go.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>おはよう、▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>おはよう。調子はいかが？</Dialog>
+          <Dialog>バッチリ。</Dialog>
+          <Dialog>よかった。それじゃ、行きましょ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1230,13 +1230,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲. Good morning.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Good morning ▲Anegasaki*▲.</Dialog>
-          <Dialog>He looks sleepy.</Dialog>
-          <Dialog>I think so.</Dialog>
-          <Dialog>That's right. Be crispy.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。おはよ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>おはよう、▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>こら、眠そうな顔してるぞ。</Dialog>
+          <Dialog>そうかな。</Dialog>
+          <Dialog>そうだよ。シャキッとなさい。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1289,13 +1289,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲. good morning.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Good morning ▲Anegasaki*▲.</Dialog>
-          <Dialog>Well, will you go ahead and do your best today?</Dialog>
-          <Dialog>Yes, shall we go?</Dialog>
-          <Dialog>Let's go♪</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。おはよう。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>おはよう、▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>さて、今日も張り切って行きますか。</Dialog>
+          <Dialog>うん、行きますか。</Dialog>
+          <Dialog>レッツゴー♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

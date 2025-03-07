@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<DBIN2 Key="3015809762" Unknown="16">
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="3015809762" Unknown="16">
   <Entries>
     <Entry Unknown0="406868428" Unknown1="4089937830">
       <SDL2 Key="2200059825">
@@ -103,19 +103,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, do you pour sauce over curry rice?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I've heard it occasionally...Is there someone like that?</Dialog>
-          <Dialog>Yes... a bit strange.</Dialog>
-          <Dialog>I wonder if it will give off a sweet taste, it depends on the person. Some people say sashimi and mayonnaise.</Dialog>
-          <Dialog>That might not be surprising. After all, you see, it's like a carpaccio, right?</Dialog>
-          <Dialog>Carpaccio... is it French food?</Dialog>
-          <Dialog>Italian cuisine. Beef is the basics, but there are also a lot of sashimi.</Dialog>
-          <Dialog>Do you eat it with mayonnaise?</Dialog>
-          <Dialog>Mayonnaise sauce. So, mayonnaise itself might go well with sashimi.</Dialog>
-          <Dialog>●He...soy sauce is good for sashimi.</Dialog>
-          <Dialog>Hehe, me too.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇ、カレーライスにソースって、かける？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>たまに聞くけど……お客さんでそういう人いた？</Dialog>
+          <Dialog>うん……ちょっと不思議、って。</Dialog>
+          <Dialog>甘味が出るのかな、まあ人それぞれだよな。刺身にマヨネーズって人もいるし。</Dialog>
+          <Dialog>それは不思議じゃないかも。だって、ほら、カルパッチョみたいなものでしょ？</Dialog>
+          <Dialog>カルパッチョ……ってフランス料理だっけ。</Dialog>
+          <Dialog>イタリア料理。牛肉が基本だけど、お刺身系も多いから。</Dialog>
+          <Dialog>マヨネーズで食べるのか？</Dialog>
+          <Dialog>マヨネーズソースね。だから、マヨネーズ自体お刺身に合うのかも。</Dialog>
+          <Dialog>●は……刺身は醤油がいいけどな。</Dialog>
+          <Dialog>ふふっ、私も。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -203,18 +203,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It seems that curry rice and sauce were common in the past.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Is that so? How long ago was it in the past?</Dialog>
-          <Dialog>Huh, how was it? Are you more familiar with ▲Anegasaki*▲ like this?</Dialog>
-          <Dialog>Is that what I mean by aunt?</Dialog>
-          <Dialog>There's only one difference! See, it's from an old movie.</Dialog>
-          <Dialog>Movie...By the way...I think it's like the meal scene in "Graveyard on Third Street" was poured over curry sauce?</Dialog>
-          <Dialog>That kind of movie?</Dialog>
-          <Dialog>It was probably about 40 years ago.</Dialog>
-          <Dialog>See, I really know about the past.</Dialog>
-          <Dialog>I wonder if that's really praised.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>カレーライスにソースって昔は普通だったみたい。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そうなの？　昔ってどれくらい前？</Dialog>
+          <Dialog>あれ、どうだったかな。こういうの、▲姉ヶ崎＊▲の方が詳しくない？</Dialog>
+          <Dialog>それ、私がおばさんってこと？</Dialog>
+          <Dialog>ひとつしか違わないじゃん！　ほら、昔の映画とかでさ。</Dialog>
+          <Dialog>映画……そういえば……『三丁目の墓場』の食事シーンで、カレーにソースかけてたような？</Dialog>
+          <Dialog>それっていつの映画？</Dialog>
+          <Dialog>たしか４０年ぐらい前。</Dialog>
+          <Dialog>ほら、やっぱり昔のことに詳しい。</Dialog>
+          <Dialog>それ、本当にほめられてるのかなあ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -301,17 +301,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The curry and sauce may not be that surprising. There's even coffee in the frappe.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Frappe...shaved ice and coffee? Will the ice melt?</Dialog>
-          <Dialog>It's not hot, it's made into syrup...you know now.</Dialog>
-          <Dialog>It's like iced coffee is frozen. If it's shaved ice, how many ● should I pour it?</Dialog>
-          <Dialog>Hehe, all kids love strawberry syrup, right?</Dialog>
-          <Dialog>yes? So, I guess I'd get an adult if I pour soy sauce on it.</Dialog>
-          <Dialog>Frappe and soy sauce? Hehe.</Dialog>
-          <Dialog>Is it a sauce?</Dialog>
-          <Dialog>Hehe, already.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>カレーにソースもそんなに意外じゃないかも。フラッペにコーヒーだってあるんだし。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>フラッペ……かき氷にコーヒー？　氷が溶けちゃわない？</Dialog>
+          <Dialog>ホットじゃなくて、シロップになってて……もう、わかるでしょ。</Dialog>
+          <Dialog>アイスコーヒーが凍ったようなもんか。かき氷だったら、●は何かけるのがいいかな。</Dialog>
+          <Dialog>ふふっ、子供はみんなイチゴシロップが好きだよね？</Dialog>
+          <Dialog>そう？　じゃあ、醤油かければ大人かな。</Dialog>
+          <Dialog>フラッペに、お醤油？　ふふっ。</Dialog>
+          <Dialog>ソースか？</Dialog>
+          <Dialog>ふふっ、もう。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -403,18 +403,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I mentioned shaved ice before, but what syrup does ▲Anegasaki*▲ like?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hehe, what do you think? It's not strawberries, right?</Dialog>
-          <Dialog>Lemon, melon, green apple, grapefruit, pine, blueberries, Uji tea... what else happened?</Dialog>
-          <Dialog>Why don't you shoot a few? It's a shame, but they're all wrong.</Dialog>
-          <Dialog>Orange, ramune...I've all said that it's both general and minor. Suspend.</Dialog>
-          <Dialog>condensed milk.</Dialog>
-          <Dialog>Oh, I forgot! But, that's...</Dialog>
-          <Dialog>What, you look dissatisfied?</Dialog>
-          <Dialog>Isn't it more childish than strawberries?</Dialog>
-          <Dialog>Hehe, I like it.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>前に、かき氷の話出たけどさ、▲姉ヶ崎＊▲は何シロップが好きなの？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふふっ、なんだと思う？　イチゴじゃないよ？</Dialog>
+          <Dialog>レモン、メロン、青リンゴ、グレープフルーツ、パイン、ブルーベリー、宇治茶、……あと何があった？</Dialog>
+          <Dialog>数撃てば？　残念だけど、どれも外れ。</Dialog>
+          <Dialog>オレンジ、ラムネ……一般的なのもマイナーなのもみんな言ったよ。降参。</Dialog>
+          <Dialog>練乳。</Dialog>
+          <Dialog>あ、忘れてた！　でもさ、それって……。</Dialog>
+          <Dialog>何、不満そう？</Dialog>
+          <Dialog>イチゴより子供っぽくない？</Dialog>
+          <Dialog>ふふ、好きなんだもん。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -498,18 +498,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>There are animal protective colours, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, I'm trying to blend in with the environment.</Dialog>
-          <Dialog>What about pandas?</Dialog>
-          <Dialog>Panda...</Dialog>
-          <Dialog>What did the black and white pattern look like?</Dialog>
-          <Dialog>What are white and black? Is there a place like that? Oh, the zebras are black and white too.</Dialog>
-          <Dialog>That striped pattern is a protective color between trees.</Dialog>
-          <Dialog>So, pandas too?</Dialog>
-          <Dialog>I don't think it's that way because it's not striped.</Dialog>
-          <Dialog>So, what is it?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>動物の保護色ってあるじゃない？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、環境に溶け込むようにってやつ。</Dialog>
+          <Dialog>パンダは？</Dialog>
+          <Dialog>パンダ……。</Dialog>
+          <Dialog>あの白黒模様って、何に似せたのかな？</Dialog>
+          <Dialog>白と黒って……なんだ？　そんな場所あるのか、あ、シマウマも白黒か。</Dialog>
+          <Dialog>あのストライプ模様は木と木の間だと保護色になるんだよ。</Dialog>
+          <Dialog>それじゃパンダも？</Dialog>
+          <Dialog>ストライプ模様じゃないからそうはならないと思うけど。</Dialog>
+          <Dialog>それじゃ、なんだろう？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -597,18 +597,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I came up with something similar to the panda pattern.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Oh, what does that black and white look like?</Dialog>
-          <Dialog>Rice balls.</Dialog>
-          <Dialog>....</Dialog>
-          <Dialog>A rice ball with seaweed only on the bottom. You know the standard type of convenience store.</Dialog>
-          <Dialog>...I understand that though.</Dialog>
-          <Dialog>Panda doesn't look like a rice ball from afar?</Dialog>
-          <Dialog>But if it's a rice ball, it's even more like you'll be targeted by other animals...it's just food.</Dialog>
-          <Dialog>If they were to aim for it, they probably wouldn't eat rice balls because they were carnivorous animals.</Dialog>
-          <Dialog>Pandas only exist in China, and rice balls are Japanese... I'm starting to get confused.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>パンダの模様に似ているもの、思いついたの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>おお、あの白黒は何に似せてるんだ？</Dialog>
+          <Dialog>おにぎり。</Dialog>
+          <Dialog>……。</Dialog>
+          <Dialog>下のほうだけに海苔が付いたおにぎり。コンビニのスタンダード型、わかるでしょ。</Dialog>
+          <Dialog>……それはわかるけど。</Dialog>
+          <Dialog>パンダ、遠目から見たらおにぎりに見えない？</Dialog>
+          <Dialog>でも、おにぎりだったらよけい他の動物に狙われるような……だって食べ物なんだし。</Dialog>
+          <Dialog>狙うとしたら肉食の動物だろうからおにぎりは食べないんじゃないかな？</Dialog>
+          <Dialog>パンダって中国にしかいなくて、おにぎりって日本の物で……混乱してきた。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -687,17 +687,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I came up with something that resembles the panda pattern.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Other than rice balls?</Dialog>
-          <Dialog>Yes, police car.</Dialog>
-          <Dialog>mother. What's going on now?</Dialog>
-          <Dialog>Even poachers wouldn't get close to police cars.</Dialog>
-          <Dialog>Um, is Chinese police cars a black and white two-tone?</Dialog>
-          <Dialog>I don't know that much though.</Dialog>
-          <Dialog>Isn't the research too lenient? Fail, what?</Dialog>
-          <Dialog>Eh.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>パンダの模様に似ているもの、また思いついたの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>おにぎり以外で？</Dialog>
+          <Dialog>うん、パトカー。</Dialog>
+          <Dialog>はは。もう、何がなんだか。</Dialog>
+          <Dialog>パトカーなら密猟者だって近づかないでしょ。</Dialog>
+          <Dialog>えっと、中国のパトカーも白黒のツートンなのかな？</Dialog>
+          <Dialog>そこまではわからないけど。</Dialog>
+          <Dialog>調査が甘いんじゃない？　不合格、なんつって。</Dialog>
+          <Dialog>えー。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -789,18 +789,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>There's a horror film called "Forty-seven Pandas, Cursed Slayer."</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Of course it's not yet released.</Dialog>
-          <Dialog>I understand well. In that movie, pandas march through the snow...</Dialog>
-          <Dialog>It must be a scene of a raid.</Dialog>
-          <Dialog>yes. The white part of the panda is united with the snow, and the black part is thought to be just a shadow...no one notices it.</Dialog>
-          <Dialog>That theory is more convincing than rice balls and police cars.</Dialog>
-          <Dialog>Yeah. I think black and white is such a protective colour. The movie is also useful.</Dialog>
-          <Dialog>Yes, that's helpful. By the way, where will the panda be fired?</Dialog>
-          <Dialog>The Shinsengumi.</Dialog>
-          <Dialog>(...That movie is not helpful after all.)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>『パンダ四十七匹、呪いの討入』っていうホラー映画があるの。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>もちろん未公開だよね。</Dialog>
+          <Dialog>よくわかったね。その映画でね、雪の中をパンダが行進して来るんだけど……。</Dialog>
+          <Dialog>きっと討ち入りのシーンだな。</Dialog>
+          <Dialog>そう。パンダの白い部分は、雪と一体化して、黒い部分はただの影だと思われて……誰も気づかないの。</Dialog>
+          <Dialog>その説は、おにぎりやパトカーよりも説得力があるな。</Dialog>
+          <Dialog>うん。白黒ってそういう保護色なんだと思う。映画も役に立つよね。</Dialog>
+          <Dialog>うん、役に立つな。ところでそのパンダ、どこに討ち入りするの？</Dialog>
+          <Dialog>新撰組。</Dialog>
+          <Dialog>（……その映画、やっぱ参考にならない）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -906,19 +906,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, why are you a "green shop?"</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What is it... what does it mean?</Dialog>
-          <Dialog>I wonder if a "vegetable shop" or "fruit shop" is no good.</Dialog>
-          <Dialog>Fish is a "fish shop" and meat is a "butcher". Only the greengrocer... why?</Dialog>
-          <Dialog>Because there are 800 types? The number of vegetables and fruits.</Dialog>
-          <Dialog>In terms of numbers, there are quite a few fish too. It seems like meat can be counted though.</Dialog>
-          <Dialog>Beef, pork, chicken, and mutton... I think it's within the range that you can count even if you include horses and boars.</Dialog>
-          <Dialog>The other day I saw kangaroo meat at the supermarket.</Dialog>
-          <Dialog>Kangaroo? Are you going to eat it?</Dialog>
-          <Dialog>Apparently so.</Dialog>
-          <Dialog>Every animal must have equal lives... Still... a bit shocked.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇねぇ、どうして「八百屋さん」なのかな。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>どうしてって……どういうこと？</Dialog>
+          <Dialog>「野菜屋さん」や「果物屋さん」じゃだめなのかな。</Dialog>
+          <Dialog>魚は「魚屋」だし、肉は「肉屋」だよな。八百屋だけ……なんでだ？</Dialog>
+          <Dialog>八百種類あるから？　野菜と果物の数が。</Dialog>
+          <Dialog>数で言うなら魚もけっこうあるよな。肉は数えられそうだけど。</Dialog>
+          <Dialog>ビーフ、ポーク、チキン、あとはマトン……。馬や猪を入れても数えられる範囲かな。</Dialog>
+          <Dialog>この前、スーパーでカンガルーの肉って見た。</Dialog>
+          <Dialog>カンガルー？　食べちゃうの？</Dialog>
+          <Dialog>そうみたい。</Dialog>
+          <Dialog>どの動物だって、命は等しいはずだけど……。それでも……ちょっとショック。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1030,21 +1030,21 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Do you understand why you're called a "green shop" that I mentioned before?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I was thinking about it. Vegetables have been popular with Japanese people since ancient times.</Dialog>
-          <Dialog>It's anywhere in the world...</Dialog>
-          <Dialog>Especially Japanese people! Because they are farming people.</Dialog>
-          <Dialog>Well... that's right.</Dialog>
-          <Dialog>The close contact between vegetables and people, the integration of life, and the inevitable desires of life are born...</Dialog>
-          <Dialog>...A desire?</Dialog>
-          <Dialog>I decided to turn that off, so I put the same number. It's like the New Year's Eve bell.</Dialog>
-          <Dialog>...Hyakue?</Dialog>
-          <Dialog>Isn't it eighty-something about earthly desires?</Dialog>
-          <Dialog>Hundred eight.</Dialog>
-          <Dialog>Huh?</Dialog>
-          <Dialog>(Are you misunderstood...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>前に言ってた、「八百屋」って呼ばれる理由、わかった？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>私、考えてたの。野菜は、古くから日本人に親しまれてたよね。</Dialog>
+          <Dialog>それは世界中どこでも……。</Dialog>
+          <Dialog>日本人は特に！　農耕民族なんだから。</Dialog>
+          <Dialog>まあ……そうだね。</Dialog>
+          <Dialog>野菜と人との密着、生活との一体化、必然的に煩悩がうまれて……。</Dialog>
+          <Dialog>……煩悩？</Dialog>
+          <Dialog>それを打ち払うってことで同じ数にしたの。除夜の鐘みたいなもの。</Dialog>
+          <Dialog>……百八？</Dialog>
+          <Dialog>煩悩って八百でしょ？</Dialog>
+          <Dialog>百八。</Dialog>
+          <Dialog>ふふふ？</Dialog>
+          <Dialog>（勘違いか……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1121,16 +1121,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's about the greengrocer.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It's not worldly desires.</Dialog>
-          <Dialog>That's fine now. I think it has more to do with the benefits of vegetables.</Dialog>
-          <Dialog>Effective...it looks like a hot spring.</Dialog>
-          <Dialog>Vitamin C, Vitamin A... there are 100 benefits like these nutrients and diet effects.</Dialog>
-          <Dialog>So, "green shop"?</Dialog>
-          <Dialog>yes.</Dialog>
-          <Dialog>...Is that so?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>八百屋さんの件だけど。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>煩悩じゃないね。</Dialog>
+          <Dialog>もう、それはいいの。それより、野菜の効用に関係があると思うの。</Dialog>
+          <Dialog>効用……温泉みたいだ。</Dialog>
+          <Dialog>ビタミンＣ、ビタミンＡ……そういう栄養とダイエット効果みたいな効用が八百あって。</Dialog>
+          <Dialog>それで「八百屋」？</Dialog>
+          <Dialog>そう。</Dialog>
+          <Dialog>……そうかなあ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1213,17 +1213,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's about a greengrocer.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, the origin of the name?</Dialog>
-          <Dialog>I think it comes from the eight million people.</Dialog>
-          <Dialog>...Is it the number of gods?</Dialog>
-          <Dialog>yes. In short, there are many.</Dialog>
-          <Dialog>Hmm, that's what it is. Will you be doing some research and checking the answer soon?</Dialog>
-          <Dialog>It's fine, but... that's boring.</Dialog>
-          <Dialog>Is that what it is?</Dialog>
-          <Dialog>That's what it is. It's fun to think about things together.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>八百屋さんのことなんだけど。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、名前の由来？</Dialog>
+          <Dialog>八百万から由来してるんじゃないかな。</Dialog>
+          <Dialog>……神様の数だっけ？</Dialog>
+          <Dialog>そう。要するに、たくさんありますよってこと。</Dialog>
+          <Dialog>ふーん、それっぽいな。そろそろちゃんと調べて、答え合わせしてみる？</Dialog>
+          <Dialog>いいけど……それじゃつまらないよね。</Dialog>
+          <Dialog>そういうもの？</Dialog>
+          <Dialog>そういうもの。二人で色々考えるのが、楽しいんだもん。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1321,19 +1321,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Towano City has become a sister city.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I've heard of which country it was, in Europe...</Dialog>
-          <Dialog>Why are they called "sister cities"?</Dialog>
-          <Dialog>Is it because we're close after all?</Dialog>
-          <Dialog>If that's the case, it would be fine to have a best friend city.</Dialog>
-          <Dialog>Because cities are similar? Area, environment, and eco-friendly measures.</Dialog>
-          <Dialog>That might be possible. But why are they "sisters"?</Dialog>
-          <Dialog>What does that mean?</Dialog>
-          <Dialog>Why aren't they brothers?</Dialog>
-          <Dialog>...I wonder why. Seven wonders of the world?</Dialog>
-          <Dialog>Hehe, what do you think?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>とわの市って、どこかの姉妹都市になってるんだよね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>聞いたことあるな、どこの国だっけ、ヨーロッパの……。</Dialog>
+          <Dialog>どうして「姉妹都市」って呼ばれるのかな？</Dialog>
+          <Dialog>やっぱり、仲がいいから？</Dialog>
+          <Dialog>それだったら親友都市でもいいよね。</Dialog>
+          <Dialog>都市同士が似てるから？　面積とか環境とかあとエコ対策とか。</Dialog>
+          <Dialog>それはあるかも。だけど、「姉妹」なのはどうして？</Dialog>
+          <Dialog>どういうこと？</Dialog>
+          <Dialog>どうして、兄弟じゃないのかな。</Dialog>
+          <Dialog>……なんでだろ。世界七不思議？</Dialog>
+          <Dialog>ふふ、どうかな？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1436,20 +1436,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's right, it's about the "sisters" of the sister city...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, the Seven Wonders of the World.</Dialog>
-          <Dialog>It's not. I think the reason they are "sisters" is because they are more global standard.</Dialog>
-          <Dialog>standard?</Dialog>
-          <Dialog>See, world masterpieces aren't all "sisters."</Dialog>
-          <Dialog>Is that so?</Dialog>
-          <Dialog>Like "The Story of Hay."</Dialog>
-          <Dialog>Anything else?</Dialog>
-          <Dialog>Like illustrations of Nore Nore's sisters.</Dialog>
-          <Dialog>Hmm.</Dialog>
-          <Dialog>For this reason, "sisters" are the world standard.</Dialog>
-          <Dialog>(There are only two examples for the standard.)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そうだ、姉妹都市の「姉妹」のことだけど……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、世界七不思議。</Dialog>
+          <Dialog>違うよ。「姉妹」なのは、そっちのほうが世界標準だからだと思うの。</Dialog>
+          <Dialog>標準？</Dialog>
+          <Dialog>ほら、世界の名作って「姉妹」ばかりじゃない。</Dialog>
+          <Dialog>そうだっけ。</Dialog>
+          <Dialog>『干し草物語』とか。</Dialog>
+          <Dialog>ほかには？</Dialog>
+          <Dialog>ノレノワーノレの姉妹の絵とか。</Dialog>
+          <Dialog>うーん。</Dialog>
+          <Dialog>そんな理由で、「姉妹」は世界標準なの。</Dialog>
+          <Dialog>（標準にしては、例がふたつしかないな）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1537,18 +1537,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I've said before that world masterpieces are all "sisters."</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yeah.</Dialog>
-          <Dialog>What about "Fyodor's Brothers"?</Dialog>
-          <Dialog>Hehe, I'm getting mad. I looked it up.</Dialog>
-          <Dialog>Because I'm a library committee member.</Dialog>
-          <Dialog>But the brothers in the story aren't getting along well, they're heavy and gloomy.</Dialog>
-          <Dialog>Do you think cities and cities say, let's become like that kind of sibling?</Dialog>
-          <Dialog>...Maybe that isn't.</Dialog>
-          <Dialog>Wouldn't you be excited if you were invited to become a sister like "The Hay Tale"?</Dialog>
-          <Dialog>Certainly... is that a problem?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>前に、世界の名作は「姉妹」ばかりって言ってただろ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うん。</Dialog>
+          <Dialog>『フョードルの兄弟』は？</Dialog>
+          <Dialog>ふふっ、ムキになっちゃって。調べたんだ。</Dialog>
+          <Dialog>図書委員だからさ。</Dialog>
+          <Dialog>でもその話の兄弟って仲良くなくて、重いし、暗いし。</Dialog>
+          <Dialog>都市と都市が、そんな兄弟みたいになりましょう、って言うと思う？</Dialog>
+          <Dialog>……それは、ないかも。</Dialog>
+          <Dialog>『干し草物語』みたいな姉妹にならない、って誘われたらワクワクしない？</Dialog>
+          <Dialog>たしかに……って、そういう問題だっけ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1662,22 +1662,22 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>The name of the typhoon is a woman.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What's the story?</Dialog>
-          <Dialog>A story about sister cities. Come to think of it, I think the typhoon was a woman too.</Dialog>
-          <Dialog>Ah, the name of the hurricane.</Dialog>
-          <Dialog>Susie and Katrina were angry ▲Anegasaki*▲.</Dialog>
-          <Dialog>There's no last one.</Dialog>
-          <Dialog>Haha, well, that's it. This kind of thing really suits women than men.</Dialog>
-          <Dialog>Maybe it's because you're a boy?</Dialog>
-          <Dialog>Is that so?</Dialog>
-          <Dialog>All boys like cute girls, right?</Dialog>
-          <Dialog>Well. ●I also like it.</Dialog>
-          <Dialog>Hmm...</Dialog>
-          <Dialog>▲Like Anegasaki*▲.</Dialog>
-          <Dialog>I'm an idiot now.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>台風の名前って女だね。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>なんの話？</Dialog>
+          <Dialog>姉妹都市の話。そういえば台風も女だったなって。</Dialog>
+          <Dialog>ああ、ハリケーンの名前。</Dialog>
+          <Dialog>スージーとかカトリーナとか怒った▲姉ヶ崎＊▲とか。</Dialog>
+          <Dialog>最後のはない。</Dialog>
+          <Dialog>はは、まあそんなわけでさ。こういうのってやっぱ男より女の方がしっくりくるよね。</Dialog>
+          <Dialog>それはあなたが男の子だからかもよ？</Dialog>
+          <Dialog>そうかな？</Dialog>
+          <Dialog>男の子はみんな可愛い女の子好きだもんね？</Dialog>
+          <Dialog>まあね。●も好きだよ。</Dialog>
+          <Dialog>ふーん……。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲みたいな。</Dialog>
+          <Dialog>もう、ばか。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

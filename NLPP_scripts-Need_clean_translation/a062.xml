@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<DBIN2 Key="4023767743" Unknown="54">
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="4023767743" Unknown="54">
   <Entries>
     <Entry Unknown0="2088789868" Unknown1="1867012958">
       <SDL2 Key="4183018603">
@@ -118,23 +118,23 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(Oh, come to think of it, it's April Fool's Day today.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm, what's up?</Dialog>
-          <Dialog>(Okay, let's just take a quick look)</Dialog>
-          <Dialog>▲Anegasaki*▲. Actually, I'm thinking of quitting my part-time job at Dexis.</Dialog>
-          <Dialog>picture…….</Dialog>
-          <Dialog>(...I think I should have twisted it a little bit.)</Dialog>
-          <Dialog>That's it...</Dialog>
-          <Dialog>Why!?</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>Are you dissatisfied with the store? It's true that the store manager is a bit weird, but they're all nice people. The benefits aren't bad either.</Dialog>
-          <Dialog>it is…….</Dialog>
-          <Dialog>And... even though I'm there. Maybe that's the cause too?</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
-          <Dialog>...Seriously?</Dialog>
-          <Dialog>(I'm fine. I'll talk about it properly later)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（あ、そういえば今日エイプリルフールだ）</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ん、どうかした？</Dialog>
+          <Dialog>（よし、とりあえず軽くいっとくか）</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。実は●、デキシーズのバイトやめようと思うんだ。</Dialog>
+          <Dialog>え……。</Dialog>
+          <Dialog>（……さすがにもうちょっとひねればよかったかな）</Dialog>
+          <Dialog>あのさ……。</Dialog>
+          <Dialog>どうして!?</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>お店に不満がある？　たしかに店長はちょっとアレだけど、みんないい人だし。待遇だって悪くないでしょ。</Dialog>
+          <Dialog>それは……。</Dialog>
+          <Dialog>それに……私がいるのに。もしかして、それも原因なの？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>……まじ？</Dialog>
+          <Dialog>（まあいっか。あとでちゃんと話そう）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -267,31 +267,31 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(Heh, it's calm...)</Dialog>
-          <Dialog>(Yes, there's no misunderstanding of ▲Anegasaki*▲)</Dialog>
-          <Dialog>(Are you there...)</Dialog>
-          <Dialog>Store clerk A</Dialog>
-          <Dialog>Oh, there was. Hey, you're quitting your part-time job?</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>Store clerk B</Dialog>
-          <Dialog>That's a waste. You can wear a cute uniform here.</Dialog>
-          <Dialog>He's a man...</Dialog>
-          <Dialog>I'm just kidding now.</Dialog>
-          <Dialog>Um, what do you mean?</Dialog>
-          <Dialog>That's why.</Dialog>
-          <Dialog>Stop stop. I heard that from ▲Anegasaki*▲. Did you say anything else?</Dialog>
-          <Dialog>Hmm, I was angry, I was sad.</Dialog>
-          <Dialog>I see... sorry, a bit.</Dialog>
-          <Dialog>Manager</Dialog>
-          <Dialog>Ah, you. Are you going to stop? It's a problem, I have to recruit the next child.</Dialog>
-          <Dialog>(Let's leave the store manager alone...)</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>▲Anegasaki*▲. Listen, that's what I said earlier. That is...</Dialog>
-          <Dialog>a!</Dialog>
-          <Dialog>sorry. I have to go back. I'll ask you more when I finish my part-time job.</Dialog>
-          <Dialog>(Ah, what should I do...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（ふう、落ち着いたな……）</Dialog>
+          <Dialog>（そうだ、▲姉ヶ崎＊▲の誤解をとかないと）</Dialog>
+          <Dialog>（いないか……）</Dialog>
+          <Dialog>店員Ａ</Dialog>
+          <Dialog>あ、いた。ねえ、バイトやめるって？</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>店員Ｂ</Dialog>
+          <Dialog>もったいなーい。ここだと可愛い制服着れるのに。</Dialog>
+          <Dialog>彼、男だから……。</Dialog>
+          <Dialog>もう、冗談だってば。</Dialog>
+          <Dialog>えっと、どういうこと？</Dialog>
+          <Dialog>だから～。</Dialog>
+          <Dialog>ストップストップ。それ、▲姉ヶ崎＊▲から聞いたんだよね。他に何か言ってた？</Dialog>
+          <Dialog>んー、怒ってたような～、悲しんでたような～。</Dialog>
+          <Dialog>そっか……ごめん、ちょっと。</Dialog>
+          <Dialog>店長</Dialog>
+          <Dialog>あ、君。やめちゃうんだって？　困ったなー、次の子募集しないと。</Dialog>
+          <Dialog>（店長はほっておこう……）</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。聞いて、さっきの話。あれは……。</Dialog>
+          <Dialog>あ！</Dialog>
+          <Dialog>ごめん。私、戻らないと。バイト終わったら、詳しく聞くからね。</Dialog>
+          <Dialog>（はあ、どうしよ……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -446,24 +446,24 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
-          <Dialog>Now, talk about it properly?</Dialog>
-          <Dialog>Yes... sorry! Oh, that's a lie!</Dialog>
-          <Dialog>....</Dialog>
-          <Dialog>Of course... right?</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>It's April Fool's Day today.</Dialog>
-          <Dialog>Did you know?</Dialog>
-          <Dialog>Hehe, I was deceived. Those kids are all around too, right?</Dialog>
-          <Dialog>Then the store manager too...</Dialog>
-          <Dialog>Yes, the manager really believes. If I don't follow you later, I'll have to quit.</Dialog>
-          <Dialog>I see, haa... It was done.</Dialog>
-          <Dialog>Even if I lie, it's too simple. It's clearly a moment of thinking.</Dialog>
-          <Dialog>Yes, that's right...</Dialog>
-          <Dialog>Hehe, it's cute. Right, then, do you apologise for trying to deceive?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>さあ、ちゃんと話して？</Dialog>
+          <Dialog>うん……ごめん！　あれ、嘘なんだ！</Dialog>
+          <Dialog>……。</Dialog>
+          <Dialog>そりゃあ……そうよね？</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>今日、エイプリルフールだし。</Dialog>
+          <Dialog>知ってたの？</Dialog>
+          <Dialog>ふふ、騙された。あの子達もグルだよ？</Dialog>
+          <Dialog>じゃあ、店長も……。</Dialog>
+          <Dialog>ううん、店長は素で信じてる。あとでフォローしなきゃ、ほんとに辞めることになっちゃう。</Dialog>
+          <Dialog>そっか、はあ……。やられた。</Dialog>
+          <Dialog>嘘つくにしても、単純すぎ。明らかにその場の思いつきなんだもん。</Dialog>
+          <Dialog>うん、その通り……。</Dialog>
+          <Dialog>ふふ、かわいい。そうだな～じゃあ、騙そうとしたお詫びちょうだい？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -561,19 +561,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Come to think of it, it's Golden Week...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, come to think of it. What happened?</Dialog>
-          <Dialog>Yes, I heard it through rumors.</Dialog>
-          <Dialog>yeah?</Dialog>
-          <Dialog>Three days from May 3rd to May 5th. Every day, I kiss my lover...</Dialog>
-          <Dialog>Their relationship will progress dramatically.</Dialog>
-          <Dialog>A long kiss?</Dialog>
-          <Dialog>Yes, we've done it too... haven't you?</Dialog>
-          <Dialog>(I guess that's the one that lasts forever...)</Dialog>
-          <Dialog>Can we do it?</Dialog>
-          <Dialog>Oh, what do you think...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そういえばゴールデンウィークだけど……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、そういえばそうか。どうかしたの？</Dialog>
+          <Dialog>うん、噂で聞いたんだけど。</Dialog>
+          <Dialog>ん？</Dialog>
+          <Dialog>５月３日から５日までの３日間。毎日恋人となが～いキスをすると……。</Dialog>
+          <Dialog>二人の仲がぐ～っと進展するんだって。</Dialog>
+          <Dialog>なが～いキス？</Dialog>
+          <Dialog>うん、私たちもしたこと……あるでしょ？</Dialog>
+          <Dialog>（あのずっと続くやつかな……）</Dialog>
+          <Dialog>私たち、できるかな。</Dialog>
+          <Dialog>ど、どうだろ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -646,16 +646,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hehe, I did it.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>...What?</Dialog>
-          <Dialog>Golden Week kiss. You talked about it before, didn't you?</Dialog>
-          <Dialog>Ah, that!</Dialog>
-          <Dialog>I was doing that without realizing it anymore...</Dialog>
-          <Dialog>....</Dialog>
-          <Dialog>But this will really make your relationship progress, right?</Dialog>
-          <Dialog>(When you think about it, I feel like I've become more intimate with ▲Anegasaki*▲...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふふ、しちゃったね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……何を？</Dialog>
+          <Dialog>ゴールデンウィークのキス。前に話したでしょ？</Dialog>
+          <Dialog>ああ、あれか！</Dialog>
+          <Dialog>もう、気付かずに、あんなにしてたんだ……。</Dialog>
+          <Dialog>……。</Dialog>
+          <Dialog>でもこれで、二人の仲がぐ～っと進展しちゃうね？</Dialog>
+          <Dialog>（言われてみると、なんか▲姉ヶ崎＊▲ともっと親密になれた気がする……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -732,16 +732,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Ah, that was no good...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>...What?</Dialog>
-          <Dialog>If you don't remember, it's no good... Golden Week kiss.</Dialog>
-          <Dialog>Ah... that is it.</Dialog>
-          <Dialog>I was expecting quite a bit... already.</Dialog>
-          <Dialog>……sorry.</Dialog>
-          <Dialog>It's fine now.</Dialog>
-          <Dialog>(Maybe it failed...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>はあ、だめだった……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……何が？</Dialog>
+          <Dialog>覚えてないんじゃ、だめだよね……。ゴールデンウィークのキス。</Dialog>
+          <Dialog>あ……あれか。</Dialog>
+          <Dialog>結構期待してたのに……。もう。</Dialog>
+          <Dialog>……ごめん。</Dialog>
+          <Dialog>もういいです。</Dialog>
+          <Dialog>（失敗したかな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -838,20 +838,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(Today, the pool is open. Since it's jointly with another grade, ▲Anegasaki*▲ too...)</Dialog>
-          <Dialog>(▲Anegasaki*▲, I wonder if there is...)</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>▲Anegasaki*▲?</Dialog>
-          <Dialog>....</Dialog>
-          <Dialog>Is it... weird after all? I don't look good in a school swimsuit...</Dialog>
-          <Dialog>Yes! This is it, what's up!</Dialog>
-          <Dialog>What?</Dialog>
-          <Dialog>Yes yes!</Dialog>
-          <Dialog>If you say that, I'll think so. Hehe, then.</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
-          <Dialog>(I'm looking forward to the pool lessons in the future!)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（今日はプール開きだ。別の学年と合同だから、▲姉ヶ崎＊▲とも……）</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲、いるかな……）</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲？</Dialog>
+          <Dialog>……。</Dialog>
+          <Dialog>やっぱり……変？　私、スクール水着って似合わなくて……。</Dialog>
+          <Dialog>ううん！　これはこれで、おっけー！</Dialog>
+          <Dialog>おっけー？</Dialog>
+          <Dialog>うんうん！</Dialog>
+          <Dialog>あなたがそう言ってくれるなら、そう思うことにする。ふふ、じゃあね。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>（プールの授業、これからも楽しみだな！）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -944,20 +944,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(Today, the pool is open. Since it's jointly with another grade, ▲Anegasaki*▲ too...)</Dialog>
-          <Dialog>(▲Anegasaki*▲, I wonder if there is...)</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>▲Anegasaki*▲?</Dialog>
-          <Dialog>....</Dialog>
-          <Dialog>What are you looking at? You think it doesn't suit you anyway, right?</Dialog>
-          <Dialog>No, not!</Dialog>
-          <Dialog>So what?</Dialog>
-          <Dialog>It was so charming...it was captivating.</Dialog>
-          <Dialog>Hehe, well done.</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
-          <Dialog>(I'm looking forward to the pool lessons in the future!)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（今日はプール開きだ。別の学年と合同だから、▲姉ヶ崎＊▲とも……）</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲、いるかな……）</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲？</Dialog>
+          <Dialog>……。</Dialog>
+          <Dialog>何見てるの？　どうせ似合わないって思ってるんでしょ？</Dialog>
+          <Dialog>違う違う！</Dialog>
+          <Dialog>じゃあ、なあに？</Dialog>
+          <Dialog>すごく魅力的で……見とれてた。</Dialog>
+          <Dialog>ふふ、よくできました。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>（プールの授業、これからも楽しみだな！）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1050,20 +1050,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(Today, the pool is open. Since it's jointly with another grade, ▲Anegasaki*▲ too...)</Dialog>
-          <Dialog>(▲Anegasaki*▲, I wonder if there is...)</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>▲Anegasaki*▲?</Dialog>
-          <Dialog>....</Dialog>
-          <Dialog>Is this not your taste?</Dialog>
-          <Dialog>That's not the case... I like it.</Dialog>
-          <Dialog>real?</Dialog>
-          <Dialog>Yeah.</Dialog>
-          <Dialog>Hehe, that's good. Oh, and other findings are no good, right?</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
-          <Dialog>(I'm looking forward to the pool lessons in the future!)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（今日はプール開きだ。別の学年と合同だから、▲姉ヶ崎＊▲とも……）</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲、いるかな……）</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲？</Dialog>
+          <Dialog>……。</Dialog>
+          <Dialog>こういうのって、あなたの好みじゃないのかな？</Dialog>
+          <Dialog>そんなことない……その、好みだよ。</Dialog>
+          <Dialog>ほんと？</Dialog>
+          <Dialog>うん。</Dialog>
+          <Dialog>ふふ、よかった。あ、あと余所見はダメだからね？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>（プールの授業、これからも楽しみだな！）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1127,15 +1127,15 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, what's wrong?</Dialog>
-          <Dialog>I guess I should definitely go on a diet?</Dialog>
-          <Dialog>That's not necessary.</Dialog>
-          <Dialog>But there are so many kids who look better than me.</Dialog>
-          <Dialog>That's not true. It's not like just being thin.</Dialog>
-          <Dialog>...That's easy.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、どうした？</Dialog>
+          <Dialog>私、やっぱりダイエットした方がいいかな？</Dialog>
+          <Dialog>そんな、必要ないよ。</Dialog>
+          <Dialog>でも私よりスタイルいい子、いっぱいいるよ？</Dialog>
+          <Dialog>それは、違うよ。細けりゃいいってもんじゃないし。</Dialog>
+          <Dialog>……やさしいね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1207,15 +1207,15 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲. what?</Dialog>
-          <Dialog>Don't wear goggles.</Dialog>
-          <Dialog>Huh, why?</Dialog>
-          <Dialog>Because you can see it in the water, right? Like other kids' swimsuits.</Dialog>
-          <Dialog>Maybe that's true but... it's fine. I'm not interested in anything other than ▲Anegasaki*▲.</Dialog>
-          <Dialog>Hehe, thank you. Well then!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。何？</Dialog>
+          <Dialog>ゴーグルは、しちゃダメ。</Dialog>
+          <Dialog>え、なんで？</Dialog>
+          <Dialog>だって、水の中見えちゃうでしょ？　他の子の水着とか。</Dialog>
+          <Dialog>そうかもしれないけど……大丈夫だよ。▲姉ヶ崎＊▲以外は興味ないし。</Dialog>
+          <Dialog>うふふ、ありがと。じゃあよろしい！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1309,19 +1309,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲. what?</Dialog>
-          <Dialog>Often in swimming classes, teachers hold the child's hand and make him slurp.</Dialog>
-          <Dialog>Ah, there is. That's it?</Dialog>
-          <Dialog>Would you like to try a bit?</Dialog>
-          <Dialog>Who?</Dialog>
-          <Dialog>I.</Dialog>
-          <Dialog>to whom?</Dialog>
-          <Dialog>to you.</Dialog>
-          <Dialog>Please refrain...</Dialog>
-          <Dialog>Eh.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。何？</Dialog>
+          <Dialog>よく水泳教室とかで、先生が子供の手を持ってバタ足させるじゃない？</Dialog>
+          <Dialog>ああ、あるね。それが？</Dialog>
+          <Dialog>ちょっとやってみたいな？</Dialog>
+          <Dialog>誰が？</Dialog>
+          <Dialog>私が。</Dialog>
+          <Dialog>誰に？</Dialog>
+          <Dialog>あなたに。</Dialog>
+          <Dialog>遠慮しとく……。</Dialog>
+          <Dialog>えー。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1379,14 +1379,14 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>You're also cool in a swimsuit...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yeah? What's wrong, all of a sudden?</Dialog>
-          <Dialog>Huh... were I just making a loud noise?</Dialog>
-          <Dialog>Yes, it's clear...</Dialog>
-          <Dialog>Have you forgotten already? It's not that you don't have to forget, but don't think so strange, right?</Dialog>
-          <Dialog>Yes, it's okay. thank you…….</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あなたって、水着姿もかっこいい……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ええ？　どうしたの、急に。</Dialog>
+          <Dialog>あれ……今私、声に出してた？</Dialog>
+          <Dialog>うん、はっきり……。</Dialog>
+          <Dialog>もう、忘れて？　じゃなくて、忘れなくてもいいけど、変に思わないでね？</Dialog>
+          <Dialog>うん、大丈夫。ありがと……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1458,16 +1458,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(▲Anegasaki*▲...What's wrong, look around)</Dialog>
-          <Dialog>▲Anegasaki*▲.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>what happened? Something happened?</Dialog>
-          <Dialog>n/a. Well, I guess you're the coolest after all.</Dialog>
-          <Dialog>Yeah? I guess so, I wonder...</Dialog>
-          <Dialog>It's definitely because I'm saying it! hey?</Dialog>
-          <Dialog>(▲Anegasaki*▲...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲……どうしたんだろ、キョロキョロして）</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>どうしたの？　何かあった？</Dialog>
+          <Dialog>ふふ。あのね、やっぱりあなたが一番かっこいいかなって。</Dialog>
+          <Dialog>ええ？　そうかな、どうだろ……。</Dialog>
+          <Dialog>私が言うんだから間違いないの！　ね？</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1521,13 +1521,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Your swimsuit is...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>yeah?</Dialog>
-          <Dialog>It would be a shame to show it to other kids.</Dialog>
-          <Dialog>That's not the case... Or rather, that's this line.</Dialog>
-          <Dialog>Not anything.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あなたの水着姿って……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ん？</Dialog>
+          <Dialog>ちょっと他の子に見せるのもったいないな。</Dialog>
+          <Dialog>そんなことないよ……。というかそれはこっちの台詞じゃ。</Dialog>
+          <Dialog>なんでもない。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1605,17 +1605,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, there are bamboo hanging decorations in the shop, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, yes. That big guy.</Dialog>
-          <Dialog>Did you hang a strip of paper?</Dialog>
-          <Dialog>Come to think of it, I forgot. ▲Anegasaki*▲What?</Dialog>
-          <Dialog>Is it something too? I've been to this day, so I might write something.</Dialog>
-          <Dialog>Hmm, is it a wish?</Dialog>
-          <Dialog>So, if you have any ideas, let me know. hey?</Dialog>
-          <Dialog>Yes, I understand.</Dialog>
-          <Dialog>(I wonder if there's something...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、お店に笹飾り置いてるじゃない？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、うん。あのおっきいやつ。</Dialog>
+          <Dialog>あなたは、短冊吊るした？</Dialog>
+          <Dialog>そういや、忘れてた。▲姉ヶ崎＊▲は？</Dialog>
+          <Dialog>私もなんだよね。今日までだし、何か書こうかな。</Dialog>
+          <Dialog>うーん、願い事か。</Dialog>
+          <Dialog>じゃあ、何か思いついたら教えて。ね？</Dialog>
+          <Dialog>うん、わかった。</Dialog>
+          <Dialog>（何かあるかな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1712,19 +1712,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, ▲Anegasaki*▲. The story from earlier?</Dialog>
-          <Dialog>Yes, I was thinking about it... but don't you write about the two of us after all?</Dialog>
-          <Dialog>...What do you mean?</Dialog>
-          <Dialog>I hope you and I can be lovers and be happy forever.</Dialog>
-          <Dialog>I agree with the content, but do you think that's the bamboo grass in the store?</Dialog>
-          <Dialog>Yes, is it no good?</Dialog>
-          <Dialog>Of course that's... No matter how many people know, there's something shy about it.</Dialog>
-          <Dialog>Mmm. Does that mean I have no shame?</Dialog>
-          <Dialog>▲Anegasaki*▲!</Dialog>
-          <Dialog>(Oh no... I have to make up for it)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あ、▲姉ヶ崎＊▲。さっきの話？</Dialog>
+          <Dialog>うん、考えたんだけど……やっぱり私たち二人のこと、書かない？</Dialog>
+          <Dialog>……っていうと？</Dialog>
+          <Dialog>あなたと私が、ずっと恋人同士で、幸せでいられるようにって。</Dialog>
+          <Dialog>内容には賛成だけど、それを店の笹に？</Dialog>
+          <Dialog>うん、ダメかな？</Dialog>
+          <Dialog>さすがにそれは……。いくらみんな知ってても、●にも恥じらいってものが。</Dialog>
+          <Dialog>むー。私には恥じらいがないってこと？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲！</Dialog>
+          <Dialog>（しまった……こりゃ挽回しないと）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1813,20 +1813,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>....</Dialog>
-          <Dialog>(Uh, I'm angry...)</Dialog>
-          <Dialog>Well, I hanged a strip of paper. "They will be happy forever."</Dialog>
-          <Dialog>Oh, but...</Dialog>
-          <Dialog>I rented a stepladder and headed over the top of the bamboo grass. If that were the case, it would be impossible to see from below. Is this not okay?</Dialog>
-          <Dialog>Yes, I'm happy. Sorry, he cared about it. But me...</Dialog>
-          <Dialog>That's fine. I'm glad you were in a good mood.</Dialog>
-          <Dialog>Can I apologize?</Dialog>
-          <Dialog>what?</Dialog>
-          <Dialog>Let's kiss you?</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>……。</Dialog>
+          <Dialog>（う、怒ってる……）</Dialog>
+          <Dialog>あのさ、短冊吊るしてきた。「二人がずっと幸せに」……って。</Dialog>
+          <Dialog>え、でも……。</Dialog>
+          <Dialog>脚立借りて笹のてっぺんに。それだとさすがに下からは見えないから。これじゃ、ダメかな？</Dialog>
+          <Dialog>ううん、うれしい。ごめんね、気にしててくれてたんだ。なのに私……。</Dialog>
+          <Dialog>いいって。機嫌なおってよかった。</Dialog>
+          <Dialog>お詫び、してもいい？</Dialog>
+          <Dialog>何？</Dialog>
+          <Dialog>キス、しよ？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1889,15 +1889,15 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(It's over... It's a hassle to come to school just for this, it's a pain on school days...)</Dialog>
-          <Dialog>(But since I'm going to do it, I think I'll go to the ▲Anegasaki*▲...)</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>Oh, Anegasaki*▲. I was thinking about going there now.</Dialog>
-          <Dialog>Oh, is that so?</Dialog>
-          <Dialog>Yes, you've been ahead of you.</Dialog>
-          <Dialog>I see... haha, I'm kind of happy.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（終わった……。これだけのために学校来るなんて、面倒だな登校日は……）</Dialog>
+          <Dialog>（でもせっかくだし、▲姉ヶ崎＊▲のとこ行ってみようかな……）</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>あれ、▲姉ヶ崎＊▲。今そっちに行こうと思ってた。</Dialog>
+          <Dialog>あ、そうなの？</Dialog>
+          <Dialog>うん、先越されたな。</Dialog>
+          <Dialog>そっか……ふふ、なんかうれしい。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1970,17 +1970,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(It's over... It's a hassle to come to school just for this, it's a pain on school days...)</Dialog>
-          <Dialog>(Email...▲Anegasaki*▲)</Dialog>
-          <Dialog>"Come to my classroom?"</Dialog>
-          <Dialog>▲Anegasaki*▲.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hehe, you came often.</Dialog>
-          <Dialog>It's a little nervous about going into the upper class class.</Dialog>
-          <Dialog>I felt like watching you like that and was a bit mean.</Dialog>
-          <Dialog>Is that so?</Dialog>
-          <Dialog>Hehe, sorry, aren't you?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（終わった……。これだけのために学校来るなんて、面倒だな登校日は……）</Dialog>
+          <Dialog>（メール……▲姉ヶ崎＊▲だ）</Dialog>
+          <Dialog>「私の教室までおいで？」</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふふ、よく来られました。</Dialog>
+          <Dialog>上級生の教室入るのって、少し緊張するよ。</Dialog>
+          <Dialog>そんなあなたが見たくなって、ちょっと意地悪しちゃった。</Dialog>
+          <Dialog>そうなの？</Dialog>
+          <Dialog>ふふ、ごめんね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2047,16 +2047,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(It's over... It's a hassle to come to school just for this, it's a pain on school days...)</Dialog>
-          <Dialog>? ? ?</Dialog>
-          <Dialog>Hey!</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>▲Anegasaki*▲.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hehe, I called.</Dialog>
-          <Dialog>It was a bit embarrassing, of course.</Dialog>
-          <Dialog>on second thoughts? Me too. Hehe.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（終わった……。これだけのために学校来るなんて、面倒だな登校日は……）</Dialog>
+          <Dialog>？？？</Dialog>
+          <Dialog>おーい！</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふふ、呼んじゃった。</Dialog>
+          <Dialog>さすがにちょっと恥ずかしかった。</Dialog>
+          <Dialog>やっぱり？　私もちょっとね。ふふっ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2110,14 +2110,14 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(Hmm. That's a hassle, the day you go to school)</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>▲Anegasaki*▲.</Dialog>
-          <Dialog>I'll be able to meet you, so the day I go to school isn't bad either.</Dialog>
-          <Dialog>I see... If that was the case, it would have been worth coming.</Dialog>
-          <Dialog>Hehe, thank you for your hard work.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（うーん。面倒だな、登校日）</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>あなたに会えるから、登校日も悪くないな？</Dialog>
+          <Dialog>そっか……。それなら、来た甲斐があったよ。</Dialog>
+          <Dialog>ふふ、ご苦労様。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2179,14 +2179,14 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(Hmm. That's a hassle, the day you go to school)</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>▲Anegasaki*▲.</Dialog>
-          <Dialog>Are you full of stuff already? Straighten your back!</Dialog>
-          <Dialog>yes.</Dialog>
-          <Dialog>Hehe, oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh Cool▼</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（うーん。面倒だな、登校日）</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>もう、だらけてるぞ？　背筋伸ばす！</Dialog>
+          <Dialog>はい。</Dialog>
+          <Dialog>ふふ、おっけー。かっこいい▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2263,16 +2263,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(Hmm. That's a hassle, the day you go to school)</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>▲Anegasaki*▲.</Dialog>
-          <Dialog>Oh, I'm a little unwell. Are you a little off?</Dialog>
-          <Dialog>Hmm, maybe so.</Dialog>
-          <Dialog>Yes, I'll give you candy. keep it up.</Dialog>
-          <Dialog>Yes.</Dialog>
-          <Dialog>n/a.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（うーん。面倒だな、登校日）</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>あれ、ちょっと元気ない。休みぼけ？</Dialog>
+          <Dialog>んー、そうかも。</Dialog>
+          <Dialog>はい、飴あげる。がんばれ。</Dialog>
+          <Dialog>はーい。</Dialog>
+          <Dialog>ふふ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2378,20 +2378,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(Today is sports festival...)</Dialog>
-          <Dialog>(Hmm, it's getting quite lively)</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>▲Anegasaki*▲.</Dialog>
-          <Dialog>I was practicing, I was watching it properly. Wouldn't it be good to get results?</Dialog>
-          <Dialog>Yes, thank you.</Dialog>
-          <Dialog>I'll see everything when you leave. Show me something cool?</Dialog>
-          <Dialog>Hmm, that's pressure.</Dialog>
-          <Dialog>Oh, sorry. So...Look, relax, relax.</Dialog>
-          <Dialog>Yes...relax and relax.</Dialog>
-          <Dialog>Hehe, then please do your best.</Dialog>
-          <Dialog>(Okay, shall we do it!)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（今日は体育祭だ……）</Dialog>
+          <Dialog>（うーん、結構盛り上がってるな）</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>練習してたの、ちゃんと見てたよ。成果が出せるといいね？</Dialog>
+          <Dialog>うん、ありがと。</Dialog>
+          <Dialog>あなたが出るときはぜーんぶ見るからね。かっこいいとこ見せて？</Dialog>
+          <Dialog>んー、プレッシャーだな。</Dialog>
+          <Dialog>あれ、ごめん。じゃあ……ほら、リラックスリラックス。</Dialog>
+          <Dialog>うん……リラックスリラックス。</Dialog>
+          <Dialog>ふふ、じゃあがんばってね。</Dialog>
+          <Dialog>（よーし、やるか！）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2494,20 +2494,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(What's next sport?...)</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>▲Anegasaki*▲. what happened?</Dialog>
-          <Dialog>you know what. I was asked to replace them together.</Dialog>
-          <Dialog>Substitute? So it's difficult.</Dialog>
-          <Dialog>Yes, that's it. If possible, you're the best partner.</Dialog>
-          <Dialog>●?</Dialog>
-          <Dialog>Yes, I'm your partner, but I'll be your hindrance.</Dialog>
-          <Dialog>That's not the case. ●If that's fine.</Dialog>
-          <Dialog>real? thank you.</Dialog>
-          <Dialog>So let's practice lightly matching it before the performance.</Dialog>
-          <Dialog>Yes, please.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（次の競技、なんだっけ……）</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。どうしたの？</Dialog>
+          <Dialog>あのね。二人三脚の代役頼まれちゃった。</Dialog>
+          <Dialog>代役？　じゃあ、大変だ。</Dialog>
+          <Dialog>うん、それでね。できれば、パートナーはあなたがいいの。</Dialog>
+          <Dialog>●？</Dialog>
+          <Dialog>うん、私がパートナーじゃ、あなたの足手まといになっちゃうけど。</Dialog>
+          <Dialog>そんなことないよ。●でよければ。</Dialog>
+          <Dialog>ほんと？　ありがとう。</Dialog>
+          <Dialog>じゃあ本番前に軽く合わせる練習しとこう。</Dialog>
+          <Dialog>うん、お願い。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2603,18 +2603,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, this is fine.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes, thank you. I'm there...</Dialog>
-          <Dialog>Sorry, I fell.</Dialog>
-          <Dialog>That's fine. ▲Anegasaki*▲ is glad that there was no injuries.</Dialog>
-          <Dialog>thank you. instead of me…….</Dialog>
-          <Dialog>never mind. ...But why not the classroom, not the health room?</Dialog>
-          <Dialog>I had emergency equipment. And...</Dialog>
-          <Dialog>?</Dialog>
-          <Dialog>You can be alone with us, right? You were just so cool, right?</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>はい、これでよし。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん、ありがと。いてて……。</Dialog>
+          <Dialog>ごめんね、私が転んじゃったから。</Dialog>
+          <Dialog>いいよ。▲姉ヶ崎＊▲にケガがなくてよかった。</Dialog>
+          <Dialog>ありがと。私の代わりに……。</Dialog>
+          <Dialog>気にしないで。……でもなんで、保健室じゃなくて教室？</Dialog>
+          <Dialog>救急道具、持ってたし。それに……。</Dialog>
+          <Dialog>？</Dialog>
+          <Dialog>二人きりになれるでしょ？　さっきのあなた、かっこよかったよ？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2695,16 +2695,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Do you know what day it is today?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What... what?</Dialog>
-          <Dialog>I guess so after all. Well, it's Halloween.</Dialog>
-          <Dialog>Ah, come to think of it. I didn't notice.</Dialog>
-          <Dialog>It's not familiar. ...Are you not interested?</Dialog>
-          <Dialog>I don't really know what they're going to do, but I think it would be interesting if possible.</Dialog>
-          <Dialog>I see. So, maybe that's okay.</Dialog>
-          <Dialog>?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>今日、何の日かわかる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>え……なんだっけ？</Dialog>
+          <Dialog>やっぱりそうか。あのね、ハロウィンだよ。</Dialog>
+          <Dialog>ああ、そういえば。気づかなかった。</Dialog>
+          <Dialog>馴染みないもんね。……興味もない？</Dialog>
+          <Dialog>何するのかよくわかんないけど、できたら面白いんじゃないかな。</Dialog>
+          <Dialog>そっか。じゃあ、おっけーかな。</Dialog>
+          <Dialog>？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2767,16 +2767,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(I don't have the TV I want to watch. What should I do...)</Dialog>
-          <Dialog>Huh, who is it? Yes.</Dialog>
-          <Dialog>Huh, ▲Anegasaki*▲?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hehe, I'm coming.</Dialog>
-          <Dialog>Yes, please.</Dialog>
-          <Dialog>So, what's wrong?</Dialog>
-          <Dialog>n/a. Wait a minute.</Dialog>
-          <Dialog>?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（観たいテレビもないな。どうしよ……）</Dialog>
+          <Dialog>あれ、誰だ？　はーい。</Dialog>
+          <Dialog>あれ、▲姉ヶ崎＊▲？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふふ、お邪魔します。</Dialog>
+          <Dialog>うん、どうぞ。</Dialog>
+          <Dialog>で、どうしたの？</Dialog>
+          <Dialog>ふふ。ちょっと待ってて。</Dialog>
+          <Dialog>？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2829,13 +2829,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(▲Anegasaki*▲, what's wrong?)</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Thank you for waiting.</Dialog>
-          <Dialog>Right. Trick or Treat!</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
-          <Dialog>Are you a person who gets mischievous?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲、どうしたんだろ？）</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>お待たせ。</Dialog>
+          <Dialog>じゃーん。トリックオアトリート！</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>いたずら、される方だったりして？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2912,16 +2912,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It was a surprise attack, ▲Anegasaki*▲...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hehe, I wanted to give it a try. Sorry, surprise me.</Dialog>
-          <Dialog>I was certainly surprised but...it was fun. Are you planning on doing it again?</Dialog>
-          <Dialog>there is no! I was embarrassed too.</Dialog>
-          <Dialog>Twitch.</Dialog>
-          <Dialog>Well then, thank you for sending it.</Dialog>
-          <Dialog>Yes, see you later.</Dialog>
-          <Dialog>Take care!</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>不意打ちだよ、▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふふ、やってみたかったんだ。ごめんね、驚かせて。</Dialog>
+          <Dialog>たしかに驚いたけど……楽しかったよ。またやる予定ないの？</Dialog>
+          <Dialog>ありません！　私だって恥ずかしかったんだから。</Dialog>
+          <Dialog>ちぇっ。</Dialog>
+          <Dialog>じゃあね、送ってくれてありがと。</Dialog>
+          <Dialog>うん、またね。</Dialog>
+          <Dialog>気をつけてね！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3046,23 +3046,23 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(Today is the school festival...)</Dialog>
-          <Dialog>(You worked hard on the job of the management committee. I hope you will succeed...)</Dialog>
-          <Dialog>(Good. It's getting quite lively)</Dialog>
-          <Dialog>(Shall we take a look at the class ▲Anegasaki*▲...)</Dialog>
-          <Dialog>(Um, ▲Anegasaki*▲ is... Huh?)</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>▲Anegasaki*▲. What kind of performance?</Dialog>
-          <Dialog>My class is a haunted house. I'm the receptionist.</Dialog>
-          <Dialog>Wow, that's good. ▲Anegasaki*▲ loves horror, so that's good, isn't it?</Dialog>
-          <Dialog>Not good.</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>I really liked the role of a threatening person. I was so arguing about it that I got rid of the trouble. Ah, it's already annoying!</Dialog>
-          <Dialog>...That's difficult.</Dialog>
-          <Dialog>Wow, I'm getting changed already. See you later.</Dialog>
-          <Dialog>(I guess there are a lot of particular preferences...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（今日は文化祭だ……）</Dialog>
+          <Dialog>（運営委員の仕事、がんばったもんな。成功するといいな……）</Dialog>
+          <Dialog>（よかった。だいぶ盛り上がってる）</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲のクラス、のぞいてみるか……）</Dialog>
+          <Dialog>（えっと、▲姉ヶ崎＊▲は……。あれ？）</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。それ、なんの出し物？</Dialog>
+          <Dialog>私のクラス、お化け屋敷なの。私は受付。</Dialog>
+          <Dialog>へー、いいな。▲姉ヶ崎＊▲はホラー好きだし、よかったね？</Dialog>
+          <Dialog>よくない。</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>私は本当は脅かす役がよかったのに。色々口出しし過ぎて、厄介払いされちゃったの。あーもう、くやしい！</Dialog>
+          <Dialog>……大変だね。</Dialog>
+          <Dialog>ふう、もう着替えてくる。またあとでね。</Dialog>
+          <Dialog>（色々こだわりがあるんだな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3155,19 +3155,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(I'm glad the school festival ended without any problems. All that's left is a party.)</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>▲Anegasaki*▲.</Dialog>
-          <Dialog>good job. Is the job of the executive committee already okay?</Dialog>
-          <Dialog>Yes, most of the work on ● is finished.</Dialog>
-          <Dialog>So... can I ask you for one?</Dialog>
-          <Dialog>? Yes, if anything ● can do.</Dialog>
-          <Dialog>So first, let's get out of here!</Dialog>
-          <Dialog>▲Anegasaki*▲?</Dialog>
-          <Dialog>Come on, here it is.</Dialog>
-          <Dialog>Wait for me.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（文化祭、何事もなく終わってよかった。あとはパーティーだけだ）</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>お疲れ様。運営委員の仕事、もういいの？</Dialog>
+          <Dialog>うん、●の仕事はほとんど終わってるから。</Dialog>
+          <Dialog>じゃあ……ひとつお願いしてもいい？</Dialog>
+          <Dialog>？　うん、●にできることなら。</Dialog>
+          <Dialog>じゃあまずは、ここを抜けだす！</Dialog>
+          <Dialog>▲姉ヶ崎＊▲？</Dialog>
+          <Dialog>ほーら、こっちこっち。</Dialog>
+          <Dialog>待ってって。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3291,21 +3291,21 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It's quiet... Why at this place?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I won't let you say it. You can be alone with us, right?</Dialog>
-          <Dialog>...Yeah, that's right. It was kind of like that time.</Dialog>
-          <Dialog>Oh, do you really understand?</Dialog>
-          <Dialog>Of course... There's no way I'll forget what ▲Anegasaki*▲ said here.</Dialog>
-          <Dialog>If you forget, it's not enough for you, right?</Dialog>
-          <Dialog>I'll never forget. Probably for a lifetime.</Dialog>
-          <Dialog>I see... So I should have chosen a place with a more mood. But I couldn't afford it.</Dialog>
-          <Dialog>That's right, I didn't know.</Dialog>
-          <Dialog>Yeah. And... I still can't afford it now, right?</Dialog>
-          <Dialog>I can't see that though.</Dialog>
-          <Dialog>There's none. I'm tingling because I want to kiss her quickly.</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>静かだな……。なんで、こんなとこに？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>言わせないの。二人きりになれるから、でしょ？</Dialog>
+          <Dialog>……うん、そうだね。なんか、あのときみたいだ。</Dialog>
+          <Dialog>あ、やっぱりわかる？</Dialog>
+          <Dialog>そりゃ……。ここで▲姉ヶ崎＊▲に言われたこと、忘れるわけないし。</Dialog>
+          <Dialog>忘れたら、ただじゃ済まないよ？</Dialog>
+          <Dialog>忘れないよ。たぶん、一生。</Dialog>
+          <Dialog>そっか……じゃあ、もっとムードのあるところ選べばよかった。でも余裕なかったしな。</Dialog>
+          <Dialog>そうだったんだ、わかんなかった。</Dialog>
+          <Dialog>うん。それに……今だって、余裕ないよ？</Dialog>
+          <Dialog>そうは見えないけど。</Dialog>
+          <Dialog>ないの。早くキスしたくて、うずうずしてる。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3362,13 +3362,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>good morning. Today is the summer course, don't you just push yourself too hard?</Dialog>
-          <Dialog>Yes, I don't.</Dialog>
-          <Dialog>already. Is it okay to do a little...?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよう。今日から夏期講習だね、無理はしないで？</Dialog>
+          <Dialog>うん、しないしない。</Dialog>
+          <Dialog>もう。ちょっとは……してもいいかな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3425,13 +3425,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>Good morning! Starting today, I'll be going to have a lot of summer courses.</Dialog>
-          <Dialog>Eh.</Dialog>
-          <Dialog>Hehe, kidding. Even when I'm watching, do it properly?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよ！　今日から夏期講習、ビシビシいくよ？</Dialog>
+          <Dialog>えー。</Dialog>
+          <Dialog>ふふ、冗談。私が見てないとこでも、ちゃんとするんだよ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3488,13 +3488,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>Good morning. Let's start working hard on the summer course today, right?</Dialog>
-          <Dialog>Be gentle.</Dialog>
-          <Dialog>It's no use telling me now. But when I'm tired I'll let him be spoiled.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよ。夏期講習、今日からがんばろうね？</Dialog>
+          <Dialog>お手柔らかに。</Dialog>
+          <Dialog>もう、私に言ってもしょうがないでしょ。でも疲れたら、甘えさせてあげる。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3555,13 +3555,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>good morning. How about summer courses?</Dialog>
-          <Dialog>Hmm, it's not fun.</Dialog>
-          <Dialog>Haha, that's true. But do your best. Because I'll support you.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよう。どう、夏期講習は？</Dialog>
+          <Dialog>んー、楽しいもんじゃないなあ。</Dialog>
+          <Dialog>ふふ、それはそうだよ。でもがんばって。応援するから。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3619,14 +3619,14 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>Good morning! Are you tired from the summer course?</Dialog>
-          <Dialog>Hmm, just a little bit.</Dialog>
-          <Dialog>They also have a service to me, so don't you just go unfair?</Dialog>
-          <Dialog>Yes.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよ！　夏期講習、疲れてない？</Dialog>
+          <Dialog>んー、ちょっとだけ。</Dialog>
+          <Dialog>私へのサービスもあるんだから、へばってちゃダメだよ？</Dialog>
+          <Dialog>はーい。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3688,14 +3688,14 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>Good morning. It's hot again today.</Dialog>
-          <Dialog>Yes, it's not a thing to study.</Dialog>
-          <Dialog>I want to ask you as selfishly...but please hold back a little?</Dialog>
-          <Dialog>Yes.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよ。今日も暑いね。</Dialog>
+          <Dialog>うん、勉強どころじゃないよ。</Dialog>
+          <Dialog>もう、わがまま聞いてあげたいけど……ちょっとガマンして？</Dialog>
+          <Dialog>はーい。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3752,13 +3752,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>good morning. Winter classes will begin, but be careful of the cold, right?</Dialog>
-          <Dialog>It's cold even if you take care...</Dialog>
-          <Dialog>I'll squeeze you. So please forgive me?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよう。冬期講習始まるけど、寒さには気をつけてね？</Dialog>
+          <Dialog>気をつけても寒い……。</Dialog>
+          <Dialog>ぎゅってしてあげるから。それで許して？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3819,13 +3819,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>Good morning! Winter lessons begin, but you can't succumb to the cold, right?</Dialog>
-          <Dialog>▲Anegasaki*▲ isn't cold?</Dialog>
-          <Dialog>I'm holding back. Isn't it your sister? n/a.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよ！　冬期講習始まるけど、寒さに負けちゃダメだよ？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲は、寒くないの？</Dialog>
+          <Dialog>ガマンしてるの。お姉さんだからね？　ふふ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3886,13 +3886,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>Good morning. The winter course is about to begin. Are you feeling well?</Dialog>
-          <Dialog>Yes, maybe.</Dialog>
-          <Dialog>If it gets tough, I'll take it for you. What is it?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよ。冬期講習、始まるね。体調は大丈夫？</Dialog>
+          <Dialog>うん、たぶん。</Dialog>
+          <Dialog>辛くなったら、私が代わりに受けてあげる。な～んてね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3949,13 +3949,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>good morning. Have you caught a cold?</Dialog>
-          <Dialog>Yes, it's okay.</Dialog>
-          <Dialog>If you feel sick, tell me right away. Because I'm an important person.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよう。風邪、ひいてない？</Dialog>
+          <Dialog>うん、大丈夫。</Dialog>
+          <Dialog>体調悪くなったら、すぐ言ってね。私の、大事な人なんだから。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4017,14 +4017,14 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>Good morning! Have you got used to the cold?</Dialog>
-          <Dialog>A little bit. But it's really cold.</Dialog>
-          <Dialog>If you say something pathetic, you'll end up pranking me, right? Hehe, do your best!</Dialog>
-          <Dialog>Yes.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよ！　寒さには慣れた？</Dialog>
+          <Dialog>少しは。でもやっぱ寒いよ。</Dialog>
+          <Dialog>あんまり情けないこと言ってると、おしおきしちゃうぞ？　ふふ、がんばれ！</Dialog>
+          <Dialog>はーい。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4085,13 +4085,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>Good morning. It's cold again today. Can I stick it together?</Dialog>
-          <Dialog>Yes, welcome.</Dialog>
-          <Dialog>Hehe, it's okay to be honest. So don't hesitate.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよ。今日も寒いな。くっついてもいい？</Dialog>
+          <Dialog>うん、大歓迎。</Dialog>
+          <Dialog>ふふ、素直でよろしい。じゃあ遠慮なく。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4152,13 +4152,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>good morning. Spring courses are beginning. If you're daze, it'll go by in a flash, right?</Dialog>
-          <Dialog>It would be nice if it ended in a flash.</Dialog>
-          <Dialog>already. Hehe, but I'm the same person too.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよう。春期講習始まるね。ぼーっとしてたら、あっという間だよ？</Dialog>
+          <Dialog>あっという間に終わってくれると、楽でいいなあ。</Dialog>
+          <Dialog>もう。ふふ、でも私もおんなじ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4215,13 +4215,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>Good morning! Spring course starts today. You're punished every time you fall asleep, right?</Dialog>
-          <Dialog>So, when ▲Anegasaki*▲ sleeps, ● will punish you?</Dialog>
-          <Dialog>Oh, already. Are you talking cheeky?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよ！　今日から春期講習。居眠りするたびにおしおきだからね？</Dialog>
+          <Dialog>じゃあ、▲姉ヶ崎＊▲が寝たら、●がおしおき？</Dialog>
+          <Dialog>あ、もう。生意気言うんだ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4278,13 +4278,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>Good morning. The spring course will begin, but if you concentrate, you'll be over soon.</Dialog>
-          <Dialog>Concentration...Can I do it?</Dialog>
-          <Dialog>It's fine if you're. go for it.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよ。春期講習始まるけど、集中してたらすぐ終わるよ？</Dialog>
+          <Dialog>集中……できるかな？</Dialog>
+          <Dialog>あなたなら大丈夫。がんばって。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4341,13 +4341,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>good morning. Are you sleepy during the spring course?</Dialog>
-          <Dialog>Hmm, quite a bit.</Dialog>
-          <Dialog>Hehe, me too. But let's work hard together a little more.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよう。春期講習、眠くない？</Dialog>
+          <Dialog>んー、かなり。</Dialog>
+          <Dialog>ふふ、私も。でもあとちょっと、一緒にがんばろう？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4404,13 +4404,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>Good morning! Are you studying properly during the spring course?</Dialog>
-          <Dialog>Yes, I do it!</Dialog>
-          <Dialog>Oh, he's energetic. So maybe I'll ask for my own as well?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよ！　春期講習、ちゃんと勉強してる？</Dialog>
+          <Dialog>はい、してます！</Dialog>
+          <Dialog>あ、元気いいんだ。じゃあ私の分もお願いしちゃおうかな？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4471,13 +4471,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, good morning.</Dialog>
-          <Dialog>Good morning. Spring is definitely sleepy. Are you okay?</Dialog>
-          <Dialog>Hmm, maybe.</Dialog>
-          <Dialog>Hehe, it's not okay. Please, cheer up?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おはよ。</Dialog>
+          <Dialog>おはよ。春はやっぱり眠いね。大丈夫？</Dialog>
+          <Dialog>んー、たぶん。</Dialog>
+          <Dialog>ふふ、大丈夫じゃないね。お願い、元気出して？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4546,16 +4546,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Come to think of it, ▲Anegasaki*▲. Have you heard about the contest?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Contest?</Dialog>
-          <Dialog>Swimsuit contest. He said he's going to do it.</Dialog>
-          <Dialog>Already... that's all again.</Dialog>
-          <Dialog>It seems like it's becoming a hot topic. In some.</Dialog>
-          <Dialog>Are you part of it?</Dialog>
-          <Dialog>▲Anegasaki*▲ may be chosen, so I'm sure it'll be interesting.</Dialog>
-          <Dialog>...No, it's embarrassing.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そういえば、▲姉ヶ崎＊▲。コンテストのこと聞いた？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>コンテスト？</Dialog>
+          <Dialog>水着コンテスト。やるんだって。</Dialog>
+          <Dialog>もう……またそんなのばっかり。</Dialog>
+          <Dialog>なんか話題になってるみたいだからさ。一部で。</Dialog>
+          <Dialog>あなたは、その一部に含まれてるの？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲が選ばれるかもしれないし、気にはなるかな。</Dialog>
+          <Dialog>……いやだよ、恥ずかしい。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4653,20 +4653,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, Congratulations!</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Congratulations, what?</Dialog>
-          <Dialog>Swimsuit contest. ▲Anegasaki*▲ is the winner.</Dialog>
-          <Dialog>....</Dialog>
-          <Dialog>Huh.</Dialog>
-          <Dialog>I wonder if that's okay to be happy.</Dialog>
-          <Dialog>...Well, it feels complicated for my boyfriend though.</Dialog>
-          <Dialog>If it was decided on its own, there's no way he could decline.</Dialog>
-          <Dialog>It's complicated but... I'm really happy. That means your girlfriend is attractive.</Dialog>
-          <Dialog>That's fine though.</Dialog>
-          <Dialog>Even if she doesn't get chosen by this kind of person, she's an attractive girlfriend.</Dialog>
-          <Dialog>Hehe, already. For me, that word is better.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、おめでとう！</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>おめでとうって、何が？</Dialog>
+          <Dialog>水着コンテスト。▲姉ヶ崎＊▲が優勝だって。</Dialog>
+          <Dialog>……。</Dialog>
+          <Dialog>あれ。</Dialog>
+          <Dialog>それって、喜んでいいのかな。</Dialog>
+          <Dialog>……まあカレシとしては複雑な気分だけど。</Dialog>
+          <Dialog>勝手に決められたんじゃ、辞退のしようもないよね。</Dialog>
+          <Dialog>複雑だけど……やっぱうれしいよ。カノジョが魅力的だってことだし。</Dialog>
+          <Dialog>ならいいけど。</Dialog>
+          <Dialog>別にこんなのに選ばれなくても、魅力的なカノジョだけどさ。</Dialog>
+          <Dialog>ふふ、もう。私にとっては、その言葉の方がうれしいよ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

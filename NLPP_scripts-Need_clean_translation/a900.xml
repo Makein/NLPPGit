@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<DBIN2 Key="1002795800" Unknown="107">
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="1002795800" Unknown="107">
   <Entries>
     <Entry Unknown0="2616196821" Unknown1="666177634">
       <SDL2 Key="4018870857">
@@ -26,11 +26,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲ doesn't seem to have arrived yet.</Dialog>
-          <Dialog>▲Anegasaki*▲...I went.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>People can see it...?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲は、まだ来てないみたいだな。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……行っちゃった。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>人に見られるよ……？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

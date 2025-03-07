@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<DBIN2 Key="1234379982" Unknown="10">
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="1234379982" Unknown="10">
   <Entries>
     <Entry Unknown0="2415973082" Unknown1="1238180754">
       <SDL2 Key="2302212555">
@@ -401,63 +401,63 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>? ? ?</Dialog>
-          <Dialog>Hey.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>yeah…….</Dialog>
-          <Dialog>Hey.</Dialog>
-          <Dialog>...What?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>what happened?</Dialog>
-          <Dialog>Huh? ...▲Anegasaki*▲!? That's what's getting smaller...</Dialog>
-          <Dialog>? What are you talking about?</Dialog>
-          <Dialog>(Huh...where is this...?)</Dialog>
-          <Dialog>I'm not tiny. I'm already an adult.</Dialog>
-          <Dialog>(By the way... I've seen this situation before...)</Dialog>
-          <Dialog>(But the little ▲Anegasaki*▲ I met before had a more lively atmosphere. I'm sure...)</Dialog>
-          <Dialog>Nene?</Dialog>
-          <Dialog>What...</Dialog>
-          <Dialog>I was saying that you should call it that. And they're going to make you a servant about the ●.</Dialog>
-          <Dialog>……it was? I've forgotten about that old story.</Dialog>
-          <Dialog>Come on, "Nene-sama, bang bang!"</Dialog>
-          <Dialog />
-          <Dialog>Nene-sama, Banzai!</Dialog>
-          <Dialog>If I stop...</Dialog>
-          <Dialog>(It was "Nene-sama, Banzai!"...)</Dialog>
-          <Dialog>……what?</Dialog>
-          <Dialog>Stop it, that kind of thing looks like a child...</Dialog>
-          <Dialog>I'm still a child...</Dialog>
-          <Dialog>I'm an adult now? I'm almost in junior high school.</Dialog>
-          <Dialog>I see...</Dialog>
-          <Dialog>...What? Staring at people.</Dialog>
-          <Dialog>So I wonder if I can't see my true self anymore.</Dialog>
-          <Dialog>That's not just a game. I can't be a child forever...</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>what?</Dialog>
-          <Dialog>(▲Anegasaki*▲, the atmosphere is different from before...)</Dialog>
-          <Dialog>I'm not even fond of my love and become more mature than the other kids.</Dialog>
-          <Dialog>I sometimes think that I want to play like before...</Dialog>
-          <Dialog>That's not possible...</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
-          <Dialog>So that's why I'm graduating from that kind of thing.</Dialog>
-          <Dialog>(▲Anegasaki*▲, he's really like an adult...)</Dialog>
-          <Dialog>(But I feel lonely...)</Dialog>
-          <Dialog>But...</Dialog>
-          <Dialog>?</Dialog>
-          <Dialog>●I liked that Nene-sama too.</Dialog>
-          <Dialog>What... do you like it?</Dialog>
-          <Dialog>Yes, it's cute, a little cool, and fun. It was fun to play together!</Dialog>
-          <Dialog>…………n/a!</Dialog>
-          <Dialog>Why are you laughing?</Dialog>
-          <Dialog>I'm really a child. Don't use the word "love" for girls in that sense?</Dialog>
-          <Dialog>I'll tell you soon. If you and me grow older...</Dialog>
-          <Dialog>Until then... wait, okay?</Dialog>
-          <Dialog>Yes, I'll wait... I'll wait, ▲Anegasaki*▲!</Dialog>
-          <Dialog>...Huh? ...Is it a dream?</Dialog>
-          <Dialog>Small ▲Anegasaki*▲, so cute...it was beautiful after all...</Dialog>
-          <Dialog>(Doesn't you remember it if you said, "Nene-sama, this is so good!"?)</Dialog>
-          <Dialog>HINT</Dialog>
-          <Dialog>Let's scream at the microphone, "Nene-sama, this is a stomp!"</Dialog>
+          <Dialog>？？？</Dialog>
+          <Dialog>ねえ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ん……。</Dialog>
+          <Dialog>ねえってば。</Dialog>
+          <Dialog>……なんだ？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>どうしたの？</Dialog>
+          <Dialog>えっ？　……▲姉ヶ崎＊▲!?　そっちこそ、小さくなっちゃって……。</Dialog>
+          <Dialog>？　何言ってるの？</Dialog>
+          <Dialog>（あれ……ここは……どこだ？）</Dialog>
+          <Dialog>私、ちっちゃくないよ。もう大人なんだから。</Dialog>
+          <Dialog>（そういえば……こんな状況、前にも……）</Dialog>
+          <Dialog>（でも、前に会った小さな▲姉ヶ崎＊▲は、もっと活発な雰囲気だったよな。たしか……）</Dialog>
+          <Dialog>ネネ様？</Dialog>
+          <Dialog>えっ……。</Dialog>
+          <Dialog>そう呼べって言ってただろ。それに●のこと家来にするって。</Dialog>
+          <Dialog>……そうだった？　そんな昔のこと、忘れちゃった。</Dialog>
+          <Dialog>ほら、“ネネ様、バンザーイ！”ってさ。</Dialog>
+          <Dialog>!?</Dialog>
+          <Dialog>ネネ様、バンザーイ！</Dialog>
+          <Dialog>やめてったら……。</Dialog>
+          <Dialog>（“ネネ様、バンザーイ！”だったよな……）</Dialog>
+          <Dialog>……なに？</Dialog>
+          <Dialog>もう、やめてよ、そんなの子供みたい……。</Dialog>
+          <Dialog>みたいって、まだ子供じゃ……。</Dialog>
+          <Dialog>私はもう大人だよ？　もうすぐ中学生だもん。</Dialog>
+          <Dialog>そっか……。</Dialog>
+          <Dialog>……なあに？　人のこと、じろじろ見て。</Dialog>
+          <Dialog>それじゃ、もうオレサマなネネ様は見られないのかなって。</Dialog>
+          <Dialog>そんなの……ただの遊びじゃない。いつまでも子供じゃいられないんだから……。</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>なに？</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲、さっきとは雰囲気が違う……）</Dialog>
+          <Dialog>私だって、好きで他の子より早く、大人っぽくなったわけじゃないよ。</Dialog>
+          <Dialog>もっと前みたいに遊びたいって、そう思うことだってあるけど……。</Dialog>
+          <Dialog>そんなわけにはいかないじゃない……。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>だからね、もうああいうのは卒業なの。</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲、ほんとに大人みたいだ……）</Dialog>
+          <Dialog>（でも、寂しそうだ……）</Dialog>
+          <Dialog>でもさ……。</Dialog>
+          <Dialog>？</Dialog>
+          <Dialog>●はあのネネ様も好きだったけどな。</Dialog>
+          <Dialog>えっ……好き？</Dialog>
+          <Dialog>うん、可愛くて、ちょっとかっこよくて、楽しくて。一緒に遊んで面白かった！</Dialog>
+          <Dialog>…………ふふ！</Dialog>
+          <Dialog>なんで笑うの？</Dialog>
+          <Dialog>ほんとに、子供なんだから。女の子への好きって言葉は、そんな意味で使うんじゃないの。</Dialog>
+          <Dialog>そのうち、教えてあげる。あなたも、私も、もっと大きくなったら……。</Dialog>
+          <Dialog>それまで……待っててね？</Dialog>
+          <Dialog>うん、待ってる……待ってるよ、▲姉ヶ崎＊▲！</Dialog>
+          <Dialog>……あれ？　…………夢か。</Dialog>
+          <Dialog>小さい▲姉ヶ崎＊▲、可愛くて……やっぱり、キレイだったな……。</Dialog>
+          <Dialog>（“ネネ様、ばんざ～い！”って言ったら思い出すかな？）</Dialog>
+          <Dialog>ＨＩＮＴ</Dialog>
+          <Dialog>マイクに向かって“ネネ様、ばんざ～い！”と声を出そう</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -911,64 +911,64 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>...I'm really going to go.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>……yeah?</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>picture! ▲Anegasaki*▲!?</Dialog>
-          <Dialog>You shouldn't be selfish and say you don't want them to go...</Dialog>
-          <Dialog>Umm... where are you going?</Dialog>
-          <Dialog>Of course, we're heading to the battlefield. ...Leave me, my fiance.</Dialog>
-          <Dialog>Fiance!? Huh, ●, before I knew it, I was in a military uniform...</Dialog>
-          <Dialog>Uh...so suddenly... I'm not even prepared yet.</Dialog>
-          <Dialog>I see...● is going to war now...</Dialog>
-          <Dialog>........</Dialog>
-          <Dialog>...Don't cry, Anegasaki*▲.</Dialog>
-          <Dialog>When I think I won't be able to see you from tomorrow, I can't stop crying... uh...</Dialog>
-          <Dialog>The engagement ceremony and preparations for the ceremony were already complete, and all that was left was to wait for the day...</Dialog>
-          <Dialog>Sorry...</Dialog>
-          <Dialog>If you don't go home, I can't live anymore...</Dialog>
-          <Dialog>!! It's not something that's rare.</Dialog>
-          <Dialog>A world without you means nothing to me.</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
-          <Dialog>So... so please be safe. Please don't forget that there is a woman who is eager to see you return.</Dialog>
-          <Dialog>Keep it in mind. ...But I also have one request.</Dialog>
-          <Dialog>Yeah. If I can, I don't say there's one thing I can, but I'll do whatever I can.</Dialog>
-          <Dialog>One thing is fine...Can you laugh?</Dialog>
-          <Dialog>……picture?</Dialog>
-          <Dialog>I want to see a smile.</Dialog>
-          <Dialog>At times like this, it's not possible...</Dialog>
-          <Dialog>It's sad to see a crying face at the end.</Dialog>
-          <Dialog>Don't say it's the last time like that.</Dialog>
-          <Dialog>Ah, that's not what I mean... That's a problem. However, I want to go after seeing my smile rather than crying.</Dialog>
-          <Dialog>but…….</Dialog>
-          <Dialog>ask.</Dialog>
-          <Dialog>…………………</Dialog>
-          <Dialog>Okay, that's how it goes, that way.</Dialog>
-          <Dialog>...Haha, like cursing a child...</Dialog>
-          <Dialog>●It's similar to what I mean.</Dialog>
-          <Dialog>It's already terrible.</Dialog>
-          <Dialog>……ah. After all, that face is much better.</Dialog>
-          <Dialog>……already.</Dialog>
-          <Dialog>...I'm fine.</Dialog>
-          <Dialog>you too.</Dialog>
-          <Dialog>I'm waiting for you to go home. Forever, forever... forever...</Dialog>
-          <Dialog>If you'd come back...</Dialog>
-          <Dialog>If he'd come back... If that were the case... even if you'd become a zombie!</Dialog>
-          <Dialog>It's okay, I saw it in the movie yesterday. The doctor who sold his soul to the devil will bring back the dead!</Dialog>
-          <Dialog>Um, ▲Anegasaki*▲?</Dialog>
-          <Dialog>If you're worried, why not try a rehearsal now?</Dialog>
-          <Dialog>yes!?</Dialog>
-          <Dialog>First of all, I'm sure... restraining the patient.</Dialog>
-          <Dialog>Eh... wow, can't you move? Sleep paralysis!?</Dialog>
-          <Dialog>Then I let him pass out with an electric shock... hmm, but that's not the case in today's world, so pass!</Dialog>
-          <Dialog>Next time, it's finally time to get my body...</Dialog>
-          <Dialog>Hey, pass!? At least do it more seriously!</Dialog>
-          <Dialog>Oh!</Dialog>
-          <Dialog>Wow!</Dialog>
-          <Dialog>...Is it a dream?</Dialog>
-          <Dialog>It was a good story until halfway through...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>……本当に、行ってしまうのですね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……ん？</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>え！　▲姉ヶ崎＊▲!?</Dialog>
+          <Dialog>行って欲しくないなんてわがまま、言ってはいけませんよね……。</Dialog>
+          <Dialog>えっと……行くってどこに？</Dialog>
+          <Dialog>もちろん戦場へです。……許嫁の私を残して。</Dialog>
+          <Dialog>許嫁!?　あれ、●、いつの間に軍服なんて……。</Dialog>
+          <Dialog>うぅ……こんなに急に……。まだ心の準備も出来ておりません。</Dialog>
+          <Dialog>そうか……●はこれから出征するんだっけ……。</Dialog>
+          <Dialog>……っ……。</Dialog>
+          <Dialog>……泣くな、▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>明日からあなたに会えないと思うと、涙が止まらなくて……ううっ……。</Dialog>
+          <Dialog>結納もお式の準備ももう済ませて、あとは当日を待つばかりだったのに……。</Dialog>
+          <Dialog>すまない……。</Dialog>
+          <Dialog>もしあなたが帰らなかったら、私、もう生きていけない……。</Dialog>
+          <Dialog>!!　滅多なことを言うものじゃない。</Dialog>
+          <Dialog>あなたのいない世界なんて、私には何の意味もありません。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>だから……だからどうか無事で。あなたの帰りを待ち焦がれる女がいることを、どうか忘れないでください。</Dialog>
+          <Dialog>肝に銘じる。……だがこちらにも、一つ頼みがある。</Dialog>
+          <Dialog>ええ。私に出来ることなら、一つだなんて言わずにいくらでも。</Dialog>
+          <Dialog>一つでいいんだ……笑ってくれないか？</Dialog>
+          <Dialog>……え？</Dialog>
+          <Dialog>笑顔が見たい。</Dialog>
+          <Dialog>こんな時に、無理です……。</Dialog>
+          <Dialog>最後に見るのが泣き顔なんて、寂しいじゃないか。</Dialog>
+          <Dialog>そんな、最後だなんて言わないで。</Dialog>
+          <Dialog>ああ、そういう意味じゃなくて……。困ったな。ただ、泣き顔より笑顔を見てから、行きたいんだ。</Dialog>
+          <Dialog>でも……。</Dialog>
+          <Dialog>頼む。</Dialog>
+          <Dialog>………………。</Dialog>
+          <Dialog>よし、その調子、その調子。</Dialog>
+          <Dialog>……ふふ、子供をあやすみたいに……。</Dialog>
+          <Dialog>●にとっては似たようなものだ。</Dialog>
+          <Dialog>もう、ひどい。</Dialog>
+          <Dialog>……ああ。やっぱりその顔のほうが、ずっといい。</Dialog>
+          <Dialog>……もう。</Dialog>
+          <Dialog>……元気で。</Dialog>
+          <Dialog>あなたも。</Dialog>
+          <Dialog>お帰りを待っています。いつまでも、いつまでも……ずっと……。</Dialog>
+          <Dialog>あなたが帰って来てくれるなら……。</Dialog>
+          <Dialog>帰って来てくれるなら……。それなら……たとえゾンビになったって！</Dialog>
+          <Dialog>大丈夫、昨日映画で観たんだから。悪魔に魂を売った博士が、死者を蘇らすの！</Dialog>
+          <Dialog>えっと、▲姉ヶ崎＊▲？</Dialog>
+          <Dialog>不安なら、今予行演習してみよっか？</Dialog>
+          <Dialog>はい!?</Dialog>
+          <Dialog>まずはね、たしか……患者を拘束して。</Dialog>
+          <Dialog>え……うわ、体が動かない？　金縛り!?</Dialog>
+          <Dialog>それから電気ショックで気絶させて……うーん、でもそんなもの今の時代にはないし、パス！</Dialog>
+          <Dialog>次はいよいよ体を……。</Dialog>
+          <Dialog>ちょっと、パスって!?　せめてもっと真面目にやって！</Dialog>
+          <Dialog>えーい！</Dialog>
+          <Dialog>うわっ！</Dialog>
+          <Dialog>…………夢か。</Dialog>
+          <Dialog>途中までいい話だったんだけどなー……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1642,97 +1642,97 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(...Huh? What is it about here...)</Dialog>
-          <Dialog>? ? ?</Dialog>
-          <Dialog>Those over there, lift their faces.</Dialog>
-          <Dialog>(Huh? This voice is...)</Dialog>
-          <Dialog>▲Anegasaki*▲!? That outfit...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What?</Dialog>
-          <Dialog>What exactly is it here...</Dialog>
-          <Dialog>Nene Bureau</Dialog>
-          <Dialog>Didn't you hear it? Warawa is called Nenebukuro, an elderly man here in Ooku.</Dialog>
-          <Dialog>I mean, I'm old, Anegasaki*▲...</Dialog>
-          <Dialog>Not old! Also, I'm not going to call you Nene Bureau!</Dialog>
-          <Dialog>We're sorry! Nene Bureau!</Dialog>
-          <Dialog>……good.</Dialog>
-          <Dialog>Um... what about this one?</Dialog>
-          <Dialog>Takamine Koji-dono.</Dialog>
-          <Dialog>Takamine Koji</Dialog>
-          <Dialog>My name is Takamine Koji from the Minakado. Okay.</Dialog>
-          <Dialog>Wow, ▲Takamine **▲ definitely has an elegant feel.</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>Takamine Koji-dono is a court nobleman.</Dialog>
-          <Dialog>I see, what do you think? Wow.</Dialog>
-          <Dialog>Don't stare at me...</Dialog>
-          <Dialog>Oh!</Dialog>
-          <Dialog>I'm also sorry!</Dialog>
-          <Dialog>Kobayakawa-dono.</Dialog>
-          <Dialog>Kobayagawa</Dialog>
-          <Dialog>I'm called Kobayakawa, the pageant.</Dialog>
-          <Dialog>Wow, ▲Kobayakawa*▲ is exactly the same name.</Dialog>
-          <Dialog>Disrespectful! Shall we fool the Kobayakawa family?</Dialog>
-          <Dialog>No, it's outrageous!</Dialog>
-          <Dialog>Kobayakawa-dono was from the samurai family.</Dialog>
-          <Dialog>Hmm.</Dialog>
-          <Dialog>(Scary girl...)</Dialog>
-          <Dialog>Takamine &amp; Kobayagawa</Dialog>
-          <Dialog>Ue-sama's good-looking!</Dialog>
-          <Dialog>picture!?</Dialog>
-          <Dialog>this! Don't ring the bell without your permission!</Dialog>
-          <Dialog>We're sorry!</Dialog>
-          <Dialog>And you. What kind of woman do you think is she liked?</Dialog>
-          <Dialog>……teeth?</Dialog>
-          <Dialog>teeth? isn't it. It is probably well known that the misogyny of the superiors is. Not only has it been passed down, but they have also ordered that the scale be reduced.</Dialog>
-          <Dialog>Haa...</Dialog>
-          <Dialog>If things continue like this, the shogunate will remain in danger. Don't you think so?</Dialog>
-          <Dialog>Oh, that's true...</Dialog>
-          <Dialog>It's not clear. I think why did you come to the great depths of the no-men?</Dialog>
-          <Dialog>Um, in other words, you want to know what you like, right?</Dialog>
-          <Dialog>That's right.</Dialog>
-          <Dialog>(The preferences of the superiors, the preferences of the superiors...... What kind of person is the superiors in the first place?)</Dialog>
-          <Dialog>You don't understand?</Dialog>
-          <Dialog>We are sorry.</Dialog>
-          <Dialog>That's a problem...If that's the case, it's fine to have your preference. Let me tell you.</Dialog>
-          <Dialog>●Popularity? Is that okay?</Dialog>
-          <Dialog>It's better than not having a man's opinion. Come on, how about Takamine Koji-dono and Kobayakawa-dono, for example?</Dialog>
-          <Dialog>Go ahead.</Dialog>
-          <Dialog>Hehe.</Dialog>
-          <Dialog>(●'s preference...that's definitely the case!)</Dialog>
-          <Dialog>what up?</Dialog>
-          <Dialog>●My preference is...Nene Bureau!</Dialog>
-          <Dialog>…………teeth?</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>...What are you saying? ...That's stupid.</Dialog>
-          <Dialog>(I'm embarrassed...)</Dialog>
-          <Dialog>You must be prepared, right? The crime of fooling this Nene Bureau is serious.</Dialog>
-          <Dialog>I'm not making fun of you! ● really likes you.</Dialog>
-          <Dialog>What!</Dialog>
-          <Dialog>It's amazing, bold...</Dialog>
-          <Dialog>Hughhh! Let's do it!</Dialog>
-          <Dialog>Don't let it cool down either!</Dialog>
-          <Dialog>Kobayakawa-dono and Nene-dono also make that kind of face.</Dialog>
-          <Dialog>Hehe, this is surprisingly natural.</Dialog>
-          <Dialog>Don't just take it easy!</Dialog>
-          <Dialog>Well, it's fine! After all, you will be taking care of your superiors!</Dialog>
-          <Dialog>……care?</Dialog>
-          <Dialog>Yes, the order Canid family, the genus Rabbit...it has a rounded, fluffy tail, making it a very lovely person.</Dialog>
-          <Dialog>Is that... a raccoon?</Dialog>
-          <Dialog>Incidentally, due to the strictness of the depths, you are prohibited from contacting anyone other than the above. I hope to only take care of you for the rest of my life.</Dialog>
-          <Dialog>Yes, was that decided, in the Ooku?</Dialog>
-          <Dialog>Be mindful and be patient.</Dialog>
-          <Dialog>That's it...</Dialog>
-          <Dialog>It's okay, I was happy about what you said earlier... I'll go and see you too.</Dialog>
-          <Dialog>Kyaa!</Dialog>
-          <Dialog>Hughhh!</Dialog>
-          <Dialog>Ah, if you stop! Come on, let's go! We'll go to the top of you together...</Dialog>
-          <Dialog>Huh?!</Dialog>
-          <Dialog>...I had a really great dream...</Dialog>
-          <Dialog>Anegasaki in a gorgeous kimono*...it's nice...</Dialog>
-          <Dialog>(What would happen if I tried swinging this bell?)</Dialog>
-          <Dialog>HINT</Dialog>
-          <Dialog>Swing the 3DS body lightly</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（……あれ？　ここは一体……）</Dialog>
+          <Dialog>？？？</Dialog>
+          <Dialog>そこの者、面を上げい。</Dialog>
+          <Dialog>（ん？　この声は……）</Dialog>
+          <Dialog>▲姉ヶ崎＊▲!?　その格好……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>なんじゃ。</Dialog>
+          <Dialog>ここは一体……。</Dialog>
+          <Dialog>寧々局</Dialog>
+          <Dialog>聞いておらんかったのか？　わらわはここ大奥で御年寄をつとめる寧々局と申す。</Dialog>
+          <Dialog>年寄りだなんて、▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>年寄りではない！　それに、寧々局様と呼ばぬか！</Dialog>
+          <Dialog>申し訳ございません！　寧々局様！</Dialog>
+          <Dialog>……よい。</Dialog>
+          <Dialog>あの……こちらの方は？</Dialog>
+          <Dialog>高嶺小路殿。</Dialog>
+          <Dialog>高嶺小路</Dialog>
+          <Dialog>御中臈の高嶺小路と申します。よろしゅう。</Dialog>
+          <Dialog>へー、やっぱ▲高嶺＊＊▲は上品な感じだな。</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>高嶺小路殿はお公家の出じゃ。</Dialog>
+          <Dialog>そっか、どうりで。へー。</Dialog>
+          <Dialog>そないお見つめなさるな……。</Dialog>
+          <Dialog>オホン！</Dialog>
+          <Dialog>も、申し訳ございません！</Dialog>
+          <Dialog>小早川殿。</Dialog>
+          <Dialog>小早川</Dialog>
+          <Dialog>御小姓の小早川と申す。</Dialog>
+          <Dialog>へえ、▲小早川＊▲はそのまんまの名前なんだな。</Dialog>
+          <Dialog>無礼な！　小早川家を愚弄するか！</Dialog>
+          <Dialog>いえ、とんでもない！</Dialog>
+          <Dialog>小早川殿は武家の出じゃ。</Dialog>
+          <Dialog>ふんっ。</Dialog>
+          <Dialog>（怖い女の子だな……）</Dialog>
+          <Dialog>高嶺＆小早川</Dialog>
+          <Dialog>うえさまの、おなーりー！</Dialog>
+          <Dialog>え!?</Dialog>
+          <Dialog>これ！　勝手に鈴を鳴らすでない！</Dialog>
+          <Dialog>申し訳ございません！</Dialog>
+          <Dialog>で、そなた。上様はどのような女性なら、お気に召すとお思いか。</Dialog>
+          <Dialog>……は？</Dialog>
+          <Dialog>は？　ではない。上様の女性嫌いは周知の事であろう。御渡りがないばかりか、奥の規模縮小を命じてきたわ。</Dialog>
+          <Dialog>はあ……。</Dialog>
+          <Dialog>このままでは幕府存続の危機じゃ。そうは思わぬか？</Dialog>
+          <Dialog>はあ、まことにその通りで……。</Dialog>
+          <Dialog>はっきりせぬの。なんのために男子禁制の大奥にそなたを迎えたと思うておるのじゃ。</Dialog>
+          <Dialog>えーと、つまり、上様の好みを知りたいんですよね？</Dialog>
+          <Dialog>そうじゃ。</Dialog>
+          <Dialog>（上様の好み、上様の好み……。……そもそも上様ってどんな人だっけ？）</Dialog>
+          <Dialog>わからぬのか。</Dialog>
+          <Dialog>申し訳ございません。</Dialog>
+          <Dialog>困ったの……それならば、そなたの好みでも良い。申してみよ。</Dialog>
+          <Dialog>●の好み？　そんなものでいいんですか？</Dialog>
+          <Dialog>せっかくの男の意見、ないよりはマシじゃ。ほれ、たとえばこの高嶺小路殿と小早川殿などどうじゃ？</Dialog>
+          <Dialog>てへ。</Dialog>
+          <Dialog>へへ。</Dialog>
+          <Dialog>（●の好み……そんなの、決まってるじゃないか！）</Dialog>
+          <Dialog>どうした？</Dialog>
+          <Dialog>●の好みは……寧々局様です！</Dialog>
+          <Dialog>…………は？</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>…………な、何を申しておる！　……バカバカしい。</Dialog>
+          <Dialog>（照れてる……）</Dialog>
+          <Dialog>そなた、覚悟はできているのであろうな？　この寧々局を愚弄した罪、重いぞ。</Dialog>
+          <Dialog>愚弄などしていません！　●は本当にあなたが好きなんです。</Dialog>
+          <Dialog>なっ！</Dialog>
+          <Dialog>すごーい、大胆です……。</Dialog>
+          <Dialog>ヒューヒュー！　やるじゃん！</Dialog>
+          <Dialog>そなたらも冷やかすでない！</Dialog>
+          <Dialog>小早川殿、寧々局様もあんな顔するんですね。</Dialog>
+          <Dialog>へへ、案外コッチが素だったりして。</Dialog>
+          <Dialog>いい加減にせぬか！</Dialog>
+          <Dialog>も、もうよい！　やはり上様のお世話はそなたが行うのじゃ！</Dialog>
+          <Dialog>……世話？</Dialog>
+          <Dialog>そうじゃ、上様はネコ目イヌ科タヌキ属……丸みがあり尻尾がふわりとして、とても愛きょうのあるお方であらせられるぞ。</Dialog>
+          <Dialog>それって……タヌキ？</Dialog>
+          <Dialog>ちなみに奥の法度により、そなたはこれより上様以外の人間との接触を禁ずる。生涯、上様のお世話のみをするように。</Dialog>
+          <Dialog>ええ、そんな決まり、大奥にあったっけ!?</Dialog>
+          <Dialog>心して、おつとめするように。</Dialog>
+          <Dialog>そんな……。</Dialog>
+          <Dialog>大丈夫、さっきの言葉、うれしかったから……。私もちゃーんと会いに行ってあげるから。</Dialog>
+          <Dialog>キャー！</Dialog>
+          <Dialog>ヒューヒュー！</Dialog>
+          <Dialog>あーんもう、やめてったら！　ほら、行きましょう！　一緒に上様のところへ……。</Dialog>
+          <Dialog>はっ!?</Dialog>
+          <Dialog>……なんか、すごい夢見ちゃったな……。</Dialog>
+          <Dialog>豪華な着物の▲姉ヶ崎＊▲……いいな……。</Dialog>
+          <Dialog>（この鈴を振ってみたらどうなるかな？）</Dialog>
+          <Dialog>ＨＩＮＴ</Dialog>
+          <Dialog>3DS本体を軽く揺らせ</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2216,77 +2216,77 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Hahaha... This day has finally arrived!</Dialog>
-          <Dialog>A world-renowned twin mountain. I can't help but look forward to the day I try this summit... I'm going to climb!</Dialog>
-          <Dialog>? ? ?</Dialog>
-          <Dialog>........</Dialog>
-          <Dialog>yeah?</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>I just heard something. Is it just my imagination? Well, that's fine...</Dialog>
-          <Dialog>Whew...</Dialog>
-          <Dialog>Anyway, it's soft ground...Okay, stick it in a pickle...</Dialog>
-          <Dialog>Stop it!</Dialog>
-          <Dialog>Huh...?</Dialog>
-          <Dialog>Maybe it's just my imagination... well, I guess it's okay if there's none.</Dialog>
-          <Dialog>Maybe that's it...Okay, let's bivouac here for today.</Dialog>
-          <Dialog>Umm... set a fire...</Dialog>
-          <Dialog>Ah!</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>Just do it!</Dialog>
-          <Dialog>Suddenly my vision opened...</Dialog>
-          <Dialog>...This is a stunning twin mountain...What? ▲Anegasaki*▲ becomes a Giants!?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What have you been doing for a while now? At times like this!</Dialog>
-          <Dialog>After all, there's a mountain there!</Dialog>
-          <Dialog>? Not that... you've come to help already, right?</Dialog>
-          <Dialog>For help?</Dialog>
-          <Dialog>yes. Because I was caught.</Dialog>
-          <Dialog>(The Captive Titan that was crucified...I see...this is this...)</Dialog>
-          <Dialog>...Is it not?</Dialog>
-          <Dialog>Um... that was it! I came to help! What is it? Climbing is haha!</Dialog>
-          <Dialog>Thank you...but I'm happy about it, but run away now. Before everyone comes back.</Dialog>
-          <Dialog>What about everyone?</Dialog>
-          <Dialog>It's definitely your companion.</Dialog>
-          <Dialog>I was finally not recognized. You said I'm not worthy...</Dialog>
-          <Dialog>●Is it ▲Anegasaki*▲? Who is that? You say something like that.</Dialog>
-          <Dialog>So everyone. Everyone in the world.</Dialog>
-          <Dialog>……world?</Dialog>
-          <Dialog>Yes, the whole world is our enemy now.</Dialog>
-          <Dialog>The world is a thing... Why is that so...?</Dialog>
-          <Dialog>I guess it's bad that I'm this big.</Dialog>
-          <Dialog>That's it... ●I have no intention of breaking up with ▲Anegasaki*▲!</Dialog>
-          <Dialog>Yes, me too.</Dialog>
-          <Dialog>Let's run away together!!</Dialog>
-          <Dialog>No no. I'm tied up like this and can't move at all.</Dialog>
-          <Dialog>If this continues, you'll be caught too. Run away on your own now.</Dialog>
-          <Dialog>There's no way it would be possible to leave ▲Anegasaki*▲ in that state!</Dialog>
-          <Dialog>You're more dangerous now than me. The traitors will be executed.</Dialog>
-          <Dialog>That's it! ● is definitely not to abandon ▲Anegasaki*▲!</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>...That feeling alone is enough. I was so happy thanks to you.</Dialog>
-          <Dialog>What are you talking about...</Dialog>
-          <Dialog>I spent a little time with you, but I've been able to make you happy for the rest of my life. So I'm not scared.</Dialog>
-          <Dialog>Don't say that!</Dialog>
-          <Dialog>If you get caught, just say you hate me. That's what you'll save.</Dialog>
-          <Dialog>Soldier A</Dialog>
-          <Dialog>There it is!</Dialog>
-          <Dialog>Soldier B</Dialog>
-          <Dialog>Catch it!</Dialog>
-          <Dialog>Soldier C</Dialog>
-          <Dialog>He's a traitor!</Dialog>
-          <Dialog>...What, those guys?</Dialog>
-          <Dialog>I'm here to catch you. Everyone is excited right now, so I guess it's not going to be a topic... run away.</Dialog>
-          <Dialog>I'll let you get away. Are you going?</Dialog>
-          <Dialog>Huh? Wait, ● is alone...</Dialog>
-          <Dialog>Hmm...!</Dialog>
-          <Dialog>Wow, the wind...!</Dialog>
-          <Dialog>Thank you so much!</Dialog>
-          <Dialog>▲Anegasaki*▲~!</Dialog>
-          <Dialog>▲Anegasaki*▲ーー!!</Dialog>
-          <Dialog>Huh? This is...●'s room...</Dialog>
-          <Dialog>…………………</Dialog>
-          <Dialog>Even if the world is enemies, ● is on the side of ▲Anegasaki*▲!</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ふふふ……とうとうこの日がやってきたんだ！</Dialog>
+          <Dialog>世界に名高い双子山。この頂きに挑戦する日をどんなに心待ちにしたことか……登るぞー！</Dialog>
+          <Dialog>？？？</Dialog>
+          <Dialog>……っ……。</Dialog>
+          <Dialog>ん？</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>今何か聞こえたような。気のせいか？　まあいいや……。</Dialog>
+          <Dialog>ふう……。</Dialog>
+          <Dialog>それにしても柔らかい地面だな……よし、ピッケルを刺して……。</Dialog>
+          <Dialog>やめて！</Dialog>
+          <Dialog>あれ……？</Dialog>
+          <Dialog>気のせいか……まあ、なしでも大丈夫かな。</Dialog>
+          <Dialog>ここまでかな……よし、今日はここでビバークしよう。</Dialog>
+          <Dialog>えっと……火をおこして……。</Dialog>
+          <Dialog>きゃあ！</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>もう、いい加減にして！</Dialog>
+          <Dialog>あれ急に視界が開けて……。</Dialog>
+          <Dialog>……これは見事な双子山…………え、▲姉ヶ崎＊▲が巨人に!?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>もう、さっきから何やってるのよ。こんなときに！</Dialog>
+          <Dialog>何って、そこに山があるからさ！</Dialog>
+          <Dialog>？　そうじゃなくて……もう、助けに来てくれたんでしょ？</Dialog>
+          <Dialog>助けに？</Dialog>
+          <Dialog>そう。私、捕まっちゃったから。</Dialog>
+          <Dialog>（はりつけられた捕らわれの巨人……そうか……これって……）</Dialog>
+          <Dialog>……違うの？</Dialog>
+          <Dialog>えっと……そうだったそうだった！　助けに来たんだよ！　なんだよ、登山って、ははは！</Dialog>
+          <Dialog>ありがとう……でも気持ちは嬉しいけど、今すぐ逃げて。みんなが戻ってこないうちに。</Dialog>
+          <Dialog>みんなって？</Dialog>
+          <Dialog>あなたの仲間に決まってるでしょ。</Dialog>
+          <Dialog>私、とうとう認めてもらえなかったね。あなたに私はふさわしくないって……。</Dialog>
+          <Dialog>●に▲姉ヶ崎＊▲が？　誰だよ、そんな勝手なこと言うの。</Dialog>
+          <Dialog>だからみんなよ。世界中のみんな。</Dialog>
+          <Dialog>……世界？</Dialog>
+          <Dialog>そう、今や世界中が私たちの敵だもの。</Dialog>
+          <Dialog>世界が●の……。なんでそんなことに……。</Dialog>
+          <Dialog>やっぱり私がこんなに大きいのがいけないんだね。</Dialog>
+          <Dialog>そんな……。●は▲姉ヶ崎＊▲と別れる気なんてないぞ！</Dialog>
+          <Dialog>うん、私も。</Dialog>
+          <Dialog>一緒に逃げよう!!</Dialog>
+          <Dialog>ダメ。こんなキツキツに縛られちゃって、全然動けないの。</Dialog>
+          <Dialog>このままじゃあなたも捕まっちゃう。今は一人で逃げて。</Dialog>
+          <Dialog>そんな状態の▲姉ヶ崎＊▲を置いてくなんて、出来るわけないだろ！</Dialog>
+          <Dialog>私なんかより、今はあなたのほうが危険でしょ。裏切り者は処刑されちゃうんだよ。</Dialog>
+          <Dialog>そんなの！　●は絶対▲姉ヶ崎＊▲を見捨てないからな！</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>……その気持ちだけでもう十分。あなたのおかげで私、すごく幸せだったよ。</Dialog>
+          <Dialog>何言ってんだよ……。</Dialog>
+          <Dialog>あなたと過ごした時間は短いけど、でも、一生分幸せにしてもらったから。だから私、怖くないよ。</Dialog>
+          <Dialog>そんなこと言うな！</Dialog>
+          <Dialog>あなたがもし捕まっても、私のことなんて嫌いって言えばいいから。それであなたは助かるから。</Dialog>
+          <Dialog>兵士Ａ</Dialog>
+          <Dialog>いたぞ！</Dialog>
+          <Dialog>兵士Ｂ</Dialog>
+          <Dialog>捕まえろ！</Dialog>
+          <Dialog>兵士Ｃ</Dialog>
+          <Dialog>裏切り者だ！</Dialog>
+          <Dialog>……なんだ、あいつら？</Dialog>
+          <Dialog>あなたを捕まえに来たの。今はみんな興奮してて、話にならないだろうから……逃げて。</Dialog>
+          <Dialog>私が逃がしてあげる。いくよ？</Dialog>
+          <Dialog>えっ？　待てよ、●は一人じゃ……。</Dialog>
+          <Dialog>ふー……！</Dialog>
+          <Dialog>わっ、風が……！</Dialog>
+          <Dialog>今までありがとう～！</Dialog>
+          <Dialog>▲姉ヶ崎＊▲～！</Dialog>
+          <Dialog>▲姉ヶ崎＊▲ーーーー!!</Dialog>
+          <Dialog>はっ!?　ここは……●の部屋……。</Dialog>
+          <Dialog>………………。</Dialog>
+          <Dialog>世界中が敵に回っても、●は▲姉ヶ崎＊▲の味方だからな！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2605,53 +2605,53 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>...Whew, you've finally settled down.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Oh, Anegasaki*▲.</Dialog>
-          <Dialog>What's wrong, are you tired? It was directly from the wedding venue.</Dialog>
-          <Dialog>Ceremony venue? That means...</Dialog>
-          <Dialog>It's always been my dream to come to this country on my honeymoon. Thank you for making it come true, you ▼</Dialog>
-          <Dialog>Honeymoon... ● and ▲Anegasaki*▲...</Dialog>
-          <Dialog>What's wrong, you?</Dialog>
-          <Dialog>Yes, I suddenly started to feel it...</Dialog>
-          <Dialog>Finally, now? She's so cute, so now.</Dialog>
-          <Dialog>mother…….</Dialog>
-          <Dialog>This is a nice room. The furniture, the lighting, the smell, the bed...</Dialog>
-          <Dialog>Yes, that's good. Welcome service for these petals.</Dialog>
-          <Dialog>It would be a waste to break it down.</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>(...Don't be nervous. I have to say something...)</Dialog>
-          <Dialog>Um, ▲Anegasaki*▲?</Dialog>
-          <Dialog>Hey, you ▼</Dialog>
-          <Dialog>He said that coming to this country has always been his dream...</Dialog>
-          <Dialog>It's a classic. I've always thought this is the honeymoon since I was little. Did you write it in your essay too? My dreams for the future.</Dialog>
-          <Dialog>My dream has become a reality. Thanks to your wonderful husband ▼</Dialog>
-          <Dialog>I see. ▲Anegasaki*▲ would be so pleased here.</Dialog>
-          <Dialog>(...Is this a country? Um...)</Dialog>
-          <Dialog>...Hey, it's about time...</Dialog>
-          <Dialog>yeah?</Dialog>
-          <Dialog>……hey?</Dialog>
-          <Dialog>hey? What...What?</Dialog>
-          <Dialog>Of course it's decided. ...Shall we go?</Dialog>
-          <Dialog>Wait a second, get ready!</Dialog>
-          <Dialog>Yes, Pompokoreen!</Dialog>
-          <Dialog>……Huh?</Dialog>
-          <Dialog>what happened? The ritual has already begun?</Dialog>
-          <Dialog>What is a ritual?</Dialog>
-          <Dialog>It's definitely a honeymoon ceremony for the Kingdom of Pokorin. Yes, Pompokoreen!</Dialog>
-          <Dialog>(It seems like something similar happened before...)</Dialog>
-          <Dialog>Seh's, Pompoko Porn!!</Dialog>
-          <Dialog>Yes, Pompoko Porn!!</Dialog>
-          <Dialog>I'm going! 100 more sets!</Dialog>
-          <Dialog>Oh, oh...</Dialog>
-          <Dialog>...Huh!?</Dialog>
-          <Dialog>What is it, a dream...</Dialog>
-          <Dialog>...I thought it was a good dream...</Dialog>
-          <Dialog>(It's "Pompokopoon"...)</Dialog>
-          <Dialog>HINT</Dialog>
-          <Dialog>Let's say "Pompokopoon" towards the microphone</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>……ふぅ、やっと落ち着いたね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あれ、▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>どうしたの、疲れちゃった？　式場から直行だったものね。</Dialog>
+          <Dialog>式場？　ってことは……。</Dialog>
+          <Dialog>ハネムーンでこの国に来るのがずっと夢だったの。叶えてくれてありがとう、アナタ▼</Dialog>
+          <Dialog>ハネムーン……。●と▲姉ヶ崎＊▲の……。</Dialog>
+          <Dialog>どうしたの、アナタ？</Dialog>
+          <Dialog>ううん、急に実感がわいてきたっていうか……。</Dialog>
+          <Dialog>今になってやっと？　カワイイんだから、もう。</Dialog>
+          <Dialog>はは……。</Dialog>
+          <Dialog>ここ、いいお部屋ね。家具も、照明も、匂いも、このベッドも……。</Dialog>
+          <Dialog>うん、いいよな。この花びらのウェルカムサービス。</Dialog>
+          <Dialog>崩しちゃうのが、勿体ないね。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>（……なんか緊張するな。何かしゃべらないと……）</Dialog>
+          <Dialog>えーと、▲姉ヶ崎＊▲？</Dialog>
+          <Dialog>なあに、アナタ▼</Dialog>
+          <Dialog>この国にくるのがずっと夢だったって言ってたけど……。</Dialog>
+          <Dialog>定番だもん。小さな頃から、ハネムーンは絶対ここって思ってたの。作文にも書いたんだよ？　将来の夢って。</Dialog>
+          <Dialog>夢が現実になっちゃった。ステキな旦那様のおかげだね▼</Dialog>
+          <Dialog>そっか。▲姉ヶ崎＊▲がそんなに喜んでくれるなら、ここにして良かったよ。</Dialog>
+          <Dialog>（……って、ここなんて国だっけ？　えっと……）</Dialog>
+          <Dialog>……ねえ、そろそろ……。</Dialog>
+          <Dialog>ん？</Dialog>
+          <Dialog>……ね？</Dialog>
+          <Dialog>ね？　って……何？</Dialog>
+          <Dialog>もちろん決まってるじゃない。……いくよ？</Dialog>
+          <Dialog>ちょっと待って、心の準備が！</Dialog>
+          <Dialog>はい、ポンポコリーン！</Dialog>
+          <Dialog>…………えっ？</Dialog>
+          <Dialog>どうしたの？　儀式はもう始まってるよ？</Dialog>
+          <Dialog>儀式って何の……。</Dialog>
+          <Dialog>ポコリン王国のハネムーンの儀式に決まってるでしょ。はい、ポンポコリーン！</Dialog>
+          <Dialog>（なんか前にも同じようなことがあったような……）</Dialog>
+          <Dialog>せーの、ポンポコポーン!!</Dialog>
+          <Dialog>ええい、ポンポコポーン!!</Dialog>
+          <Dialog>いくよー！　あと１００セットー！</Dialog>
+          <Dialog>お、おー……。</Dialog>
+          <Dialog>……はっ!?</Dialog>
+          <Dialog>なんだ、夢か……。</Dialog>
+          <Dialog>……いい夢だったと思ったんだけどな……。</Dialog>
+          <Dialog>（“ポンポコポーン”だよな……）</Dialog>
+          <Dialog>ＨＩＮＴ</Dialog>
+          <Dialog>マイクに向かって“ポンポコポーン”と声を出そう</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3215,84 +3215,84 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>So here is today's forecast. Towano city will begin to collapse in the evening, with showers coming down everywhere by night.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(Huh, it's ▲Anegasaki*▲. Why on TV...?</Dialog>
-          <Dialog>AD</Dialog>
-          <Dialog>producer!</Dialog>
-          <Dialog>……yeah? ...Eh, ●!?</Dialog>
-          <Dialog>It's not the time to be fuzzy! If we're below 1% today's viewership rating, we'll be fired!</Dialog>
-          <Dialog>What, you're fired?</Dialog>
-          <Dialog>Ah, it's 1.7% now! It's over!</Dialog>
-          <Dialog>Even if you suddenly say that!</Dialog>
-          <Dialog>Next is the weather clog forecast section for weather forecaster Geromaru!</Dialog>
-          <Dialog>Geromaru-kun will skip the sandals and make a forecast.</Dialog>
-          <Dialog>(Huh. ▲Anegasaki*▲ seemed to hate frogs... I wonder if that's fine.)</Dialog>
-          <Dialog>Today, I'll try skipping my shoes along with Geromaru-kun. Let's do our best, Geromaru-kun!</Dialog>
-          <Dialog>Geromaru</Dialog>
-          <Dialog>I vomit and vomit...</Dialog>
-          <Dialog>Wow...</Dialog>
-          <Dialog>what happened? Geromaru-kun?</Dialog>
-          <Dialog>I drank too much yesterday. The old man is old now too...</Dialog>
-          <Dialog>...Is this character's fault for not being able to get viewership ratings?</Dialog>
-          <Dialog>Geromaru-kun, do your best! That's all for now!</Dialog>
-          <Dialog>Growing!</Dialog>
-          <Dialog>...Ah. ▲Anegasaki*▲, if you raise your legs that much...</Dialog>
-          <Dialog>Hmm, it's turned over.</Dialog>
-          <Dialog>Gerogero!</Dialog>
-          <Dialog>Producer, the numbers have risen!</Dialog>
-          <Dialog>What?</Dialog>
-          <Dialog>The moment Anegasaki lifted her legs, it rose! It exceeded 5% for a moment!</Dialog>
-          <Dialog>...I see, that's the way it is... No no no no no no no no no no no no no no no no...</Dialog>
-          <Dialog>Wow, it's 1.1%! Producer!!</Dialog>
-          <Dialog>...No! You can't do that!</Dialog>
-          <Dialog>...That's right, I've reviewed the producer!</Dialog>
-          <Dialog>Hehe.</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>I like this show. This show I created with you!</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
-          <Dialog>Because I'll do my best!</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>So, let the wind go!</Dialog>
-          <Dialog>wind?</Dialog>
-          <Dialog>yes! If that's the case, it's natural, so it's fine!</Dialog>
-          <Dialog>(The wind... Then blow your breath...)</Dialog>
-          <Dialog>The wind! It will spark the wind!</Dialog>
-          <Dialog>(To create the wind, you have to blow breath...)</Dialog>
-          <Dialog>Hmm!</Dialog>
-          <Dialog>With that tone, more!</Dialog>
-          <Dialog>Whew...</Dialog>
-          <Dialog>Hehe!</Dialog>
-          <Dialog>Yes, it's fine! Just another break!</Dialog>
-          <Dialog>Hahaha...</Dialog>
-          <Dialog>Hmm!!</Dialog>
-          <Dialog>Ahhh!</Dialog>
-          <Dialog>It's bad, I blew too much! This is a skirt from ▲Anegasaki*▲!</Dialog>
-          <Dialog>Gero!</Dialog>
-          <Dialog>Oh, Geromaru-kun! thank you…….</Dialog>
-          <Dialog>Geromaru-kun...</Dialog>
-          <Dialog>Hey, producer.</Dialog>
-          <Dialog>Yes, yes.</Dialog>
-          <Dialog>No matter what happens, I'm hoping to take care of my girlfriend. Otherwise... you'll lose sight of the most important thing.</Dialog>
-          <Dialog>Heh, I said something that the frog didn't have a mark on the mark.</Dialog>
-          <Dialog>no way! Thank you, Geromaru-kun!</Dialog>
-          <Dialog>producer.</Dialog>
-          <Dialog>Oh, what's wrong? You too will protect the most important thing...</Dialog>
-          <Dialog>I couldn't protect it.</Dialog>
-          <Dialog>what?</Dialog>
-          <Dialog>Viewership rating is 0%... right after Geromaru-kun released the ban.</Dialog>
-          <Dialog>What!</Dialog>
-          <Dialog>Vomiting?</Dialog>
-          <Dialog>Local heavy rains are expected today. Be careful of rain that looks like a bucket has been turned over.</Dialog>
-          <Dialog>Wow!</Dialog>
-          <Dialog>...Is it a dream? ...It's kind of... cold...</Dialog>
-          <Dialog>……a.</Dialog>
-          <Dialog>Ahhh!!</Dialog>
-          <Dialog>(It will blow a lot of breath and create the wind!)</Dialog>
-          <Dialog>HINT</Dialog>
-          <Dialog>Breathe at the microphone</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>それでは今日の予報です。とわの市は夕方から崩れ始め、夜には各地でにわか雨が降るでしょう。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（あれ、▲姉ヶ崎＊▲だ。なんでテレビに……）</Dialog>
+          <Dialog>ＡＤ</Dialog>
+          <Dialog>プロデューサー！</Dialog>
+          <Dialog>……ん？　……えっ、●!?</Dialog>
+          <Dialog>ボンヤリしてる場合じゃないですよ！　今日の視聴率１％切ったら、俺たちクビなんですから！</Dialog>
+          <Dialog>え、クビ!?</Dialog>
+          <Dialog>ああっ、今１．７％です！　もうおしまいです！</Dialog>
+          <Dialog>そんなこと急に言われても！</Dialog>
+          <Dialog>次は気象予報士ゲロ丸くんの、お天気下駄予報コーナー！</Dialog>
+          <Dialog>ゲロ丸くんが下駄を飛ばして予報してくれまーす。</Dialog>
+          <Dialog>（あれ。▲姉ヶ崎＊▲ってカエル嫌いだったような……あれはいいのかな）</Dialog>
+          <Dialog>今日は、私もゲロ丸くんと一緒に、靴を飛ばしてみますね。がんばろう、ゲロ丸くん！</Dialog>
+          <Dialog>ゲロ丸</Dialog>
+          <Dialog>ゲロゲロゲロ……。</Dialog>
+          <Dialog>うわ……。</Dialog>
+          <Dialog>どうしたの？　ゲロ丸くん？</Dialog>
+          <Dialog>昨日飲み過ぎちゃって。もうオジさんも歳だね……。</Dialog>
+          <Dialog>……視聴率取れないの、このキャラのせいなんじゃないのか。</Dialog>
+          <Dialog>ゲロ丸くん、がんばって！　それじゃ、いっくよー！</Dialog>
+          <Dialog>ゲロゲロー！</Dialog>
+          <Dialog>……あっ。▲姉ヶ崎＊▲、そんなに足を上げたら……。</Dialog>
+          <Dialog>んー、裏返しになっちゃいましたね。</Dialog>
+          <Dialog>ゲロッゲロー！</Dialog>
+          <Dialog>プロデューサー、数字上がりました！</Dialog>
+          <Dialog>なんだって？</Dialog>
+          <Dialog>姉ヶ崎さんが足上げた瞬間、バーンと上がりましたよ！　一瞬だけ５％を超えました！</Dialog>
+          <Dialog>……なるほどそういう手が……。いやいや●のカノジョをそんなことには……。</Dialog>
+          <Dialog>うわっ、１．１％になっちゃいました！　プロデューサー!!</Dialog>
+          <Dialog>……ダメだ！　そんなことはできない！</Dialog>
+          <Dialog>……ですよね、プロデューサー見直したっす！</Dialog>
+          <Dialog>へへ。</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>私、この番組が好きなの。あなたと一緒に作り上げたこの番組が！</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>私、がんばれるから！</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>だから、風を起こして！</Dialog>
+          <Dialog>風？</Dialog>
+          <Dialog>そう！　それなら自然だから、大丈夫！</Dialog>
+          <Dialog>（風か……じゃあ息を吹きかけて……）</Dialog>
+          <Dialog>風よ！　風を起こすの！</Dialog>
+          <Dialog>（風を起こすには、息を吹きかけないと……）</Dialog>
+          <Dialog>ふー！</Dialog>
+          <Dialog>その調子で、もっと！</Dialog>
+          <Dialog>ふう……。</Dialog>
+          <Dialog>ふーー！</Dialog>
+          <Dialog>うん、いいよ！　もう一息！</Dialog>
+          <Dialog>はあはあ……。</Dialog>
+          <Dialog>ふーーーー!!</Dialog>
+          <Dialog>きゃー！</Dialog>
+          <Dialog>まずい、吹きすぎた！　これじゃ、▲姉ヶ崎＊▲のスカートが！</Dialog>
+          <Dialog>ゲロー！</Dialog>
+          <Dialog>あ、ゲロ丸くん！　ありがとう……。</Dialog>
+          <Dialog>ゲロ丸くん……。</Dialog>
+          <Dialog>おい、プロデューサー。</Dialog>
+          <Dialog>は、はい。</Dialog>
+          <Dialog>何があっても、カノジョのことは大切にしてやんな。じゃないと……一番大事な物を見失うぜ。</Dialog>
+          <Dialog>へっ、カエルが柄にもないこと言っちまったな。</Dialog>
+          <Dialog>とんでもない！　ありがとう、ゲロ丸くん！</Dialog>
+          <Dialog>プロデューサー。</Dialog>
+          <Dialog>おう、どうした！　君もなあ、一番大事な物、ちゃんと守るんだぜ……。</Dialog>
+          <Dialog>守れませんでした。</Dialog>
+          <Dialog>なに？</Dialog>
+          <Dialog>視聴率、０％です……ゲロ丸くんがＮＧ出した直後に。</Dialog>
+          <Dialog>なにー！</Dialog>
+          <Dialog>ゲロ？</Dialog>
+          <Dialog>本日は、局地的な豪雨が予想されます。バケツをひっくり返したような雨には、じゅ～ぶんお気をつけ下さい。</Dialog>
+          <Dialog>うわ！</Dialog>
+          <Dialog>……夢か、なんだ。……なんか……冷た……。</Dialog>
+          <Dialog>……あ。</Dialog>
+          <Dialog>ああーーーー!!</Dialog>
+          <Dialog>（大きく息を吹きかけて風を起こすぞ！）</Dialog>
+          <Dialog>ＨＩＮＴ</Dialog>
+          <Dialog>マイクに向かって息を吹きかけろ</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3711,65 +3711,65 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Here it is! Look, a great view!</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>mother. ▲Anegasaki*▲, if you hurry too much, it's dangerous.</Dialog>
-          <Dialog>Here it is!</Dialog>
-          <Dialog>Hey, wait.</Dialog>
-          <Dialog>...▲Anegasaki*▲? Hey!</Dialog>
-          <Dialog>Aaaaah!!</Dialog>
-          <Dialog>▲Anegasaki*▲!?</Dialog>
-          <Dialog>It hurts...</Dialog>
-          <Dialog>Are you okay?</Dialog>
-          <Dialog>No... A big snake...</Dialog>
-          <Dialog>Did you get bitten?!</Dialog>
-          <Dialog>Ugh...it hurts...</Dialog>
-          <Dialog>The wound turns purple... This might be poison...</Dialog>
-          <Dialog>Ha...ha...</Dialog>
-          <Dialog>Do it well! At times like this... uh, tie the wound closer to the heart, then...</Dialog>
-          <Dialog>Poison... suck it out...</Dialog>
-          <Dialog>That's right! Let's go!</Dialog>
-          <Dialog>Umm...</Dialog>
-          <Dialog>Please, hurry...</Dialog>
-          <Dialog>Sorry!</Dialog>
-          <Dialog>Hmm...!!</Dialog>
-          <Dialog>...Did it hurt?</Dialog>
-          <Dialog>That's fine. It's okay, so keep going...</Dialog>
-          <Dialog>Understood.</Dialog>
-          <Dialog>Ugh...</Dialog>
-          <Dialog>(The feel is soft...no, no! It's not time to think about that!)</Dialog>
-          <Dialog>………Pee. ………Pee.</Dialog>
-          <Dialog>(If you suck it hard, it's likely to get scars. But you have to suck out the poison completely...)</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>...Uhh...</Dialog>
-          <Dialog>...▲Anegasaki*▲, are you okay? I smoked quite a bit though...</Dialog>
-          <Dialog>……yeah…….</Dialog>
-          <Dialog>▲Anegasaki*▲?</Dialog>
-          <Dialog>…………………</Dialog>
-          <Dialog>Be sure to get it right, ▲Anegasaki*▲!! Don't go to sleep!</Dialog>
-          <Dialog>No more, I'm so sleepy... I wonder if I'll never wake up again if I sleep here...</Dialog>
-          <Dialog>Keep your mind, it's definitely helpful!</Dialog>
-          <Dialog>Sorry, it was a good date...</Dialog>
-          <Dialog>Don't worry about that!</Dialog>
-          <Dialog>……picture?</Dialog>
-          <Dialog>So you don't have to worry about that! Dates are always...</Dialog>
-          <Dialog>...Is that so? Something like a date?</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>What does that mean? The long-awaited date is not me and you! That's something like that, or something like a date!</Dialog>
-          <Dialog>That's the time right now...</Dialog>
-          <Dialog>No! I just went on a date with such a light heart... I can't stand it...!!</Dialog>
-          <Dialog>What!? That's why ● said that with that in mind...</Dialog>
-          <Dialog>Ugh, poison...!</Dialog>
-          <Dialog>Wow, ▲Anegasaki*▲!</Dialog>
-          <Dialog>Ugh, should I leave this grudge with ease?...</Dialog>
-          <Dialog>▲Anegasaki*▲? ▲Anegasaki*▲~~!!</Dialog>
-          <Dialog>▲Anegasaki*▲!!</Dialog>
-          <Dialog>...Dream, right? good…….</Dialog>
-          <Dialog>...▲Anegasaki*▲ shouldn't make you angry. You have to be careful of even the smallest words.</Dialog>
-          <Dialog>(I have to suck out the poison from the wound as soon as possible!)</Dialog>
-          <Dialog>HINT</Dialog>
-          <Dialog>Touch the wound</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>こっちこっち！　ほら、いい眺め！</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>はは。▲姉ヶ崎＊▲、あまり急ぐと危ないぞ～。</Dialog>
+          <Dialog>こっちこっち！</Dialog>
+          <Dialog>おーい、待てって。</Dialog>
+          <Dialog>……▲姉ヶ崎＊▲？　おーい！</Dialog>
+          <Dialog>きゃーーーーっ!!</Dialog>
+          <Dialog>▲姉ヶ崎＊▲!?</Dialog>
+          <Dialog>痛っ……。</Dialog>
+          <Dialog>大丈夫か!?</Dialog>
+          <Dialog>ダメ……。大きな蛇に……。</Dialog>
+          <Dialog>噛まれたのか!?</Dialog>
+          <Dialog>うぅ……痛い……。</Dialog>
+          <Dialog>傷が紫色に……。これは毒かも……。</Dialog>
+          <Dialog>はぁ……はぁ……。</Dialog>
+          <Dialog>しっかりするんだ！　こんな時は……えーと、傷口から心臓に近いほうを縛って、それから……。</Dialog>
+          <Dialog>毒……吸い出して……。</Dialog>
+          <Dialog>そうだ、それだ！　いくぞ！</Dialog>
+          <Dialog>えっと……。</Dialog>
+          <Dialog>お願い、早く……。</Dialog>
+          <Dialog>ご、ごめん！</Dialog>
+          <Dialog>んっ……!!</Dialog>
+          <Dialog>……痛かった？</Dialog>
+          <Dialog>いいの。大丈夫だから、続けて……。</Dialog>
+          <Dialog>わかった。</Dialog>
+          <Dialog>うっ……。</Dialog>
+          <Dialog>（感触が柔らかい……ダメだダメだ！　そんなこと考えてる場合じゃない！）</Dialog>
+          <Dialog>…………ぺっ。…………ぺっ。</Dialog>
+          <Dialog>（思い切り吸ったら、痕になっちゃいそうだ。でも毒を完全に吸い出さないと……）</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>……うぅ……。</Dialog>
+          <Dialog>……▲姉ヶ崎＊▲、大丈夫か？　結構吸ったけど……。</Dialog>
+          <Dialog>……ん……。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲？</Dialog>
+          <Dialog>………………。</Dialog>
+          <Dialog>しっかりしろ、▲姉ヶ崎＊▲!!　寝ちゃダメだ！</Dialog>
+          <Dialog>もうダメ、すごく眠い……。ここで寝たら、もう二度と目覚めないのかな……。</Dialog>
+          <Dialog>気をしっかり持つんだ、絶対助かるから！</Dialog>
+          <Dialog>ごめんね、せっかくのデートだったのに……。</Dialog>
+          <Dialog>そんなの気にすんなって！</Dialog>
+          <Dialog>……え？</Dialog>
+          <Dialog>だから、そんなの気にしなくていい！　デートなんかいつだって……。</Dialog>
+          <Dialog>……そんなの？　デートなんか？</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>どういうこと？　待ちに待った、あなたと私のデートじゃない！　それをそんなのとか、デートなんかとか！</Dialog>
+          <Dialog>今はそんな場合じゃ……。</Dialog>
+          <Dialog>いやっ！　そんな軽い気持ちでデートしてただなんて……。私、耐えられない……!!</Dialog>
+          <Dialog>ええっ!?　だから、●はそういうつもりで言ったんじゃ……。</Dialog>
+          <Dialog>うっ、毒が……！</Dialog>
+          <Dialog>うわっ、▲姉ヶ崎＊▲！</Dialog>
+          <Dialog>うぅ、この恨み、晴らさでおくべきか～……がくり。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲？　▲姉ヶ崎＊▲～～!!</Dialog>
+          <Dialog>▲姉ヶ崎＊▲!!</Dialog>
+          <Dialog>…………夢、か。よかった……。</Dialog>
+          <Dialog>……▲姉ヶ崎＊▲は怒らせちゃいけないな。些細な言葉にも気をつけないと。</Dialog>
+          <Dialog>（早く傷口から毒を吸い出さないと！）</Dialog>
+          <Dialog>ＨＩＮＴ</Dialog>
+          <Dialog>傷口にタッチしろ</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4353,75 +4353,75 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(Hmm... what, it smells nice...)</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>You?</Dialog>
-          <Dialog>yeah?</Dialog>
-          <Dialog>What's wrong, I'm dazzling. Isn't it dangerous?</Dialog>
-          <Dialog>▲Anegasaki*▲!? Umm, you...</Dialog>
-          <Dialog>What, are you still not used to calling it this?</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>n/a</Dialog>
-          <Dialog>(I see... right now ● is ▲Anegasaki*▲ and I'm in the middle of the newlywed life...)</Dialog>
-          <Dialog>Ah, the pot is... hot!</Dialog>
-          <Dialog>Are you? Are you okay? show me.</Dialog>
-          <Dialog>It's okay, just cool it lightly with water.</Dialog>
-          <Dialog>Water is fine though...</Dialog>
-          <Dialog>With my earlobe...</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>It's still too early.</Dialog>
-          <Dialog>Sorry, sorry.</Dialog>
-          <Dialog>I won't play here.</Dialog>
-          <Dialog>Hahaha.</Dialog>
-          <Dialog>……already.</Dialog>
-          <Dialog>Haha, cold?</Dialog>
-          <Dialog>Yes, it's soft...</Dialog>
-          <Dialog>It's not like that already!</Dialog>
-          <Dialog>Hahaha!</Dialog>
-          <Dialog>Hehehe♪</Dialog>
-          <Dialog>Sorry, I'll help you out.</Dialog>
-          <Dialog>Please, you ▼</Dialog>
-          <Dialog>(▲Anegasaki*▲...)</Dialog>
-          <Dialog>(With such a cute and kind wife...● is the happiest person in the world!)</Dialog>
-          <Dialog>Yes, this is what it is... Hey?</Dialog>
-          <Dialog>I wonder if they'll taste it.</Dialog>
-          <Dialog>Umm...</Dialog>
-          <Dialog>It's hot, so let it cool before tasting it?</Dialog>
-          <Dialog>If it continues like this it will be hot so it will cool down, right?</Dialog>
-          <Dialog>(To cool it down, just fufu...)</Dialog>
-          <Dialog>Hehehe...</Dialog>
-          <Dialog>Yeah. here you are</Dialog>
-          <Dialog>n/a. You're doing it on purpose now, right?</Dialog>
-          <Dialog>Hehe.</Dialog>
-          <Dialog>It's dangerous if you're kidding me in the kitchen, isn't it?</Dialog>
-          <Dialog>That's right.</Dialog>
-          <Dialog>You, how about this taste?</Dialog>
-          <Dialog>delicious! ●'s wife is the best!</Dialog>
-          <Dialog>delicious! ●'s wife is the best!</Dialog>
-          <Dialog>Really? I tasted it properly.</Dialog>
-          <Dialog>I did it! But I want to taste it more, so I'll just take another bite!</Dialog>
-          <Dialog>Hehe, that's done properly. All you have to do is serve it, so you're sitting there.</Dialog>
-          <Dialog>Yes, I'm going to make you a good girl</Dialog>
-          <Dialog>Yes, I'll make you a good girl.</Dialog>
-          <Dialog>Okay, good kids. Can't you make it soon?</Dialog>
-          <Dialog>Babu! Wait a minute♪</Dialog>
-          <Dialog>Babu! Wait a minute♪</Dialog>
-          <Dialog>I'm already spoiled ▼</Dialog>
-          <Dialog>Hehe!</Dialog>
-          <Dialog>Hahaha...</Dialog>
-          <Dialog>Hehe...</Dialog>
-          <Dialog>Ahaha...▲Anegasaki*▲~▼</Dialog>
-          <Dialog>………Hmm……Huh, this room. So, is that... a dream?</Dialog>
-          <Dialog>Babu... ●, I wonder if he's being too spoiled by ▲Anegasaki*▲...</Dialog>
-          <Dialog>But it was fun...</Dialog>
-          <Dialog>(You should just touch your earlobe...)</Dialog>
-          <Dialog>(You have to breathe and let it cool...)</Dialog>
-          <Dialog>(Okay, let's taste it!)</Dialog>
-          <Dialog>HINT</Dialog>
-          <Dialog>Touch the earlobe</Dialog>
-          <Dialog>Breathe at the microphone</Dialog>
-          <Dialog>Touch the lady</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（ん……なんだ、いい匂い……）</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>アナタ？</Dialog>
+          <Dialog>ん？</Dialog>
+          <Dialog>どうしたの、ぼーっとして。危ないわよ？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲!?　えっと、アナタって……。</Dialog>
+          <Dialog>なあに、まだこの呼び方慣れないの？</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>ふふ▼</Dialog>
+          <Dialog>（そっか……今の●は▲姉ヶ崎＊▲と新婚生活真っ最中じゃないか……）</Dialog>
+          <Dialog>あ、鍋が……アツっ！</Dialog>
+          <Dialog>アナタ!?　大丈夫？　見せて。</Dialog>
+          <Dialog>大丈夫大丈夫、水で軽く冷やしておけば。</Dialog>
+          <Dialog>水でもいいけど……。</Dialog>
+          <Dialog>私の耳たぶで……とか。</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>こら、まだ早いよ。</Dialog>
+          <Dialog>ごめんごめん。</Dialog>
+          <Dialog>こーら、遊ばないの。</Dialog>
+          <Dialog>ははは。</Dialog>
+          <Dialog>……もう。</Dialog>
+          <Dialog>ふふ、冷たい？</Dialog>
+          <Dialog>うん、やわらかい……。</Dialog>
+          <Dialog>もう、違うでしょ！</Dialog>
+          <Dialog>ははは！</Dialog>
+          <Dialog>ふふふ♪</Dialog>
+          <Dialog>ごめんな、ちゃんと手伝うよ。</Dialog>
+          <Dialog>お願いします、アナタ▼</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲……）</Dialog>
+          <Dialog>（こんな可愛くて優しい奥さんがいて……●は世界一幸せ者だ！）</Dialog>
+          <Dialog>うん、こんな感じかな……。ねえ？</Dialog>
+          <Dialog>味見、してくれないかな。</Dialog>
+          <Dialog>えっと……。</Dialog>
+          <Dialog>熱いから、冷ましてから味見してね？</Dialog>
+          <Dialog>このままだと熱いから、冷ましてね？</Dialog>
+          <Dialog>（冷ますには、フーフーすればいいよな……）</Dialog>
+          <Dialog>ふーふー……。</Dialog>
+          <Dialog>うん。はい、どうぞ。</Dialog>
+          <Dialog>ふふ。もう、わざとやってるでしょ。</Dialog>
+          <Dialog>へへ。</Dialog>
+          <Dialog>キッチンでふざけたら……危ないでしょ？</Dialog>
+          <Dialog>だよね。</Dialog>
+          <Dialog>アナタ、この味どうかしら？</Dialog>
+          <Dialog>美味い！●の奥さんは最高だ！</Dialog>
+          <Dialog>美味い！　●の奥さんは最高だ！</Dialog>
+          <Dialog>ほんとに？　ちゃんと味見した。</Dialog>
+          <Dialog>したした！　でももっと味わいたいから、もう一口！</Dialog>
+          <Dialog>ふふ、それはちゃんとできてから。あとは盛り付けるだけだから、アナタは座ってて。</Dialog>
+          <Dialog>はーい、いい子にしてまーす</Dialog>
+          <Dialog>はーい、いい子にしてまーす。</Dialog>
+          <Dialog>よしよし、いい子いい子。もうすぐできまちゅからねー？</Dialog>
+          <Dialog>ばぶー！待ってまーちゅ♪</Dialog>
+          <Dialog>ばぶー！　待ってまーちゅ♪</Dialog>
+          <Dialog>もう、この甘えんぼ▼</Dialog>
+          <Dialog>ふふふ！</Dialog>
+          <Dialog>ははは……。</Dialog>
+          <Dialog>ふふふ……。</Dialog>
+          <Dialog>あはは……▲姉ヶ崎＊▲～▼</Dialog>
+          <Dialog>…………ん…………あれ、ここ●の部屋。じゃあ、あれは……夢？</Dialog>
+          <Dialog>ばぶーって……●、▲姉ヶ崎＊▲に甘え過ぎなのかな……。</Dialog>
+          <Dialog>でも、楽しかったな……。</Dialog>
+          <Dialog>（耳たぶを触ればいいんだな……）</Dialog>
+          <Dialog>（息を吹きかけて冷まさないと……）</Dialog>
+          <Dialog>（よし、味見するぞ！）</Dialog>
+          <Dialog>ＨＩＮＴ</Dialog>
+          <Dialog>耳たぶをタッチしろ</Dialog>
+          <Dialog>マイクに向かって息を吹きかけろ</Dialog>
+          <Dialog>おたまをタッチしろ</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4810,60 +4810,60 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>? ? ?</Dialog>
-          <Dialog>...Customer.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(……yeah?)</Dialog>
-          <Dialog>Customer, have you fallen asleep? Hehe.</Dialog>
-          <Dialog>(This voice is ▲Anegasaki*▲? What is it like here...)</Dialog>
-          <Dialog>(What is it, there's a towel on my face...)</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Huh huh ♪</Dialog>
-          <Dialog>(▲Anegasaki*▲...This is... a hair salon?)</Dialog>
-          <Dialog>Oh, I got a towel.</Dialog>
-          <Dialog>Oh, it's fine as it is!</Dialog>
-          <Dialog>But the bubbles are...</Dialog>
-          <Dialog>it's okay!</Dialog>
-          <Dialog>? Yes... if that's the case.</Dialog>
-          <Dialog>(The precious ▲Anegasaki*▲, I want to take a good look)</Dialog>
-          <Dialog>Shampoo is almost over. Are there any itchy parts?</Dialog>
-          <Dialog>Um...Are there any itchy parts?</Dialog>
-          <Dialog>(If you don't say "It's okay," you'll be washed as long as you want...)</Dialog>
-          <Dialog>it's okay.</Dialog>
-          <Dialog>Yes.</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>It's okay... isn't it? So...</Dialog>
-          <Dialog>So I'll let it flow.</Dialog>
-          <Dialog>(It feels good to be washed by Anegasaki*▲... so I guess he'd slept a little while ago)</Dialog>
-          <Dialog>Hmmm ♪</Dialog>
-          <Dialog>(Ah, it feels good... I'll go to sleep again...)</Dialog>
-          <Dialog>Well, what do you think?</Dialog>
-          <Dialog>Um, a nice view, I guess...</Dialog>
-          <Dialog>Huh? Is it about the amount of hot water?</Dialog>
-          <Dialog>Ah, that's it! Yes, it's completely fine! Perfect!</Dialog>
-          <Dialog>Hehe. Customers, interesting people ▼</Dialog>
-          <Dialog>mother…….</Dialog>
-          <Dialog>It's almost over. If it hurts or gets hot, feel free to let me know.</Dialog>
-          <Dialog>Heh, heh, hehh♪</Dialog>
-          <Dialog>(Huh... it's the best hair salon. But it feels complicated to think that this would be done to other customers too...)</Dialog>
-          <Dialog>……customer? Have you fallen asleep again?</Dialog>
-          <Dialog>Huh? Awake awake awake.</Dialog>
-          <Dialog>I don't respond when I call. Haha, did you feel that good?</Dialog>
-          <Dialog>Of course! This is what Gokuraku means.</Dialog>
-          <Dialog>No way, the customer is good ▼</Dialog>
-          <Dialog>Yes, the hair washing is over. Next time I'll have a massage?</Dialog>
-          <Dialog>Yes.</Dialog>
-          <Dialog>Sorry, please give me a massage.</Dialog>
-          <Dialog>Hairdresser</Dialog>
-          <Dialog>What...?</Dialog>
-          <Dialog>Customer, first time? I'll provide service.</Dialog>
-          <Dialog>What!? Wait a second...</Dialog>
-          <Dialog>Wow!</Dialog>
-          <Dialog>Aaaaah!</Dialog>
-          <Dialog>……a? My room... a dream?</Dialog>
-          <Dialog>I guess I slept wrong in my neck...</Dialog>
-          <Dialog>HINT</Dialog>
-          <Dialog>Talk to the microphone and say "It's okay."</Dialog>
+          <Dialog>？？？</Dialog>
+          <Dialog>……お客様～。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（……ん？）</Dialog>
+          <Dialog>お客様～、寝ちゃいましたか？　ふふっ。</Dialog>
+          <Dialog>（この声は、▲姉ヶ崎＊▲？　ここは一体……）</Dialog>
+          <Dialog>（なんだ、顔にタオルがかかってる……）</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふんふふ～ん♪</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲……ここ……美容院？）</Dialog>
+          <Dialog>あれ、タオルとれちゃいましたね。</Dialog>
+          <Dialog>あ、このままで大丈夫です！</Dialog>
+          <Dialog>でも泡が……。</Dialog>
+          <Dialog>大丈夫です！</Dialog>
+          <Dialog>？　はい……それなら。</Dialog>
+          <Dialog>（せっかくの貴重な▲姉ヶ崎＊▲、ちゃんと見てたいもんな）</Dialog>
+          <Dialog>シャンプー、もうすぐ終わりますよ～。かゆいところはないですか？</Dialog>
+          <Dialog>えっと…………かゆいところはないですか？</Dialog>
+          <Dialog>（“大丈夫です”って言わないと、いつまででも洗われちゃうぞ……）</Dialog>
+          <Dialog>大丈夫です。</Dialog>
+          <Dialog>はーい。</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>大丈夫……ですよね。じゃあ……。</Dialog>
+          <Dialog>それじゃ、流しますね～。</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲に髪洗われるの、気持ちいいな……それでさっき寝ちゃってたのか）</Dialog>
+          <Dialog>ふんふーんふーーーん♪</Dialog>
+          <Dialog>（ああ、気持ちいい……また寝そう……）</Dialog>
+          <Dialog>よいしょっと……いかがですか～？</Dialog>
+          <Dialog>えーと、いい眺め、かな……。</Dialog>
+          <Dialog>えっ？　お湯加減ですよ？</Dialog>
+          <Dialog>ああ、そっちか！　うん全然大丈夫！　パーフェクト！</Dialog>
+          <Dialog>ふふっ。お客様、面白い人▼</Dialog>
+          <Dialog>はは……。</Dialog>
+          <Dialog>もうすぐ終わりますからね～。痛かったり熱かったりしたら、遠慮なく言ってくださいね。</Dialog>
+          <Dialog>ふふん、ふん、ふーん♪</Dialog>
+          <Dialog>（はぁ……最高の美容院だな。でもこれを他の客にもやると思うと、複雑な気も……）</Dialog>
+          <Dialog>……お客様？　また寝ちゃいました？</Dialog>
+          <Dialog>えっ？　起きてる起きてる。</Dialog>
+          <Dialog>呼んでも返事しないんだもの。ふふ、そんなに気持ち良かったですか？</Dialog>
+          <Dialog>そりゃもう！　極楽ってのはこういうことを言うんだなあ。</Dialog>
+          <Dialog>やだもう～、お客様ったらうまいんだから▼</Dialog>
+          <Dialog>はい、洗髪はおしまい。次はマッサージしますね？</Dialog>
+          <Dialog>は～い。</Dialog>
+          <Dialog>すいませーん、マッサージお願いしまーす。</Dialog>
+          <Dialog>美容師</Dialog>
+          <Dialog>えっ……？</Dialog>
+          <Dialog>お客さん、はじめて？　サービスするよ～。</Dialog>
+          <Dialog>えっ!?　ちょっ、待っ……。</Dialog>
+          <Dialog>うわああああ！</Dialog>
+          <Dialog>ああああああああ！</Dialog>
+          <Dialog>……あ？　俺の部屋……夢か。</Dialog>
+          <Dialog>いて……首寝違えたかな……。</Dialog>
+          <Dialog>ＨＩＮＴ</Dialog>
+          <Dialog>マイクに向かって“大丈夫です”と話しかけろ</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5326,63 +5326,63 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>(Ah... I don't get any more harvest today...)</Dialog>
-          <Dialog>(I wonder what about ▲Anegasaki*▲...)</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>▲Anegasaki*▲!</Dialog>
-          <Dialog>Look at it, so many♪</Dialog>
-          <Dialog>...Yeah, it's certainly amazing...</Dialog>
-          <Dialog>What?</Dialog>
-          <Dialog>Ugh, anything!</Dialog>
-          <Dialog>Hehe, that's weird.</Dialog>
-          <Dialog>(I wonder how long it has been since ● and the others were swept away to this island...)</Dialog>
-          <Dialog>(At first, the two of them were all confused, but I mean, it was ▲Anegasaki*▲ who adjusted to life on the island first...)</Dialog>
-          <Dialog>?</Dialog>
-          <Dialog>(He picked a lot of fruits this way again today. In exchange...)</Dialog>
-          <Dialog>...Ah, what about that?</Dialog>
-          <Dialog>Sorry, it didn't work today either. I didn't even catch a single fish.</Dialog>
-          <Dialog>I see... there's nothing I can do about it. Unlike fruits, fish move, so you need to get used to it.</Dialog>
-          <Dialog>Sorry, it's all Anegasaki*▲...</Dialog>
-          <Dialog>I don't care anymore. You didn't take the palm fruits and leaves from this outfit. I've got a lot from you too.</Dialog>
-          <Dialog>I see...</Dialog>
-          <Dialog>...It's always nice weather.</Dialog>
-          <Dialog>Ah, you can see the horizon very well.</Dialog>
-          <Dialog>...We're just two of us, right?</Dialog>
-          <Dialog>lonely?</Dialog>
-          <Dialog>Yes. As long as you are there, it's fine to just two of you. Until Death separates the two of them...</Dialog>
-          <Dialog>...What is it? I think it was a bit unlucky.</Dialog>
-          <Dialog>Well, if you wait this long and don't get help, you'll think of one or two bad things.</Dialog>
-          <Dialog>It might be inappropriate at times like this... I'm so happy right now.</Dialog>
-          <Dialog>happiness?</Dialog>
-          <Dialog>yes. Something smoldering somewhere in my mind has disappeared, and I feel refreshed.</Dialog>
-          <Dialog>Why…….</Dialog>
-          <Dialog>If you can't leave this island, you don't have to worry about going somewhere.</Dialog>
-          <Dialog>●He's planning on going anywhere...</Dialog>
-          <Dialog>Yeah. Just my fantasies.</Dialog>
-          <Dialog>I thought that one day you might disappear from me... Suddenly I became anxious for no reason, and I couldn't sleep...</Dialog>
-          <Dialog>Why is that so...?</Dialog>
-          <Dialog>I love you so much that I can't help but feel uneasy about what will happen if it disappears.</Dialog>
-          <Dialog>●It won't go away.</Dialog>
-          <Dialog>●Do you not believe it?</Dialog>
-          <Dialog>That's not the case. ...Yeah, maybe I'm not confident.</Dialog>
-          <Dialog>If I said that, then ●... ▲Anegasaki*▲ is...▲Anegasaki*▲ is ●'s proud girlfriend.</Dialog>
-          <Dialog>So don't say you're not confident. No matter where you are, who are around you, the only one in the ● is ▲Anegasaki*▲.</Dialog>
-          <Dialog>Yes...thank you...no, already.</Dialog>
-          <Dialog>After all, it would be fine to stay like this as long as you are there...</Dialog>
-          <Dialog>▲Anegasaki*▲...</Dialog>
-          <Dialog>Hey, maybe it's pointless in a place where there's no church, government office or anything.</Dialog>
-          <Dialog>▲The main character*▲. With me...</Dialog>
-          <Dialog>Huh?</Dialog>
-          <Dialog>...Is it okay?</Dialog>
-          <Dialog>▲Anegasaki*▲, what is it now...</Dialog>
-          <Dialog>I'll be waiting...</Dialog>
-          <Dialog>▲Anegasaki*▲!</Dialog>
-          <Dialog>...Hmm...</Dialog>
-          <Dialog>...Hmm, huh... is it a dream?</Dialog>
-          <Dialog>▲Anegasaki*▲, I wonder what he was trying to say at the end... I'm curious about it even in a dream.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>（はあ……今日も収穫なしか……）</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲の方はどうかな……）</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲！</Dialog>
+          <Dialog>見て見て、こんなにいっぱい♪</Dialog>
+          <Dialog>……うん、たしかにすごい……。</Dialog>
+          <Dialog>なにが？</Dialog>
+          <Dialog>ううん、なんでも！</Dialog>
+          <Dialog>ふふ、ヘンなの。</Dialog>
+          <Dialog>（●たちがこの島に流されて、もうどのくらい経っただろう……）</Dialog>
+          <Dialog>（最初は二人して戸惑うばかりだったけど、やっぱりというか、先に島の生活に順応したのは▲姉ヶ崎＊▲の方だった……）</Dialog>
+          <Dialog>？</Dialog>
+          <Dialog>（今日もこうして、果物をたくさん採ってきてくれたんだ。それに引き換え……）</Dialog>
+          <Dialog>……あ、そっちは？</Dialog>
+          <Dialog>ごめん、今日もダメだった。魚一匹も獲れなかったよ。</Dialog>
+          <Dialog>そっか……仕方ないよ。魚は果物と違って動くんだもん、慣れが必要だから。</Dialog>
+          <Dialog>ごめんな、▲姉ヶ崎＊▲にばっかり……。</Dialog>
+          <Dialog>もう、気にしないの。この服のヤシの実と葉っぱは、あなたが取ってくれたんじゃない。あなたからも、たくさんもらってるよ。</Dialog>
+          <Dialog>そっか……。</Dialog>
+          <Dialog>……いつも、いい天気だね。</Dialog>
+          <Dialog>ああ、水平線がよく見えるな。</Dialog>
+          <Dialog>……私たち、二人きりなんだね？</Dialog>
+          <Dialog>寂しい？</Dialog>
+          <Dialog>ううん。あなたさえいれば、一生二人きりでも構わない。このままずっと、死が二人を別つまで……。</Dialog>
+          <Dialog>……なんてね？　ちょっと縁起悪かったかな。</Dialog>
+          <Dialog>まぁ、これだけ待っても助けが来ないとなると、悪いことの一つや二つ考えちゃうよな。</Dialog>
+          <Dialog>こんな時に不謹慎かもしれないけど……。私ね、今すごく幸せなんだ。</Dialog>
+          <Dialog>幸せ？</Dialog>
+          <Dialog>そう。心のどこかでくすぶっていたものが消えて、スッキリした気分。</Dialog>
+          <Dialog>どうして……。</Dialog>
+          <Dialog>この島から出られないなら、あなたがどこかに行っちゃう心配、しなくていいもの。</Dialog>
+          <Dialog>●はどこにも行くつもりなんて……。</Dialog>
+          <Dialog>うん。ただの私の妄想。</Dialog>
+          <Dialog>いつかあなたが私の前からいなくなるんじゃないかって……急に理由もなく不安になって、眠れなくなって……。</Dialog>
+          <Dialog>どうしてそんな……。</Dialog>
+          <Dialog>あなたのことが好きで好きでたまらないから、もしいなくなったらどうなっちゃうんだろうって不安になるの。</Dialog>
+          <Dialog>●はいなくならないよ。</Dialog>
+          <Dialog>●のこと、信じられない？</Dialog>
+          <Dialog>そうじゃないの。……そうね、自分に自信がないのかもしれないな。</Dialog>
+          <Dialog>それを言ったら●だって……。▲姉ヶ崎＊▲は……▲姉ヶ崎＊▲は●の自慢のカノジョだよ。</Dialog>
+          <Dialog>だから自信がないなんて言わないで。どこにいたって、周りに誰がいたって、●には▲姉ヶ崎＊▲だけだよ。</Dialog>
+          <Dialog>うん……ありがとう……やだ、もう。</Dialog>
+          <Dialog>やっぱり、あなたがいればずっとこのままでもいいな……。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>ねえ、こんな、教会も役所も何もないところでは意味がないことなのかもしれないけど。</Dialog>
+          <Dialog>▲主人公＊▲。私と……。</Dialog>
+          <Dialog>えっ？</Dialog>
+          <Dialog>……いいかな？</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、今なんて……。</Dialog>
+          <Dialog>私、待ってるから……。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲ー！</Dialog>
+          <Dialog>……うーん……。</Dialog>
+          <Dialog>……ん、あれ……夢か。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、最後になんて言おうとしてたのかな……夢でも気になる。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

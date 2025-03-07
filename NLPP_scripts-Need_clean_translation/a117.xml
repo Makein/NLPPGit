@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<DBIN2 Key="591744409" Unknown="125">
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="591744409" Unknown="125">
   <Entries>
     <Entry Unknown0="4260634143" Unknown1="395199034">
       <SDL2 Key="2411145048">
@@ -166,29 +166,29 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>So, I'm worried about this book, recommended by the library committee. I wonder what to do...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, that's...</Dialog>
-          <Dialog>You should just choose a book that will make everyone's memories, like, "Oh, I read that book when I was in high school," right?</Dialog>
-          <Dialog>Well. But there are also some likes and dislikes, and there are books that can easily be remembered by everyone...</Dialog>
-          <Dialog>Yes, yes! I have a good idea!</Dialog>
-          <Dialog>?</Dialog>
-          <Dialog>Oh, there it is! Come on, this is it!</Dialog>
-          <Dialog>Um... Moryo no Hako, Kyogoku Natsuhiko...</Dialog>
-          <Dialog>yes. Doesn't it look interesting, right?</Dialog>
-          <Dialog>Yes, that sounds interesting. But... it's so thick, is this?</Dialog>
-          <Dialog>That's right! So, once you read to the end, I don't think you'll forget to go through it. Ah, I read it when I was in high school!</Dialog>
-          <Dialog>I feel like the meaning is a little different... Before that, is there any? This is a mystery, isn't it?</Dialog>
-          <Dialog>Mystery? Isn't it horror?</Dialog>
-          <Dialog>"No way"... Have you ever read it?</Dialog>
-          <Dialog>I? Yes, there isn't.</Dialog>
-          <Dialog>Huh?</Dialog>
-          <Dialog>I bought it because it looked really scary and thick and might be worth reading.</Dialog>
-          <Dialog>Once I put it on my bookshelf, I felt quite satisfied. Just like that, what's wrong, isn't it?</Dialog>
-          <Dialog>(Apparently Anegasaki*▲...)</Dialog>
-          <Dialog>Hey, shall we do this? If we read together, I'm sure we'll be able to do our best. Isn't it okay?</Dialog>
-          <Dialog>Together, right... Yes, that's good! So let's try our best to read it!</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>というわけで、悩んでるんだけどさ、図書委員推薦図書。どうするかなぁ……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇねぇ、つまりそれって……。</Dialog>
+          <Dialog>“あぁ、高校時代にあの本を読んだなぁ”って、みんなの思い出になるような本を選べばいいんでしょ？</Dialog>
+          <Dialog>まあね。でも、好き嫌いもあるし、そう簡単にみんなの思い出になる本なんて――</Dialog>
+          <Dialog>はい、はぁい！　わたしにいいアイディアがあります！</Dialog>
+          <Dialog>？</Dialog>
+          <Dialog>あ、あった！　ほら、これこれ！</Dialog>
+          <Dialog>えぇと……魍魎の匣（もうりょうのはこ）、京極夏彦（きょうごくなつひこ）か……。</Dialog>
+          <Dialog>そう。面白そうでしょ？</Dialog>
+          <Dialog>うん、面白そうだね。でもさ……すごく分厚いよ、これ？</Dialog>
+          <Dialog>そうなの！　だから、最後まで読んだら、ゼッタイ忘れないと思う。あぁ、高校時代に読んだなぁって！</Dialog>
+          <Dialog>ちょっと意味が違うような気も……。その前に、ありなのか？　これ、ミステリーだよね？</Dialog>
+          <Dialog>ミステリー？　ホラーじゃないの？</Dialog>
+          <Dialog>“じゃないの”って……読んだことあるんじゃないの？</Dialog>
+          <Dialog>わたし？　ううん、無いよ。</Dialog>
+          <Dialog>えぇっ？</Dialog>
+          <Dialog>すごく怖そうだし、分厚くて読みごたえもありそうだなって、買ったんだけど。</Dialog>
+          <Dialog>一度本棚に入れちゃうと、なんか満足しちゃって。そのまま、なんとなぁく、ね？</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲らしいな……）</Dialog>
+          <Dialog>ね、これにしよ？　ふたりで一緒に読めば、きっと頑張れると思う。いいでしょ？</Dialog>
+          <Dialog>一緒に、か……。うん、いいなっ！　それじゃあ頑張って読んでみよう！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -367,25 +367,25 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲ is... Ah, there was.</Dialog>
-          <Dialog>▲Anegasaki*▲!</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>Now, why don't you go and read it? A mosquito box.</Dialog>
-          <Dialog>That's good!</Dialog>
-          <Dialog>?</Dialog>
-          <Dialog>I brought it with me because I wanted to read it with you today.</Dialog>
-          <Dialog>If you invite me, I wonder what I'll do if you don't bring it with me. I tried my best to bring it heavy.</Dialog>
-          <Dialog>it was good. It's bulky... Okay, let's go!</Dialog>
-          <Dialog>Now, why don't you go and read the book?</Dialog>
-          <Dialog>Hehe, that's fine? let's go. Continuingly, I'm curious!</Dialog>
-          <Dialog>What is a book?</Dialog>
-          <Dialog>Come on, the mosquito box!</Dialog>
-          <Dialog>Ah! Speaking of which!</Dialog>
-          <Dialog>Huh, have you forgotten?</Dialog>
-          <Dialog>Because when? Even if I'm told to do it suddenly, I don't have it. It's heavy... I wonder if I can borrow it from the library...</Dialog>
-          <Dialog>(Maybe I slacked off a bit too much...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲は……あ、いた。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲！</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>これからさ、読みに行かない？　魍魎の匣。</Dialog>
+          <Dialog>良かったぁ！</Dialog>
+          <Dialog>？</Dialog>
+          <Dialog>わたしも、一緒に読もうと思って、持ってきてたの、今日。</Dialog>
+          <Dialog>もし誘ってみて、あなたが持って来て無かったらどうしようかと思って。重いの頑張って持ってきたのに。</Dialog>
+          <Dialog>良かった。かさばるしね……。よし、行こう！</Dialog>
+          <Dialog>これからさ、本読みに行かない？</Dialog>
+          <Dialog>ふふっ、いいよ？　行こう。つづき、気になるもんね！</Dialog>
+          <Dialog>本って？</Dialog>
+          <Dialog>ほら、魍魎の匣！</Dialog>
+          <Dialog>あっ！　そう言えば！</Dialog>
+          <Dialog>あれ、忘れちゃった？</Dialog>
+          <Dialog>だって、いつぶり？　急に言われても持って無いよ。重いんだもん……図書室で借りられるかな……。</Dialog>
+          <Dialog>（ちょっとサボり過ぎたか……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -576,29 +576,29 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's right, I have to read the Momoko no Kaku!</Dialog>
-          <Dialog>▲Anegasaki*▲Is there any? Shall I call you...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲. what happened?</Dialog>
-          <Dialog>Now, why not read together? This is the mossalem box.</Dialog>
-          <Dialog>from now? Um...yeah, maybe it's fine. Come on, at home.</Dialog>
-          <Dialog>Is it okay? So, let's go right away, right?</Dialog>
-          <Dialog>Well, I'll prepare some sweets and wait. Later, right?</Dialog>
-          <Dialog>That's right, I think I'll read it if it continues from Momo no Kano!</Dialog>
-          <Dialog>▲Anegasaki*▲, are you there?</Dialog>
-          <Dialog>If I have time, why not read the continuation of the Monk Box with you?</Dialog>
-          <Dialog>Hehe, I was about to call now too. Continuingly, I'm curious!</Dialog>
-          <Dialog>That's right! Can I go there from now on?</Dialog>
-          <Dialog>Yes, come on!</Dialog>
-          <Dialog>Go! I'll have to read the continuation of the Monk Box soon...</Dialog>
-          <Dialog>Now, why not read the book?</Dialog>
-          <Dialog>Books? ...Ah!</Dialog>
-          <Dialog>The Moroki Box... have you forgotten?</Dialog>
-          <Dialog>After all, when was it? Maybe I'll still be able to do it...</Dialog>
-          <Dialog>If you try hard, I'm sure...</Dialog>
-          <Dialog>Okay. So, let's try our best? Hurry up and come home?</Dialog>
-          <Dialog>(Maybe I slacked off a bit too much...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだ、魍魎の匣、読まなきゃ！</Dialog>
+          <Dialog>▲姉ヶ崎＊▲いるかな？　電話してみるか……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。どうしたの？</Dialog>
+          <Dialog>これからさ、一緒に読まない？　例の、魍魎の匣。</Dialog>
+          <Dialog>今から？　えぇと……うん、いいかも。おいでよ、家に。</Dialog>
+          <Dialog>いいの？　それじゃ、すぐ行くね？</Dialog>
+          <Dialog>じゃあ、お菓子用意して待ってる。あとでね？</Dialog>
+          <Dialog>そうだ、魍魎の匣のつづきでも、読むかな！</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、いるかな？</Dialog>
+          <Dialog>時間あったらさ、魍魎の匣のつづき、一緒に読まない？</Dialog>
+          <Dialog>ふふっ、わたしも今、電話するところだったの。つづき、気になるもんね！</Dialog>
+          <Dialog>だよな！　これから、そっち行っていい？</Dialog>
+          <Dialog>うん、おいでおいで！</Dialog>
+          <Dialog>いけねっ！　魍魎の匣のつづき、そろそろ読まなきゃな……。</Dialog>
+          <Dialog>これからさ、本のつづき、読まない？</Dialog>
+          <Dialog>本？　……あっ！</Dialog>
+          <Dialog>魍魎の匣……忘れてた？</Dialog>
+          <Dialog>だって、いつぶりだっけ？　まだ間に合うかな……。</Dialog>
+          <Dialog>頑張れば、きっと……。</Dialog>
+          <Dialog>よし。じゃあ、頑張ってみよっか？　急いで家においで？</Dialog>
+          <Dialog>（ちょっとサボり過ぎたか……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -677,17 +677,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, I thought about it for a moment, is that okay?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes, what?</Dialog>
-          <Dialog>Since you're going to have the opportunity to read this book, why don't you always decide to read it together like this?</Dialog>
-          <Dialog>That way, you can talk about what you read and predict what's going on, and then see...</Dialog>
-          <Dialog>?</Dialog>
-          <Dialog>Even if you almost throw them off halfway through, you can support each other, right? Isn't this book really thick? ……hey?</Dialog>
-          <Dialog>I see…….</Dialog>
-          <Dialog>Right, it's decided! So, prepare, start!</Dialog>
-          <Dialog>How far did you read ▲Anegasaki*▲?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇねぇ、ちょっと考えたんだけど、いい？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん、なに？</Dialog>
+          <Dialog>せっかくだから、この本を読むときはいつもこうして一緒に読むことにしない？</Dialog>
+          <Dialog>そうすれば、読んだところまでの話とか、その先の予想とかも出来るし、それに、ほら……。</Dialog>
+          <Dialog>？</Dialog>
+          <Dialog>途中で投げ出しそうになっても、支え合えるでしょ？　この本すごく厚いじゃない？　……ね？</Dialog>
+          <Dialog>なるほど……。</Dialog>
+          <Dialog>でしょ、決まり！　じゃあ、用意、スタート！</Dialog>
+          <Dialog>▲姉ヶ崎＊▲はどこまで読んだ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1206,58 +1206,58 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Well...</Dialog>
-          <Dialog>The "Huh," has just ended and the main story begins.</Dialog>
-          <Dialog>But I'm pretty scared...</Dialog>
-          <Dialog>Kanako and Yoriko want to go to the lake... So... he's been questioned by Detective Kiba.</Dialog>
-          <Dialog>There's something about girls like this that adores each other... Yes, I understand.</Dialog>
-          <Dialog>Detective Kiba remembers how cute he is, so he arrives at the hospital.</Dialog>
-          <Dialog>I wonder if the culprit has appeared already...</Dialog>
-          <Dialog>I wonder who it was Kinuko or Masuoka or who else... Ah, Amamiya. A lot of people came out and they were about to change hospitals.</Dialog>
-          <Dialog>And then we talked about that disgusting boxed person again. Wow, this guy...</Dialog>
-          <Dialog>Authors Sekiguchi, Chuzenji Atsuko in "Kijin Monthly Blog," and Toriguchi from "True Crime" appear and heads to Lake Sagami by car.</Dialog>
-          <Dialog>Oh, there was also a sarcastic writer called Kubo. If more characters appeared, I don't think I could remember...</Dialog>
-          <Dialog>I was spinning around and at last I arrived at a large box building, not Lake Sagami...</Dialog>
-          <Dialog>And then again, that creepy box person talks about it... I don't want this person anymore...</Dialog>
-          <Dialog>Mihama-sama came to the purification ritual, and then...Ryoko began to say, "I saw the culprit"... I just came to Mimasaka Modern Medical Institute to meet Kanako.</Dialog>
-          <Dialog>Yeah……. I'm telling you the wind and clouds are rushing. I have a bad feeling...</Dialog>
-          <Dialog>Where Kanako has disappeared. Right after Yoriko meets... Yes, it's getting more of a mystery.</Dialog>
-          <Dialog>And then again, I'll talk about the person in that box. "It came off nicely." I don't like this guy anymore!</Dialog>
-          <Dialog>Sekiguchi and Toriguchi came to Kyogokudo. A story about a psychic and a prophet... "Unraveling the secret"?</Dialog>
-          <Dialog>Kyogokudo was the name of the shop, I see...</Dialog>
-          <Dialog>The three of us are still talking together at Kyogokudo for a long time...</Dialog>
-          <Dialog>Toriguchi might be quite an amazing person. In exchange, Sekiguchi-kun...</Dialog>
-          <Dialog>There are still three of us at Kyogokudo. When Toriguchi-kun talks about him, Kyogokudo wins a fake from Mihama.</Dialog>
-          <Dialog>That's amazing... Oh, the guy in the box again...or rather, Kubo Shun's "Daughter in the Box" appeared.</Dialog>
-          <Dialog>I understand. The culprit is... Ah, sorry.</Dialog>
-          <Dialog>The story suddenly started to move faster... Amemiya disappeared, Susaki died, and a threatening letter arrived...</Dialog>
-          <Dialog>But I already know who the culprit is...</Dialog>
-          <Dialog>Detective Kiba is investigating. Satomura has come out with a medical doctor... it's like a human experiment... it's getting more like a horror thing.</Dialog>
-          <Dialog>But Aoki, who looks like a kokeshi, is a little cute, isn't he?</Dialog>
-          <Dialog>A person named Enokizu came out. He's a strange person...and that's how I learned about the Shibata Zaibatsu and Yuzuki Yoko.</Dialog>
-          <Dialog>Does Enokizu's visions mean psychic powers? Like clairvoyance? Hmm...</Dialog>
-          <Dialog>We gathered at Kyogokudo again. Toriguchi reported on Mihama's investigation, and Sekiguchi and Enokizu were the ones to go to Yoriko's house...</Dialog>
-          <Dialog>Depending on how you go, these two are you? This might be dangerous...</Dialog>
-          <Dialog>The uneven duo has stopped Yoriko's mother's suicide. It was weird.</Dialog>
-          <Dialog>But if the "apologetic" confession is true... hmm, I don't really understand it.</Dialog>
-          <Dialog>Kiba-san goes to Yoko and it feels a little nice... That's right, there are a lot of rumors about the Gloves monster.</Dialog>
-          <Dialog>When my classmates were talking about Yoriko, it was strangely realistic and made me feel sorry for her...</Dialog>
-          <Dialog>Everyone gathered and Kyogokudo deduces the relationship between Mihama and Kubo and calls out the name of the perpetrator of the murder.</Dialog>
-          <Dialog>But I already knew that. Hmm...</Dialog>
-          <Dialog>Kyogokudo is making a guess when Yoriko-chan attacks Kanako-chan, and then she has a new set of arms that are dismembered...</Dialog>
-          <Dialog>Maybe this arm doesn't work... Ah, I thought this was going to happen...</Dialog>
-          <Dialog>Finally, Mihama-sama and Kyogokudo faced off. Enokizu-san, you're very helpful ♪</Dialog>
-          <Dialog>That's right, the second part of "Daughter in a Box" has appeared. Once I know this is a diary, it's so scary...</Dialog>
-          <Dialog>Knowing that Kubo and Mihama are parents and children, Aoki gets into the box house...</Dialog>
-          <Dialog>"Sufficient." Haa... I might dream tonight...</Dialog>
-          <Dialog>Kubo is also falling apart, and Kyogokudo gets into the box building with everyone...</Dialog>
-          <Dialog>I'm really starting to understand. Even if Yoko was found out that she was the doctor's daughter, in the end, the perpetrator was Kubo, right? Hmm?</Dialog>
-          <Dialog>Kanako's father actually exists, and Bill has a big, artificial body.</Dialog>
-          <Dialog>I see... Huh, then Kanako's father? Hmm?</Dialog>
-          <Dialog>There is a trick where Kanako disappears and a mystery that Amemiya killed Suzaki, and Yoko says that Kanako is her father's son...</Dialog>
-          <Dialog>In other words, Kanako was really Yoko's younger sister. It's kind of a really tough one...</Dialog>
-          <Dialog>With Kubo, the doctor and Yoko wait, and a little more...about the climax...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えぇとね……。</Dialog>
+          <Dialog>「ほう、」のとこが終わって、本編が始まったところ。</Dialog>
+          <Dialog>でもなんかもう、怖いんですけど……。</Dialog>
+          <Dialog>加奈子と頼子が湖に行こうって……。それで……木場刑事に取り調べ受けてるところ。</Dialog>
+          <Dialog>なんかね、こういう女の子同士の憧れってあるのよ……。うん、わかる。</Dialog>
+          <Dialog>木場刑事が色いろ思い出して、それで、病院に着いたとこ。</Dialog>
+          <Dialog>もう、犯人って登場してたりするのかな……。</Dialog>
+          <Dialog>絹子とか増岡とか、あと誰だっけ……あ、雨宮とか。大勢出てきて、病院を変えようってところ。</Dialog>
+          <Dialog>それで、またあの気持ち悪い箱の人の話になった。いやぁ、この人……。</Dialog>
+          <Dialog>作家の関口と「奇憚月報」の中禅寺敦子と、あと、「実録犯罪」の鳥口が出てきて、クルマで相模湖に行くとこ。</Dialog>
+          <Dialog>あ、久保っていう嫌味な作家の人もいた。これ以上登場人物が出てきたら、わたし憶えられないと思う……。</Dialog>
+          <Dialog>ぐるぐる回って、けっきょく相模湖じゃなくて、大きな箱のビルに着いたところ……。</Dialog>
+          <Dialog>それでまた、あの気持ち悪い箱の人の語り……。もう、やだこの人……。</Dialog>
+          <Dialog>御筥様がお祓いに来て、それで……頼子が「犯人を見た」って言いだして……。美馬坂近代医学研究所へ加奈子に会いに来たところ。</Dialog>
+          <Dialog>うん……。風雲急を告げますな。嫌な予感……。</Dialog>
+          <Dialog>加奈子が消えたとこ。頼子が会った後すぐ……。うん、ミステリーっぽくなってきた。</Dialog>
+          <Dialog>で、またあの箱の人の話。「きれいに外れた」って……。もう嫌、この人！</Dialog>
+          <Dialog>関口君と鳥口君が、京極堂に来たとこ。霊能者と予言者の話して……「秘密の解明」、か。</Dialog>
+          <Dialog>京極堂って、お店の名前だったんだね、なるほど……。</Dialog>
+          <Dialog>まだ、ずっと京極堂で三人で話してる……。</Dialog>
+          <Dialog>鳥口君って、けっこうスゴイ人なのかも。それに引き換え関口君は……。</Dialog>
+          <Dialog>まだまだ、三人で京極堂。鳥口君の話で京極堂さんが御筥様のインチキを当てちゃうとこ。</Dialog>
+          <Dialog>すごいよね……。あ、また箱の人……っていうか、久保竣公の「匣の中の娘」が出てきた。</Dialog>
+          <Dialog>わかっちゃった。もうゼッタイ犯人は――あ、ゴメン。</Dialog>
+          <Dialog>なんだか急に展開が速くなって来たとこ……雨宮が消えちゃって、須崎が死んじゃって、脅迫状が届いて……。</Dialog>
+          <Dialog>でも、犯人もうわかっちゃったからな……。</Dialog>
+          <Dialog>木場刑事が捜査してるとこ。里村って監察医が出てきて……人体実験か……ホラーっぽくなってきた。</Dialog>
+          <Dialog>でも、こけしみたいな青木君ってちょっとカワイイよね？</Dialog>
+          <Dialog>榎木津っていう人が出てきた。変な人……それで柴田財閥と柚木陽子のことがわかったとこ。</Dialog>
+          <Dialog>榎木津さんの幻視って超能力ってこと？　千里眼みたいな？　ふぅん……。</Dialog>
+          <Dialog>また京極堂に集まったとこ。鳥口が調べてきた御筥様の報告して、関口君と榎木津さんが頼子の家に行く役になって……。</Dialog>
+          <Dialog>よりによってこの二人か。これは危険かもよ……。</Dialog>
+          <Dialog>凸凹コンビが頼子のお母さんの自殺を止めたとこ。おかしかった。</Dialog>
+          <Dialog>でも、「おわび状」の告白が本当なら……うぅん、本格的に分かんなくなっちゃった。</Dialog>
+          <Dialog>木場さんが陽子のところに行ってちょっといい感じになって……。そうそう、手袋の怪人の噂話がいっぱい書いてあるところ。</Dialog>
+          <Dialog>頼子ちゃんの噂をクラスメートがするところ、なんか妙にリアルで、可哀想になっちゃった……。</Dialog>
+          <Dialog>みんな集まって、京極堂さんが御筥様と久保の関係を推理してバラバラ殺人の犯人の名前、言うところ。</Dialog>
+          <Dialog>でも、そんなのもうとっくに分かってたしなぁ。う～ん……。</Dialog>
+          <Dialog>京極堂さんが頼子ちゃんが加奈子ちゃんを襲った時の推理をしてて、それで、またバラバラの新しい腕が……。</Dialog>
+          <Dialog>この腕ってもしかして、もしかしなくても……。あ～あ、こうなると思ってたのに……。</Dialog>
+          <Dialog>とうとう御筥様と京極堂が対決したところ。榎木津さん、けっこう役に立ってるね♪</Dialog>
+          <Dialog>そうそう、「匣の中の娘」の後篇が出てきた。これ、日記だって知っちゃうと、もう、怖すぎる……。</Dialog>
+          <Dialog>久保と御筥様が親子だってわかって、それで青木君が箱の家に乗りこんで……。</Dialog>
+          <Dialog>“みっしり”って。ハァ……今晩夢見ちゃうかも……。</Dialog>
+          <Dialog>久保もバラバラになっちゃって、京極堂さんがみんなと箱のビルに乗りこんで……。</Dialog>
+          <Dialog>本当に分かんなくなって来た。陽子が博士の娘だったのがわかったって、結局、犯人は久保でしょ？　う～ん？</Dialog>
+          <Dialog>加奈子の父親は、本当は別にいるってわかって、ビルが大きな人工の身体で、ってとこ。</Dialog>
+          <Dialog>そっかそっか……。あれ、じゃあ加奈子の父親って？　う～ん？</Dialog>
+          <Dialog>加奈子が消えたトリックと、雨宮さんが須崎を殺したって推理があって、加奈子は父の子ですって陽子が……。</Dialog>
+          <Dialog>つまり加奈子は本当に陽子の妹だったんだ。なんだかすごく、フクザツ……。</Dialog>
+          <Dialog>久保を持って博士と陽子が――待って、もう後少し……クライマックスのところ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1276,8 +1276,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I? I've already finished reading it, right? I'm currently waiting for someone to finish reading.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>わたし？　わたしはもう読み終わったよ？　今は誰かさんが読み終わるのを待ってるところ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1301,10 +1301,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, then, concentrate...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes, concentrate...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>はい、それじゃ、集中集中……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん、集中……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1358,14 +1358,14 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Haa...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>yeah? ...Ah, maybe.</Dialog>
-          <Dialog>I've finished reading it! Yay, huh!</Dialog>
-          <Dialog>Ah, you've been overtaken...</Dialog>
-          <Dialog>What's that, ahhhh! Come on, hurry up! I'll tell you the ending part, right?</Dialog>
-          <Dialog>Ah, wait!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ハァ……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ん？　……あ、もしかして。</Dialog>
+          <Dialog>読み終わりました！　やったぁ、ふふっ！</Dialog>
+          <Dialog>あ～あ、先を越されたか……。</Dialog>
+          <Dialog>どんなもんだ、エヘンっ！　ほら、早く早く！　ラストのとこ、教えちゃうよ？</Dialog>
+          <Dialog>あぁ、待って！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1384,8 +1384,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇねぇ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1449,17 +1449,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>How far did it go?</Dialog>
-          <Dialog>Where are you now?</Dialog>
-          <Dialog>Where is it now? Have you gone even further?</Dialog>
-          <Dialog>How far have you come?</Dialog>
-          <Dialog>Still in the beginning...
-(Chaps 1-3)</Dialog>
-          <Dialog>It's in the middle now...
-(Chaps 4-7)</Dialog>
-          <Dialog>It's already at the end...
-(Chaps 8-11)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>どこまでいった？</Dialog>
+          <Dialog>いま、どのへん？</Dialog>
+          <Dialog>いまどこ？　もっと進んじゃった？</Dialog>
+          <Dialog>どこまで来た？</Dialog>
+          <Dialog>まだ序盤の……
+（１～３章）</Dialog>
+          <Dialog>今は中盤の……
+（４～７章）</Dialog>
+          <Dialog>もう終盤の……
+（８～１１章）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1493,12 +1493,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Still more. It's the beginning...</Dialog>
-          <Dialog>I've just started reading</Dialog>
-          <Dialog>I read up to chapter 1</Dialog>
-          <Dialog>I read up to chapter 2</Dialog>
-          <Dialog>I read up to chapter 3</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>まだまだ。初めのほうだな……。</Dialog>
+          <Dialog>読み始めたばかりだ</Dialog>
+          <Dialog>１章まで読んだ</Dialog>
+          <Dialog>２章まで読んだ</Dialog>
+          <Dialog>３章まで読んだ</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1532,12 +1532,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Middle. Maybe it's the turnaround point...</Dialog>
-          <Dialog>I read up to chapter 4</Dialog>
-          <Dialog>I read up to chapter 5</Dialog>
-          <Dialog>I read up to chapter 6</Dialog>
-          <Dialog>I read up to chapter 7</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>中盤。折り返し地点かな……。</Dialog>
+          <Dialog>４章まで読んだ</Dialog>
+          <Dialog>５章まで読んだ</Dialog>
+          <Dialog>６章まで読んだ</Dialog>
+          <Dialog>７章まで読んだ</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1571,12 +1571,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It's almost over. It's finally reaching its climax...</Dialog>
-          <Dialog>I read up to chapter 8</Dialog>
-          <Dialog>I read up to chapter 9</Dialog>
-          <Dialog>I read up to chapter 10</Dialog>
-          <Dialog>I read up to chapter 11</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>もう終盤。いよいよ佳境だな……。</Dialog>
+          <Dialog>８章まで読んだ</Dialog>
+          <Dialog>９章まで読んだ</Dialog>
+          <Dialog>１０章まで読んだ</Dialog>
+          <Dialog>１１章まで読んだ</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1615,11 +1615,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Um... Ah, maybe I'm a little earlier? Okay, read more slowly...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(●, too, hurry up a little...)</Dialog>
-          <Dialog>Oh, I'm a little faster. Hehe...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えぇと……あ、わたしの方がちょっと早いかな？　よし、ゆっくり読もっと……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（●も、ちょっと急ぐか……）</Dialog>
+          <Dialog>あ、わたしの方がちょっと早い。ふふっ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1658,11 +1658,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm... is it quite slow to read?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(●, too, hurry up a little...)</Dialog>
-          <Dialog>I see. Well, please do your best.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふぅん……読むの、けっこう遅い？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（●も、ちょっと急ぐか……）</Dialog>
+          <Dialog>そっかそっか。まあ、がんばってくれたまえ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1701,11 +1701,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That means... Ah, I'm a little earlier. Okay, let's do our best...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(●, too, hurry up a little...)</Dialog>
-          <Dialog>Oh, Nene-chan is dominant!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ということは……あ、わたしの方がちょっと早い。よし、がんばろ……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（●も、ちょっと急ぐか……）</Dialog>
+          <Dialog>あ、寧々ちゃん優勢です！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1744,11 +1744,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>So...oh, it's about as much as me. Yes, I'll do my best at this rate...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(Yes. That's nice, this kind of thing...)</Dialog>
-          <Dialog>Oh, about the same place. Hehe, I feel good.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>じゃあ……あ、わたしと同じくらいだ。うん、この調子でがんばろっと……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（うん。いいな、こういう感じ……）</Dialog>
+          <Dialog>あ、同じくらいのとこ。ふふっ、気が合いますねぇ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1787,11 +1787,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That means... yes, about the same. Don't go first? good?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(Yes. That's nice, this kind of thing...)</Dialog>
-          <Dialog>So, it's about as much as I do. Yes, that's fine.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ということは……うん、同じくらいね。先、行っちゃダメよ？いい？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（うん。いいな、こういう感じ……）</Dialog>
+          <Dialog>じゃあ、わたしと同じくらいのとこね。うむ、よろしい。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1830,11 +1830,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>So maybe it's roughly the same. Okay, okay. Let's make sure to match the page properly, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(Yes. That's nice, this kind of thing...)</Dialog>
-          <Dialog>Oh, I'm about the same. But I'm in love ▼Hehe!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>じゃあ、だいたい一緒かな。よしよし。ちゃんと、ぺース合わせようね？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（うん。いいな、こういう感じ……）</Dialog>
+          <Dialog>あ、わたしも同じくらい。さっすが、ラブラブ▼ふふっ！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1873,11 +1873,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Huh, already? I see...Okay, I'll do my best too.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(I'll read it a little more slowly...)</Dialog>
-          <Dialog>I see... concentrate. Nene-chan, do your best.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えぇ、もう？　そっかぁ……よし、わたしもがんばろ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（もうちょっと、ゆっくり読むか……）</Dialog>
+          <Dialog>そっかぁ……集中集中。寧々ちゃん、がんばれ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1916,11 +1916,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Oh, ahead of me? No no. wait a minute.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(I'll read it a little more slowly...)</Dialog>
-          <Dialog>It's already too early. Didn't you say you shouldn't go ahead?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あ、わたしより先？　ダメ。ちょっと待って。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（もうちょっと、ゆっくり読むか……）</Dialog>
+          <Dialog>もう、早い。先行っちゃダメって言わなかった？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1959,11 +1959,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Huh? I'm sure I shouldn't go ahead...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(I'll read it a little more slowly...)</Dialog>
-          <Dialog>What? It's just because it's a little bit ahead...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えぇ？　もう……先行っちゃダメだってば。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（もうちょっと、ゆっくり読むか……）</Dialog>
+          <Dialog>なぁに？　ちょっとくらい先行ってるからってさフンだ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1982,8 +1982,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>...Sorry. I'm also focused, concentrated...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>……ゴメン。わたしも集中、集中……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1997,8 +1997,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Hey, ▲Anegasaki*▲.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ねぇ、▲姉ヶ崎＊▲。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2017,8 +2017,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm, what?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ん、なぁに？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2032,8 +2032,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Where are you reading now?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>いま、どこ読んでる？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2057,10 +2057,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Okay, I'll leave it here for today!</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What, what? Is it over already?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>よし、今日はこの辺にしとくか！</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えっ、なに？　もうおしまいなの？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2084,10 +2084,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Okay, I'll leave it here for today!</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Eh, is that so? Hmm, it was a good place...</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>よし、今日はこの辺にしとくか！</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えぇ、そうなの？　う～ん、いいとこだったのに……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2111,10 +2111,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Okay, I'll leave it here for today!</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>yeah? Yes... should I do that? I was able to read quite a bit too.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>よし、今日はこの辺にしとくか！</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ん？　うん……そうしよっか？　わたしも、けっこう読めたし。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2153,11 +2153,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Well... okay, it's over. Hey, why don't you just do it today?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>OK.</Dialog>
-          <Dialog>Haa...I read it, I'm tired, won't I take it soon today?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>さてと……よし、おしまい。ねぇ、今日はそろそろにしない？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>オッケー。</Dialog>
+          <Dialog>ハァ……読んだ読んだ、疲れちゃった、今日はそろそろにしない？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2196,15 +2196,15 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, how far did you go today?</Dialog>
-          <Dialog>Still in the beginning...
-(Chaps 1-3)</Dialog>
-          <Dialog>It's in the middle now...
-(Chaps 4-7)</Dialog>
-          <Dialog>It's already at the end...
-(Chaps 8-11)</Dialog>
-          <Dialog>I've finished reading it.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇねぇ、今日はどのあたりまで行った？</Dialog>
+          <Dialog>まだ序盤の……
+（１～３章）</Dialog>
+          <Dialog>今は中盤の……
+（４～７章）</Dialog>
+          <Dialog>もう終盤の……
+（８～１１章）</Dialog>
+          <Dialog>読み終わったよ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2238,12 +2238,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>*.</Dialog>
-          <Dialog>I've just started reading</Dialog>
-          <Dialog>I read up to chapter 1</Dialog>
-          <Dialog>I read up to chapter 2</Dialog>
-          <Dialog>I read up to chapter 3</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>※。</Dialog>
+          <Dialog>読み始めたばかりだ</Dialog>
+          <Dialog>１章まで読んだ</Dialog>
+          <Dialog>２章まで読んだ</Dialog>
+          <Dialog>３章まで読んだ</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2277,12 +2277,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>*.</Dialog>
-          <Dialog>I read up to chapter 4</Dialog>
-          <Dialog>I read up to chapter 5</Dialog>
-          <Dialog>I read up to chapter 6</Dialog>
-          <Dialog>I read up to chapter 7</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>※。</Dialog>
+          <Dialog>４章まで読んだ</Dialog>
+          <Dialog>５章まで読んだ</Dialog>
+          <Dialog>６章まで読んだ</Dialog>
+          <Dialog>７章まで読んだ</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2316,12 +2316,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>*.</Dialog>
-          <Dialog>I read up to chapter 8</Dialog>
-          <Dialog>I read up to chapter 9</Dialog>
-          <Dialog>I read up to chapter 10</Dialog>
-          <Dialog>I read up to chapter 11</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>※。</Dialog>
+          <Dialog>８章まで読んだ</Dialog>
+          <Dialog>９章まで読んだ</Dialog>
+          <Dialog>１０章まで読んだ</Dialog>
+          <Dialog>１１章まで読んだ</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2340,8 +2340,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>So I guess I'm going ahead.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>じゃあ、わたしの方が、先、進んじゃってるかな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2360,8 +2360,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>slow. Was he really concentrated?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>遅い。ちゃんと、集中してた？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2380,8 +2380,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That means...Okay, Nene-chan's lead. Hehe!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ということは……よし、寧々ちゃんのリード。ふふっ！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2400,8 +2400,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, about the same place. We're reading it together, it must be like this, right?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うん、同じくらいのとこ。一緒に読んでるんだもん、こうじゃなきゃ、ね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2420,8 +2420,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>So, just like me. Okay. You could concentrate properly, right? Eh, ha ha!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>じゃあ、私と同じくらい。よし。ちゃんと集中出来たもんね？　エライエライ、ふふっ！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2440,8 +2440,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Oh, I'm about the same. Yes, we are a similar couple after all, right? Hehe.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あ、わたしも同じくらい。うん、わたし達ってやっぱり、似た者カップルだね？　ふふっ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2460,8 +2460,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Haa... I'm slow to read, right? It's going to happen.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ハァ……。わたしって、読むの遅いね？　やんなっちゃう。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2480,8 +2480,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>you know what? It's more fun to pace things like this. It's a child...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あのね？　こういうのは、ペース合わせた方が楽しいの。お子サマなんだもん……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2500,8 +2500,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Did you lose... But it's not that it's bad if you can read it soon, right? oh yeah.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>負けたか……。でも、早く読めたらエライってわけじゃ、ないよね？　そうそう。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2520,8 +2520,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I did it. I've finally finished reading The Monk's Box... It was a long time...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>やった。魍魎の匣、とうとう読み終わっちゃった……。長かったぁ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2540,8 +2540,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I read all of the Momoko no Kaku... You can do it if you try, yes...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>魍魎の匣、全部読んじゃった……。やればできるもんだ、うん……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2560,8 +2560,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I've finished reading... It kind of feels like after a marathon.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>読み終わっちゃった……。なんだか、マラソンした後みたい。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2575,8 +2575,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲What?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲は？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2595,8 +2595,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Well... I won't say it after all. I'm sure you should read it yourself.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えぇとね……やっぱり言わない。自分で読んだ方がいいもん、きっと。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2615,8 +2615,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, it's kind of...it's difficult isn't it? Language, writing, etc. I'm not sure I'll read it until the end...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇ、なんか……難しいよね？　言葉遣いとか、字とか……。わたし、最後まで読む自信無いなぁ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2635,8 +2635,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Ah, it was scary... But are you really looking forward to seeing what happens from here?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あぁ、怖かったぁ……。でも、ここからどうなるのか、すっごく楽しみね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2655,8 +2655,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Kyogokudo has such a good head that it can't keep up once in a while... Huh, just me?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>京極堂ってアタマ良すぎて、ときどき付いていけないよね……。えっ、わたしだけ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2675,8 +2675,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, I might have found out who the culprit is. Hehe... I won't tell you?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇねぇ、わたし、犯人わかったかも。ふふっ……教えないよ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2695,8 +2695,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The climax is finally here... Of course, there's no more happy endings. There are so many sad people...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>いよいよクライマックスかぁ……。当たり前だけど、ハッピーエンドはもうないよね。悲しい人が多過ぎて……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2800,21 +2800,21 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The first one seemed to be a classical Japanese textbook, and wow, I made a mistake! I thought so but...</Dialog>
-          <Dialog>After that, it suddenly felt fantastic, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah... yes, certainly.</Dialog>
-          <Dialog>I was surprised that it was quite different from what I had imagined.</Dialog>
-          <Dialog>A kind of rhetoric
-What is it?</Dialog>
-          <Dialog>it was?</Dialog>
-          <Dialog>As expected of Kyogoku Natsuhiko, right?</Dialog>
-          <Dialog>I guess it's a kind of rhetoric that dazzles readers by showing a variety of writing at the beginning, right?</Dialog>
-          <Dialog>Hmm... I don't really know though. It looks kind of difficult. Haa...</Dialog>
-          <Dialog>Was that so, right? Have you read it properly already?</Dialog>
-          <Dialog>Just the opening part will really attract you. As expected of Kyogoku Natsuhiko, right?</Dialog>
-          <Dialog>Yes, that's right! This is formidable... Hehe, are you looking forward to it?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>初めの方は、なんだか古文の教科書みたいで、うわぁ、失敗したぁ！　って思ったけど――</Dialog>
+          <Dialog>その後、急に幻想的な感じになったでしょ？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ……うん、たしかにね。</Dialog>
+          <Dialog>わたし、想像してたのとずいぶん違って、びっくりした。</Dialog>
+          <Dialog>一種のレトリック
+なんだろうね？</Dialog>
+          <Dialog>そうだった？</Dialog>
+          <Dialog>さすが京極夏彦だよね？</Dialog>
+          <Dialog>あえて冒頭で多様な筆致を見せることで、読者を眩惑するという、一種のレトリックなんだろうね？</Dialog>
+          <Dialog>ふぅん……。よくわかんないけど。なんだか難しそうね。ハァ……。</Dialog>
+          <Dialog>そうだったでしょ？　もう……ちゃんと読んでた？</Dialog>
+          <Dialog>冒頭のところだけで、グッと引きつけられちゃう。さすが京極夏彦だよね？</Dialog>
+          <Dialog>そう、そうなの！　手ごわいぞこれは……。ふふっ、楽しみね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2918,19 +2918,19 @@ What is it?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm...</Dialog>
-          <Dialog>It's difficult to just have so many words that you don't understand, such as the old kana spelling...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What, what's wrong?</Dialog>
-          <Dialog>There's a lot of people coming out, right? Can you remember the name? For example, see, what is it, someone with a kokeshi face.</Dialog>
-          <Dialog>Fukumoto</Dialog>
-          <Dialog>Isn't it Aoki?</Dialog>
-          <Dialog>Isn't it Kubo?</Dialog>
-          <Dialog>Fukumoto.</Dialog>
-          <Dialog>Not! Um... Ah, that's right Aoki! It's kind of bothering me.</Dialog>
-          <Dialog>oh yeah! As expected, you can remember it well. I guess it's concentration, I guess.</Dialog>
-          <Dialog>That's that sarcasmy writer. Maybe that's wrong, already!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>う～ん……。</Dialog>
+          <Dialog>旧仮名遣いとかわからない言葉がたくさん出てくるだけでも大変なのに……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>なに、どうしたの？</Dialog>
+          <Dialog>人がたくさん出てくるでしょ？　名前、覚えられる？　例えば、ほら、なんだっけ、こけしみたいな顔の人。</Dialog>
+          <Dialog>福本ね</Dialog>
+          <Dialog>青木でしょ？</Dialog>
+          <Dialog>久保でしょ？</Dialog>
+          <Dialog>福本ね。</Dialog>
+          <Dialog>じゃなくて！　えぇと……あ、そうだ青木！　なんか、気になるのよ。</Dialog>
+          <Dialog>そうそう！　さすが、よく覚えられるね。集中力かなぁ、やっぱり。</Dialog>
+          <Dialog>それは、あの嫌味な作家。そこ間違うかな、もう！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3029,23 +3029,23 @@ What is it?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, did you get the trick?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Trick?</Dialog>
-          <Dialog>See, Kanako has disappeared, right? Suddenly, in the midst of a view of the public.</Dialog>
-          <Dialog>Ah, that's over there. That's surely...</Dialog>
-          <Dialog>Kanako is from the beginning
-It wasn't there</Dialog>
-          <Dialog>It's a box. The hint is the box...</Dialog>
-          <Dialog>That sort of ▲Anegasaki*▲ is
-Do you understand?</Dialog>
-          <Dialog>Kanako wasn't there from the beginning.</Dialog>
-          <Dialog>Because you saw it properly? Both Kiba and Yoriko. Oh, maybe... you're saying it's a guess, right?</Dialog>
-          <Dialog>It's a box. The hint is the box...</Dialog>
-          <Dialog>What is the box? already! You just say it in a suggestive way, but you don't really understand it, right?</Dialog>
-          <Dialog>Do you understand that ▲Anegasaki*▲?</Dialog>
-          <Dialog>Yes, probably. But if that were to happen, I might not like it...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇねぇ、トリックわかった？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>トリック？</Dialog>
+          <Dialog>ほら、加奈子が消えちゃったじゃない？　衆人環視の中、忽然と。</Dialog>
+          <Dialog>あぁ、あそこか。それはきっと……。</Dialog>
+          <Dialog>加奈子なんて最初から
+いなかったんだよ</Dialog>
+          <Dialog>箱だよ。ヒントは、箱……</Dialog>
+          <Dialog>そういう▲姉ヶ崎＊▲は
+わかったの？</Dialog>
+          <Dialog>加奈子なんて最初からいなかったんだよ。</Dialog>
+          <Dialog>だって、ちゃんと見たよ？　木場も頼子も。あ、もしかして……当てずっぽ言ってるでしょ？</Dialog>
+          <Dialog>箱だよ。ヒントは、箱……。</Dialog>
+          <Dialog>箱が、なぁに？　もう！　思わせぶりに言ってるだけで、本当は分からないんでしょ？</Dialog>
+          <Dialog>そういう▲姉ヶ崎＊▲はわかったの？</Dialog>
+          <Dialog>うん、多分ね。でもそれが当たってたらかなり嫌かも……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3139,20 +3139,20 @@ Do you understand?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's finally appeared. Akihiko Chuzenji, also known as Kyogokudo.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes, I thought it wouldn't come out anymore.</Dialog>
-          <Dialog>Hehe, he's very smart and a bit mean, and I can see how popular he's with girls.</Dialog>
-          <Dialog>I understand. It's like that</Dialog>
-          <Dialog>Women are
-I like dark guys</Dialog>
-          <Dialog>But I'm sure he's the real culprit, right?</Dialog>
-          <Dialog>I understand. ●It's like that.</Dialog>
-          <Dialog>Is that so? Hmm...well, it was so cute I'll forgive you.</Dialog>
-          <Dialog>Girls like dark people.</Dialog>
-          <Dialog>That's what it means to have a shadow. ...Hmm, are you jealous?</Dialog>
-          <Dialog>Oh! ? No way... there's nothing! It's definitely a lie! ...That's a lie, isn't it?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>やっと登場したね。京極堂こと中禅寺秋彦さん。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん、もう出て来ないんじゃないかと思った。</Dialog>
+          <Dialog>ふふっ、すごく頭が良くてちょっと意地悪で、女子に人気があるのわかる。</Dialog>
+          <Dialog>わかる。●みたいな感じだよな</Dialog>
+          <Dialog>女子って、
+暗い奴が好きだもんね</Dialog>
+          <Dialog>でも、きっと真犯人だよ？</Dialog>
+          <Dialog>わかる。●みたいな感じだよな。</Dialog>
+          <Dialog>そうなの？　ふぅん……まあ、可愛いかったので許します。</Dialog>
+          <Dialog>女子って、暗い奴が好きだもんね。</Dialog>
+          <Dialog>陰があるっていうの、そういうのは。……ん、妬いてるのかな？</Dialog>
+          <Dialog>えぇっ！？　まさか……ないない！　ぜったいウソ！　……嘘だよね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3256,20 +3256,20 @@ I like dark guys</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, I was thinking about it...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>what?</Dialog>
-          <Dialog>Dr. Mimasaka was researching immortality, right? And it seems that the culprit is a dismembered...</Dialog>
-          <Dialog>See, isn't that person already? That means that these two are actually...</Dialog>
-          <Dialog>Franken with a broken body
-Does that mean they're making something like that?</Dialog>
-          <Dialog>Do you mean the same person?</Dialog>
-          <Dialog>Are you an accomplice?</Dialog>
-          <Dialog>Does that mean they're making something like Franken with their broken bodies?</Dialog>
-          <Dialog>I think so. Because they're all girls about the same age, right? Oh, no more... don't laugh!</Dialog>
-          <Dialog>picture? I didn't think about that... Isn't it a bit too forceful?</Dialog>
-          <Dialog>Maybe it is? The body needed for the experiment... Hmm, isn't it?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇねぇ、わたし、考えたんだけど……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>なに？</Dialog>
+          <Dialog>美馬坂博士は、不死の研究をしてたんでしょ？　それにどうやら、バラバラの犯人て――</Dialog>
+          <Dialog>ほら、もうあの人じゃない？　ということは、この二人って実は――</Dialog>
+          <Dialog>バラバラの身体でフランケン
+みたいなの作ってるってこと？</Dialog>
+          <Dialog>同一人物ってこと？</Dialog>
+          <Dialog>共犯者ってこと？</Dialog>
+          <Dialog>バラバラの身体でフランケンみたいなの作ってるってこと？</Dialog>
+          <Dialog>そうかなぁ、って。だってみんな同い年くらいの女の子でしょ？　あ、もう……笑わないの！</Dialog>
+          <Dialog>え？　それは、考えなかったな……。ちょっと強引過ぎない？</Dialog>
+          <Dialog>かもしれないよね？　実験のために必要な身体を……とか。う～ん、違うか……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3373,20 +3373,20 @@ Does that mean they're making something like that?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey hey, Enokizu came out, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes, you're a crazy detective, right?</Dialog>
-          <Dialog>oh yeah. It's the exact opposite of Kyogokudo, which is logically arranged, and looks a bit like a bad guy, right?</Dialog>
-          <Dialog>If you were to ask which one, which would you prefer?</Dialog>
-          <Dialog>Of course it's Kyogokudo</Dialog>
-          <Dialog>It's definitely Enokizu</Dialog>
-          <Dialog>▲Anegasaki*▲ Which is it?</Dialog>
-          <Dialog>Of course, it's Kyogokudo.</Dialog>
-          <Dialog>I see...it feels a bit surprising.</Dialog>
-          <Dialog>It's definitely Enokizu.</Dialog>
-          <Dialog>That's what I thought. After all, anti-heroes look cooler for boys, right?</Dialog>
-          <Dialog>I? I think I'm... Enokizu-san. Because it feels like I can't leave it alone. Like someone.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇねぇ、榎木津って出てきたでしょ？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん、メチャクチャな探偵でしょ？</Dialog>
+          <Dialog>そうそう。理路整然とした京極堂と正反対で、ちょっと悪者っぽいでしょ？</Dialog>
+          <Dialog>どっちかって言われたら、どっちが好き？</Dialog>
+          <Dialog>そりゃぁ、京極堂だよ</Dialog>
+          <Dialog>断然、榎木津だね</Dialog>
+          <Dialog>▲姉ヶ崎＊▲はどっち？</Dialog>
+          <Dialog>そりゃぁ、京極堂だよ。</Dialog>
+          <Dialog>そっかそっか……ちょっと意外な感じがする。</Dialog>
+          <Dialog>断然、榎木津だね。</Dialog>
+          <Dialog>だと思った。やっぱりアンチヒーローみたいな方が、男子的にはカッコいいよね？</Dialog>
+          <Dialog>わたし？　わたしは……榎木津さんかな。なんかほっとけない感じだから。誰かさんみたいに。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3490,24 +3490,24 @@ Does that mean they're making something like that?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, Enokizu and others will show Kubo a photo of Kanako at the cafe, right?</Dialog>
-          <Dialog>At that time, Kubo was so surprised that he would search for him, and suddenly he became kind, but that's suspicious, isn't it?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>...Is that so?</Dialog>
-          <Dialog>In "The Daughter in the Box," the main character was looking for a girl in the box that was just a sight to be seen. That means...</Dialog>
-          <Dialog>Kubo is packed in a box
-Does that mean you saw Kanako?</Dialog>
-          <Dialog>Kanako-chan's kidnapper
-What about Kubo?</Dialog>
-          <Dialog>The next victim is
-Are you Kanako-chan?</Dialog>
-          <Dialog>In other words, does Kubo have seen Kanako in the box?</Dialog>
-          <Dialog>That's right. Hmm, maybe I'm thinking about it a little too much?</Dialog>
-          <Dialog>In other words, does that mean that Kanako is the kidnapper?</Dialog>
-          <Dialog>yeah? Can you think of that kind of thing? I see... hmm.</Dialog>
-          <Dialog>In other words, Kanako will be the next victim?</Dialog>
-          <Dialog>……yeah? Will that be the case? I wonder if that's the case if Kanako is still safe...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねぇ、榎木津さん達が喫茶店で加奈子ちゃんの写真を久保に見せるでしょ？</Dialog>
+          <Dialog>その時久保がすごく驚いて、捜してあげる、なんて急に親切になるけど、あれ、怪しいよね？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……そうかな？</Dialog>
+          <Dialog>「箱の中の娘」では、主人公は一目見たきりの箱の女の子を捜してたのよ？　ということは……。</Dialog>
+          <Dialog>久保は箱詰めの
+加奈子ちゃんを見たってこと？</Dialog>
+          <Dialog>加奈子ちゃん誘拐犯は
+久保ってこと？</Dialog>
+          <Dialog>次の被害者は
+加奈子ちゃんってこと？</Dialog>
+          <Dialog>つまり、久保は箱詰めの加奈子ちゃんを見たってこと？</Dialog>
+          <Dialog>なぁんてね。う～ん、ちょっと考え過ぎかなぁ？</Dialog>
+          <Dialog>つまり、加奈子ちゃん誘拐犯は久保ってこと？</Dialog>
+          <Dialog>ん？　そういう風にも考えられる？　そっか……う～ん。</Dialog>
+          <Dialog>つまり、次の被害者は加奈子ちゃんってこと？</Dialog>
+          <Dialog>……ん？　そうなる？　加奈子ちゃんがまだ無事ならそうなのかな……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3616,22 +3616,22 @@ Are you Kanako-chan?</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I don't know...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What's that about?</Dialog>
-          <Dialog>Yoriko-chan, why is he following Kubo? After all, he's such a suspicious person, right?</Dialog>
-          <Dialog>Certainly, that's a bit vague in a suicide note.</Dialog>
-          <Dialog>Maybe that's after all...</Dialog>
-          <Dialog>Is Kubo a good guy?</Dialog>
-          <Dialog>Maybe he was desperate...</Dialog>
-          <Dialog>To Kubo
-I guess I was deceived...</Dialog>
-          <Dialog>Yes... that's not true. I don't understand anything about the maiden's heart or the story anymore. It's 0 points.</Dialog>
-          <Dialog>Maybe he was in desperation...</Dialog>
-          <Dialog>That's how it is. But is that all? Hmm...</Dialog>
-          <Dialog>I guess Kubo deceived him...</Dialog>
-          <Dialog>That's right, I'm sure. But you still don't understand that. Hmm...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>わかんないなぁ……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>なんのこと？</Dialog>
+          <Dialog>頼子ちゃん、なんで久保に付いていっちゃうんだろ？　だって、いかにも怪しい人でしょ？</Dialog>
+          <Dialog>確かに、遺書だとその辺が曖昧だよね。</Dialog>
+          <Dialog>やっぱりあれかな……。</Dialog>
+          <Dialog>久保がイケメンだから？</Dialog>
+          <Dialog>自暴自棄になってたのかな……</Dialog>
+          <Dialog>久保に
+騙されたんだろうけど……</Dialog>
+          <Dialog>えぇ……違うよそれは。もう、乙女心もストーリーもなんにもわかってない。０点です。</Dialog>
+          <Dialog>自暴自棄になってたのかな……。</Dialog>
+          <Dialog>そういう風にも取れるよね。でも、それだけなのかな？　う～ん……。</Dialog>
+          <Dialog>久保に騙されたんだろうけど……。</Dialog>
+          <Dialog>そうだよね、きっと。でも、そこのところが今一つわからなくない？　う～ん……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3750,22 +3750,22 @@ I guess I was deceived...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>already……. What does that mean? I really don't understand...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Which side?</Dialog>
-          <Dialog>After all, Kubo was the culprit for the dismemberment murder, right? But the person himself is different.</Dialog>
-          <Dialog>Well, it's a mystery, so it's boring to know the culprit so easily.</Dialog>
-          <Dialog>That's true, but...</Dialog>
-          <Dialog>Hey, don't you tell me soon? Who do you think is the real culprit?</Dialog>
-          <Dialog>It's definitely Dr. Mimasaka!</Dialog>
-          <Dialog>It's Kyogokudo!</Dialog>
-          <Dialog>There's nothing strange about it,
-Nene</Dialog>
-          <Dialog>Is it for an experiment? That's the only thing I can think of, right? So, does that mean that other complicated foreshadowings are meaningless?</Dialog>
-          <Dialog>...It's fine now. Think on your own.</Dialog>
-          <Dialog>There's nothing strange about it, Nene.</Dialog>
-          <Dialog>It's no good to imitate Kyogokudo. It's unfair, tell me exactly!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>もう……。どういうこと？　ホントに分かんなくなっちゃった……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>どの辺が？</Dialog>
+          <Dialog>だって、バラバラ殺人の犯人はやっぱり久保だったでしょ？　なのに、本人がバラバラなんだもん。</Dialog>
+          <Dialog>まあ、ミステリーだからそんなに簡単に犯人がわかってもつまんないよ？</Dialog>
+          <Dialog>それはそうだけど……。</Dialog>
+          <Dialog>ねぇ、そろそろ教えっこしない？　真犯人、誰だと思ってる？</Dialog>
+          <Dialog>ズバリ、美馬坂博士でしょう！</Dialog>
+          <Dialog>ズバリ、京極堂なのだっ！</Dialog>
+          <Dialog>不思議なことなど無いのだよ、
+寧々君</Dialog>
+          <Dialog>実験のためでしょ？　それしか考えられないもんね？　じゃあ、他の複雑な伏線は意味が無いってこと？</Dialog>
+          <Dialog>……もういい。独りで考える。</Dialog>
+          <Dialog>不思議なことなど無いのだよ、寧々君。</Dialog>
+          <Dialog>京極堂の真似してもダメ。ズルい、ちゃんと教えて！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3859,23 +3859,23 @@ Nene</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Haa...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>what happened?</Dialog>
-          <Dialog>The truth about everything is getting clearer, right? However, there are still many things I don't understand.</Dialog>
-          <Dialog>Mimasaka parents and children deceive the inheritance
-You mean you were trying to get it, right?</Dialog>
-          <Dialog>The research institute is huge
-It's an android</Dialog>
-          <Dialog>It's so complicated,
-There's no mastermind</Dialog>
-          <Dialog>In the end, it means that Mimasaka parents and children tried to deceive the inheritance, right?</Dialog>
-          <Dialog>What about the outcome? But it seems like it was a planned one, but in reality it was a coincidence that happened. I don't really understand that.</Dialog>
-          <Dialog>In other words, the research institute is a huge android.</Dialog>
-          <Dialog>That's part of the story, right? There's no tension.</Dialog>
-          <Dialog>In other words, even though it's so complicated, there's no mastermind behind it.</Dialog>
-          <Dialog>That's right. This is my first mystery. It feels strange...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ハァ……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>どうしたの？</Dialog>
+          <Dialog>全ての真相がだんだん明らかになって来たでしょ？　それなのにまだ、わからないことが多くて。</Dialog>
+          <Dialog>美馬坂親子が遺産をだまし
+取ろうとしたってことでしょ？</Dialog>
+          <Dialog>研究所は巨大な
+人造人間ってことだよ</Dialog>
+          <Dialog>こんなに複雑なのに、
+黒幕が居ないんだよね</Dialog>
+          <Dialog>結局、美馬坂親子が遺産をだまし取ろうとしたってことでしょ？</Dialog>
+          <Dialog>結果はね？　でも、計画的なようで本当は偶然が重なってそうなったのよ。そこが、よくわからない。</Dialog>
+          <Dialog>つまり、研究所は巨大な人造人間ってことだよ。</Dialog>
+          <Dialog>もう……それはお話の一部でしょ？　張り合いが無いなぁ。</Dialog>
+          <Dialog>つまり、こんなに複雑なのに、黒幕が居ないんだよね。</Dialog>
+          <Dialog>そうなのよ。こんなミステリー初めて。不思議な感じ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3889,8 +3889,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah! I've finished reading!</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>はぁ～！　読み終わったっ！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3909,8 +3909,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yay! Omedeto! Hehe, it was a long time, wasn't it?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>やったー！　オメデトー！　ふふっ、長かったもんね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3929,8 +3929,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Ah, wait a little longer. I'll read it too!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あ～ん、もうちょっと待って。わたしも、読んじゃうから！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4049,22 +4049,22 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>"The Monk's Box"... ▲Anegasaki*▲, how about finishing reading?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yeah……. It was very interesting. It was interesting but...</Dialog>
-          <Dialog>But?</Dialog>
-          <Dialog>After all, there are so many things I don't understand. For example, what was "moemoe"?</Dialog>
-          <Dialog>Yes, certainly...</Dialog>
-          <Dialog>Also, there's no criminal in this story that seems to be the culprit, right? They're like the real culprit or the mastermind.</Dialog>
-          <Dialog>There are some really unfortunate people, and even though they don't mean anything, something happened...</Dialog>
-          <Dialog>In the style of Kyogokudo, when things go by, they are caught up in a scary thing separately...</Dialog>
-          <Dialog>But from the outside, the whole thing just looks like a single incident... Ah!</Dialog>
-          <Dialog>what?</Dialog>
-          <Dialog>They are all and separate, and seem malicious and accidental, and maybe that's what they're doing...</Dialog>
-          <Dialog>It is described as "momo"! ? oh? It could be used as a recommendation sentence just like that!</Dialog>
-          <Dialog>Yes yes! It might be good! So, shall I write it?</Dialog>
-          <Dialog>Ou!</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>「魍魎の匣」か……。▲姉ヶ崎＊▲、読み終えてどう？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うん……。すごく面白かった。面白かったんだけど――</Dialog>
+          <Dialog>けど？</Dialog>
+          <Dialog>やっぱり、わからないことだらけ。例えば、“魍魎”ってなんだったのかな？</Dialog>
+          <Dialog>うん、たしかに……。</Dialog>
+          <Dialog>それに、このお話って、犯人らしい犯人が居ないでしょ？　真犯人とか黒幕みたいなのが。</Dialog>
+          <Dialog>すごく不幸な人達がいて、みんな、悪気は無いのに、何かのきっかけ――</Dialog>
+          <Dialog>京極堂風に言えば、“モノが通った”時に、それぞれ、別々に、恐ろしい事に巻き込まれて……。</Dialog>
+          <Dialog>でも、外からは全体が一つの事件にしか見えなくて……あ！</Dialog>
+          <Dialog>なに？</Dialog>
+          <Dialog>全部でもあり別々でもあり、悪意のようで事故のようで、もしかしてそれを……。</Dialog>
+          <Dialog>“魍魎”って表現してる！？　お？　なんかそれ、そのまま推薦文に使えそう！</Dialog>
+          <Dialog>うんうん！　いいかも！　じゃあ、書いちゃおう？</Dialog>
+          <Dialog>おう！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4158,19 +4158,19 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>"The Momo no Kano"...▲Anegasaki*▲, how about finishing reading?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes...it was a little different to what I had imagined, but it was interesting.</Dialog>
-          <Dialog>Yes... what's going on?</Dialog>
-          <Dialog>Hmm, it's difficult to put it in a nutshell, but...</Dialog>
-          <Dialog>See, like a normal mystery, it's not like the real culprit or the mastermind, whether it's alone or in the team, that's how it all connects to everything, right?</Dialog>
-          <Dialog>At first glance, it looks like an incident, but in fact it's all different stories, and they all come together in a chain...</Dialog>
-          <Dialog>That's amazing... you can often think of this kind of story.</Dialog>
-          <Dialog>I'm sure Professor Kyogoku Natsuhiko is as smart as Kyogokudo.</Dialog>
-          <Dialog>I guess so... huh? It could be used as a recommendation sentence just like that!</Dialog>
-          <Dialog>Hehe, already! Because I'm in good spirits. Okay, then let's write it?</Dialog>
-          <Dialog>Ou!</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>「魍魎の匣」か……▲姉ヶ崎＊▲、読み終えてどう？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うん……想像していたのとはちょっと違ったけど、面白かった。</Dialog>
+          <Dialog>うん……どんなとこが？</Dialog>
+          <Dialog>う～ん、一言でいうのは難しいけど……。</Dialog>
+          <Dialog>ほら、普通のミステリーみたいに、一人でもチームでも、真犯人や黒幕が全てに繋がってるって言う、そういう仕組みじゃないでしょ？</Dialog>
+          <Dialog>一見一つの事件に見えて、実は全部別のお話で、更にみんなそれぞれ連鎖してるっていう――</Dialog>
+          <Dialog>すごいよな……よくこんなストーリー考えられるよ。</Dialog>
+          <Dialog>京極夏彦先生って、やっぱり京極堂さんみたいに頭がいいのよ、きっと。</Dialog>
+          <Dialog>そうだろうな……お？　なんかそれ、そのまま推薦文に使えそう！</Dialog>
+          <Dialog>ふふっ、もう！　調子いいんだから。よし、じゃあ書いちゃおっか？</Dialog>
+          <Dialog>おう！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4274,20 +4274,20 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>"The Momo no Kano"...▲Anegasaki*▲, how about finishing reading?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes...it was really interesting. At all more than I expected. ...Huh?</Dialog>
-          <Dialog>yeah?</Dialog>
-          <Dialog>Do you think the mind really refers to the brain?</Dialog>
-          <Dialog>Well, I can't think about anything with my body alone...</Dialog>
-          <Dialog>If you compare your body to your head, it's true, isn't that true? But, what do you think of the lines Kyogokudo said...</Dialog>
-          <Dialog>Is the brain just a mirror that reflects your body?</Dialog>
-          <Dialog>Everyone experiences it with their own bodies, so it means that they have their own minds, right?</Dialog>
-          <Dialog>This means that if you just get to your brain, it's really just like a computer.</Dialog>
-          <Dialog>I see...yeah. I feel like I can continue writing a recommendation letter like this.</Dialog>
-          <Dialog>TRUE? Okay, then let's write it before we forget?</Dialog>
-          <Dialog>Ou!</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>「魍魎の匣」か……▲姉ヶ崎＊▲、読み終えてどう？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うん……すごく面白かった。予想よりぜんぜん。……ねぇ？</Dialog>
+          <Dialog>ん？</Dialog>
+          <Dialog>やっぱり、心って脳のことなんだと思う？</Dialog>
+          <Dialog>まあ、身体だけじゃ何も考えられないし……。</Dialog>
+          <Dialog>身体と頭を比べたら、確かにそうよね？　でもね、京極堂さんが言ったセリフ、ほら……。</Dialog>
+          <Dialog>脳は身体を映してるだけの鏡、だっけ？</Dialog>
+          <Dialog>みんなそれぞれの身体で経験するからそれぞれの心があるってことでしょ？</Dialog>
+          <Dialog>ということは、脳みそだけになったら、本当にコンピューターと同じになっちゃう。</Dialog>
+          <Dialog>なるほど……うん。なんかこのまま、推薦文が書けそうな気がしてきた。</Dialog>
+          <Dialog>本当？　よし、じゃあ忘れないうちに書いちゃおっか？</Dialog>
+          <Dialog>おう！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4441,27 +4441,27 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Advisor</Dialog>
-          <Dialog>Wow, is it Kyogoku Natsuhiko's morose box? There are a lot of difficult words, right? I'm sure the number of pages is amazing too, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>yes. Well, I managed to manage it. hey?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>hey? Hehe.</Dialog>
-          <Dialog>...What? Is it true that memories of youth are perfect?</Dialog>
-          <Dialog>yes. It's so much fun to read with someone and then while deducing it together. hey?</Dialog>
-          <Dialog>hey?</Dialog>
-          <Dialog>Ah, that's right. Of course it was good... Anyway, you're good at it! I'll be sure to read the book review.</Dialog>
-          <Dialog>Haa! It feels like I've done it! Thanks to ▲Anegasaki*▲, I managed to do something.</Dialog>
-          <Dialog>Hehe, I just read it together.</Dialog>
-          <Dialog>I hope everyone will read the book reviews, right?</Dialog>
-          <Dialog>Yeah. So it would be even better if they would want to read the book!</Dialog>
-          <Dialog>You'll want to read that review. I wonder what it's like...</Dialog>
-          <Dialog>The person who wrote this is very convincing, as if it was a lot of fun to read. Yeah.</Dialog>
-          <Dialog>I see... So, it's thanks to ▲Anegasaki*▲ after all.</Dialog>
-          <Dialog>Is that so? So, should I read it with someone who is even more thick as a thank you?</Dialog>
-          <Dialog>It's thick, right... come along!</Dialog>
-          <Dialog>Hehe, that's a lie! But, let's start reading books together again like this from now on. Library committee member.</Dialog>
-          <Dialog>Ou!</Dialog>
+          <Dialog>顧問</Dialog>
+          <Dialog>へぇ、京極夏彦の魍魎の匣か。難しい言葉がずいぶん出てきたろ？　確かページ数もすごいよな？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>はい。まあ、なんとかなりました。ね？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ね？　ふふっ。</Dialog>
+          <Dialog>……なんだ？　青春の思い出もバッチリってワケか？</Dialog>
+          <Dialog>はい。誰かと一緒に読んで、一緒に推理しながら読むとすっごく、楽しいです。ね？</Dialog>
+          <Dialog>ね？</Dialog>
+          <Dialog>あ、そう。そりゃ良かったね……。とにかく、お疲れさん！　心して書評を読ませてもらうぞ。</Dialog>
+          <Dialog>ハァ～～！　やり遂げたって感じだな！　▲姉ヶ崎＊▲のお陰で、なんとかなったよ。</Dialog>
+          <Dialog>ふふっ、わたしは、一緒に読んだだけだよ。</Dialog>
+          <Dialog>書評、みんな読んでくれるといいね？</Dialog>
+          <Dialog>うん。それで、本を読みたくなってくれるともっといいけどな！</Dialog>
+          <Dialog>ゼッタイ読みたくなるよ、あの書評を読めば。なんていうのかなぁ……。</Dialog>
+          <Dialog>これを書いた人は、すごく楽しく読めたんだなっていう、説得力があるもん。うん。</Dialog>
+          <Dialog>そっか……。じゃあ、やっぱり、▲姉ヶ崎＊▲のお陰だね。</Dialog>
+          <Dialog>そうなの？　じゃあ、お礼にもっともっと厚いやつ、一緒に読んでもらおっかな？</Dialog>
+          <Dialog>厚いの、ね……ドンと来いっ！</Dialog>
+          <Dialog>ふふっ、ウソだよ！　でもね、これからまたこうやって一緒に本、読んでね？　図書委員さん。</Dialog>
+          <Dialog>おう！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4595,26 +4595,26 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Advisor</Dialog>
-          <Dialog>Wow, is it Kyogoku Natsuhiko's morose box? There are a lot of difficult words, right? I'm sure the number of pages is amazing too, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Huh? Um, um...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>yes. Well, you did a good job checking out the colors along the way, right?</Dialog>
-          <Dialog>oh dear…….</Dialog>
-          <Dialog>yeah? Well, okay, good work! I'll have you read the book review.</Dialog>
-          <Dialog>Haa... In the end, I relied on ▲Anegasaki*▲ until the end.</Dialog>
-          <Dialog>Really. I chose to write a book review. Do you regret it?</Dialog>
-          <Dialog>It's not as good as it is...</Dialog>
-          <Dialog>Hehe. But, I'm actually a bit excited.</Dialog>
-          <Dialog>fun?</Dialog>
-          <Dialog>After all, there may be someone who read my review and read the Momoko no Kaku, right?</Dialog>
-          <Dialog>Of course, there is. surely.</Dialog>
-          <Dialog>So I would be happy if that person became a fan of Kyogoku Natsuhiko like me.</Dialog>
-          <Dialog>▲Anegasaki*▲, I've become a fan.</Dialog>
-          <Dialog>Hehe. Actually, I've already read the following: This time, it's 1,500 pages!</Dialog>
-          <Dialog>Heh, heh...</Dialog>
-          <Dialog>(I think I'll try hard to read it, the Momoko no Kaku...)</Dialog>
+          <Dialog>顧問</Dialog>
+          <Dialog>へぇ、京極夏彦の魍魎の匣か。難しい言葉がずいぶん出てきたろ？　確かページ数もすごいよな？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>えっ？　えぇと、あの……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>はい。あの、途中で色いろ調べたりして、なんとか頑張ったんだよね？</Dialog>
+          <Dialog>まあ……。</Dialog>
+          <Dialog>ん？　まあよし、お疲れさん！　書評、読ませてもらうぞ。</Dialog>
+          <Dialog>ハァ……結局、最後まで▲姉ヶ崎＊▲に頼っちゃったな。</Dialog>
+          <Dialog>ホント。わたしが選んで、書評まで書いちゃったんだもん。反省して？</Dialog>
+          <Dialog>面目ないです……。</Dialog>
+          <Dialog>ふふっ。でもね、ホントはちょっと楽しみなの。</Dialog>
+          <Dialog>楽しみ？</Dialog>
+          <Dialog>だって、わたしの書評を読んで、魍魎の匣を読んでくれる人、いるかもしれないでしょ？</Dialog>
+          <Dialog>そりゃあ、いるよ。きっと。</Dialog>
+          <Dialog>それで、その人がわたしみたいに、京極夏彦のファンになったら、嬉しいなって。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、ファンになったんだ。</Dialog>
+          <Dialog>へへ。実は、もう次のを読んでます。今度はなんと、１５００ページ！</Dialog>
+          <Dialog>へ、へぇ……</Dialog>
+          <Dialog>（●も、がんばって読んでみるかな、魍魎の匣……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4633,8 +4633,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふぅん……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4653,8 +4653,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Wow...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>へぇ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4673,8 +4673,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Pug!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>プッ！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4693,8 +4693,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hehe...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふふッ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4713,8 +4713,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Ah, no!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>アハッ、やだ！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4733,8 +4733,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I'm soooo...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>グスッ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4753,8 +4753,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Sigh, haa...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>グスッ、ハァ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4773,8 +4773,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Haa...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ハァ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4793,8 +4793,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えっ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4813,8 +4813,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>No way...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>やだぁ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4833,8 +4833,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>terrible…….</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ひどい……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4853,8 +4853,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ん～？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4873,8 +4873,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Wait, wait...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>待って待って……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4893,8 +4893,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Just a moment.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ちょっと～。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4913,8 +4913,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Come on, already...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ほら、もう……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4933,8 +4933,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Why?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>なんで～？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4953,8 +4953,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's strange.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>変なの～。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4973,8 +4973,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What, what do you mean?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>え、え、どういうこと？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4993,8 +4993,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What, why?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>え、なんでなんで？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5013,8 +5013,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Oh! !</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えぇっ！！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5033,8 +5033,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Shee!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>シーッ！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5053,8 +5053,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Slowly! hey?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>しずかに！　ね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5073,8 +5073,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm! concentration!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>んっ！　集中！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5093,8 +5093,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Because.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>だって。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5113,8 +5113,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Sorry.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ゴメン。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5133,8 +5133,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>は～い。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5153,8 +5153,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes...it's like classical Japanese...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えぇ……古文みたいなんですけど……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5173,8 +5173,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm... what's the point? one's family…….</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ん……なに論？　いっか……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5193,8 +5193,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's already Aoki-kun.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>もう、青木くんてば。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5213,8 +5213,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Wait, who is Fukumoto...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>待って、福本って誰だっけ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5233,8 +5233,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Finally it came out...is this guy like that?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>やっと出た……この人がそうか……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5253,8 +5253,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's long, face...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>長いんだ、顔……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5273,8 +5273,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's here. already…….</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>来た。もう……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5293,8 +5293,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What, what, this square! I don't want it.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>なになに、この四角！　ちょっと、やだ～。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5313,8 +5313,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Wow, it hurts...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うわ、痛ぁ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5333,8 +5333,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What, Kanako too? So...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えっ、加奈子も？じゃあ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5353,8 +5353,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What! ? That's right, Yoriko-chan...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えっ！？　そうだったの頼子ちゃん……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5373,8 +5373,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>terrible…….</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ひどい……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5393,8 +5393,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Eh, hey, oh! ? Before I knew it...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>え、ちょっと、えぇっ！？　いつのまに……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5413,8 +5413,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>...Castri?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>……カストリ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5433,8 +5433,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Oh, I've been to Lake Sagami before.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あ、相模湖行ったことある～。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5453,8 +5453,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What is this superpower?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>なにこれ、超能力？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5473,8 +5473,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, run away, it's no good.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>やぁ～、逃げて～、ダメだよ～。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5493,8 +5493,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Ah- I might have found out who the culprit is...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あっ――わたし、犯人わかっちゃったかも……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5513,8 +5513,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>"I'm not a monkey" is terrible!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>“猿じゃないんだ”って、ひどい！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5533,8 +5533,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Huh? I'm alive...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えぇ？　生きてるよぉ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5553,8 +5553,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Dried fish is Amemiya-san...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>干物って、雨宮さん……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5573,8 +5573,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Haa...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ハァ～……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5593,8 +5593,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ん～……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5613,8 +5613,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>う～ん……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5633,8 +5633,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes yes...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うんうん……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5653,8 +5653,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>…………</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>…………。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5673,8 +5673,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>はぁ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -5693,8 +5693,8 @@ There's no mastermind</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふぅ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<DBIN2 Key="1705198792" Unknown="18">
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="1705198792" Unknown="18">
   <Entries>
     <Entry Unknown0="1016878242" Unknown1="25823078">
       <SDL2 Key="634237287">
@@ -31,12 +31,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, I want to buy some clothes today. Is it okay?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Choosing clothes...</Dialog>
-          <Dialog>Looks fun</Dialog>
-          <Dialog>Let's stop today</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、今日は服を買いたいんだけど。いいかな？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>服選びか……。</Dialog>
+          <Dialog>楽しそうだな</Dialog>
+          <Dialog>今日はやめとこう</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -70,12 +70,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I want to choose clothes today. Do you date?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's right...</Dialog>
-          <Dialog>It's fine</Dialog>
-          <Dialog>Let's do something else</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>今日は服を選びたいの。付き合って？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだな……。</Dialog>
+          <Dialog>いいよ</Dialog>
+          <Dialog>別のことしよう</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -109,12 +109,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Today I want to go buy some clothes. good?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Shopping...</Dialog>
-          <Dialog>I'll date</Dialog>
-          <Dialog>Don't you do anything else?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>今日はね、服を買いに行きたいの。いい？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>買い物か……。</Dialog>
+          <Dialog>付き合うよ</Dialog>
+          <Dialog>他のことしない？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -133,8 +133,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I did it. So, let's go?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>やった。じゃあ、行こ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -168,11 +168,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>yes? So where shall we go?</Dialog>
-          <Dialog>Let's go to the boutique</Dialog>
-          <Dialog>Let's go to the accessories shop</Dialog>
-          <Dialog>Let's go to the cosmetics shop</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そう？　じゃあどこに行こっか？</Dialog>
+          <Dialog>ブティックに行こう</Dialog>
+          <Dialog>アクセサリーショップに行こう</Dialog>
+          <Dialog>コスメショップに行こう</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -216,14 +216,14 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Can you tell me what kind of clothes would suit me?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>●As...</Dialog>
-          <Dialog>It's nice to be cute</Dialog>
-          <Dialog>It's a neat and tidy thing</Dialog>
-          <Dialog>It's casual kei</Dialog>
-          <Dialog>Let's decide sexy</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>私にどんな服が似合うか見立ててくれる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>●としては……。</Dialog>
+          <Dialog>かわいいのがいい</Dialog>
+          <Dialog>清楚な感じのやつで</Dialog>
+          <Dialog>カジュアル系だな</Dialog>
+          <Dialog>セクシーに決めよう</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -242,8 +242,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>roger that. Wait a minute.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>了解。ちょっと待ってて。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -262,8 +262,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Right. Now, what do you think?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>じゃーん。さあ、どう？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -282,8 +282,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Isn't this pretty good?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>これなんか、割といいんじゃない？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -302,8 +302,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Does it suit your taste?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あなたの好みに合ってる？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -322,8 +322,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>If you're good, this kind of thing...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あなたがいいなら、こういうのでも……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -342,8 +342,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I have to try a lot of things.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>色々試してみないとね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -362,8 +362,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Well, this is also okay... maybe?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>まあ、こんなのもアリ……かな？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -387,10 +387,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yeah…….</Dialog>
-          <Dialog>That's good</Dialog>
-          <Dialog>Let's look at another one too</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん……。</Dialog>
+          <Dialog>それがいいな</Dialog>
+          <Dialog>別のも見よう</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -414,10 +414,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's right...</Dialog>
-          <Dialog>Let's do this</Dialog>
-          <Dialog>Are there other things?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだな……。</Dialog>
+          <Dialog>これにしよう</Dialog>
+          <Dialog>他にもある？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -451,12 +451,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(I have to decide on it properly)</Dialog>
-          <Dialog>Then...</Dialog>
-          <Dialog>The first outfit looks good</Dialog>
-          <Dialog>I like the previous one</Dialog>
-          <Dialog>This outfit is the best</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（いいかげん決めないとな）</Dialog>
+          <Dialog>じゃあ……。</Dialog>
+          <Dialog>最初の服が似合う</Dialog>
+          <Dialog>一つ前の服がいい</Dialog>
+          <Dialog>この服が一番だ</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -475,8 +475,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>thank you. After all, it's the right thing to do with you.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ありがとう。やっぱりあなたに付き合ってもらって正解。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -495,8 +495,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>So I'll just go with this. I can't make up my mind on my own, so I think it would have been great to have chosen them together.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>じゃあ思いきってこれにするね。自分じゃなかなか踏ん切りつかないから、一緒に選べて良かったかも。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

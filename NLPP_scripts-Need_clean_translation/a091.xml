@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<DBIN2 Key="3753449177" Unknown="36">
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="3753449177" Unknown="36">
   <Entries>
     <Entry Unknown0="1880377424" Unknown1="4092800978">
       <SDL2 Key="1630320871">
@@ -31,11 +31,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>...Sorry, did you keep me waiting?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes, not at all.</Dialog>
-          <Dialog>Ah... it was a classic exchange.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>……ごめん、待たせちゃった？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ううん、全然。</Dialog>
+          <Dialog>あ……定番のやり取りしちゃったね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -59,10 +59,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's early. Did you look forward to that much?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Haha, that's what it is.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>早いね。そんなに待ち遠しかった？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>はは、そういうこと。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -86,10 +86,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Okay, okay. It's amazing that you're coming first.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Haha, hi.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>よしよし。先に来てるなんて、えらいぞ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>はは、どーも。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -113,10 +113,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Ah... did you keep me waiting? Let's go to the shade soon?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It's okay, because I'm here now.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あ……待たせちゃった？　早く日陰に行こう？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>大丈夫だよ、今来たところだから。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -140,10 +140,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I was impressed and impressed that he came first.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Of course, I don't want to keep them waiting in the heat.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>先に来てるなんて感心、感心。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そりゃ、暑い中待たせたくないし。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -167,10 +167,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Did you keep me waiting? It was hot, wasn't it? Good, good.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Haha, that's fine.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>待たせちゃった？　暑かったでしょ？　いいこいいこ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>はは、いいって。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -194,10 +194,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Thank you for waiting. Isn't it cold today?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's right. Let's go early before we get a cold.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>お待たせ。今日、寒くない？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだな。風邪ひかないうちに早く行こう。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -240,12 +240,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Ahhh.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Wow. ▲Anegasaki*▲?</Dialog>
-          <Dialog>My hands are cold... Did you wait that long? He's cool.</Dialog>
-          <Dialog>▲Anegasaki*▲ is warm. ●It's fine.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>きゃっ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>わっ。▲姉ヶ崎＊▲？</Dialog>
+          <Dialog>手、冷たい……。そんなに待っててくれたんだ？　格好いいんだ。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲があったかいんだよ。●は大丈夫。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -269,10 +269,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Isn't it early? It might be cold and I'm curled up in my room.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It's fine, so it's fine.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>早いね？　もしかしたら寒くて部屋で丸まってるかなって。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>元気だから、大丈夫。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -296,10 +296,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Sorry, did you keep me waiting?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, safe. Because I've only just come here too.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん、待たせた？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ううん、セーフ。私も来たばっかりだから。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -348,13 +348,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>...Ah, sorry.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Thank you for waiting, ▲Anegasaki*▲. What a shame?</Dialog>
-          <Dialog>When we met Tokona was thinking about what to talk about, but she's already here.</Dialog>
-          <Dialog>Did you think that?</Dialog>
-          <Dialog>Hehe. Please also lead the conversation.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>……あ、残念。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>お待たせ、▲姉ヶ崎＊▲。残念って？</Dialog>
+          <Dialog>会ったとき何を話そうか考えてたとこなのに、もう来ちゃった。</Dialog>
+          <Dialog>そんなこと考えてたんだ？</Dialog>
+          <Dialog>ふふっ。会話のリードもよろしくね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -388,11 +388,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hehe, I've come. I've been waiting.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Huh? That's weird, it's on time, right?</Dialog>
-          <Dialog>I came a little early. You panicked and want to see it.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふふ、来た来た。待ってたよ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あれ？　おかしいな、時間通りだよね？</Dialog>
+          <Dialog>少し早めに来たの。あわてるあなたが見たくって。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -426,11 +426,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>This one here. It's hot again today.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, did you come early?</Dialog>
-          <Dialog>Yes, it's okay.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>こっちこっち。今日も暑いね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、早く来てた？</Dialog>
+          <Dialog>ううん、大丈夫。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -458,11 +458,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's time perfect even if you don't run.
-I'm sweating now, I'm panicking.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I'm glad there wasn't a delay...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>走らなくても時間ぴったりだよ。
+もう汗かいちゃって、あわてんぼ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>遅れなくてよかったよ……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -496,11 +496,11 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Oh, was it late?</Dialog>
-          <Dialog>Yes, just. Thank you for rushing even though it's hot.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あ、遅かった？</Dialog>
+          <Dialog>ううん、ちょうど。暑いのに急いでくれてありがとう。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -539,12 +539,12 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>Sorry, wasn't it cold?</Dialog>
-          <Dialog>a bit. But if I called your name it might have been a little warmer.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>ごめん、寒くなかった？</Dialog>
+          <Dialog>少し。でもね、あなたの名前呼んだら、ちょっとだけあったかくなったかも。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -568,10 +568,10 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲. It's getting cold today.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I agree. I have to stick more than usual to avoid catching a cold.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。今日は冷えるね。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そうだね。風邪ひかないように、いつもよりくっついてくれないと。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -609,11 +609,11 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲. It's time right.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Because it's cold. ▲Anegasaki*▲ shouldn't let her catch a cold, right?</Dialog>
-          <Dialog>……already. He said something happy.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。時間ぴったりだね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>寒いからね。▲姉ヶ崎＊▲に風邪ひかせちゃいけないでしょ？</Dialog>
+          <Dialog>……もう。うれしいこと言ってくれちゃって。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -637,10 +637,10 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Umm... sorry for being late.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I haven't been waiting that long. So don't worry.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>えっと……遅刻してごめん。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>私、そんなに待ってないよ。だから気にしないで。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -664,10 +664,10 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm... should I make it safe?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Thank you... sorry.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>んー……セーフってことにしてあげようかな？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ありがと……ごめん。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -691,10 +691,10 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲. Did you keep me waiting?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's fine, that's about it. It's nice weather.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲。待たせちゃった？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>いいよ、これくらい。いい天気だし。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -728,11 +728,11 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's here. It's hot today.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes...sorry to keep you waiting. sorry.</Dialog>
-          <Dialog>I don't care, I don't care. Because it's not worth this much.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>来た来た。暑いね、今日。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん……ちょっと待たせたよね。ごめん。</Dialog>
+          <Dialog>気にしない、気にしない。これくらいでへばらないから。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -771,12 +771,12 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>...Sorry, have you waited?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Just a little bit. Wow, it's hot and hot.</Dialog>
-          <Dialog>Sorry!</Dialog>
-          <Dialog>Don't take it seriously, already.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……ごめん、待った？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ちょっとだけね。ふう、暑い暑い。</Dialog>
+          <Dialog>すいません！</Dialog>
+          <Dialog>本気にしないの、もう。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -800,10 +800,10 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Sorry, it's hot...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's okay if you don't panic that much. I'm not angry.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん、暑い中……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そんなにあわてなくても大丈夫。怒ってないよ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -842,12 +842,12 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>You're a little late.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Sorry for keeping you waiting. It was cold, wasn't it?</Dialog>
-          <Dialog>Yes. It's a bit fun to wait.</Dialog>
-          <Dialog>(▲Anegasaki*▲...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>少し、遅刻だね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>待たせてごめん。寒かったでしょ？</Dialog>
+          <Dialog>ううん。待つのも、ちょっと楽しいから。</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -886,12 +886,12 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, sorry, it was cold, wasn't it?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Eh, huh, it's cold. Warm it.</Dialog>
-          <Dialog>What!? Umm...!</Dialog>
-          <Dialog>Ahh. I'll forgive you in that face!</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、ごめん、寒かったよね？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えーん、えーん、寒いよー。あっためてよー。</Dialog>
+          <Dialog>えっ!?　えっと……！</Dialog>
+          <Dialog>あはっ。その顔に免じて許してあげる！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -915,10 +915,10 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Oh, there was. See, it's so cold!</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Wow!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あ、いた。ほら、こんなに冷えちゃった！</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うわっ！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -952,11 +952,11 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I was looking forward to a date... you?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>sorry! That's not the case!</Dialog>
-          <Dialog>...Because I believe it, right?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>私はデート、楽しみにしてたんだけど……。あなたは？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん！　そういうわけじゃないから！</Dialog>
+          <Dialog>……信じるからね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -995,12 +995,12 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Sorry... I waited, right?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I've waited.</Dialog>
-          <Dialog>sorry. sorry.</Dialog>
-          <Dialog>Let's work hard and make up for it now!</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん……待ったよね？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>待ちました。</Dialog>
+          <Dialog>ごめん。ごめんなさい。</Dialog>
+          <Dialog>今からがんばって挽回すること！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1039,12 +1039,12 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Sorry, please keep me waiting...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's a bad kid to make you worry so much. ...Eh!</Dialog>
-          <Dialog>Ugh, I'm sorry.</Dialog>
-          <Dialog>I thought something had happened, I already.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん、待たせて……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>こんなに心配させるなんて悪い子ね。……めっ！</Dialog>
+          <Dialog>うっ、反省してます。</Dialog>
+          <Dialog>なにかあったのかと思っちゃったじゃない、もう。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1083,12 +1083,12 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Sorry for being late!</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes. But I might be a little hot...</Dialog>
-          <Dialog>sorry! Come on, Aogu!</Dialog>
-          <Dialog>Well, that's going to get hot this time.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>遅れてごめん！</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ううん。でも、ちょっと体が熱いかも……。</Dialog>
+          <Dialog>ごめん！　ほら、あおぐから！</Dialog>
+          <Dialog>いいよいいよ、今度はそっちが熱くなっちゃう。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1142,14 +1142,14 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Sorry for being late. I'll apologize.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>So, apologise with "Sorry."</Dialog>
-          <Dialog>What... are you going to say it here?</Dialog>
-          <Dialog>Say it quickly. Because it's hot.</Dialog>
-          <Dialog>...Sorry, piyon.</Dialog>
-          <Dialog>It's so cute ▼...Yeah, I'll forgive you.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>遅れてごめん。謝るよ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>じゃあ、「ごめんだぴょん」で謝って。</Dialog>
+          <Dialog>え……ここで言うの？</Dialog>
+          <Dialog>早く言って。暑いんだから。</Dialog>
+          <Dialog>……ごめんだぴょーん。</Dialog>
+          <Dialog>カーワイイ▼　……うん、許してあげる。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1198,13 +1198,13 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I was a little surprised that I had to wait such a long time.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Sorry for being late...</Dialog>
-          <Dialog>My mind is relaxed. Isn't he being too pampered by his older sister?</Dialog>
-          <Dialog>yes. sorry.</Dialog>
-          <Dialog>That's fine. So, first, let's take shelter in the shade.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>こんなに待たされるなんて、ちょっとびっくり。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>遅れてすみませんでした……。</Dialog>
+          <Dialog>気が緩んでる。お姉さんに甘え過ぎじゃない？</Dialog>
+          <Dialog>はい。ごめんなさい。</Dialog>
+          <Dialog>よろしい。じゃ、まずは日陰に避難ね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1253,13 +1253,13 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, you're angry...?</Dialog>
-          <Dialog>Yes, I'm not angry. But it was rusty...</Dialog>
-          <Dialog>Sorry, I won't do it anymore!</Dialog>
-          <Dialog>Is it a promise?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、怒ってる……？</Dialog>
+          <Dialog>ううん、怒ってない。でも、さびしかったな……。</Dialog>
+          <Dialog>ごめん、もうしないから！</Dialog>
+          <Dialog>約束よ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1298,12 +1298,12 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Don't let your girlfriend wait in the cold. Deducted 1 point.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>...What will happen and what will happen?</Dialog>
-          <Dialog>Instead, try not to accumulate it. hey?</Dialog>
-          <Dialog>yes…….</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>寒い中、カノジョを待たせちゃダメでしょ。減点１。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……それ、何点でどうなるの？</Dialog>
+          <Dialog>そうじゃなくて、溜めないように努力すること。ね？</Dialog>
+          <Dialog>はい……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1337,11 +1337,11 @@ I'm sweating now, I'm panicking.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's shocking. I can't help but wait so long.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲...Sorry.</Dialog>
-          <Dialog>Maybe it makes me feel cold, so why not have fun today?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ショックだな。こんなに待たされるなんて。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……ごめん。</Dialog>
+          <Dialog>寒い思いさせたぶん、今日は楽しませてね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

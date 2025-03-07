@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<DBIN2 Key="1230137439" Unknown="56">
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="1230137439" Unknown="56">
   <Entries>
     <Entry Unknown0="3569325086" Unknown1="140470097">
       <SDL2 Key="2842660058">
@@ -31,12 +31,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Why not even have a study session in preparation for the next test?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah... the previous test was awful...</Dialog>
-          <Dialog>Maybe I'll ask</Dialog>
-          <Dialog>But this time it's fine</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>次のテストに備えて、勉強会でもしない？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あぁ……前のテストは散々だったから……。</Dialog>
+          <Dialog>お願いしようかな</Dialog>
+          <Dialog>でも今回はいいや</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -70,12 +70,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What you need right now is...not a date, isn't it a study group?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes...maybe...</Dialog>
-          <Dialog>Should I do it, study group</Dialog>
-          <Dialog>Study alone</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あなたに今必要なのは……デートじゃなくて勉強会じゃない？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>う……そうかも……。</Dialog>
+          <Dialog>やるか、勉強会</Dialog>
+          <Dialog>勉強は一人でする</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -109,12 +109,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Didn't the test last time be that good? So we have to have a study group.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>A study group...</Dialog>
-          <Dialog>Let's do that</Dialog>
-          <Dialog>Sorry, it's fine</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>この間のテスト、あまり良くなかったんだって？　じゃあ勉強会しなくちゃ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>勉強会か……。</Dialog>
+          <Dialog>そうしよう</Dialog>
+          <Dialog>ごめん、いいや</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -133,8 +133,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yeah. Well, after school again.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うん。じゃあ、また放課後ね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -153,8 +153,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>oh yeah. Sometimes you have to study properly.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そうそう。たまにはきちんと勉強しないとね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -173,8 +173,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Well, I'll be waiting at home. Come quickly.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>じゃあ、わたしは家で待ってるから。早く来てね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -193,8 +193,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>yes. If you're good, that's fine...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そう。あなたがいいなら、いいんだけど……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -213,8 +213,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm... I don't know what happens.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふーん……どうなっても知らないから。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -233,8 +233,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I see. Well, see you next time.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そっか。じゃあ、また今度ね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -258,10 +258,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>please. Don't hesitate.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes, I'll go in.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>どうぞ。遠慮しないで。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん、入るよ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -285,10 +285,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hehe, are you nervous?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's not the case.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふふ、緊張してる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そんなことないよ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -312,10 +312,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Don't open the drawers, are you?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I can't open it... I'm just keeping quiet.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>引き出しとか、開けないでね？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>開けないって……おとなしくしてるよ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -339,10 +339,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I thought I'd cleaned it up but...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It's a big difference from ●'s room.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>片付けておいたつもりだけど……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>●の部屋とは大違いだな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -366,10 +366,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>See, I don't look away very much. concentration.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ほら、あんまりよそ見しないの。集中。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>はーい。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -393,10 +393,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Today is a study group, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>You know.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>今日は勉強会だからね？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>わかってるって。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -415,8 +415,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, I'm starting.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>はい、はじめます。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -435,8 +435,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Now, let's get excited, right?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>さあ、張り切っていこうね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -455,8 +455,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I'll try hard too.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>私もがんばろうっと。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -475,8 +475,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, which one do you want to start?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、どれから始めたい？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -495,8 +495,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Where do you go from? It might be a good idea to start with a subject you're not good at.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>どこから進める？　苦手な教科から始めるのもいいかもね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -515,8 +515,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Which subject should I choose?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>教科はどれにしよっか？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -560,13 +560,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>General</Dialog>
-          <Dialog>national language</Dialog>
-          <Dialog>society</Dialog>
-          <Dialog>science</Dialog>
-          <Dialog>Mathematics</Dialog>
-          <Dialog>English</Dialog>
-          <Dialog>▲Anegasaki*▲</Dialog>
+          <Dialog>総合</Dialog>
+          <Dialog>国語</Dialog>
+          <Dialog>社会</Dialog>
+          <Dialog>理科</Dialog>
+          <Dialog>数学</Dialog>
+          <Dialog>英語</Dialog>
+          <Dialog>▲姉ヶ崎＊▲</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -585,8 +585,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Do it seriously here.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>こーら、真面目にやりなさい。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -605,8 +605,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Just take it easy. So, let's go from the general public, right?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>いい加減にしなさい。じゃあ、総合から行くよ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -625,8 +625,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>no matter what? If that's the case...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>どうしても？　どうしてもだったら……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -645,8 +645,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>If you say that, there's nothing you can do about it.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そんなに言うなら、しょうがないか。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -665,8 +665,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>He's already a spoiled boy. There's nothing I can do about it.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>もう、甘えん坊さん。しょうがないなぁ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -685,8 +685,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>roger that. Let's do that.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>了解。それにしましょ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -705,8 +705,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Understood. Do your best, don't you?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>わかった。がんばってね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -725,8 +725,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, let's do that.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うん、それにしよっか。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -760,11 +760,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>You did your best. Shall we take a break as a reward?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>nice. I was just thirsty.</Dialog>
-          <Dialog>Then I'll prepare. Wait a minute.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>よくがんばったね。ご褒美に休憩にしようか？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>いいね。ちょうど喉が渇いてたんだ。</Dialog>
+          <Dialog>じゃあ準備してくるね。待ってて。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -798,11 +798,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's really amazing. If this is going to happen, I think I'll be able to manage, so I'll take a break now?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Is it okay? I think I'll do that.</Dialog>
-          <Dialog>Well, wait a minute.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えらいえらい。この調子ならなんとかなりそうだし、今のうちに休憩する？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>いいの？　そうしよっかな。</Dialog>
+          <Dialog>じゃあ、ちょっと待ってて。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -836,11 +836,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Amazing! Let's take a break as a reward.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I agree. So just a moment.</Dialog>
-          <Dialog>You did your best.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>すごーい！　ご褒美に休憩しよっか。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだね。じゃあちょっと。</Dialog>
+          <Dialog>がんばったもんね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -859,8 +859,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Congratulations on answering all the questions correctly. I have to give you a reward.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>全問正解、おめでとう。ご褒美あげなくちゃね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -879,8 +879,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's amazing. Is it a reward for your hard work?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>すごいじゃない。そのがんばりを評価するということで……ご褒美かな？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -899,8 +899,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Well done ▼ Hehe, I'll give you a reward.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>よくできました▼　ふふ、ご褒美あげちゃう。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -934,11 +934,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Are you a little tired? Shall we drink something and relax?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's right...</Dialog>
-          <Dialog>I'll be in there soon, so take a break.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>少し疲れてるんじゃない？　なにか飲んでリラックスしようか。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだな……。</Dialog>
+          <Dialog>すぐに入れて来るから、休んでてね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -972,11 +972,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Maybe you're stuck? Let's take a break and switch.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes... I'll do that.</Dialog>
-          <Dialog>You also need to take a breather. Wait a minute.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>行き詰まっちゃったかな？　休憩入れて切り替えましょ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん……そうする。</Dialog>
+          <Dialog>息抜きも必要だからね。待ってて。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1010,11 +1010,11 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm...maybe I should start over again.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Maybe so...</Dialog>
-          <Dialog>I'll bring something, so let's take a break, right?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うーん……いったん仕切り直したほうがいいかもね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうかも……。</Dialog>
+          <Dialog>なにか持ってくるから、ひと休みしようね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1033,8 +1033,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I'll show you a special outfit for you...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あなたにプレゼントしてもらった服……特別に見せてあげるね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1053,8 +1053,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hehe, I tried wearing the clothes you bought me. How do you feel energized?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふふ、あなたに買ってもらった服、着てみたの。どう、元気が出る？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1073,8 +1073,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Right. copper? Does your present suit you well?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>じゃーん。どう？　あなたのプレゼント、似合ってるかな？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1093,8 +1093,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>This is a reward. I'll only show you this kind of outfit...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>これがご褒美。私のこんな格好、あなたにしか見せないから……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1113,8 +1113,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, a reward. See, you like this kind of thing, don't you?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>はい、ご褒美。ほら、あなたってこういうの好きでしょ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1133,8 +1133,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>You worked so hard... special, huh.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あなたがとってもがんばったから……特別にね、ふふ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1153,8 +1153,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>They're clothes that I don't wear very often...so maybe I'll keep them in the photo.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あんまり着ない服だし……写真に残しておくのもいいかもね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1173,8 +1173,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I've been wearing it for a while, so I think I'll take a picture of it.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>せっかく着たんだし、少し撮っておいてもらおうかな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1193,8 +1193,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>You want to take a picture of this outfit, right? ...That's fine.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>この格好、撮りたいんでしょ？　……いいよ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1233,12 +1233,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Sorry for keeping you waiting. Yes, this is it.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Wow... is this handmade?</Dialog>
-          <Dialog>Yeah. Let's eat this and continue to work hard after this.</Dialog>
-          <Dialog>Well, I'll eat it.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>お待たせしました。はい、これどうぞ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>へえ……これ、手作り？</Dialog>
+          <Dialog>うん。これ食べて、このあともがんばろうね。</Dialog>
+          <Dialog>じゃあ、いただきます。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1277,12 +1277,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, what is this?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>handmade! Can I eat it?</Dialog>
-          <Dialog>of course. I made it for you, so why not eat it beautifully?</Dialog>
-          <Dialog>I'll eat it carefully. I'll have it.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>はい、これはなんでしょう？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>手作り！　食べていいの？</Dialog>
+          <Dialog>もちろん。あなたのために作ったんだから、綺麗に食べてね？</Dialog>
+          <Dialog>大事に食べるよ。いただきまーす。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1321,12 +1321,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Thank you for waiting. Please enjoy this.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, handmade!</Dialog>
-          <Dialog>Hehe, he looks happy. It's fine, eat it all.</Dialog>
-          <Dialog>You did it. So, let's take a bite right away...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>お待たせ。どうぞ、これを召し上がれ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あ、手作り！</Dialog>
+          <Dialog>ふふ、うれしそうな顔。いいよ、全部食べて。</Dialog>
+          <Dialog>やったね。じゃあ、さっそくひと口……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1355,10 +1355,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>So... let's continue and start.</Dialog>
-          <Dialog>Let's do that</Dialog>
-          <Dialog>Let's stop now</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>じゃあ……続き、始めよっか。</Dialog>
+          <Dialog>そうしよう</Dialog>
+          <Dialog>もうやめよう</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1387,10 +1387,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Will you start studying soon?</Dialog>
-          <Dialog>Let's resume</Dialog>
-          <Dialog>No, it's fine now</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そろそろ勉強、再開する？</Dialog>
+          <Dialog>再開しよう</Dialog>
+          <Dialog>いや、もういい</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1419,10 +1419,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Well, then. Is the break coming to an end soon?</Dialog>
-          <Dialog>That's right</Dialog>
-          <Dialog>Stop it already</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>さて、と。そろそろ休憩は終わりかな？</Dialog>
+          <Dialog>そうだな</Dialog>
+          <Dialog>もうやめる</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1446,10 +1446,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's right. Studying is back.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Let's do our best, just take a break.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだな。勉強再開だ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>もうひと息、がんばろうね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1473,10 +1473,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's all for today.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>yes? Well, it might be a good break...</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>今日はここまでにしとこう。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そう？　まあ、いい区切りかもね……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<DBIN2 Key="1501351730" Unknown="76">
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="1501351730" Unknown="76">
   <Entries>
     <Entry Unknown0="2369336805" Unknown1="4137762539">
       <SDL2 Key="467002342">
@@ -76,17 +76,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey... Have you ever seen a donut shop that sells wagons?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>There isn't... why?</Dialog>
-          <Dialog>My friend said that the other day I bought it and ate it and it was really delicious.</Dialog>
-          <Dialog>There are many other delicious donut shops, right?</Dialog>
-          <Dialog>That's right, but... I definitely like those donuts! That's what I was told.</Dialog>
-          <Dialog>▲Anegasaki*▲Do you like it? I'm curious...</Dialog>
-          <Dialog>I was also curious. But it looks like it's a mobile sales store... I can't find it at all.</Dialog>
-          <Dialog>So, should I look for ●?</Dialog>
-          <Dialog>Really? Thank you, if you find it, let's eat together♪</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ……ワゴン販売のドーナツ屋さんって見かけたことある？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ないなぁ……どうして？</Dialog>
+          <Dialog>友達がね、この前買って食べたらすっごく美味しかったって言うの。</Dialog>
+          <Dialog>美味しいドーナツ屋さんならほかにもたくさんあるだろ？</Dialog>
+          <Dialog>そうなんだけど……そのドーナツは絶対私好みだ！　って言われちゃって。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲好み？　気になるなぁ……。</Dialog>
+          <Dialog>私も気になっちゃって。だけどそのお店、移動販売らしくて……全然見つからないんだよね。</Dialog>
+          <Dialog>じゃあ、●が探してみようか？</Dialog>
+          <Dialog>ほんとに？　ありがとう、見つかったら一緒に食べようね♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -175,20 +175,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>……yeah?</Dialog>
-          <Dialog>(Oh, is that a rumored donut shop?)</Dialog>
-          <Dialog>(Okay, I'll buy it at ▲Anegasaki*▲)</Dialog>
-          <Dialog>▲Anegasaki*▲! I came to deliver what I promised.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What is the promise... what is it?</Dialog>
-          <Dialog>This is donut!</Dialog>
-          <Dialog>Wow♪ Did you remember it properly? I'm happy.</Dialog>
-          <Dialog>I choose the kinds of foods so eat whatever I like.</Dialog>
-          <Dialog>Really, please feel free to come♪</Dialog>
-          <Dialog>●I chose the one that ▲Anegasaki*▲ likes... what do you think?</Dialog>
-          <Dialog>……delicious! Are you okay. It seems like you know my taste very well ▼</Dialog>
-          <Dialog>good.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……ん？</Dialog>
+          <Dialog>（あ、あれってウワサのドーナツ屋さんか？）</Dialog>
+          <Dialog>（よし、▲姉ヶ崎＊▲に買っていってやろっと）</Dialog>
+          <Dialog>▲姉ヶ崎＊▲！　約束のもの届けにきたよ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>約束のもの……なんだろう？</Dialog>
+          <Dialog>これだよ、ドーナツ！</Dialog>
+          <Dialog>わぁ♪　ちゃんと覚えててくれたのね？　嬉しいなぁ。</Dialog>
+          <Dialog>種類は適当に選んだから、好きなの食べてよ。</Dialog>
+          <Dialog>ほんとだぁ、遠慮なくいただきまーす♪</Dialog>
+          <Dialog>●なりに▲姉ヶ崎＊▲の好きそうなのを選んでみたんだけど……どう？</Dialog>
+          <Dialog>……美味しい！　大丈夫。私の好み、ちゃ～んとわかってるみたいね▼</Dialog>
+          <Dialog>よかった。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -247,15 +247,15 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It's a pleasant season. ...I'm feeling hungry somehow.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What is that? ...Oh, yeah, my friend said he had found a delicious crepe shop.</Dialog>
-          <Dialog>A new shop?</Dialog>
-          <Dialog>Every year, it seems that they open their shop in wagons only during the spring. Apparently they're selling them while moving around town.</Dialog>
-          <Dialog>It's a whimsical shop...</Dialog>
-          <Dialog>Ah, I'd love to try the crepes from that restaurant too.</Dialog>
-          <Dialog>So, let's look for ● as well.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>気持ちのいい季節だなぁ。……なんか腹が減ってきた。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>もう、なにそれ。……あ、そうそう、友達が美味しいクレープ屋さん見つけたって言ってたなぁ。</Dialog>
+          <Dialog>新しいお店？</Dialog>
+          <Dialog>毎年、春のあいだだけワゴンでお店を開くみたい。街のあちこちに移動しながら売ってるらしいんだけど。</Dialog>
+          <Dialog>気まぐれな店だな……。</Dialog>
+          <Dialog>あぁ、私もそのお店のクレープ食べてみたいなぁ。</Dialog>
+          <Dialog>じゃあ、●も探してみるか。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -343,19 +343,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>……yeah?</Dialog>
-          <Dialog>(Oh, is that a crepe shop that's the rumored crepe shop?)</Dialog>
-          <Dialog>(Okay, let's call ▲Anegasaki*▲)</Dialog>
-          <Dialog>Oh, it's here.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲. I was in a hurry because I said a crepe shop had been found.</Dialog>
-          <Dialog>See, that's the crepe shop that's the rumored thing.</Dialog>
-          <Dialog>Wow, really. The shop is exactly as I imagined!</Dialog>
-          <Dialog>●I can't get enough of this smell.</Dialog>
-          <Dialog>Haha...I wonder if that's what happens to be dumplings rather than flowers?</Dialog>
-          <Dialog>Anyway, let's go buy it soon.</Dialog>
-          <Dialog>Yeah. I'm getting hungry too ♪</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……ん？</Dialog>
+          <Dialog>（あ、あれってウワサのクレープ屋さんか？）</Dialog>
+          <Dialog>（よし、▲姉ヶ崎＊▲のこと呼んでみよう）</Dialog>
+          <Dialog>あ、来た来た。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。クレープ屋さんが見つかったって言うから慌てて来ちゃった。</Dialog>
+          <Dialog>ほら、あれがウワサのクレープ屋さんだよ。</Dialog>
+          <Dialog>わぁ、ほんと。私のイメージ通りのお店！</Dialog>
+          <Dialog>●はこの匂いがたまらないなぁ。</Dialog>
+          <Dialog>ふふ……そういうのも花より団子ってことになるのかな？</Dialog>
+          <Dialog>とにかく早く買いに行こう。</Dialog>
+          <Dialog>うん。私もお腹空いてきちゃった♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -429,17 +429,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ugh...it's steamy.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>If you don't feel this crisp, it'll become even more slender, right?</Dialog>
-          <Dialog>I want to eat something cold...</Dialog>
-          <Dialog>That's right... Ah! Speaking of cold things, I've heard that gelato shops have been coming to this town recently... do you know?</Dialog>
-          <Dialog>I don't know, where is it?</Dialog>
-          <Dialog>They are sold on mobile wagons, so it seems they don't know when and where they are. That kind of thing makes me even more interested.</Dialog>
-          <Dialog>Yeah. ●I'm also interested.</Dialog>
-          <Dialog>Well, if you see me, I'll contact you. Let's eat together♪</Dialog>
-          <Dialog>Understood. ●I'll contact you if I see them too.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うう……蒸し暑い。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>こら、シャキっとしないと、ますますだらけちゃうよ？</Dialog>
+          <Dialog>なんか……冷たいもの食べたい。</Dialog>
+          <Dialog>そうね……。あっ！　冷たいものと言えば、最近この街にジェラート屋さんが来てるって聞いたんだけど……知ってる？</Dialog>
+          <Dialog>知らないなぁ、どこにあるんだろ？</Dialog>
+          <Dialog>ワゴンで移動販売してるから、いつどこにいるのかはわからないみたい。そういうのって、余計に興味わいちゃうよね。</Dialog>
+          <Dialog>うん。●も興味わいてきた。</Dialog>
+          <Dialog>じゃあ、もし見かけたら連絡するね。一緒に食べよう♪</Dialog>
+          <Dialog>わかった。●も見かけたら連絡するよ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -517,18 +517,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>……yeah?</Dialog>
-          <Dialog>(Oh, is that a rumored gelato shop?)</Dialog>
-          <Dialog>(Okay, let's call ▲Anegasaki*▲)</Dialog>
-          <Dialog>▲Anegasaki*▲!</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>▲The main character*▲. Did you find a gelato shop?</Dialog>
-          <Dialog>That's right. See, that store.</Dialog>
-          <Dialog>It's a cuter shop than I thought. It makes me feel happy somehow.</Dialog>
-          <Dialog>I have to get excited and not eat too much.</Dialog>
-          <Dialog>I only eat one more. But would you be happy if you could give me a taste of yours too?</Dialog>
-          <Dialog>Ha, understand.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……ん？</Dialog>
+          <Dialog>（あ、あれってウワサのジェラート屋さんか？）</Dialog>
+          <Dialog>（よし、▲姉ヶ崎＊▲のこと呼んでみよう）</Dialog>
+          <Dialog>▲姉ヶ崎＊▲！</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>▲主人公＊▲。ジェラート屋さん、見つかったんだね？</Dialog>
+          <Dialog>そうなんだ。ほら、あの店。</Dialog>
+          <Dialog>思ってた以上にかわいいお店。なんだか嬉しくなっちゃう。</Dialog>
+          <Dialog>テンションあがって食べ過ぎないようにしないとな。</Dialog>
+          <Dialog>もう、ひとつしか食べません。でも、あなたのも少し味見させてくれるとうれしいかな？</Dialog>
+          <Dialog>はは、了解。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -597,16 +597,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I once talked about my friend about autumn flavors. But I thought everyone was different and there were a lot.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Looks like fun.</Dialog>
-          <Dialog>Yeah. Hey, what do you think of autumn flavors?</Dialog>
-          <Dialog>●These are... saury, matsutake mushrooms, persimmons, chestnuts...</Dialog>
-          <Dialog>Yes, that's it! I was reminded of chestnuts.</Dialog>
-          <Dialog>That's good, chestnut. Come to think of it, it seems like they've been selling sweet chestnuts recently.</Dialog>
-          <Dialog>Oh, I've heard of it. But I don't know when and where I'm.</Dialog>
-          <Dialog>Hmm, I might look for it...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>前にね、友達と秋の味覚の話になったの。でもみんなバラバラで、たくさんあるんだなぁと思って。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>楽しそうだね。</Dialog>
+          <Dialog>うん。ねえ、あなたは秋の味覚と言えばなにを思い出す？</Dialog>
+          <Dialog>●は……サンマに松茸に、柿、栗……。</Dialog>
+          <Dialog>そう、それ！　私はね、栗を連想したの。</Dialog>
+          <Dialog>いいよな、栗。そういえば、最近、甘栗の移動販売やってるみたいだね。</Dialog>
+          <Dialog>あ、聞いたことある。でも、いつどこにいるかわからないって。</Dialog>
+          <Dialog>うーん、探してみるかな……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -695,20 +695,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>……yeah?</Dialog>
-          <Dialog>(Oh, is that a rumoured sweet chestnut shop?)</Dialog>
-          <Dialog>(Okay, I'll buy it at ▲Anegasaki*▲)</Dialog>
-          <Dialog>Sorry, suddenly.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, I don't mind at all.</Dialog>
-          <Dialog>There was something I wanted to give to Anegasaki*▲, so I hurriedly brought it.</Dialog>
-          <Dialog>To me? I wonder what...</Dialog>
-          <Dialog>this.</Dialog>
-          <Dialog>Ah... it's sweet chestnuts ▼</Dialog>
-          <Dialog>Autumn taste. I thought I'd like to eat together.</Dialog>
-          <Dialog>I'm so happy, I can't help but remember you. I wonder if I'll give you a treat... haha ​​▼</Dialog>
-          <Dialog>(I'm glad I brought it!)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……ん？</Dialog>
+          <Dialog>（あ、あれってウワサの甘栗屋さんか？）</Dialog>
+          <Dialog>（よし、▲姉ヶ崎＊▲に買っていってやろっと）</Dialog>
+          <Dialog>ごめんな、急に。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ううん、私は全然構わないよ。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲に渡したいものがあって、急いで持ってきたんだ。</Dialog>
+          <Dialog>私に？　なんだろ……。</Dialog>
+          <Dialog>これ。</Dialog>
+          <Dialog>あっ……甘栗だぁ▼</Dialog>
+          <Dialog>秋の味覚。一緒に食べたいなぁと思ってさ。</Dialog>
+          <Dialog>嬉しいな、覚えててくれたなんて。ご褒美に、食べさせてあげよっかなぁ……ふふ▼</Dialog>
+          <Dialog>（持ってきてよかった！）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -787,17 +787,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>When I was a child...Did you not have to have a bonfire and have them grilled sweet potatoes?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, maybe that was the case.</Dialog>
-          <Dialog>The roasted potatoes wrapped in foil were hot and almost burned. But it was sweet and fragrant...it was tasty.</Dialog>
-          <Dialog>Yes yes.</Dialog>
-          <Dialog>I haven't seen such a scene recently... On the contrary, I might not have heard much about the roasted sweet potato shops...</Dialog>
-          <Dialog>Ah, when you say it... I'm sure there's somewhere.</Dialog>
-          <Dialog>Is he really there? Ah...I'm starting to want to eat grilled sweet potatoes.</Dialog>
-          <Dialog>●Other. I think I'll buy it next time I see it.</Dialog>
-          <Dialog>So, please do my best too? Hehe♪</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>子どもの頃って……たき火して、焼き芋焼いてもらったりしなかった？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あー、そういうの、あったかもね。</Dialog>
+          <Dialog>ホイルに包んである焼き芋が熱くて、火傷しそうになって。でも、甘くて香ばしくて……美味しかったな。</Dialog>
+          <Dialog>うんうん。</Dialog>
+          <Dialog>そういう風景って最近見かけないよね……。それどころか、焼き芋屋さんの声もあまり聞いてないかも……。</Dialog>
+          <Dialog>ああ、言われてみれば……。どこかにはいるんだろうけど。</Dialog>
+          <Dialog>ほんとにいるのかなぁ？　ああ……なんだか焼き芋が食べたくなってきちゃった。</Dialog>
+          <Dialog>●も。今度見かけたら買おうかな。</Dialog>
+          <Dialog>じゃあ、私のぶんもお願いね？　ふふっ♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -871,18 +871,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>……yeah?</Dialog>
-          <Dialog>(Oh, is that a rumored baked sweet potato shop?)</Dialog>
-          <Dialog>(Okay, I'll buy it at ▲Anegasaki*▲)</Dialog>
-          <Dialog>▲Anegasaki*▲, I bought the same one.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What is the example?</Dialog>
-          <Dialog>It's a grilled sweet potato from a roasted sweet potato shop. here you are</Dialog>
-          <Dialog>Wow...thank you!</Dialog>
-          <Dialog>I just want to taste the nostalgic taste of my childhood.</Dialog>
-          <Dialog>So, I have to check it out.</Dialog>
-          <Dialog>Right, then...</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……ん？</Dialog>
+          <Dialog>（あ、あれってウワサの焼き芋屋さんか？）</Dialog>
+          <Dialog>（よし、▲姉ヶ崎＊▲に買っていってやろっと）</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、例のもの買ってきたよ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>例のものって？</Dialog>
+          <Dialog>焼き芋屋さんの焼き芋だよ。はい、どうぞ。</Dialog>
+          <Dialog>わぁ……ありがとう！</Dialog>
+          <Dialog>子どものころの懐かしい味がすればいいんだけど。</Dialog>
+          <Dialog>じゃあ、確かめてみないと。</Dialog>
+          <Dialog>そうだな、じゃあ早速……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -951,16 +951,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, do you believe that you are a UFO?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Well... I think UFOs are the fact that it's not possible to say that.</Dialog>
-          <Dialog>I see. So if I said I saw a UFO, would you believe me?</Dialog>
-          <Dialog>Did you see it?!</Dialog>
-          <Dialog>Yes. Actually, my friend saw it. I even took a picture of that kid. They say, "I've been coming here a lot lately, so everyone can take pictures."</Dialog>
-          <Dialog>Wow... But if you can really see it, you might want to see ● as well.</Dialog>
-          <Dialog>me too. Yes, I'll let you know if you find it.</Dialog>
-          <Dialog>(No UFO...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、あなたはＵＦＯって信じてる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>まあ……ないとは言い切れないところがＵＦＯだと思うなぁ。</Dialog>
+          <Dialog>そっか。じゃあ、もし私がＵＦＯを見たって言ったら信じてくれる？</Dialog>
+          <Dialog>見たの!?</Dialog>
+          <Dialog>ううん。じつは、友達が見たんだって。その子、写真まで撮っててね。“最近よく来てるから、みんなも撮れるよ”って言うの……。</Dialog>
+          <Dialog>へえ……。でも、ほんとに見られるなら●も見たいかも。</Dialog>
+          <Dialog>私も。おたがい、見つけたら報告しようね。</Dialog>
+          <Dialog>（ＵＦＯねえ……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1029,16 +1029,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲, have you seen UFO since then?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, not at all.</Dialog>
-          <Dialog>Wow, I see.</Dialog>
-          <Dialog>Well, my heart is proud. Did you see a UFO?</Dialog>
-          <Dialog>Actually, that's true. Look, this is a photo of the evidence.</Dialog>
-          <Dialog>Liar, really? ...No!? Something's in the picture!</Dialog>
-          <Dialog>So that's the UFO that ● saw.</Dialog>
-          <Dialog>Amazing! Can I copy this? I have to show it to my friends too!</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲、あれからＵＦＯ見られた？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ううん、全然。</Dialog>
+          <Dialog>へえ、そっかぁ。</Dialog>
+          <Dialog>なあに、胸張っちゃって。まさか、ＵＦＯを見たとか？</Dialog>
+          <Dialog>実は、そうなんだよね。ほら見てよ、これが証拠写真。</Dialog>
+          <Dialog>うそ、本当に？　……やだっ!?　なにか写ってる！</Dialog>
+          <Dialog>だから、それが●の見たＵＦＯだよ。</Dialog>
+          <Dialog>すごーい！　これ、コピーしてもいい？　友達にも見せてあげなくちゃ！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1112,18 +1112,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Um, do you know that ▲Anegasaki*▲ is Twassy?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Twissy? Um... that's right, isn't it? A giant creature that is rumored to live in Lake Tobano.</Dialog>
-          <Dialog>What, do you know after all?
-●I recently learned about it.</Dialog>
-          <Dialog>I think this is a pretty famous story around here. Many people have seen it.</Dialog>
-          <Dialog>▲Anegasaki*▲ believes that story?</Dialog>
-          <Dialog>Hmm, I want to believe that there is, but when I think about why no one can capture a definitive video...hey?</Dialog>
-          <Dialog>That's right.</Dialog>
-          <Dialog>If you bring a photo, I'll believe it...hehe♪</Dialog>
-          <Dialog>(Twassy... I'm curious)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あのさ、▲姉ヶ崎＊▲はトワッシーって知ってる？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>トワッシー？　えっと……あれでしょ？　十羽野湖に生息してるってウワサの、巨大生物。</Dialog>
+          <Dialog>なんだ、やっぱり知ってるんだ？
+●は最近知ったんだよね。</Dialog>
+          <Dialog>このへんではわりと有名な話だと思うよ。目撃したって人も多いし。</Dialog>
+          <Dialog>▲姉ヶ崎＊▲はその話、信じてる？</Dialog>
+          <Dialog>うーん、いるって信じたいけど……どうして誰も決定的な映像を撮れないのかって考えると……ねえ？</Dialog>
+          <Dialog>だよな。</Dialog>
+          <Dialog>もし、あなたが写真を持ってきたら信じちゃうけど……ふふ♪</Dialog>
+          <Dialog>（トワッシー……気になるな）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1197,17 +1197,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Um, ▲Anegasaki*▲...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>what happened? I'll keep up.</Dialog>
-          <Dialog>Actually, I took a great photo!</Dialog>
-          <Dialog>Hehe, I'm excited. That's a really amazing photo, isn't it?</Dialog>
-          <Dialog>It's a big scoop! Come on, do you know what this is?</Dialog>
-          <Dialog>...Is this perhaps?!</Dialog>
-          <Dialog>Yes, Twissy! ●I looked at it with my own eyes!</Dialog>
-          <Dialog>Amazing, amazing! Twissy was there after all. I definitely believe it!</Dialog>
-          <Dialog>(I'm glad you were happy)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あのさ、▲姉ヶ崎＊▲……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>どうしたの？　あらたまって。</Dialog>
+          <Dialog>実は、すごい写真が撮れたんだよ！</Dialog>
+          <Dialog>ふふ、興奮しちゃって。よっぽどすごい写真なんだね？</Dialog>
+          <Dialog>大スクープだよ！　ほら、これなにかわかる？</Dialog>
+          <Dialog>……これって、もしかして!?</Dialog>
+          <Dialog>そう、トワッシー！　●、この目で見ちゃったんだ！</Dialog>
+          <Dialog>すごい、すごい！　やっぱりトワッシーはいたんだ。私、断然信じちゃう！</Dialog>
+          <Dialog>（喜んでくれてよかった）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1271,16 +1271,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's about time for the midterm exam.</Dialog>
-          <Dialog>It's about time to finish the exam.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲Anegasaki*▲ seems easy.</Dialog>
-          <Dialog>That's not the case, but have you set a goal and have prepared a certain amount of preparation? Why not set a goal too?</Dialog>
-          <Dialog>I see. So, ● is...</Dialog>
-          <Dialog>Aiming for first place in the grade</Dialog>
-          <Dialog>Aim for the top 10 in the grade</Dialog>
-          <Dialog>Aiming for the top 100 in the grade</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そろそろ中間テストだね。</Dialog>
+          <Dialog>そろそろ期末テストだね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲は余裕っぽいな。</Dialog>
+          <Dialog>そんなことないけど、目標を決めてある程度準備はしてるかな？　あなたも目標決めてみたら？</Dialog>
+          <Dialog>そっか。じゃあ、●は……。</Dialog>
+          <Dialog>学年１位をねらう</Dialog>
+          <Dialog>学年１０位以内をねらう</Dialog>
+          <Dialog>学年１００位以内をねらう</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1344,16 +1344,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The midterm exams are getting closer and closer. Are you prepared properly?</Dialog>
-          <Dialog>The final exams are getting closer and closer. Are you prepared properly?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Well, it's just a little bit...</Dialog>
-          <Dialog>Hmm. So, should I ask you to tell me what top you are aiming for?</Dialog>
-          <Dialog>Umm, my goal is...</Dialog>
-          <Dialog>Aiming for first place in the grade</Dialog>
-          <Dialog>Aim for the top 10 in the grade</Dialog>
-          <Dialog>Aiming for the top 100 in the grade</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>だんだん中間テストが近づいてきたよ。ちゃんと準備してる？</Dialog>
+          <Dialog>だんだん期末テストが近づいてきたよ。ちゃんと準備してる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>まあ、ぼちぼちとはね……。</Dialog>
+          <Dialog>ふ～ん。だったら、目標は何位以内か聞かせてもらおうかな？</Dialog>
+          <Dialog>えっと、目標は……。</Dialog>
+          <Dialog>学年１位をねらう</Dialog>
+          <Dialog>学年１０位以内をねらう</Dialog>
+          <Dialog>学年１００位以内をねらう</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1417,16 +1417,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's finally time for the midterm exam. Are you working hard on your test study?</Dialog>
-          <Dialog>It's finally time for the final exam. Are you working hard on your test study?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Probably, maybe.</Dialog>
-          <Dialog>It's better to study properly if you set a proper goal. Why not declare it now?</Dialog>
-          <Dialog>Is it a goal... so...</Dialog>
-          <Dialog>Aiming for first place in the grade</Dialog>
-          <Dialog>Aim for the top 10 in the grade</Dialog>
-          <Dialog>Aiming for the top 100 in the grade</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>いよいよ中間テストだね。テスト勉強頑張ってる？</Dialog>
+          <Dialog>いよいよ期末テストだね。テスト勉強頑張ってる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そこそこ、かな。</Dialog>
+          <Dialog>ちゃんと目標決めたほうが勉強はかどるよ。今、宣言しちゃえば？</Dialog>
+          <Dialog>目標か……それじゃあ……。</Dialog>
+          <Dialog>学年１位をねらう</Dialog>
+          <Dialog>学年１０位以内をねらう</Dialog>
+          <Dialog>学年１００位以内をねらう</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1450,10 +1450,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Eh, you don't have to be too upset, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I'm pretty serious though...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えっ、ムリしなくていいんだよ？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>わりと本気なんだけどな……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1477,10 +1477,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hehe... is it okay to say that?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ah, there's no two words to the man.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふふっ……そんなこと言っちゃっていいの？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ、男に二言はないよ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1504,10 +1504,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>He says something quite bold...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>The goal must be high.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ずいぶん思い切ったこと言うのね……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>目標は高くないとね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1531,10 +1531,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Wow... were you quite motivated?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Well.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>わぁ……結構、やる気だったんだ？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>まあね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1558,10 +1558,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Really? It's not possible to cancel it.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Are you okay!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ほんとに？　取り消しはきかないからね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>大丈夫！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1585,10 +1585,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's amazing. I'll support you too ♪</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>thank you.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>すごいじゃない。私も応援するね♪</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ありがとう。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1612,10 +1612,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I see. I'm rooting for you.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yeah.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そっか。応援してるよ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1639,10 +1639,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Isn't that enough time?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's not the case.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>それくらいなら余裕なんじゃない？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そんなことないって。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1666,10 +1666,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, you can do it.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's what encourages me.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うん、あなたならできるよ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そう言われると励みになるな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1693,10 +1693,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>So let's do our best together.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>ah.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>じゃあ、お互いベストを尽くそうね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1720,10 +1720,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>So, we've set a goal, so let's do our best.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ou!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>それじゃあ目標も決まったことだし、頑張ろっか。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>おう！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1747,10 +1747,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Okay, let's work hard together.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>OK!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>よぉし、一緒に頑張ろうね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>オッケー！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1774,10 +1774,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I'm tired...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>All of today's tests are over. how was it?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>疲れたぁ……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>今日のテスト全部終了だね。どうだった？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1801,10 +1801,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Phew. I managed to get through it somehow.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Thank you for your hard work. Did you get through today's test well?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ふぅ。なんとか乗り切ったな。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>お疲れさま。今日のテストは上手くこなせた？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1828,10 +1828,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Okay, it's over.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Thank you for your hard work. Have you achieved your daily results?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>よし、終わったぞ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>お疲れさまでした。日ごろの成果は出せた？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1845,8 +1845,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes, it was perfect!</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん、完璧だった！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1860,8 +1860,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It was a great response.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>いい手応えだったよ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1875,8 +1875,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes... I don't think it's bad.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん……悪くはないと思う。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1895,8 +1895,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The test will continue tomorrow. Let's do our best.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>テストは明日も続くよ。頑張ろうね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1915,8 +1915,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Let's do our best to not get any better tomorrow than today.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>明日の調子が今日より落ちないように、お互い頑張ろ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1935,8 +1935,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Let's do our best again tomorrow so that we can always do our best ♪</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>常にベストが尽くせるように、明日も頑張ろうね♪</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1955,8 +1955,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Anyway, it's all over. Thank you for your hard work.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>なにはともあれ、全部終わったね。お疲れさまでした。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1975,8 +1975,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm, we'll finally be freed! Thank you for your hard work.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うーんっ、やっとふたりとも解放されるね！　お疲れさま。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1995,8 +1995,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Thank you for your hard work this week. Did you do your best, didn't you? Okay ▼</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>１週間お疲れさまでした。よく頑張ったね？　よしよし▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2010,8 +2010,8 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Will the test results be announced? I wonder what will happen?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>試験結果の発表か……どうなってるかな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2050,12 +2050,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Wow! His name is in number 1!</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Amazing, I was moved. Let's take a commemorative photo.</Dialog>
-          <Dialog>It's a bit embarrassing.</Dialog>
-          <Dialog>Huh? Oh, that's right. Anyway, congratulations!</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うわっ！　１位に名前がある！</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>すごいね、感動しちゃった。記念撮影しておこうっと。</Dialog>
+          <Dialog>ちょっと、恥ずかしいって。</Dialog>
+          <Dialog>えっ？　あ、そうよね。ともかく、おめでとう！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2094,12 +2094,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>...It's number one! It's not a dream, is it?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>You can't say it's hard to believe it...</Dialog>
-          <Dialog>Yes, I can't believe it myself.</Dialog>
-          <Dialog>But it's true. Congratulations!</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……１位だっ！　夢じゃないよな!?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>信じられない……なんて言っちゃダメだよね。</Dialog>
+          <Dialog>ううん、自分でも信じられないくらいだから。</Dialog>
+          <Dialog>でも、事実だもの。おめでとう！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2138,12 +2138,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yay! 1st place!</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>What!? I can't believe they'll win first place...</Dialog>
-          <Dialog>I guess I can do it if I try, ●...</Dialog>
-          <Dialog>You were trying a lot, right? I did my best!</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>やったぁ！　１位っ！</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ええっ!?　まさか、１位獲っちゃうなんて……。</Dialog>
+          <Dialog>やればできるんだな、●……。</Dialog>
+          <Dialog>たくさん努力してたんだね？　がんばった！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2182,12 +2182,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yeah, I got in the top 10!</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Wow, congratulations! You did a lot of effort, haven't you?</Dialog>
-          <Dialog>Ah, the effort paid off.</Dialog>
-          <Dialog>It's amazing how you achieve your goals.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>やった、１０位以内ゲット！</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>わぁ、おめでとう！　いっぱい頑張ったもんね？</Dialog>
+          <Dialog>ああ、努力が報われたな。</Dialog>
+          <Dialog>目標達成しちゃうなんて、すごいな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2226,12 +2226,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Good, I've achieved my goal.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Oh, you got in the top 10, right? Congratulations.</Dialog>
-          <Dialog>Yes, thank you.</Dialog>
-          <Dialog>I did my best. Maybe the next goal is a higher goal?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>よかったぁ、目標達成だ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あ、１０位以内に入れたんだね？　おめでとう。</Dialog>
+          <Dialog>うん、ありがとう。</Dialog>
+          <Dialog>よくがんばりました。次は、もっと高い目標かな？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2270,12 +2270,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Okay! Cleared the goal in the top 10!</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's amazing, congratulations!</Dialog>
-          <Dialog>I was really motivated to study for this exam.</Dialog>
-          <Dialog>My girlfriend is also very nosey. You have such a wonderful boyfriend ▼</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>よしっ！　１０位以内の目標クリアだ！</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>すごいじゃない、おめでとう！</Dialog>
+          <Dialog>今回の試験勉強は気合い入れたからな。</Dialog>
+          <Dialog>カノジョも鼻が高いなぁ。こんなに素敵なカレシがいてくれて▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2314,12 +2314,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Hehe...I've achieved the top 100.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Good for you.</Dialog>
-          <Dialog>Ah, I have to do that much.</Dialog>
-          <Dialog>So, next time I have to try hard to aim higher.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ふぅ……１００位以内は達成だ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>よかったね。</Dialog>
+          <Dialog>ああ、これくらいはこなせないとな。</Dialog>
+          <Dialog>じゃあ、次はもっと上目指して頑張らなくちゃ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2358,12 +2358,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>He was in the top 100... That's good.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Anyway, congratulations on achieving your goal.</Dialog>
-          <Dialog>Yeah.</Dialog>
-          <Dialog>Now, what position will you aim for next?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>１００位以内……入ってた。よかったぁ。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>とりあえず、目標達成おめでとう。</Dialog>
+          <Dialog>うん。</Dialog>
+          <Dialog>さあ、次は何位を目指すのかなぁ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2402,12 +2402,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I've achieved my goal...I was relieved.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Oh, I've got a lazy look on my face. Maybe they couldn't afford it?</Dialog>
-          <Dialog>That's not the case...</Dialog>
-          <Dialog>I believed it was okay.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>目標達成だ……ホッとした。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あらら、気の抜けた顔しちゃって。余裕なかったのかな？</Dialog>
+          <Dialog>そんなことないって……。</Dialog>
+          <Dialog>私は大丈夫だって、信じてたよ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2446,12 +2446,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Of course...is it no good to place number one?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Maybe your goal was a little too high?</Dialog>
-          <Dialog>on second thoughts?</Dialog>
-          <Dialog>However, it's definitely not wasteful to try hard to get first place. Do your best again.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>さすがに……１位はダメか……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ちょっと目標が高すぎたのかな？</Dialog>
+          <Dialog>やっぱり？</Dialog>
+          <Dialog>でも、１位目指して努力したことがムダになるなんて絶対ないから。また頑張ろ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2490,12 +2490,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>No. 1... I guess not...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm... that was a shame.</Dialog>
-          <Dialog>Was it a bit of a crazy goal?</Dialog>
-          <Dialog>Maybe it's better to gradually raise your goals...</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>１位……な、わけないか……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うーん……残念だったね。</Dialog>
+          <Dialog>ちょっと無茶な目標だったかな？</Dialog>
+          <Dialog>やっぱり、徐々に目標を上げていくほうがいいのかも……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2534,12 +2534,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Of course...I guess I've said the number one too much...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I did my best, though...</Dialog>
-          <Dialog>Well, everyone except ● is doing their best too.</Dialog>
-          <Dialog>I agree. I love you who can think like that humble.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>さすがに……１位は言いすぎたか……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>頑張ったのにね……。</Dialog>
+          <Dialog>まあ、●以外のみんなも頑張ってるってことだよな。</Dialog>
+          <Dialog>そうだね。そんなふうに謙虚に考えられるあなたって、私は好きだな▼</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2578,12 +2578,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes...it didn't work...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's a shame... I didn't think it was impossible to get into the top 10.</Dialog>
-          <Dialog>Sorry I couldn't meet my expectations...</Dialog>
-          <Dialog>Can't you not apologize? It's not for me, it's for myself, right?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>う……ダメだった……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>残念だったね……。１０位以内って、私はムリじゃないと思ったんだけどなぁ。</Dialog>
+          <Dialog>期待に応えられなくてごめん……。</Dialog>
+          <Dialog>謝らないでいいのよ？　私のためじゃなくて自分のためにやってるんだから、ね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2622,12 +2622,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>10th place...10th place...Isn't there one?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>You haven't achieved your goal...</Dialog>
-          <Dialog>That's frustrating.</Dialog>
-          <Dialog>If you feel frustrated, I think you can achieve the next one.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>１０位……１０位……入ってないか……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>目標達成ならずだね……。</Dialog>
+          <Dialog>悔しいなぁ。</Dialog>
+          <Dialog>悔しい気持ちがあれば、次は達成できるんじゃないかな？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2666,12 +2666,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>No... out of top 10...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I'm so disappointed.</Dialog>
-          <Dialog>yes……?</Dialog>
-          <Dialog>Next time, you should try hard. It's cool to have a high goal...</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ダメだ……１０位圏外……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>こらぁ、ガッカリしすぎだよ。</Dialog>
+          <Dialog>そう……？</Dialog>
+          <Dialog>次、頑張ればいいじゃない。目標を高く持ったことがカッコイイんだから……ね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2710,12 +2710,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Wow...I guess it's not even within the top 100...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hmm... what could have gone wrong?</Dialog>
-          <Dialog>It's inconvenient...</Dialog>
-          <Dialog>It wasn't that it was no good at all... I'm sure I can do it this time.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>げっ……１００位以内もダメか……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>うーん……どこがいけなかったんだろうね？</Dialog>
+          <Dialog>不甲斐ない……。</Dialog>
+          <Dialog>全然ダメだったわけじゃないし……今度はいけるよ、きっと。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2754,12 +2754,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Wow... isn't it a lie...?</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Huh... you didn't make it to the top 100?</Dialog>
-          <Dialog>Apparently so...</Dialog>
-          <Dialog>Does that mean there is still a lack of training?</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うわ……ウソだろ……？</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あれっ……１００位以内に入ってなかったんだ？</Dialog>
+          <Dialog>そうみたい……。</Dialog>
+          <Dialog>まだまだ修行不足ってことかな？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2798,12 +2798,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Seriously...? He's not ranked 100th...</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Ah... I guess this is what happens.</Dialog>
-          <Dialog>I had a little confidence...</Dialog>
-          <Dialog>I have to train in order to make up for the next test.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>マジで……？　１００位入ってないのか……。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あ……こんなこともあるんだね。</Dialog>
+          <Dialog>ちょっとだけ自信あったのになぁ……。</Dialog>
+          <Dialog>次のテストで挽回するために、特訓しないとね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2827,10 +2827,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It was tough, but now it's all over. Thank you for your hard work.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes, thank you for your hard work ▲Anegasaki*▲ too.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>大変だったけど、これでほんとに全部終わったね。お疲れさまでした。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>うん、▲姉ヶ崎＊▲もお疲れさま。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2854,10 +2854,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Now you can go on a date with a refreshing feeling ♪</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>ah. Have a lot of fun!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>これでスッキリした気持ちでデートできるね♪</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ。いっぱい楽しもうな！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2881,10 +2881,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Summer vacation is almost here after the exam. What are you going to do?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Of course, it's a date with ▲Anegasaki*▲!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>試験が終わったら、もうすぐ夏休みだね。なにして過ごす？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>もちろん▲姉ヶ崎＊▲とデートだ！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -2908,10 +2908,10 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The exam is over, but this year is about to end, right? I have to make plans for the winter break early♪</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I agree. We'll probably spend a lot together.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>試験も終わったけど、今年ももうすぐ終わりだよ？　冬休みの予定も早く立てなくちゃね♪</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだね。たくさん一緒に過ごそうな。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3140,35 +3140,35 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, do you know this rumor?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Hmm, what?</Dialog>
-          <Dialog>It's a story about "The Ghost of Tobano Castle."</Dialog>
-          <Dialog>Ghosts... ghost stories or something like that?</Dialog>
-          <Dialog>yes! Recently, I've been hearing moans every night at Tobano Castle...!</Dialog>
-          <Dialog>▲Anegasaki*▲...It looks fun. I don't just like fictional horror, but I also like that kind of familiar story.</Dialog>
-          <Dialog>n/a. Well, don't you hate it?</Dialog>
-          <Dialog>Hmm. Tobano Castle... if you want to go, you can go...</Dialog>
-          <Dialog>that! correct answer!</Dialog>
-          <Dialog>picture? I can't believe it...</Dialog>
-          <Dialog>It may be too early for him to come out, but... Good luck, let's go now!</Dialog>
-          <Dialog>……good?</Dialog>
-          <Dialog>I wonder if it's around here...</Dialog>
-          <Dialog>It's quite spacious... Shall we walk a little?</Dialog>
-          <Dialog>Hmm...Huh?</Dialog>
-          <Dialog>Hmm, what?</Dialog>
-          <Dialog>Hey, did you just say something?</Dialog>
-          <Dialog>...Would you like to walk a little? That's it.</Dialog>
-          <Dialog>Not that... after that...</Dialog>
-          <Dialog>a…….</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>...You haven't spoken.</Dialog>
-          <Dialog>ah…….</Dialog>
-          <Dialog>Can't you... really?</Dialog>
-          <Dialog>...Let's go home already.</Dialog>
-          <Dialog>Right... right. I feel like I'm feeling sick...</Dialog>
-          <Dialog>(Really, it's creepy...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえねえ、こんな噂知ってる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ん、どんな？</Dialog>
+          <Dialog>『十羽野城の亡霊』……っていう話なんだけど。</Dialog>
+          <Dialog>亡霊……怪談とかそういうの？</Dialog>
+          <Dialog>そう！　ここ最近ね、十羽野城で夜な夜なうめき声みたいなものが聞こえる……って！</Dialog>
+          <Dialog>▲姉ヶ崎＊▲……楽しそうだね。フィクションのホラーだけじゃなくて、そういう身近な話も好きだっけ。</Dialog>
+          <Dialog>ふふ。まあ、嫌いじゃないかな？</Dialog>
+          <Dialog>ふーん。十羽野城か……行こうと思えば行けるけど……。</Dialog>
+          <Dialog>それ！　正解！</Dialog>
+          <Dialog>え？　まさか……。</Dialog>
+          <Dialog>まだ出るには早いかもしれないけど……善は急げ、今からレッツゴー！</Dialog>
+          <Dialog>……善？</Dialog>
+          <Dialog>この辺りかなあ……。</Dialog>
+          <Dialog>結構広いもんな……少し歩いてみる？</Dialog>
+          <Dialog>うーん…………あれ？</Dialog>
+          <Dialog>ん、なに？</Dialog>
+          <Dialog>ねえ、今、なにか喋った？</Dialog>
+          <Dialog>……少し歩いてみる？　って。</Dialog>
+          <Dialog>そうじゃなくて……その後……。</Dialog>
+          <Dialog>あ……。</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>……喋ってないね。</Dialog>
+          <Dialog>ああ……。</Dialog>
+          <Dialog>まさか……本当に？</Dialog>
+          <Dialog>……もう帰ろっか。</Dialog>
+          <Dialog>そう……ね。なんだか気分が悪くなってきた気がするし……。</Dialog>
+          <Dialog>（ほんと、薄気味悪いな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3307,24 +3307,24 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Ah, hey hey. I wonder what happened to that story since then.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What about that story?</Dialog>
-          <Dialog>"The Ghost of Tobano Castle"!</Dialog>
-          <Dialog>Ah, that...</Dialog>
-          <Dialog>I was surprised to hear a voice suddenly, but... I was curious after all. Why not go again?</Dialog>
-          <Dialog>●It's fine but...</Dialog>
-          <Dialog>thank you. So, let's go?</Dialog>
-          <Dialog>(Well, that's fine...)</Dialog>
-          <Dialog>I guess I heard a voice around here.</Dialog>
-          <Dialog>...That's true.</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>...Hmm...</Dialog>
-          <Dialog>...I can't hear anything.</Dialog>
-          <Dialog>Ah, isn't it gone?</Dialog>
-          <Dialog>Well, it's scary to hear it if I heard it, but... I'm not satisfied if I don't hear it...</Dialog>
-          <Dialog>(It's actually a silly story, so staying quiet will not be disappointed.)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あ、ねえねえ。あの話、あれからどうなったかな。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あの話って？</Dialog>
+          <Dialog>『十羽野城の亡霊』！</Dialog>
+          <Dialog>ああ、あれ……。</Dialog>
+          <Dialog>急に声が聞こえたからビックリしちゃったけど……やっぱり気になって。もう一度行ってみない？</Dialog>
+          <Dialog>●はいいけど……。</Dialog>
+          <Dialog>ありがと。じゃあ、行こう？</Dialog>
+          <Dialog>（まあ、いいか……）</Dialog>
+          <Dialog>声が聞こえたの、この辺りかな。</Dialog>
+          <Dialog>……たしかね。</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>……うーん……。</Dialog>
+          <Dialog>……何も聞こえないね。</Dialog>
+          <Dialog>ああ、もういなくなったんじゃないか？</Dialog>
+          <Dialog>えー、聞こえたら聞こえたで怖いけど……聞こえないと物足りないな……。</Dialog>
+          <Dialog>（実際はくだらない話だし、黙っておいた方ががっかりさせずにすむよな）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3598,41 +3598,41 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>That's right. Hey, do you know?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>yeah?</Dialog>
-          <Dialog>"The Legend of the Mansion"!</Dialog>
-          <Dialog>Dracula? What kind of story?</Dialog>
-          <Dialog>There's a Western-style mansion in this town, right? There are rumors surrounding it.</Dialog>
-          <Dialog>Apparently, mysterious rituals are held every night in that Western-style mansion!</Dialog>
-          <Dialog>What is a mysterious ritual?</Dialog>
-          <Dialog>I don't know that, so it's a mystery. It seems like I'm hearing some creepy sounds.</Dialog>
-          <Dialog>Hmm...</Dialog>
-          <Dialog>Don't you mind? It will happen, right?</Dialog>
-          <Dialog>...I want to go.</Dialog>
-          <Dialog>of course! hey?</Dialog>
-          <Dialog>So, let's go...</Dialog>
-          <Dialog>Here... there's a pretty good atmosphere...</Dialog>
-          <Dialog>After all, should I stop?</Dialog>
-          <Dialog>Are you okay. At this time... I think the rituals are still there. At least a clue...</Dialog>
-          <Dialog>I don't really know what's inside...</Dialog>
-          <Dialog>Hmm... I wonder if they'll let me in from the front.</Dialog>
-          <Dialog>I don't really know if there are people living there or not...</Dialog>
-          <Dialog>That's right...</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>...What?</Dialog>
-          <Dialog>picture? ●? I haven't said anything though.</Dialog>
-          <Dialog>real? Because...</Dialog>
-          <Dialog>Ah...</Dialog>
-          <Dialog>See, you can hear it.</Dialog>
-          <Dialog>...What kind of sound is this?</Dialog>
-          <Dialog>It's a ritual! After all, there's a mysterious ritual...</Dialog>
-          <Dialog>I can't believe it...</Dialog>
-          <Dialog>Hey, maybe I'm getting a little scared...</Dialog>
-          <Dialog>Ah, let's go.</Dialog>
-          <Dialog>Yes... sorry, please come along...</Dialog>
-          <Dialog>(Is the rumor true...?)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そうだ。ねえ、知ってる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ん？</Dialog>
+          <Dialog>『屋敷のドラキュラ伝説』！</Dialog>
+          <Dialog>ドラキュラ？　どんな話？</Dialog>
+          <Dialog>この町に洋館があるじゃない？　そこにまつわる噂なの。</Dialog>
+          <Dialog>その洋館ではね、毎晩毎晩謎の儀式が行われてるらしいの！</Dialog>
+          <Dialog>謎の儀式って？</Dialog>
+          <Dialog>それがわからないから、謎なの。不気味な音が聞こえてくるみたいで。</Dialog>
+          <Dialog>ふーん……。</Dialog>
+          <Dialog>気にならない？　なるよね？</Dialog>
+          <Dialog>……行ってみたいんだ。</Dialog>
+          <Dialog>もちろん！　ね？</Dialog>
+          <Dialog>じゃあ、行ってみるか……。</Dialog>
+          <Dialog>ここ……けっこう雰囲気あるね……。</Dialog>
+          <Dialog>やっぱり、やめとく？</Dialog>
+          <Dialog>大丈夫。この時間なら……儀式もまだなんじゃないかな。せめて手がかりだけでも……。</Dialog>
+          <Dialog>中の様子はよくわかんないな……。</Dialog>
+          <Dialog>んー……正面から入れてくれたりしないかな。</Dialog>
+          <Dialog>なんか、人が住んでるのかどうかも、よくわかんないな……。</Dialog>
+          <Dialog>そうね……。</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>……え、なに？</Dialog>
+          <Dialog>え？　●？　なにも言ってないけど。</Dialog>
+          <Dialog>ほんと？　だって……。</Dialog>
+          <Dialog>あっ……。</Dialog>
+          <Dialog>ほら、聞こえるでしょ。</Dialog>
+          <Dialog>……何の音だ、これ。</Dialog>
+          <Dialog>儀式だよ！　やっぱり謎の儀式が……。</Dialog>
+          <Dialog>まさか……。</Dialog>
+          <Dialog>ねえ、ちょっと怖くなってきたかも……。</Dialog>
+          <Dialog>ああ、行こう。</Dialog>
+          <Dialog>そうね……ごめん、付き合わせて……。</Dialog>
+          <Dialog>（噂は本当……なのか？）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3776,25 +3776,25 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey... I wonder what happened to that story...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What about that story?</Dialog>
-          <Dialog>"The Legend of the Mansion"!</Dialog>
-          <Dialog>Ah... that's it.</Dialog>
-          <Dialog>I was scared before, but I'm already really curious.</Dialog>
-          <Dialog>Hmm...</Dialog>
-          <Dialog>I wonder if they'll go out with me again.</Dialog>
-          <Dialog>(Okay...)</Dialog>
-          <Dialog>...I wonder if I can hear the ritual sound.</Dialog>
-          <Dialog>I wonder...</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>...Hmm, I can't hear it.</Dialog>
-          <Dialog>...That's right.</Dialog>
-          <Dialog>I guess I heard it wrong... I don't think that was the case...</Dialog>
-          <Dialog>...Well, that's the case.</Dialog>
-          <Dialog>Ha... can't be helped. Let's go?</Dialog>
-          <Dialog>(I'd be happy to share spoilers, but I'll just keep quiet since I'm here.)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ……あの話、どうなったかな……。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>あの話って？</Dialog>
+          <Dialog>『屋敷のドラキュラ伝説』！</Dialog>
+          <Dialog>ああ……あれね。</Dialog>
+          <Dialog>前は怖くなっちゃったけど、もうすごく気になって。</Dialog>
+          <Dialog>うーん……。</Dialog>
+          <Dialog>また付き合ってくれないかな。</Dialog>
+          <Dialog>（まあいいか……）</Dialog>
+          <Dialog>……儀式の音、聞こえるかな。</Dialog>
+          <Dialog>どうだろ……。</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>……んー、聞こえない。</Dialog>
+          <Dialog>……だね。</Dialog>
+          <Dialog>聞き間違いかなあ……そんなことなかったと思うんだけど……。</Dialog>
+          <Dialog>……まあ、そんなこともあるって。</Dialog>
+          <Dialog>はあ……しょうがないか。行こ？</Dialog>
+          <Dialog>（ネタばらししてもいいけど……せっかくだから黙っておくか）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -3893,20 +3893,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Yes, I saw it on the news, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>News, what were you doing?</Dialog>
-          <Dialog>"Bigfoot in the mountains"!</Dialog>
-          <Dialog>I haven't seen it...Bigfoot is an unidentified animal.</Dialog>
-          <Dialog>That's it. The footprints of the Bigfoot were found in the mountains.</Dialog>
-          <Dialog>Just footprints? Bigfoot itself has not been spotted.</Dialog>
-          <Dialog>Apparently so.</Dialog>
-          <Dialog>Isn't it a prank of something?</Dialog>
-          <Dialog>It's a prank...but if you find it, it seems like you'll get a prize money, right?</Dialog>
-          <Dialog>A prize? That's kind of amazing...</Dialog>
-          <Dialog>Right? Hmm, I wonder if it's not going to appear in front of me by chance.</Dialog>
-          <Dialog>(Bigfoot...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>そうだ、ニュースで見たんだけどね？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ニュース、何やってたっけ。</Dialog>
+          <Dialog>『山奥のビッグフット』！</Dialog>
+          <Dialog>見てないな……ビッグフットって未確認動物だっけ。</Dialog>
+          <Dialog>それそれ。そのビッグフットの足跡が山で発見された、って。</Dialog>
+          <Dialog>足跡だけ？　ビッグフット自体は目撃されてないんだ。</Dialog>
+          <Dialog>そうみたい。</Dialog>
+          <Dialog>なんかのイタズラじゃないの？</Dialog>
+          <Dialog>イタズラか……でもね、見つけたら賞金も出るみたいよ？</Dialog>
+          <Dialog>賞金？　なんかすごいな……。</Dialog>
+          <Dialog>でしょ？　んー、偶然ぱっと目の前に現れないかなあ～。</Dialog>
+          <Dialog>（ビッグフットねえ……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4005,20 +4005,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>After all, reality is like this.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What, what?</Dialog>
-          <Dialog>"Bigfoot in the Mountains."</Dialog>
-          <Dialog>Just like you said, it was someone else's prank.</Dialog>
-          <Dialog>Haha, is that...?</Dialog>
-          <Dialog>Of course, there's no talk of the prize money... ahhh.</Dialog>
-          <Dialog>Did you aim that much?</Dialog>
-          <Dialog>Not that, but... maybe it's free to think that way, right?</Dialog>
-          <Dialog>Well, that's true.</Dialog>
-          <Dialog>But is there anything that good? disappointing.</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>(Shall we keep quiet about what ● saw...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>やっぱり現実って、こんなのものだよね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>え、何が？</Dialog>
+          <Dialog>『山奥のビッグフット』。</Dialog>
+          <Dialog>あなたが言ったとおり、誰かのイタズラだったみたい。</Dialog>
+          <Dialog>はは、あれか……。</Dialog>
+          <Dialog>当然賞金の話もなし……あーあ。</Dialog>
+          <Dialog>そんなに狙ってたの？</Dialog>
+          <Dialog>そうじゃないけど……もしかしたら、って思うだけはタダじゃない？</Dialog>
+          <Dialog>まあ、そうだけど。</Dialog>
+          <Dialog>でもそんなに上手い話はないか。残念。</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>（●が見た物は黙っておくか……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4117,20 +4117,20 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, do you know this story?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What, what?</Dialog>
-          <Dialog>"Ghost of the Valley"!</Dialog>
-          <Dialog>ghost? ...I don't know though.</Dialog>
-          <Dialog>In fact, it's about the valley of Okujubano.</Dialog>
-          <Dialog>Oh, a ghost story from the city.</Dialog>
-          <Dialog>yes. A beautiful and unfortunate ghost of a woman who died with regrets in this world!</Dialog>
-          <Dialog>Wow, she's beautiful...</Dialog>
-          <Dialog>Beauty... do you react to that? Is it a ghost?</Dialog>
-          <Dialog>Haha, no.</Dialog>
-          <Dialog>already……. I'm curious, this story.</Dialog>
-          <Dialog>(It's a ghost...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえねえ、この話、知ってる？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>なになに？</Dialog>
+          <Dialog>『渓谷の幽霊』！</Dialog>
+          <Dialog>幽霊？　……知らないけど。</Dialog>
+          <Dialog>実はね、奥十羽野の渓谷のことなの。</Dialog>
+          <Dialog>お、市内の怪談か。</Dialog>
+          <Dialog>そう。この世に未練を残したまま亡くなった、美しく不幸な女の幽霊！</Dialog>
+          <Dialog>へえ、美人なんだ……。</Dialog>
+          <Dialog>美人って……そこに反応する？　幽霊なんだよ？</Dialog>
+          <Dialog>はは、いやー。</Dialog>
+          <Dialog>もう……。気になるな、この話。</Dialog>
+          <Dialog>（幽霊ねえ……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4259,24 +4259,24 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's right, ▲Anegasaki*▲.</Dialog>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>yeah?</Dialog>
-          <Dialog>I've been talking about "Ghost of the Valley" before.</Dialog>
-          <Dialog>Yes yes.</Dialog>
-          <Dialog>Has there been any new information since then?</Dialog>
-          <Dialog>That's what it is. Maybe it was just a rumor after all.</Dialog>
-          <Dialog>But actually I got an email like this...</Dialog>
-          <Dialog>Email?</Dialog>
-          <Dialog>What...</Dialog>
-          <Dialog>……copper?</Dialog>
-          <Dialog>This is... an email from a ghost... it's not true.</Dialog>
-          <Dialog>It must be a prank, but it's amazing.</Dialog>
-          <Dialog>It's not your preparation, is it?</Dialog>
-          <Dialog>It's not that. It's a proper email from someone else.</Dialog>
-          <Dialog>Um... So this is...</Dialog>
-          <Dialog>(I was thinking about it. Well, it seems like it was interesting...)</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうだ、▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ん？</Dialog>
+          <Dialog>前に『渓谷の幽霊』の話、してたじゃん。</Dialog>
+          <Dialog>うんうん。</Dialog>
+          <Dialog>あれから何か新情報あった？</Dialog>
+          <Dialog>それがなんにも。結局ただの噂だったのかな。</Dialog>
+          <Dialog>それがさ、実はこんなメールが来て……。</Dialog>
+          <Dialog>メール？</Dialog>
+          <Dialog>えっ……。</Dialog>
+          <Dialog>……どう？</Dialog>
+          <Dialog>これって……幽霊からのメール……なわけ、ないよね。</Dialog>
+          <Dialog>イタズラだろうけどさ、すごいだろ。</Dialog>
+          <Dialog>あなたの仕込みじゃないでしょうね？</Dialog>
+          <Dialog>違う違う。ちゃんと他人から来たメールだって。</Dialog>
+          <Dialog>えー……じゃあこれって……。</Dialog>
+          <Dialog>（考え込んじゃった。まあ、面白がってはくれたみたいだな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4420,26 +4420,26 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey hey, you went to an amusement park together the other day, right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>ah.</Dialog>
-          <Dialog>At that time, it seemed like I had lost something.</Dialog>
-          <Dialog>picture? What did you drop?</Dialog>
-          <Dialog>A tiny drawstring bag. It was my favorite though.</Dialog>
-          <Dialog>I see... did you deliver it to the amusement park?</Dialog>
-          <Dialog>Umm... not yet.</Dialog>
-          <Dialog>why? It might have been delivered.</Dialog>
-          <Dialog>That's right, but...</Dialog>
-          <Dialog>yeah?</Dialog>
-          <Dialog>"Ghosts of the Amusement Park costume"!</Dialog>
-          <Dialog>...What is that?</Dialog>
-          <Dialog>Well, there are recent rumors... a ghost wearing a costume is picking up lost items at an amusement park after closing.</Dialog>
-          <Dialog>He's an unusual ghost.</Dialog>
-          <Dialog>What's more, if you don't get the lost items picked up by that ghost, you'll be cursed!</Dialog>
-          <Dialog>...So it wasn't delivered?</Dialog>
-          <Dialog>That's right. I'm a little worried.</Dialog>
-          <Dialog>(A ghost from an amusement park...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえねえ、この間、一緒に遊園地に行ったでしょ？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ああ。</Dialog>
+          <Dialog>そのときね、落とし物しちゃったみたい。</Dialog>
+          <Dialog>え？　何落としたの？</Dialog>
+          <Dialog>ちっちゃい巾着袋。お気に入りだったのになあ。</Dialog>
+          <Dialog>そっか……遊園地に届けた？</Dialog>
+          <Dialog>えっと……まだ。</Dialog>
+          <Dialog>なんで？　届けられてるかもしれないじゃん。</Dialog>
+          <Dialog>そうなんだけど……。</Dialog>
+          <Dialog>ん？</Dialog>
+          <Dialog>『遊園地の着ぐるみお化け』！</Dialog>
+          <Dialog>……なにそれ。</Dialog>
+          <Dialog>あのね、最近の噂で……着ぐるみを着たお化けが、閉園後の遊園地で落とし物を拾ってるって。</Dialog>
+          <Dialog>変わったお化けだな。</Dialog>
+          <Dialog>しかも、そのお化けに拾われた落し物は、直接取り戻さないと……呪われちゃうの！</Dialog>
+          <Dialog>……それで届けてないのか。</Dialog>
+          <Dialog>そうなの。ちょっと気になっちゃって。</Dialog>
+          <Dialog>（遊園地のお化けか……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4668,36 +4668,36 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Well... I've come.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Of course it's closed.</Dialog>
-          <Dialog>I wonder if they can enter.</Dialog>
-          <Dialog>Hmm, I'll just ask for it.</Dialog>
-          <Dialog>I agree…….</Dialog>
-          <Dialog>That's good. Please let me in.</Dialog>
-          <Dialog>Okay. Find it before it's too late!</Dialog>
-          <Dialog>I tried looking for it all but...</Dialog>
-          <Dialog>It's quite spacious...it's already time, so what should I do?</Dialog>
-          <Dialog>Hmm... Ah!</Dialog>
-          <Dialog>what?</Dialog>
-          <Dialog>Look... a ghost?</Dialog>
-          <Dialog>picture!?</Dialog>
-          <Dialog>Costume</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>Oh, um...</Dialog>
-          <Dialog>Hey, it's been closed already. What are you doing?</Dialog>
-          <Dialog>Huh?</Dialog>
-          <Dialog>A drawstring bag... Ah, there was.</Dialog>
-          <Dialog>Is it true? That's good, ▲Anegasaki*▲.</Dialog>
-          <Dialog>thank you.</Dialog>
-          <Dialog>No, I'm sorry. However... I kept track of it like this because it was a hassle to change clothes... Is it a rumor?</Dialog>
-          <Dialog>This is best to stop before you get scolded. So, you guys should go home early too.</Dialog>
-          <Dialog>...Good, you found it properly.</Dialog>
-          <Dialog>Yes, that's good. Plus, you won't be cursed.</Dialog>
-          <Dialog>Haha, were you quite serious?</Dialog>
-          <Dialog>Hehe, that's not the case!</Dialog>
-          <Dialog>(This is what's going to end...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>さて……来ちゃった。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>当然、閉まってるよな。</Dialog>
+          <Dialog>入れてもらえないかな。</Dialog>
+          <Dialog>んー、とりあえず頼んでみるか。</Dialog>
+          <Dialog>そうだね……。</Dialog>
+          <Dialog>よかったー。入れてくれて。</Dialog>
+          <Dialog>よし。あまり遅くならないうちに探そう！</Dialog>
+          <Dialog>一通り探してみたけど……。</Dialog>
+          <Dialog>結構広いしな……もう時間も時間だし、どうする？</Dialog>
+          <Dialog>うーん…………あっ！</Dialog>
+          <Dialog>なに？</Dialog>
+          <Dialog>見て……お化け？</Dialog>
+          <Dialog>え!?</Dialog>
+          <Dialog>着ぐるみ</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>え、えっと……。</Dialog>
+          <Dialog>おーい、もうとっくに閉園だよ。なにしてるの。</Dialog>
+          <Dialog>えっ？</Dialog>
+          <Dialog>巾着袋……ああ、あったあった。</Dialog>
+          <Dialog>ほんとですか。よかったな、▲姉ヶ崎＊▲。</Dialog>
+          <Dialog>ありがとうございます。</Dialog>
+          <Dialog>いやいや、わざわざごめんね。しかし……着替えるの面倒だから、このまま見回りしてたんだけど……噂になってたか。</Dialog>
+          <Dialog>こりゃ怒られる前にやめたほうがいいな。じゃあ、君たちも早く帰りなさい。</Dialog>
+          <Dialog>……よかったな、ちゃんと見つかって。</Dialog>
+          <Dialog>うん、よかった。それに、呪われずにすんだしね。</Dialog>
+          <Dialog>はは、結構本気にしてた？</Dialog>
+          <Dialog>ふふ、そんなことないもん！</Dialog>
+          <Dialog>（これで一件落着……だな）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4736,12 +4736,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>I've come...Hey, I wonder if I can let you in.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>I can't go in without permission... I'll look for someone to guard and ask for it.</Dialog>
-          <Dialog>Are you there... Should I give up on today?</Dialog>
-          <Dialog>Yes... can't you do it?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>来ちゃった……ねえ、入れてもらえるかな。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>勝手に入るわけにもいかないしな……警備の人探して、頼んでみよう。</Dialog>
+          <Dialog>いないか……今日のとこは諦めるか。</Dialog>
+          <Dialog>そうね……仕方ないか。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -4810,17 +4810,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Umm... you've come.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>It's not necessarily the case that they're being picked up by a ghost. Please ask at the information center if it has been delivered.</Dialog>
-          <Dialog>Yes.</Dialog>
-          <Dialog>Big sister</Dialog>
-          <Dialog>Drawstring bag...it wasn't delivered. very sorry.</Dialog>
-          <Dialog>Right, thank you very much.</Dialog>
-          <Dialog>…………</Dialog>
-          <Dialog>Is it no good... should I give up for today?</Dialog>
-          <Dialog>Hmm, there's nothing I can do about it.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>えっと……来ちゃったね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>お化けに拾われてるとは限らないしさ。案内所で、届けられてないか聞いてこよ。</Dialog>
+          <Dialog>はーい。</Dialog>
+          <Dialog>お姉さん</Dialog>
+          <Dialog>巾着袋……届けられてませんね。申し訳ありません。</Dialog>
+          <Dialog>そうですか、ありがとうございました。</Dialog>
+          <Dialog>…………。</Dialog>
+          <Dialog>ダメか……今日のところは諦めるか。</Dialog>
+          <Dialog>んー、しょうがないね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

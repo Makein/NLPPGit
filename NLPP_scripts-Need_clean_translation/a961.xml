@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<DBIN2 Key="4188833917" Unknown="26">
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="4188833917" Unknown="26">
   <Entries>
     <Entry Unknown0="1686803038" Unknown1="2186041211">
       <SDL2 Key="1533507636">
@@ -36,12 +36,12 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Friends and others</Dialog>
-          <Dialog>family</Dialog>
-          <Dialog>others</Dialog>
-          <Dialog>Select from the list</Dialog>
-          <Dialog>[DEBUG] Register as your boyfriend's face</Dialog>
-          <Dialog>▲Recommended friend name▲</Dialog>
+          <Dialog>友人その他</Dialog>
+          <Dialog>家族</Dialog>
+          <Dialog>その他</Dialog>
+          <Dialog>リストから選択</Dialog>
+          <Dialog>【DEBUG】カレシの顔として登録</Dialog>
+          <Dialog>▲紹介友達名▲</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -211,36 +211,36 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>friend</Dialog>
-          <Dialog>family</Dialog>
-          <Dialog>others</Dialog>
-          <Dialog>Select from the list</Dialog>
-          <Dialog>[DEBUG] Register as your boyfriend's face</Dialog>
-          <Dialog>▲Recommended friend name▲</Dialog>
-          <Dialog>Celebrities</Dialog>
-          <Dialog>father</Dialog>
-          <Dialog>mother</Dialog>
-          <Dialog>older brother</Dialog>
-          <Dialog>sister</Dialog>
-          <Dialog>younger brother</Dialog>
-          <Dialog>younger sister</Dialog>
-          <Dialog>son</Dialog>
-          <Dialog>daughter</Dialog>
-          <Dialog>Type A</Dialog>
-          <Dialog>Type B</Dialog>
-          <Dialog>Type AB</Dialog>
-          <Dialog>O type</Dialog>
-          <Dialog>kind</Dialog>
-          <Dialog>cold</Dialog>
-          <Dialog>Quiet</Dialog>
-          <Dialog>noisy</Dialog>
-          <Dialog>Seriously</Dialog>
-          <Dialog>funny</Dialog>
-          <Dialog>It's naughty</Dialog>
-          <Dialog>register</Dialog>
-          <Dialog>I'll try again</Dialog>
-          <Dialog />
-          <Dialog />
+          <Dialog>友人</Dialog>
+          <Dialog>家族</Dialog>
+          <Dialog>その他</Dialog>
+          <Dialog>リストから選択</Dialog>
+          <Dialog>【DEBUG】カレシの顔として登録</Dialog>
+          <Dialog>▲紹介友達名▲</Dialog>
+          <Dialog>有名人</Dialog>
+          <Dialog>父</Dialog>
+          <Dialog>母</Dialog>
+          <Dialog>兄</Dialog>
+          <Dialog>姉</Dialog>
+          <Dialog>弟</Dialog>
+          <Dialog>妹</Dialog>
+          <Dialog>息子</Dialog>
+          <Dialog>娘</Dialog>
+          <Dialog>Ａ型</Dialog>
+          <Dialog>Ｂ型</Dialog>
+          <Dialog>ＡＢ型</Dialog>
+          <Dialog>Ｏ型</Dialog>
+          <Dialog>やさしい</Dialog>
+          <Dialog>冷たい</Dialog>
+          <Dialog>物静か</Dialog>
+          <Dialog>騒がしい</Dialog>
+          <Dialog>まじめ</Dialog>
+          <Dialog>おもしろい</Dialog>
+          <Dialog>いやらしい</Dialog>
+          <Dialog>登録する</Dialog>
+          <Dialog>やり直す</Dialog>
+          <Dialog>○</Dialog>
+          <Dialog>×</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -296,13 +296,13 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>How long have you been dating?</Dialog>
-          <Dialog>What is your boyfriend's favorite?</Dialog>
-          <Dialog>What have you been happy about recently?</Dialog>
-          <Dialog>What about your concerns?</Dialog>
-          <Dialog>What are your hobbies?</Dialog>
-          <Dialog>What is your favorite dish?</Dialog>
-          <Dialog>How old is it?</Dialog>
+          <Dialog>付き合ってどのくらい？</Dialog>
+          <Dialog>カレシの好きなとこは？</Dialog>
+          <Dialog>最近うれしかったことは？</Dialog>
+          <Dialog>悩みは？</Dialog>
+          <Dialog>趣味は？</Dialog>
+          <Dialog>好きな料理は？</Dialog>
+          <Dialog>年齢は？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -490,22 +490,22 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog />
-          <Dialog />
-          <Dialog>nice to meet you</Dialog>
-          <Dialog>different</Dialog>
-          <Dialog>Type A</Dialog>
-          <Dialog>Type B</Dialog>
-          <Dialog>Type O</Dialog>
-          <Dialog>Type AB</Dialog>
-          <Dialog>Passionate</Dialog>
-          <Dialog>rough</Dialog>
-          <Dialog>Natural</Dialog>
-          <Dialog>Meticulous</Dialog>
-          <Dialog>It's flying</Dialog>
-          <Dialog>selfish</Dialog>
-          <Dialog>Introducing to others</Dialog>
-          <Dialog>I'll end it</Dialog>
+          <Dialog>○</Dialog>
+          <Dialog>×</Dialog>
+          <Dialog>よろしく</Dialog>
+          <Dialog>ちがう</Dialog>
+          <Dialog>A型</Dialog>
+          <Dialog>B型</Dialog>
+          <Dialog>O型</Dialog>
+          <Dialog>AB型</Dialog>
+          <Dialog>情熱的</Dialog>
+          <Dialog>大雑把</Dialog>
+          <Dialog>天然</Dialog>
+          <Dialog>几帳面</Dialog>
+          <Dialog>ぶっ飛んでる</Dialog>
+          <Dialog>自分勝手</Dialog>
+          <Dialog>他の人に紹介する</Dialog>
+          <Dialog>終わりにする</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>

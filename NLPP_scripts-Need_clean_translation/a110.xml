@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<DBIN2 Key="3053010932" Unknown="21">
+<?xml version="1.0" encoding="utf-8"?>
+<DBIN2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="3053010932" Unknown="21">
   <Entries>
     <Entry Unknown0="3380763773" Unknown1="937898732">
       <SDL2 Key="1598927445">
@@ -86,18 +86,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, isn't your throat dry? Shall I buy something?</Dialog>
-          <Dialog>nice to meet you!</Dialog>
-          <Dialog>●He's going!</Dialog>
-          <Dialog>Anything is fine? Please wait a little.</Dialog>
-          <Dialog>Sorry for the wait, husband ▼</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Huh? Um, will you praise me?</Dialog>
-          <Dialog>Hehe, a weird reply.</Dialog>
-          <Dialog>So let's go with you.</Dialog>
-          <Dialog>It's fine to rest.</Dialog>
-          <Dialog>That's fine, I don't want to leave.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、のど乾かない？　何か買ってこようか。</Dialog>
+          <Dialog>よろしく！</Dialog>
+          <Dialog>●が行くって！</Dialog>
+          <Dialog>何でもいい？　少し待っててね。</Dialog>
+          <Dialog>お待たせしました、旦那さま▼</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>えっ？　えーと、誉めてつかわす？</Dialog>
+          <Dialog>ふふ、ヘンな返事。</Dialog>
+          <Dialog>じゃあ、一緒に行こ。</Dialog>
+          <Dialog>休んでていいのに。</Dialog>
+          <Dialog>いいの、離れたくないんだもん。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -191,19 +191,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Oh, the bench is empty. Don't you take a little rest?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>OK.</Dialog>
-          <Dialog>Whew, you walked quite a bit.</Dialog>
-          <Dialog>Let's take it easy</Dialog>
-          <Dialog>Okay, I'll go after a little rest!</Dialog>
-          <Dialog>Are you noticed by me? It's okay, just take a little rest.</Dialog>
-          <Dialog>That's fine, your legs are tired, aren't they?</Dialog>
-          <Dialog>I was trying not to notice anymore. thank you.</Dialog>
-          <Dialog>Yes, yes, are you fine?</Dialog>
-          <Dialog>Because he's a boy!</Dialog>
-          <Dialog>It's reliable. So, if I'm tired, why don't you just wear it?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あ、ベンチが空いてる。少し休まない？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>オッケー。</Dialog>
+          <Dialog>ふぅ、結構歩いたね。</Dialog>
+          <Dialog>ゆっくりしてこう</Dialog>
+          <Dialog>よし、少し休んだら行くぞ！</Dialog>
+          <Dialog>私に気つかってる？　大丈夫だよ、少し休めば。</Dialog>
+          <Dialog>いいって、脚疲れたでしょ。</Dialog>
+          <Dialog>もう、気付かれないようにしてたのにな。ありがとう。</Dialog>
+          <Dialog>はいはい、元気だね？</Dialog>
+          <Dialog>男の子だからな！</Dialog>
+          <Dialog>頼もしいんだ。じゃあ、私が疲れちゃったらおぶってね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -282,17 +282,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Wow, it's getting a little hotter. Maybe I'll take off one piece.</Dialog>
-          <Dialog>Please</Dialog>
-          <Dialog>You have to be careful of sunburn</Dialog>
-          <Dialog>I wonder if that's what you say... Well, it's okay.</Dialog>
-          <Dialog>Haa.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's nice, it looks cool. ●I wonder if I'll take off too.</Dialog>
-          <Dialog>Yes. Do you prefer fair skin?</Dialog>
-          <Dialog>That's not the case, but you sometimes worry about it, right?</Dialog>
-          <Dialog>It's the enemy of the skin. Hehe, he's taking care of me.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ふぅ、少し暑くなってきちゃった。一枚脱いじゃおうかな。</Dialog>
+          <Dialog>どうぞどうぞ</Dialog>
+          <Dialog>日焼けには気をつけないと</Dialog>
+          <Dialog>なんだか、そういう言い方されるとなあ……。まあ、いっか。</Dialog>
+          <Dialog>はあっ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>いいな、涼しそうで。●も脱ごうかな。</Dialog>
+          <Dialog>はーい。色白なほうが、好き？</Dialog>
+          <Dialog>そういうわけじゃないけど、たまに気にしてるだろ？</Dialog>
+          <Dialog>お肌の大敵ですから。ふふ、気をつかってくれるんだ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -371,17 +371,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's a little cold today...</Dialog>
-          <Dialog>Okay, come on!</Dialog>
-          <Dialog>It's Oshira Manju!</Dialog>
-          <Dialog>Yes, I'll go.</Dialog>
-          <Dialog>...Haha, it's warm.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>...Yeah, too.</Dialog>
-          <Dialog>Shall we do it?</Dialog>
-          <Dialog>Okay, I won't lose!</Dialog>
-          <Dialog>...Is there a win or loss? Well, that's fine, yeah!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>今日は少し寒いね……。</Dialog>
+          <Dialog>よし、来い！</Dialog>
+          <Dialog>おしくらまんじゅうだ！</Dialog>
+          <Dialog>はい、行きます。</Dialog>
+          <Dialog>……ふふ、あったかい。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……うん、●も。</Dialog>
+          <Dialog>やっちゃう？</Dialog>
+          <Dialog>よし、負けないぞ！</Dialog>
+          <Dialog>……勝ち負けってあるの？　まあいいや、えいっ！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -465,18 +465,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Ah, the shop is out. Can I take a look a little?</Dialog>
-          <Dialog>Ah, take your time</Dialog>
-          <Dialog>● is coming</Dialog>
-          <Dialog>Well, I'll go then. Wait for a good girl?</Dialog>
-          <Dialog>Thank you for waiting. He was a good girl, so I bought her properly.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Yes!</Dialog>
-          <Dialog>● is coming, wait.</Dialog>
-          <Dialog>So I'll go too.</Dialog>
-          <Dialog>Hmm, did you buy too much?</Dialog>
-          <Dialog>I wonder... okay, boy, right?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あ、お店が出てる。少し見てきてもいい？</Dialog>
+          <Dialog>ああ、ごゆっくり</Dialog>
+          <Dialog>●が行ってくるって</Dialog>
+          <Dialog>じゃあ、行ってくるね。いい子で待ってなさい？</Dialog>
+          <Dialog>お待たせ。いい子にしてたから、ちゃんと買ってきてあげたよ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>やった！</Dialog>
+          <Dialog>●が行ってくるよ、待ってて。</Dialog>
+          <Dialog>じゃあ、私も行く。</Dialog>
+          <Dialog>んー、買い過ぎた？</Dialog>
+          <Dialog>どうかな……大丈夫、男の子でしょ？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -560,18 +560,18 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Ah, kitten. Look, it's so cute</Dialog>
-          <Dialog>▲Anegasaki*▲ is better...</Dialog>
-          <Dialog>● is better...</Dialog>
-          <Dialog>picture?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>...Nothing.</Dialog>
-          <Dialog>I could hear it. ……thank you.</Dialog>
-          <Dialog>What? Did you get jealous of the kitten?</Dialog>
-          <Dialog>That's not the case, but...</Dialog>
-          <Dialog>There's nothing I can do about it now. Well, I'll tell you too. Cute ▼</Dialog>
-          <Dialog>(...This might be good as it is)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あっ、子猫。見て見て、かわいい～▼</Dialog>
+          <Dialog>▲姉ヶ崎＊▲のほうが……</Dialog>
+          <Dialog>●のほうが……</Dialog>
+          <Dialog>え？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>……なんでもない。</Dialog>
+          <Dialog>聞こえちゃった。……ありがと。</Dialog>
+          <Dialog>なあに？　子猫に嫉妬しちゃった？</Dialog>
+          <Dialog>そういうわけじゃないけど……。</Dialog>
+          <Dialog>もう、しょうがないなあ。じゃあ、あなたにも言ってあげる。かわいい～▼</Dialog>
+          <Dialog>（……これはこれで、いいかも）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -660,19 +660,19 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Wow, the sun is strong. It looks like it's going to burn...</Dialog>
-          <Dialog>I'll apply sunscreen</Dialog>
-          <Dialog>I'll apply sun oil</Dialog>
-          <Dialog>Yes, you need to thoroughly prevent UV rays.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Then...</Dialog>
-          <Dialog>You can paint it yourself!</Dialog>
-          <Dialog>(Cheer)</Dialog>
-          <Dialog>My tanned skin is nice, hmm.</Dialog>
-          <Dialog>That's right, that's why ●...</Dialog>
-          <Dialog>yeah?</Dialog>
-          <Dialog>...It's nothing.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>わあ、日差しが強いね。焼けそう……。</Dialog>
+          <Dialog>日焼け止め塗ってあげる</Dialog>
+          <Dialog>サンオイル塗ってあげる</Dialog>
+          <Dialog>そうね、しっかり紫外線予防しなくちゃ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>じゃあ……。</Dialog>
+          <Dialog>自分で塗れます！</Dialog>
+          <Dialog>（ちぇー）</Dialog>
+          <Dialog>小麦色の肌がいいんだ、ふーん。</Dialog>
+          <Dialog>そうそう、だから●が……。</Dialog>
+          <Dialog>ん？</Dialog>
+          <Dialog>……なんでもないです。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -731,15 +731,15 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The view is beautiful... Hey, let's take a photo.</Dialog>
-          <Dialog>I'll take a picture</Dialog>
-          <Dialog>Let someone take a picture</Dialog>
-          <Dialog>Yes, thank you. I'd be fine with a bonus.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What are you talking about? The bonus is the view.</Dialog>
-          <Dialog>Together together? Yes, that's good.</Dialog>
-          <Dialog>Okay. So... sorry!</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>景色、きれいだね……。ねえ、写真撮ろっか。</Dialog>
+          <Dialog>撮ってあげるよ</Dialog>
+          <Dialog>誰かに撮ってもらおう</Dialog>
+          <Dialog>うん、ありがとう。私はオマケでいいからね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>何言ってんの。オマケは景色だって。</Dialog>
+          <Dialog>二人で一緒に？　うん、それがいいね。</Dialog>
+          <Dialog>よし。じゃあ……すいませーん！</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -808,16 +808,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Wow, it's a huge crowd... It's a popular place.</Dialog>
-          <Dialog>Everyone thinks the same thing</Dialog>
-          <Dialog>I'm not going to bother someone to rub me...</Dialog>
-          <Dialog>I agree. I guess it's a classic date.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Well, it's probably a little more lively.</Dialog>
-          <Dialog>We're the same kind too, right?</Dialog>
-          <Dialog>...That's right.</Dialog>
-          <Dialog>Maybe everyone thinks the same thing.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>わあ、すごい人混み……。人気の場所なんだね。</Dialog>
+          <Dialog>みんな考えることは同じだな</Dialog>
+          <Dialog>わざわざ人に揉まれに来るなんて……</Dialog>
+          <Dialog>そうだね。デートの定番ってことなのかな。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>まあ、少し賑やかなくらいの方がいっか。</Dialog>
+          <Dialog>私たちも同類だよ？</Dialog>
+          <Dialog>……だな。</Dialog>
+          <Dialog>みんな同じようなこと思ってるのかもしれないね。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -896,17 +896,17 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's kind of quiet. Maybe it's not very popular?</Dialog>
-          <Dialog>It's a good day, lucky!</Dialog>
-          <Dialog>It's a bit lonely...</Dialog>
-          <Dialog>That's right. Is it possible to be alone with you two?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>oh yeah.</Dialog>
-          <Dialog>Thinking is the same.</Dialog>
-          <Dialog>I'm fine with you.</Dialog>
-          <Dialog>Well, the same goes for ●.</Dialog>
-          <Dialog>Maybe it's better to have only two people?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>なんだか閑散としてるね。あまり人気がないのかな？</Dialog>
+          <Dialog>いい日に来たな、ラッキー！</Dialog>
+          <Dialog>ちょっと寂しいな……</Dialog>
+          <Dialog>そうね。二人きりになれそうだし？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうそう。</Dialog>
+          <Dialog>考えることは一緒だね。</Dialog>
+          <Dialog>私はあなたがいれば、十分。</Dialog>
+          <Dialog>まあ、●もそうだな。</Dialog>
+          <Dialog>いっそ、二人しかいないほうがいいかもね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -975,16 +975,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>The rain is a shame. I prayed for the sunny weather...</Dialog>
-          <Dialog>Even rain doesn't matter!</Dialog>
-          <Dialog>Sometimes rain can be good</Dialog>
-          <Dialog>You're fine. Blow away the rain with all your energy!</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Ou!</Dialog>
-          <Dialog>What are good things?</Dialog>
-          <Dialog>Right, um, a combination umbrella?</Dialog>
-          <Dialog>n/a. Yes, it's okay to be honest.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>雨、残念だね。晴れますようにってお祈りしたんだけどな……。</Dialog>
+          <Dialog>雨でも問題なし！</Dialog>
+          <Dialog>雨でいいこともあるよ</Dialog>
+          <Dialog>元気だね。その元気で雨吹き飛ばしちゃえ！</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>おう！</Dialog>
+          <Dialog>いいことって、どんな？</Dialog>
+          <Dialog>そうだな、えっと、相合傘とか？</Dialog>
+          <Dialog>ふふ。そうね、素直でよろしい。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1053,16 +1053,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, can I stop by your house today?</Dialog>
-          <Dialog>of course</Dialog>
-          <Dialog>A little bit today...</Dialog>
-          <Dialog>happy. Well then, I'll come and visit you ▼</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Haha, it's not a big deal.</Dialog>
-          <Dialog>Understood. It's messy isn't it?</Dialog>
-          <Dialog>Well, that's what it is.</Dialog>
-          <Dialog>I don't care about that anymore. So, let's take the next opportunity, right?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、今日、あなたの家に寄ってもいい？</Dialog>
+          <Dialog>もちろん</Dialog>
+          <Dialog>今日はちょっと……</Dialog>
+          <Dialog>嬉しい。それじゃ、お邪魔します▼</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>はは、大したもんじゃないけど。</Dialog>
+          <Dialog>わかった。散らかってるんでしょ。</Dialog>
+          <Dialog>まあ、そんなとこ。</Dialog>
+          <Dialog>もう、そんなの気にしないのに。じゃあ、次の機会にね？</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1191,24 +1191,24 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, I'm doing fortune telling. Don't you see compatibility?</Dialog>
-          <Dialog>That's fine, I don't believe it</Dialog>
-          <Dialog>Looks interesting</Dialog>
-          <Dialog>yes? If you think so, that's fine.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>oh yeah. I don't need it anymore.</Dialog>
-          <Dialog>It's thrilling.</Dialog>
-          <Dialog>fortune teller</Dialog>
-          <Dialog>The two are incredible compatibility, and we are sure to have a bright future!</Dialog>
-          <Dialog>Amazing, it's the best! In the future...</Dialog>
-          <Dialog>(▲Anegasaki*▲, you're so enchanting...)</Dialog>
-          <Dialog>The two are good friends, and they'll probably work out well.</Dialog>
-          <Dialog>Yes, it's going well. ...But maybe it's a little unsatisfied?</Dialog>
-          <Dialog>It's good, so it's enough. ●It depends on the person.</Dialog>
-          <Dialog>Their compatibility... gross!</Dialog>
-          <Dialog>...Hey, what does that mean?</Dialog>
-          <Dialog>Umm... I wonder what it's like.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、占いやってる。相性見てもらわない？</Dialog>
+          <Dialog>別にいいよ、信じてないし</Dialog>
+          <Dialog>面白そうだな</Dialog>
+          <Dialog>そう？　あなたがそう思ってるなら、いいけど。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そうそう。いまさら必要ないって。</Dialog>
+          <Dialog>ドキドキするね。</Dialog>
+          <Dialog>占い師</Dialog>
+          <Dialog>二人の相性は最高、明るい将来は確実です！</Dialog>
+          <Dialog>すごい、最高だって！　将来かあ……。</Dialog>
+          <Dialog>（▲姉ヶ崎＊▲、うっとりしてるな……）</Dialog>
+          <Dialog>二人の相性はいいほうです、きっと上手くいくでしょう。</Dialog>
+          <Dialog>うん、上手くいくって。……でもちょっと物足りないかな？</Dialog>
+          <Dialog>いいほうなんだから充分だって。●たち次第だからさ。</Dialog>
+          <Dialog>二人の相性は……ゴホゴホッ！</Dialog>
+          <Dialog>……ねえ、どういうことかな？</Dialog>
+          <Dialog>えっと……どうなんだろ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1267,15 +1267,15 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Flowers are blooming here. That's cute.</Dialog>
-          <Dialog>Wow, well found it</Dialog>
-          <Dialog>Speaking of cute...</Dialog>
-          <Dialog>Yes, it looks like I was called. I wonder if it was lonely because it bloomed in an inconspicuous place. Right?</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(cute……)</Dialog>
-          <Dialog>Speaking of cuteness...▲Anegasaki*▲ is the one that's more.</Dialog>
-          <Dialog>Hehe, I'm embarrassed as I said. Which is cuter now?</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>こんなところに花が咲いてる。かわいいね。</Dialog>
+          <Dialog>へえ、よく見つけたね</Dialog>
+          <Dialog>かわいいと言えば……</Dialog>
+          <Dialog>うん、呼ばれたみたい。目立たないところに咲いちゃって、寂しかったのかな。ねー？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（かわいい……）</Dialog>
+          <Dialog>かわいいと言えば……▲姉ヶ崎＊▲の方が。</Dialog>
+          <Dialog>ふふ、言いながら照れてる。もう、どっちがかわいいのよ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1334,15 +1334,15 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Huh? A child coming from over there... he's a classmate.</Dialog>
-          <Dialog>Okay, shall we show you?</Dialog>
-          <Dialog>It's dangerous, hide!</Dialog>
-          <Dialog>It's no longer embarrassing. ...Don't worry about it.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(I guess it's too much...)</Dialog>
-          <Dialog>There's no need to be embarrassed. Looks like you went over there?</Dialog>
-          <Dialog>(Don't be proud, ▲Anegasaki*▲...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あれ？　あっちから来る子……クラスメイトだ。</Dialog>
+          <Dialog>よし、見せつけてやるか！</Dialog>
+          <Dialog>ヤバい、隠れろ！</Dialog>
+          <Dialog>もう、恥ずかしいじゃない。……知らんぷりしちゃお。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（さすがにやりすぎか……）</Dialog>
+          <Dialog>照れなくてもいいのに。向こうに行っちゃったみたいよ？</Dialog>
+          <Dialog>（堂々としてるな、▲姉ヶ崎＊▲……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1401,15 +1401,15 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, shall I clean it?</Dialog>
-          <Dialog>That's what happens to customers...</Dialog>
-          <Dialog>Really? Yes!</Dialog>
-          <Dialog>I'm happy that they take care of me, but I feel sad when I treat them as a customer. So, someday.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>Sorry, that didn't mean that...</Dialog>
-          <Dialog>There's no need to be shy anymore. That's fine though ▼</Dialog>
-          <Dialog>Yes.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、お掃除してあげようか？</Dialog>
+          <Dialog>お客様にそんなこと……</Dialog>
+          <Dialog>ホント？　やった！</Dialog>
+          <Dialog>気をつかってくれるのは嬉しいけど、お客様扱いは寂しいな。じゃあ、そのうちね。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ごめん、そういう意味じゃなかったんだけど……。</Dialog>
+          <Dialog>もう、遠慮がないね。それでいいんだけど▼</Dialog>
+          <Dialog>はーい。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1473,16 +1473,16 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>It's a cozy room. I'm going to want to do it forever.</Dialog>
-          <Dialog>What if you stay forever?</Dialog>
-          <Dialog>That's a bit...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>What if you stay forever? Even if it's late, I'll send it properly.</Dialog>
-          <Dialog>...I'm already innocent. I was thrilled for a moment.</Dialog>
-          <Dialog>?</Dialog>
-          <Dialog>I'm not going to take it seriously anymore. I don't want to bother you either.</Dialog>
-          <Dialog>(I think I've been thinking too deeply about it)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>居心地のいい部屋だね。ずっといたくなっちゃうな。</Dialog>
+          <Dialog>ずっといれば？</Dialog>
+          <Dialog>それはちょっと……</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>ずっといれば？　遅くなっても、ちゃんと送るからさ。</Dialog>
+          <Dialog>……もう、無邪気なんだから。一瞬ドキっとしちゃった。</Dialog>
+          <Dialog>？</Dialog>
+          <Dialog>もう、本気にしないの。私だって、あなたのこと困らせたくはないし。</Dialog>
+          <Dialog>（……深く考えすぎたかな）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1541,15 +1541,15 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Hey, can I look at my bookshelf?</Dialog>
-          <Dialog>Please do as much as you like</Dialog>
-          <Dialog>It's definitely not possible!</Dialog>
-          <Dialog>It's going to be OK quickly. I thought I was going to panic.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(There's no need to panic...)</Dialog>
-          <Dialog>I want to see albums from when you were little. No way?</Dialog>
-          <Dialog>(That kind of thing is kind of embarrassing...)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ねえ、本棚見てもいい？</Dialog>
+          <Dialog>どうぞいくらでも</Dialog>
+          <Dialog>絶対ダメ！</Dialog>
+          <Dialog>あっさりオーケーしちゃうんだ。慌てると思ったのになあ。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（慌てる必要はない……はず）</Dialog>
+          <Dialog>あなたが小さい頃のアルバムとか、見たいなー。ダメ？</Dialog>
+          <Dialog>（そういうの、なんか恥ずかしいんだよな……）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1608,15 +1608,15 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Think of it as your own home and relax.</Dialog>
-          <Dialog>I've been relaxing for a while</Dialog>
-          <Dialog>Even if you say that...</Dialog>
-          <Dialog>It doesn't mean to be sloppy, right? Hehe, it's like a child.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>(It's kind of calming down...)</Dialog>
-          <Dialog>You should just stay as usual. Look, it's not scary, it's not scary.</Dialog>
-          <Dialog>(...I'm treated like a child)</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>自分の家だと思って、くつろいでね。</Dialog>
+          <Dialog>とっくにくつろいでまーす</Dialog>
+          <Dialog>そう言われても……</Dialog>
+          <Dialog>だらしなくしなさいって意味じゃないですからね？　ふふ、子供みたい。</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>（なんか落ち着くんだよな……）</Dialog>
+          <Dialog>いつも通りでいればいいの。ほら、怖くない、怖くない。</Dialog>
+          <Dialog>（……子供扱いされてる）</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1675,15 +1675,15 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>Do you need a variety of things that are just for you?</Dialog>
-          <Dialog>That kind of thing is good</Dialog>
-          <Dialog>It's all wrong...</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That kind of thing is nice, it's like a couple.</Dialog>
-          <Dialog>It's not like that. Right?</Dialog>
-          <Dialog>yes? I'm having fun though...</Dialog>
-          <Dialog>There's no need to push yourself too hard.</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>あなた専用のもの、色々必要かな？</Dialog>
+          <Dialog>そういうの、いいよな</Dialog>
+          <Dialog>わざわざ、悪いよ……</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>そういうのいいね、カップルっぽくてさ。</Dialog>
+          <Dialog>っぽいじゃありません。でしょ？</Dialog>
+          <Dialog>そう？　私は楽しいのにな……。</Dialog>
+          <Dialog>無理しなくても、いいからさ。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -1742,15 +1742,15 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>Anegasaki</Dialog>
-          <Dialog>sorry. It's messy isn't it?</Dialog>
-          <Dialog>That's not the case at all</Dialog>
-          <Dialog>It's much more beautiful than I thought</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>If this was messy, then ●'s room...</Dialog>
-          <Dialog>If you live a sloppy life, you'll be overwhelmed by it, right?</Dialog>
-          <Dialog>More than you thought? That's terrible, what did you imagine?</Dialog>
-          <Dialog>Hahaha...</Dialog>
+          <Dialog>姉ヶ崎</Dialog>
+          <Dialog>ごめんなさい。散らかってるでしょ。</Dialog>
+          <Dialog>全然そんなことないよ</Dialog>
+          <Dialog>思ってたよりずっとキレイ</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>これで散らかってたら、●の部屋は……。</Dialog>
+          <Dialog>こら、だらしない生活してると、押しかけちゃうぞ？</Dialog>
+          <Dialog>思ってたより？　ひどいな、どんな想像してたの？</Dialog>
+          <Dialog>ははは……。</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
