@@ -1,4 +1,4 @@
-<？xml version='1.0' encoding='utf-8'？>
+<?xml version="1.0" encoding="utf-8"?>
 <DBIN2 Key="2041995114" Unknown="45">
   <Entries>
     <Entry Unknown0="3171995957" Unknown1="2360913413">
@@ -60,7 +60,8 @@
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>The message number is different.</Dialog>
+          <Dialog>The message number is
+different.</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -439,8 +440,10 @@
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>Kiss reaction message number error</Dialog>
-          <Dialog>Message number error for kissing dialogue</Dialog>
+          <Dialog>Kiss reaction message
+number error</Dialog>
+          <Dialog>Message number error
+for kissing dialogue</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -471,8 +474,10 @@
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>Kiss reaction message number error</Dialog>
-          <Dialog>Message number error for kissing dialogue</Dialog>
+          <Dialog>Kiss reaction message
+number error</Dialog>
+          <Dialog>Message number error
+for kissing dialogue</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -503,8 +508,10 @@
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>Kiss reaction message number error</Dialog>
-          <Dialog>Message number error for kissing dialogue</Dialog>
+          <Dialog>Kiss reaction message
+number error</Dialog>
+          <Dialog>Message number error
+for kissing dialogue</Dialog>
         </Dialogs>
       </SDL2>
     </Entry>
@@ -633,10 +640,16 @@
         <Dialogs>
           <Dialog>○○○○</Dialog>
           <Dialog>Short kiss</Dialog>
-          <Dialog>Standing face-to-face conversation (2D)</Dialog>
-          <Dialog>Standing face-to-face conversation (3D)</Dialog>
-          <Dialog>Sitting face to face (face-to-face conversation)</Dialog>
-          <Dialog>Side-side conversation (when sitting next to each other, such as on a date)</Dialog>
+          <Dialog>Standing face-to-face
+conversation (2D)</Dialog>
+          <Dialog>Standing face-to-face
+conversation (3D)</Dialog>
+          <Dialog>Sitting face to face
+(face-to-face conversation)</Dialog>
+          <Dialog>Side-side conversation
+(when sitting next to
+each other, such as on
+a date)</Dialog>
           <Dialog>once again</Dialog>
           <Dialog>Stop it</Dialog>
           <Dialog>to the next</Dialog>
